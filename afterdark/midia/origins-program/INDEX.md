@@ -2,6 +2,8 @@
 
 Generated 2026-10-06T20:24:20-03:00 from `Origins Program ($0-$100k mo)`. See [README.md](README.md) for how this library was built and [PROCESSING_REPORT.md](PROCESSING_REPORT.md) for completeness and flagged sections.
 
+**Leia primeiro:** [REGRAS.md](REGRAS.md) (regras destiladas por categoria, com citações).
+
 Legend: **T** transcript (Markdown / JSON / SRT), **V** visual notes + screenshots, **S** summary, **P** lesson page text.
 
 ## Contents
