@@ -1,0 +1,2629 @@
+{
+  "lesson": {
+    "num": 64,
+    "id": "064-how-to-write-a-video-ad-part-1",
+    "title": "How to write a video ad - Part 1",
+    "section": "📢 How To Create Ads",
+    "video": "64. How to write a video ad - Part 1 Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1542.123,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=11072bc4558241e4966f53d289db28cf"
+  },
+  "generated_at": "2026-10-06T20:24:08-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (95% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 6576,
+    "matched_tokens": 6240,
+    "match_ratio": 0.949,
+    "segments_aligned": 278,
+    "segments_partly_aligned": 1,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 336.596,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 262.4,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 336.596,
+      "end": 645.695,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 240.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 645.695,
+      "end": 919.353,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 253.6,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 919.353,
+      "end": 1239.371,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.996,
+      "wpm": 220.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1239.371,
+      "end": 1542.123,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 264.5,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.3,
+      "speaker": "Presenter",
+      "text": "All right guys, so in this video I'm going to be walking through part one of how to use the prompt that you guys are going to be given here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 6.88,
+      "end": 13.34,
+      "speaker": "Presenter",
+      "text": "It's basically been beginner-ified, if that makes sense, to help you guys like really be actionable.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 14.04,
+      "end": 19.92,
+      "speaker": "Presenter",
+      "text": "And it understands that a lot of you guys don't have probably a lot of content, you probably don't have a content creator, you probably you know don't want to film it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 20.04,
+      "end": 24.46,
+      "speaker": "Presenter",
+      "text": "And so we're going to get into like how to actually edit the videos and stuff like that as well and we'll get into that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 24.6,
+      "end": 32.78,
+      "speaker": "Presenter",
+      "text": "But for the sake of this prompt and for the sake of this video, I'm just going to show you how to run it and to help you understand kind of what is happening and then show you basically how to use it, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 33.12,
+      "end": 37.88,
+      "speaker": "Presenter",
+      "text": "And so again, you're going to need to make sure that you have your master doc here and you guys should always be doing research, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 37.9,
+      "end": 53.6,
+      "speaker": "Presenter",
+      "text": "So for example, one thing that I didn't do here that I want to call out is that when I came up with my new ad idea to do an iteration of this angle here, or this sub-avatar test, because this sub-avatar test is over and we're going to kind of walk through it,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 54.12,
+      "end": 60.18,
+      "speaker": "Presenter",
+      "text": "I want to make sure you guys understand that you should be doing more research after you gain direction, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 60.46,
+      "end": 65.48,
+      "speaker": "Presenter",
+      "text": "And so, for example, this batch one, you guys saw me do this in the image section, we tested these three different angles.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 65.48,
+      "end": 70.38,
+      "speaker": "Presenter",
+      "text": "And what I actually found is that this angle specifically is the one that did the best.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 70.38,
+      "end": 74.84,
+      "speaker": "Presenter",
+      "text": "Now, I'm going to make sure that this just loads in the Meta side of things. It does, beautiful.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 75.64,
+      "end": 77.74,
+      "speaker": "Presenter",
+      "text": "And here, this was the one that did the best.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 77.78,
+      "end": 81.22,
+      "speaker": "Presenter",
+      "text": "It said, \"Eating only 1,200 calories is easy with Aglomera,\" right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 81.52,
+      "end": 85.04,
+      "speaker": "Presenter",
+      "text": "And so this was the ad that actually outperformed all the other ones.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 85.04,
+      "end": 92.02,
+      "speaker": "Presenter",
+      "text": "Now, how much did it outperform? Well, it didn't actually get that much spend. It got like, I don't know, it was like less than 5% of spend, or 5% of spend.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 92.22,
+      "end": 97.3,
+      "speaker": "Presenter",
+      "text": "It did get some purchases, so the purchases were profitable, so it actually is like still running in the account, but it wasn't an ad that scaled.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 97.84,
+      "end": 100.52,
+      "speaker": "Presenter",
+      "text": "And all I care about, if you ask me at least, is an ad that scales.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 100.9,
+      "end": 105.0,
+      "speaker": "Presenter",
+      "text": "And like, for this client, obviously they're at a little bit more scale than most of you guys are going to be, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 105.26,
+      "end": 111.36,
+      "speaker": "Presenter",
+      "text": "But the point is, is that they're still, you know, at a scale where it's like, you know, we're not spending 30k a day, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 111.54,
+      "end": 115.78,
+      "speaker": "Presenter",
+      "text": "And so, what I want you to know here is, is I process learnings, and this is exactly how you guys will do this.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 115.9,
+      "end": 122.4,
+      "speaker": "Presenter",
+      "text": "So I'm calling this a losing ad again, because it didn't get turned off after seven days, but it had less than 10% of the total ad spend, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 122.8,
+      "end": 131.4,
+      "speaker": "Presenter",
+      "text": "And so, out of these specific headlines and angles that we tested, I noticed that the \"Eating only 1,200 calories is easy\" actually got the majority of spend.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 131.44,
+      "end": 133.74,
+      "speaker": "Presenter",
+      "text": "And so here were my learnings, just so you guys can see, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 134.0,
+      "end": 139.76,
+      "speaker": "Presenter",
+      "text": "Unfortunately, this did not get significant spend. They did get some purchases, however it was much more like retargeting-based and not very scalable.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 140.36,
+      "end": 145.16,
+      "speaker": "Presenter",
+      "text": "And how did I do that? Well, I saw it was more retargeting-based because like the frequency was decently high, and again,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 145.92,
+      "end": 151.38,
+      "speaker": "Presenter",
+      "text": "it was getting purchases, but it wasn't sucking up a bunch of spend. And so that tells me it's likely more retargeting-based, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 151.76,
+      "end": 156.76,
+      "speaker": "Presenter",
+      "text": "Now, out of the hooks that I tested for the image ads, \"Eating only 1,200 calories is easy\" is what actually performed the best.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 156.78,
+      "end": 160.74,
+      "speaker": "Presenter",
+      "text": "It got the most spend, and it actually was the only version of the ads that actually got purchases.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 161.16,
+      "end": 165.54,
+      "speaker": "Presenter",
+      "text": "But again, this is still not great, CTR was below 1%, so that's actual click-through, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 165.88,
+      "end": 169.32,
+      "speaker": "Presenter",
+      "text": "And I think overall this ad failed. This is just kind of like the more data driven, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 169.66,
+      "end": 174.16,
+      "speaker": "Presenter",
+      "text": "But I think this ad failed because it's just a very basic ad, right? It's not anything crazy, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 174.68,
+      "end": 179.32,
+      "speaker": "Presenter",
+      "text": "It doesn't really make me feel anything too power- I'm like, \"Woah,\" like, you know, this does make me feel",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 179.32,
+      "end": 184.68,
+      "speaker": "Presenter",
+      "text": "maybe a little bit bad, where I'm like, \"Oh, well how,\" you know, like, \"It's not easy for me. Like good for you,\" you know what I'm saying?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 184.68,
+      "end": 188.94,
+      "speaker": "Presenter",
+      "text": "And again, always just try to take the customer's perspective. But going back here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 189.14,
+      "end": 192.56,
+      "speaker": "Presenter",
+      "text": "I think overall this ad failed because it's a very basic ad. It didn't really have much going on in it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 192.64,
+      "end": 201.74,
+      "speaker": "Presenter",
+      "text": "I feel like there was a lot on the ad, and on top of that, I don't really think- and when I say there wasn't much going on in it, I mean like it was just very, very simple ad.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 201.74,
+      "end": 208.6,
+      "speaker": "Presenter",
+      "text": "There was obviously a lot of callouts here, but even looking at this, kind of hard to read, you know, it's just overall I don't really think it was that great of an ad.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 208.78,
+      "end": 215.0,
+      "speaker": "Presenter",
+      "text": "I don't think there was a landing page that was like that congruent, so we were just sending this to a very basic landing page that didn't really talk much about cravings.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 215.54,
+      "end": 223.44,
+      "speaker": "Presenter",
+      "text": "And so that was definitely something to do with it, if you ask me. Although that doesn't mean I'm going to go build a landing page, it just means I'm going to try to build a better version of this video that explains more of it,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 223.44,
+      "end": 226.1,
+      "speaker": "Presenter",
+      "text": "or a better version of this ad that explains more, a.k.a. a video.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 226.46,
+      "end": 232.66,
+      "speaker": "Presenter",
+      "text": "So this seemed like an ad that somebody would click, and likely need more information, but just really wasn't something that was compelling, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 232.92,
+      "end": 239.76,
+      "speaker": "Presenter",
+      "text": "I also feel like we made a pretty empty claim about how eating only 1,200 calories is easy with a specific thing, and then we didn't really explain it further, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 240.0,
+      "end": 246.3,
+      "speaker": "Presenter",
+      "text": "So it just kind of left the customer thinking, \"Sure, it's easy, right? With your product, of course it's going to be easy with your product. I'm scrolling by this,\" right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 246.5,
+      "end": 252.74,
+      "speaker": "Presenter",
+      "text": "So need to do a better job of building trust through a video, in order to bring this home, and need to do a lot more showing rather than telling, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 252.86,
+      "end": 257.84,
+      "speaker": "Presenter",
+      "text": "And so what I did here is, okay, this is done. Guess what, I've done my learnings, it was a losing ad, we move on, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 258.22,
+      "end": 262.08,
+      "speaker": "Presenter",
+      "text": "Batch number three, well, we're going to do a 1,200-calorie iteration. That's my concept, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 262.38,
+      "end": 270.46,
+      "speaker": "Presenter",
+      "text": "Same desire. Angle is now just focusing on this idea of making eating less calories easy. Like, doesn't have to be 1,200, it's just less calories in general.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 270.46,
+      "end": 277.06,
+      "speaker": "Presenter",
+      "text": "That could also be a learning, like maybe 1,200, maybe it being 1,200 calories and being that specific is like potentially too specific.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 277.06,
+      "end": 285.52,
+      "speaker": "Presenter",
+      "text": "Like maybe people are trying to eat, you know, some people eat more than that, or whatever it is, like that could be something to consider, so I will consider that when writing, but again, here's my hypothesis, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 285.52,
+      "end": 289.88,
+      "speaker": "Presenter",
+      "text": "So I'm creating this ad because I saw that it did actually get traction from, you know, just the ads that we tested.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 289.88,
+      "end": 294.0,
+      "speaker": "Presenter",
+      "text": "And I think this is a, you know, real pain point for that specific avatar around being in a deficit.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 294.0,
+      "end": 297.52,
+      "speaker": "Presenter",
+      "text": "And so, I know most people trying to lose weight obviously need something to support them through the deficit,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 297.52,
+      "end": 304.2,
+      "speaker": "Presenter",
+      "text": "and so I want to help them understand how eating 1,200 calories is actually easy, and leverage the information that I have to build belief around our mechanism.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 304.52,
+      "end": 312.06,
+      "speaker": "Presenter",
+      "text": "As a very skeptical market that's heard everything for cravings, and so I want to make sure that I really show my understanding of what, you know, what they're doing,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 312.06,
+      "end": 318.0,
+      "speaker": "Presenter",
+      "text": "rather than telling them, \"This is, this is easy,\" with no additional context, right? Going back to that show, don't tell, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 318.26,
+      "end": 323.44,
+      "speaker": "Presenter",
+      "text": "I want to show how it's easy, right? I don't want to just say it's easy, I want to show them how it's easy.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 323.58,
+      "end": 328.88,
+      "speaker": "Presenter",
+      "text": "And so, I'm going to get into that as well, about how we're going to optimize that script, because that's a very, very important thing, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 329.0,
+      "end": 333.54,
+      "speaker": "Presenter",
+      "text": "We're kind of tapping into this easy thing, but rather than just saying it's easy, how do I show that it's easy, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 333.84,
+      "end": 335.96,
+      "speaker": "Presenter",
+      "text": "How do I help them say that it's like, you know, \"I have breakfast",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 335.96,
+      "end": 342.24,
+      "speaker": "Presenter",
+      "text": "and I'm still not even hungry by dinner. Like, sometimes I just I just skip lunch.\" Well, that shows that it's",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 342.24,
+      "end": 349.32,
+      "speaker": "Presenter",
+      "text": "pretty easy, right? I'm not telling them it's easy, I'm showing them. So we're going to talk about that a little bit more, like I said. But now, what you guys are going to need",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 349.32,
+      "end": 354.32,
+      "speaker": "Presenter",
+      "text": "to use this prompt, okay? I actually have already ran it through here, and we're going to talk about this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 354.66,
+      "end": 360.48,
+      "speaker": "Presenter",
+      "text": "but basically, I'm going to I'm going to do a new Claude window for you guys so you can see what's going on here. All right, perfect. So, what you're going to do",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 360.48,
+      "end": 366.56,
+      "speaker": "Presenter",
+      "text": "is you are going to copy this prompt, which is a mega prompt. I'm not going to lie, this I",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 366.56,
+      "end": 371.34,
+      "speaker": "Presenter",
+      "text": "think is, yeah, 38 pages. There's a lot in here, guys, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 372.84,
+      "end": 378.48,
+      "speaker": "Presenter",
+      "text": "This, yeah. Yeah, I I was a little questionable sharing this, but it's being shared, I don't care,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 379.08,
+      "end": 385.56,
+      "speaker": "Presenter",
+      "text": "trying to provide value. We're going to paste this prompt in here, okay? And you're just going to go ahead and hit enter. Now again, if you have a Claude project,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 385.88,
+      "end": 391.16,
+      "speaker": "Presenter",
+      "text": "which I hope most of you do, you can put this inside of your Claude project,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 391.46,
+      "end": 397.42,
+      "speaker": "Presenter",
+      "text": "okay? And now, once it's going to go ahead and retrieve context, I guess about Spencer Ecom Media, says, \"Got it. I've absorbed the entire",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 397.42,
+      "end": 404.18,
+      "speaker": "Presenter",
+      "text": "framework. Here's what we're going to do.\" It's going to start talking about this stuff. And then what it's going to ask you is previous script performance review.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 404.54,
+      "end": 410.82,
+      "speaker": "Presenter",
+      "text": "So, it's going to ask you to complete a feedback loop before getting into it, okay? So previous script performance: \"Have you tested",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 410.82,
+      "end": 419.44,
+      "speaker": "Presenter",
+      "text": "any video ad scripts for the dieter avatar angle before? If yes, paste the scripts and clarify winner versus loser.\" Now, I believe this has",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 419.44,
+      "end": 426.6,
+      "speaker": "Presenter",
+      "text": "additional context from just the other window that I've used. Point is is it's going to say okay, like, have you tested",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 426.6,
+      "end": 430.96,
+      "speaker": "Presenter",
+      "text": "the video ad scripts for the dieter avatar angle before? And we're going to say, \"Yes,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 431.12,
+      "end": 435.04,
+      "speaker": "Presenter",
+      "text": "we we have,\" right? And what I actually originally did is I screenshotted",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 435.56,
+      "end": 441.84,
+      "speaker": "Presenter",
+      "text": "the initial videos, so let me or images, so let me go ahead and do that. All right. And so what I did here is I took screenshots",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 441.84,
+      "end": 446.76,
+      "speaker": "Presenter",
+      "text": "of all of these ads, okay? And so here, I'm going to copy this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 446.76,
+      "end": 453.42,
+      "speaker": "Presenter",
+      "text": "and I'm going to paste this into Claude. And I actually just had Claude confirm, it's just I've used this prompt so many times,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 453.42,
+      "end": 460.16,
+      "speaker": "Presenter",
+      "text": "stress testing it for you guys, that it just sits like, \"All right, I know why we're running this video.\" But here, I'm going to paste all of this in, and I'm going to show you guys",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 460.16,
+      "end": 464.34,
+      "speaker": "Presenter",
+      "text": "what I actually did. So I took all of these screenshots, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 465.64,
+      "end": 469.58,
+      "speaker": "Presenter",
+      "text": "And then I pasted them in. And then what I actually had written before",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 469.58,
+      "end": 476.02,
+      "speaker": "Presenter",
+      "text": "as well, let me go ahead and copy it, is I said the following. I said, \"Hey, number one, I have not tested a video script,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 476.02,
+      "end": 481.76,
+      "speaker": "Presenter",
+      "text": "but I did test image ads or image ads around this angle specifically. And, unfortunately, they did not get significant spend.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 482.04,
+      "end": 486.48,
+      "speaker": "Presenter",
+      "text": "They did get some purchases, however, it was much more retargeting-based and not very scalable, okay?\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 487.08,
+      "end": 493.18,
+      "speaker": "Presenter",
+      "text": "Beautiful. And it says here, \"Which scripts performed best? Which performed worst? Out of the hooks tested, which one got the ad spend?\" So,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 493.18,
+      "end": 498.56,
+      "speaker": "Presenter",
+      "text": "out of the hooks that I tested for the image ads, \"Eating Only 1200 Calories Is Easy\" is what actually performed the best. But again,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 498.56,
+      "end": 504.76,
+      "speaker": "Presenter",
+      "text": "still not great, CTR is below 1%. And so now I'm kind of adding in like, were there any metrics? But I basically am just",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 504.76,
+      "end": 511.48,
+      "speaker": "Presenter",
+      "text": "kind of copying and pasting my learnings. And even if you guys want to come in here and say like just copy this once you",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 511.48,
+      "end": 516.44,
+      "speaker": "Presenter",
+      "text": "do it, then that is great, right? So we can go in, and we can actually paste this in here as well.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 516.44,
+      "end": 521.36,
+      "speaker": "Presenter",
+      "text": "I've got too many Claudes open. But basically here, I could also just paste my learnings, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 521.88,
+      "end": 528.98,
+      "speaker": "Presenter",
+      "text": "I'm going to say, those are the hooks, CTR was below that. And then again, I said, \"I think overall this ad failed because it was very",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 528.98,
+      "end": 536.06,
+      "speaker": "Presenter",
+      "text": "basic.\" So this just says like, \"What are the main reasons you think people did or did not care about this ad? And do you have any new learnings in general,\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 536.5,
+      "end": 541.42,
+      "speaker": "Presenter",
+      "text": "okay? And so here, I can go ahead and paste this in. I'm also just going to paste the updated version.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 542.02,
+      "end": 547.98,
+      "speaker": "Presenter",
+      "text": "And then here, I just said, \"As of right now, no new learnings outside of that.\" Now, if I did have other learnings, where, hey, maybe another ad",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 547.98,
+      "end": 554.38,
+      "speaker": "Presenter",
+      "text": "started to pick up some spend, or you had a script that was working, or like, you've just got learnings in general, maybe it's like, hey,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 554.4,
+      "end": 561.12,
+      "speaker": "Presenter",
+      "text": "\"I just studied this winning ad and noticed that this hook seems to be working well,\" or, \"I just learned these new things. Well, these are some new learnings that I have,\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 561.36,
+      "end": 566.94,
+      "speaker": "Presenter",
+      "text": "then you can paste those in here. But for now, I'm just saying there's no other learnings. And now what we're doing here is we're trying to complete the feedback loop,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 567.14,
+      "end": 573.16,
+      "speaker": "Presenter",
+      "text": "okay? And so what I'm going to do now, just to provide extra context, because what it's going to do is it's going to ask you",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 573.16,
+      "end": 579.58,
+      "speaker": "Presenter",
+      "text": "for the additional documents, and I'm just going to pull up this one here, because as you could see, I already kind of",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 579.58,
+      "end": 583.62,
+      "speaker": "Presenter",
+      "text": "preloaded this with all of the documents. And so Claude likely already has this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 583.68,
+      "end": 588.66,
+      "speaker": "Presenter",
+      "text": "but the thing that I wanted to show you guys is that it's going to ask you to complete a feedback loop.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 588.8,
+      "end": 594.06,
+      "speaker": "Presenter",
+      "text": "And so now I've basically given this the actual context of everything that's going on.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 594.06,
+      "end": 600.44,
+      "speaker": "Presenter",
+      "text": "And then here it says, \"Now, let's build this right. Before I write anything, I need four critical inputs from you. I need the angle and avatar, like what specifically we're going after,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 600.78,
+      "end": 606.16,
+      "speaker": "Presenter",
+      "text": "two, your hypothesis.\" And again Claude already knew this, but I just asked it to like play dumb like it doesn't know anything. You guys shouldn't have to do that.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 606.16,
+      "end": 612.68,
+      "speaker": "Presenter",
+      "text": "\"Part is like, what is your hypothesis, any angle-specific information, and then the required documents.\" So, the documents that you guys",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 612.68,
+      "end": 619.06,
+      "speaker": "Presenter",
+      "text": "are going to need here are going to be the new mechanism prompt that you guys should run, so you guys can copy",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 619.06,
+      "end": 625.8,
+      "speaker": "Presenter",
+      "text": "this new mechanism prompt, and then you can just paste this in here. You're also going to want the new information prompt, again, this is a deep",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 625.8,
+      "end": 632.42,
+      "speaker": "Presenter",
+      "text": "research prompt that you should have already processed. And once you have that new information, you're also going to paste that in there. It's going to give you some really good",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 632.42,
+      "end": 637.66,
+      "speaker": "Presenter",
+      "text": "data. And then you're just going to want to put in the angle and avatar and then a hypothesis. And so here, I'll say,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 637.66,
+      "end": 645.18,
+      "speaker": "Presenter",
+      "text": "\"Here is the angle and avatar.\" And again, this is where we go into the section here, right, and we copy all of this information.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 645.22,
+      "end": 650.06,
+      "speaker": "Presenter",
+      "text": "Right, now we can copy this. This is everything that I wrote around the dieter specifically.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 650.52,
+      "end": 658.82,
+      "speaker": "Presenter",
+      "text": "I might also even throw in this screenshot of the actual, you know, \"I don't have any advice but just wanted to say I feel this so hard.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 659.26,
+      "end": 661.74,
+      "speaker": "Presenter",
+      "text": "So we can come in and we can paste this in here, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 662.04,
+      "end": 665.6,
+      "speaker": "Presenter",
+      "text": "And then here we're going to say, \"Here is my hypothesis.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 665.6,
+      "end": 668.9,
+      "speaker": "Presenter",
+      "text": "Right? And where did we pull this from? Well, we pull this from our growth guide.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 669.28,
+      "end": 673.5,
+      "speaker": "Presenter",
+      "text": "\"I'm recreating this ad because I saw that it did actually get traction, blah, blah, blah, blah.\" We already went through this, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 673.84,
+      "end": 675.58,
+      "speaker": "Presenter",
+      "text": "And so now we can paste this in here as well.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 675.86,
+      "end": 678.22,
+      "speaker": "Presenter",
+      "text": "We're going to go ahead and hit Enter. And now, again, we're",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 678.22,
+      "end": 682.68,
+      "speaker": "Presenter",
+      "text": "doing so much more groundwork before we actually just tell Claude to write us a script.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 682.8,
+      "end": 691.24,
+      "speaker": "Presenter",
+      "text": "We're actually giving it the information that it needs in order for you guys to actually get a prompt, or actually get a script that is, you know, 75 to 80%",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 691.54,
+      "end": 697.46,
+      "speaker": "Presenter",
+      "text": "you know, done. So, this is gold, Spencer, the customer's language is chef's kiss, deficits suck, can't control myself around mac and cheese,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 697.46,
+      "end": 702.9,
+      "speaker": "Presenter",
+      "text": "food has become numbers, right? It's using all this stuff. So, \"I have two or four required documents: new mechanism, new information.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 703.46,
+      "end": 708.5,
+      "speaker": "Presenter",
+      "text": "The two documents that they need, the product document and the customer data document. That's my bad. So I am actually going to go back in",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 708.5,
+      "end": 712.62,
+      "speaker": "Presenter",
+      "text": "and we're going to grab the product document, which you guys should also have. Again, if you guys don't remember the product document,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 712.72,
+      "end": 718.38,
+      "speaker": "Presenter",
+      "text": "it's the one that we did a while ago. So, we're going to paste this in here, and then you're just going to add context. If you guys don't have reviews,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 718.48,
+      "end": 723.92,
+      "speaker": "Presenter",
+      "text": "you don't have feedback, you don't have any of this kind of stuff, then that's fine. I'm actually going to say, although I have a ton of reviews,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 724.24,
+      "end": 728.24,
+      "speaker": "Presenter",
+      "text": "for the sake of this, assuming that you guys might not have a lot of reviews, I'm just not going to put it. I'll say, \"I actually",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 728.24,
+      "end": 732.26,
+      "speaker": "Presenter",
+      "text": "don't have any reviews that I can upload.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 732.56,
+      "end": 738.68,
+      "speaker": "Presenter",
+      "text": "Just use the information that I gave you in the original prompt.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 738.96,
+      "end": 747.22,
+      "speaker": "Presenter",
+      "text": "All right, cool. And now, as you can see, this is, \"I have everything, here's what I'm working with: document analysis, subtext extraction, dieter, avatar core pain pain points, the mechanism that creates new hope,\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 747.98,
+      "end": 753.34,
+      "speaker": "Presenter",
+      "text": "\"Big 4 strategy here, question before I write: Social proof critical for compliance. I have 12,000 women in memory.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 753.56,
+      "end": 758.94,
+      "speaker": "Presenter",
+      "text": "Is that accurate? If not, what's the real number?\" So, you'll notice here that I'm also trying to make sure",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 759.56,
+      "end": 767.94,
+      "speaker": "Presenter",
+      "text": "that you guys are using data that is actually real and you're not just making stuff up, okay? And so here I'm just going to say, \"1,000 to 10,000.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 768.06,
+      "end": 774.88,
+      "speaker": "Presenter",
+      "text": "I'll say, \"thousands of women. Tell me the truth and I'll structure the proof properly.\" And I'll just say, \"Okay, well, it's 1,000 to 10,000, I'll use thousands of women.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 774.88,
+      "end": 780.92,
+      "speaker": "Presenter",
+      "text": "And Claude is probably going to say, \"Okay, great.\" And again, this is for the social proof. If you guys don't have any, again, it gave you an option, it said, \"Okay, 100\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 780.92,
+      "end": 787.18,
+      "speaker": "Presenter",
+      "text": "\"or no data, I'll use clinical trial data, 90 women, or skip volume claims,\" okay? Because sometimes, if you don't have",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 787.18,
+      "end": 795.74,
+      "speaker": "Presenter",
+      "text": "the ability to say thousands of women are using this, or hundreds of women are using this, then it's probably not a good thing to say. All right, and so I'm going to go ahead and let Claude cook, and then we're going to come back and take a look at what it wrote.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 795.82,
+      "end": 805.46,
+      "speaker": "Presenter",
+      "text": "All right, let's take a look now, because this is actually first take. I've had it write quite a few scripts now, but let's just see what this one does. So, \"Locked and loaded, social proof, thousands of women, now I'm writing, production-ready scripts.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 805.68,
+      "end": 812.38,
+      "speaker": "Presenter",
+      "text": "So, you guys can read through this as much as you want. It looks like actually it might still be writing and potentially had a glitch, it might need a format in a second.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 812.38,
+      "end": 819.56,
+      "speaker": "Presenter",
+      "text": "I don't know why the the table didn't format, that's actually a a good glitch to see. But you could see it's actually writing out a bunch more.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 819.56,
+      "end": 827.4,
+      "speaker": "Presenter",
+      "text": "Let me wait to see if the table will fix itself. Otherwise, this is a new glitch that I haven't seen, and I think Claude might be tripping out, but let me see.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 827.4,
+      "end": 835.3,
+      "speaker": "Presenter",
+      "text": "All right, it looks like Claude messed up. Anyways, here we go. So, let's take a look here, okay? So part 1, three hook variations, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 835.76,
+      "end": 843.42,
+      "speaker": "Presenter",
+      "text": "And so hook A is science discovery, so this says, \"After 40, your body makes three times more of this enzyme.\" Pretty interesting, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 844.28,
+      "end": 852.46,
+      "speaker": "Presenter",
+      "text": "And then you'll notice here that it says visual instruction, and it says GridBank footage, and we're going to get to that in a second, but, \"45-year-old woman looking frustrated at bathroom",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 852.46,
+      "end": 862.68,
+      "speaker": "Presenter",
+      "text": "scale, shaking her head, quick cut to close up of her face showing stress, text overlay: After 40, your body makes three times more of this enzyme.\" Super interesting, okay? So this is kind of coming in",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 862.68,
+      "end": 871.7,
+      "speaker": "Presenter",
+      "text": "and providing new information. And I I'm going to show you guys like, actually, I'll just show you right now because let's just see if we actually go to a tool that we're going to get to in a second",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 871.7,
+      "end": 879.94,
+      "speaker": "Presenter",
+      "text": "where you can—it's called GridBank. Maybe you guys have heard of this, maybe you haven't, but you can literally just search this stuff up. And this is to hopefully show you how actionable",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 879.94,
+      "end": 886.4,
+      "speaker": "Presenter",
+      "text": "I've made this. And then as you can see here, there's literally just a a video of a girl getting on a scale,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 887.16,
+      "end": 893.2,
+      "speaker": "Presenter",
+      "text": "right? And then like looking up and being frustrated, right? Here's another one. I think of a girl, she's like looks like she's full.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 894.18,
+      "end": 899.54,
+      "speaker": "Presenter",
+      "text": "Here's one of a girl like you know, scale, but she's obviously not 40. This would probably be the clip that I would use, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 899.54,
+      "end": 904.94,
+      "speaker": "Presenter",
+      "text": "You can also see there's this one here of someone like getting on a scale, right? There's a bunch of different clips here",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 904.94,
+      "end": 914.7,
+      "speaker": "Presenter",
+      "text": "that we could actually use to bring to life. Now, I'm going to get to GridBank and all that kind of stuff in another video, but I wanted to show you guys what the structure here is for this, so you guys can see that I'm trying to make this as actual as possible.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 915.02,
+      "end": 918.4,
+      "speaker": "Presenter",
+      "text": "Okay? The next one that we have here is, \"Why eating 1,200 calories feels like torture.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 919.74,
+      "end": 920.06,
+      "speaker": "Presenter",
+      "text": "Right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 921.12,
+      "end": 926.36,
+      "speaker": "Presenter",
+      "text": "Pretty interesting. You know, maybe I would want to expand more on this, but I'm just showing you guys the prompt. We're going to get into how to optimize this.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 926.36,
+      "end": 930.12,
+      "speaker": "Presenter",
+      "text": "Validation and empathy: \"Can't stop thinking about food? It's not your fault.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 930.76,
+      "end": 934.5,
+      "speaker": "Presenter",
+      "text": "Okay? Part three, or part two, now we have bridge variations, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 934.86,
+      "end": 938.1,
+      "speaker": "Presenter",
+      "text": "And so, what you'll notice is that for each hook, we actually have three different bridges.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 938.4,
+      "end": 941.78,
+      "speaker": "Presenter",
+      "text": "So, you'll see here, it says, \"After, your body makes three times more of this enzyme,\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 941.86,
+      "end": 948.12,
+      "speaker": "Presenter",
+      "text": "and then it goes into this bridge: \"It's called DPP4, and it destroys your appetite hormone every 2 minutes.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 948.22,
+      "end": 952.94,
+      "speaker": "Presenter",
+      "text": "So, your brain never gets the signal to stop eating. That's why every diet feels impossible.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 953.96,
+      "end": 957.1,
+      "speaker": "Presenter",
+      "text": "Interesting, okay? Let's read Hook B and Bridge B.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 957.5,
+      "end": 961.4,
+      "speaker": "Presenter",
+      "text": "\"Why eating 1,200 calories feels like torture. It's because your body doesn't-\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 961.6,
+      "end": 964.6,
+      "speaker": "Presenter",
+      "text": "it's \"because your body's destroying the hormone that tells you when you're full.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 965.04,
+      "end": 967.92,
+      "speaker": "Presenter",
+      "text": "Every 2 minutes, an enzyme called DPP4 breaks it down.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 968.16,
+      "end": 971.82,
+      "speaker": "Presenter",
+      "text": "Your brain never gets the stop-eating signal. It's not willpower. It's biology.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 972.8,
+      "end": 976.38,
+      "speaker": "Presenter",
+      "text": "Okay? How about Hook C? \"Can't stop thinking about food? It's not your fault.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 976.68,
+      "end": 979.9,
+      "speaker": "Presenter",
+      "text": "Your body's making three times more of an enzyme called DPP4.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 979.9,
+      "end": 984.06,
+      "speaker": "Presenter",
+      "text": "It destroys your appetite hormone every 2 minutes, and that's why you feel out of control.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 984.06,
+      "end": 988.0,
+      "speaker": "Presenter",
+      "text": "That's why 1,200 calories feels impossible. Your body's literally fighting you.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 988.0,
+      "end": 994.02,
+      "speaker": "Presenter",
+      "text": "And so, what you'll notice here is that we are actually kind of extending each hook to almost 8 seconds.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 994.02,
+      "end": 997.94,
+      "speaker": "Presenter",
+      "text": "And this is something that we started doing as of late to try to add",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 997.94,
+      "end": 1005.08,
+      "speaker": "Presenter",
+      "text": "more congruence into our ads and, and, essentially, allowing Meta to see that they are more different.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 1005.08,
+      "end": 1010.18,
+      "speaker": "Presenter",
+      "text": "Okay, so like we're not just testing three different hooks here. We're testing, kind of like, three different hooks and bridges.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1010.66,
+      "end": 1015.08,
+      "speaker": "Presenter",
+      "text": "Now, you can use, you know, an evergreen hold, for example,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1015.16,
+      "end": 1017.82,
+      "speaker": "Presenter",
+      "text": "where if you don't want to do these three different variations, you don't have to.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 1018.12,
+      "end": 1023.98,
+      "speaker": "Presenter",
+      "text": "Most of these, if you just optimize them, and I'll show you how to do that, you could just kind of create one, kind of, evergreen hold.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 1024.6,
+      "end": 1029.68,
+      "speaker": "Presenter",
+      "text": "But my point is, is we're actually extending th- thoroughly and communicating everything",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 1029.68,
+      "end": 1033.54,
+      "speaker": "Presenter",
+      "text": "that needs to be communicated from this initial hook, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1033.98,
+      "end": 1039.0,
+      "speaker": "Presenter",
+      "text": "And then, part three is the universal hold. And you'll notice this has, basically, broken up into objection, claim, proof, benefit,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1039.0,
+      "end": 1042.86,
+      "speaker": "Presenter",
+      "text": "and then secondary, and then we have CTA. And so, \"I know what you're thinking:",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1042.86,
+      "end": 1047.24,
+      "speaker": "Presenter",
+      "text": "you've tried supplements before; they didn't work. But here's what they didn't have: Metaglow has DygloMera,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1047.5,
+      "end": 1050.38,
+      "speaker": "Presenter",
+      "text": "the first ingredient clinically proven to block DPP4,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1050.62,
+      "end": 1053.74,
+      "speaker": "Presenter",
+      "text": "which means your body finally stops destroying your appetite hormone.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1053.74,
+      "end": 1061.22,
+      "speaker": "Presenter",
+      "text": "Proof: in a 12-week study with 90 women, they increased GLP-1 by 68% and ate 24% fewer calories in the first week,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1061.48,
+      "end": 1065.14,
+      "speaker": "Presenter",
+      "text": "not by forcing themselves, because their- because their brain-\"",
+      "chunk": 3,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 187,
+      "start": 1065.14,
+      "end": 1071.02,
+      "speaker": "Presenter",
+      "text": "but \"because their brain finally got-\" And you'll notice Claude is, you know, it's not writing like it's entirely spoken, and we're going to get to that, too.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1071.42,
+      "end": 1076.82,
+      "speaker": "Presenter",
+      "text": "But, \"because their brain finally got the signal to stop eating. Thousands of women have already tried this.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1077.1,
+      "end": 1080.16,
+      "speaker": "Presenter",
+      "text": "Imagine eating breakfast and not thinking about lunch at 10:00 a.m.,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 1080.38,
+      "end": 1084.8,
+      "speaker": "Presenter",
+      "text": "walking past the vending machines at 3:00 p.m. without even looking, and going to bed without raiding the pantry.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1084.98,
+      "end": 1087.52,
+      "speaker": "Presenter",
+      "text": "That's what happens when your appetite hormone actually works.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1087.96,
+      "end": 1090.78,
+      "speaker": "Presenter",
+      "text": "Plus, it has marine collagen for your skin and joints.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 1090.94,
+      "end": 1094.86,
+      "speaker": "Presenter",
+      "text": "Your appetite can finally calm down the next 2 weeks. Try for 60 days.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 1094.86,
+      "end": 1098.96,
+      "speaker": "Presenter",
+      "text": "If it doesn't work, we'll refund you, because you're not weak, your body has just been fighting you.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 1099.1,
+      "end": 1104.06,
+      "speaker": "Presenter",
+      "text": "It's $47 a month, $39 per jar-\" and it- I don't know why it has \"the per jar.\" It's per package.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 1104.5,
+      "end": 1110.66,
+      "speaker": "Presenter",
+      "text": "\"if you get the 3-month bundle. And thousands of women already stopped thinking about food all day. Tap below to try Metaglow.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 1110.86,
+      "end": 1112.18,
+      "speaker": "Presenter",
+      "text": "Kind of like how that rhymes, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 1113.16,
+      "end": 1115.62,
+      "speaker": "Presenter",
+      "text": "And then here, we have part five. It's going to start to explain",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 1115.62,
+      "end": 1119.8,
+      "speaker": "Presenter",
+      "text": "everything that it did. And this is the section that I definitely want you guys to start understanding and reading,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 1119.8,
+      "end": 1124.84,
+      "speaker": "Presenter",
+      "text": "where it says, \"Hey, part five, here's how the scripts are combined. What changed: hooks and bridge are matched.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 1125.0,
+      "end": 1129.08,
+      "speaker": "Presenter",
+      "text": "What stays identical: hold and CTA. Total length: about 43 to 45 seconds.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 1129.28,
+      "end": 1132.4,
+      "speaker": "Presenter",
+      "text": "And you'll notice that most of these ads will be max 45 seconds, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 1132.56,
+      "end": 1138.14,
+      "speaker": "Presenter",
+      "text": "Strategic explanation, so now it's going to incorporate some of this copywriting strategies that we just went over, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 1138.18,
+      "end": 1144.46,
+      "speaker": "Presenter",
+      "text": "So, New & Only: Hook A: \"3x more of this enzyme after 40.\" Novel mechanism plus age spec- specificity.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 1144.92,
+      "end": 1149.86,
+      "speaker": "Presenter",
+      "text": "I can't say that word, ever. \"All bridges: DPP4 as a villain,\" okay? \"Claim:",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 1149.86,
+      "end": 1155.3,
+      "speaker": "Presenter",
+      "text": "first ingredient clinically proven to block DPP4. Owns a new category. And proof: 68% GLP-1 increase,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 1155.52,
+      "end": 1160.6,
+      "speaker": "Presenter",
+      "text": "unprecede- un- unprecedented result,\" okay? \"Easy and anybody, safe and predictable, big and fast.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1160.6,
+      "end": 1165.36,
+      "speaker": "Presenter",
+      "text": "Mechanism used: \"Here, it's the natural GLP-1 protection system. DygloMera blocks DPP4.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1165.46,
+      "end": 1169.76,
+      "speaker": "Presenter",
+      "text": "This creates new hope, because it validates their struggle. It's not another metabolism booster.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1169.94,
+      "end": 1176.66,
+      "speaker": "Presenter",
+      "text": "It, you know, rides Ozempic awareness without categorizing it and has clinical proof,\" okay? So, explains why previous attempts failed.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1177.1,
+      "end": 1180.76,
+      "speaker": "Presenter",
+      "text": "And the target awareness levels: \"This is product-aware. They've tried supplements before, and they are skeptical.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1181.12,
+      "end": 1185.28,
+      "speaker": "Presenter",
+      "text": "I would say this kind of gets into a little bit of problem-aware, as well. We're kind of talking about here like, you know,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1185.34,
+      "end": 1189.74,
+      "speaker": "Presenter",
+      "text": "\"After 40, your body makes three times more of this enzyme.\" That's almost kind of like an unaware hook.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1189.92,
+      "end": 1194.54,
+      "speaker": "Presenter",
+      "text": "A lot of people might not know this, right? And, and again, I've, I've tried to correct Claude",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 215,
+      "start": 1194.54,
+      "end": 1199.1,
+      "speaker": "Presenter",
+      "text": "at times, 'cause Claude will struggle with awareness levels. I have a video in Evolve that talks about this,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 216,
+      "start": 1199.1,
+      "end": 1204.82,
+      "speaker": "Presenter",
+      "text": "where it actually like kind of gets confused. But again, this is where- that's why it like it's- it's not that big of a deal",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1204.82,
+      "end": 1211.02,
+      "speaker": "Presenter",
+      "text": "because what we're trying to focus on here is just making the best script that we can, okay? And we kind of get into refining market awareness levels",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1211.02,
+      "end": 1215.06,
+      "speaker": "Presenter",
+      "text": "at a more advanced stage. But then down here, again, we're getting into show, don't tell:",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1215.06,
+      "end": 1220.28,
+      "speaker": "Presenter",
+      "text": "\"Walking past vending machine, going to bed without raiding pantry, visual shows before and after.\" I think we can",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1220.28,
+      "end": 1225.32,
+      "speaker": "Presenter",
+      "text": "do this better, and I'm going to show you guys how to make this better with Claude, as well, when we go to refining. And then, \"Slippery slope:",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1225.32,
+      "end": 1228.26,
+      "speaker": "Presenter",
+      "text": "Every line creates curiosity for the next. No stopping until the CTA.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1228.26,
+      "end": 1233.22,
+      "speaker": "Presenter",
+      "text": "Better tables should render, now.\" Or, \"Better. Table should render now,\" is just saying that Claude actually did its job.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1234.62,
+      "end": 1236.56,
+      "speaker": "Presenter",
+      "text": "So, there we go, all right? And so now, once you have this,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1236.78,
+      "end": 1238.9,
+      "speaker": "Presenter",
+      "text": "you guys will likely have- That's the prompt.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1239.56,
+      "end": 1242.58,
+      "speaker": "Presenter",
+      "text": "this Doc here, if you guys want to use a Google Doc, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1242.58,
+      "end": 1248.86,
+      "speaker": "Presenter",
+      "text": "And you guys could fill this up, and follow just the very basic where it's like, \"All right, variation one, we have this, this, this, and this,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1248.86,
+      "end": 1252.58,
+      "speaker": "Presenter",
+      "text": "and then we have the hold,\" right? And so what you guys will do is you will go into Claude,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 228,
+      "start": 1252.58,
+      "end": 1256.56,
+      "speaker": "Presenter",
+      "text": "and you'll copy. Okay, so here's hook one. I'm going to go in here, and we have hook one,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1256.82,
+      "end": 1261.16,
+      "speaker": "Presenter",
+      "text": "and then we're going to also paste in the bridge. And so hook one bridge is here,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1261.92,
+      "end": 1266.14,
+      "speaker": "Presenter",
+      "text": "right? And then we're just going to pop that in just like that. There we go, now we have that. I'm not going to show you for the rest of it,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1266.3,
+      "end": 1270.42,
+      "speaker": "Presenter",
+      "text": "but it's very, very simple. You guys can figure out how to do that. And then, obviously, you would put in the content.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1270.7,
+      "end": 1276.5,
+      "speaker": "Presenter",
+      "text": "So here you could go back into the prompt, and here you could grab, you know, the footage: woman holding, or what is this?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1276.82,
+      "end": 1281.58,
+      "speaker": "Presenter",
+      "text": "Woman in part A, 45-year-old woman looking frustrated, shaking her head, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1282.08,
+      "end": 1287.42,
+      "speaker": "Presenter",
+      "text": "And so here, put this under the content, right? So, 45-year-old woman looking frustrated at the bathroom scale, shaking her head.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1287.66,
+      "end": 1294.64,
+      "speaker": "Presenter",
+      "text": "And again, this is if you guys have an editor. I'm going to show you again the options that you can go through for getting this content, and all this kind of stuff.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1294.64,
+      "end": 1300.6,
+      "speaker": "Presenter",
+      "text": "Now what I'm going to actually do is I'm actually going to use something called Milanote. Now, you don't have to use this.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1300.6,
+      "end": 1305.78,
+      "speaker": "Presenter",
+      "text": "This is like 16 bucks a month, but I just prefer to be a lot more visual with how I do things,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1305.78,
+      "end": 1310.64,
+      "speaker": "Presenter",
+      "text": "and that when I send briefs to my editors, it's in a way that is like nice and open for them.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1310.66,
+      "end": 1315.4,
+      "speaker": "Presenter",
+      "text": "Now again, if you guys are editing this stuff yourself, you likely don't need to do this. You can kind of just work straight out of Claude,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1315.4,
+      "end": 1321.22,
+      "speaker": "Presenter",
+      "text": "or you can put it inside the brief however is organized for you. But this is how I actually prefer to do it, when I have",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1321.22,
+      "end": 1328.76,
+      "speaker": "Presenter",
+      "text": "the hook and the bridge kind of in here, and then one big hold. And then for me, when I go through to rewrite this stuff, it makes it a lot simpler and a lot easier for me to kind of go through.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1329.04,
+      "end": 1334.4,
+      "speaker": "Presenter",
+      "text": "Now what I will say is that you guys shouldn't really be focusing on the visuals yet.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1334.74,
+      "end": 1341.7,
+      "speaker": "Presenter",
+      "text": "What I would recommend doing is actually going through and getting the script in a place where you have everything laid out.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1341.7,
+      "end": 1346.6,
+      "speaker": "Presenter",
+      "text": "Again, whether it's the Doc or whether you want to use something like Milanote like I'm using, and no, before you guys ask,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1346.84,
+      "end": 1351.46,
+      "speaker": "Presenter",
+      "text": "I don't have a template that I can give you. Unfortunately, Milanote doesn't allow you to like copy and paste like a Google Doc,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1352.08,
+      "end": 1357.14,
+      "speaker": "Presenter",
+      "text": "so you would just basically have to recreate this if you do decide to use Milanote. But a lot of you guys don't need to use this.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1357.3,
+      "end": 1359.52,
+      "speaker": "Presenter",
+      "text": "There's also free tools. You can use something like FigJam.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1360.2,
+      "end": 1364.72,
+      "speaker": "Presenter",
+      "text": "So you It's like Figma's version of It's like a free version. You guys can use that if you want.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1365.38,
+      "end": 1370.64,
+      "speaker": "Presenter",
+      "text": "But for me, we and at the agency, we use Milanote. And obviously, I'm going to be sending this to an editor. I'm not going to be editing this video,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1370.74,
+      "end": 1375.24,
+      "speaker": "Presenter",
+      "text": "we're going to talk about that. But the most important thing here is, you'll notice I didn't make this a very simple copy-paste.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1375.46,
+      "end": 1380.76,
+      "speaker": "Presenter",
+      "text": "And that's because I want you guys to think through each and every single line, okay? So here's the objection line,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1381.08,
+      "end": 1387.48,
+      "speaker": "Presenter",
+      "text": "here is the claim line, here is the proof line, and then here is the benefit line, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1387.68,
+      "end": 1394.72,
+      "speaker": "Presenter",
+      "text": "And again, you don't have to follow this to a T. This is just a very simplified and organized structure for you guys to, you know, see.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 254,
+      "start": 1394.98,
+      "end": 1400.62,
+      "speaker": "Presenter",
+      "text": "And then here we're going to get down to the CTA. And now, again, CTA can also go down here. Sometimes we separate this",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 255,
+      "start": 1400.62,
+      "end": 1405.8,
+      "speaker": "Presenter",
+      "text": "as well, but for the sake of just writing, I'm going to kind of just put this all all together. I kind of like that.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1405.8,
+      "end": 1410.88,
+      "speaker": "Presenter",
+      "text": "And then there we go. We've copied everything over. Now the most important thing for you guys to know",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1410.88,
+      "end": 1416.42,
+      "speaker": "Presenter",
+      "text": "is that it's giving you information of like what it's doing, so that way you can rework with Claude",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1416.42,
+      "end": 1420.4,
+      "speaker": "Presenter",
+      "text": "on this script, which I will show you how to do, but you can also come in,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1420.86,
+      "end": 1426.12,
+      "speaker": "Presenter",
+      "text": "pull up your research Doc, and you can start to plug in, do more research, and kind of",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 260,
+      "start": 1427.42,
+      "end": 1432.3,
+      "speaker": "Presenter",
+      "text": "reoptimize the script, and that's what I'm going to show you how to do in part two. But for example, this right here, \"I know what you're thinking,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1432.54,
+      "end": 1438.7,
+      "speaker": "Presenter",
+      "text": "you've tried supplements before, they didn't work.\" I I hate this. I mean, this is a terrible line. We can get way more specific,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 262,
+      "start": 1439.32,
+      "end": 1444.32,
+      "speaker": "Presenter",
+      "text": "and this is where sometimes you've got to pull up a a Reddit thread and you've got to start doing",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 263,
+      "start": 1445.04,
+      "end": 1449.44,
+      "speaker": "Presenter",
+      "text": "some more research to actually make this stuff better. Now, Spencer, why does this suck?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 264,
+      "start": 1449.66,
+      "end": 1457.2,
+      "speaker": "Presenter",
+      "text": "Well, it's because this is just very like generic, you know. \"I know what you're thinking, you've tried supplements before, they didn't work.\" Well, what supplements have they tried? It's not specific",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 265,
+      "start": 1457.2,
+      "end": 1464.04,
+      "speaker": "Presenter",
+      "text": "enough, you know what I'm saying? So I would start going through here and I'd really start looking at this, like, you know, what are some things that they've tried?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 266,
+      "start": 1464.42,
+      "end": 1470.08,
+      "speaker": "Presenter",
+      "text": "You've probably tried relying on your willpower, you've probably tried this, you've probably heard of, you know, the big thing,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 267,
+      "start": 1470.4,
+      "end": 1475.86,
+      "speaker": "Presenter",
+      "text": "but none of it is really working, or you're you're not, you know, you're you're not sure that you want to trust it. Maybe I start going that direction.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 268,
+      "start": 1476.4,
+      "end": 1481.86,
+      "speaker": "Presenter",
+      "text": "But my point is, is we're going to get in and we're going to start to optimize this together. I just wanted to show you guys how to use this prompt,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 269,
+      "start": 1481.86,
+      "end": 1486.02,
+      "speaker": "Presenter",
+      "text": "so that way you can get the initial brief and then the initial script done,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 270,
+      "start": 1486.6,
+      "end": 1491.72,
+      "speaker": "Presenter",
+      "text": "and then we can start getting into how to polish it and how to turn it into an actual winning script, because right now,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 271,
+      "start": 1491.72,
+      "end": 1498.24,
+      "speaker": "Presenter",
+      "text": "this is not a winning script. We need to make this way better, and that's where most of you guys are just going to use this and send it off. But",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 272,
+      "start": 1498.24,
+      "end": 1502.2,
+      "speaker": "Presenter",
+      "text": "this is like this difference right here, what I'm about to do in part two, to make it",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 273,
+      "start": 1502.2,
+      "end": 1507.52,
+      "speaker": "Presenter",
+      "text": "that much better by going deeper into research, pulling customer-specific language, because Claude is",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 274,
+      "start": 1507.52,
+      "end": 1512.1,
+      "speaker": "Presenter",
+      "text": "Claude is, again, going to get you 70, 80% of the way there. You need to take it that to get it to 100%.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 275,
+      "start": 1512.5,
+      "end": 1517.4,
+      "speaker": "Presenter",
+      "text": "And, again, because a lot of you guys can't test and spam a lot of ads, you need to be focusing on intent.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 276,
+      "start": 1517.4,
+      "end": 1522.1,
+      "speaker": "Presenter",
+      "text": "And so, we're going to get to that. I just wanted to make this first video to show you how to use the prompt. I know it was a little bit kind of",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 277,
+      "start": 1522.1,
+      "end": 1527.78,
+      "speaker": "Presenter",
+      "text": "messy because I had to tell Claude to prompt me on specific things and the chart was broken, but this is stuff that you guys are going to deal with",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 278,
+      "start": 1527.78,
+      "end": 1533.68,
+      "speaker": "Presenter",
+      "text": "when you're kind of using AI. So hopefully it just kind of shows you how to troubleshoot a little bit, but most of you guys have a brain. And then we're going to get into",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 279,
+      "start": 1533.68,
+      "end": 1542.06,
+      "speaker": "Presenter",
+      "text": "how to optimize this specific script, and get it primed for an editor, and then also if you guys don't have an editor, I'll show you what you guys can do from there.",
+      "chunk": 4,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 366.4,
+      "end": 368.8,
+      "label": "laughter"
+    }
+  ]
+}

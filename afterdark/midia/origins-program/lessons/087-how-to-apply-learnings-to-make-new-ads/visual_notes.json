@@ -1,0 +1,63 @@
+{
+  "lesson": {
+    "num": 87,
+    "id": "087-how-to-apply-learnings-to-make-new-ads",
+    "title": "How to apply learnings to make new ads",
+    "video": "87. How to apply learnings to make new ads Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T20:14:49-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "854x480 (native)",
+  "candidates_reviewed": 16,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 19.987,
+      "time": "00:00:20",
+      "frame": "frames/087_00-00-20.png",
+      "category": "spreadsheet",
+      "title": "Ad Concept Testing Spreadsheet with Batches and Hypotheses",
+      "on_screen": "Google Sheets document: 'Spencer's | Zend - Growth Guide '25'\nColumns: Status | BATCH # | Author | Ad Concept | Desire | Angle | What are you creating / testing and what gives you confidence that this test will improve overall performance? | Ad Format\n\nRow 3 (Batch #1, Done):\n- Author: Spencer\n- Ad Concept: Sub Avatar Test\n- Desire: I want to be in control of my Cravings/appetite\n- Angle: Angle 1: Stops The Stress-Eating Cycle / Angle #2: Makes 1,200 Calories Feel Easy / Angle #3: Tricks Your Stomach Into Thinking It's Still Full\n- Text: Headlines: Variation 1: Stop needing discipline. Start lowering cortisol. Variation 2: Eating 1,200 calories is easy. Variation 3: This tells your stomach you're full. Even at 1,200 calories. Variation 4: Your Stomach Thinks You Just Ate... Even When You Didn't\n- Ad Format: Static\n\nRow 4 (Batch #2, Learning):\n- Ad Concept: Iphone Notes\n\nRow 5 (Batch #3, Working):\n- Ad Concept: 1,200 Calories Iteration\n- Desire: I want to be in control of my Cravings/appetite\n- Angle: Angle #2: Makes 1,200 Calories Feel Easy\n- Performance testing rationale: 'I'm recreating this ad because I saw that it did actually get traction, and I think this is a real pain point for this specific avatar around being in a deficit. And so I know most people trying to lose weight obviously need something to support them through the deficit. And so I want to help them understand how eating 1200 calories is actually easy and leverage the information that I have to build belief around our mechanism. This is a very skeptical market that's heard everything for cravings, and so I want to make sure that I really show my understanding of what they're doing rather than telling them something is easy with no additional context.'\n- Ad Format: Video\n\nRows 6-8 ideas listed:\n- Shut Up Stomach ('Shuts Up Your Stomach For Good', Hooks 1-3)\n- 3 signs your body's working against your diet\n- Protect your hormones mechanism",
+      "not_in_transcript": "Detailed spreadsheet columns, batch status ('Done', 'Learning', 'Working'), headline variations text, and written rationale for Batch #3 iteration.",
+      "legibility": "clear",
+      "candidate_id": "F005",
+      "drive_url": "https://drive.google.com/file/d/1bYVEUp-s5xz3KrtK5kXRAsu-KeFM8G8F/view?usp=drivesdk"
+    },
+    {
+      "t": 69.97,
+      "time": "00:01:10",
+      "frame": "frames/087_00-01-10.png",
+      "category": "ad_example",
+      "title": "Zend Wellness Facebook & Instagram Ad Previews",
+      "on_screen": "Facebook and Instagram Ad Previews for 'Zend Wellness':\n\nAd copy above image: 'This science-backed solution helped me get my body back by targeting the skinny hormone killer and restoring lost collagen.* ...See more'\n\nAd Creative Graphic:\nHeadline: EATING ONLY 1,200 CALORIES IS EASY...\nSubheadline: ...with Dyglovera®\nBullets:\n- Increases GLP-1 production by 56%*\n- Improves natural fullness signals*\n- Reduces cravings without torture*\n- Enhances ability to say no to junk*\nVisual: Scoop of powder pouring into a cup of coffee/liquid.\nCTA / Destination: try.zendwellness.com | Try Risk-Free for 60 Days | Shop now",
+      "not_in_transcript": "Account name 'Zend Wellness' / 'zendwellness', exact subhead '...with Dyglovera®', URL 'try.zendwellness.com', guarantee 'Try Risk-Free for 60 Days', button 'Shop now', top body copy.",
+      "legibility": "clear",
+      "candidate_id": "F007",
+      "drive_url": "https://drive.google.com/file/d/1bYVEUp-s5xz3KrtK5kXRAsu-KeFM8G8F/view?usp=drivesdk"
+    },
+    {
+      "t": 99.967,
+      "time": "00:01:40",
+      "frame": "frames/087_00-01-40.png",
+      "category": "webpage",
+      "title": "Origins Course Curriculum Menu",
+      "on_screen": "Course Outline UI ('Origins'):\n- The Origins creative roadmap\n- Action Item: Add Concepts Into The...\n- How to create image ads - part 1\n- How to create image ads - part 2\n- 13 winning static ads breakdown + tem...\n- Action Item: Make Your First Image A...\n- What winning video ads look like (9 exa...\n- Action Item: Study The Winning Vide...\n- The importance of copywriting for videos\n- How to write a video ad - Part 1\n- How to write a video ad - Part 2 (checked)\n- Action Item: Write Your Video Ads\n- How to get content for ads + options for...\n- Action Item: Edit Your Video Ad/Join...\n- How to Create Offers\n- How To Set Up FB Assets\n- How To Run Ads\n- How To Do Learnings:\n  - How to complete feedback loops (12 qu...\n  - (Draft) How to review losing ads\n  - (Draft) How to apply learnings to make...",
+      "not_in_transcript": "Full module syllabus and preceding lessons in the course curriculum sidebar.",
+      "legibility": "clear",
+      "candidate_id": "F011",
+      "drive_url": "https://drive.google.com/file/d/1bYVEUp-s5xz3KrtK5kXRAsu-KeFM8G8F/view?usp=drivesdk"
+    },
+    {
+      "t": 109.977,
+      "time": "00:01:50",
+      "frame": "frames/087_00-01-50.png",
+      "category": "spreadsheet",
+      "title": "Ad Concept Tracker Spreadsheet Showing Hook Variations and Testing Logic",
+      "on_screen": "Google Sheets document titled 'Spencer's | Zend - Growth Guide '25'.\nSelected row 6:\n- Status: [dropdown]\n- BATCH #: BATCH#\n- Author: Spencer\n- Ad Concept: Shut Up Stomach\n- Desire: I want to be in control of my Cravings/appetite\n- Angle: Shuts Up Your Stomach For Good\n- What are you creating / testing and what gives you confidence that this test will improve overall performance?: 'Hook 1: \"What If Your Stomach Stayed Full For 6 Hours Instead Of 2?\"\nHook 2:\nHook 3:'\nRow 7 Concept: '\"3 signs your body's working against your diet\"'\nRow 8 Concept: 'Protect your hormones mechanism'\nRow 9 Concept: 'Your stomach is not hungry, your brain is'",
+      "not_in_transcript": "Hook text: 'What If Your Stomach Stayed Full For 6 Hours Instead Of 2?'; rows 7-9 concept names: '3 signs your body's working against your diet', 'Protect your hormones mechanism', 'Your stomach is not hungry, your brain is'.",
+      "legibility": "clear",
+      "candidate_id": "F013",
+      "drive_url": "https://drive.google.com/file/d/1bYVEUp-s5xz3KrtK5kXRAsu-KeFM8G8F/view?usp=drivesdk"
+    }
+  ]
+}

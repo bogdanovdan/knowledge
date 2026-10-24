@@ -1,0 +1,75 @@
+{
+  "lesson": {
+    "num": 47,
+    "id": "047-how-to-feel-better-about-being-overwhelmed",
+    "title": "🆕 How to feel better about being overwhelmed",
+    "video": "47. 🆕 How to feel better about being overwhelmed Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T18:38:04-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "854x480 (native)",
+  "candidates_reviewed": 43,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 84.985,
+      "time": "00:01:25",
+      "frame": "frames/047_00-01-25.png",
+      "category": "document",
+      "title": "Why you are feeling overwhelmed notes and operational process",
+      "on_screen": "Document Title: Why you are feeling overwhelemed [sic]\n\nDefinition:\nBury or drown beneath a huge mass.\n\nOur Definition:\nGive too much of a thing to (someone);\n\nStory: (AF 2024)\nClickup Notes\n\nWhat You Have To Do:\nStudy -> Research -> Create -> Test -> Feedback Loop -> Repeat\n\nStudy: Learning new information to build your knowledge basis\nResearch: Figure out what people want\nCreate: Communicate how you can help those people get what they want\nTest: Launch tests in 1 campaign. If it gets spend = good. If it does not get spend = not good.\nFeedback Loop: Make educated guesses on why your ad is working or not working\nRepeat: Go back to researching again, or leverage learnings from feedback loop to make more ads.",
+      "not_in_transcript": "\"Test: Launch tests in 1 campaign. If it gets spend = good. If it does not get spend = not good.\" \"Feedback Loop: Make educated guesses on why your ad is working or not working\" \"Repeat: Go back to researching again, or leverage learnings from feedback loop to make more ads.\"",
+      "legibility": "clear",
+      "candidate_id": "F017",
+      "drive_url": "https://drive.google.com/file/d/1EwCeC1U6OsLgyvo6C9eqgIUga2E_oh4s/view?usp=drivesdk"
+    },
+    {
+      "t": 249.983,
+      "time": "00:04:10",
+      "frame": "frames/047_00-04-10.png",
+      "category": "software_demo",
+      "title": "ClickUp Agency Founders 2024 task list and speaker notes",
+      "on_screen": "Tool: ClickUp (Spencer's Space / To Do List / Spencer's List)\nList: Agency Founders 2024\nTasks / Speakers listed:\n- Eddie Maalouf (Comments: 2, Status: WORK WON'T DO ITSELF, Date created: 9/7/24)\n- Brian Burt (Comments: 1, Date created: 9/22/24)\n- Cody Jefferson (Comments: 1, Date created: 9/7/24)\n- Jhana Li (Comments: 2, Date created: 9/21/24)\n- Ashton Shanks (Comments: 1, Date created: 9/22/24)\n- Joel Kaplan (Comments: 1, Date created: 9/22/24)\n- Dee Deng (Comments: 1, Date created: 9/22/24)\n- Gary Bird (Comments: 1, Date created: 9/22/24)",
+      "not_in_transcript": "Specific speaker names: Eddie Maalouf, Brian Burt, Cody Jefferson, Jhana Li, Ashton Shanks, Joel Kaplan, Dee Deng, Gary Bird. Status tag: \"WORK WON'T DO ITSELF\". Dates created: 9/7/24, 9/21/24, 9/22/24.",
+      "legibility": "clear",
+      "candidate_id": "F019",
+      "drive_url": "https://drive.google.com/file/d/1EwCeC1U6OsLgyvo6C9eqgIUga2E_oh4s/view?usp=drivesdk"
+    },
+    {
+      "t": 404.971,
+      "time": "00:06:45",
+      "frame": "frames/047_00-06-45.png",
+      "category": "document",
+      "title": "Action framework: Study to Repeat cycle definition",
+      "on_screen": "What You Have To Do:\nStudy -> Research -> Create -> Test -> Feedback Loop -> Repeat\n\nStudy: Learning new information to build your knowledge basis\n\nResearch: Figure out what people want\n\nCreate: Communicate how you can help those people get what they want\n\nTest: Launch tests in 1 campaign. If it gets spend = good. If it does not get spend = not good.\n\nFeedback Loop: Make educated guesses on why your ad is working or not working\n\nRepeat: Go back to researching again, or leverage learnings from feedback loop to make more ads.\n\nThat's It.",
+      "not_in_transcript": "Includes \"That's It.\" at the bottom. Exact rule: \"If it gets spend = good. If it does not get spend = not good.\"",
+      "legibility": "clear",
+      "candidate_id": "F022",
+      "drive_url": "https://drive.google.com/file/d/1EwCeC1U6OsLgyvo6C9eqgIUga2E_oh4s/view?usp=drivesdk"
+    },
+    {
+      "t": 884.984,
+      "time": "00:14:45",
+      "frame": "frames/047_00-14-45.png",
+      "category": "document",
+      "title": "Community comment on embracing discomfort to reach 10K",
+      "on_screen": "That's It.\n\nSpencer Pawliw • just now\nWelcome @Halit Coğuplugil\n\nJust remember that whenever you learn new information, you're going to fell uncomfortable\n\nBut that's a good thing.\n\nBecause the person you are right now can't hit 10K.\n\nSo you have to get uncomfortable in order to change and become the person that can hit 10K.\n\nYou got this, brother.\n\nThis system is exactly how you're going to get to 100k/month and exactly how others get to 100k/day",
+      "not_in_transcript": "User name: Spencer Pawliw, tagged user: @Halit Coğuplugil; text at bottom: 'This system is exactly how you're going to get to 100k/month and exactly how others get to 100k/day'; 'Published' toggle, 'CANCEL', 'SAVE'.",
+      "legibility": "clear",
+      "candidate_id": "F030",
+      "drive_url": "https://drive.google.com/file/d/1EwCeC1U6OsLgyvo6C9eqgIUga2E_oh4s/view?usp=drivesdk"
+    },
+    {
+      "t": 1004.971,
+      "time": "00:16:45",
+      "frame": "frames/047_00-16-45.png",
+      "category": "webpage",
+      "title": "Google AI Overview: Does the brain like change?",
+      "on_screen": "Search query: does the brain like change?\n\nAI Overview\nNo, the brain generally resists change because it prioritizes predictability, safety, and efficiency by relying on established neural pathways and habits, triggering discomfort or threat responses when routines are disrupted. However, the brain is also wonderfully neuroplastic, meaning it can change and adapt throughout life, especially with small, consistent efforts that build new pathways, allowing for growth and learning, though it takes more work than for a child's developing brain.\n\nWhy the Brain Resists Change:\n• Survival Instinct: The brain's primary job is to keep you safe; the known (even if...\n\nArticle previews:\n- Brain Power Revealed: The Neuroscience of Human Behavior (Columbia University School of Pro...)\n- Why your brain doesn't like change (and how to outsmart it) - LifeDirect",
+      "not_in_transcript": "Detailed text about neuroplasticity, building new pathways, 'child's developing brain', Survival Instinct bullet point, and sidebar article titles from Columbia University and LifeDirect.",
+      "legibility": "clear",
+      "candidate_id": "F034",
+      "drive_url": "https://drive.google.com/file/d/1EwCeC1U6OsLgyvo6C9eqgIUga2E_oh4s/view?usp=drivesdk"
+    }
+  ]
+}

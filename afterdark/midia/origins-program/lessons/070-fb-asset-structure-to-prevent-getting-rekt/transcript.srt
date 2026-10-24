@@ -1,0 +1,247 @@
+1
+00:00:00,000 --> 00:00:03,480
+Some people asked me how do you best protect your Facebook ad sets from getting banned?
+
+2
+00:00:04,120 --> 00:00:09,900
+So if you guys are new, getting banned from Facebook Ads is a very real reality that happens happens very, very often.
+
+3
+00:00:09,900 --> 00:00:12,360
+Even if you're drop shipping, starting a new brand,
+
+4
+00:00:12,840 --> 00:00:13,720
+it just happens.
+
+5
+00:00:13,720 --> 00:00:19,620
+Recently, as I'm filming this in October 2025, there's been a ban wave that caused a lot of people to be banned.
+
+6
+00:00:19,620 --> 00:00:25,620
+So I'm going to teach you how to actually set it up so everything is proper, you won't have issues of getting banned.
+
+7
+00:00:26,640 --> 00:00:30,840
+So we're going to set up three Business Managers, or optionally two.
+
+8
+00:00:31,640 --> 00:00:34,360
+The first Business Manager will only host the pixel
+
+9
+00:00:34,360 --> 00:00:41,240
+and be inside the Business Manager, you want to ensure that you have three profiles that are all admin.
+
+10
+00:00:42,080 --> 00:00:45,000
+We only admin all of these because we're only going to use real profiles.
+
+11
+00:00:45,520 --> 00:00:51,280
+You might have heard people ask you to buy assets from from sellers, you know, aged assets or whatever it may be.
+
+12
+00:00:51,900 --> 00:00:58,500
+I'm telling you that having real profiles as in your own profile, friends and families, your parents, sisters, brothers
+
+13
+00:00:58,500 --> 00:01:01,000
+is going to be the most legit one.
+
+14
+00:01:01,440 --> 00:01:03,640
+If you buy assets, you run the risk of getting
+
+15
+00:01:03,640 --> 00:01:05,980
+hacked, it's a big one,
+
+16
+00:01:06,360 --> 00:01:07,400
+getting banned is is another big one as well.
+
+17
+00:01:07,400 --> 00:01:13,580
+They can easily hack your your ad spend while you're spending halfway and steal your money. It's It's something that happens.
+
+18
+00:01:13,860 --> 00:01:18,080
+Which is why you you ideally don't want to buy any assets. You only want to create it through your own profile.
+
+19
+00:01:19,280 --> 00:01:24,600
+So first of all, you need to get these profiles, use your own, your family, friends, whoever it is. That's the best
+
+20
+00:01:25,400 --> 00:01:26,440
+'cause those are most legit.
+
+21
+00:01:27,360 --> 00:01:32,860
+So these three profiles are going to be admin on all of these BMs.
+
+22
+00:01:34,280 --> 00:01:35,560
+So they're the same three admins
+
+23
+00:01:35,560 --> 00:01:36,700
+in all these BMs.
+
+24
+00:01:37,240 --> 00:01:38,280
+That's for the profile level.
+
+25
+00:01:38,680 --> 00:01:39,740
+On a BM level,
+
+26
+00:01:40,440 --> 00:01:45,640
+one BM will host pixel only, meaning you create the pixel on this Business Manager.
+
+27
+00:01:46,280 --> 00:01:50,080
+So no matter how many stores you're running, all the pixels are run through this one Business Manager.
+
+28
+00:01:50,920 --> 00:01:54,940
+And then the second Business Manager is going to be a holding BM.
+
+29
+00:01:54,940 --> 00:01:56,340
+I put it as optional
+
+30
+00:01:56,340 --> 00:02:04,540
+because whether you should have two or three, it depends on whether you have, like, a company incorporated.
+
+31
+00:02:04,540 --> 00:02:06,660
+Why?
+
+32
+00:02:06,660 --> 00:02:14,060
+If you have a company incorporated like LLC or LTD, you can verify the BM. Then instead of having these two, BM two and three,
+
+33
+00:02:14,300 --> 00:02:19,020
+the ad accounts go under BM two. Then it's just the pixel BM and ad account BM.
+
+34
+00:02:19,700 --> 00:02:23,200
+If you verify it, it becomes stronger, and there's a whole lot of benefits to it:
+
+35
+00:02:23,200 --> 00:02:27,500
+more ad account limits, your spend limit on the ad account gets goes higher,
+
+36
+00:02:28,280 --> 00:02:29,980
+etc. Performance-wise, it's all the same.
+
+37
+00:02:31,100 --> 00:02:34,540
+Let's say if you don't have that, then you need to have three BMs.
+
+38
+00:02:34,960 --> 00:02:39,080
+A holding BM, you don't do anything on it. There's no assets in it.
+
+39
+00:02:39,640 --> 00:02:42,180
+You just share your pixels into here.
+
+40
+00:02:42,860 --> 00:02:44,620
+You share your ad account into here.
+
+41
+00:02:45,300 --> 00:02:51,120
+Then you run all the ads on BM two, but actually the the assets are hosted on BM one and three.
+
+42
+00:02:51,920 --> 00:02:53,400
+The reason we do all of this,
+
+43
+00:02:54,100 --> 00:02:58,040
+if let's say something happens to to you run everything on one BM,
+
+44
+00:02:58,040 --> 00:03:02,200
+it gets banned, your pixel gets screwed, your ad account gets screwed.
+
+45
+00:03:02,580 --> 00:03:04,440
+You lose all two things together.
+
+46
+00:03:05,340 --> 00:03:10,660
+Whereas if you do it this way, if BM two gets banned, you still maintain your pixel and your ad account.
+
+47
+00:03:11,360 --> 00:03:13,580
+Or worst case, your ad account gets banned,
+
+48
+00:03:14,000 --> 00:03:17,640
+you still have your pixel. You still have something. It's not the end of the world.
+
+49
+00:03:17,640 --> 00:03:20,600
+So that's what why we use assets like this. It's how you protect yourself.
+
+50
+00:03:21,300 --> 00:03:24,500
+But if you have an LLC, you can verify your Business Manager,
+
+51
+00:03:25,360 --> 00:03:29,780
+I myself, I would just use put this over here. You don't need the holding BM.
+
+52
+00:03:30,560 --> 00:03:36,400
+Once you verify the Business Manager, it becomes more, what's the word for it, solid, less likely to get banned.
+
+53
+00:03:37,120 --> 00:03:42,160
+So then you just need to share the pixel BM, the pixel only, to the second BM.
+
+54
+00:03:43,160 --> 00:03:43,680
+It's pretty straightforward.
+
+55
+00:03:43,680 --> 00:03:47,500
+So profiles are set, pixel set, ad account set.
+
+56
+00:03:48,060 --> 00:03:51,340
+The only last thing besides here is just your page.
+
+57
+00:03:51,920 --> 00:03:57,960
+The page shouldn't be created on a Business Manager level, it should be created on the profile level.
+
+58
+00:03:58,700 --> 00:04:01,100
+I'll show you guys in a subsequent video of how to do that.
+
+59
+00:04:01,480 --> 00:04:06,880
+Hopefully this all makes sense. So either you have two or three BMs, and everything, all the assets will be separated out.
+
+60
+00:04:07,120 --> 00:04:13,540
+The profiles for each of the BM will be the same. Since you're running real profiles from real people, there's not much risk to it.
+
+61
+00:04:13,980 --> 00:04:15,600
+These three are fine to be admin on all.
+
+62
+00:04:16,060 --> 00:04:22,920
+Make sure that you have the admin. Don't only leave one admin 'cause if your profile gets banned and you're the only admin, no one else can access the Business Manager also.

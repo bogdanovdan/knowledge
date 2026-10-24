@@ -1,0 +1,367 @@
+1
+00:00:00,440 --> 00:00:03,080
+Presenter: Okay, here's how to put all of your Facebook ad assets together.
+
+2
+00:00:03,560 --> 00:00:08,960
+Presenter: So you've learned how to create a Business Manager, your pixel, your profiles, your pages already, and your ad accounts.
+
+3
+00:00:09,360 --> 00:00:11,280
+Presenter: How do you actually invite each other to each?
+
+4
+00:00:12,080 --> 00:00:14,420
+Presenter: So, three Business Managers over here today.
+
+5
+00:00:14,580 --> 00:00:16,480
+Presenter: Let's see the first one we're going to go through.
+
+6
+00:00:17,200 --> 00:00:20,280
+Presenter: It's the one that's going to be the pixel only with three-plus real profiles.
+
+7
+00:00:21,300 --> 00:00:23,240
+Presenter: So first of all, why do you need real profile?
+
+8
+00:00:23,680 --> 00:00:26,060
+Presenter: So in this case I only have two. How do you add them in?
+
+9
+00:00:26,060 --> 00:00:29,700
+Presenter: Simple. You have click the Invite People button.
+
+10
+00:00:30,180 --> 00:00:34,860
+Presenter: Let's say put in an email address here, yadayada@gmail.com.
+
+11
+00:00:38,160 --> 00:00:41,440
+Presenter: Next, give them admin access. It's all your real profiles.
+
+12
+00:00:41,980 --> 00:00:44,360
+Presenter: If it's your real profiles, just it's fine, give them everything.
+
+13
+00:00:45,400 --> 00:00:47,760
+Presenter: Access to everything inside here as well, just tick everything here.
+
+14
+00:00:49,540 --> 00:00:50,660
+Presenter: Give them full access to everything.
+
+15
+00:00:51,100 --> 00:00:54,320
+Presenter: Tick next, and then there's going to be invitation, invite, and that's it.
+
+16
+00:00:55,120 --> 00:00:58,260
+Presenter: So let's say I invite yadayada@gmail.com.
+
+17
+00:01:00,820 --> 00:01:03,240
+Presenter: So I would then have three profiles. Why do I need three profiles?
+
+18
+00:01:04,680 --> 00:01:08,220
+Presenter: So if you only have one profile, and it gets banned,
+
+19
+00:01:09,540 --> 00:01:13,460
+Presenter: you lose access to everything connected to this uh Facebook profile,
+
+20
+00:01:13,800 --> 00:01:15,660
+Presenter: which means if you're running ads on your ad account,
+
+21
+00:01:15,660 --> 00:01:17,960
+Presenter: and your Facebook profile gets banned,
+
+22
+00:01:17,960 --> 00:01:19,820
+Presenter: you can't access your Business Manager,
+
+23
+00:01:19,820 --> 00:01:22,700
+Presenter: which means you can't access your ad account, which means anything that was running
+
+24
+00:01:22,700 --> 00:01:26,340
+Presenter: is basically just stopped or lost, and you can't recover it anymore,
+
+25
+00:01:27,140 --> 00:01:32,420
+Presenter: which is why we always have backups. If one gets banned, you still have other other profiles to have access to the Business Manager.
+
+26
+00:01:32,880 --> 00:01:35,280
+Presenter: This way you are safe. So always have three.
+
+27
+00:01:36,200 --> 00:01:37,580
+Presenter: So in this case, what are we going to do?
+
+28
+00:01:38,160 --> 00:01:40,540
+Presenter: We learned how to set up the Facebook pixel already through Shopify.
+
+29
+00:01:41,520 --> 00:01:46,160
+Presenter: So pixel only, how do we then share it to the Business Manager 2, in this case?
+
+30
+00:01:47,140 --> 00:01:47,480
+Presenter: Good question.
+
+31
+00:01:48,280 --> 00:01:49,440
+Presenter: So let's go to Business Manager 2.
+
+32
+00:01:50,880 --> 00:01:56,960
+Presenter: Over here, simple trick to get the business ID is this URL has a business ID behind it.
+
+33
+00:01:57,740 --> 00:02:02,480
+Presenter: The last part of this The last part of this ID is blurred just uh just for my privacy,
+
+34
+00:02:03,340 --> 00:02:06,380
+Presenter: but you guys just need to copy the whole string of numbers over here.
+
+35
+00:02:06,960 --> 00:02:09,540
+Presenter: This is the Business Manager ID, then right click, click on copy.
+
+36
+00:02:10,700 --> 00:02:12,480
+Presenter: So this is the Business Manager that's going to hold everything.
+
+37
+00:02:13,560 --> 00:02:14,540
+Presenter: Let's go back to Business Manager 1.
+
+38
+00:02:15,280 --> 00:02:18,220
+Presenter: Let's click on Data Sources to the datasets and pixels.
+
+39
+00:02:18,940 --> 00:02:20,940
+Presenter: It says Chic Wave Accessories over here.
+
+40
+00:02:21,620 --> 00:02:25,120
+Presenter: I want to assign this to the new holding BM.
+
+41
+00:02:25,600 --> 00:02:28,260
+Presenter: Click on Partners, click Assign partner,
+
+42
+00:02:29,600 --> 00:02:31,940
+Presenter: input your Business Manager ID, paste it in,
+
+43
+00:02:32,400 --> 00:02:34,900
+Presenter: Full, manage events dataset, click Assign.
+
+44
+00:02:36,460 --> 00:02:39,200
+Presenter: And that's it. Now if you go back to Business Manager 2,
+
+45
+00:02:41,120 --> 00:02:44,740
+Presenter: let's look at datasets and pixels, see if it's here yet. It says Request Pending.
+
+46
+00:02:45,640 --> 00:02:51,560
+Presenter: Click it, just accept the stuff, and then just refresh your page, then it should show up.
+
+47
+00:02:54,480 --> 00:02:57,680
+Presenter: There we go. Now you have it connected to your Business Manager already.
+
+48
+00:02:58,680 --> 00:03:02,880
+Presenter: Then, Business Manager 3, where you host your ad accounts, where you create ad accounts,
+
+49
+00:03:03,080 --> 00:03:05,100
+Presenter: let's say I already created my ad account here.
+
+50
+00:03:06,560 --> 00:03:10,340
+Presenter: Cosmo Cosmo Projectors, simple. In this page, click on Partners again,
+
+51
+00:03:11,280 --> 00:03:11,980
+Presenter: Assign partner,
+
+52
+00:03:11,980 --> 00:03:16,420
+Presenter: input the same Business Manager ID from Business Manager 2,
+
+53
+00:03:17,460 --> 00:03:19,340
+Presenter: full manage ad account access, click assign.
+
+54
+00:03:22,280 --> 00:03:22,920
+Presenter: You're done.
+
+55
+00:03:24,840 --> 00:03:27,160
+Presenter: Then, go to Ad accounts in Business Manager 2.
+
+56
+00:03:28,540 --> 00:03:31,860
+Presenter: So actually, th- this this is the ad account that was shared.
+
+57
+00:03:32,900 --> 00:03:34,700
+Presenter: So I have access to it now.
+
+58
+00:03:35,260 --> 00:03:37,660
+Presenter: So what do you need to do from here? A few things.
+
+59
+00:03:38,640 --> 00:03:40,610
+Presenter: Go back to Data Sources in Business Manager 2,
+
+60
+00:03:43,310 --> 00:03:45,210
+Presenter: click on Connected Assets,
+
+61
+00:03:46,130 --> 00:03:48,870
+Presenter: Connect assets, and then connect it to the ad account attached.
+
+62
+00:03:49,650 --> 00:03:54,670
+Presenter: Now you you've just uh assigned the ad account, I mean the pixel to the ad account.
+
+63
+00:03:55,170 --> 00:03:55,530
+Presenter: Great.
+
+64
+00:03:56,810 --> 00:04:02,370
+Presenter: Then next thing you need to do, go back to People. The people you have in Business Manager 2,
+
+65
+00:04:03,210 --> 00:04:08,550
+Presenter: you have to click uh on the dot over here, assign assets,
+
+66
+00:04:09,070 --> 00:04:11,430
+Presenter: then assign all the assets that you just added.
+
+67
+00:04:12,090 --> 00:04:18,210
+Presenter: My ad account, full control, my pixel, which is here the dataset over here.
+
+68
+00:04:18,210 --> 00:04:23,690
+Presenter: Pixels got renamed to datasets, manage the best data set, assign assets.
+
+69
+00:04:23,690 --> 00:04:28,170
+Presenter: Manage events dataset, assign assets,
+
+70
+00:04:28,170 --> 00:04:32,590
+Presenter: takes some time, but great, now you can run ads on it. We're not going to be
+
+71
+00:04:32,590 --> 00:04:35,230
+Presenter: attaching the Facebook page to the Business Manager
+
+72
+00:04:35,230 --> 00:04:40,730
+Presenter: because you want it connected to the ad account only. So let me show you how it works now.
+
+73
+00:04:41,590 --> 00:04:45,230
+Presenter: Now, I mean, I'm on Business Manager 2, I have this ad account here.
+
+74
+00:04:46,750 --> 00:04:49,170
+Presenter: I say, I want to create a new ad, sales campaign,
+
+75
+00:04:52,090 --> 00:04:55,050
+Presenter: this is a test for you guys. If I go to the ad level,
+
+76
+00:04:57,250 --> 00:05:00,710
+Presenter: let me change the objective here. Sales objective.
+
+77
+00:05:01,910 --> 00:05:07,470
+Presenter: There's the- there's going to be modules afterwards that teach you actually how to set up the- the campaign, so don't worry about this.
+
+78
+00:05:07,990 --> 00:05:11,550
+Presenter: I said how to set it up for sales. I just want to show you how it all looks like now.
+
+79
+00:05:12,830 --> 00:05:15,370
+Presenter: So on the ad set level, ad sets over here,
+
+80
+00:05:16,150 --> 00:05:20,670
+Presenter: it's going to be your dataset, which you can then select your pixel.
+
+81
+00:05:21,630 --> 00:05:23,330
+Presenter: Conversion event is always going to be purchase.
+
+82
+00:05:26,970 --> 00:05:30,210
+Presenter: Don't need to worry too much about this, cuz if you set up through Shopify, everything is pretty much straightforward.
+
+83
+00:05:30,210 --> 00:05:32,790
+Presenter: I want to show you that you can actually access everything only.
+
+84
+00:05:34,050 --> 00:05:38,930
+Presenter: So, if you remember, in the previous step, the Facebook page was connected to my Facebook profile.
+
+85
+00:05:39,690 --> 00:05:42,770
+Presenter: So if I look at it now, if I type "the BM backup for Origins",
+
+86
+00:05:43,470 --> 00:05:47,790
+Presenter: you don't even need the page to be connected to the Business Manager, and you can still use it.
+
+87
+00:05:48,090 --> 00:05:54,270
+Presenter: For Instagram account, you may opt to create one as well. Most people don't really, you can just choose to create a Facebook page first,
+
+88
+00:05:55,690 --> 00:06:03,590
+Presenter: then the ad account- you know, the- Instagram page will run under the same name as the back- the Facebook page.
+
+89
+00:06:06,930 --> 00:06:10,390
+Presenter: That's pretty much it. So you've already learned over here,
+
+90
+00:06:10,390 --> 00:06:14,290
+Presenter: how to set up the three BMs, how to share the access to each other.
+
+91
+00:06:15,110 --> 00:06:21,010
+Presenter: Then you're pretty much good to start running ads on Business Manager 2, just open Ads Manager, seems like I mentioned here.
+
+92
+00:06:21,010 --> 00:06:26,790
+Played audio: Free audio post-production by auphonic.com.

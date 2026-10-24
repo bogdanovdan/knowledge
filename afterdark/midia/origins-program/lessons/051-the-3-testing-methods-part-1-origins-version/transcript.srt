@@ -1,0 +1,767 @@
+1
+00:00:00,000 --> 00:00:06,980
+All right. So, in this video, we're going to talk about the simplified testing methods that you can use to actually test all of these angles.
+
+2
+00:00:06,980 --> 00:00:10,940
+Now, I do have a more advanced method, but that's going to be sort of saved for Evolve.
+
+3
+00:00:11,380 --> 00:00:19,560
+But my point with this is that for those of you that are just starting out, or just early stages, and you maybe you're in Evolve and you're watching this and you're, you know, kind of doing less than 100k per month.
+
+4
+00:00:19,640 --> 00:00:27,840
+But basically, if you're less than 100k per month, this is going to be how you use these two strategies to test, and I'm going to keep it very, very simple, so that way there's there's just no confusion
+
+5
+00:00:27,840 --> 00:00:34,280
+and you're not in a place where you're trying to, you know, figure out what is the best way to test, and you can just focus on testing, okay?
+
+6
+00:00:34,460 --> 00:00:38,760
+So, I'm going to simplify this down for you, and then once you start to get to more scale, we can start to add more complexity.
+
+7
+00:00:38,760 --> 00:00:43,880
+But again, in this video, I'm going to talk about the two methods, and then we're going to get into some examples that actually break this down.
+
+8
+00:00:43,880 --> 00:00:50,200
+So, let's go ahead and share the screen. So, when it comes to how you go about testing all your angles, there's basically three testing methods, okay?
+
+9
+00:00:50,200 --> 00:00:58,700
+Now, the biggest thing when it comes to how you test angles and actually turning the information and angles that you found from the avatar training into ads
+
+10
+00:00:59,060 --> 00:01:08,100
+is that no matter what, no matter how you do it, no matter you use the Marksman method, like you can see down below, or the other two methods that I'm about to teach you,
+
+11
+00:01:08,440 --> 00:01:13,780
+all that matters is that you're aware. And so if something starts getting spend, and something starts working,
+
+12
+00:01:14,460 --> 00:01:23,900
+just know that you're aware, oh, hey, this was this ad that came from this specific sub-avatar, I should optimize that further, because, again, you are aware, okay?
+
+13
+00:01:24,620 --> 00:01:28,180
+Now, if you're struggling to combine things, which hopefully you aren't, the main, main takeaway is that.
+
+14
+00:01:28,420 --> 00:01:35,220
+So, no matter what, no matter how you test, if you see something working, because you've gone through the avatar training, you're going to be able to understand why.
+
+15
+00:01:35,560 --> 00:01:40,560
+And not just why the ad is working, but why somebody cares about the ad, which is the most important thing, okay?
+
+16
+00:01:40,980 --> 00:01:49,180
+So, now again, at this point of doing the avatar work that we just did, you should have a ton of angles that, you know, you are ready to basically put into concepts and go and test.
+
+17
+00:01:49,460 --> 00:01:58,660
+The question is is how do we actually go about testing all these angles so that we have some kind of organized fashion, and we're not just, what is basically the third method, shotgunning things into the account?
+
+18
+00:01:58,660 --> 00:02:05,740
+Which even then, it's fine. If you just want to shotgun things for the sake of simplicity, you can. Just put a bunch of things together and, again, hopefully show you a better way to do it.
+
+19
+00:02:05,740 --> 00:02:09,800
+But at the end of the day, I just want you guys understanding that you need to go and test these angles, okay? And so,
+
+20
+00:02:09,800 --> 00:02:16,060
+that is what I want to discuss. And so the first type, or again, there's three types of ways that you can test angles or test ads in general.
+
+21
+00:02:16,060 --> 00:02:20,100
+And so the first type of way that we test ads is something called the Marksman method, okay?
+
+22
+00:02:20,400 --> 00:02:24,400
+This is where you test a lot of things at once to see what sticks, but you do it in a controlled environment.
+
+23
+00:02:24,980 --> 00:02:27,580
+Okay? Now, if you're wondering, why is this called Marksman? Okay.
+
+24
+00:02:27,900 --> 00:02:35,300
+The reason it's called Marksman method is, for some reason, a lot of people in advertising refer to, you know, advertising strategies as like gun analogies.
+
+25
+00:02:35,440 --> 00:02:39,520
+I also play Call of Duty, but it doesn't really matter, and I was not even that good at COD. But
+
+26
+00:02:39,520 --> 00:02:45,940
+most of you are probably wondering like, you know, or most of you are probably already aware of the other two, which is like shotgun and sniper.
+
+27
+00:02:46,180 --> 00:02:52,160
+Sniper is like, oh, just hone in on one thing, and then shotgun is like, oh, just blast and test everything. Marksman is the best of both,
+
+28
+00:02:52,660 --> 00:02:59,760
+okay? And so with this method, you're not as honed in as a sniper, but you're also not as careless as a shotgunner. Again, you are the best of both.
+
+29
+00:03:00,020 --> 00:03:09,140
+So, pros of the Marksman method is you are much more fluid, okay, and you don't have this, stay within these lines, and at the end of the day, you're just really focused on making the best ads possible.
+
+30
+00:03:09,540 --> 00:03:15,260
+Now, mainly, again, just to focus on like, what is the goal? Why are we doing this? Why are we using this method to test ads?
+
+31
+00:03:15,720 --> 00:03:20,660
+Well, what you're looking to get is you're looking to get a direction for you to go in.
+
+32
+00:03:21,160 --> 00:03:28,820
+That is all, okay? And so direction can be defined as identifying the specific angle that you should be going deeper on,
+
+33
+00:03:28,820 --> 00:03:34,900
+aka doing more research and iterating on, to create more scalable ads, and there's an example coming down below.
+
+34
+00:03:35,040 --> 00:03:39,260
+At the end of the day, your goal when you test with the Marksman method is, what do people care about?
+
+35
+00:03:39,540 --> 00:03:44,000
+Oh, it seems like people care about this thing or this angle? Okay, great. I'm going to go deeper on it,
+
+36
+00:03:44,400 --> 00:03:51,360
+okay? Now, I'm going to I'm going to show you how to go deeper, but the cons of the Marksman method is you aren't always able to test things, you know, the best way possible,
+
+37
+00:03:51,360 --> 00:03:58,660
+because you're kind of restricting yourself, especially when we're putting this into the 3:2:2 method, which you will see in a second.
+
+38
+00:03:59,100 --> 00:04:04,180
+You're only allowing yourself really one hook or one headline for that specific angle.
+
+39
+00:04:04,740 --> 00:04:14,340
+Okay? And so you're not as gonna confi- you're not gonna be able to say as confidently like, "Oh, this is this angle isn't working," because you only tried to execute it one specific way,
+
+40
+00:04:14,740 --> 00:04:23,480
+okay? And at the end of the day, it's hard to figure out why an ad doesn't work and why an ad works, in general. And again, you're gonna be better at it than 99% of people from going through the avatar training,
+
+41
+00:04:23,520 --> 00:04:32,360
+but overall, just know that you're not able to go as deep into a specific ad angle when you're doing the marksman method to be able to fully validate that angle, okay?
+
+42
+00:04:32,360 --> 00:04:45,460
+But what you do get as a trade-off is you can test more at once in order to ga- to gain or find a direction that you can then go deeper on. Okay, and so, an example of this, just so I can pull one up for you guys,
+
+43
+00:04:45,720 --> 00:04:56,540
+these ads do have something in common. They're using superlatives, and so, when you're testing concepts, they want you need you need them to be grouped by something, right? So maybe if you're doing an us versus them, right,
+
+44
+00:04:56,540 --> 00:05:09,220
+instead of doing an us versus them on one angle, and then you have three different ways of saying that same angle, you're basically gonna do three different angles, or sorry, one different angle per per variation, okay?
+
+45
+00:05:09,760 --> 00:05:19,720
+And so, just just to be crystal clear on that, first doctor-designed humidifier, the world's first stainless steel humidifier, the world's cleanest humidifier. These are three different angles that we're targeting.
+
+46
+00:05:19,720 --> 00:05:28,120
+And so, for the sake of simplicity before we get into sniper method, when it comes to the marksman method, just do it on images, and that's it.
+
+47
+00:05:28,440 --> 00:05:33,760
+Don't worry about videos. Just say, "Hey, whenever I'm testing images, I'm gonna do the marksman method."
+
+48
+00:05:34,200 --> 00:05:42,480
+Okay? So, whether you do an us versus them, you do a meme-style ad, or like whatever it is, whatever your concept is. Say you have, you know, three sub-avatars that you want to test.
+
+49
+00:05:43,000 --> 00:05:53,140
+Great. Pick the best angle for each one of those sub-avatars and put them inside of this, and then test them individ- like so that'll be one concept, right? "Initial sub-avatar test."
+
+50
+00:05:53,360 --> 00:05:58,700
+That is your concept. Again, concept can be anything. What is the concept explanation? And we're gonna get into another module that shows
+
+51
+00:05:58,700 --> 00:06:07,860
+examples of all this stuff to make it even more crystal clear, but I want to focus on the the fundamentals here of understanding the strategy behind this, okay? But say you're going to, concept is testing sub-avatars,
+
+52
+00:06:08,160 --> 00:06:19,380
+and then your concept explanation is, "I'm trying to figure out what sub-avatar cares the most about this desire." Okay, great. Let me go ahead, and in the three, so in the 3-2-2, there's three variations, right?
+
+53
+00:06:19,800 --> 00:06:27,540
+Those three variations are gonna be the three different angles, okay? So again, if we just go back, let me pull an example from the training.
+
+54
+00:06:27,820 --> 00:06:38,840
+All right, perfect. So again, I have this no-screener avatar that I found. Angle number one that I got was your discipline is being wasted. Angle number two is complete your sleep protocol. Angle number three was protect your melatonin production. Okay?
+
+55
+00:06:39,300 --> 00:06:47,480
+These are the three angles that I would test in this one concept, but here is where I'm gonna be very, very It's gonna be very easy for you guys to understand:
+
+56
+00:06:47,840 --> 00:06:54,280
+You're just going to pick the best one of these. You're not going to pick all three, you're just going to pick one, okay?
+
+57
+00:06:54,660 --> 00:07:02,600
+And so, when you're testing using the marksman's method, you are picking one angle for your variation, okay?
+
+58
+00:07:02,600 --> 00:07:10,280
+And so if we even go back, even one more step, going back to the definitions: 3-2-2 means three creatives, two body copies, two headlines, okay?
+
+59
+00:07:10,700 --> 00:07:22,140
+And so, in the variation side of things, rather than doing, if we go back to this angle, rather than doing one angle and three different ways of saying it—that's gonna be sniper method, which we're gonna get into—
+
+60
+00:07:22,440 --> 00:07:29,740
+in the marksman method, we're gonna pick this one angle, and then we're going to pick one hook. That is it, okay?
+
+61
+00:07:30,020 --> 00:07:35,520
+And then your second variation is gonna be angle number two, and let's say you like this hook best, great.
+
+62
+00:07:35,900 --> 00:07:45,320
+And then the third variation, again from the 3-2-2, is going to be this angle, and you pick the best one here, and let's say we pick this one, okay?
+
+63
+00:07:45,660 --> 00:07:53,080
+And so, when you do things that way, you're covering a larger surface area to be able to see what do people care about.
+
+64
+00:07:53,340 --> 00:08:02,820
+Do they care about protecting their melatonin? Do they do they care about completing their sleep protocol, or do they care about wasting their discipline? What angle do they care about? Okay?
+
+65
+00:08:03,140 --> 00:08:08,500
+That is the goal. That is what you're doing with marksman method is you're, again, trying to get a direction.
+
+66
+00:08:08,620 --> 00:08:16,700
+And just so it's clear, the reason why I'm telling you guys to only do this with image ads, especially if you're sub-100k per month, is because you don't need to be more complicated than that.
+
+67
+00:08:16,960 --> 00:08:24,760
+Hey, you know what, image ads are gonna have one purpose for me, because, again, and I'm gonna explain them a little bit deeper down below in the examples section where I show you more examples. But
+
+68
+00:08:24,760 --> 00:08:31,660
+that is the marksman method. That is what you are going to do. You're going to test multiple angles, okay, on your one concept.
+
+69
+00:08:31,940 --> 00:08:40,400
+And so your concept, just going back, could be, "I'm going to test this no-screener avatar," and then I'm going to do angle one, angle two, angle three, those are my three variations.
+
+70
+00:08:40,820 --> 00:08:47,800
+And because, again, we're doing with marksman method, we're only going to have one way of communicating this angle.
+
+71
+00:08:47,800 --> 00:08:49,220
+K?
+
+72
+00:08:49,220 --> 00:08:55,480
+So that is the marksman method. That is, hopefully, as clear as I can make it for you guys, especially for those of you that are sub-100k per month,
+
+73
+00:08:55,800 --> 00:08:58,480
+to just test it on images and hopefully that makes more sense.
+
+74
+00:08:58,720 --> 00:09:00,580
+Again, you're taking bigger swings,
+
+75
+00:09:00,580 --> 00:09:03,920
+and you're going to make those ads fully congruent like I showed you.
+
+76
+00:09:03,920 --> 00:09:07,740
+You saw in the doctor design one and the world's first stainless steel,
+
+77
+00:09:07,740 --> 00:09:12,860
+that I had a doctor in the doctor design one and I had the stainless steel showing in the stainless steel one. Okay?
+
+78
+00:09:12,900 --> 00:09:18,620
+So make the ads fully congruent. That's what congruency means, is that you make things that they they they go together, okay?
+
+79
+00:09:18,940 --> 00:09:21,900
+So that is the goal with the marksman method is, again, to gain direction.
+
+80
+00:09:22,500 --> 00:09:23,880
+Now, sniper method.
+
+81
+00:09:23,880 --> 00:09:30,160
+This is when we test within a strict environment to get closer to significant learnings as fast as possible, okay?
+
+82
+00:09:30,420 --> 00:09:36,340
+Now, unlike the marksman method above, where you are essentially testing multiple angles at once, so multiple angles per concept,
+
+83
+00:09:36,760 --> 00:09:42,400
+the sniper method is all about testing different execution styles of a specific angle, okay?
+
+84
+00:09:42,740 --> 00:09:52,600
+So once you find an angle, doing the marksman method, basically, you can leverage the sniper method to go all-in on that angle in order to create the best ads possible.
+
+85
+00:09:53,020 --> 00:09:56,280
+Now the pros of this is you have a clear understanding of what works.
+
+86
+00:09:56,500 --> 00:10:01,540
+You're going to be more organized, and you're going to learn how to basically communicate to your avatar, right?
+
+87
+00:10:01,800 --> 00:10:08,100
+And on top of that, how, like you're going to be able to figure out, okay, like did I fully validate and test this angle?
+
+88
+00:10:08,260 --> 00:10:17,100
+Because if we go back and take a look at this, right, this one way of communicating "Your discipline is being wasted" might not be the most effective way of communicating it.
+
+89
+00:10:17,440 --> 00:10:22,440
+But here's the beauty, okay? When you're testing with marksman method, you're just trying to get some kind of direction.
+
+90
+00:10:22,700 --> 00:10:28,940
+Like, hey, are people looking, like do people like the idea of not wasting their discipline, or do they like the idea of protecting their melatonin, right?
+
+91
+00:10:28,940 --> 00:10:32,820
+We're only communicating it one way. It might not be converting that great,
+
+92
+00:10:33,040 --> 00:10:37,920
+but at the end of the day, we're seeing that more people care about melatonin production than these other two things.
+
+93
+00:10:38,220 --> 00:10:40,260
+That doesn't mean that these other angles won't work,
+
+94
+00:10:40,460 --> 00:10:45,140
+but now what we can do is we can apply the sniper methodology here, okay?
+
+95
+00:10:45,520 --> 00:10:52,220
+And now we can focus a concept on this angle, and then do three different ways of executing it, right?
+
+96
+00:10:52,420 --> 00:10:54,460
+We can communicate it three different ways.
+
+97
+00:10:54,640 --> 00:10:57,920
+And that's not just with like hooks or headlines. You could also do that with formats.
+
+98
+00:10:57,920 --> 00:11:00,760
+You could also just do that with overall copywriting strategy.
+
+99
+00:11:01,380 --> 00:11:03,840
+At the end of the day, it comes down to the execution of it.
+
+100
+00:11:04,160 --> 00:11:11,220
+So for sniper method specifically, let's say that that initial marksman test—and I know there's a lot of tongue twisters here. I might just call it the MM.
+
+101
+00:11:11,900 --> 00:11:20,920
+Let's just say if the initial marksman method test shows you that melatonin production and protecting it is what people are clicking on, and is getting spend in the ad account, and maybe getting a couple of purchases,
+
+102
+00:11:21,480 --> 00:11:24,320
+well, now you can use the sniper method to go and do a video, right?
+
+103
+00:11:24,320 --> 00:11:33,460
+And when you do that, again, this allows you to double down on the direction that you gain, and fully start to validate specific angles, right?
+
+104
+00:11:33,940 --> 00:11:39,840
+Now, the cons of this, and the reason why I'm not recommending you guys to, you know, do sniper method really for for images,
+
+105
+00:11:39,840 --> 00:11:46,400
+is because we found that when we get direction from images and then do a video version, it just crushes way better, or just like usually scales way more.
+
+106
+00:11:46,400 --> 00:11:54,420
+That doesn't mean you can't do more image ads, like doesn't mean you can't use the sniper method to like go and test other headlines on that angle that's working,
+
+107
+00:11:54,840 --> 00:11:59,340
+but I'm just telling you that we found, when we go and do video versions, it usually works a lot better.
+
+108
+00:11:59,620 --> 00:12:07,560
+But now, again, if you're doing this initially, like I I do not recommend using sniper method initially at all for testing images. It's just dumb.
+
+109
+00:12:07,760 --> 00:12:11,340
+You're taking too small of swings, and you're taking way too long to test things.
+
+110
+00:12:11,340 --> 00:12:15,880
+Just run with marksman's method, get a direction, and then use sniper method to double down.
+
+111
+00:12:16,100 --> 00:12:26,360
+And now, when it comes to the initial test for videos, what I'm trying to do to simplify things down for you guys, is just use, just use the sniper method for videos, okay?
+
+112
+00:12:26,500 --> 00:12:33,920
+Even if you have, say say you get these three angles and you really want to make a video around how discipline is being wasted, or how, again,
+
+113
+00:12:33,920 --> 00:12:39,400
+maybe you want to do the melatonin production angle and you want to make a video on it, then just do the sniper method.
+
+114
+00:12:39,400 --> 00:12:48,140
+Just focus on this one angle, and then focus on making the best video ad that you can about this angle, because that is going to be the best thing for you guys to do, okay?
+
+115
+00:12:48,480 --> 00:12:55,800
+And again, sniper method is really, like the cons of it, is like it's less fluid, it restricts your creativity sometimes, okay?
+
+116
+00:12:56,120 --> 00:13:02,560
+I wouldn't say it can hold you back from making the best ads, but a lot of the times when you're focusing yourself to just focus on one angle,
+
+117
+00:13:02,620 --> 00:13:08,680
+what can end up happening is like you might avoid, you know, trying other angles out in the beginning, okay?
+
+118
+00:13:08,700 --> 00:13:14,160
+And so now you're just like, you're, you're solely, you're overleveraged is is is what's happening, okay?
+
+119
+00:13:14,280 --> 00:13:21,120
+And you're and you're just betting on one specific angle in one specific direction, when you don't even know what is working yet, okay?
+
+120
+00:13:21,380 --> 00:13:30,100
+And so overall, just know that you're able to go much deeper on a specific ad concept to fully validate it, and so to fully be able to look at it and be like, you know what,
+
+121
+00:13:30,340 --> 00:13:35,620
+this melatonin angle, I've tested three different sniper videos on this, and it just didn't work.
+
+122
+00:13:35,620 --> 00:13:40,900
+Now, is my execution shit? It probably is, and we're going to talk about the execution problem in another module,
+
+123
+00:13:41,060 --> 00:13:52,310
+but at the end of the day, you can probably have some kind of, you know, validation that, yeah, you know what, however I'm presenting this melatonin angle is not working, so I should probably move on, okay?
+
+124
+00:13:52,530 --> 00:14:03,310
+And so at the end of the day, these, how these two work together, like I mentioned, is marksman method, in the beginning, is used first to find direction on what angles can be winners. And again, just use that for images. Don't worry about videos.
+
+125
+00:14:03,790 --> 00:14:12,930
+If you're going to do videos, just use the sniper method, regardless if it's an initial swing or regardless if it's an iteration of an image ad, or whatever it may be. Just use the sniper method for videos.
+
+126
+00:14:13,330 --> 00:14:17,010
+But just so you can understand, the marksman method is a great way to just gain direction.
+
+127
+00:14:17,410 --> 00:14:22,910
+Once you have direction, and you know what your target is, pull out the sniper and hone in on that target, okay?
+
+128
+00:14:23,210 --> 00:14:27,890
+So again, just to be fully clear, when you have one angle, you're taking more of a sniper approach, okay?
+
+129
+00:14:28,070 --> 00:14:30,670
+So it's the same angle, different ways to say it, or show it.
+
+130
+00:14:30,850 --> 00:14:37,730
+When you have multiple angles that you're testing, you're taking more of a marksman approach, which just means different angles that you're testing, and usually only one way to say it.
+
+131
+00:14:38,090 --> 00:14:40,970
+Number one main takeaway, again, going back to what I said up here,
+
+132
+00:14:42,490 --> 00:14:49,910
+K? Regardless of the approach. And if you're like, "Sniper, marksman, what is happening? I I don't get it," just focus on making the best ads that you can,
+
+133
+00:14:50,250 --> 00:14:55,310
+and then when you're processing feedback loops, be aware of the avatars that you're targeting. K? That's it.
+
+134
+00:14:55,850 --> 00:15:02,750
+Now, if we go deeper down here and you guys can read this, I'm just kind of skipping over it, you just need to understand
+
+135
+00:15:02,750 --> 00:15:11,690
+that like you guys are gonna go from taking learnings of like, "Oh, video ads work," or, "This This has a good hook rate," or, "We should reuse this clip," or, "We should test a UGC version,"
+
+136
+00:15:11,690 --> 00:15:21,370
+to completing learnings that, you know, how where you're gonna be like, "Oh, it's this sub-avatar that's working," or, "Oh, this angle specifically is getting attention. Customers care about this."
+
+137
+00:15:21,370 --> 00:15:28,230
+And then being like, "Okay. I should go and do more research on that angle. What else can I learn about melatonin? What else are these people taking, right?"
+
+138
+00:15:28,590 --> 00:15:32,330
+"What What are their experiences? What are their behaviors? How does it make them feel, right?"
+
+139
+00:15:32,730 --> 00:15:36,510
+Then you go deeper on actually creating ads for that person,
+
+140
+00:15:36,510 --> 00:15:45,330
+and you're like, "Okay, well, how can I maybe execute this in a way that creates more curiosity? How can I get someone to keep watching? I know people care about melatonin, that's the angle that people want,
+
+141
+00:15:45,610 --> 00:15:51,630
+but how can I create more curiosity? How can I get more attention?" Now you can eliminate the idea of the angle being the problem,
+
+142
+00:15:51,630 --> 00:15:56,330
+and focus purely on execution, which is, again, probably the hardest part.
+
+143
+00:15:56,630 --> 00:16:04,070
+But you can be a bit of a moron when it comes to writing copy, and if you just have a great sub-avatar and a great angle that you've been able to build,
+
+144
+00:16:04,490 --> 00:16:12,410
+you can have AI mediocre copy and still be able to find ads that can get purchases because the angle is relatable. K?
+
+145
+00:16:13,090 --> 00:16:20,510
+And so, again, the faster that you can figure out why something is not winning, the faster you can scale. And the faster you figure out why something is winning, again, the faster you can scale.
+
+146
+00:16:20,610 --> 00:16:26,430
+So when we use marksman method in the beginning to find our direction, and we figure out, "Okay, these aren't really winning, but this this is getting"
+
+147
+00:16:26,590 --> 00:16:36,090
+Maybe it's not winning, but it's it's getting some spend and it's getting some purchases, and it's doing okay. Let me double down on this so I can see if that is actually if that is actually why it's winning. And then, boom!
+
+148
+00:16:36,370 --> 00:16:37,710
+Next thing you know, you guys are scaling.
+
+149
+00:16:38,030 --> 00:16:45,050
+K, now the third and final method is something called the shotgun method, where you just touch you just test a bunch of random things at once and and see if something sticks.
+
+150
+00:16:45,530 --> 00:16:53,630
+And, again, the shotgun method is when you just launch a bunch of ads and hope something hits. And if you guys are super confused, and you're like, "You know what, Spencer, I'm just going to launch a bunch of ads." Go ahead. I don't care. K?
+
+151
+00:16:53,790 --> 00:16:56,290
+Again, the main goal is that you guys are aware, right?
+
+152
+00:16:56,290 --> 00:17:04,350
+Now, the right way to do the shotgun method, because we do use the shotgun method, is through TikTok Shop or through some kind of intense product seeding or UGC strategy.
+
+153
+00:17:04,730 --> 00:17:13,250
+You're just like you're getting in content, and you're just throwing it in your ad account. Ideally, you're cutting it up, and then you're throwing it in your ad account. You're like, "All right, let's just test it. Let's just test it," okay?
+
+154
+00:17:13,250 --> 00:17:20,010
+And you get a bunch of content from a bunch of different creators, and you don't really have time to go through and strategize every single one or go really deep,
+
+155
+00:17:20,010 --> 00:17:23,970
+so you just launch all the content in your ad account and you just hope something hits. Okay?
+
+156
+00:17:24,310 --> 00:17:33,870
+And then if something does hit, you can then process learnings to identify the angle, identify a potential sub-avatar, find out why do people care about this,
+
+157
+00:17:33,870 --> 00:17:41,390
+and then use the marksman method, or, I would say, ideally the sniper method, to refine it to create more winning ads. And this is actually something that we did
+
+158
+00:17:41,390 --> 00:17:45,070
+recently to scale a brand to $40,000 a day in spend. K?
+
+159
+00:17:45,450 --> 00:17:54,250
+We had something hit from our shotgun UGC method. Our team was like, "Oh, shit! Let's use sniper method and double down on this specific angle because we think this is why people care."
+
+160
+00:17:54,570 --> 00:18:00,030
+And guess what? We went from 10k a day in spend to 40k a day in spend just from that approach. Okay?
+
+161
+00:18:00,290 --> 00:18:07,370
+So, again, I can't share the exact ad. I actually shared it with people in Evolve, but I can't share it anymore because the client asked me not to.
+
+162
+00:18:07,570 --> 00:18:14,170
+But the number one mistake that brands make, if you ask me, and the and the wrong way to do shotgun strategy is with your internal team.
+
+163
+00:18:14,430 --> 00:18:22,710
+Okay, you and an editor or even if it's just you, do not be shotgunning, because it's so much better for you to complete learnings on your ads
+
+164
+00:18:22,710 --> 00:18:31,710
+and do less ads. Obviously, you still need to do ads, like bare, bare minimum for anyone, if you ask me, is one ad per day, or or one concept per day, which is three ads total.
+
+165
+00:18:32,130 --> 00:18:36,190
+That is bare minimum. Ideally, some of you guys should be able to do one to two concepts per day,
+
+166
+00:18:36,190 --> 00:18:43,110
+and then from there, complete feedback loops. Like, "Hey, I made this ad, I thought it was good. Why isn't working? Oh, it's not working because of this."
+
+167
+00:18:43,550 --> 00:18:50,330
+At least that's what you think. "Okay, well, let me test that again and let me see if if if I change this, if that actually works. Oh, boom! Look, now it's working."
+
+168
+00:18:50,790 --> 00:18:58,590
+"Holy crap! I completed a feedback loop and now it's working, and now I'm scaling and now I know what's working, and now I'm gonna make more ads around that." And next thing you know, you're spending a couple thousand dollars a day. K?
+
+169
+00:18:59,070 --> 00:19:02,910
+And so, again, my rule of thumb is do not use shotguns in 2025 when it comes to your creative strategy.
+
+170
+00:19:03,270 --> 00:19:10,430
+Don't just blast dozens of iterations and dozens of videos with small, little teeny, tiny hook changes and just like spray and pray, right?
+
+171
+00:19:10,750 --> 00:19:16,930
+Hope that something hits because that's how people think. You know, when they think like, "Oh, volume is the only answer. You've just gotta do more reps."
+
+172
+00:19:16,930 --> 00:19:21,790
+It's not about doing micro iterations. You don't learn from doing micro iterations.
+
+173
+00:19:21,790 --> 00:19:28,630
+You learn from creating entire concepts. And so if you can do four to five
+
+174
+00:19:28,630 --> 00:19:35,390
+net-new concepts a day, then do four to five net-new concepts a day. But most people can't focus that long,
+
+175
+00:19:35,390 --> 00:19:39,390
+and most people can't do that. So just do one or two, and that's it. Because yes,
+
+176
+00:19:39,390 --> 00:19:42,690
+it is going to take volume for you to get better—for you to get better. But
+
+177
+00:19:42,690 --> 00:19:47,830
+volume is not like, "Oh, let me see this 12 different ways." Or "Let me take this headline that I wrote
+
+178
+00:19:47,830 --> 00:19:51,470
+and give it to Claude, and say, 'Give it to me eight different ways.'" That's just stupid. And, again,
+
+179
+00:19:51,470 --> 00:19:56,630
+Meta is not rewarding that, especially with this new algorithm updates and with everything that's happening with AI.
+
+180
+00:19:56,630 --> 00:20:01,790
+It's all these teeny-tiny, little iterations. Meta doesn't care. It's just grouping all those ads and saying, "These are the same ads."
+
+181
+00:20:02,010 --> 00:20:05,770
+So you're just wasting your time, okay? And so, again, the shotgun method
+
+182
+00:20:05,770 --> 00:20:11,270
+should only be used for high-volume content strategy with creators, where you don't have to think about it,
+
+183
+00:20:11,270 --> 00:20:17,370
+maybe you give them a framework and that's it, and then the creators do all the work. You need to stay locked in on testing, again,
+
+184
+00:20:17,370 --> 00:20:24,250
+through the sniper method or through the marksman method. And to put this on easy mode for you, when it comes to testing images initially,
+
+185
+00:20:24,250 --> 00:20:30,830
+use the marksman method. Take bigger swings. When it comes to testing videos, again, usually iterations
+
+186
+00:20:30,830 --> 00:20:37,830
+of your images that are getting spent or are—have shown you a direction, use the sniper method. And then if you want to start by testing videos in general,
+
+187
+00:20:37,830 --> 00:20:43,290
+to avoid any confusion, if it's an initial, new angle that you're testing, but you want to do a video version
+
+188
+00:20:43,290 --> 00:20:49,330
+because you're really confident in it, then do the sniper method, because I want you guys to be making the best ads that you can,
+
+189
+00:20:49,770 --> 00:20:54,150
+okay? So hopefully that makes sense, and I hope this helps you guys like organize
+
+190
+00:20:54,670 --> 00:20:59,270
+everything that you have going on with the angles, know how to go and test them. And then, again, with the upcoming modules,
+
+191
+00:20:59,290 --> 00:21:02,330
+this stuff should be very, very clear, and you guys should be rocking and rolling.
+
+192
+00:21:02,330 --> 00:21:02,710
+[+] rollin'. You should be rockin' and rollin'.

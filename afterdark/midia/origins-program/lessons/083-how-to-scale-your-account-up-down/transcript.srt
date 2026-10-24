@@ -1,0 +1,1043 @@
+1
+00:00:00,000 --> 00:00:05,920
+If you have ever scaled your Facebook Ads and then watched your ROAS tank as soon as you push that budget up,
+
+2
+00:00:05,920 --> 00:00:15,860
+and then as a result you have to scale back down and you continue to bash your head against the wall trying to figure out how can I actually scale Meta without it completely tanking on me.
+
+3
+00:00:15,980 --> 00:00:25,120
+Well, in this week's video, I'm going to show you the exact scaling process that we use to scale brands to spending over $100,000 a day on ads
+
+4
+00:00:25,120 --> 00:00:31,860
+and show you the different levels of where you should be focusing and how you should be scaling based off of your current daily spend.
+
+5
+00:00:32,200 --> 00:00:40,040
+I'm also going to shatter your beliefs of what you actually think is possible when it comes to media buying on Meta by showing you some seriously big numbers.
+
+6
+00:00:40,320 --> 00:00:46,600
+Here's an actual screenshot of a brand spending $50,000 on a single campaign.
+
+7
+00:00:47,040 --> 00:00:54,420
+And most importantly, I'm going to give you the exact process and SOP that our team uses to scale ad accounts every single day
+
+8
+00:00:54,420 --> 00:01:01,840
+and help our brands and our community of 300+ Shopify brand owners in Evolve scale towards 100k days.
+
+9
+00:01:02,040 --> 00:01:07,540
+Now, I'll be honest, there is absolutely nothing in the world that gives me more dopamine or fires me up more
+
+10
+00:01:07,540 --> 00:01:14,140
+than being able to go into Meta, click on the budget tab, and increase that budget and, sometimes, even double it.
+
+11
+00:01:14,340 --> 00:01:17,080
+So I am absolutely pumped to bring you this week's video.
+
+12
+00:01:17,080 --> 00:01:22,980
+If you've been wanting to scale your Facebook Ads and again you don't have a strategy in doing so, this video is 100% for you.
+
+13
+00:01:23,040 --> 00:01:24,160
+Let's go ahead and jump in.
+
+14
+00:01:24,260 --> 00:01:32,700
+All right. So, as you see on screen here, there are going to be specific levels that we go through in this video based on where your current daily spend is.
+
+15
+00:01:32,700 --> 00:01:42,380
+Now, before we actually unlock the certain levels and the actual structural and tactical things that you will be doing in the ad account at each level in front of you,
+
+16
+00:01:42,380 --> 00:01:45,520
+we first need to understand how to actually scale. Okay?
+
+17
+00:01:45,520 --> 00:01:56,600
+And so, how we actually scale is down here in the EAM scaling process, and this applies to the campaigns that are in your account and what you currently have an active budget on.
+
+18
+00:01:56,800 --> 00:02:03,480
+Now, I am going to go through this pretty quickly, but again, this process is pretty straightforward and you can go back in the video if you want to re-watch.
+
+19
+00:02:03,500 --> 00:02:11,020
+Again, I will stop and emphasize the points that need to be emphasized. But for the most part, step one is pretty simple: is this campaign hitting target KPI?
+
+20
+00:02:11,320 --> 00:02:16,240
+And to add a caveat to that, I would add that is your entire ad account actually hitting target KPI,
+
+21
+00:02:16,400 --> 00:02:27,080
+because as we scroll up here into the specific levels, there are going to be some specific things that we add at each stage. So again, make sure you keep watching the video to see those next levels.
+
+22
+00:02:27,360 --> 00:02:30,260
+But with that said, the first question is, are we hitting target KPI?
+
+23
+00:02:30,460 --> 00:02:36,180
+Now, if the answer is yes, we're actually going to go down the yes train first, you need to ask yourself if you are in scaling protocol.
+
+24
+00:02:36,300 --> 00:02:39,300
+Now, you might be wondering, what the heck is scaling protocol?
+
+25
+00:02:39,660 --> 00:02:44,820
+Well, scaling protocol is essentially where you scale the ad account every 24 hours. Okay?
+
+26
+00:02:44,860 --> 00:02:52,400
+If you are not in scaling protocol, you are going to go down the no train, and I'm actually going to explain what scaling protocol is. Again, it's not that hard to understand.
+
+27
+00:02:52,400 --> 00:03:03,840
+Or, you'll see here, if you are looking at a limited-time promo or sale campaign—say, for example, you're running a Fourth of July campaign, or you're running a Black Friday campaign, and that has a hard end date—
+
+28
+00:03:03,840 --> 00:03:09,780
+then you are able to actually go straight into scaling protocol, and you do not have to wait.
+
+29
+00:03:10,040 --> 00:03:17,600
+So assuming you're not running a promo or sale campaign, and that you're just going to say no to this, "I'm just running my regular campaign."
+
+30
+00:03:18,140 --> 00:03:26,300
+And again, if you don't know what a promo or sale campaign is, I am going to show you guys an ad account that we scaled to $100,000 a day with the promo structure. So again, we're going to tap into that.
+
+31
+00:03:26,400 --> 00:03:36,840
+But again, if you said no here, you can scroll down and you can see that we have updated this to say, "Has there been 48 to 72 hours of performance consistently above target KPI?"
+
+32
+00:03:37,220 --> 00:03:41,680
+Now, if you're wondering what scaling protocol is, this is what scaling protocol is. Okay?
+
+33
+00:03:41,740 --> 00:03:52,960
+If you have seen two to three days of consistent performance above your target KPI, you are officially in scaling protocol, which means that you can start scaling your ad account every 24 hours.
+
+34
+00:03:53,220 --> 00:04:00,880
+So for example, on Monday, if you check and you're at a 3x ROAS, and that is above your KPI, that would be the first 24 hours. Okay?
+
+35
+00:04:01,140 --> 00:04:06,980
+So when you come down here and you see, "Has there been 48 to 72 hours of consistent performance?" You would say no.
+
+36
+00:04:07,280 --> 00:04:09,480
+And then what you would do is you would just wait another 24 hours.
+
+37
+00:04:09,740 --> 00:04:20,540
+So let's say Tuesday, we come back and again we see that there has now been another day at a 3x ROAS, and you have now had 48 hours of consistent target KPI performance.
+
+38
+00:04:21,000 --> 00:04:27,500
+Then, you can say yes and go down the train of checking whether or not it is click-based data.
+
+39
+00:04:27,500 --> 00:04:37,040
+Now, I'm going to come back to this, because the final thing that I wanted to mention here is recently we've added a new step to this, which says, "Is there a new reason to be scaling?"
+
+40
+00:04:37,040 --> 00:04:47,760
+And what we mean by that is have you essentially found a new winning ad, have you found a new winning offer, or have you found a new winning landing page, or has something happened inside
+
+41
+00:04:47,760 --> 00:04:59,400
+of the ad account that is leading to dramatically better performance within that period? Because there have been times when we go through where we see this question and we are not in Scaling Protocol,
+
+42
+00:04:59,400 --> 00:05:06,480
+and we are not running a limited time promo campaign, but we have just launched a new winning ad and the thing is taking off like a rocket ship,
+
+43
+00:05:06,480 --> 00:05:15,740
+and it's taken our ROAS from a 2x to a 5x. Because in case you didn't know, winning ads and winning offers and winning landing pages can actually do that for your ad account.
+
+44
+00:05:15,740 --> 00:05:25,740
+Then there will be times where we will say, "Yes, there is a new reason to be scaling." And again, we will confirm now whether or not it is all click-based data.
+
+45
+00:05:25,740 --> 00:05:36,040
+And for those of you that don't know what click-based data is, essentially when you go into your ad account—so, for example, here is an ad account here that I'm actually going to pull up when it comes to the scaling levels.
+
+46
+00:05:36,100 --> 00:05:45,580
+So again, just a reminder, if you want to actually see the levels of scale over here, you've got to keep on watching. But to see how much of your data is actually click-based,
+
+47
+00:05:45,580 --> 00:05:55,320
+what you're going to do is you're going to click on "Columns", you're going to click "Compare attribution settings", and you're going to take a look at your seven-day click-based data. And now this is assuming that you are going to be running
+
+48
+00:05:55,320 --> 00:06:03,340
+seven-day click, one-day view. So again, for the sake of this brand, that is what they're running. It says multiple attribution, but let me just go and show you the active ad sets.
+
+49
+00:06:03,340 --> 00:06:12,740
+So, as you can see, this brand is running seven-day click, one-day view. And actually on this Champions ad set, we're running or one-day engaged-view. Now this is a whole another topic. Just know it doesn't really matter.
+
+50
+00:06:12,740 --> 00:06:20,780
+You're just going to scroll over to make sure that all of the data or most of the data is actually click-based.
+
+51
+00:06:20,980 --> 00:06:32,020
+So, as you can see here, there are 111 purchases, and out of those purchases, 104 are click-based. And so if we scroll to our click-based ROAS, you can see we're at a 2.4.
+
+52
+00:06:32,120 --> 00:06:40,080
+Now again, the reason that we do this is because we want to see that the ads are actually driving the performance and it's not just collecting a bunch of view-through attribution.
+
+53
+00:06:40,360 --> 00:06:49,900
+Now I have gone back and forth on view-through attribution and I do think there is a place for it. However, when it comes to incrementality and essentially like whatever provides an incremental lift
+
+54
+00:06:49,920 --> 00:06:56,480
+and what is going to drive the sales that you see on your actual store, I prefer to look at click-based data.
+
+55
+00:06:56,720 --> 00:07:07,300
+And so this is where we look to see if 60% or more of the purchases are click-based or click-based data is actually meeting KPI, then you can go ahead and scale.
+
+56
+00:07:07,700 --> 00:07:16,320
+Okay? And so in this instance, when it comes to the actual buttons, because we've made it this far now, we are either going to increase the budget by 20% flat, okay?
+
+57
+00:07:16,360 --> 00:07:22,500
+So again, if you're spending $100 a day, you would increase it by 20%, which puts you to 120.
+
+58
+00:07:23,000 --> 00:07:32,480
+Now if you have very big budgets and say you're spending $10,000 a day or $100,000 a day, obviously a 20% budget increase is quite a lot, right?
+
+59
+00:07:32,740 --> 00:07:42,840
+That goes up to $2,000 additional and up to $20,000 if you're actually spending $100,000 a day. So unless you're at those budgets, again, you can scale by 20%.
+
+60
+00:07:42,840 --> 00:07:54,000
+Now if you are at those budgets, we have at times scaled by 15% or 10% or 5%, but it really does depend on the brand. For most people, you can actually scale 20%.
+
+61
+00:07:54,000 --> 00:08:03,960
+If you notice that you have over-scaled, and again, when you come back to check and you're not hitting target KPI, then you can of course scale down. And again, we're going to talk about the process for that as well.
+
+62
+00:08:04,260 --> 00:08:14,300
+But as you can see here, on the other side, if you are at 50 to 100% above KPI—so say your target is a 2x and you are actually getting a 4x return on ad spend—
+
+63
+00:08:14,560 --> 00:08:24,300
+there are times where we will double or 1.5x the actual budget. So again, as another example down here, if your target is 2.5 and performance is at 3.75,
+
+64
+00:08:25,180 --> 00:08:31,620
+aka 50% above your target, and just as a reminder, that is actually happening consistently and it's not just one day,
+
+65
+00:08:31,880 --> 00:08:39,480
+well, then what you can do is you can actually increase your budget by however much you are above. Just know, do this at your own risk. And if you are dealing with bigger budgets,
+
+66
+00:08:39,480 --> 00:08:48,700
+obviously, chad scaling from 10k a day to 20k per day is a massive jump, right? But if you're spending $200 a day, $200 to $400 a day
+
+67
+00:08:48,700 --> 00:08:50,760
+not really that big of a difference. Okay?
+
+68
+00:08:50,760 --> 00:08:55,440
+So just understand that as you play with bigger numbers, you are going to want to be less aggressive.
+
+69
+00:08:56,100 --> 00:09:02,580
+But if you are less than a thousand dollars a day or even less than two or three thousand dollars a day, you're probably fine to be more aggressive with how you scale.
+
+70
+00:09:02,900 --> 00:09:06,100
+Just again make sure you see where your KPI is at.
+
+71
+00:09:06,300 --> 00:09:09,420
+Now, if we climb back up here, I just want to emphasize this again.
+
+72
+00:09:09,540 --> 00:09:14,360
+If there is a new reason to be scaling, you can scale within 24 hours.
+
+73
+00:09:14,360 --> 00:09:22,600
+But we still, a lot of the times, even if we hit a new winning ad or a new winning offer, we will wait 48 hours just to see how it's doing,
+
+74
+00:09:22,600 --> 00:09:30,920
+or we'll wait like 36 hours. So we'll let it run for a day, and then if we check it the next day and it's still crushing or off to a really good start, then sometimes we will scale.
+
+75
+00:09:31,260 --> 00:09:32,440
+But I just want to clarify that.
+
+76
+00:09:32,620 --> 00:09:37,660
+And then again, if you are not in scaling protocol, there's no new reason to be scaling, wait another 24 hours.
+
+77
+00:09:37,660 --> 00:09:45,500
+And same thing here, if more than 60% of purchases are not click-based, so basically a lot of view-through data is coming in, wait another 24 hours.
+
+78
+00:09:45,500 --> 00:09:50,800
+And at this point, I would actually check and potentially switch to seven-day click-only, but that's a topic for another video.
+
+79
+00:09:50,800 --> 00:09:53,240
+Now, let's go down the no train here. Okay?
+
+80
+00:09:53,420 --> 00:10:01,060
+So if you are not hitting target KPI, then the first question that you need to ask yourself is, are you below breakeven KPI for 24 to 48 hours?
+
+81
+00:10:01,180 --> 00:10:07,380
+Now, this is a question that we recently added, because we have seen some people ultimately Chad-scale and just tank their account.
+
+82
+00:10:07,620 --> 00:10:10,980
+And for a lot of you guys, you'll scale up and then all of a sudden your ROAS just tanks.
+
+83
+00:10:11,320 --> 00:10:21,520
+And so, you want to give Meta time to figure itself out, because when you increase budget, it has to expand its reach and it has to serve your ads to more people.
+
+84
+00:10:21,720 --> 00:10:29,580
+And what ends up happening and the reason why your ads can't scale when you do this majority of the time is because the creatives are just not good enough, right?
+
+85
+00:10:29,780 --> 00:10:34,580
+So you have creatives that are able to, say, reach, you know, 10,000 people a day and get them to convert.
+
+86
+00:10:34,720 --> 00:10:40,500
+But as soon as you try to scale beyond those 10,000 people, Meta is now having to show your ads to colder and colder people.
+
+87
+00:10:40,520 --> 00:10:48,040
+And because your ads are not good enough to convert those colder and colder people, you see your return on ad spend tank, right?
+
+88
+00:10:48,180 --> 00:10:49,660
+And spend becomes really inefficient.
+
+89
+00:10:50,160 --> 00:10:55,400
+So if you are below breakeven KPI for whatever reason, so after 24 or 48 hours,
+
+90
+00:10:55,400 --> 00:11:05,500
+what we would recommend doing is checking if you're at minimum daily spend, and again minimum daily spend I'm going to come back to in a second, but then likely just scale down and decrease the budget 20%. Okay?
+
+91
+00:11:05,800 --> 00:11:08,200
+The minimum that we usually scale is around 20%.
+
+92
+00:11:08,200 --> 00:11:11,420
+It's very, very rare that we'll scale down like 10%.
+
+93
+00:11:11,660 --> 00:11:15,920
+And there are times where we will scale down more aggressively. It really depends on the scenario.
+
+94
+00:11:15,920 --> 00:11:17,220
+And again, we're going to get more into that.
+
+95
+00:11:17,220 --> 00:11:23,140
+But if for whatever reason you're not at breakeven or you're not below breakeven, but you are not really hitting your KPI,
+
+96
+00:11:23,140 --> 00:11:27,260
+so again, for example, if your target is a 2.5 and you're at a 2,
+
+97
+00:11:27,260 --> 00:11:31,580
+obviously you're not losing money, but it's not your ideal target. So in that instance,
+
+98
+00:11:31,580 --> 00:11:35,880
+what you can ask yourself is again, has there been 48 to 72 hours of
+
+99
+00:11:35,880 --> 00:11:38,100
+performance consistently below your target?
+
+100
+00:11:38,100 --> 00:11:41,100
+And again, we're emphasizing this on a seven-day click-based data.
+
+101
+00:11:41,100 --> 00:11:46,120
+So if you have seen two to three days of poor performance, then what we would recommend doing
+
+102
+00:11:46,120 --> 00:11:50,880
+is, again, checking if you're at minimum spend, but if you're not, again wait 24 hours. Very, very simple.
+
+103
+00:11:50,880 --> 00:11:55,900
+But if you are, then check if you're at minimum daily spend and likely, again, decrease your budget down.
+
+104
+00:11:56,100 --> 00:11:57,600
+Now, what is minimum daily spend?
+
+105
+00:11:57,820 --> 00:12:01,940
+Well, minimum daily spend is essentially how much you're willing to spend no matter what. Okay?
+
+106
+00:12:02,280 --> 00:12:05,820
+And this changes as you get bigger as a brand. Okay? Because you'll likely have more cash.
+
+107
+00:12:05,820 --> 00:12:10,500
+For a lot of you guys, when you're just starting out, you're probably maybe spending $50 to $100 a day.
+
+108
+00:12:10,620 --> 00:12:15,000
+And so that is likely your minimum daily spend, where no matter what, that is what you're going to spend for 30 days.
+
+109
+00:12:15,300 --> 00:12:20,500
+Now, for some of our brands, because we're spending a lot more, say we're spending 10, 15, 20, or 30k a day,
+
+110
+00:12:20,780 --> 00:12:28,280
+our minimum spend for a brand spending 20k a day might be 10, meaning that no matter what, like, we're spending 10k a day and we better figure it out, right?
+
+111
+00:12:28,660 --> 00:12:34,220
+And so calculating your minimum daily spend is more of an exercise that you can do based off of the cash flow and the reserves that you have.
+
+112
+00:12:34,420 --> 00:12:40,720
+But for most of you guys, I would say like your minimum daily spend should be like $100 or $200 a day, and if you continue to go down, down, down, down, down,
+
+113
+00:12:40,940 --> 00:12:46,760
+well, then you're going to have to really figure some things out here, which is why we have this updated area down here.
+
+114
+00:12:46,960 --> 00:12:52,120
+Okay, so whether or not you're decreasing budget or you are at your minimum daily spend and you can't decrease anymore,
+
+115
+00:12:52,420 --> 00:12:58,440
+it's very, very, very important for you to actually take action outside of the ad account. Okay?
+
+116
+00:12:58,540 --> 00:13:05,240
+And I cannot stress this enough, because if you are scaling down, you need to focus on the things that actually allow you to scale. Okay?
+
+117
+00:13:05,500 --> 00:13:08,200
+Which is, number one, launching new DCTs. Okay?
+
+118
+00:13:08,500 --> 00:13:11,020
+Number two, double-checking the funnel for bugs or errors.
+
+119
+00:13:11,360 --> 00:13:15,600
+You wouldn't believe how many times that we've seen brands break something on their website.
+
+120
+00:13:15,940 --> 00:13:18,600
+We check the ad account the next day, performance is totally tanked,
+
+121
+00:13:18,720 --> 00:13:24,060
+and now we're trying to figure out what's going on. But because we have a process for double-checking the entire funnel,
+
+122
+00:13:24,340 --> 00:13:32,100
+what we actually do is we go and check the website and boom, all of a sudden we found that the client accidentally removed a piece of code for their cart or changed something on the product page
+
+123
+00:13:32,100 --> 00:13:33,680
+or they're out of stock. Okay?
+
+124
+00:13:33,680 --> 00:13:40,160
+And so it's very, very important to make sure that your media buyers specifically or you specifically have a process for double-checking your funnel
+
+125
+00:13:40,160 --> 00:13:42,480
+if you see performance going down. Okay?
+
+126
+00:13:42,740 --> 00:13:48,940
+This is actually something that I'd recommend doing every day, especially if you see a dramatic change in the funnel. Most of you guys do this automatically because you just
+
+127
+00:13:48,940 --> 00:13:53,120
+spam your ad account and spam your Shopify, but for the most part, make sure you double-check your funnel.
+
+128
+00:13:53,240 --> 00:14:01,320
+Now, the other thing that you should be doing is conducting data analysis on ads that are getting spend, and processing learnings and completing feedback loops to understand,
+
+129
+00:14:01,320 --> 00:14:07,320
+okay, Meta is liking this angle or Meta is liking this avatar or Meta is liking this style of creative,
+
+130
+00:14:07,740 --> 00:14:10,400
+what can I learn from it? How can I make better ads?
+
+131
+00:14:10,400 --> 00:14:16,940
+And make sure that you complete those feedback loops so you're not wasting your time when you go to create new DCTs, because again,
+
+132
+00:14:16,940 --> 00:14:22,140
+you need to learn from what is happening in the account. And if you're new to the channel, I have tons of videos that talk about that.
+
+133
+00:14:22,300 --> 00:14:28,580
+And I actually just made a video about processing learnings, so you can actually go and check that out. I'll make sure the team leaves a link in the description down below.
+
+134
+00:14:28,580 --> 00:14:33,580
+But from there, you can also conduct deep research for new avatars and new mechanisms.
+
+135
+00:14:33,640 --> 00:14:39,820
+And this is something that I really want to double-click into, because I think some of you guys start to panic when Meta is tanking,
+
+136
+00:14:39,900 --> 00:14:43,680
+and you're constantly looking in the ad account for answers. But the truth is,
+
+137
+00:14:43,680 --> 00:14:49,180
+the reason why your ad account is tanking is because what's actually inside of it. And this is where it's so confusing
+
+138
+00:14:49,740 --> 00:14:55,640
+because you see that the inside of the ad account is tanking, and so you want to try to fix the inside of the ad account,
+
+139
+00:14:55,640 --> 00:14:58,680
+a.k.a you want to fix the campaigns and the structure and all that kind of stuff.
+
+140
+00:14:59,040 --> 00:15:03,020
+But what is actually going to fix the inside of your ad account is everything outside.
+
+141
+00:15:03,680 --> 00:15:09,660
+And so if you are seeing that performance is going down and that every time you scale you get hit and punched in the face,
+
+142
+00:15:09,660 --> 00:15:14,040
+well, it's probably time for you to spend more time outside of the ad account,
+
+143
+00:15:14,040 --> 00:15:19,120
+focusing on deep research, finding new mechanisms and new ways to position your product,
+
+144
+00:15:19,460 --> 00:15:23,340
+finding new avatars and people with specific pain points that you can go after,
+
+145
+00:15:23,520 --> 00:15:30,940
+and finding new creatives and studying existing creatives or even looking at creatives. And this is what I love so much about Evolve,
+
+146
+00:15:30,940 --> 00:15:36,640
+because the first thing that we show people when they join Evolve is a winning ads document of ads that have spent
+
+147
+00:15:36,640 --> 00:15:44,520
+millions of dollars, and so they right away are able to adjust their lens of what a good ad looks like, so they can go and create them.
+
+148
+00:15:44,660 --> 00:15:48,780
+So, if you're struggling in your ad account, you need to understand what a great ad is,
+
+149
+00:15:48,780 --> 00:15:55,900
+and then from there, you need to put in the work again outside of the ad account to actually get the inside of the ad account to start working better.
+
+150
+00:15:56,100 --> 00:15:58,060
+Wanted to go full screen just to make sure I emphasized that.
+
+151
+00:15:58,200 --> 00:16:06,620
+And then from there, the final thing that you can do, and this is something that we again started doing recently and it's so so important for you to understand, is to start offer testing, okay?
+
+152
+00:16:06,820 --> 00:16:14,480
+If you are a brand that has been plateaued for a few months and you haven't been able to scale, or maybe you're scaling back down, or even then you're at your minimum daily budget,
+
+153
+00:16:14,760 --> 00:16:17,300
+you should likely start testing some new offers, right?
+
+154
+00:16:17,580 --> 00:16:19,720
+The market is going to get sophisticated.
+
+155
+00:16:19,720 --> 00:16:25,000
+The offer that you ran in January is probably not as powerful as it is now in June.
+
+156
+00:16:25,400 --> 00:16:28,240
+And on top of that, desires are shifting. Desires are changing.
+
+157
+00:16:28,660 --> 00:16:31,720
+Unless you live in the Arctic, it's also summer right now.
+
+158
+00:16:31,920 --> 00:16:37,500
+So, again, when I say desires are shifting and changing, people have different buying habits. People are outside more. People are traveling more.
+
+159
+00:16:37,680 --> 00:16:42,820
+You need to figure out how you can create offers that are going to appeal to those specific types of people,
+
+160
+00:16:42,820 --> 00:16:51,420
+and you also need to understand how to make offers that can scale through specific seasons and specific periods where everything might not be in your favor, okay?
+
+161
+00:16:51,660 --> 00:17:02,440
+And so, my favorite way to do offer testing is, again, to do it inside of your one campaign and test brand new ads with a brand new offer in that campaign to see if it gets spent.
+
+162
+00:17:02,660 --> 00:17:11,240
+Now, if you are a brand that is a little bit more scaled, maybe you're spending 10 to 15k per day, you likely have enough data to go and split test it formerly on your store.
+
+163
+00:17:11,600 --> 00:17:20,960
+But with that said, I still love just creating new offers, focusing on the avatar, which again, why deep research is so important, and coming up with different pricing strategies, different bundles,
+
+164
+00:17:21,340 --> 00:17:34,820
+and all of that good stuff, actually be able to test it inside of your ad account and see if that can give you the lightning bolt that you need to get you out of your minimum daily spend or to get you off of this plateau or decreased budget protocol that you are in.
+
+165
+00:17:34,940 --> 00:17:40,340
+So, that is the entire scaling SOP up to date with exactly what we do.
+
+166
+00:17:40,400 --> 00:17:49,080
+Now, if you hung in there to the end, you're going to get the sauce over here of something that we've recently just put together that is our levels of scaling, okay?
+
+167
+00:17:49,340 --> 00:17:53,000
+And so, level one of scaling is 0 to 50k per day.
+
+168
+00:17:53,180 --> 00:18:00,920
+Now, I know this sounds ridiculous and this sounds super weird, like how can my scaling setup be the same at $0 to 50k?
+
+169
+00:18:01,100 --> 00:18:04,760
+Well, it's because that's where Meta is pushing everything and there's proof of it.
+
+170
+00:18:04,840 --> 00:18:13,580
+So, again, if you are a brand that is spending $100 per day, this is what your ad account should look like, and again, you should apply scaling protocol to this campaign.
+
+171
+00:18:14,040 --> 00:18:20,760
+As you can see here, $360 a day budget, if we are hitting KPI, we are going to scale. It's very, very simple, okay?
+
+172
+00:18:20,820 --> 00:18:23,940
+So, you just follow everything that we went through for that one campaign.
+
+173
+00:18:24,160 --> 00:18:28,540
+Now, for those of you that are wondering, "Well, why 50k per day?", right? "How come this one campaign is spending 360?"
+
+174
+00:18:29,120 --> 00:18:37,540
+And as I'm about to show you, here's an actual screenshot of a brand spending $50,000 on a single campaign, okay?
+
+175
+00:18:38,020 --> 00:18:43,160
+How is that possible? It's because it's all about the things that are outside of your ad account, okay?
+
+176
+00:18:43,600 --> 00:18:58,020
+So, if you are from the belief that you need all of this different ad account strategy, you need this campaign and that campaign, you need to launch new CBOs with every single ad that you test, whatever dumb thing you guys think is actually going to get you to scale further, you don't need to do that, okay?
+
+177
+00:18:58,080 --> 00:19:03,040
+This is an ad account that was spending 50k per day at a 2x ROAS, okay?
+
+178
+00:19:03,300 --> 00:19:19,960
+So, it is very, very, very possible and we've actually seen ad accounts further than this. I just don't have permission to share them, unfortunately, with how much things have grown over this year, which I am very grateful for. I can't share a lot of these things anymore with you guys, but I'm doing my best to show you as much as I can. And so, just know, this is very, very possible, okay?
+
+179
+00:19:20,180 --> 00:19:22,980
+You can literally scale this to 50k plus a day with one campaign.
+
+180
+00:19:23,220 --> 00:19:32,340
+Now, again, if you haven't clicked off yet and you want to see level two, well, that is now going to get revealed, and tada! It is actually CBOs plus raw content, okay?
+
+181
+00:19:32,480 --> 00:19:39,640
+So, this is level two scaling. So, if you are spending 3 to 10k per day, you can start to introduce some more campaigns.
+
+182
+00:19:39,980 --> 00:19:46,080
+Now, the reason why I recommend just one campaign for people that are spending less than 3k per day is because you just don't need it.
+
+183
+00:19:46,200 --> 00:19:58,120
+You just need to lock in on your creatives, you need to lock in on your landing pages, and whether you're running a CBO or an ASC, I literally don't care. You need to focus on getting up to 3k per day in spend, and in one campaign, you can definitely do it.
+
+184
+00:19:58,360 --> 00:20:04,840
+Okay? So that is level one, but now jumping into level two, we're introducing what is called a raw content campaign.
+
+185
+00:20:05,040 --> 00:20:09,660
+Now what is raw content? It's just the word that we've came up with for low-intent testing campaigns.
+
+186
+00:20:09,700 --> 00:20:20,240
+And this is because, as a brand spending three to 10k per day, you likely have potentially some UGC coming in, or maybe you're doing some TikTok Shop, and you're likely getting more content because you've realized content is important.
+
+187
+00:20:20,540 --> 00:20:24,500
+So at this stage, what we actually do is we introduce a raw content campaign.
+
+188
+00:20:24,500 --> 00:20:29,540
+But as you can see, right here, the main spending campaign is still our one campaign, all right?
+
+189
+00:20:29,540 --> 00:20:38,880
+Our raw content campaign is barely spending $200 a day, and this testing campaign is just something that we're doing for purposes of ABO versus CBO, which is going to be an insane video.
+
+190
+00:20:38,880 --> 00:20:41,620
+The learnings that we're getting from that are actually very, very interesting.
+
+191
+00:20:41,620 --> 00:20:50,980
+So if you are not subscribed, make sure that you click the subscribe button right now, especially if you're enjoying this. If you're hating this, then don't subscribe, but if you are enjoying this and you want to see a master
+
+192
+00:20:50,980 --> 00:21:00,060
+data sheet of ABO versus CBO, we tested over 500 ads and counting, it is going to be an absolute banger, so make sure you guys subscribe for that.
+
+193
+00:21:00,060 --> 00:21:09,900
+But again, inside of this campaign setup, as you can see, we have our main campaign, which is the standard CBO, with a new raw content campaign that we just recently set up.
+
+194
+00:21:09,900 --> 00:21:17,740
+And now what we're doing is we're launching all of our low-intent product seeding TikTok Shop videos into this campaign to just do mass testing.
+
+195
+00:21:17,740 --> 00:21:29,160
+And the reason why we're doing it that way is because we are starting to segment different objectives of hey, this is our high-intent campaign, and this is our campaign where we're just shotgunning content in there, and if something sticks, then great, okay?
+
+196
+00:21:29,180 --> 00:21:31,860
+So that is the setup for level two.
+
+197
+00:21:32,120 --> 00:21:39,300
+Now, if you are looking to get to level three of scaling, so 10 to 50k plus a day, this is what you're going to start to look at, okay?
+
+198
+00:21:39,440 --> 00:21:44,660
+This is CBOs, plus raw content, plus ASCs, plus whitelisting, okay?
+
+199
+00:21:44,900 --> 00:21:48,500
+Now I'm going to show you two ad accounts here, they're actually with the same brand.
+
+200
+00:21:48,500 --> 00:21:57,760
+Now the reason why we actually have the ad account separated is simply because we had an ad account ban and then we actually got it back, and we just realized that we might as well keep it.
+
+201
+00:21:57,760 --> 00:22:01,540
+But for those of you that also think like separating ad accounts is a good scaling strategy,
+
+202
+00:22:01,540 --> 00:22:04,500
+that's something that you can test on your own if you want.
+
+203
+00:22:04,500 --> 00:22:14,940
+We haven't seen it actually impact. Most of our ad accounts that are spending the most are usually just in the same ad account, or most of our brands rather are that are spending the most are just running everything in the same ad account.
+
+204
+00:22:14,940 --> 00:22:25,160
+But for the sake of this example, I'm going to show you guys that at this level, we are now running our CBOs, our raw content, ASCs is what we're introducing, as well as whitelisting, okay?
+
+205
+00:22:25,440 --> 00:22:26,600
+So what does this actually look like?
+
+206
+00:22:26,740 --> 00:22:29,760
+Well, as you can see in here, we again have CBOs with an S.
+
+207
+00:22:29,760 --> 00:22:37,620
+Now I will say that if you do have multiple countries, this brand specifically does not run in multiple countries, as you can see it's US only,
+
+208
+00:22:37,620 --> 00:22:46,780
+but if you do have multiple countries, what you can actually do is either launch a worldwide campaign, see which countries perform, and then optimize funnels and different CBOs for them.
+
+209
+00:22:47,060 --> 00:22:52,120
+And again, the CBO is the same DCT structure or same 3-2-2 structure that we recommend.
+
+210
+00:22:52,500 --> 00:22:57,000
+And again, if you haven't seen the full how to run Facebook Ads to hit 100k days video, make sure you go and check that out.
+
+211
+00:22:57,120 --> 00:23:02,500
+People are liking it, so again, there will be a pop-up on screen somewhere and a link down below for you to go check it out.
+
+212
+00:23:02,640 --> 00:23:06,840
+But in here, again, we are running raw content, as well as ASCs and whitelisting.
+
+213
+00:23:06,840 --> 00:23:14,540
+So the ASCs specifically are coming in for scaling, and so as you can see here, this is our main scaling ASC.
+
+214
+00:23:14,920 --> 00:23:19,740
+And again, just ignore this testing scaling ABO, it is for the ABO versus CBO test,
+
+215
+00:23:19,960 --> 00:23:28,360
+but here, as you can see, we now have introduced a scaling ASC where what we do is we treat this like a champions ad set inside of our main CBO.
+
+216
+00:23:28,680 --> 00:23:37,420
+And essentially, we're taking all of our winning ads, and we're putting them in an ASC, and we're allowing Meta to actually use that to deliver to another segment of customers, okay?
+
+217
+00:23:37,520 --> 00:23:45,240
+And so, if you want to introduce ASCs at the three to 10k level, and you don't have a ton of content, you definitely can do CBOs and ASCs here.
+
+218
+00:23:45,400 --> 00:23:49,420
+The point of this is is you don't need to be overcomplicated at three to 10k per day in spend.
+
+219
+00:23:49,700 --> 00:23:55,340
+With that said, as you start to approach 10k plus per day in spend, we do often see a little bit more complex account structures.
+
+220
+00:23:55,420 --> 00:24:01,420
+And so, to show you where our raw content campaigns are, as well as our whitelisting campaigns, you can see them in here.
+
+221
+00:24:01,520 --> 00:24:10,520
+Now, for those of you that don't know what whitelisting is, whitelisting is, essentially, where you run ads from content creators' profiles rather than your own brand profile.
+
+222
+00:24:10,540 --> 00:24:20,900
+And so, what we actually have done, for this brand specifically, is we've segmented whitelisting ads into a separate campaign, and then have our actual ASC scaling for raw content, which
+
+223
+00:24:20,900 --> 00:24:26,900
+I would not recommend, but again, if you want to start getting more segmented at around 10k per day in spend, you can.
+
+224
+00:24:26,900 --> 00:24:29,100
+Just know, again, you don't need to get overcomplex.
+
+225
+00:24:29,500 --> 00:24:40,060
+We have our main CBO here for raw content, we have our whitelisting, which is all of our winning raw content on the creators' actual profile, so again, from their page rather than our page.
+
+226
+00:24:40,080 --> 00:24:46,900
+And then we also have that in two worldwide campaigns as well, but as you can see, it's not really doing much, it's mainly the US that is crushing for this brand specifically.
+
+227
+00:24:46,980 --> 00:24:56,480
+And again, I did mention that there is this ASC here that we're using for raw content. This is something new that we're testing, but it is the same fundamental principle as a scaling ASC
+
+228
+00:24:56,480 --> 00:25:05,080
+for your CBO and high-intent creatives, but with that said, this is a brand that is spending just around 10k per day. We've actually had to scale down a little bit because of stock,
+
+229
+00:25:05,080 --> 00:25:08,460
+but this is an account where you can see that in action.
+
+230
+00:25:08,460 --> 00:25:18,820
+And then the final area, which again as it says here, if you actually are spending 50 to 100k per day on ads, well, you probably should have just skipped to this because your time is very valuable. But,
+
+231
+00:25:18,820 --> 00:25:23,120
+this is where we start to see things a lot more complex in ad accounts.
+
+232
+00:25:23,120 --> 00:25:34,180
+Now, the thing that is very, very important for you to understand, that if you are over here and you're in 0 to 50k per day, you do not want to replicate what someone is doing at level four of scaling, okay?
+
+233
+00:25:34,300 --> 00:25:43,980
+Where you start segmenting CBOs and segmenting raw content campaigns and ASCs and whitelisting. And if you're wondering what I mean by segmented CBOs, what we see brands at this level doing
+
+234
+00:25:43,980 --> 00:25:52,280
+is segmenting by collections or segmenting by specific avatars. And so a lot of you guys see this, and you want to do this, right? You get all excited
+
+235
+00:25:52,280 --> 00:26:02,840
+about an ad account spending 50k per day, but the truth is, is you're not spending 50k per day. You're spending 3k a day, or 4k a day, and can this maybe help you get a little bit more spend?
+
+236
+00:26:02,940 --> 00:26:07,660
+Sure, but the point is, is you have to earn this level of scaling, and you have to earn this structure.
+
+237
+00:26:07,980 --> 00:26:17,940
+The example that I want to give is like looking at a billionaire and being like, "I need to do exactly what he's doing. I need to talk on the phone all day, I need to fly private, I need to have my own driver, I need to live in a penthouse." Like,
+
+238
+00:26:18,080 --> 00:26:28,760
+no, you don't. You need to sit on your laptop, you need to learn a skill, you need to start to make some money so that way you can get your capital and people to work for you, and then you can maybe act more like a billionaire, okay?
+
+239
+00:26:28,780 --> 00:26:36,880
+So point is, is that you should not replicate or copy what an ad account is doing at 50 to 100k per day if you're spending 2, right?
+
+240
+00:26:37,100 --> 00:26:51,360
+And so that's why I've tried to break this down into the levels of scale so that way you can see what you can hopefully build up towards, but you have to earn that right to start to expand your ad account a little bit further and get more creative simply because of the sheer volume that you're dealing with.
+
+241
+00:26:51,360 --> 00:27:02,800
+So again, going back into this, there are segmented CBOs that you can run, and again, a lot of the brands that we talk to or can actually manage spending 100k plus a day on ads, it is a little bit more segmented.
+
+242
+00:27:02,900 --> 00:27:13,980
+And because again, these brands don't want their ad accounts out there, I cannot show you, but what I can show you is actually an example of where you leverage one campaign strategy with promo strategy.
+
+243
+00:27:13,980 --> 00:27:23,740
+So again, I did mention that we would get into the promo strategy, and so the promo campaign strategy does apply no matter where you're at, and what the promo campaign strategy is,
+
+244
+00:27:23,740 --> 00:27:32,380
+is, as you can see over here, in our campaign set up, it is where we have our cold, hot, and warm audiences inside of this one campaign.
+
+245
+00:27:32,760 --> 00:27:38,960
+And again, I'm not going to go deep into how to set this up. If you want to see how we set this up, there is the How to Run Facebook Ads video attached below.
+
+246
+00:27:39,300 --> 00:27:45,400
+But as you can see here, this ad account was actually spending 50k per day the day before Black Friday.
+
+247
+00:27:45,400 --> 00:27:52,840
+Now, as you can see on Black Friday itself, we actually did spend $100,000 in a single day, and we scaled the heck out of this.
+
+248
+00:27:53,040 --> 00:28:07,500
+And this just goes to show you that with ASCs and sale promo campaigns and a very, very simple CBO campaign, again, outside of this ABO testing campaign, which was something that we were just playing around with for this mega ABO-CBO test that we've been working on.
+
+249
+00:28:07,780 --> 00:28:19,620
+As you can see here, it's just separated by different countries, and I do actually break down this ad account in my $10 million in 90 days video, but the point is, is you can get up to 100k per day if the period allows for specific promos.
+
+250
+00:28:19,620 --> 00:28:29,740
+And so, in this instance, we actually were able to spend over 100k per day, or 100k per day exactly, without doing a bunch of segmented CBOs and raw content ASCs and other kinds of stuff.
+
+251
+00:28:29,740 --> 00:28:37,840
+We were just focused on our one campaign strategy, right, with our promo strategy. And for those of you that are wondering when you can use the promo strategy,
+
+252
+00:28:37,840 --> 00:28:50,240
+you can use it for any period, right? 4th of July, there's going to be Halloween coming up, obviously Black Friday, Christmas, all of these major holidays or all of these events that happen. Prime Day is actually another one.
+
+253
+00:28:50,500 --> 00:28:59,740
+You can take advantage of that, okay? And you can launch limited-time campaigns with great offers, and if you want to see our sales and offer strategy, there's also another video on my channel.
+
+254
+00:28:59,880 --> 00:29:06,560
+I've got way too many videos by now, but the point is, is you can see that that strategy alone can also scale up to six figures a day in spend
+
+255
+00:29:06,560 --> 00:29:22,120
+when the period allows. Now again, it's Black Friday, it's Q4, it's the hottest period of the year, but I want you guys to understand that you can scale very, very high with a very simplified ad account structure and a very simple overall scaling process by going through that protocol that we just walked through.
+
+256
+00:29:22,120 --> 00:29:35,860
+And again, just to recap, here it is for you, and if you did make it all the way to the end, I appreciate you for staying. If you need to review this video for whatever reason, I'll kind of zoom out here so you guys can see it, and then go ahead and screenshot it and do whatever you want with it.
+
+257
+00:29:35,860 --> 00:29:47,440
+But that is the scaling process that we use. Now again, if you enjoyed this week's video and you want more insights like this about how we're scaling brands to 100k plus days, I'd highly recommend that you check out the Evolve link down below.
+
+258
+00:29:47,440 --> 00:29:59,020
+We are making a push to get back to the number one spot on Skool. Big shout-out to the guy that actually dethroned us. He is the new GOAT on Skool, so in some of my previous videos where I said we're number one, unfortunately, we're not number one anymore, but
+
+259
+00:29:59,020 --> 00:30:12,540
+if you want to see strategies like this and you want to get into the highest-level community for all of e-com, where there are literally dudes spawning out of nowhere doing 40, 50, 90, 150k plus days in e-com right now, that's the place to be.
+
+260
+00:30:12,760 --> 00:30:24,620
+So, I'll leave it there. Again, I really, really hope that you guys enjoyed this video, and if you happen to be a Shopify brand that wants our team to step in and manage things, and you're spending at least six figures a month on ads, I'd highly recommend for you to check out the second link down below
+
+261
+00:30:24,620 --> 00:30:29,900
+to book a call with me and my team. Thank you so much for making it all the way to the end, and I will see you in the next one.

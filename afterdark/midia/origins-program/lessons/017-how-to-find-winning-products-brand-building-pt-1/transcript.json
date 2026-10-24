@@ -1,0 +1,4736 @@
+{
+  "lesson": {
+    "num": 17,
+    "id": "017-how-to-find-winning-products-brand-building-pt-1",
+    "title": "How To Find Winning Products (Brand Building) Pt 1",
+    "section": "🔍 How To Find Products",
+    "video": "17. How To Find Winning Products (Brand Building) Pt 1 Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 2341.76,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=740c0173c78345c9b7a4a01fe4cade8b"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (84% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 7269,
+    "matched_tokens": 6085,
+    "match_ratio": 0.837,
+    "segments_aligned": 476,
+    "segments_partly_aligned": 23,
+    "segments_interpolated": 7,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 251.692,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 228.6,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 251.692,
+      "end": 508.567,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 260.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 508.567,
+      "end": 792.865,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 236.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 792.865,
+      "end": 1092.521,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.998,
+      "wpm": 250.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1092.521,
+      "end": 1394.335,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 245.6,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 5,
+      "start": 1394.335,
+      "end": 1715.863,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.985,
+      "wpm": 234.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 6,
+      "start": 1715.863,
+      "end": 2055.826,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 248.6,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 7,
+      "start": 2055.826,
+      "end": 2341.76,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.993,
+      "wpm": 235.9,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [
+    {
+      "type": "unclear_words",
+      "start": 2054.3,
+      "end": 2056.74,
+      "chunk": 6,
+      "detail": "[inaudible]"
+    },
+    {
+      "type": "possible_omission",
+      "start": 2294.2,
+      "end": 2295.2,
+      "chunk": 7,
+      "detail": "local Whisper (low confidence) heard ~12 words missing from the transcript: \"If you want to make sure you have a new markup, tree\""
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.44,
+      "end": 4.0,
+      "speaker": "Presenter",
+      "text": "All right. One of the most important modules, and one of the most gatekept ones:",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 4.74,
+      "end": 10.22,
+      "speaker": "Presenter",
+      "text": "how do you find winning products? But not just what your typical guru says, copy-paste things,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 10.22,
+      "end": 15.9,
+      "speaker": "Presenter",
+      "text": "test it for three days and see how it does, go on AliExpress, copy-paste a bunch of fashion products.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 16.82,
+      "end": 18.98,
+      "speaker": "Presenter",
+      "text": "That's not what we're going to dive into today.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 19.9,
+      "end": 27.06,
+      "speaker": "Presenter",
+      "text": "I'm going to teach you guys how to look at winning products from a brand-building perspective so you can become a brand builder, not a copy-paste drop shipper.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 28.18,
+      "end": 33.1,
+      "speaker": "Presenter",
+      "text": "And there's been a few gurus who have offered to pay me tens of thousands to learn this.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 33.56,
+      "end": 42.46,
+      "speaker": "Presenter",
+      "text": "You'll be surprised, they have done the 100k days, you know, with fashion dropshipping, but they are afraid of starting their own brand. They are afraid to start brands in verticals",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 42.84,
+      "end": 49.12,
+      "speaker": "Presenter",
+      "text": "like supplements, because it's competitive. If that's the mindset you have, you shouldn't watch this video at all. This is not for you, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 49.56,
+      "end": 55.52,
+      "speaker": "Presenter",
+      "text": "Brand-building is what allows you to scale to big numbers, to the $100 million per year, and build something that is exitable.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 56.0,
+      "end": 64.08,
+      "speaker": "Presenter",
+      "text": "It is going to be hard. If you guys are looking for quick solutions, a couple of quick tips, or some secret strategies of how to find winning products,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 64.66,
+      "end": 65.76,
+      "speaker": "Presenter",
+      "text": "this video is not it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 66.38,
+      "end": 72.04,
+      "speaker": "Presenter",
+      "text": "I'm going to teach you guys how to think so you guys can actually build a brand, not quick strategies.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 72.86,
+      "end": 76.74,
+      "speaker": "Presenter",
+      "text": "If that's what you're looking for, you'll never be able to build a real brand. Click away from this video.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 77.32,
+      "end": 80.18,
+      "speaker": "Presenter",
+      "text": "For those of you who are willing to put in the work, I shall begin.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 81.02,
+      "end": 82.18,
+      "speaker": "Presenter",
+      "text": "So, first of all,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 82.44,
+      "end": 84.44,
+      "speaker": "Presenter",
+      "text": "what's the myth?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 85.4,
+      "end": 92.56,
+      "speaker": "Presenter",
+      "text": "People always say, \"Oh, how can I find a winning product? What is a winning product?\" The thing is, you can make any product work. Any product can be a winning product,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 92.56,
+      "end": 93.28,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 0,
+      "timing": "interpolated"
+    },
+    {
+      "id": 19,
+      "start": 93.28,
+      "end": 96.76,
+      "speaker": "Presenter",
+      "text": "How come? How does it make sense?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 97.64,
+      "end": 100.72,
+      "speaker": "Presenter",
+      "text": "There's no magical product research method that guarantees you success.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 101.5,
+      "end": 105.9,
+      "speaker": "Presenter",
+      "text": "It's not about the product research method that guarantees you the brand. It's not true.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 106.72,
+      "end": 114.58,
+      "speaker": "Presenter",
+      "text": "Regardless of where you found the product, AliExpress, Facebook, wherever else, TikTok, you can make it work as long as it fits a few criterias.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 115.56,
+      "end": 119.02,
+      "speaker": "Presenter",
+      "text": "People always ask me, \"What's the winning niches you would go into now?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 119.44,
+      "end": 127.96,
+      "speaker": "Presenter",
+      "text": "Doesn't matter. In Evolve, there's like 300 dudes inside. I've seen dudes crush it with brands from different niches: supplements, fashion,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 128.68,
+      "end": 132.08,
+      "speaker": "Presenter",
+      "text": "a whole lot of different ones also. Doesn't matter.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 133.3,
+      "end": 133.84,
+      "speaker": "Presenter",
+      "text": "Second thing,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 133.84,
+      "end": 142.12,
+      "speaker": "Presenter",
+      "text": "a lot of you guys who have been told, if you guys have, you know, purchased info from elsewhere before, paid 10k for some dudes to tell you to copy-paste,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 142.8,
+      "end": 144.4,
+      "speaker": "Presenter",
+      "text": "spam testing is BS.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 145.8,
+      "end": 152.18,
+      "speaker": "Presenter",
+      "text": "If you are relying on spam testing to find winning products, that basically means your entire success is based off luck.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 153.2,
+      "end": 158.8,
+      "speaker": "Presenter",
+      "text": "You just rip a bunch of products, you don't even know which one is going to work. You just send it and hope something sticks.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 158.8,
+      "end": 162.5,
+      "speaker": "Presenter",
+      "text": "That basically means you're doing a VA job.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 163.6,
+      "end": 166.42,
+      "speaker": "Presenter",
+      "text": "Do you want to be a professional VA, or do you want to build a brand?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 167.24,
+      "end": 170.04,
+      "speaker": "Presenter",
+      "text": "If you want to copy-paste, go ahead, bro. This video is not for you.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 170.94,
+      "end": 176.24,
+      "speaker": "Presenter",
+      "text": "What we're going to be going through is how to test with intent, and thinking through why you want to test something.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 177.8,
+      "end": 183.38,
+      "speaker": "Presenter",
+      "text": "Third one: instant success. Gurus will tell you success will come easy, you know, \"Just follow my methods,\" etc.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 184.14,
+      "end": 190.86,
+      "speaker": "Presenter",
+      "text": "But building a brand really takes time and persistence. It's realistically going to take you a lot longer than you think you need to succeed.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 190.86,
+      "end": 197.86,
+      "speaker": "Presenter",
+      "text": "And it's not that you just test, okay, test it one day, two day, not profitable, you move on, not a winning product.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 197.86,
+      "end": 203.82,
+      "speaker": "Presenter",
+      "text": "That's not how brand-building works. If that's how it worked, most brands out there wouldn't exist at all, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 204.8,
+      "end": 213.9,
+      "speaker": "Presenter",
+      "text": "You can hit a winning ad, it might take you, you know, two, three weeks, you know, of being unprofitable for you to hit it, and then suddenly you hit it, then everything takes off already.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 215.36,
+      "end": 219.98,
+      "speaker": "Presenter",
+      "text": "So, you'll need to unlearn a lot of things if you've consumed content from elsewhere before.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 220.66,
+      "end": 224.52,
+      "speaker": "Presenter",
+      "text": "Gurus have came to me where they hit 100k days, they're literally scared, bro.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 224.98,
+      "end": 228.84,
+      "speaker": "Presenter",
+      "text": "They're scared to enter competitive niches like supplements",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 229.94,
+      "end": 234.06,
+      "speaker": "Presenter",
+      "text": "because they've never learned this skill. They need to unlearn everything, which is what I'm going to teach you today.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 235.66,
+      "end": 240.3,
+      "speaker": "Presenter",
+      "text": "Right? Mindset-wise, a lot of you guys who watch this are going to be beginners. Here's what to expect.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 241.12,
+      "end": 242.5,
+      "speaker": "Presenter",
+      "text": "First of all, expect to fail.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 242.5,
+      "end": 250.8,
+      "speaker": "Presenter",
+      "text": "Like I said, it's going to take you a lot longer to succeed than you think it is. I started out with $100 in my bank account from Southeast Asia,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 250.8,
+      "end": 255.46,
+      "speaker": "Presenter",
+      "text": "I may I I had a store it was actually profitable, but I didn't have cash flow for it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 255.82,
+      "end": 257.92,
+      "speaker": "Presenter",
+      "text": "So I needed to do other things to get cash flow.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 258.36,
+      "end": 261.38,
+      "speaker": "Presenter",
+      "text": "Cash flow is is very important when you're first starting out.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 261.74,
+      "end": 266.46,
+      "speaker": "Presenter",
+      "text": "Don't just think you can put you know people tell you $2,000, $3,000 down and then you can make succeed.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 266.46,
+      "end": 268.04,
+      "speaker": "Presenter",
+      "text": "That's not how it works.",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 52,
+      "start": 268.64,
+      "end": 272.28,
+      "speaker": "Presenter",
+      "text": "Yes, you know you have $3,000 in your bank account, that's that's good enough to start.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 272.7,
+      "end": 277.68,
+      "speaker": "Presenter",
+      "text": "You always need cash flow, whether that's part-time job, working Uber, whatever it is.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 278.68,
+      "end": 282.4,
+      "speaker": "Presenter",
+      "text": "So because when you're first starting out, expect to suck,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 283.1,
+      "end": 285.78,
+      "speaker": "Presenter",
+      "text": "right? And it's okay because you haven't spent the hours required yet.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 286.64,
+      "end": 292.68,
+      "speaker": "Presenter",
+      "text": "And this video should be positioned right after the the videos of mindset of how many hours it takes to succeed",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 293.3,
+      "end": 296.54,
+      "speaker": "Presenter",
+      "text": "and after the videos regarding some of the market fundamentals as well.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 296.92,
+      "end": 300.74,
+      "speaker": "Presenter",
+      "text": "If not, go watch those, cuz those will tie into what we're going through today.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 301.78,
+      "end": 305.2,
+      "speaker": "Presenter",
+      "text": "So likewise, winning products, making a brand work, it's all a skill,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 305.6,
+      "end": 307.54,
+      "speaker": "Presenter",
+      "text": "right? Your first 100 hours you're gonna suck balls,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 308.44,
+      "end": 310.92,
+      "speaker": "Presenter",
+      "text": "but maybe after the 100 hours suddenly you start to see success. Again,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 311.88,
+      "end": 312.5,
+      "speaker": "Presenter",
+      "text": "second thing,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 312.88,
+      "end": 315.2,
+      "speaker": "Presenter",
+      "text": "chase high-intent reps and not perfection.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 316.32,
+      "end": 320.28,
+      "speaker": "Presenter",
+      "text": "A lot of beginners fall into a trap where they need to make everything perfect, but that's not how success works.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 321.04,
+      "end": 325.3,
+      "speaker": "Presenter",
+      "text": "The more you do something the better you get at it, it's not the more time you spend working on something you get better at it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 325.8,
+      "end": 327.64,
+      "speaker": "Presenter",
+      "text": "The more you test, the better you get.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 328.18,
+      "end": 329.18,
+      "speaker": "Presenter",
+      "text": "So you only get better through practice.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 330.1,
+      "end": 332.68,
+      "speaker": "Presenter",
+      "text": "So don't be too fixated on making them something perfect,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 333.6,
+      "end": 336.1,
+      "speaker": "Presenter",
+      "text": "right? If you want to find a product, give yourself a time bar.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 336.34,
+      "end": 338.62,
+      "speaker": "Presenter",
+      "text": "I'm going to find this product in and build out a store in 8 hours.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 338.62,
+      "end": 342.22,
+      "speaker": "Presenter",
+      "text": "8 hours is the limit. If I spend more than that, it doesn't matter, I'm going to launch it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 342.9,
+      "end": 345.3,
+      "speaker": "Presenter",
+      "text": "This will help you stop chasing perfection.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 346.3,
+      "end": 351.1,
+      "speaker": "Presenter",
+      "text": "Perfection is a is a something that nine-to-fivers uh always often chase,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 351.98,
+      "end": 354.96,
+      "speaker": "Presenter",
+      "text": "whereas dudes who have made it will always tell you it's about putting taking action.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 355.82,
+      "end": 356.98,
+      "speaker": "Presenter",
+      "text": "That's how that's where you learn the most.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 358.04,
+      "end": 359.72,
+      "speaker": "Presenter",
+      "text": "Third thing, intent.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 361.44,
+      "end": 363.92,
+      "speaker": "Presenter",
+      "text": "Most people just blindly test and pray something works.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 364.68,
+      "end": 369.3,
+      "speaker": "Presenter",
+      "text": "Your gurus will tell you, \"Oh, you're not succeeding after you tested a 100, 200 products? Test more.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 369.98,
+      "end": 372.3,
+      "speaker": "Presenter",
+      "text": "Great, if you're doing the same thing over and over again,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 373.12,
+      "end": 376.28,
+      "speaker": "Presenter",
+      "text": "you are still fucked. That's the definition of insanity,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 376.88,
+      "end": 378.92,
+      "speaker": "Presenter",
+      "text": "cuz you're relying on luck to succeed at this point.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 379.74,
+      "end": 384.08,
+      "speaker": "Presenter",
+      "text": "If you tracked everything you did, every creatives is tested, at least know why you want to test it,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 384.72,
+      "end": 387.46,
+      "speaker": "Presenter",
+      "text": "that is what intent is. You're thinking through it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 387.98,
+      "end": 390.86,
+      "speaker": "Presenter",
+      "text": "Great. Why is intent important? To the next point:",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 391.24,
+      "end": 391.92,
+      "speaker": "Presenter",
+      "text": "feedback loops.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 392.72,
+      "end": 398.3,
+      "speaker": "Presenter",
+      "text": "I always tell people that e-commerce is one of the businesses where you have a 100% success guarantee.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 399.28,
+      "end": 399.8,
+      "speaker": "Presenter",
+      "text": "How?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 400.6,
+      "end": 401.5,
+      "speaker": "Presenter",
+      "text": "Think of it this way.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 402.26,
+      "end": 406.74,
+      "speaker": "Presenter",
+      "text": "When you start, you might have a 1% at uh product hit rate, maybe less.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 407.56,
+      "end": 410.76,
+      "speaker": "Presenter",
+      "text": "If you tested a 100 times, you're guaranteed to succeed.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 411.48,
+      "end": 415.9,
+      "speaker": "Presenter",
+      "text": "Well, you test 100 times. It might not be the first time you test it that that you succeed,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 416.18,
+      "end": 418.7,
+      "speaker": "Presenter",
+      "text": "it may be the 50th or it may be the 100th time,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 419.1,
+      "end": 421.46,
+      "speaker": "Presenter",
+      "text": "but if you do it enough times, you will succeed",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 422.3,
+      "end": 424.36,
+      "speaker": "Presenter",
+      "text": "provided you actually learn from what you're doing. Why?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 425.36,
+      "end": 428.94,
+      "speaker": "Presenter",
+      "text": "Because if you do the same thing over and over again, your hit rate always stays the same.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 429.64,
+      "end": 432.68,
+      "speaker": "Presenter",
+      "text": "I I put here 1%, it could be 0.01.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 434.2,
+      "end": 436.82,
+      "speaker": "Presenter",
+      "text": "You test like a 1,000, 10,000 times to see one winning product.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 436.82,
+      "end": 442.66,
+      "speaker": "Presenter",
+      "text": "That's not really That's not realistic, right? You burn like five, six figures just on that.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 443.12,
+      "end": 443.62,
+      "speaker": "Presenter",
+      "text": "It's not realistic.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 444.7,
+      "end": 445.66,
+      "speaker": "Presenter",
+      "text": "The beauty of it is,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 445.66,
+      "end": 450.76,
+      "speaker": "Presenter",
+      "text": "since we tracked everything, you know why you want to test a creative, whatever, we can also see,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 451.58,
+      "end": 455.3,
+      "speaker": "Presenter",
+      "text": "\"Okay, I tested something, it didn't work. Why do I think so? What can we do to improve?\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 456.58,
+      "end": 459.92,
+      "speaker": "Presenter",
+      "text": "The more you do this, the more you review, your hit rate is going to go up.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 460.62,
+      "end": 465.22,
+      "speaker": "Presenter",
+      "text": "Initially it's 1%, okay, maybe then it increases to 2%, 3%, 4%,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 466.1,
+      "end": 469.2,
+      "speaker": "Presenter",
+      "text": "and you do this through reps and you do it through feedback loops,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 470.5,
+      "end": 470.6,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 471.52,
+      "end": 476.24,
+      "speaker": "Presenter",
+      "text": "Last thing, after you piece it all together, you put in enough hours, enough reps, enough feedback loops,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 476.7,
+      "end": 478.08,
+      "speaker": "Presenter",
+      "text": "like I said, it is guaranteed,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 478.74,
+      "end": 484.22,
+      "speaker": "Presenter",
+      "text": "but you need to persevere through. It may take you a few months, a few weeks, or even a a year or two to see the success you want.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 486.6,
+      "end": 487.86,
+      "speaker": "Presenter",
+      "text": "So that's what you should expect.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 488.7,
+      "end": 490.22,
+      "speaker": "Presenter",
+      "text": "Going into the actual product research,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 491.3,
+      "end": 496.22,
+      "speaker": "Presenter",
+      "text": "so there will be two parts to this video. The first part, I'm going to teach you what to look for, some examples, case studies.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 496.22,
+      "end": 500.0,
+      "speaker": "Presenter",
+      "text": "The second one, I'm going to show you like a live walkthrough of how I actually look at things.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 501.18,
+      "end": 503.76,
+      "speaker": "Presenter",
+      "text": "So the framework the voting criteria for product success,",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 115,
+      "start": 504.62,
+      "end": 507.6,
+      "speaker": "Presenter",
+      "text": "there's a few things. First of all, AOV and product margin.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 509.2,
+      "end": 513.28,
+      "speaker": "Presenter",
+      "text": "ideally, your AOV, in total, after bundles, is more than $60.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 514.36,
+      "end": 518.84,
+      "speaker": "Presenter",
+      "text": "Why? If you're targeting US, for example, there is a certain cost to advertise.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 519.44,
+      "end": 524.62,
+      "speaker": "Presenter",
+      "text": "You hear terms like CPMs, cost per 1,000 impressions. In the US, it's pretty much fixed.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 525.44,
+      "end": 534.0,
+      "speaker": "Presenter",
+      "text": "So, the cost, if you're selling something that's too cheap, $10, for example, but your cost to advertise is $20, there's zero chance that you can actually make it work.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 534.88,
+      "end": 538.3,
+      "speaker": "Presenter",
+      "text": "Hence, if you have a higher AOV, it allows you to spend more.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 538.86,
+      "end": 543.66,
+      "speaker": "Presenter",
+      "text": "Maybe instead of needing to be profitable at $20, you can aim for something that's $30.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 544.58,
+      "end": 549.06,
+      "speaker": "Presenter",
+      "text": "That's $10 more than your competitors, for example, you can afford to spend a lot more.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 550.22,
+      "end": 554.82,
+      "speaker": "Presenter",
+      "text": "Eventually, as ads get more expensive, more competition comes in, you will still be fine. You'll be protected.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 556.22,
+      "end": 562.94,
+      "speaker": "Presenter",
+      "text": "It's you might see early success with AOVs lower than this, but, in the long term, you want to scale big, to build a brand, it's very, very hard.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 564.3,
+      "end": 570.02,
+      "speaker": "Presenter",
+      "text": "Second thing: it's good to always aim for a minimum of 3x markup on COGS and shipping.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 570.62,
+      "end": 577.16,
+      "speaker": "Presenter",
+      "text": "Let's say COGS and shipping, in total, cost you $10 to the US, you need to be at least $30, ideally more.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 577.64,
+      "end": 581.98,
+      "speaker": "Presenter",
+      "text": "If not, if your margins are too low, it'll also give you a problem when you scale in the future.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 582.98,
+      "end": 585.96,
+      "speaker": "Presenter",
+      "text": "Ideally, 5x is good as well, but it depends, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 586.4,
+      "end": 588.86,
+      "speaker": "Presenter",
+      "text": "I'll show you what, how to do it in the next video.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 589.58,
+      "end": 591.96,
+      "speaker": "Presenter",
+      "text": "What else do you look for? Trends.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 592.98,
+      "end": 597.72,
+      "speaker": "Presenter",
+      "text": "So, I always tell people People ask me, \"What trends would you go into now?\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 598.38,
+      "end": 603.04,
+      "speaker": "Presenter",
+      "text": "I don't care if it's a hot product or not. What I care about: is the trend dying or not?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 603.54,
+      "end": 607.38,
+      "speaker": "Presenter",
+      "text": "If I want to sell keto products, we use a tool, Google Trends, right, pretty simple, it's free.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 608.88,
+      "end": 610.04,
+      "speaker": "Presenter",
+      "text": "I search up keto.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 612.12,
+      "end": 614.32,
+      "speaker": "Presenter",
+      "text": "Shout out Malaysia. Let me switch to the US.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 615.86,
+      "end": 617.98,
+      "speaker": "Presenter",
+      "text": "US. Look at past five years.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 620.44,
+      "end": 623.94,
+      "speaker": "Presenter",
+      "text": "Is the trend up or down? Consistently down over five years.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 625.0,
+      "end": 628.44,
+      "speaker": "Presenter",
+      "text": "I'm not fighting against the the the macros. Zero chance you can win.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 628.66,
+      "end": 632.72,
+      "speaker": "Presenter",
+      "text": "Same thing. What if you were to sell newspaper now, you have a big publication?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 633.78,
+      "end": 637.66,
+      "speaker": "Presenter",
+      "text": "Let's see. Consistently down over five years as well. I wouldn't do that.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 638.1,
+      "end": 641.26,
+      "speaker": "Presenter",
+      "text": "Whereas, if you do something like I don't know, gym,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 642.46,
+      "end": 645.98,
+      "speaker": "Presenter",
+      "text": "five years. It's actually up. Not bad.",
+      "chunk": 2,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 143,
+      "start": 646.44,
+      "end": 649.32,
+      "speaker": "Presenter",
+      "text": "Even if it's flat, stagnant, that's fine as well.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 649.8,
+      "end": 652.88,
+      "speaker": "Presenter",
+      "text": "The money is made in stagnant and trending markets, but not in declining ones.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 653.66,
+      "end": 663.98,
+      "speaker": "Presenter",
+      "text": "So, if you were to sell a product, you can search up the niches related to it, let's say, colostrum, probiotics, whatever, you can search it up. If the trend is not down, you're fine.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 665.58,
+      "end": 666.66,
+      "speaker": "Presenter",
+      "text": "The last one is just product weight.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 667.6,
+      "end": 672.58,
+      "speaker": "Presenter",
+      "text": "It's only something for beginners. I would avoid heavy items that will make it complicated to ship.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 673.72,
+      "end": 675.94,
+      "speaker": "Presenter",
+      "text": "So, if you're a beginner, just focus on more lightweight items.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 676.0,
+      "end": 684.58,
+      "speaker": "Presenter",
+      "text": "And to give you an example of heavy item, well, let's say this was a pretty hot product I think some people still sell it during COVID.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 685.1,
+      "end": 698.72,
+      "speaker": "Presenter",
+      "text": "People would sell generators to the EU, I think it was because, I forgot which country, where where they stopped buying oil from Russia, then, okay, they need a generator this for some reason, yeah.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 699.2,
+      "end": 701.26,
+      "speaker": "Presenter",
+      "text": "These are expensive, they're they are a few kilograms.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 702.68,
+      "end": 707.04,
+      "speaker": "Presenter",
+      "text": "Shipping is expensive. When you reach customs, customs are going to ask you questions. I would just avoid it totally.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 707.8,
+      "end": 711.66,
+      "speaker": "Presenter",
+      "text": "Things like supplements, skin care, all those are, like, lightweight items, you're completely fine.",
+      "chunk": 2,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 154,
+      "start": 712.38,
+      "end": 719.9,
+      "speaker": "Presenter",
+      "text": "The last thing, you might have heard people tell you, you need to focus on LTV, subscriptions. If you're a beginner, don't worry about that at all, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 719.9,
+      "end": 726.0,
+      "speaker": "Presenter",
+      "text": "As long as the AOV, profit margin makes sense, trend is not dying, product is not super heavy, you're fine.",
+      "chunk": 2,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 156,
+      "start": 726.0,
+      "end": 730.22,
+      "speaker": "Presenter",
+      "text": "These are key criterias.",
+      "chunk": 2,
+      "timing": "interpolated"
+    },
+    {
+      "id": 157,
+      "start": 730.22,
+      "end": 734.42,
+      "speaker": "Presenter",
+      "text": "All right. Now on to the sauce. What is a winning product?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 735.46,
+      "end": 737.88,
+      "speaker": "Presenter",
+      "text": "Most of you have already seen on YouTube people will tell you",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 738.38,
+      "end": 744.32,
+      "speaker": "Presenter",
+      "text": "Fun fact, I actually started out my first store watching one of Ecom King's video, shout out, top 10 products to sell.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 745.3,
+      "end": 747.26,
+      "speaker": "Presenter",
+      "text": "These videos are all bullshit.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 748.48,
+      "end": 754.76,
+      "speaker": "Presenter",
+      "text": "They just kind of find like, you know, on AliExpress or whatever tool they're they're they're selling you, sign up for their affiliate.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 755.84,
+      "end": 758.92,
+      "speaker": "Presenter",
+      "text": "But the thing is this: what even is a winning product? You don't know.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 760.02,
+      "end": 761.08,
+      "speaker": "Presenter",
+      "text": "Let me explain to you.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 762.24,
+      "end": 766.82,
+      "speaker": "Presenter",
+      "text": "A winning product is a product that satifies satisfies a mass desire.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 767.24,
+      "end": 770.66,
+      "speaker": "Presenter",
+      "text": "If you don't know what a mass desire is, it's because you didn't watch the previous video.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 770.98,
+      "end": 775.72,
+      "speaker": "Presenter",
+      "text": "This whole presentation is useless if you do not watch the previous modules. Go ahead and watch those first.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 775.72,
+      "end": 781.06,
+      "speaker": "Presenter",
+      "text": "Okay? Do not skip. Do not jump straight to shortcuts.",
+      "chunk": 2,
+      "timing": "interpolated"
+    },
+    {
+      "id": 168,
+      "start": 781.06,
+      "end": 784.58,
+      "speaker": "Presenter",
+      "text": "The people who run shortcuts, they will make it never become successful.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 786.2,
+      "end": 791.98,
+      "speaker": "Presenter",
+      "text": "And to answer the question, can a fashion product also satisfy a mass desire? Yes, it can.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 793.38,
+      "end": 793.96,
+      "speaker": "Presenter",
+      "text": "Moving on,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 794.68,
+      "end": 800.28,
+      "speaker": "Presenter",
+      "text": "so, okay, you can find a bunch of different products that satisfy a mass desire. Does that mean that all of them will work out?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 800.96,
+      "end": 807.24,
+      "speaker": "Presenter",
+      "text": "Sort of. Yes, like I said, you can make any product work, but the difficulty of each product will vary.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 808.12,
+      "end": 810.66,
+      "speaker": "Presenter",
+      "text": "On what? Let me show you in the next slides.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 812.08,
+      "end": 815.62,
+      "speaker": "Presenter",
+      "text": "Okay, so what affects how easy and hard is it to make a product work?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 816.42,
+      "end": 822.14,
+      "speaker": "Presenter",
+      "text": "The first thing, magnitude of desire. And we covered already in the market desire video of what it is.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 822.7,
+      "end": 829.12,
+      "speaker": "Presenter",
+      "text": "There are levels to magnitudes to the desire. Some products solve stronger desires than others.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 830.06,
+      "end": 837.04,
+      "speaker": "Presenter",
+      "text": "And if you had a product where it solves a strong desire, it could even be more expensive, requires more effort, but it still sells really well.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 837.56,
+      "end": 838.08,
+      "speaker": "Presenter",
+      "text": "Example here.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 839.42,
+      "end": 846.16,
+      "speaker": "Presenter",
+      "text": "Let's say you were to sell something like desk organizers, cable management clips, you see that are viral on TikTok, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 846.8,
+      "end": 850.8,
+      "speaker": "Presenter",
+      "text": "It only covers a weak desire. Let's say it's to make your desk look more organized.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 851.22,
+      "end": 852.64,
+      "speaker": "Presenter",
+      "text": "These products are often cheap.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 852.82,
+      "end": 857.56,
+      "speaker": "Presenter",
+      "text": "Like, it's- and we already covered, if the AOV is too low, you'll never be able to make it work.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 857.82,
+      "end": 863.82,
+      "speaker": "Presenter",
+      "text": "Which is why you might only see these products pop up in TikTok Organic, where they do- don't have ad costs, but you will never be able to scale it far.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 865.5,
+      "end": 868.06,
+      "speaker": "Presenter",
+      "text": "Whereas, instead, you targeted a strong desire.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 868.8,
+      "end": 878.46,
+      "speaker": "Presenter",
+      "text": "People who need to lose weight, um, thirty pounds before their wedding in three months. It's urgent. It's for their wedding, once in a lifetime. They have to lose the weight, right? It's a strong desire.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 878.46,
+      "end": 882.34,
+      "speaker": "Presenter",
+      "text": "Instead of selling cheap products, you can sell high-ticket items.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 883.12,
+      "end": 895.22,
+      "speaker": "Presenter",
+      "text": "You can sell weight loss coaching, two to five thousand. Meal delivery services, three to five hundred. Training packages, thousand to three thousand dollars. Medical weight loss procedures, five thousand to fifteen thousand. And people always pay it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 896.2,
+      "end": 900.92,
+      "speaker": "Presenter",
+      "text": "And from a product's perspective, okay, great, it's a strong desire, and these things cost so much.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 901.48,
+      "end": 906.2,
+      "speaker": "Presenter",
+      "text": "What if I can find a a product that solves it that's even better, that is even cheaper?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 907.06,
+      "end": 909.86,
+      "speaker": "Presenter",
+      "text": "So let's say, say, Infinity Hoop, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 910.86,
+      "end": 912.16,
+      "speaker": "Presenter",
+      "text": "Can you find a product like that, then?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 912.16,
+      "end": 915.28,
+      "speaker": "Presenter",
+      "text": "Um, let me see if we can find it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 916.42,
+      "end": 917.24,
+      "speaker": "Presenter",
+      "text": "Aha, Infinity Hoop.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 918.02,
+      "end": 921.06,
+      "speaker": "Presenter",
+      "text": "Yeah, it's a weight loss training that that supposedly is it makes it fun.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 921.86,
+      "end": 926.66,
+      "speaker": "Presenter",
+      "text": "So now it solves a strong desire, and it's better than all the other solutions in the market already.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 927.6,
+      "end": 931.64,
+      "speaker": "Presenter",
+      "text": "It's magnitude of desire. Always pick the one that has that has the strongest desire.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 934.2,
+      "end": 935.26,
+      "speaker": "Presenter",
+      "text": "Oh, before I stop,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 935.86,
+      "end": 938.7,
+      "speaker": "Presenter",
+      "text": "so it doesn't mean that you have to choose a problem-solving product.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 939.34,
+      "end": 950.92,
+      "speaker": "Presenter",
+      "text": "Like I said, fashion also has a strong magnitude of desire, cause you're not it's not just look good. What do people look good for? To attract the opposite sex, you know, cause they are lonely, et cetera.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 951.38,
+      "end": 952.46,
+      "speaker": "Presenter",
+      "text": "It can also go very deep.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 952.46,
+      "end": 955.76,
+      "speaker": "Presenter",
+      "text": "But I won't cover too much about that.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 956.42,
+      "end": 956.84,
+      "speaker": "Presenter",
+      "text": "Onwards.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 957.7,
+      "end": 962.6,
+      "speaker": "Presenter",
+      "text": "Second topic, market awareness, also explained in depth in the previous modules.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 963.8,
+      "end": 968.76,
+      "speaker": "Presenter",
+      "text": "Do not shortcut success. If you don't understand it, rewatch that video two, three times before you come back to this.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 970.28,
+      "end": 973.94,
+      "speaker": "Presenter",
+      "text": "So as you all know, the higher the stage of awareness, the harder it is to work.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 974.44,
+      "end": 981.14,
+      "speaker": "Presenter",
+      "text": "If it's unaware, it takes a significantly more skill level to make unaware work, compared to product-aware or solution-aware.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 981.14,
+      "end": 985.54,
+      "speaker": "Presenter",
+      "text": "So as beginners, it's better for you to choose something that is solution-aware or product-aware.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 986.5,
+      "end": 990.48,
+      "speaker": "Presenter",
+      "text": "You might have the misconception where you need to do unaware to scale.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 991.36,
+      "end": 998.62,
+      "speaker": "Presenter",
+      "text": "That's a big problem. If you look at products out in the market, and you look at competitors, and you feel like you need to do unaware ads to scale,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 999.06,
+      "end": 1001.58,
+      "speaker": "Presenter",
+      "text": "I wouldn't do it at all. It's way too hard.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1002.22,
+      "end": 1007.66,
+      "speaker": "Presenter",
+      "text": "Whereas, if you can find a product where, you know, you can sell right away in solution or product-aware,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1008.24,
+      "end": 1012.82,
+      "speaker": "Presenter",
+      "text": "you're fine. If you need to do something so difficult to make it work, it's probably not worth your time,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1013.16,
+      "end": 1017.74,
+      "speaker": "Presenter",
+      "text": "right? And we scaled to eight hundred k a day with just product-aware ads, so you don't need to go all the way out,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1018.26,
+      "end": 1021.0,
+      "speaker": "Presenter",
+      "text": "right? I know dudes making eight figures a month just problem-aware, solution-aware,",
+      "chunk": 3,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 215,
+      "start": 1021.0,
+      "end": 1024.98,
+      "speaker": "Presenter",
+      "text": "right? So your product doesn't doesn't need to do something revolutionary.",
+      "chunk": 3,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 216,
+      "start": 1025.72,
+      "end": 1030.92,
+      "speaker": "Presenter",
+      "text": "Cause we're not here to reinvent the wheel, we're just here to find a product that solves something existing even better.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1033.92,
+      "end": 1035.96,
+      "speaker": "Presenter",
+      "text": "The third factor is market sophistication.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1036.7,
+      "end": 1040.18,
+      "speaker": "Presenter",
+      "text": "Of course, like you've learned, more sophisticated it is, the harder it is to stand out.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1040.18,
+      "end": 1043.38,
+      "speaker": "Presenter",
+      "text": "That you don't we don't need to be new to the market.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1043.82,
+      "end": 1048.78,
+      "speaker": "Presenter",
+      "text": "Cause new opportunities like that are extremely rare. I'm not going to invent the next Ozempic.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1048.88,
+      "end": 1052.6,
+      "speaker": "Presenter",
+      "text": "Like I I just I don't have the cash, I don't have the know-how to do that.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1053.18,
+      "end": 1058.04,
+      "speaker": "Presenter",
+      "text": "We can take even existing products in the market, dropshipping it, and create a brand out of it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1058.98,
+      "end": 1062.16,
+      "speaker": "Presenter",
+      "text": "I'll show you guys examples of how this all ties together in the next few slides.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1063.1,
+      "end": 1066.24,
+      "speaker": "Presenter",
+      "text": "So another thing that you need to think about, how do you actually stand out?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1066.94,
+      "end": 1074.82,
+      "speaker": "Presenter",
+      "text": "If you cannot create a unique mechanism for the product or find an under- the underserved avatar, I would avoid it, because you don't have a differentiator.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1075.8,
+      "end": 1079.16,
+      "speaker": "Presenter",
+      "text": "The way you look at all these products in your market, why I give you these three factors,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1079.92,
+      "end": 1089.14,
+      "speaker": "Presenter",
+      "text": "it's going to help you see, for this product, compared to the market right now, is there a way I can stand out through the sophistication, through the awareness, through the avatars, et cetera?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 228,
+      "start": 1089.14,
+      "end": 1091.6,
+      "speaker": "Presenter",
+      "text": "The very first examples I'll give you guys.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1092.9,
+      "end": 1099.5,
+      "speaker": "Presenter",
+      "text": "So, you look at your product, theoretically, you noticed the factors. How do you actually deal with competition and saturation?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1100.94,
+      "end": 1111.6,
+      "speaker": "Presenter",
+      "text": "Like I said with the guru example, people are always afraid of saturated markets, cause saturate market also mean that there's a big audience. If you can pierce through it, you make a ton of cash.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1112.44,
+      "end": 1119.92,
+      "speaker": "Presenter",
+      "text": "It's a pitfall of all the copy copy paste gurus out there, and this is why most of you cannot build a brand, cause you do not know how to deal with competition.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1120.94,
+      "end": 1126.9,
+      "speaker": "Presenter",
+      "text": "And the only way they win is by copy pasting faster than others, cause they have to resort to being first to market to win.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1127.72,
+      "end": 1137.36,
+      "speaker": "Presenter",
+      "text": "Like I said also, being first to market is extremely rare, and eventually, people are gonna come to the market, competitors. If you don't know how to deal with that, you will still lose.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1138.72,
+      "end": 1143.78,
+      "speaker": "Presenter",
+      "text": "So, next slide is strategies on how we pierce through saturated markets and take market share.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1144.78,
+      "end": 1150.36,
+      "speaker": "Presenter",
+      "text": "Second thing, like I said, we do not need this to start with stock or customized product in order to win.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1151.3,
+      "end": 1158.64,
+      "speaker": "Presenter",
+      "text": "If you're a complete beginner, it's often a bad idea for you to start e-commerce by buying stock cause you don't know what you're doing in the first place.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1159.52,
+      "end": 1168.02,
+      "speaker": "Presenter",
+      "text": "We're gonna pick existing products, dropship it from China, test it for traction. Eventually if it works out, then we can talk about branding it further on.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1168.4,
+      "end": 1175.88,
+      "speaker": "Presenter",
+      "text": "And you don't You can still scale far even with existing products. You can stand out from competition in other methods in the next slides.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1177.32,
+      "end": 1179.54,
+      "speaker": "Presenter",
+      "text": "The main thing you need to know, to stand out there's two things:",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1180.96,
+      "end": 1184.04,
+      "speaker": "Presenter",
+      "text": "either you innovate on the product or you innovate on the avatar.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1184.96,
+      "end": 1187.92,
+      "speaker": "Presenter",
+      "text": "The three factors I talked about all tie into these things together.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1188.82,
+      "end": 1196.8,
+      "speaker": "Presenter",
+      "text": "Either you've a new product or mechanism that solves the existing problem even better, or you target an avatar that's underserved.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1197.66,
+      "end": 1199.14,
+      "speaker": "Presenter",
+      "text": "Either you win through product or avatar.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1200.24,
+      "end": 1204.72,
+      "speaker": "Presenter",
+      "text": "If you've no idea how you're going to stand out in the first place when you test the product, you are going to fail.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1204.72,
+      "end": 1207.4,
+      "speaker": "Presenter",
+      "text": "K?",
+      "chunk": 4,
+      "timing": "interpolated"
+    },
+    {
+      "id": 246,
+      "start": 1207.4,
+      "end": 1211.12,
+      "speaker": "Presenter",
+      "text": "All right. Finally, examples. Sean, what have you been talking about this whole time?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1212.14,
+      "end": 1218.18,
+      "speaker": "Presenter",
+      "text": "I'm gonna give you examples in the market and the ones that we have worked with as well.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1218.18,
+      "end": 1222.14,
+      "speaker": "Presenter",
+      "text": "Shilajit brand, k?",
+      "chunk": 4,
+      "timing": "interpolated"
+    },
+    {
+      "id": 249,
+      "start": 1222.14,
+      "end": 1227.1,
+      "speaker": "Presenter",
+      "text": "We've helped over five brands in shilajit In Evolve, scaled their shilajit brands over a million a month.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1227.1,
+      "end": 1235.32,
+      "speaker": "Presenter",
+      "text": "Despite the competition, some of them have been 1 year old, 2 year old, some of them have been a few months old, yet they still scale so hard. Despite competition, how come?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1236.3,
+      "end": 1238.52,
+      "speaker": "Presenter",
+      "text": "So, we thought we know about market awareness and sophistication already.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1238.52,
+      "end": 1240.78,
+      "speaker": "Presenter",
+      "text": "Of course, when you first start out, not sophisticated, you can make easy claims:",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 253,
+      "start": 1240.78,
+      "end": 1244.52,
+      "speaker": "Presenter",
+      "text": "When shilajit first started out, it was just in this resin form.",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 254,
+      "start": 1249.68,
+      "end": 1251.66,
+      "speaker": "Presenter",
+      "text": "get more energy, get your PP hard,",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 255,
+      "start": 1252.5,
+      "end": 1258.22,
+      "speaker": "Presenter",
+      "text": "but as more competitors come in, sophistication increases, more aggressive claims come.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1259.02,
+      "end": 1261.96,
+      "speaker": "Presenter",
+      "text": "So then people start claiming it it cures cancer, some crazy shit.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1262.5,
+      "end": 1266.2,
+      "speaker": "Presenter",
+      "text": "At that point, no one believes what you're selling already. It's hard for you to to do the same thing and make it work.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1267.54,
+      "end": 1272.5,
+      "speaker": "Presenter",
+      "text": "So, brands started coming in with, like I said, two ways of standing out: product.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1273.72,
+      "end": 1281.44,
+      "speaker": "Presenter",
+      "text": "So instead of just this resin, they turned it into gummies, which is a new form of delivery and it's a new mechanism.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 260,
+      "start": 1282.36,
+      "end": 1289.46,
+      "speaker": "Presenter",
+      "text": "Even though it that's what it is, we reset it from level four to five sophistication all the way to level one",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1290.42,
+      "end": 1293.66,
+      "speaker": "Presenter",
+      "text": "cause it's a new mechanism now, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 262,
+      "start": 1295.28,
+      "end": 1299.1,
+      "speaker": "Presenter",
+      "text": "So this way, the the brands that done this scaled to seven figures a month.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 263,
+      "start": 1299.72,
+      "end": 1307.12,
+      "speaker": "Presenter",
+      "text": "Besides that, \"Okay, great, Sean. I don't have the cash. I don't have the resources to create a new product, new mechanism like that.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 264,
+      "start": 1307.12,
+      "end": 1315.42,
+      "speaker": "Presenter",
+      "text": "That's fine, cause we also worked with shilajit brands, sold the same exact thing, but we targeted it from a market awareness perspective.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 265,
+      "start": 1317.5,
+      "end": 1318.54,
+      "speaker": "Presenter",
+      "text": "So, okay,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 266,
+      "start": 1319.6,
+      "end": 1324.46,
+      "speaker": "Presenter",
+      "text": "let's say we're at a point in the market where everyone is churning out solution-aware messaging,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 267,
+      "start": 1325.66,
+      "end": 1330.82,
+      "speaker": "Presenter",
+      "text": "\"Oh, soft PP hard, what else is there? More energy, great.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 268,
+      "start": 1331.74,
+      "end": 1333.92,
+      "speaker": "Presenter",
+      "text": "Ton of brands are already out there is putting out these claims,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 269,
+      "start": 1333.92,
+      "end": 1336.9,
+      "speaker": "Presenter",
+      "text": "so everyone knows about the product already.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 270,
+      "start": 1337.72,
+      "end": 1342.82,
+      "speaker": "Presenter",
+      "text": "What if, in that case, you just position your brand as the best? Now it's product-aware messaging.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 271,
+      "start": 1343.36,
+      "end": 1347.68,
+      "speaker": "Presenter",
+      "text": "What we said was just, \"Yo, our product was lab tested to be better than the rest.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 272,
+      "start": 1349.22,
+      "end": 1352.98,
+      "speaker": "Presenter",
+      "text": "Our product has been lab tested to have more certain ingredient than the rest.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 273,
+      "start": 1353.28,
+      "end": 1360.68,
+      "speaker": "Presenter",
+      "text": "That's all it took for us to win, even though we did not change the what's the word? We did not change the product,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 274,
+      "start": 1360.68,
+      "end": 1363.1,
+      "speaker": "Presenter",
+      "text": "and we didn't have to go all the way to unaware.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 275,
+      "start": 1363.74,
+      "end": 1366.98,
+      "speaker": "Presenter",
+      "text": "Like I said, if we needed to go unaware to win, it's extremely hard to make it work.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 276,
+      "start": 1367.9,
+      "end": 1374.28,
+      "speaker": "Presenter",
+      "text": "So, we can go down the ladder also. First, it's product-aware messaging, and it worked. Now we scaled to seven figures a month this way.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 277,
+      "start": 1375.76,
+      "end": 1379.7,
+      "speaker": "Presenter",
+      "text": "Right, so a look at shilajit right now, if you wanna pierce through the market, this is how you would do it, k?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 278,
+      "start": 1381.2,
+      "end": 1383.98,
+      "speaker": "Presenter",
+      "text": "And another example, right, backtracking over here,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 279,
+      "start": 1385.42,
+      "end": 1390.02,
+      "speaker": "Presenter",
+      "text": "you guys might have seen this product before: astronaut projector.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 280,
+      "start": 1396.14,
+      "end": 1396.88,
+      "speaker": "Presenter",
+      "text": "Let it load.",
+      "chunk": 5,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 281,
+      "start": 1398.22,
+      "end": 1401.98,
+      "speaker": "Presenter",
+      "text": "So, the astronaut projector, you guys may have seen this product. It's been around for like",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 282,
+      "start": 1402.26,
+      "end": 1403.18,
+      "speaker": "Presenter",
+      "text": "more than 5 years,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 283,
+      "start": 1404.32,
+      "end": 1409.9,
+      "speaker": "Presenter",
+      "text": "yet there's still dudes who pop up with this product and do like $10 million in one year with it.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 284,
+      "start": 1410.3,
+      "end": 1410.78,
+      "speaker": "Presenter",
+      "text": "How?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 285,
+      "start": 1412.3,
+      "end": 1414.82,
+      "speaker": "Presenter",
+      "text": "If it's not the product or mechanism,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 286,
+      "start": 1415.74,
+      "end": 1416.56,
+      "speaker": "Presenter",
+      "text": "it's going to be the avatar.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 287,
+      "start": 1417.02,
+      "end": 1419.9,
+      "speaker": "Presenter",
+      "text": "They make Let's say this This guy made this make more relatable,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 288,
+      "start": 1421.44,
+      "end": 1422.22,
+      "speaker": "Presenter",
+      "text": "let me just show you the brand.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 289,
+      "start": 1425.06,
+      "end": 1428.0,
+      "speaker": "Presenter",
+      "text": "I'm not sure how much they're doing now, but I think in 2024,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 290,
+      "start": 1430.4,
+      "end": 1432.42,
+      "speaker": "Presenter",
+      "text": "2023, they did 10 million their first year with this.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 291,
+      "start": 1433.0,
+      "end": 1437.54,
+      "speaker": "Presenter",
+      "text": "All they did was just go on TikTok, you know, recreate whatever was trending there, viral, organic",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 292,
+      "start": 1438.0,
+      "end": 1438.88,
+      "speaker": "Presenter",
+      "text": "to their own customer,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 293,
+      "start": 1440.12,
+      "end": 1445.72,
+      "speaker": "Presenter",
+      "text": "cuz no one no one was really targeting like super trendy Gen Z people at the time with this product.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 294,
+      "start": 1446.58,
+      "end": 1448.94,
+      "speaker": "Presenter",
+      "text": "They Literally, all they did was unserved avatar.",
+      "chunk": 5,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 295,
+      "start": 1450.46,
+      "end": 1455.9,
+      "speaker": "Presenter",
+      "text": "And it's funny. This product is actually a variant of another product in the past.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 296,
+      "start": 1459.68,
+      "end": 1460.3,
+      "speaker": "Presenter",
+      "text": "Projector,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 297,
+      "start": 1460.3,
+      "end": 1461.28,
+      "speaker": "Presenter",
+      "text": "projector starlight,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 298,
+      "start": 1461.78,
+      "end": 1463.48,
+      "speaker": "Presenter",
+      "text": "starlight projector, that's what it's called.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 299,
+      "start": 1465.35,
+      "end": 1467.16,
+      "speaker": "Presenter",
+      "text": "Okay. No, it's not.",
+      "chunk": 5,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 300,
+      "start": 1471.92,
+      "end": 1472.64,
+      "speaker": "Presenter",
+      "text": "There we go.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 301,
+      "start": 1473.48,
+      "end": 1477.5,
+      "speaker": "Presenter",
+      "text": "These variants of the product came out before the astronaut projector.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 302,
+      "start": 1478.58,
+      "end": 1480.8,
+      "speaker": "Presenter",
+      "text": "This is like 10 1 decade ago, bro, 10 years.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 303,
+      "start": 1481.54,
+      "end": 1482.2,
+      "speaker": "Presenter",
+      "text": "People are selling this.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 304,
+      "start": 1483.5,
+      "end": 1483.8,
+      "speaker": "Presenter",
+      "text": "So,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 305,
+      "start": 1483.8,
+      "end": 1484.46,
+      "speaker": "Presenter",
+      "text": "what to do?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 306,
+      "start": 1485.42,
+      "end": 1488.76,
+      "speaker": "Presenter",
+      "text": "First of all, the astronaut projector came out, that's a new mechanism.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 307,
+      "start": 1489.7,
+      "end": 1491.32,
+      "speaker": "Presenter",
+      "text": "The dudes who sold this crushed it again.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 308,
+      "start": 1492.76,
+      "end": 1496.3,
+      "speaker": "Presenter",
+      "text": "Okay. Great. Competition comes in again, what to do?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 309,
+      "start": 1497.24,
+      "end": 1500.1,
+      "speaker": "Presenter",
+      "text": "Find unserved avatar, Plushie, crush it again.",
+      "chunk": 5,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 310,
+      "start": 1501.38,
+      "end": 1502.98,
+      "speaker": "Presenter",
+      "text": "This is how you look at look at products,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 311,
+      "start": 1503.44,
+      "end": 1506.06,
+      "speaker": "Presenter",
+      "text": "right? You need to find ways of how to stand out beforehand.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 312,
+      "start": 1507.16,
+      "end": 1509.84,
+      "speaker": "Presenter",
+      "text": "And like I said, the ways we find to stand out beforehand,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 313,
+      "start": 1511.46,
+      "end": 1512.22,
+      "speaker": "Presenter",
+      "text": "the market awareness,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 314,
+      "start": 1512.96,
+      "end": 1513.94,
+      "speaker": "Presenter",
+      "text": "sophistication,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 315,
+      "start": 1513.94,
+      "end": 1515.72,
+      "speaker": "Presenter",
+      "text": "avatar,",
+      "chunk": 5,
+      "timing": "interpolated"
+    },
+    {
+      "id": 316,
+      "start": 1515.72,
+      "end": 1516.9,
+      "speaker": "Presenter",
+      "text": "the the mechanism.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 317,
+      "start": 1517.74,
+      "end": 1520.32,
+      "speaker": "Presenter",
+      "text": "Okay? One example. Let's move on.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 318,
+      "start": 1521.94,
+      "end": 1524.3,
+      "speaker": "Presenter",
+      "text": "I'm going to show you more examples first, but",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 319,
+      "start": 1524.3,
+      "end": 1527.86,
+      "speaker": "Presenter",
+      "text": "personal matters do factors do matter as well when you're choosing products.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 320,
+      "start": 1528.32,
+      "end": 1529.26,
+      "speaker": "Presenter",
+      "text": "It's important to know yourself,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 321,
+      "start": 1529.26,
+      "end": 1535.04,
+      "speaker": "Presenter",
+      "text": "because if you understand your own passions and interests and you can choose a product that aligns with that,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 322,
+      "start": 1535.44,
+      "end": 1539.12,
+      "speaker": "Presenter",
+      "text": "obviously, be more passionate about it, you have more motivation, more enthusiasm,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 323,
+      "start": 1540.12,
+      "end": 1542.96,
+      "speaker": "Presenter",
+      "text": "the chances of you being able to make it work is much higher.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 324,
+      "start": 1543.8,
+      "end": 1545.26,
+      "speaker": "Presenter",
+      "text": "And since we are focused on starting brands,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 325,
+      "start": 1546.14,
+      "end": 1548.8,
+      "speaker": "Presenter",
+      "text": "not just copy paste gimmicky dropshipping products,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 326,
+      "start": 1549.66,
+      "end": 1553.52,
+      "speaker": "Presenter",
+      "text": "if you really aligned with it, damn, you can order a product to yourself and just film it.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 327,
+      "start": 1553.52,
+      "end": 1558.32,
+      "speaker": "Presenter",
+      "text": "You have a huge advantage over your competitors if you can film your own content whenever you need.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 328,
+      "start": 1558.86,
+      "end": 1560.96,
+      "speaker": "Presenter",
+      "text": "Just increases your chances of you making the product work.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 329,
+      "start": 1562.22,
+      "end": 1562.86,
+      "speaker": "Presenter",
+      "text": "Second thing,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 330,
+      "start": 1563.18,
+      "end": 1564.76,
+      "speaker": "Presenter",
+      "text": "only sell something you believe in.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 331,
+      "start": 1565.3,
+      "end": 1568.44,
+      "speaker": "Presenter",
+      "text": "Do not sell these gimmicky products that you don't even think will work.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 332,
+      "start": 1569.76,
+      "end": 1570.7,
+      "speaker": "Presenter",
+      "text": "There's no point selling it,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 333,
+      "start": 1571.66,
+      "end": 1574.72,
+      "speaker": "Presenter",
+      "text": "cuz conviction is is very important in making something work.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 334,
+      "start": 1575.28,
+      "end": 1576.52,
+      "speaker": "Presenter",
+      "text": "It's why for sales people,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 335,
+      "start": 1576.86,
+      "end": 1579.3,
+      "speaker": "Presenter",
+      "text": "the those who have conviction in their products sell the best.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 336,
+      "start": 1579.96,
+      "end": 1581.94,
+      "speaker": "Presenter",
+      "text": "The same thing is going to apply to to e-commerce.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 337,
+      "start": 1582.5,
+      "end": 1583.32,
+      "speaker": "Presenter",
+      "text": "So let's say,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 338,
+      "start": 1583.4,
+      "end": 1586.6,
+      "speaker": "Presenter",
+      "text": "uh, what would I not sell?",
+      "chunk": 5,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 339,
+      "start": 1587.06,
+      "end": 1589.8,
+      "speaker": "Presenter",
+      "text": "Uh, what's it called? Chin slimming,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 340,
+      "start": 1590.56,
+      "end": 1592.06,
+      "speaker": "Presenter",
+      "text": "is that what it's called?",
+      "chunk": 5,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 341,
+      "start": 1592.9,
+      "end": 1596.36,
+      "speaker": "Presenter",
+      "text": "Like, the this this V-shaper things. I saw that Kim K released this.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 342,
+      "start": 1597.48,
+      "end": 1599.48,
+      "speaker": "Presenter",
+      "text": "Like, these things don't work, but people still sell them.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 343,
+      "start": 1599.78,
+      "end": 1603.52,
+      "speaker": "Presenter",
+      "text": "Do you have conviction it will work? If yes, maybe you can make it work. If not,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 344,
+      "start": 1604.24,
+      "end": 1607.82,
+      "speaker": "Presenter",
+      "text": "you're just selling gimmicky gimmicky products. You try to convince people to buy gimmicky products.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 345,
+      "start": 1608.74,
+      "end": 1612.16,
+      "speaker": "Presenter",
+      "text": "Okay. Great, Shawn. How do you actually figure out if something's gimmicky or not or does it work?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 346,
+      "start": 1612.98,
+      "end": 1613.6,
+      "speaker": "Presenter",
+      "text": "Easy question.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 347,
+      "start": 1615.44,
+      "end": 1617.96,
+      "speaker": "Presenter",
+      "text": "Now we are on ChatGPT, we're on Claude.",
+      "chunk": 5,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 348,
+      "start": 1618.38,
+      "end": 1619.12,
+      "speaker": "Presenter",
+      "text": "Just ask it.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 349,
+      "start": 1619.34,
+      "end": 1622.72,
+      "speaker": "Presenter",
+      "text": "\"Yo, do chin slimmers actually work or are they placebo?\"",
+      "chunk": 5,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 350,
+      "start": 1624.08,
+      "end": 1624.74,
+      "speaker": "Presenter",
+      "text": "Largely ineffective.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 351,
+      "start": 1626.04,
+      "end": 1628.02,
+      "speaker": "Presenter",
+      "text": "Unfortunate. Probably wouldn't sell it then.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 352,
+      "start": 1628.94,
+      "end": 1631.1,
+      "speaker": "Presenter",
+      "text": "Body shapers, on the other hand, do they actually work?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 353,
+      "start": 1631.52,
+      "end": 1633.2,
+      "speaker": "Presenter",
+      "text": "They do actually work. Oh, shit.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 354,
+      "start": 1633.46,
+      "end": 1634.82,
+      "speaker": "Presenter",
+      "text": "Great. I can sell it then.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 355,
+      "start": 1635.38,
+      "end": 1638.74,
+      "speaker": "Presenter",
+      "text": "Or you can try it out. If you think the product works, you have conviction in it, you can sell it well.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 356,
+      "start": 1639.72,
+      "end": 1643.6,
+      "speaker": "Presenter",
+      "text": "Only sell things that you believe in. Do not sell BS gimmicky products.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 357,
+      "start": 1644.34,
+      "end": 1650.04,
+      "speaker": "Presenter",
+      "text": "If not, you'll have a lot of troubles down the line making that brand work. You'll probably, once you encounter some struggles,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 358,
+      "start": 1650.94,
+      "end": 1653.9,
+      "speaker": "Presenter",
+      "text": "you're probably gonna just move on from that brand. I've seen it a ton.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 359,
+      "start": 1654.9,
+      "end": 1655.0,
+      "speaker": "Presenter",
+      "text": "Right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 360,
+      "start": 1655.66,
+      "end": 1659.88,
+      "speaker": "Presenter",
+      "text": "Customers won't be happy. Your brand won't ever compound. It just won't work out long-term.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 361,
+      "start": 1661.52,
+      "end": 1662.4,
+      "speaker": "Presenter",
+      "text": "Onwards to the case studies.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 362,
+      "start": 1663.58,
+      "end": 1665.96,
+      "speaker": "Presenter",
+      "text": "So, second case study here.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 363,
+      "start": 1666.7,
+      "end": 1672.1,
+      "speaker": "Presenter",
+      "text": "The previous case study we went through is for, um, Shilajit, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 364,
+      "start": 1672.46,
+      "end": 1676.76,
+      "speaker": "Presenter",
+      "text": "How do you win with a new mechanism? How do you win with different market awareness positioning?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 365,
+      "start": 1678.0,
+      "end": 1678.96,
+      "speaker": "Presenter",
+      "text": "Stanley here,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 366,
+      "start": 1679.72,
+      "end": 1683.5,
+      "speaker": "Presenter",
+      "text": "fun fact, Stanley was not actually made for this Gen Z girlies.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 367,
+      "start": 1684.14,
+      "end": 1685.42,
+      "speaker": "Presenter",
+      "text": "They were made for construction workers.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 368,
+      "start": 1686.42,
+      "end": 1688.36,
+      "speaker": "Presenter",
+      "text": "The product now and then is exactly the same.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 369,
+      "start": 1689.14,
+      "end": 1690.26,
+      "speaker": "Presenter",
+      "text": "They won with a new avatar.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 370,
+      "start": 1690.26,
+      "end": 1690.92,
+      "speaker": "Presenter",
+      "text": "So,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 371,
+      "start": 1692.12,
+      "end": 1694.74,
+      "speaker": "Presenter",
+      "text": "from market awareness and sophistication standpoint,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 372,
+      "start": 1695.76,
+      "end": 1698.02,
+      "speaker": "Presenter",
+      "text": "the old market, stage 5 sophistication,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 373,
+      "start": 1698.96,
+      "end": 1701.38,
+      "speaker": "Presenter",
+      "text": "it's where you they see a bunch of claims, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 374,
+      "start": 1702.28,
+      "end": 1705.76,
+      "speaker": "Presenter",
+      "text": "You know, it's it's better than Yeti. It has all these features, whatever, whatever.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 375,
+      "start": 1706.58,
+      "end": 1709.82,
+      "speaker": "Presenter",
+      "text": "Whereas because they had a new avatar or a new mechanism,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 376,
+      "start": 1710.42,
+      "end": 1712.72,
+      "speaker": "Presenter",
+      "text": "it resets you from 4 to 5 stage of market sophistication",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 377,
+      "start": 1712.72,
+      "end": 1714.6,
+      "speaker": "Presenter",
+      "text": "all the way to level 1.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 378,
+      "start": 1716.74,
+      "end": 1718.7,
+      "speaker": "Presenter",
+      "text": "And what did that let them allow them to do?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 379,
+      "start": 1719.34,
+      "end": 1721.36,
+      "speaker": "Presenter",
+      "text": "Instead of this messaging, the messaging is now,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 380,
+      "start": 1721.8,
+      "end": 1725.2,
+      "speaker": "Presenter",
+      "text": "\"This cup helps you drink more water. Your emotional support water bottle.\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 381,
+      "start": 1726.22,
+      "end": 1729.7,
+      "speaker": "Presenter",
+      "text": "So, the language you use, every time as you show, is different now.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 382,
+      "start": 1730.1,
+      "end": 1732.3,
+      "speaker": "Presenter",
+      "text": "It's the same exact product, but they made it work like crazy.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 383,
+      "start": 1734.14,
+      "end": 1735.86,
+      "speaker": "Presenter",
+      "text": "Hopefully it's starting to make more sense to you.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 384,
+      "start": 1736.92,
+      "end": 1737.56,
+      "speaker": "Presenter",
+      "text": "Another example.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 385,
+      "start": 1739.34,
+      "end": 1744.24,
+      "speaker": "Presenter",
+      "text": "So, I keep good example of how you send out to the avatar, and how you send out to the mechanism.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 386,
+      "start": 1745.48,
+      "end": 1748.44,
+      "speaker": "Presenter",
+      "text": "And just so you know, how we do the research is the next video.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 387,
+      "start": 1748.76,
+      "end": 1749.66,
+      "speaker": "Presenter",
+      "text": "Don't worry about it, it's covered.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 388,
+      "start": 1750.04,
+      "end": 1754.34,
+      "speaker": "Presenter",
+      "text": "This is this is just theory first, so I want you to to look at the same lens I do.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 389,
+      "start": 1755.66,
+      "end": 1756.36,
+      "speaker": "Presenter",
+      "text": "True Classic.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 390,
+      "start": 1757.12,
+      "end": 1758.84,
+      "speaker": "Presenter",
+      "text": "True Classic is a nine-figure brand now.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 391,
+      "start": 1759.32,
+      "end": 1761.8,
+      "speaker": "Presenter",
+      "text": "They stand out not just by avatar or mechanism,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 392,
+      "start": 1763.14,
+      "end": 1766.0,
+      "speaker": "Presenter",
+      "text": "two things: both new avatar and both new mechanism.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 393,
+      "start": 1767.96,
+      "end": 1775.0,
+      "speaker": "Presenter",
+      "text": "So, when everyone else was targeting, you know, this back in the years, right? Hypebeast, Supreme came out,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 394,
+      "start": 1775.0,
+      "end": 1778.8,
+      "speaker": "Presenter",
+      "text": "Gymshark came out, Hanes is always there, there was brand called Cuts.",
+      "chunk": 6,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 395,
+      "start": 1779.44,
+      "end": 1780.62,
+      "speaker": "Presenter",
+      "text": "They all targeted different avatars.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 396,
+      "start": 1782.46,
+      "end": 1788.26,
+      "speaker": "Presenter",
+      "text": "True Classic founded underserved avatar, which was dudes with the dad bods. You can see this image over here.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 397,
+      "start": 1789.06,
+      "end": 1789.18,
+      "speaker": "Presenter",
+      "text": "Why?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 398,
+      "start": 1790.26,
+      "end": 1794.36,
+      "speaker": "Presenter",
+      "text": "'Cause there are no at the time, there were no shirts that that fit dad bods.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 399,
+      "start": 1794.7,
+      "end": 1797.22,
+      "speaker": "Presenter",
+      "text": "'Cause all the traditional T-shirt marketing was, you know,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 400,
+      "start": 1797.22,
+      "end": 1801.2,
+      "speaker": "Presenter",
+      "text": "it either was like Hypebeast, dude super cool, models with six-packs,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 401,
+      "start": 1802.72,
+      "end": 1808.04,
+      "speaker": "Presenter",
+      "text": "this for athletic fit, which don't look good on dad bods. That's the underserved avatar.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 402,
+      "start": 1809.18,
+      "end": 1812.88,
+      "speaker": "Presenter",
+      "text": "Whereas, for their marketing, they just chose regular dudes with realistic bodies.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 403,
+      "start": 1813.76,
+      "end": 1818.32,
+      "speaker": "Presenter",
+      "text": "They show them, you know, looking better in the same, before and after. This exact picture shows it.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 404,
+      "start": 1819.1,
+      "end": 1822.66,
+      "speaker": "Presenter",
+      "text": "And since this 30 to 55, the scenarios is they are usually, you know,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 405,
+      "start": 1822.66,
+      "end": 1826.4,
+      "speaker": "Presenter",
+      "text": "going on a date with their wife, or in office.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 406,
+      "start": 1827.16,
+      "end": 1830.14,
+      "speaker": "Presenter",
+      "text": "They shoot their scenarios, they related to the avatar that was underserved.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 407,
+      "start": 1831.66,
+      "end": 1834.26,
+      "speaker": "Presenter",
+      "text": "And in terms of the new mechanism, how'd they do it?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 408,
+      "start": 1834.26,
+      "end": 1841.94,
+      "speaker": "Presenter",
+      "text": "The previous market sophistication stage five, because obviously, everyone is is shirts. Right, it's nothing crazy.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 409,
+      "start": 1842.62,
+      "end": 1846.58,
+      "speaker": "Presenter",
+      "text": "Everyone claims they're the softest, highest quality, best fit. It's hard for you to stand out.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 410,
+      "start": 1847.24,
+      "end": 1855.36,
+      "speaker": "Presenter",
+      "text": "Whereas if you change the avatar, or if you change the mechanism, either or, you can reset it to stage one.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 411,
+      "start": 1856.4,
+      "end": 1862.98,
+      "speaker": "Presenter",
+      "text": "In the dad bod professional, you know, there was no one else acknowledged this avatar, nor did they offer any solution to it.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 412,
+      "start": 1862.98,
+      "end": 1865.44,
+      "speaker": "Presenter",
+      "text": "There was so competition. It was one of one.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 413,
+      "start": 1866.1,
+      "end": 1872.52,
+      "speaker": "Presenter",
+      "text": "Besides that, their new mechanism innovation is that instead of just being a fit for athletic athletic fits,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 414,
+      "start": 1873.16,
+      "end": 1876.48,
+      "speaker": "Presenter",
+      "text": "whatever tech they call it, they put their own little own name on it. It hides your gut,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 415,
+      "start": 1876.48,
+      "end": 1883.32,
+      "speaker": "Presenter",
+      "text": "enhances your shoulders to make your dad bod look uh from from uh what? From dad bod to daddy, is it's literally their marketing.",
+      "chunk": 6,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 416,
+      "start": 1884.88,
+      "end": 1888.14,
+      "speaker": "Presenter",
+      "text": "Okay, so same thing from market sophistication standpoint,",
+      "chunk": 6,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 417,
+      "start": 1889.78,
+      "end": 1892.34,
+      "speaker": "Presenter",
+      "text": "avatar can reset it all to level one, 'cause it's a new avatar.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 418,
+      "start": 1892.34,
+      "end": 1897.26,
+      "speaker": "Presenter",
+      "text": "Or mechanism you can reset it as well to to level one uh as well.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 419,
+      "start": 1897.46,
+      "end": 1899.34,
+      "speaker": "Presenter",
+      "text": "At at that point, you can make any claim you want.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 420,
+      "start": 1900.2,
+      "end": 1901.08,
+      "speaker": "Presenter",
+      "text": "This is how you stand out.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 421,
+      "start": 1902.54,
+      "end": 1907.26,
+      "speaker": "Presenter",
+      "text": "Right? Hopefully, these examples give you a a better sense of how to look at products.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 422,
+      "start": 1907.84,
+      "end": 1911.84,
+      "speaker": "Presenter",
+      "text": "'Cause when you look at products, you need a way to stand out compared to everyone else in the market.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 423,
+      "start": 1912.62,
+      "end": 1918.06,
+      "speaker": "Presenter",
+      "text": "Not often are you going to be first to market, sometimes you will. If you're first to market, you can just say the existing claims.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 424,
+      "start": 1919.46,
+      "end": 1922.3,
+      "speaker": "Presenter",
+      "text": "Or if you're not, you can still win through these methods.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 425,
+      "start": 1922.96,
+      "end": 1928.78,
+      "speaker": "Presenter",
+      "text": "Look at how can you find a new underserved avatar. You look at how can you find uh create a new mechanism.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 426,
+      "start": 1929.68,
+      "end": 1936.5,
+      "speaker": "Presenter",
+      "text": "And a new mechanism doesn't even need to be like a custom product or whatever. Like we said, custom products are not a good idea.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 427,
+      "start": 1937.4,
+      "end": 1940.82,
+      "speaker": "Presenter",
+      "text": "You can also name features in your product.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 428,
+      "start": 1941.94,
+      "end": 1942.48,
+      "speaker": "Presenter",
+      "text": "If, let's say,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 429,
+      "start": 1944.92,
+      "end": 1946.72,
+      "speaker": "Presenter",
+      "text": "say let's say this Stanley cup, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 430,
+      "start": 1947.78,
+      "end": 1952.66,
+      "speaker": "Presenter",
+      "text": "Instead of just it being now the stainless steel is super rugged so it lasts for construction workers,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 431,
+      "start": 1953.46,
+      "end": 1959.56,
+      "speaker": "Presenter",
+      "text": "you put a new name to it. Instead of just being, I don't know, what's the word they use? Double-walled that keeps insulation,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 432,
+      "start": 1960.54,
+      "end": 1968.78,
+      "speaker": "Presenter",
+      "text": "you can spin up some name for it. It could be called, you know, the Stanley Girly's um um water cooling.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 433,
+      "start": 1969.88,
+      "end": 1972.4,
+      "speaker": "Presenter",
+      "text": "You know, think of something better. Use AI to help you out.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 434,
+      "start": 1973.22,
+      "end": 1977.02,
+      "speaker": "Presenter",
+      "text": "That's a new mechanism, and it does the same exact thing, but to a new avatar.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 435,
+      "start": 1977.78,
+      "end": 1982.88,
+      "speaker": "Presenter",
+      "text": "Instead of just couple like this this double wall that keeps insulation, this new mechanism helps you,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 436,
+      "start": 1982.88,
+      "end": 1987.7,
+      "speaker": "Presenter",
+      "text": "you know, drink more water, or keeps your water cool.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 437,
+      "start": 1988.74,
+      "end": 1992.6,
+      "speaker": "Presenter",
+      "text": "Why is keep your water cool? So that this becomes your emotional support water bottle.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 438,
+      "start": 1993.56,
+      "end": 1994.58,
+      "speaker": "Presenter",
+      "text": "It's like the same exact feature,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 439,
+      "start": 1995.22,
+      "end": 1999.92,
+      "speaker": "Presenter",
+      "text": "but with a new mechanism. You just renamed it to a different purpose.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 440,
+      "start": 2001.3,
+      "end": 2002.08,
+      "speaker": "Presenter",
+      "text": "Hopefully that makes sense.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 441,
+      "start": 2003.62,
+      "end": 2003.98,
+      "speaker": "Presenter",
+      "text": "Okay.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 442,
+      "start": 2004.86,
+      "end": 2008.84,
+      "speaker": "Presenter",
+      "text": "So with all we talked about today, it all comes back to understanding the customer.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 443,
+      "start": 2011.06,
+      "end": 2019.8,
+      "speaker": "Presenter",
+      "text": "All of you dudes, I think most of you dudes who clicked on this video wanted me to go through the strategies. \"Oh, go to AliExpress. Go through this secret spy tool to find your product.\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 444,
+      "start": 2020.86,
+      "end": 2022.16,
+      "speaker": "Presenter",
+      "text": "That's not how you build a brand.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 445,
+      "start": 2022.16,
+      "end": 2029.72,
+      "speaker": "Presenter",
+      "text": "If that was if that was it was that easy, people would run AI bots just to to scrape and do do endless of those tasks.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 446,
+      "start": 2030.62,
+      "end": 2033.82,
+      "speaker": "Presenter",
+      "text": "That's why copy-paste brand owners not copy-paste dropshippers exist,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 447,
+      "start": 2034.76,
+      "end": 2038.86,
+      "speaker": "Presenter",
+      "text": "but their stores never last long 'cause they don't know how to market. They don't know how to pierce through saturation,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 448,
+      "start": 2039.92,
+      "end": 2040.92,
+      "speaker": "Presenter",
+      "text": "which is what I covered in this video.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 449,
+      "start": 2041.8,
+      "end": 2043.48,
+      "speaker": "Presenter",
+      "text": "It all comes back to understanding your customer.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 450,
+      "start": 2044.1,
+      "end": 2048.2,
+      "speaker": "Presenter",
+      "text": "And you do the research to figure out, you know, what pain points do they currently have,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 451,
+      "start": 2048.62,
+      "end": 2052.94,
+      "speaker": "Presenter",
+      "text": "what's the stage of awareness, sophistication, what underserved avatars exist in this market?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 452,
+      "start": 2053.6,
+      "end": 2054.3,
+      "speaker": "Presenter",
+      "text": "It's all research.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 453,
+      "start": 2054.3,
+      "end": 2056.74,
+      "speaker": "Presenter",
+      "text": "[inaudible]",
+      "chunk": 6,
+      "timing": "interpolated"
+    },
+    {
+      "id": 454,
+      "start": 2056.74,
+      "end": 2058.16,
+      "speaker": "Presenter",
+      "text": "And I'll give you the last example here.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 455,
+      "start": 2059.14,
+      "end": 2066.28,
+      "speaker": "Presenter",
+      "text": "Like I said, success is gonna take you long, longer than you'll expect, right? But it's an exponential graph.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 456,
+      "start": 2067.12,
+      "end": 2070.84,
+      "speaker": "Presenter",
+      "text": "Just so you guys don't know what an exponential graph is, let's look it up, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 457,
+      "start": 2072.5,
+      "end": 2073.46,
+      "speaker": "Presenter",
+      "text": "Exponential graph,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 458,
+      "start": 2075.72,
+      "end": 2079.82,
+      "speaker": "Presenter",
+      "text": "okay. At the start it's slow, but everything bounces up really fast.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 459,
+      "start": 2080.5,
+      "end": 2081.7,
+      "speaker": "Presenter",
+      "text": "Next example here, RXBAR.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 460,
+      "start": 2083.7,
+      "end": 2090.94,
+      "speaker": "Presenter",
+      "text": "RXBAR was a brand founded in 2013, in 2016 Walmart partnership, 2017 exited, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 461,
+      "start": 2092.28,
+      "end": 2097.78,
+      "speaker": "Presenter",
+      "text": "RXBAR exited, I think, for 600 million. It took him four years to do it, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 462,
+      "start": 2098.64,
+      "end": 2103.0,
+      "speaker": "Presenter",
+      "text": "So for you guys as well, you might not see that one of success, and that's fine.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 463,
+      "start": 2103.0,
+      "end": 2105.68,
+      "speaker": "Presenter",
+      "text": "The next slide, I'm gonna show you what's important.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 464,
+      "start": 2107.3,
+      "end": 2114.54,
+      "speaker": "Presenter",
+      "text": "So this guy, Peter Rahal, he exited his brand for 600 mil. It took him four years to build a brand, or five, I can't count.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 465,
+      "start": 2115.74,
+      "end": 2120.04,
+      "speaker": "Presenter",
+      "text": "Not only that, after he exited a brand, he had a five-year non-compete.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 466,
+      "start": 2121.2,
+      "end": 2126.32,
+      "speaker": "Presenter",
+      "text": "He waited for five years to be over to start a new protein bar brand again.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 467,
+      "start": 2127.24,
+      "end": 2130.78,
+      "speaker": "Presenter",
+      "text": "How come? 'Cause he was already an expert in this vertical.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 468,
+      "start": 2130.78,
+      "end": 2139.06,
+      "speaker": "Presenter",
+      "text": "For a lot of you guys, you guys keep jumping from one thing to another, you do not build expertise in- in anything at all.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 469,
+      "start": 2140.22,
+      "end": 2144.68,
+      "speaker": "Presenter",
+      "text": "David protein, his new brand, the first year he launched was valued at 700 mil.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 470,
+      "start": 2145.64,
+      "end": 2151.92,
+      "speaker": "Presenter",
+      "text": "His RXBAR, his previous brand, took four years or five years to hit 600 mil. His new brand took him one year to hit that.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 471,
+      "start": 2153.18,
+      "end": 2156.28,
+      "speaker": "Presenter",
+      "text": "How? Skills compound, learnings compound.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 472,
+      "start": 2158.14,
+      "end": 2162.2,
+      "speaker": "Presenter",
+      "text": "If you stuck to, let's say, you found out that one vertical works really well for you or one avatar,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 473,
+      "start": 2162.2,
+      "end": 2165.48,
+      "speaker": "Presenter",
+      "text": "stick to that. Do- go deeper.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 474,
+      "start": 2166.66,
+      "end": 2169.44,
+      "speaker": "Presenter",
+      "text": "I always recommend people to stick to this few avatars this way.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 475,
+      "start": 2169.8,
+      "end": 2176.28,
+      "speaker": "Presenter",
+      "text": "You're not bouncing through, you know, dad bod guys to females with- with menopause every single time.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 476,
+      "start": 2177.26,
+      "end": 2181.38,
+      "speaker": "Presenter",
+      "text": "It's better much better for you to stick to something, one one one avatar, for example.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 477,
+      "start": 2181.38,
+      "end": 2185.6,
+      "speaker": "Presenter",
+      "text": "And you can really get to a million a month with one brand with just one to two avatars.",
+      "chunk": 7,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 478,
+      "start": 2185.6,
+      "end": 2190.14,
+      "speaker": "Presenter",
+      "text": "If you went deeper, focused on one avatar, your learnings compound,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 479,
+      "start": 2191.04,
+      "end": 2194.84,
+      "speaker": "Presenter",
+      "text": "it allows you to create better ads, products, and brands around this avatar.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 480,
+      "start": 2195.72,
+      "end": 2198.4,
+      "speaker": "Presenter",
+      "text": "Hence, jumping around all the time may not be the best idea.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 481,
+      "start": 2199.2,
+      "end": 2210.08,
+      "speaker": "Presenter",
+      "text": "Here's one example. Second example, as well, one of my friends, he's uh basically exiting his his his uh multiple prep brands for like 60 to 100 mil, a lot of money.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 482,
+      "start": 2211.46,
+      "end": 2215.24,
+      "speaker": "Presenter",
+      "text": "And instead of just figuring out the winning product first, he started with the avatar.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 483,
+      "start": 2216.84,
+      "end": 2222.72,
+      "speaker": "Presenter",
+      "text": "'Cause he already targeted, you know, let's say pet owners. He went deeper into it and figured out what do pet owners need,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 484,
+      "start": 2222.72,
+      "end": 2227.1,
+      "speaker": "Presenter",
+      "text": "and built a few brands around that pet- same pet owner avatar,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 485,
+      "start": 2228.22,
+      "end": 2230.46,
+      "speaker": "Presenter",
+      "text": "instead of just doing brands across super different things.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 486,
+      "start": 2231.78,
+      "end": 2237.7,
+      "speaker": "Presenter",
+      "text": "This video is a lot more complicated than you guys may have expected, and that's intended to be this way.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 487,
+      "start": 2237.7,
+      "end": 2242.78,
+      "speaker": "Presenter",
+      "text": "Like I said, gurus have tried to pay me tens of thousands to actually teach them all this,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 488,
+      "start": 2243.22,
+      "end": 2245.84,
+      "speaker": "Presenter",
+      "text": "and this will not really click to you the first watch.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 489,
+      "start": 2246.92,
+      "end": 2251.76,
+      "speaker": "Presenter",
+      "text": "So I've talked about topics um, and marketing fundamentals talked about in the previous modules.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 490,
+      "start": 2252.74,
+      "end": 2256.98,
+      "speaker": "Presenter",
+      "text": "Rewatch those modules a few times beforehand. Rewatch this video a few times beforehand, as well.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 491,
+      "start": 2257.2,
+      "end": 2261.42,
+      "speaker": "Presenter",
+      "text": "'Cause y- you need to understand these concepts if you really want to- to build a brand.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 492,
+      "start": 2262.18,
+      "end": 2263.9,
+      "speaker": "Presenter",
+      "text": "The beauty of it, although hard to understand,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 493,
+      "start": 2264.64,
+      "end": 2268.2,
+      "speaker": "Presenter",
+      "text": "if you understand how to stand out this way through the mechanism, through the avatar,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 494,
+      "start": 2268.94,
+      "end": 2272.68,
+      "speaker": "Presenter",
+      "text": "looking at that uh products through the sophistication and awareness lens,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 495,
+      "start": 2273.28,
+      "end": 2276.62,
+      "speaker": "Presenter",
+      "text": "you can make anything work. And that's a very, very powerful skill,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 496,
+      "start": 2277.4,
+      "end": 2283.56,
+      "speaker": "Presenter",
+      "text": "whether that is on e-commerce, software, info, you know how to pierce through the market already.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 497,
+      "start": 2284.94,
+      "end": 2290.14,
+      "speaker": "Presenter",
+      "text": "So just to recap, key product criteria is to look at when you choose a product:",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 498,
+      "start": 2291.14,
+      "end": 2296.2,
+      "speaker": "Presenter",
+      "text": "AOV ideally is over $60. Minimum mark up 3x on COGS and shipping.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 499,
+      "start": 2297.46,
+      "end": 2302.1,
+      "speaker": "Presenter",
+      "text": "You want it to be trending in popularity, or not dying in terms of Google Trends.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 500,
+      "start": 2303.4,
+      "end": 2304.98,
+      "speaker": "Presenter",
+      "text": "I would avoid high-ticket items for beginners.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 501,
+      "start": 2306.52,
+      "end": 2314.54,
+      "speaker": "Presenter",
+      "text": "Second thing: choose something that aligns with your personal interest. It makes things much easier. If you're more genuinely passionate about it, you can make it work much easier.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 502,
+      "start": 2315.64,
+      "end": 2318.4,
+      "speaker": "Presenter",
+      "text": "Third thing: it all comes down to market research end of day.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 503,
+      "start": 2318.4,
+      "end": 2323.06,
+      "speaker": "Presenter",
+      "text": "There's there's no secret tricks, there's no secret tools, there's no AI you can use that will replace this.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 504,
+      "start": 2323.56,
+      "end": 2325.24,
+      "speaker": "Presenter",
+      "text": "It's you in the trenches doing that research.",
+      "chunk": 7,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 505,
+      "start": 2326.36,
+      "end": 2332.08,
+      "speaker": "Presenter",
+      "text": "Hopefully you guys got some value out of this video. Like I said, this video is more theory and what lens to look at things.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 506,
+      "start": 2332.66,
+      "end": 2340.46,
+      "speaker": "Presenter",
+      "text": "Second video is gonna be a live walk-through of me going through some tools we use, how I look at products, and applying the theories talked about here.",
+      "chunk": 7,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 374.19,
+      "end": 375.09,
+      "label": "laughter"
+    },
+    {
+      "start": 1387.12,
+      "end": 1393.12,
+      "label": "typing"
+    },
+    {
+      "start": 2071.33,
+      "end": 2075.23,
+      "label": "typing"
+    }
+  ]
+}

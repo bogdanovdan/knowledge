@@ -1,0 +1,2466 @@
+{
+  "lesson": {
+    "num": 25,
+    "id": "025-how-one-offer-can-2x-ad-spend-and-3x-roas",
+    "title": "How one offer can 2x ad spend and 3x ROAS",
+    "section": "🏷️ How to Create Offers",
+    "video": "25. How one offer can 2x ad spend and 3x ROAS Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1616.171,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=2a0bf3a8258f4e06a88e1e2218c889c1"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (96% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 6072,
+    "matched_tokens": 5825,
+    "match_ratio": 0.959,
+    "segments_aligned": 258,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 276.499,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.998,
+      "wpm": 202.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 276.499,
+      "end": 553.846,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 194.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 553.846,
+      "end": 844.69,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 217.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 844.69,
+      "end": 1179.57,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 216.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1179.57,
+      "end": 1459.927,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.93,
+      "wpm": 266.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 5,
+      "start": 1459.927,
+      "end": 1616.171,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.916,
+      "wpm": 252.4,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [
+    {
+      "type": "possible_omission",
+      "start": 1615.9,
+      "end": 1616.1,
+      "chunk": 5,
+      "detail": "local Whisper (low confidence) heard ~5 words missing from the transcript: \"I'm going to move on.\""
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.34,
+      "speaker": "Presenter",
+      "text": "All right, we are jumping straight into this video because I want to show you exactly how we took an ad account from $1,000",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 8.18,
+      "end": 16.32,
+      "speaker": "Presenter",
+      "text": "a week in spend, getting a 1.18x return on ad spend, to the following week,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 16.32,
+      "end": 28.88,
+      "speaker": "Presenter",
+      "text": "as a result of launching a single landing page, maintaining that same spend, but going up to a 3.16x return on ad spend and as you could see, $4,000 in conversion value,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 28.88,
+      "end": 35.72,
+      "speaker": "Presenter",
+      "text": "to the next week, then getting up to $2,000 in spend, so essentially doubling ad spend,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 35.72,
+      "end": 48.92,
+      "speaker": "Presenter",
+      "text": "at a 3.59 return on ad spend. And now, as you can see, so far this week, actually still at that scale and as you can see, within the last one, two, three, four, five days, so there's still two, two more days left,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 49.46,
+      "end": 55.2,
+      "speaker": "Presenter",
+      "text": "we have essentially doubled our ad spend and we have been able to maintain above a 3x",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 55.2,
+      "end": 63.98,
+      "speaker": "Presenter",
+      "text": "return on ad spend. So, I'm going to show you guys exactly how we did this and I want you guys to understand- I'm going to cover a little bit of the media buying stuff here as well,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 64.12,
+      "end": 73.62,
+      "speaker": "Presenter",
+      "text": "uh, but this is why landing pages and why offers, specifically, are so crucial for your business, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 74.0,
+      "end": 80.56,
+      "speaker": "Presenter",
+      "text": "Because they can literally double your ad spend while also tripling your return on ad spend,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 80.56,
+      "end": 87.56,
+      "speaker": "Presenter",
+      "text": "okay? So what did we do? Well, to show you guys what we actually did, we actually have two campaigns here. This is actually a",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 87.56,
+      "end": 96.54,
+      "speaker": "Presenter",
+      "text": "separate product, for those of you that are wondering. It is a indeed a separate product. So I'm going to go ahead and just filter by row selection here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 96.54,
+      "end": 102.44,
+      "speaker": "Presenter",
+      "text": "And as you can see, we have a LP testing campaign and we have a DCT campaign.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 102.44,
+      "end": 110.54,
+      "speaker": "Presenter",
+      "text": "Now, the media buyer that actually launched this campaign specifically, uh, followed kind of the old strategy of how we do things.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 110.86,
+      "end": 119.46,
+      "speaker": "Presenter",
+      "text": "Um, but we actually have a new strategy that we just launched the landing page or offer tests right inside of our main campaign. Now, with that said, it still works.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 119.58,
+      "end": 127.28,
+      "speaker": "Presenter",
+      "text": "And this is the point of why like media buying is not as important. We did launch a second campaign and it did allow us to actually scale pretty aggressively,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 127.68,
+      "end": 133.56,
+      "speaker": "Presenter",
+      "text": "but the point is is we could have also done this in the same campaign and it still has the same effect, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 133.56,
+      "end": 143.3,
+      "speaker": "Presenter",
+      "text": "And so essentially what we did is we actually launched via CBO two specific LPs. We had one that was V1 and one that was a V2.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 143.3,
+      "end": 153.22,
+      "speaker": "Presenter",
+      "text": "And what ended up happening is, if we actually go to the maximum here, you could see that the V2 LP actually got, uh, way more spend and actually performed a lot better.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 153.22,
+      "end": 164.88,
+      "speaker": "Presenter",
+      "text": "And as you can see, this so far is at a 4.37x return on ad spend with the exact same ads that were running at, you know, a 1.18x return on ad spend, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 165.26,
+      "end": 174.34,
+      "speaker": "Presenter",
+      "text": "And to actually show you this, we're going to go ahead and we're going to go into this week, where you can see this was the week where this was not running, and I want to show you the ads that we had running in here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 174.42,
+      "end": 181.4,
+      "speaker": "Presenter",
+      "text": "So if we filter by this, you can see some of these are turned off, but we have IG Reel batch 6, 7 and 8 here, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 181.5,
+      "end": 191.84,
+      "speaker": "Presenter",
+      "text": "And if we go in to the next week, where we had then launched this campaign, I want you to see that inside of here, we actually have, again, batch number 6, 7 and 8.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 191.98,
+      "end": 201.02,
+      "speaker": "Presenter",
+      "text": "And if we take a look at this, you can see here's batch number 6 right here, and then here's batch 1, and here's batch 4. And so if we actually go back, just to confirm, uh, those ads were also",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 201.02,
+      "end": 209.06,
+      "speaker": "Presenter",
+      "text": "active during this period. We can go back here and you can see that the total amount of spend, uh, retest, there's batch number 1 right there.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 209.34,
+      "end": 217.1,
+      "speaker": "Presenter",
+      "text": "And batch number 4 was actually down here, so this one was actually turned off, I believe. It was uh spending during the previous week. So you can see batch 4 was right there.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 217.1,
+      "end": 224.08,
+      "speaker": "Presenter",
+      "text": "So these were all ads that were, in quotations, not working, right? Batch 6, batch batch 4, batch 1, they were not working.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 224.4,
+      "end": 229.64,
+      "speaker": "Presenter",
+      "text": "However, with this new LP, all of a sudden, just like magic, they started working, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 230.18,
+      "end": 238.8,
+      "speaker": "Presenter",
+      "text": "And so what's amazing about this is that we just did two very, very simple things. So the first thing that we did, and this is the actual brand,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 238.8,
+      "end": 250.82,
+      "speaker": "Presenter",
+      "text": "and before you guys are like, \"Oh, let's- I need to go and sell this product.\" This is- it's- it's a patented product, so I wouldn't even recommend trying it, and if you guys want, you can get DMCA'd and likely sued by these guys. I definitely wouldn't do it. So,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 250.82,
+      "end": 256.96,
+      "speaker": "Presenter",
+      "text": "with that said, inside of here, you can see here is the default page that we were sending to, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 257.42,
+      "end": 266.48,
+      "speaker": "Presenter",
+      "text": "RatVac Motion-Sensor Rodent Catching System. You can see there's some images here. You know, we have our three little check points, limited stock call-out, Add to Cart, right? They got all this stuff here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 266.72,
+      "end": 274.66,
+      "speaker": "Presenter",
+      "text": "They've got a little video, Frequently Bought Together, and that's it, right? This is the entire page that we were running on, okay? And you can see there actually wasn't",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 274.66,
+      "end": 276.06,
+      "speaker": "Presenter",
+      "text": "really even any reviews here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 276.74,
+      "end": 278.3,
+      "speaker": "Presenter",
+      "text": "and just to see it in action, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 278.66,
+      "end": 282.8,
+      "speaker": "Presenter",
+      "text": "And so, this was our control. And I want you to notice that the price was $249.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 284.82,
+      "end": 289.66,
+      "speaker": "Presenter",
+      "text": "Now, let's go ahead and take a look at the landing page that our team actually made.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 289.92,
+      "end": 295.66,
+      "speaker": "Presenter",
+      "text": "So, let's take a look at this. Well, now when we land on this page, and let's just go back to an above-the-fold comparison,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 296.54,
+      "end": 301.84,
+      "speaker": "Presenter",
+      "text": "we have, \"Save $50 on the RatVac ending soon,\" with a timer, okay? Urgency.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 301.84,
+      "end": 306.64,
+      "speaker": "Presenter",
+      "text": "Right here, there's absolutely zero urgency, so that's step one. Step two,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 306.64,
+      "end": 313.2,
+      "speaker": "Presenter",
+      "text": "under here with the scrollbar, we have \"10,000+ Happy Customers\" as you saw, a \"30-Day Money-Back Guarantee\",",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 313.2,
+      "end": 319.36,
+      "speaker": "Presenter",
+      "text": "and we have \"Fast Delivery\", and I believe there's one more that says \"US-patented,\" exactly, \"technology.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 319.36,
+      "end": 323.72,
+      "speaker": "Presenter",
+      "text": "So, again, I mentioned this to you guys, don't even try to do this cuz it's not going to end well for you. But,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 323.72,
+      "end": 329.48,
+      "speaker": "Presenter",
+      "text": "now we're we're providing social proof and credibility. This does say \"free shipping on orders above 95\",",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 329.48,
+      "end": 333.36,
+      "speaker": "Presenter",
+      "text": "but we're saying, \"Hey, we're not having you even do math. That's just free shipping.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 333.36,
+      "end": 339.22,
+      "speaker": "Presenter",
+      "text": "And then, boom, we go straight into social proof here. 4.85 from 10,000+ happy customers.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 339.22,
+      "end": 345.1,
+      "speaker": "Presenter",
+      "text": "Now, how did we leverage this? Well, we leveraged this because they actually have, in total, on their store,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 345.1,
+      "end": 350.7,
+      "speaker": "Presenter",
+      "text": "over 10,000+ happy customers that have actually been a part and purchased their products, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 350.72,
+      "end": 353.74,
+      "speaker": "Presenter",
+      "text": "And so, this is what we do with called \"combining social proof\",",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 354.04,
+      "end": 359.34,
+      "speaker": "Presenter",
+      "text": "where we actually combine social proof together from anybody who has ever ordered their product or used their products, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 359.84,
+      "end": 364.7,
+      "speaker": "Presenter",
+      "text": "And now, what I really, really want to comment here is what we did in this headline and in this section.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 364.88,
+      "end": 370.52,
+      "speaker": "Presenter",
+      "text": "We said, \"Rats and mice are too smart for regular traps.\" And then, just as you can see up here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 370.74,
+      "end": 375.52,
+      "speaker": "Presenter",
+      "text": "we have this incredible footage that we just found online. Again, we source it ethically.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 375.52,
+      "end": 381.2,
+      "speaker": "Presenter",
+      "text": "We found really gross rat videos. This is obviously the content that the client has themself.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 381.46,
+      "end": 387.84,
+      "speaker": "Presenter",
+      "text": "But we found these videos of rats outsmarting traps. This guy's like pulling a stick to then get the cheese, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 388.18,
+      "end": 392.58,
+      "speaker": "Presenter",
+      "text": "And so, at the end of the day, we're showing how they're too smart for this stuff, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 392.9,
+      "end": 400.56,
+      "speaker": "Presenter",
+      "text": "And as you can see here, now using this trap, boom, they actually get sucked into the trap and now they actually catch the rats, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 400.92,
+      "end": 407.36,
+      "speaker": "Presenter",
+      "text": "And so, here you can see this says, then, \"Get the same motion-sensor trap professional exterminators use for a fraction of the cost.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 407.76,
+      "end": 415.36,
+      "speaker": "Presenter",
+      "text": "And so, now, depending on what the price objection is, cuz for most people they might see this and be like, \"How is this $250?\", right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 415.7,
+      "end": 422.92,
+      "speaker": "Presenter",
+      "text": "This doesn't look like it's that complex. Yet now what we're saying is we've positioned this as something that authorities use, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 423.3,
+      "end": 428.14,
+      "speaker": "Presenter",
+      "text": "This is something that professional exterminators use, and now you,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 428.5,
+      "end": 435.48,
+      "speaker": "Presenter",
+      "text": "as a result of landing here, can purchase this same thing for basically the first time ever at a fraction of the cost.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 436.04,
+      "end": 440.96,
+      "speaker": "Presenter",
+      "text": "And here, as you can see, we then say, \"Get my RatVac and save $50,\" okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 441.24,
+      "end": 448.46,
+      "speaker": "Presenter",
+      "text": "Now, as we scroll down, you can see that we are showing some really, really gross stuff, right? Really, really gross images that we found online.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 448.8,
+      "end": 453.06,
+      "speaker": "Presenter",
+      "text": "So, picture this: \"You set your your your trap last night, peanut butter perfectly placed.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 453.56,
+      "end": 458.26,
+      "speaker": "Presenter",
+      "text": "This morning, the bait is gone, the trap never triggered, and somewhere in your walls those pests are chewing through your wire,\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 458.26,
+      "end": 463.12,
+      "speaker": "Presenter",
+      "text": "right? \"This isn't your imagination. Rats and mice have literally learned how traps work.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 463.12,
+      "end": 469.7,
+      "speaker": "Presenter",
+      "text": "Once they figure out how to steal bait without getting caught, they teach the others. Your $5 snap trap just became a free feeding station.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 470.28,
+      "end": 475.46,
+      "speaker": "Presenter",
+      "text": "Your electronic trap? The motion sensor failed after three weeks just like every Amazon review warned you.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 475.72,
+      "end": 482.44,
+      "speaker": "Presenter",
+      "text": "Again, we are now talking about all the other solutions that people have tried to fix the problem,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 482.44,
+      "end": 489.74,
+      "speaker": "Presenter",
+      "text": "and we're showing why they're bad, okay? \"Those glue boards? You found one flipped over with fur stuck to the edge and the rodent long gone.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 489.74,
+      "end": 494.94,
+      "speaker": "Presenter",
+      "text": "Every failed trap makes them bolder, and every stolen bait makes them smarter.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 495.4,
+      "end": 502.46,
+      "speaker": "Presenter",
+      "text": "And while you're resetting trap after trap, they're having babies.\" Really, really gross, right? \"You need technology that outsmarts them.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 502.72,
+      "end": 509.18,
+      "speaker": "Presenter",
+      "text": "This is a copywriting masterclass that was actually done by our team member that, again, we have done a job",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 509.18,
+      "end": 515.84,
+      "speaker": "Presenter",
+      "text": "that hooks the user in. We're telling people rats and mice are too smart for regular traps, and here's proof of that.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 516.0,
+      "end": 521.26,
+      "speaker": "Presenter",
+      "text": "We're showing rather than telling. And then we get into this story that talks about all the different traps",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 521.26,
+      "end": 525.64,
+      "speaker": "Presenter",
+      "text": "that don't work, right? And that's why we explain and we bridge this perfectly",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 525.64,
+      "end": 531.84,
+      "speaker": "Presenter",
+      "text": "about how you don't need this product, you need technology that outsmarts them. And then, boom, we go into the product:",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 532.12,
+      "end": 534.28,
+      "speaker": "Presenter",
+      "text": "\"Experience what the RatVac can do for you.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 534.54,
+      "end": 539.2,
+      "speaker": "Presenter",
+      "text": "\"Over 4,000 hours studying rodent behavior, we have invented the trap that outsmarts every rat.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 539.42,
+      "end": 543.94,
+      "speaker": "Presenter",
+      "text": "It helps you get your sleep back, you save thousands on exterminators, right? A one-time investment",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 543.94,
+      "end": 550.56,
+      "speaker": "Presenter",
+      "text": "versus $3,000 for services that don't last, no disgusting clean-up, keep your family safe, and prevent house fires.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 551.02,
+      "end": 553.5,
+      "speaker": "Presenter",
+      "text": "This is a huge thing that you'll see we'll talk a little bit more about, but",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 553.5,
+      "end": 558.82,
+      "speaker": "Presenter",
+      "text": "rats actually start house fires. They chew wires that start 25,000 plus fires every year.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 559.26,
+      "end": 566.6,
+      "speaker": "Presenter",
+      "text": "And again, we go into \"Get My RatVac\". Now here is a product demo, so very similar to what we had on this page, but we've just surfaced it a little bit more.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 566.96,
+      "end": 572.3,
+      "speaker": "Presenter",
+      "text": "Here's how the motion sensor system outsmarts the rats and mice. So for people who want to watch the video, they can watch the video.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 572.44,
+      "end": 580.1,
+      "speaker": "Presenter",
+      "text": "However, if we just want to simplify it down again, understanding that people are scrolling through this, we can say number one, they can't steal the bait. The food is behind the motion sensor.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 580.6,
+      "end": 584.62,
+      "speaker": "Presenter",
+      "text": "Number two, the fast- they're too fast to escape, so the powerful shop vacuum pulls them in.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 584.92,
+      "end": 588.66,
+      "speaker": "Presenter",
+      "text": "Catch them all, gets up to 30 rats and 60 mice in one night, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 588.98,
+      "end": 591.78,
+      "speaker": "Presenter",
+      "text": "And you don't need to- so you don't need to continue to reset bait over and over and over.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 592.08,
+      "end": 598.58,
+      "speaker": "Presenter",
+      "text": "And again, it works by itself, so once it's set up it works all night while you sleep, and you don't actually have to worry about checking all the traps, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 599.02,
+      "end": 608.72,
+      "speaker": "Presenter",
+      "text": "And then from there, we finally add some social proof. So now we have social proof from just other reviews that we had on the site that people had left that were not even posted or shown on here.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 609.04,
+      "end": 617.44,
+      "speaker": "Presenter",
+      "text": "And then on top of that, we also are able to pull this from our Meta Ads comments as well. So people who are leaving comments on this or people who have emailed in, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 617.58,
+      "end": 622.16,
+      "speaker": "Presenter",
+      "text": "So now, we're just showing the social proof. And then guess what? Now we go into the product.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 622.16,
+      "end": 627.5,
+      "speaker": "Presenter",
+      "text": "And you'll notice this is the same photo except we did one thing: we optimized the offer.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 627.88,
+      "end": 635.66,
+      "speaker": "Presenter",
+      "text": "Limited offer, 20% off, and then boom, here's a video of it working, here's footage again, and then here's a social proof of our actual um-",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 636.08,
+      "end": 646.7,
+      "speaker": "Presenter",
+      "text": "let me go ahead and go back to the things so we don't go to check out. Social proof of the actual brand owner who is like showing that this is, you know, a great product and it is approved and is validated by professional exterminators, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 647.06,
+      "end": 653.1,
+      "speaker": "Presenter",
+      "text": "So RatVac motion sensor rodent catching system was $249, is now $199, save $50.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 653.52,
+      "end": 660.62,
+      "speaker": "Presenter",
+      "text": "Well, you might be thinking like, \"Okay, well, as much as the page is good, well, you just gave somebody $50 off, right? Well, that's probably why it's converting better.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 660.94,
+      "end": 668.98,
+      "speaker": "Presenter",
+      "text": "And you're exactly right, because we understood the margin and for the sake of this brand, I'm not going to get into their exact specifics, but we understood their exact margin.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 669.5,
+      "end": 680.58,
+      "speaker": "Presenter",
+      "text": "And so you can do this too by very, very simply going into this new template, so margin and offer breakdown sheet, and you can actually add all of your information inside of here, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 680.9,
+      "end": 687.24,
+      "speaker": "Presenter",
+      "text": "So let's just say for example randomly, let's just say that their product cost them, I don't know, $15 or $20.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 687.5,
+      "end": 693.28,
+      "speaker": "Presenter",
+      "text": "I actually don't even know, so this doesn't- like not even- I don't know if it's 20, 50, 5, you know, 100, I have no idea, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 693.32,
+      "end": 698.84,
+      "speaker": "Presenter",
+      "text": "And let's just say for the sake of simple that is, you know, it's $10 for shipping or $5 for shipping.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 699.22,
+      "end": 708.18,
+      "speaker": "Presenter",
+      "text": "So you can see that our total cost for the US and this gateway here, you can see this is like based on the price that is on the site, so if we set this at $249, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 709.16,
+      "end": 716.82,
+      "speaker": "Presenter",
+      "text": "And you could say that here we don't actually charge for shipping, free shipping is included, you can see that I'm going to pay about $7 in, you know, transaction fees, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 717.32,
+      "end": 724.38,
+      "speaker": "Presenter",
+      "text": "And so here my total cost is $32, which means that if I take a look over here, my margin is $216.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 725.48,
+      "end": 734.56,
+      "speaker": "Presenter",
+      "text": "So in this instance, if this was my cost, if it was $32 and I was selling it for $249, I have an 86% margin, almost 87% margin.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 735.18,
+      "end": 744.36,
+      "speaker": "Presenter",
+      "text": "Okay? And so in this instance, and let's just say we have $0 price before discounts here, so there's actually $0 in savings is what this is basically telling us.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 744.6,
+      "end": 751.16,
+      "speaker": "Presenter",
+      "text": "Then in this instance, you know, I have almost 87% is- is insane. Some of you guys actually might have really high margins, if you don't, that's fine.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 751.32,
+      "end": 757.4,
+      "speaker": "Presenter",
+      "text": "Um but what we ended up doing is we did this, so we took these exact numbers. So we just just said, \"Hey,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 757.76,
+      "end": 764.7,
+      "speaker": "Presenter",
+      "text": "let's do a new offer. Let's test a very simple save $50 off. Let's just test a price point that feels a little bit more attainable,\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 764.7,
+      "end": 768.94,
+      "speaker": "Presenter",
+      "text": "because what we understand is that at certain points, people will round up and round down.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 769.14,
+      "end": 775.52,
+      "speaker": "Presenter",
+      "text": "So people are looking at this saying like, \"Oh, it's 250 bucks, that might be too expensive.\" Whereas this one, we're saying it's 200 bucks.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 775.7,
+      "end": 780.56,
+      "speaker": "Presenter",
+      "text": "So our first hypothesis was maybe people are rounding up saying like this thing's almost $300,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 780.56,
+      "end": 792.12,
+      "speaker": "Presenter",
+      "text": "whereas if we just round down and actually put the price at 200, that might be a price that is going to actually increase our overall conversion rate and more importantly, increase our overall revenue per session.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 792.42,
+      "end": 798.58,
+      "speaker": "Presenter",
+      "text": "And again, if you guys are tracking this properly, I want to show you that if we take a look at this during the previous week,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 798.58,
+      "end": 803.28,
+      "speaker": "Presenter",
+      "text": "you can see that our conversion rate here was 0.4%.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 803.28,
+      "end": 811.02,
+      "speaker": "Presenter",
+      "text": "So this only has one purchase and I want to try to maybe do a bit of a better job. Let's just see how it was during the month of the first 12 days.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 811.18,
+      "end": 819.66,
+      "speaker": "Presenter",
+      "text": "So as you could see here, we had two purchases, our purchase conversion value was 499, so you can see here our AOV was 249 and our conversion rate was 0.42.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 820.08,
+      "end": 829.16,
+      "speaker": "Presenter",
+      "text": "So if we do 249.99 times 0.42, we're going to get a revenue per session of a dollar 04 essentially, okay? So 104.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 829.84,
+      "end": 834.08,
+      "speaker": "Presenter",
+      "text": "Now, if we take a look at the week where we actually launched this,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 834.4,
+      "end": 838.56,
+      "speaker": "Presenter",
+      "text": "not only do we have way more scale, so we went from two purchases to 41 purchases total,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 839.0,
+      "end": 844.3,
+      "speaker": "Presenter",
+      "text": "you can see here that literally our ROAS during this two week period was 4.59.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 844.78,
+      "end": 852.48,
+      "speaker": "Presenter",
+      "text": "Okay? And so now let's take a look. Our conversion rate went from 0.42 to 3.09,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 852.48,
+      "end": 859.44,
+      "speaker": "Presenter",
+      "text": "and our AOV actually came down to 222. So let's just do that for the sake of simple math, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 859.92,
+      "end": 864.5,
+      "speaker": "Presenter",
+      "text": "And now, all of a sudden, our revenue per session is 687.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 865.7,
+      "end": 870.82,
+      "speaker": "Presenter",
+      "text": "So we literally had over a 6x increase in our revenue per session.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 871.06,
+      "end": 879.88,
+      "speaker": "Presenter",
+      "text": "And the reason why this is important for you guys to understand, because, again, if we actually take 687 and turn that into a decimal amount, so $6.87,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 879.88,
+      "end": 882.68,
+      "speaker": "Presenter",
+      "text": "our cost per click is $1.35.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 883.38,
+      "end": 892.5,
+      "speaker": "Presenter",
+      "text": "So we're paying $1.35 to get someone to the website, and our revenue per session for every person who lands on the website is $6.87.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 893.16,
+      "end": 899.08,
+      "speaker": "Presenter",
+      "text": "Very, very profitable. If we compare that to the first 12 days, we were paying, again, the same amount, $1.29,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 899.08,
+      "end": 904.74,
+      "speaker": "Presenter",
+      "text": "yet our revenue per session, again, 0.42 * 249, as we saw, was 100.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 904.74,
+      "end": 910.94,
+      "speaker": "Presenter",
+      "text": "So that, again, if we go back, just to show you guys, 0.42 * 249, doesn't matter, 104.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 911.52,
+      "end": 913.92,
+      "speaker": "Presenter",
+      "text": "So, again, if we add the decimal, it's $1.04.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 914.56,
+      "end": 922.56,
+      "speaker": "Presenter",
+      "text": "So we're paying $1.29 to get someone to the store, but they're only making us $1.04, which is why we were losing money, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 923.08,
+      "end": 929.12,
+      "speaker": "Presenter",
+      "text": "And so for you guys to understand that even though we have overall less margin. So let's do the math, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 929.52,
+      "end": 938.7,
+      "speaker": "Presenter",
+      "text": "Shipping is still $5. Now our gateway costs are actually going to go down, because the price on-site, we're going to do price before discounts is 249. So let's do 249, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 939.0,
+      "end": 941.06,
+      "speaker": "Presenter",
+      "text": "And then our price on-site is now 199,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 941.64,
+      "end": 952.18,
+      "speaker": "Presenter",
+      "text": "okay? And we can bump this up here. So let's delete this, and let's just go ahead and copy this down. And then the gateway here, we want to copy this down as well. And, again, you guys will have a copy of this sheet.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 952.74,
+      "end": 955.96,
+      "speaker": "Presenter",
+      "text": "You can see here, now our margin is 84%.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 955.96,
+      "end": 962.52,
+      "speaker": "Presenter",
+      "text": "Okay? And so if we take a look at this, it should be balanced. So, yeah, 199 divided by the $31 in total costs here, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 962.56,
+      "end": 967.92,
+      "speaker": "Presenter",
+      "text": "So costs is, everything is still the same. Our margin dropped by this much, okay? By by 2%, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 968.52,
+      "end": 977.02,
+      "speaker": "Presenter",
+      "text": "And so now, if we take a look at this, and we drop all of this stuff down here, this should actually be accurate to this, so the margin actually needs to be copied down there as well. There we go.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 977.38,
+      "end": 980.84,
+      "speaker": "Presenter",
+      "text": "So now, as you can see, we have, again, an 84% margin.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 980.84,
+      "end": 984.34,
+      "speaker": "Presenter",
+      "text": "So we lost literally like 2 2% of our margin.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 984.34,
+      "end": 992.36,
+      "speaker": "Presenter",
+      "text": "But as a result, we got 6x, more than 6x, the total revenue per session coming in, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 992.72,
+      "end": 999.72,
+      "speaker": "Presenter",
+      "text": "And so if you ask yourself, \"Okay, where am I making more money? Up here, with a, you know, dollar revenue per session, 86% margins,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 1000.14,
+      "end": 1008.72,
+      "speaker": "Presenter",
+      "text": "or here, with, you know, 6x the margin, or 6x the revenue per session, with 2% less margin?\" Obviously, you're going to be making more money here, guys, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 1009.0,
+      "end": 1016.26,
+      "speaker": "Presenter",
+      "text": "And so my point of this is is if we continue to go down the page here, you can see just by giving somebody $50 off, we were able to 6x.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 1016.46,
+      "end": 1021.56,
+      "speaker": "Presenter",
+      "text": "And sometimes making that tradeoff is actually going to be way worth it,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 1021.9,
+      "end": 1029.4,
+      "speaker": "Presenter",
+      "text": "because not only do these guys make a ton of money upfront right now, they also have an LTV and a backend system as well to upsell clients even more products, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 1029.74,
+      "end": 1034.9,
+      "speaker": "Presenter",
+      "text": "But my point is is, again, we have our checks here, so, \"Removes massive infestations overnight,\" pretty bold claim.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 1035.44,
+      "end": 1039.76,
+      "speaker": "Presenter",
+      "text": "\"Automatic rat and mice catching, motion sensor activated, catches up to 30 rats or 60 mice each use.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 1040.4,
+      "end": 1046.44,
+      "speaker": "Presenter",
+      "text": "Again, \"Buy now,\" 30-day money-back guarantee, a lot of the stuff is the same. Product detail, how to use, specs, shipping and returns, RatVac in action.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 1046.9,
+      "end": 1053.96,
+      "speaker": "Presenter",
+      "text": "And then what's really cool is we go a lot deeper down here, so, \"Why smart rodents make traditional traps useless,\" then we get down to, \"Rodents are the number two cause of house fires,\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 1054.56,
+      "end": 1059.68,
+      "speaker": "Presenter",
+      "text": "\"A single rat gives birth to five pups every- five to 12 pups every 21 days,\" again, kind of really getting into that,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 1060.0,
+      "end": 1065.5,
+      "speaker": "Presenter",
+      "text": "\"And toddlers or pets can find the poison before rats do,\" right? All very real, again, kind of scary stuff, but very real things.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 1065.9,
+      "end": 1069.24,
+      "speaker": "Presenter",
+      "text": "And then we get into a very condense frequently asked questions, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 1069.26,
+      "end": 1075.48,
+      "speaker": "Presenter",
+      "text": "And then we scroll down into some more stuff around here, around reviews and all that kind of stuff. But the most important thing is this offer, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 1075.48,
+      "end": 1080.38,
+      "speaker": "Presenter",
+      "text": "And that's why I'm making this video, because as you can see, \"RatVac motion sensor rodent catching system,\" is now \"Save $50.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 1080.38,
+      "end": 1084.52,
+      "speaker": "Presenter",
+      "text": "And this is, again, this is on Pagedeck. This is on our landing page system.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 1084.92,
+      "end": 1095.26,
+      "speaker": "Presenter",
+      "text": "And in case you guys were wondering of how easy it is to set up with Pagedeck, I'm actually going to show you that. And if you need an incentive of why you should be signing up for Pagedeck and why you should be using Pagedeck to actually build pages,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 1095.74,
+      "end": 1102.42,
+      "speaker": "Presenter",
+      "text": "let me show you why. Because right now, if you actually go into Pagedeck and you click, \"I want to create a new page,\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 1102.42,
+      "end": 1110.82,
+      "speaker": "Presenter",
+      "text": "you can literally scroll down, and you can click this, and you can literally add this to your own Pagedeck with one click.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 1110.96,
+      "end": 1115.16,
+      "speaker": "Presenter",
+      "text": "Now you have our landing page. You literally just copied it. It's done. It's there.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 1115.78,
+      "end": 1120.56,
+      "speaker": "Presenter",
+      "text": "And if you have your branding updated, there you go. Everything's optimized, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 1121.06,
+      "end": 1128.02,
+      "speaker": "Presenter",
+      "text": "And so this is why using Pagedeck is so powerful, okay? This is a little bit of custom code here,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 1128.18,
+      "end": 1136.74,
+      "speaker": "Presenter",
+      "text": "and so I'm actually working with the overall team to support on turning this more into an order form. But the reason why I wanted to give you this a one-click install,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 1136.74,
+      "end": 1142.24,
+      "speaker": "Presenter",
+      "text": "because what you can do is you can just add a buy box, and now you have the exact same buy box that we do,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 1142.26,
+      "end": 1148.5,
+      "speaker": "Presenter",
+      "text": "because as you can see, again, our our buy box is not that complicated, right? So let's bring the buy box down to the HTML embed here.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 1148.7,
+      "end": 1155.92,
+      "speaker": "Presenter",
+      "text": "You can literally go, and you can copy your product and paste it into this buy box, okay? And this is literally how fast it works.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 1156.12,
+      "end": 1162.02,
+      "speaker": "Presenter",
+      "text": "So let's go to Ridge Wallet just as a joke. So let's go to Ridge Wallet and let's just grab one of their products.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 1162.02,
+      "end": 1166.08,
+      "speaker": "Presenter",
+      "text": "And let's go here, and let's copy this, \"Products Aluminum.\" Great.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 1166.48,
+      "end": 1172.08,
+      "speaker": "Presenter",
+      "text": "This has a ton of variants, so I'm not sure if it's actually going to pick it all up, but let's take a look. So product link,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1172.24,
+      "end": 1178.98,
+      "speaker": "Presenter",
+      "text": "let's sync product data. And there we go. Now I literally have the entire product just like that in my in my Pagedeck account.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1179.9,
+      "end": 1180.44,
+      "speaker": "Presenter",
+      "text": "There it is.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 1180.9,
+      "end": 1181.98,
+      "speaker": "Presenter",
+      "text": "Now I can change the images,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 1182.3,
+      "end": 1183.02,
+      "speaker": "Presenter",
+      "text": "I could do whatever I want.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 1183.36,
+      "end": 1185.42,
+      "speaker": "Presenter",
+      "text": "Now, a lot of you guys might be wondering, well, I want these bullet points,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1185.7,
+      "end": 1187.62,
+      "speaker": "Presenter",
+      "text": "I want these customer reviews and stuff like that. And again,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1187.62,
+      "end": 1190.44,
+      "speaker": "Presenter",
+      "text": "you can see most of that stuff is up here. The bullet points we actually just need",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1190.44,
+      "end": 1194.4,
+      "speaker": "Presenter",
+      "text": "to add. And then the backed by thirty day money guarantee, limited stock, and this",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1194.4,
+      "end": 1198.42,
+      "speaker": "Presenter",
+      "text": "kind of stuff, again, if you want to contact the Pagedeck team for support, they can also help",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1198.42,
+      "end": 1202.74,
+      "speaker": "Presenter",
+      "text": "you with this stuff as well, especially if you're on their full plan, which, again, you'll be able to see through",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1202.74,
+      "end": 1206.08,
+      "speaker": "Presenter",
+      "text": "the plan stuff. But at the end of the day, you can literally copy and paste this entire",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1206.08,
+      "end": 1210.92,
+      "speaker": "Presenter",
+      "text": "LP the exact same one that we just did inside of your Pagedeck, okay? And if you're wondering again,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 1211.0,
+      "end": 1216.06,
+      "speaker": "Presenter",
+      "text": "how do you set this up? It is very, very simple. So again, what you're going to do is you're going to create a brand. So, let me just do",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1216.06,
+      "end": 1220.6,
+      "speaker": "Presenter",
+      "text": "Ridge wallet again, so ridge.com is what I'm going to be using",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1220.6,
+      "end": 1225.12,
+      "speaker": "Presenter",
+      "text": "for this example. So ridge.com. Please wait. It's going to go ahead and scan the website,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 1225.38,
+      "end": 1229.58,
+      "speaker": "Presenter",
+      "text": "and literally, after a couple seconds, now, it has everything",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1229.58,
+      "end": 1233.78,
+      "speaker": "Presenter",
+      "text": "about your brand. It has your fonts, it has your colors, you can update your logo, all this kind of stuff.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1234.22,
+      "end": 1239.26,
+      "speaker": "Presenter",
+      "text": "I mean, it's insane, right? You just literally got your entire brand, and then you can optimize it however you want.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 1239.26,
+      "end": 1243.64,
+      "speaker": "Presenter",
+      "text": "Looks good, continue. And there we go. Now it's going to take you and say, select the template.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 1243.64,
+      "end": 1249.42,
+      "speaker": "Presenter",
+      "text": "Well, let's go ahead, and let's find the pest control one because that's the one I'm a part of Evolve, and that's the one that I want to put in.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 1249.42,
+      "end": 1254.02,
+      "speaker": "Presenter",
+      "text": "And there's also all these other templates as well, so you can choose whatever one you want. Listicles,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 1254.4,
+      "end": 1258.6,
+      "speaker": "Presenter",
+      "text": "you want to take Tabs one over here, if you want to take one from Norse Organics.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 1258.6,
+      "end": 1263.06,
+      "speaker": "Presenter",
+      "text": "Literally, I asked the team to put this in there so then Norse Organics one is in there as well if you guys have seen that YouTube video.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 1263.06,
+      "end": 1265.68,
+      "speaker": "Presenter",
+      "text": "So let's go ahead and finish setup, and then, boom,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 1265.68,
+      "end": 1270.02,
+      "speaker": "Presenter",
+      "text": "there you go. Now the page is all configured for me to optimize",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 1270.02,
+      "end": 1274.78,
+      "speaker": "Presenter",
+      "text": "however I want, okay? And so, that is literally the power of Pagedeck and why we do it because",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 1274.78,
+      "end": 1279.72,
+      "speaker": "Presenter",
+      "text": "just like that, I didn't even know that took me like a minute, I now have a page that I can go in and I can start editing,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 1279.72,
+      "end": 1283.22,
+      "speaker": "Presenter",
+      "text": "and it's not complex, okay? It's not hard to go through",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 1283.22,
+      "end": 1287.18,
+      "speaker": "Presenter",
+      "text": "and fix this stuff, okay? And again, if you're looking like, okay, this is the HTML bed, embed",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 1287.44,
+      "end": 1291.42,
+      "speaker": "Presenter",
+      "text": "one. How do I get a video hero, how do I, how do I optimize this? Again, video and text,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 1291.42,
+      "end": 1295.9,
+      "speaker": "Presenter",
+      "text": "it's just this box. So there you go. You can pull this one in here as well, and now you can optimize this",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 1295.9,
+      "end": 1300.6,
+      "speaker": "Presenter",
+      "text": "however you want. Now, if you know anything about coding, or you have a developer, which I'm sure most of you guys don't,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 1300.6,
+      "end": 1305.4,
+      "speaker": "Presenter",
+      "text": "you can come in here, and you can find this stuff. So, the way that I do it is I I would look like rats. Here we go. So now",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1305.4,
+      "end": 1310.26,
+      "speaker": "Presenter",
+      "text": "we can actually change the headline here, and then again, just don't touch any of the any of the the weird looking",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1310.26,
+      "end": 1314.18,
+      "speaker": "Presenter",
+      "text": "stuff, just don't touch it. But here, you can come in, and you can change this. So, I would say, you know,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1314.18,
+      "end": 1319.46,
+      "speaker": "Presenter",
+      "text": "typical wallets are stupid, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1319.8,
+      "end": 1324.96,
+      "speaker": "Presenter",
+      "text": "And then same thing here, right? Now we can try to find the video. I think the images here, you can see it's going to show",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1326.62,
+      "end": 1331.44,
+      "speaker": "Presenter",
+      "text": "backed by thirty day money guarantee, so that's this little thing here, so you can keep that one as well. The",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1331.44,
+      "end": 1336.46,
+      "speaker": "Presenter",
+      "text": "video itself, if you know how to read code at all, and you could also, if you want, speaking of this stuff,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1336.68,
+      "end": 1339.2,
+      "speaker": "Presenter",
+      "text": "let's just go to ChatGPT, and let's just say, hey,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 215,
+      "start": 1339.64,
+      "end": 1344.34,
+      "speaker": "Presenter",
+      "text": "this is the code inside of this order form. I want to add",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 216,
+      "start": 1344.34,
+      "end": 1349.16,
+      "speaker": "Presenter",
+      "text": "my video instead. How would I add my video to this?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1349.6,
+      "end": 1354.64,
+      "speaker": "Presenter",
+      "text": "And then you can even upload the video if you want as well. So to replace the video, you just need to update the source,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1354.64,
+      "end": 1358.92,
+      "speaker": "Presenter",
+      "text": "or add the video tag. So, here we go, here's literally the HTML. So,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1358.92,
+      "end": 1364.76,
+      "speaker": "Presenter",
+      "text": "there you go, it's really showing you guys how to code. AI is an amazing thing, okay? So if you really want to use the HTML",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1364.76,
+      "end": 1368.72,
+      "speaker": "Presenter",
+      "text": "stuff as well, you can do that too. But, that's why we use Pagedeck. But,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1368.72,
+      "end": 1372.58,
+      "speaker": "Presenter",
+      "text": "the point of this video, this is kind of an all-in-one video here to show you guys how to kind of",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1372.58,
+      "end": 1378.04,
+      "speaker": "Presenter",
+      "text": "build in Pagedeck, how we actually had this insane uptick from again, as you guys can see here,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1378.3,
+      "end": 1383.98,
+      "speaker": "Presenter",
+      "text": "a 0.76x ROAS to the last two weeks here a 4.59x ROAS at higher",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1383.98,
+      "end": 1389.52,
+      "speaker": "Presenter",
+      "text": "spends, this is this is how we did it, okay? And then from there, again, the hopefully the landing page",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1389.52,
+      "end": 1395.46,
+      "speaker": "Presenter",
+      "text": "breakdown makes sense, and you guys will have this offer template as well. And there's likely going to be more modules that come down on how to",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1395.46,
+      "end": 1400.2,
+      "speaker": "Presenter",
+      "text": "apply different offers. This is obviously just a very, very simple one. And again, if you don't have $199 product,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1400.2,
+      "end": 1404.9,
+      "speaker": "Presenter",
+      "text": "that's fine. Think about how can we do save $10, how can we do save $20, right? How can we better understand",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 228,
+      "start": 1404.9,
+      "end": 1409.8,
+      "speaker": "Presenter",
+      "text": "what offers to make rather than just like hopefully, like you know, just sending it. But I wanted to start this off",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1409.8,
+      "end": 1415.32,
+      "speaker": "Presenter",
+      "text": "with an overview to show you guys how to do this. And again, if you do want to sign up for Pagedeck, you guys can save 15% off",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1415.32,
+      "end": 1421.5,
+      "speaker": "Presenter",
+      "text": "using our link below, and that's not even me trying to get you guys to pay pay us an affiliate commission, like, I really don't make a lot.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1421.5,
+      "end": 1427.0,
+      "speaker": "Presenter",
+      "text": "It costs like a hundred 100 bucks for Pagedeck or whatever it costs, right? It's like Trust me, I have I have other ways I make money. The point",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1427.0,
+      "end": 1432.2,
+      "speaker": "Presenter",
+      "text": "is this is we can give you guys 15% off, you can get a tool that allows you to page build pages fast,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1432.2,
+      "end": 1438.3,
+      "speaker": "Presenter",
+      "text": "and you don't have to, you know, even this ChatGPT stuff. Obviously this is a little bit more complex for our custom page, but if you actually go back",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1438.3,
+      "end": 1443.4,
+      "speaker": "Presenter",
+      "text": "to the other pages as well, so let me just go ahead and click new page here. If I want to select",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1443.4,
+      "end": 1448.48,
+      "speaker": "Presenter",
+      "text": "the Norse Organic page, which I saw some Here it is, right here, right? If I want to select this page,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1449.02,
+      "end": 1453.76,
+      "speaker": "Presenter",
+      "text": "all of this is literally It's It's already all pre-filled, right? So the image and text here,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1453.76,
+      "end": 1458.88,
+      "speaker": "Presenter",
+      "text": "it's already it's already all optimized for me, right? Look at this. This is all just image and text, right? So this exact",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1458.88,
+      "end": 1459.46,
+      "speaker": "Presenter",
+      "text": "page,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1459.46,
+      "end": 1465.42,
+      "speaker": "Presenter",
+      "text": "I literally just show showed you guys on my YouTube channel, if you guys have seen that, is all here, and this is all click to edit.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1465.42,
+      "end": 1471.58,
+      "speaker": "Presenter",
+      "text": "You don't need to do any code. Everything is done right inside of here, and that's why Pagedeck is the best, 'cause you don't need to be a brainiac to do this.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1471.58,
+      "end": 1478.36,
+      "speaker": "Presenter",
+      "text": "You don't need to know UI, UX, all this kind of stuff. It just makes it extremely fast and easy to do, okay? And so, that is why we use this tool,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1478.36,
+      "end": 1487.06,
+      "speaker": "Presenter",
+      "text": "and I hope this helps you guys cr- create landing pages, and also give you a place to basically host all of your LPs and test all of your offers,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1487.06,
+      "end": 1493.18,
+      "speaker": "Presenter",
+      "text": "because what we do, whenever we test this, is we duplicate our ads, we copy this URL, we put we put that in there. Again,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1493.18,
+      "end": 1505.1,
+      "speaker": "Presenter",
+      "text": "want to launch your own campaign, you can, but if I was to do this again, I would just launch launch this in the same ad set because, as you can see, this one started taking off as well because of the LPs that we launched. So, if we go into here,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1505.1,
+      "end": 1512.14,
+      "speaker": "Presenter",
+      "text": "you can see IG reel number 9, we sent this to the new LP, and it started absolutely ripping, okay? And so, I want you guys to understand",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1512.14,
+      "end": 1518.72,
+      "speaker": "Presenter",
+      "text": "that this is why we do things the way that we do through Pagedeck, through figuring out the right offer,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1518.72,
+      "end": 1524.56,
+      "speaker": "Presenter",
+      "text": "and then ultimately testing it inside of Meta to have that massive spike. I mean, I don't know where else you're going to see this.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1524.56,
+      "end": 1530.36,
+      "speaker": "Presenter",
+      "text": "From June 1st to June 12th, again, 0.76x ROAS with, you know, two purchases,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1530.36,
+      "end": 1537.0,
+      "speaker": "Presenter",
+      "text": "to literally two weeks later, we went to 41 purchases at a 4.6x return on ad spend.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1537.0,
+      "end": 1546.5,
+      "speaker": "Presenter",
+      "text": "I mean, that is absolutely insane, guys. Like, you're not going to be able to do this with a lot of the stuff that you guys are focusing on or a lot of the small things or media buying shit. Like, show me",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1546.5,
+      "end": 1554.86,
+      "speaker": "Presenter",
+      "text": "a campaign structure that will do this, okay? And so, this is why I want you guys to lock in on this stuff, and I hope this is some upfront value for you guys to see this before,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1555.16,
+      "end": 1562.94,
+      "speaker": "Presenter",
+      "text": "you know, we go through and do some more in-depth stuff. But I wanted to get this over to you guys ASAP, give you a high-level overview so you guys can get rocking and rolling on this right away, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1562.96,
+      "end": 1573.12,
+      "speaker": "Presenter",
+      "text": "So, that is how you do it. Now, in regards to some other things in Pagedeck that I just want you guys to know about, this is a subdomain. There are incredible things for you guys to go through and do. So, if we go into the brand settings here,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 254,
+      "start": 1573.4,
+      "end": 1582.96,
+      "speaker": "Presenter",
+      "text": "you guys will go in and you will actually set up a custom domain. So, again, you need to get a paid account to actually go through and set up a try., you know, ridge.com or whatever it is, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 255,
+      "start": 1583.32,
+      "end": 1591.04,
+      "speaker": "Presenter",
+      "text": "And then, go into your DNS and add that. And again, there's literally step-by-step on how to do all this stuff for you, but I wanted to share this with you guys because, again, this",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1591.04,
+      "end": 1599.96,
+      "speaker": "Presenter",
+      "text": "is where massive scale can come from. And if you focus on the right LPs and the right offers, and you test offers the right way, you can make a ton of money, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1599.96,
+      "end": 1606.42,
+      "speaker": "Presenter",
+      "text": "So, hopefully that makes sense, and in case you guys watched this here to 100k per month uh webinar, this is exactly what we did for that same brand as well,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1606.84,
+      "end": 1615.92,
+      "speaker": "Presenter",
+      "text": "exact same process. And again, it's working again for another client, and we're about to do it for another brand, and it's going to work again. So, it's like this is a very repeatable process in order to start scaling.",
+      "chunk": 5,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 245.1,
+      "end": 246.3,
+      "label": "chuckle"
+    },
+    {
+      "start": 1313.87,
+      "end": 1316.87,
+      "label": "laughter"
+    }
+  ]
+}

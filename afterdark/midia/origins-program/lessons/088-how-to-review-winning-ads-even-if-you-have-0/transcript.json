@@ -1,0 +1,2757 @@
+{
+  "lesson": {
+    "num": 88,
+    "id": "088-how-to-review-winning-ads-even-if-you-have-0",
+    "title": "How to review winning ads (even if you have 0)",
+    "section": "🧠 How To Do Learnings",
+    "video": "88. How to review winning ads (even if you have 0) Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1344.896,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=f4f05d0b8d85453faec973b8daf8d6f5"
+  },
+  "generated_at": "2026-10-06T20:24:10-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (94% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 4719,
+    "matched_tokens": 4427,
+    "match_ratio": 0.938,
+    "segments_aligned": 282,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 2,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Played audio",
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 334.995,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 237.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 334.995,
+      "end": 694.261,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.944,
+      "wpm": 221.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 694.261,
+      "end": 1019.832,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.994,
+      "wpm": 209.4,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 1019.832,
+      "end": 1344.896,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 249.5,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.2,
+      "speaker": "Presenter",
+      "text": "All right guys, so in this video, I'm going to show you how to review winning ads even if you don't have any winning ads,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 5.5,
+      "end": 13.7,
+      "speaker": "Presenter",
+      "text": "and it's basically just going to be using the doc that I have inside of Origins for videos, as well as the doc that we have around statics, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 14.04,
+      "end": 16.62,
+      "speaker": "Presenter",
+      "text": "And so, I'm going to do live learnings with you guys here, as well,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 16.62,
+      "end": 23.86,
+      "speaker": "Presenter",
+      "text": "just because the way that you look at a winning ad is going to be different than the way that you look at a losing ad, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 24.26,
+      "end": 31.36,
+      "speaker": "Presenter",
+      "text": "And so, I wanted to do this ad specifically, because I felt like this ad was super- or sorry, this ad here, was super interesting, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 31.38,
+      "end": 36.32,
+      "speaker": "Presenter",
+      "text": "And so, I'm going to try to actually turn on the volume here. I'm going to unmute the site. It might be really, really loud, hopefully it's not.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 36.42,
+      "end": 43.9,
+      "speaker": "Presenter",
+      "text": "Um, but this is what you guys can do, where you guys already have my learnings and you guys will have learnings on this as I continue to do them.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 43.9,
+      "end": 47.76,
+      "speaker": "Presenter",
+      "text": "I'm not going to do every single ad on this call, because we'd be here for hours.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 47.96,
+      "end": 50.2,
+      "speaker": "Presenter",
+      "text": "Um, but if you take a look at the overview here, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 50.42,
+      "end": 54.44,
+      "speaker": "Presenter",
+      "text": "You guys have access to some of my learnings, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 54.84,
+      "end": 56.94,
+      "speaker": "Presenter",
+      "text": "So, bold numbers callout stops the scroll.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 57.18,
+      "end": 60.58,
+      "speaker": "Presenter",
+      "text": "Emphasize the effectiveness of the solution: 14+ hours for the problem.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 60.98,
+      "end": 67.46,
+      "speaker": "Presenter",
+      "text": "Body copy connects and completes the static ad while providing clarity on the actual product and hot mechanism.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 67.5,
+      "end": 73.48,
+      "speaker": "Presenter",
+      "text": "Great spelling, Spencer. Mecha- [laughter] mechanism, compression socks, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 74.08,
+      "end": 82.64,
+      "speaker": "Presenter",
+      "text": "And so, here, again, you guys can take learnings by looking at my learnings and then even trying to expand it further, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 82.98,
+      "end": 87.6,
+      "speaker": "Presenter",
+      "text": "Now, if you really want to understand how to get good at learnings, you just keep asking like, why does this matter, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 88.12,
+      "end": 91.98,
+      "speaker": "Presenter",
+      "text": "So bold numbers callout that stops the scroll. Why- why would that stop the scroll?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 92.78,
+      "end": 101.78,
+      "speaker": "Presenter",
+      "text": "Well, because it's a bold claim, and again, it's like, you're saying something that should happen is not going to happen because of this product, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 103.76,
+      "end": 110.42,
+      "speaker": "Presenter",
+      "text": "So, think about trying to take broader learnings from ads that are not yours, to apply-",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 111.2,
+      "end": 116.76,
+      "speaker": "Presenter",
+      "text": "So, you- you almost have to take like a step up to apply it to your brand specifically, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 117.18,
+      "end": 121.64,
+      "speaker": "Presenter",
+      "text": "Now, this is much more advanced strategy of like processing learnings on winning ads, but again,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 121.8,
+      "end": 128.42,
+      "speaker": "Presenter",
+      "text": "at least you know these are winners, and you can just look at this and be like, okay, why- why is this working, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 129.54,
+      "end": 132.9,
+      "speaker": "Presenter",
+      "text": "Like even something like this: 17 meals for $2.65 per meal.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 133.74,
+      "end": 137.54,
+      "speaker": "Presenter",
+      "text": "That's super interesting. I don't even have that as a learning on here, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 137.74,
+      "end": 142.24,
+      "speaker": "Presenter",
+      "text": "I don't- I don't mention this. But when I look at this ad again and do another round of learnings, I'm like, okay, well,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 143.3,
+      "end": 145.3,
+      "speaker": "Presenter",
+      "text": "that's kind of crazy.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 146.2,
+      "end": 150.64,
+      "speaker": "Presenter",
+      "text": "Like, 17 meals for $2- $2.65 per meal, like most meals cost me $10.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 151.36,
+      "end": 153.44,
+      "speaker": "Presenter",
+      "text": "You're telling me I can get a meal for $2.65?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 154.68,
+      "end": 159.68,
+      "speaker": "Presenter",
+      "text": "Like just that small thing could be what's actually making this ad work so well.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 159.86,
+      "end": 163.32,
+      "speaker": "Presenter",
+      "text": "And not only is it- it's not just any meal, it's a meal with 40 grams of protein.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 165.26,
+      "end": 167.74,
+      "speaker": "Presenter",
+      "text": "Pretty crazy. 40 grams of protein for two bucks?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 167.74,
+      "end": 172.78,
+      "speaker": "Presenter",
+      "text": "Unless you just want to eat a chicken breast, I mean [laughter], it's pretty crazy, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 173.04,
+      "end": 177.32,
+      "speaker": "Presenter",
+      "text": "And so, my point is is like, okay, well, how could I imply- how can I show value differently?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 177.84,
+      "end": 178.78,
+      "speaker": "Presenter",
+      "text": "They're doing per meal.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 179.64,
+      "end": 182.96,
+      "speaker": "Presenter",
+      "text": "If you actually go to their website, it's probably a lot more expensive, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 183.4,
+      "end": 187.24,
+      "speaker": "Presenter",
+      "text": "Um, but they've just framed it in a way that is cheaper and makes it feel more tangible.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 187.44,
+      "end": 189.48,
+      "speaker": "Presenter",
+      "text": "So, you know what? When you break it down that way, it's not too bad.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 189.96,
+      "end": 191.56,
+      "speaker": "Presenter",
+      "text": "That's a learning that you can take, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 192.52,
+      "end": 197.98,
+      "speaker": "Presenter",
+      "text": "And so, let's go ahead and try to break down one of these videos, though, cuz I know I just did learnings on an image, so now I want to do learnings on a video for you guys,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 197.98,
+      "end": 204.3,
+      "speaker": "Presenter",
+      "text": "and I'm going to show you guys how I kind of review videos. And again, you would be looking at all of the same metrics here, as well, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 204.52,
+      "end": 209.34,
+      "speaker": "Presenter",
+      "text": "So, you'd be looking at amount spent, ROAS, conversion rate, AOV, frequency to see if it's kind of more retargeting or not.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 209.34,
+      "end": 215.14,
+      "speaker": "Presenter",
+      "text": "For those of you that don't know what frequency means, it means how many- how many times people see your ad, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 215.14,
+      "end": 219.9,
+      "speaker": "Presenter",
+      "text": "On average. And so, for example, people were seeing this ad, on average, three times,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 219.9,
+      "end": 223.78,
+      "speaker": "Presenter",
+      "text": "yet it got 2% of spend [laughter], which is not good, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 224.08,
+      "end": 228.58,
+      "speaker": "Presenter",
+      "text": "So, this means it's retargeting, like Meta is basically saying like, gosh, Spencer, this is a shitty ad.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 228.9,
+      "end": 233.78,
+      "speaker": "Presenter",
+      "text": "I've got to go and show this to people who are like ready to click and buy now, otherwise it ain't going to get purchases, brother. [laughter]",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 234.44,
+      "end": 236.0,
+      "speaker": "Presenter",
+      "text": "Basically what Meta was telling me, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 236.28,
+      "end": 238.18,
+      "speaker": "Presenter",
+      "text": "I'm also going to look at the hook, hold, and average play time.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 238.28,
+      "end": 242.06,
+      "speaker": "Presenter",
+      "text": "But let's just say this was a, you know, a winning ad. Let's go ahead and- and take a look at this.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 242.18,
+      "end": 247.68,
+      "speaker": "Presenter",
+      "text": "And so, first thing that I want to mention is that I'm just going to play and pause the hook multiple times,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 247.68,
+      "end": 251.02,
+      "speaker": "Presenter",
+      "text": "because the hook is one of the most important things, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 251.02,
+      "end": 257.08,
+      "speaker": "Presenter",
+      "text": "So, if- if you can really try to double down and understand why the hook works, and actually I have the video here, which is kind of nice,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 257.08,
+      "end": 263.1,
+      "speaker": "Presenter",
+      "text": "so I can kind of like click right in here because I'm sneaky. Um, I can really try to understand what is making-",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 263.1,
+      "end": 263.9,
+      "speaker": "Played audio",
+      "text": "and that's making-",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 264.72,
+      "end": 270.92,
+      "speaker": "Presenter",
+      "text": "So, let's go back and let's just play the hook, and this is going to be like awkward silences and stuff like that, but let's just go ahead and- and try to process learnings.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 271.04,
+      "end": 277.7,
+      "speaker": "Played audio",
+      "text": "The hollow-fiber revolution that's making cardiologists trash their own compression socks happened completely by accident.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 277.7,
+      "end": 282.32,
+      "speaker": "Presenter",
+      "text": "All right, so it's about a 7-second hook, but you'll notice that didn't feel like 7 seconds to me.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 282.32,
+      "end": 285.38,
+      "speaker": "Presenter",
+      "text": "Like I don't know, like that was very slippery slope, [laughter]",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 286.28,
+      "end": 292.3,
+      "speaker": "Presenter",
+      "text": "where every single line kind of had me intrigued for the next one, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 293.24,
+      "end": 299.34,
+      "speaker": "Presenter",
+      "text": "And so, let's- let's just try to review this. I might watch this a couple more times, but I'm going to pause it after this kind of first line here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 299.78,
+      "end": 301.86,
+      "speaker": "Played audio",
+      "text": "The hollow-fiber revolution that-",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 301.86,
+      "end": 305.9,
+      "speaker": "Presenter",
+      "text": "So right there: the hollow-fiber revolution, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 306.46,
+      "end": 312.34,
+      "speaker": "Presenter",
+      "text": "Now, why is that- why is that interesting? Because first of all, what is hollow fiber?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 312.94,
+      "end": 317.2,
+      "speaker": "Presenter",
+      "text": "I don't know what that is. I've never heard of that. What is that? That's a new mechanism,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 317.72,
+      "end": 322.32,
+      "speaker": "Presenter",
+      "text": "okay? And from there, kind of talks about this revolution.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 323.04,
+      "end": 328.9,
+      "speaker": "Presenter",
+      "text": "So, revolution is a very bold claim, where it's like, what- like what is happening? How am I missing out on this?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 329.04,
+      "end": 334.06,
+      "speaker": "Presenter",
+      "text": "First of all, I don't know what hollow fiber is, and now it's some kind of revolution that's happening?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 335.62,
+      "end": 337.1,
+      "speaker": "Presenter",
+      "text": "So, again, what does that do?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 338.08,
+      "end": 339.82,
+      "speaker": "Presenter",
+      "text": "It creates, it's like an open loop.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 340.72,
+      "end": 344.66,
+      "speaker": "Presenter",
+      "text": "I'm like, \"Well, what's the hollow fiber revolution? I need to keep watching.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 345.2,
+      "end": 352.42,
+      "speaker": "Presenter",
+      "text": "And then on top of that, it's like it has me interested because this girl is still just kind of like putting on socks, you know what I mean?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 352.52,
+      "end": 353.34,
+      "speaker": "Played audio",
+      "text": "Hollow fiber revolu-",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 353.84,
+      "end": 357.12,
+      "speaker": "Presenter",
+      "text": "Like she's kind of putting on these big socks, let's just keep watching what she's doing.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 357.48,
+      "end": 359.9,
+      "speaker": "Played audio",
+      "text": "-tion that's making cardiologists trash their own",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 360.0,
+      "end": 363.16,
+      "speaker": "Presenter",
+      "text": "Like she didn't even finish putting them on, but you can tell like these are kind of tight socks.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 363.16,
+      "end": 363.98,
+      "speaker": "Played audio",
+      "text": "The hollow fiber revolution",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 363.98,
+      "end": 369.58,
+      "speaker": "Presenter",
+      "text": "And she's kind of like struggling to put them on, which is interesting, so you can probably see that they're compression socks. And so",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 369.58,
+      "end": 377.28,
+      "speaker": "Presenter",
+      "text": "visually, this is kind of calling out the avatar as well that's looking for compression socks, at least if you ask me. And again, these are all learnings, you guys, remember.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 377.5,
+      "end": 379.38,
+      "speaker": "Presenter",
+      "text": "These are educated guesses of why I think these ads working.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 380.02,
+      "end": 385.2,
+      "speaker": "Presenter",
+      "text": "And so, now when I'm looking at this, I'm like, okay, we haven't even got past the first one second, and I'm like, holy cow. All right, how can I apply this",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 385.2,
+      "end": 388.58,
+      "speaker": "Presenter",
+      "text": "for my brand? Well, let's see. The new mechanism, kind of revolution.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 388.96,
+      "end": 396.46,
+      "speaker": "Presenter",
+      "text": "Even if you just wanted to do something as simple as that, I could take this for Zend, and potentially say, okay, the hollow fiber revolution, what if I talked about",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 396.46,
+      "end": 399.18,
+      "speaker": "Presenter",
+      "text": "the, the hormone protection",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 400.72,
+      "end": 401.22,
+      "speaker": "Presenter",
+      "text": "revolution?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 401.22,
+      "end": 401.72,
+      "speaker": "Presenter",
+      "text": "Right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 401.72,
+      "end": 403.04,
+      "speaker": "Presenter",
+      "text": "Could be interesting.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 403.04,
+      "end": 412.02,
+      "speaker": "Presenter",
+      "text": "Now, that's terrible, and that's probably not going to work that well, but I could also think, well what is a different mechanism? I could also say the D- the DPP-4",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 412.18,
+      "end": 419.82,
+      "speaker": "Presenter",
+      "text": "enzyme revolution, or like blocking or like blocking DPP-4 enzyme or something like that. Now that might be too wordy,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 419.84,
+      "end": 426.2,
+      "speaker": "Presenter",
+      "text": "at the end of the day, it's like how can I take my unique mechanism, and try to communicate it the same way? Now, there's something that happens next that I'm going to",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 426.2,
+      "end": 432.94,
+      "speaker": "Presenter",
+      "text": "hopefully help you guys understand, like, at another level. But I want to basically dive into this a little bit further, so let's go ahead and continue to play it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 433.16,
+      "end": 438.4,
+      "speaker": "Played audio",
+      "text": "The hollow fiber revolution that's making cardiologists trash their own compression socks",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 438.9,
+      "end": 443.56,
+      "speaker": "Presenter",
+      "text": "All right. So, let's talk about this. Because this is a huge, huge thing",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 443.56,
+      "end": 449.72,
+      "speaker": "Presenter",
+      "text": "that a lot of people don't understand, plays such a massive role, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 450.46,
+      "end": 454.24,
+      "speaker": "Presenter",
+      "text": "So, we got the hollow- so we got this new mechanism revolution that's happening, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 454.34,
+      "end": 462.0,
+      "speaker": "Presenter",
+      "text": "And and I just want all of you guys to know that like, all we're doing is we're just looking at what the script is saying, and we're trying to understand how is this making the customer feel,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 462.0,
+      "end": 467.42,
+      "speaker": "Presenter",
+      "text": "and why is this working for them, okay? So we just broke down the hollow fiber revolution, new mechanism revolution. Now, here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 468.28,
+      "end": 468.86,
+      "speaker": "Presenter",
+      "text": "\"That's making-\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 468.86,
+      "end": 470.06,
+      "speaker": "Played audio",
+      "text": "-and that's making cardiolo-",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 470.06,
+      "end": 473.72,
+      "speaker": "Presenter",
+      "text": "Cardiologists.",
+      "chunk": 1,
+      "timing": "interpolated"
+    },
+    {
+      "id": 100,
+      "start": 473.72,
+      "end": 482.68,
+      "speaker": "Presenter",
+      "text": "That is a very- This one word is crucial. If you- and I only know this because I've seen so many ads leverage something called authorities.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 482.68,
+      "end": 484.92,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 1,
+      "timing": "interpolated"
+    },
+    {
+      "id": 102,
+      "start": 484.92,
+      "end": 486.24,
+      "speaker": "Presenter",
+      "text": "This is crucial",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 486.24,
+      "end": 491.08,
+      "speaker": "Presenter",
+      "text": "to the success of this ad, because guess what, I just made a big claim here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 491.92,
+      "end": 493.18,
+      "speaker": "Played audio",
+      "text": "The hollow fiber revolution",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 493.48,
+      "end": 494.84,
+      "speaker": "Presenter",
+      "text": "\"The hollow fiber revolution.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 495.98,
+      "end": 498.12,
+      "speaker": "Presenter",
+      "text": "Fancy. Okay, I'm interested.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 499.06,
+      "end": 500.96,
+      "speaker": "Presenter",
+      "text": "And then, how do I keep someone interested?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 501.48,
+      "end": 502.62,
+      "speaker": "Played audio",
+      "text": "And that's making cardiologists",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 503.3,
+      "end": 504.22,
+      "speaker": "Presenter",
+      "text": "\"That's making cardiologists.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 505.64,
+      "end": 507.5,
+      "speaker": "Presenter",
+      "text": "Now, I've just leveraged an authority.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 508.18,
+      "end": 516.72,
+      "speaker": "Presenter",
+      "text": "Let's take a second to go in, and try to figure out, and I'm supposed to be completing learnings on these ad, but what is a cardiologist?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 518.12,
+      "end": 519.3,
+      "speaker": "Presenter",
+      "text": "Can't even spell it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 521.42,
+      "end": 526.7,
+      "speaker": "Presenter",
+      "text": "\"Cardiologists are medical doctors who specialize in diagnosing and treating conditions of heart and blood vessels.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 528.46,
+      "end": 529.06,
+      "speaker": "Presenter",
+      "text": "Okay.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 530.2,
+      "end": 534.12,
+      "speaker": "Presenter",
+      "text": "Well, when we go back to this ad, we're basically saying",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 534.12,
+      "end": 542.12,
+      "speaker": "Presenter",
+      "text": "doctors who specialize in diagnosing and treating conditions of the heart and blood vessels. So,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 542.5,
+      "end": 546.86,
+      "speaker": "Presenter",
+      "text": "think about the avatar that's also being called out here. Now this woman doesn't look too old, but",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 546.86,
+      "end": 552.7,
+      "speaker": "Presenter",
+      "text": "people who have potential like blood flow or circulation issues probably see a cardiologist, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 553.2,
+      "end": 557.06,
+      "speaker": "Presenter",
+      "text": "And so that's exactly who these products are for,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 557.62,
+      "end": 557.9,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 558.67,
+      "end": 562.4,
+      "speaker": "Presenter",
+      "text": "Do cardiologists recommend compression socks?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 564.28,
+      "end": 571.14,
+      "speaker": "Presenter",
+      "text": "Yes, cardiologists may recommend compression socks for certain conditions to help with blood circulation in the legs. So what has this ad done?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 571.48,
+      "end": 577.1,
+      "speaker": "Presenter",
+      "text": "It's shown that they understand their customer. Because someone who is using compression socks,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 577.62,
+      "end": 581.94,
+      "speaker": "Presenter",
+      "text": "and someone who struggles and or has maybe even seen cardiologists before,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 583.2,
+      "end": 585.3,
+      "speaker": "Presenter",
+      "text": "is, we're now leveraging that authority",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 585.3,
+      "end": 593.9,
+      "speaker": "Presenter",
+      "text": "in this ad in a way that is just like, oh, it's so good. And it's like I'm not surprised that this ad is is working really well, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 594.34,
+      "end": 597.82,
+      "speaker": "Presenter",
+      "text": "And so, again, we're not even past the first like 10 seconds, guys. And so I want you guys",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 597.82,
+      "end": 604.46,
+      "speaker": "Presenter",
+      "text": "to know like how much time I spend on the hook specifically, because the hook is like the biggest point to getting someone",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 604.46,
+      "end": 612.92,
+      "speaker": "Presenter",
+      "text": "hooked in and engaged, right? And just understand that like, think about it in fishing, guys, like when you're fishing- I got to go full screen for another random Spencer analogy.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 612.92,
+      "end": 619.6,
+      "speaker": "Presenter",
+      "text": "When you're fishing, right? Maybe you've never fished before, you you throw your cast out, you get a bite, you hook that fish in.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 619.6,
+      "end": 626.32,
+      "speaker": "Presenter",
+      "text": "Do you just want to hook the fish in and then like have it- and then like get off- and then it gets off the hook before you reel it in and it just swims away?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 626.32,
+      "end": 633.48,
+      "speaker": "Presenter",
+      "text": "Like, no! You want to keep it hooked in. And so when you hook someone, you have to keep them hooked on.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 633.48,
+      "end": 642.56,
+      "speaker": "Presenter",
+      "text": "And that's what this video is doing a great job of so far. Again, we're only like seven- we only watched the first seven seconds, but that is the whole purpose of the hook, is to keep someone hooked in.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 643.02,
+      "end": 651.16,
+      "speaker": "Presenter",
+      "text": "A lot of you guys think a hook is like just getting someone to stop their scroll. That's the same as like, okay, you get a fish on when you're fishing, but then it just falls right off two seconds later.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 651.34,
+      "end": 656.62,
+      "speaker": "Presenter",
+      "text": "Like some of you guys will, I don't know, do some crazy transitions where it's like some, I don't know, dude is like running around",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 656.62,
+      "end": 664.72,
+      "speaker": "Presenter",
+      "text": "like shirtless or something, and it's like, yeah, that's going to stop the scroll, but it might not keep me watching, okay? So it's very, very important that you understand that hooks are about",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 664.72,
+      "end": 667.84,
+      "speaker": "Presenter",
+      "text": "keeping people hooked in, not just hooking them in general, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 668.5,
+      "end": 673.04,
+      "speaker": "Presenter",
+      "text": "So let's go back, I promise I'm going to finish this point here, but the hollow fiber revolution that's making",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 673.2,
+      "end": 678.2,
+      "speaker": "Played audio",
+      "text": "-tion that's making cardiologists trash their own compression socks happened completely by acci-",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 678.68,
+      "end": 683.14,
+      "speaker": "Presenter",
+      "text": "All right. Yeah, this is just like copywriting masterclass. So, these cardiologists,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 683.74,
+      "end": 685.46,
+      "speaker": "Presenter",
+      "text": "because of this hollow fiber,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 686.3,
+      "end": 690.3,
+      "speaker": "Presenter",
+      "text": "it's making these professionals, these authorities, trash",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 690.3,
+      "end": 693.12,
+      "speaker": "Presenter",
+      "text": "their own compression socks.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 695.5,
+      "end": 699.34,
+      "speaker": "Presenter",
+      "text": "Well, if someone who's an authority, a cardiologist,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 699.34,
+      "end": 704.68,
+      "speaker": "Presenter",
+      "text": "is basically saying, yeah, our own socks aren't as good because of this new fiber,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 705.48,
+      "end": 707.88,
+      "speaker": "Presenter",
+      "text": "what do you think that does to the customer?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 709.0,
+      "end": 711.76,
+      "speaker": "Presenter",
+      "text": "Well, shit, I guess it's really good.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 711.76,
+      "end": 720.18,
+      "speaker": "Presenter",
+      "text": "And did we say hall- like, is it anywhere in here? Does it say that hollow fiber is the best fiber for compression socks? No.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 720.22,
+      "end": 727.22,
+      "speaker": "Presenter",
+      "text": "It does not say that anywhere. But how Again, this is when we talk about, big shout-out to Kyle again, and Copywriting 101.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 727.56,
+      "end": 734.9,
+      "speaker": "Presenter",
+      "text": "When you're reading the copy, when I'm reading this directly, it's like the hollow fiber revolution that's making cardiologists trash, you know, their own compression socks.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 734.9,
+      "end": 737.76,
+      "speaker": "Presenter",
+      "text": "That's what's That's what's written.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 738.26,
+      "end": 742.0,
+      "speaker": "Presenter",
+      "text": "What is actually being communicated is the fact that this mechanism",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 742.0,
+      "end": 747.9,
+      "speaker": "Presenter",
+      "text": "is so good that authorities are saying, yeah, it's actually that good.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 750.2,
+      "end": 753.66,
+      "speaker": "Presenter",
+      "text": "That's what's being said. That's what's actually being said, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 754.5,
+      "end": 759.86,
+      "speaker": "Presenter",
+      "text": "And now I love this little touch here. This is great. It's It's great copywriting. So, \"trash their own compression socks-\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 759.86,
+      "end": 762.1,
+      "speaker": "Played audio",
+      "text": "-pression socks happened completely by acci-",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 762.42,
+      "end": 767.36,
+      "speaker": "Presenter",
+      "text": "-happened completely by accident. Now, the wording here is a little bit awkward, if you ask me. It's like happened completely by accident, but",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 767.36,
+      "end": 772.54,
+      "speaker": "Presenter",
+      "text": "it's like, again, curiosity, slippery slope.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 772.54,
+      "end": 774.78,
+      "speaker": "Presenter",
+      "text": "Well, how did it happen by accident?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 776.56,
+      "end": 779.3,
+      "speaker": "Presenter",
+      "text": "See? It's like another hook, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 779.9,
+      "end": 784.66,
+      "speaker": "Presenter",
+      "text": "Well, I just watched six seconds. Okay, hollow fiber revolution, what is that?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 785.36,
+      "end": 790.28,
+      "speaker": "Presenter",
+      "text": "It's making cardiologists trash their own compression socks. How? Well, it happened by accident.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 792.32,
+      "end": 793.64,
+      "speaker": "Presenter",
+      "text": "Jeez, well, what happened?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 794.66,
+      "end": 797.58,
+      "speaker": "Presenter",
+      "text": "And what Guess what? Oh, now I've got to keep watching. So let's keep watching.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 797.74,
+      "end": 801.88,
+      "speaker": "Played audio",
+      "text": "Accident. So why do most compression socks feel so uncomfortable? It turns out-",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 801.88,
+      "end": 806.18,
+      "speaker": "Presenter",
+      "text": "All right. Look at this. \"Why do most compression socks feel so uncomfortable?\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 807.22,
+      "end": 808.44,
+      "speaker": "Presenter",
+      "text": "You think that's a pain point?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 809.1,
+      "end": 815.4,
+      "speaker": "Presenter",
+      "text": "Let's see. Why are compression socks so uncomfortable, Reddit?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 815.86,
+      "end": 817.6,
+      "speaker": "Presenter",
+      "text": "Well, I don't need to do research for this brand.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 818.1,
+      "end": 821.58,
+      "speaker": "Presenter",
+      "text": "Look at this. Does anyone else hate the way compression socks feel?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 822.02,
+      "end": 823.1,
+      "speaker": "Presenter",
+      "text": "Look at this, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 824.24,
+      "end": 826.0,
+      "speaker": "Presenter",
+      "text": "Yeah, I definitely hate the synthetic fabric.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 827.76,
+      "end": 830.94,
+      "speaker": "Presenter",
+      "text": "Understanding the customer, you think? Yeah, probably.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 831.74,
+      "end": 837.86,
+      "speaker": "Presenter",
+      "text": "Okay? Now, we did kind of go away, completely by accident, now we're kind of into this storytelling, and guess what, guys?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 838.14,
+      "end": 845.3,
+      "speaker": "Presenter",
+      "text": "We haven't mentioned anything to do with our product yet. They assume that we're talking about compression socks, so it's bringing in the right audience,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 845.66,
+      "end": 850.94,
+      "speaker": "Presenter",
+      "text": "and it's we're assuming that there's something to do with hollow fiber, but we still haven't got to the product yet, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 851.88,
+      "end": 857.66,
+      "speaker": "Presenter",
+      "text": "And, again, the most important thing for you guys to understand here is like, this is how you keep attention,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 858.44,
+      "end": 863.18,
+      "speaker": "Presenter",
+      "text": "get attention to then earn the right to show your understanding of the customer, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 863.24,
+      "end": 867.84,
+      "speaker": "Presenter",
+      "text": "So this hook hooks someone in, and has leverages authorities, which is fantastic,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 868.04,
+      "end": 873.36,
+      "speaker": "Presenter",
+      "text": "and then we get to the point where now we're starting to like show our understanding of the customer, okay? So here we go.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 873.54,
+      "end": 878.3,
+      "speaker": "Played audio",
+      "text": "And so why do most compression socks feel so uncomfortable? It turns out we've been using the wrong materials.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 879.1,
+      "end": 880.94,
+      "speaker": "Presenter",
+      "text": "Okay. Guess what?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 882.08,
+      "end": 884.12,
+      "speaker": "Presenter",
+      "text": "Materials. Materials are the problem.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 884.76,
+      "end": 889.64,
+      "speaker": "Presenter",
+      "text": "It has nothing to do And what you'll notice about this is like, we're not talking about some other brand.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 890.56,
+      "end": 899.58,
+      "speaker": "Presenter",
+      "text": "We're not saying that like, you know, these are like this specific company over here, or it's like or nobody makes them the right way, or no one makes them as good as we do.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 899.88,
+      "end": 905.02,
+      "speaker": "Presenter",
+      "text": "We're simply stating that we're using the wrong materials. That's why they're so uncomfortable.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 905.02,
+      "end": 910.08,
+      "speaker": "Presenter",
+      "text": "And you're going to see the proxy is going to get introduced fairly shortly here, but it's like, okay, well, I guess that makes sense.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 910.72,
+      "end": 918.1,
+      "speaker": "Presenter",
+      "text": "And guess what? You know what this does? This ties back to the original new mechanism of the hollow fiber, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 918.78,
+      "end": 923.8,
+      "speaker": "Presenter",
+      "text": "We're using the wrong materials, it's like, oh, must be the hollow fiber that we need to use, then.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 924.7,
+      "end": 925.86,
+      "speaker": "Presenter",
+      "text": "Let's see what happens next.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 926.34,
+      "end": 933.1,
+      "speaker": "Played audio",
+      "text": "Hollow compression socks use alpaca's naturally hollow fibers, what compression has been missing all along. Unlike-",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 933.1,
+      "end": 938.44,
+      "speaker": "Presenter",
+      "text": "All right. This is, again, just a master class here. I need a sip of water here, because I'm running I'm getting dehydrated.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 939.0,
+      "end": 940.54,
+      "speaker": "Presenter",
+      "text": "All right. So let's break down this line again.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 940.62,
+      "end": 943.52,
+      "speaker": "Played audio",
+      "text": "-terials. Hollow compression socks use alpaca's na-",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 943.78,
+      "end": 949.04,
+      "speaker": "Presenter",
+      "text": "All right. So here we go. Alpaca's natural- naturally hollow fibers.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 950.04,
+      "end": 954.86,
+      "speaker": "Presenter",
+      "text": "I love this because their name is obviously Hollow alpaca socks, but this makes sense.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 955.48,
+      "end": 958.18,
+      "speaker": "Presenter",
+      "text": "Again, we're going back to what was the mechanism? The hollow fiber.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 958.36,
+      "end": 966.32,
+      "speaker": "Presenter",
+      "text": "Well, guess what? This uses this new mechanism, this new material of alpaca's hollow fibers, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 967.28,
+      "end": 969.84,
+      "speaker": "Presenter",
+      "text": "Oh, that would make sense. But let's see what we do next.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 970.16,
+      "end": 973.12,
+      "speaker": "Played audio",
+      "text": "-hollow fibers, what compression has been missing all along.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 973.12,
+      "end": 978.44,
+      "speaker": "Presenter",
+      "text": "That's what compression has been missing all along. Quite interesting, okay? Let's keep watching.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 978.44,
+      "end": 980.3,
+      "speaker": "Played audio",
+      "text": "Unlike synthetic fibers that-",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 980.3,
+      "end": 984.68,
+      "speaker": "Presenter",
+      "text": "I love this. \"Unlike synthetic fibers that trap heat.\" Let's see if we can find this.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 984.68,
+      "end": 990.46,
+      "speaker": "Presenter",
+      "text": "Silicone, I think somebody talks Yeah, I hate the synthetic fabric and only use them when it's a really bad day.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 990.46,
+      "end": 995.34,
+      "speaker": "Presenter",
+      "text": "Look at that. So, again, look at this. Overheat.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 995.34,
+      "end": 998.64,
+      "speaker": "Presenter",
+      "text": "Guess what? Do you think this Do you think they did their research?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 999.6,
+      "end": 1002.26,
+      "speaker": "Presenter",
+      "text": "Yeah, probably, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1003.0,
+      "end": 1006.4,
+      "speaker": "Presenter",
+      "text": "Again, this is just one Reddit thread as an example, but point is, is like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1006.64,
+      "end": 1009.76,
+      "speaker": "Presenter",
+      "text": "look at these upvotes. I hate synthetic, yeah, can't use them, they make me overheat.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1010.96,
+      "end": 1011.92,
+      "speaker": "Presenter",
+      "text": "You think they understand their customer?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1012.54,
+      "end": 1017.9,
+      "speaker": "Played audio",
+      "text": "Unlike synthetic fibers that trap heat, Alpaca's hollow core actively regulates temperature while-",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1018.48,
+      "end": 1018.86,
+      "speaker": "Presenter",
+      "text": "Look at that.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1020.46,
+      "end": 1022.38,
+      "speaker": "Presenter",
+      "text": "Hollow alpaca, what does it say?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1023.06,
+      "end": 1030.42,
+      "speaker": "Presenter",
+      "text": "Alpaca's hollow core actively regulates temperature while maintaining perfect pressure.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 215,
+      "start": 1031.82,
+      "end": 1034.12,
+      "speaker": "Presenter",
+      "text": "Well, that's a job. Here we go.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 216,
+      "start": 1034.38,
+      "end": 1039.26,
+      "speaker": "Played audio",
+      "text": "pressure. Nature engineered the perfect compression fiber. We just figured out how to use it. The sci-",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1039.26,
+      "end": 1046.04,
+      "speaker": "Presenter",
+      "text": "I love that, right? We Hey, it's not even us. It's like nature already did this. We just figured out how to use it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1047.02,
+      "end": 1051.96,
+      "speaker": "Presenter",
+      "text": "And look at this clip, guys. Like this is B-roll like stock footage 101, like this is nothing crazy, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1052.58,
+      "end": 1057.42,
+      "speaker": "Presenter",
+      "text": "And at the end of the day, it's like, \"Nature engineered the perfect fiber.\" So it's like, \"Hey, we're not even the smart ones.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1057.58,
+      "end": 1063.28,
+      "speaker": "Presenter",
+      "text": "It's all nature.\" Right, they're not even taking credibility. They're not They're still not saying like, \"Hey, we're the best.\" It's like, \"We just figured out how to use it.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1063.28,
+      "end": 1068.66,
+      "speaker": "Played audio",
+      "text": "We just figured out how to use it. The science of alpaca, the comfort of clouds. Try hollow compression so-",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1069.14,
+      "end": 1073.22,
+      "speaker": "Presenter",
+      "text": "I love this little benefit here, right? \"The science of alpaca, the comfort of clouds.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1073.98,
+      "end": 1079.8,
+      "speaker": "Played audio",
+      "text": "Try hollow compression socks and discover what compression should have always felt like. The hollow fiber revolu-",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1080.44,
+      "end": 1083.08,
+      "speaker": "Presenter",
+      "text": "I love that. \"Discover what compression should have always felt like.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1083.52,
+      "end": 1088.06,
+      "speaker": "Presenter",
+      "text": "This makes them It's like, gosh, like again, this is very sensory, tapping into like, \"Well, now I want to know,\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1088.4,
+      "end": 1091.96,
+      "speaker": "Presenter",
+      "text": "right? And that's why I love this CTA, like, \"Well, now I want to know what it feels like.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1092.18,
+      "end": 1097.28,
+      "speaker": "Presenter",
+      "text": "And now actually, even watching this ad, I want to kind of go back and like re-optimize the the video that I wrote. But my point is, is like",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 228,
+      "start": 1097.96,
+      "end": 1102.66,
+      "speaker": "Presenter",
+      "text": "look at this like masterclass of a video, and breaking it down.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1102.86,
+      "end": 1107.9,
+      "speaker": "Presenter",
+      "text": "You'll notice I barely mentioned anything about the clips, I barely mentioned anything about the voiceover,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1108.18,
+      "end": 1110.78,
+      "speaker": "Presenter",
+      "text": "I barely mentioned anything about how the titles are on the screen.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1111.66,
+      "end": 1119.18,
+      "speaker": "Presenter",
+      "text": "I just went through this entire thing as a customer, and and then used my marketer's brain to break it apart to understand why this is working,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1119.92,
+      "end": 1120.1,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1120.86,
+      "end": 1124.58,
+      "speaker": "Presenter",
+      "text": "And so, now, from here, I have so many ideas for this brand specifically,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1124.84,
+      "end": 1127.64,
+      "speaker": "Presenter",
+      "text": "but it's like, okay, well now, how can I apply this to my own brand?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1128.28,
+      "end": 1132.56,
+      "speaker": "Presenter",
+      "text": "It's taking everything that I just mentioned I'm not going to go back and repeat it because the video is going to be too long, but it's like",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1132.56,
+      "end": 1135.56,
+      "speaker": "Presenter",
+      "text": "taking everything that I just mentioned, all these things,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1136.1,
+      "end": 1138.4,
+      "speaker": "Presenter",
+      "text": "you know, this new mechanism, this authority,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1138.88,
+      "end": 1145.5,
+      "speaker": "Presenter",
+      "text": "this idea of like how there's this new material or it's like they they used the wrong material, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1145.74,
+      "end": 1148.72,
+      "speaker": "Presenter",
+      "text": "I show my understanding of the customer, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1148.92,
+      "end": 1155.48,
+      "speaker": "Presenter",
+      "text": "And I talk about how this specific material has this specific mechanism of hollow fibers,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1155.48,
+      "end": 1160.5,
+      "speaker": "Presenter",
+      "text": "right? And it's what compression's been missing. It has this thing that regulates temperature,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1161.16,
+      "end": 1163.44,
+      "speaker": "Presenter",
+      "text": "and you know, nature basically engineered it,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1163.7,
+      "end": 1166.78,
+      "speaker": "Presenter",
+      "text": "right? And so it's like, okay, well, now that I'm breaking all this stuff down,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1166.94,
+      "end": 1170.4,
+      "speaker": "Presenter",
+      "text": "how can I take some of this learnings, some of these learnings,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1170.4,
+      "end": 1175.7,
+      "speaker": "Presenter",
+      "text": "and try to write them all down? And again, just so you guys know, like I'm talking them out loud to you guys, but I would be writing all these down,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1175.7,
+      "end": 1179.68,
+      "speaker": "Presenter",
+      "text": "and then I would be trying to figure out, okay, where can I plug and play this into my brand?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1179.68,
+      "end": 1183.6,
+      "speaker": "Presenter",
+      "text": "And what you can do, as well, is everything that I just said,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1183.6,
+      "end": 1188.5,
+      "speaker": "Presenter",
+      "text": "you could take this, you could give it to Claude and say, \"Hey, here's every reason why this is working.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1188.9,
+      "end": 1193.08,
+      "speaker": "Presenter",
+      "text": "Can you apply this to my brand? How could we apply this to to my brand specifically?\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1193.08,
+      "end": 1195.8,
+      "speaker": "Presenter",
+      "text": "And if it has the information around your product or everything else,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1195.8,
+      "end": 1196.74,
+      "speaker": "Presenter",
+      "text": "well, guess what?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1196.8,
+      "end": 1199.84,
+      "speaker": "Presenter",
+      "text": "Now you can give Claude your learnings, be like, \"This is why this is working.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1200.06,
+      "end": 1204.1,
+      "speaker": "Presenter",
+      "text": "Now, I've given this to you guys on the house, but my point is, is like this",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 254,
+      "start": 1204.1,
+      "end": 1209.68,
+      "speaker": "Presenter",
+      "text": "is exactly like when you see a winning ad, this is how deep you want to go, and this is just one take,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 255,
+      "start": 1209.9,
+      "end": 1214.18,
+      "speaker": "Presenter",
+      "text": "and this is just me doing it by myself. I would have my as many team members as possible come to review this.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1214.64,
+      "end": 1220.04,
+      "speaker": "Presenter",
+      "text": "I'd I'd come back to this like maybe a couple like in 2 days from now and review it again. I'd review what learnings I made and then come back,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1220.04,
+      "end": 1223.84,
+      "speaker": "Presenter",
+      "text": "because I probably missed some stuff. There's maybe something in here that I that I miss, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1224.3,
+      "end": 1226.16,
+      "speaker": "Presenter",
+      "text": "Completely by accident, maybe here it's like,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1226.54,
+      "end": 1228.9,
+      "speaker": "Presenter",
+      "text": "well, I don't really answer how this",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 260,
+      "start": 1228.9,
+      "end": 1235.52,
+      "speaker": "Presenter",
+      "text": "how this was an accident, right? Because here they're saying, throw cardiolo- cardiologists trash their socks,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1235.52,
+      "end": 1236.82,
+      "speaker": "Presenter",
+      "text": "completely by accident.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 262,
+      "start": 1237.54,
+      "end": 1242.08,
+      "speaker": "Presenter",
+      "text": "Well, it's like, what what is the actual accident? Like I want to know how they accidentally stumbled upon this. So, maybe,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 263,
+      "start": 1242.08,
+      "end": 1247.44,
+      "speaker": "Presenter",
+      "text": "I would do a variation or an iteration of this ad where I explain a little bit further, where it's like, until one day,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 264,
+      "start": 1247.44,
+      "end": 1252.14,
+      "speaker": "Presenter",
+      "text": "you know, a farmer, you know, didn't have any wool socks left,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 265,
+      "start": 1252.18,
+      "end": 1256.7,
+      "speaker": "Presenter",
+      "text": "or like did like had already shaved sheep's, but it had an alpaca, and decided",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 266,
+      "start": 1256.7,
+      "end": 1263.06,
+      "speaker": "Presenter",
+      "text": "like, \"Hey, I need socks. Like I got to I I got to wear some kind of socks because mine are all dirty.\" And, you know, that's a made-up story, but my point is,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 267,
+      "start": 1263.12,
+      "end": 1269.3,
+      "speaker": "Presenter",
+      "text": "is like maybe I can talk about how that how how that's how it came about, right? And I want to actually maybe complete this open loop around",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 268,
+      "start": 1269.3,
+      "end": 1273.1,
+      "speaker": "Presenter",
+      "text": "how it was an accident. I don't really see that being done here, maybe I missed that,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 269,
+      "start": 1273.2,
+      "end": 1277.2,
+      "speaker": "Presenter",
+      "text": "but my point is, is like that is how you can complete learnings and that's how you can try to even make ads better,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 270,
+      "start": 1277.86,
+      "end": 1281.02,
+      "speaker": "Presenter",
+      "text": "especially Now could that make it better or worse? I'm not sure, but at the end of the day,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 271,
+      "start": 1281.22,
+      "end": 1287.38,
+      "speaker": "Presenter",
+      "text": "that's how to process learnings on winning ads, okay? And so, again, the most important part here is to really study the hook,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 272,
+      "start": 1287.38,
+      "end": 1289.5,
+      "speaker": "Presenter",
+      "text": "really understand why someone interested in watching,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 273,
+      "start": 1289.5,
+      "end": 1293.56,
+      "speaker": "Presenter",
+      "text": "and then from there, study the whole to figure out how is this closing someone to get them in the door.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 274,
+      "start": 1293.76,
+      "end": 1297.9,
+      "speaker": "Presenter",
+      "text": "Even even that very last line, I don't know how many people see it, but I love that, you know, this is you know,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 275,
+      "start": 1298.4,
+      "end": 1304.56,
+      "speaker": "Presenter",
+      "text": "try a a hollow socks to figure out how compression socks should have felt, okay? So,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 276,
+      "start": 1304.56,
+      "end": 1309.94,
+      "speaker": "Presenter",
+      "text": "hopefully, this gives you guys an idea of like how to process learnings on winning ads, and I get excited about this. I'm like, \"Holy shit, I've even got a bunch of ideas now for",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 277,
+      "start": 1309.94,
+      "end": 1312.68,
+      "speaker": "Presenter",
+      "text": "our brands internally and stuff like that too.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 278,
+      "start": 1312.68,
+      "end": 1317.66,
+      "speaker": "Presenter",
+      "text": "But I wanted to share this video with you guys to really help you understand like how deep you can go, how to process learnings the right way,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 279,
+      "start": 1317.66,
+      "end": 1324.22,
+      "speaker": "Presenter",
+      "text": "and then from there, how you can then take all of your learnings, give it to Claude, ask it to apply it to your brand, and then use that to make better ads,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 280,
+      "start": 1324.22,
+      "end": 1327.6,
+      "speaker": "Presenter",
+      "text": "okay? And again, we're not stealing this ad, we're stealing",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 281,
+      "start": 1327.6,
+      "end": 1331.38,
+      "speaker": "Presenter",
+      "text": "the strategies that were used in this ad to apply to our own.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 282,
+      "start": 1331.38,
+      "end": 1335.1,
+      "speaker": "Presenter",
+      "text": "And for the brand that I'm working, we're not even in the same niche,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 283,
+      "start": 1336.04,
+      "end": 1341.72,
+      "speaker": "Presenter",
+      "text": "right? But look at how much I just learned from this ad, and from this mini marketing masterclass, to apply to my brand.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 284,
+      "start": 1342.46,
+      "end": 1344.7,
+      "speaker": "Presenter",
+      "text": "Pretty crazy. Okay, hope you guys enjoyed.",
+      "chunk": 3,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 69.7,
+      "end": 70.9,
+      "label": "laughter"
+    },
+    {
+      "start": 171.0,
+      "end": 172.1,
+      "label": "laughter"
+    },
+    {
+      "start": 221.8,
+      "end": 223.0,
+      "label": "laughter"
+    },
+    {
+      "start": 233.6,
+      "end": 234.9,
+      "label": "laughter"
+    },
+    {
+      "start": 271.2,
+      "end": 277.8,
+      "label": "advertisement audio"
+    },
+    {
+      "start": 284.9,
+      "end": 286.3,
+      "label": "laughter"
+    },
+    {
+      "start": 300.2,
+      "end": 302.1,
+      "label": "advertisement audio"
+    },
+    {
+      "start": 405.0,
+      "end": 406.39,
+      "label": "laughter"
+    },
+    {
+      "start": 431.69,
+      "end": 433.19,
+      "label": "music"
+    },
+    {
+      "start": 436.39,
+      "end": 437.0,
+      "label": "cough"
+    },
+    {
+      "start": 466.5,
+      "end": 468.89,
+      "label": "music"
+    },
+    {
+      "start": 471.8,
+      "end": 474.3,
+      "label": "music"
+    },
+    {
+      "start": 627.39,
+      "end": 628.6,
+      "label": "laughter"
+    },
+    {
+      "start": 657.0,
+      "end": 658.19,
+      "label": "laughter"
+    },
+    {
+      "start": 711.86,
+      "end": 713.66,
+      "label": "laughter"
+    },
+    {
+      "start": 924.26,
+      "end": 925.36,
+      "label": "laughter"
+    },
+    {
+      "start": 998.16,
+      "end": 1000.26,
+      "label": "laughter"
+    },
+    {
+      "start": 1049.43,
+      "end": 1050.73,
+      "label": "chuckle"
+    },
+    {
+      "start": 1310.33,
+      "end": 1311.33,
+      "label": "laughter"
+    },
+    {
+      "start": 1334.93,
+      "end": 1336.43,
+      "label": "laughter"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "lesson": {
+    "num": 74,
+    "id": "074-optional-verify-your-business-manager",
+    "title": "(Optional) Verify your Business Manager",
+    "video": "74. (Optional) Verify your Business Manager Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T19:30:43-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "1152x720 (native)",
+  "candidates_reviewed": 18,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 34.9,
+      "time": "00:00:35",
+      "frame": "frames/074_00-00-35.png",
+      "category": "software_demo",
+      "title": "Meta Business Settings - Security Center",
+      "on_screen": "Meta Business settings > Security Center.\nSections visible:\n- Two-Factor Authentication (Who's required: Admins only; 0 out of 4 people need to turn on two-factor authentication)\n- Backup admin added (Add)\n- Trusted email settings (Turn on)\nLeft sidebar navigation: Users, Accounts (Pages, Ad accounts, Business asset groups, Apps, Instagram accounts, WhatsApp Accounts), Data Sources, Brand Safety, Registrations, Integrations, Payment Methods, Security Center.",
+      "not_in_transcript": "Business account name: 'Media A Easy'. Business ID: 152562646477468. URL: business.facebook.com/settings/security?business_id=152562646477468.",
+      "legibility": "clear",
+      "candidate_id": "F002",
+      "drive_url": "https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk"
+    },
+    {
+      "t": 39.9,
+      "time": "00:00:40",
+      "frame": "frames/074_00-00-40.png",
+      "category": "software_demo",
+      "title": "Meta Business Settings - Create App ID",
+      "on_screen": "Meta Business settings > Accounts > Apps.\nMenu options under 'Add' button:\n- Connect an app ID\n- Request Access to an App ID\n- Create a new app ID (selected)",
+      "not_in_transcript": "'Media A Easy doesn't have any apps yet.' URL: business.facebook.com/settings/apps?business_id=152562646477468",
+      "legibility": "clear",
+      "candidate_id": "F003",
+      "drive_url": "https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk"
+    },
+    {
+      "t": 54.9,
+      "time": "00:00:55",
+      "frame": "frames/074_00-00-55.png",
+      "category": "software_demo",
+      "title": "Meta for Developers - Create an App Basic Info",
+      "on_screen": "Meta for Developers > Create an App > Provide basic information:\n- Display name: ForVerif (8/30)\n- App contact email: spencer@easymedia.com\n- Business Account - Optional: Media A Easy\n- Buttons: Previous, Create app",
+      "not_in_transcript": "URL: developers.facebook.com/apps/create/?app_creation_source=business_manager&business_id=152562646477468",
+      "legibility": "clear",
+      "candidate_id": "F004",
+      "drive_url": "https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk"
+    },
+    {
+      "t": 134.9,
+      "time": "00:02:15",
+      "frame": "frames/074_00-02-15.png",
+      "category": "software_demo",
+      "title": "Meta for Developers - App Basic Settings",
+      "on_screen": "Meta for Developers > Settings > Basic.\nFields:\n- App ID: 1863604487324412\n- App secret: ********* (Show)\n- Display name: ForVerif\n- Namespace: [empty]\n- App domains: [empty]\n- Contact email: spencer@easymedia.com\n- Privacy Policy URL: https://www.google.com/\n- Terms of Service URL: https://www.google.com/ [entering text]\n- User data deletion: Data deletion instructions URL\n- App icon (1024 x 1024)\n- Category: Games / Sports\n- Verifications > Business verification: Media A Easy (ID: 152562646477468, Unverified, Start Verification disabled/grayed)",
+      "not_in_transcript": "App ID: 1863604487324412, App type: Instant Games, status: In development.",
+      "legibility": "clear",
+      "candidate_id": "F006",
+      "drive_url": "https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk"
+    },
+    {
+      "t": 139.9,
+      "time": "00:02:20",
+      "frame": "frames/074_00-02-20.png",
+      "category": "software_demo",
+      "title": "Upload App Icon Modal",
+      "on_screen": "Modal: Upload App icon (1024 x 1024)\nText: 'You can upload a JPG, GIF, or PNG file. The size of the image must be between 512 x 512 and 1024 x 1024 pixels. File size limit 5 MB.'\nButton: Choose file, Cancel",
+      "not_in_transcript": "Detailed modal text about size ranges: between 512 x 512 and 1024 x 1024 pixels, limit 5 MB.",
+      "legibility": "clear",
+      "candidate_id": "F007",
+      "drive_url": "https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk"
+    },
+    {
+      "t": 189.9,
+      "time": "00:03:10",
+      "frame": "frames/074_00-03-10.png",
+      "category": "software_demo",
+      "title": "Meta for Developers - Verification Section with Start Verification Button",
+      "on_screen": "Meta for Developers > App Dashboard > Settings > Basic.\nUnder 'Verifications' -> 'Business verification':\n- Media A Easy\n- ID: 152562646477468\n- Unverified\n- Buttons: 'Start Verification', 'Remove'\n'Individual verification':\n- Verified: You're a verified admin on this app.",
+      "not_in_transcript": "Business ID 152562646477468; 'Individual verification' status marked as Verified.",
+      "legibility": "clear",
+      "candidate_id": "F013",
+      "drive_url": "https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk"
+    },
+    {
+      "t": 204.9,
+      "time": "00:03:25",
+      "frame": "frames/074_00-03-25.png",
+      "category": "software_demo",
+      "title": "Meta Business Settings Security Center - Verification Enabled",
+      "on_screen": "Security Center:\n- Two-Factor Authentication: Who's required to turn on two-factor authentication? (Admins only), 0 out of 4 people need to turn on two-factor authentication.\n- Verification for Media A Easy: 'To access certain Meta products, your organization must be verified.'\n- Status: 'Eligible for verification'\n- Button: [Start verification]\n- Backup admin added: You have at least one other admin...\n- Trusted email settings: Turn on",
+      "not_in_transcript": "'Eligible for verification' status label, '0 out of 4 people need to turn on two-factor authentication'.",
+      "legibility": "clear",
+      "candidate_id": "F016",
+      "drive_url": "https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk"
+    },
+    {
+      "t": 209.9,
+      "time": "00:03:30",
+      "frame": "frames/074_00-03-30.png",
+      "category": "software_demo",
+      "title": "Select Country Modal in Verification Flow",
+      "on_screen": "Modal dialog: 'Select a country'\n'Where is your organization located?'\nDropdown: Country - Canada\nButtons: [Back] [Next]",
+      "not_in_transcript": "Default country shown is 'Canada'.",
+      "legibility": "clear",
+      "candidate_id": "F017",
+      "drive_url": "https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk"
+    },
+    {
+      "t": 289.9,
+      "time": "00:04:50",
+      "frame": "frames/074_00-04-50.png",
+      "category": "software_demo",
+      "title": "Meta Business Info - Verified Business Details Example",
+      "on_screen": "Business settings > Business info:\n- Business Information: Vinca, Business Manager ID: 151961365477969\n- Business details: Legal business name: DIMOVI INC, Address: 1800 E 4TH ST UNIT 173 AUSTIN, TX 78702 United States, Business phone: (512) 410-8775, Website: https://www.VincaUSA.com/, Tax ID: 27-1751344\n- Business verification status: Verified (Aug 8, 2022) with [View details] link\n- Business History: Export button\n- Ad Account Creation Limit: 10\n- Business options: Two-factor authentication: No one",
+      "not_in_transcript": "Business Manager ID 151961365477969, Legal name DIMOVI INC, Austin address, phone number, website VincaUSA.com, Tax ID, exact verification date Aug 8, 2022, ad account creation limit 10.",
+      "legibility": "clear",
+      "candidate_id": "F018",
+      "drive_url": "https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk"
+    }
+  ]
+}

@@ -1,0 +1,1031 @@
+1
+00:00:00,000 --> 00:00:07,340
+All right, we are jumping straight into this video because I want to show you exactly how we took an ad account from $1,000
+
+2
+00:00:08,180 --> 00:00:16,320
+a week in spend, getting a 1.18x return on ad spend, to the following week,
+
+3
+00:00:16,320 --> 00:00:28,880
+as a result of launching a single landing page, maintaining that same spend, but going up to a 3.16x return on ad spend and as you could see, $4,000 in conversion value,
+
+4
+00:00:28,880 --> 00:00:35,720
+to the next week, then getting up to $2,000 in spend, so essentially doubling ad spend,
+
+5
+00:00:35,720 --> 00:00:48,920
+at a 3.59 return on ad spend. And now, as you can see, so far this week, actually still at that scale and as you can see, within the last one, two, three, four, five days, so there's still two, two more days left,
+
+6
+00:00:49,460 --> 00:00:55,200
+we have essentially doubled our ad spend and we have been able to maintain above a 3x
+
+7
+00:00:55,200 --> 00:01:03,980
+return on ad spend. So, I'm going to show you guys exactly how we did this and I want you guys to understand- I'm going to cover a little bit of the media buying stuff here as well,
+
+8
+00:01:04,120 --> 00:01:13,620
+uh, but this is why landing pages and why offers, specifically, are so crucial for your business, okay?
+
+9
+00:01:14,000 --> 00:01:20,560
+Because they can literally double your ad spend while also tripling your return on ad spend,
+
+10
+00:01:20,560 --> 00:01:27,560
+okay? So what did we do? Well, to show you guys what we actually did, we actually have two campaigns here. This is actually a
+
+11
+00:01:27,560 --> 00:01:36,540
+separate product, for those of you that are wondering. It is a indeed a separate product. So I'm going to go ahead and just filter by row selection here.
+
+12
+00:01:36,540 --> 00:01:42,440
+And as you can see, we have a LP testing campaign and we have a DCT campaign.
+
+13
+00:01:42,440 --> 00:01:50,540
+Now, the media buyer that actually launched this campaign specifically, uh, followed kind of the old strategy of how we do things.
+
+14
+00:01:50,860 --> 00:01:59,460
+Um, but we actually have a new strategy that we just launched the landing page or offer tests right inside of our main campaign. Now, with that said, it still works.
+
+15
+00:01:59,580 --> 00:02:07,280
+And this is the point of why like media buying is not as important. We did launch a second campaign and it did allow us to actually scale pretty aggressively,
+
+16
+00:02:07,680 --> 00:02:13,560
+but the point is is we could have also done this in the same campaign and it still has the same effect, okay?
+
+17
+00:02:13,560 --> 00:02:23,300
+And so essentially what we did is we actually launched via CBO two specific LPs. We had one that was V1 and one that was a V2.
+
+18
+00:02:23,300 --> 00:02:33,220
+And what ended up happening is, if we actually go to the maximum here, you could see that the V2 LP actually got, uh, way more spend and actually performed a lot better.
+
+19
+00:02:33,220 --> 00:02:44,880
+And as you can see, this so far is at a 4.37x return on ad spend with the exact same ads that were running at, you know, a 1.18x return on ad spend, okay?
+
+20
+00:02:45,260 --> 00:02:54,340
+And to actually show you this, we're going to go ahead and we're going to go into this week, where you can see this was the week where this was not running, and I want to show you the ads that we had running in here.
+
+21
+00:02:54,420 --> 00:03:01,400
+So if we filter by this, you can see some of these are turned off, but we have IG Reel batch 6, 7 and 8 here, okay?
+
+22
+00:03:01,500 --> 00:03:11,840
+And if we go in to the next week, where we had then launched this campaign, I want you to see that inside of here, we actually have, again, batch number 6, 7 and 8.
+
+23
+00:03:11,980 --> 00:03:21,020
+And if we take a look at this, you can see here's batch number 6 right here, and then here's batch 1, and here's batch 4. And so if we actually go back, just to confirm, uh, those ads were also
+
+24
+00:03:21,020 --> 00:03:29,060
+active during this period. We can go back here and you can see that the total amount of spend, uh, retest, there's batch number 1 right there.
+
+25
+00:03:29,340 --> 00:03:37,100
+And batch number 4 was actually down here, so this one was actually turned off, I believe. It was uh spending during the previous week. So you can see batch 4 was right there.
+
+26
+00:03:37,100 --> 00:03:44,080
+So these were all ads that were, in quotations, not working, right? Batch 6, batch batch 4, batch 1, they were not working.
+
+27
+00:03:44,400 --> 00:03:49,640
+However, with this new LP, all of a sudden, just like magic, they started working, okay?
+
+28
+00:03:50,180 --> 00:03:58,800
+And so what's amazing about this is that we just did two very, very simple things. So the first thing that we did, and this is the actual brand,
+
+29
+00:03:58,800 --> 00:04:10,820
+and before you guys are like, "Oh, let's- I need to go and sell this product." This is- it's- it's a patented product, so I wouldn't even recommend trying it, and if you guys want, you can get DMCA'd and likely sued by these guys. I definitely wouldn't do it. So,
+
+30
+00:04:10,820 --> 00:04:16,960
+with that said, inside of here, you can see here is the default page that we were sending to, right?
+
+31
+00:04:17,420 --> 00:04:26,480
+RatVac Motion-Sensor Rodent Catching System. You can see there's some images here. You know, we have our three little check points, limited stock call-out, Add to Cart, right? They got all this stuff here.
+
+32
+00:04:26,720 --> 00:04:34,660
+They've got a little video, Frequently Bought Together, and that's it, right? This is the entire page that we were running on, okay? And you can see there actually wasn't
+
+33
+00:04:34,660 --> 00:04:36,060
+really even any reviews here.
+
+34
+00:04:36,740 --> 00:04:38,300
+and just to see it in action, right?
+
+35
+00:04:38,660 --> 00:04:42,800
+And so, this was our control. And I want you to notice that the price was $249.
+
+36
+00:04:44,820 --> 00:04:49,660
+Now, let's go ahead and take a look at the landing page that our team actually made.
+
+37
+00:04:49,920 --> 00:04:55,660
+So, let's take a look at this. Well, now when we land on this page, and let's just go back to an above-the-fold comparison,
+
+38
+00:04:56,540 --> 00:05:01,840
+we have, "Save $50 on the RatVac ending soon," with a timer, okay? Urgency.
+
+39
+00:05:01,840 --> 00:05:06,640
+Right here, there's absolutely zero urgency, so that's step one. Step two,
+
+40
+00:05:06,640 --> 00:05:13,200
+under here with the scrollbar, we have "10,000+ Happy Customers" as you saw, a "30-Day Money-Back Guarantee",
+
+41
+00:05:13,200 --> 00:05:19,360
+and we have "Fast Delivery", and I believe there's one more that says "US-patented," exactly, "technology."
+
+42
+00:05:19,360 --> 00:05:23,720
+So, again, I mentioned this to you guys, don't even try to do this cuz it's not going to end well for you. But,
+
+43
+00:05:23,720 --> 00:05:29,480
+now we're we're providing social proof and credibility. This does say "free shipping on orders above 95",
+
+44
+00:05:29,480 --> 00:05:33,360
+but we're saying, "Hey, we're not having you even do math. That's just free shipping."
+
+45
+00:05:33,360 --> 00:05:39,220
+And then, boom, we go straight into social proof here. 4.85 from 10,000+ happy customers.
+
+46
+00:05:39,220 --> 00:05:45,100
+Now, how did we leverage this? Well, we leveraged this because they actually have, in total, on their store,
+
+47
+00:05:45,100 --> 00:05:50,700
+over 10,000+ happy customers that have actually been a part and purchased their products, okay?
+
+48
+00:05:50,720 --> 00:05:53,740
+And so, this is what we do with called "combining social proof",
+
+49
+00:05:54,040 --> 00:05:59,340
+where we actually combine social proof together from anybody who has ever ordered their product or used their products, okay?
+
+50
+00:05:59,840 --> 00:06:04,700
+And now, what I really, really want to comment here is what we did in this headline and in this section.
+
+51
+00:06:04,880 --> 00:06:10,520
+We said, "Rats and mice are too smart for regular traps." And then, just as you can see up here,
+
+52
+00:06:10,740 --> 00:06:15,520
+we have this incredible footage that we just found online. Again, we source it ethically.
+
+53
+00:06:15,520 --> 00:06:21,200
+We found really gross rat videos. This is obviously the content that the client has themself.
+
+54
+00:06:21,460 --> 00:06:27,840
+But we found these videos of rats outsmarting traps. This guy's like pulling a stick to then get the cheese, right?
+
+55
+00:06:28,180 --> 00:06:32,580
+And so, at the end of the day, we're showing how they're too smart for this stuff, right?
+
+56
+00:06:32,900 --> 00:06:40,560
+And as you can see here, now using this trap, boom, they actually get sucked into the trap and now they actually catch the rats, okay?
+
+57
+00:06:40,920 --> 00:06:47,360
+And so, here you can see this says, then, "Get the same motion-sensor trap professional exterminators use for a fraction of the cost."
+
+58
+00:06:47,760 --> 00:06:55,360
+And so, now, depending on what the price objection is, cuz for most people they might see this and be like, "How is this $250?", right?
+
+59
+00:06:55,700 --> 00:07:02,920
+This doesn't look like it's that complex. Yet now what we're saying is we've positioned this as something that authorities use, okay?
+
+60
+00:07:03,300 --> 00:07:08,140
+This is something that professional exterminators use, and now you,
+
+61
+00:07:08,500 --> 00:07:15,480
+as a result of landing here, can purchase this same thing for basically the first time ever at a fraction of the cost.
+
+62
+00:07:16,040 --> 00:07:20,960
+And here, as you can see, we then say, "Get my RatVac and save $50," okay?
+
+63
+00:07:21,240 --> 00:07:28,460
+Now, as we scroll down, you can see that we are showing some really, really gross stuff, right? Really, really gross images that we found online.
+
+64
+00:07:28,800 --> 00:07:33,060
+So, picture this: "You set your your your trap last night, peanut butter perfectly placed.
+
+65
+00:07:33,560 --> 00:07:38,260
+This morning, the bait is gone, the trap never triggered, and somewhere in your walls those pests are chewing through your wire,"
+
+66
+00:07:38,260 --> 00:07:43,120
+right? "This isn't your imagination. Rats and mice have literally learned how traps work.
+
+67
+00:07:43,120 --> 00:07:49,700
+Once they figure out how to steal bait without getting caught, they teach the others. Your $5 snap trap just became a free feeding station.
+
+68
+00:07:50,280 --> 00:07:55,460
+Your electronic trap? The motion sensor failed after three weeks just like every Amazon review warned you."
+
+69
+00:07:55,720 --> 00:08:02,440
+Again, we are now talking about all the other solutions that people have tried to fix the problem,
+
+70
+00:08:02,440 --> 00:08:09,740
+and we're showing why they're bad, okay? "Those glue boards? You found one flipped over with fur stuck to the edge and the rodent long gone.
+
+71
+00:08:09,740 --> 00:08:14,940
+Every failed trap makes them bolder, and every stolen bait makes them smarter.
+
+72
+00:08:15,400 --> 00:08:22,460
+And while you're resetting trap after trap, they're having babies." Really, really gross, right? "You need technology that outsmarts them."
+
+73
+00:08:22,720 --> 00:08:29,180
+This is a copywriting masterclass that was actually done by our team member that, again, we have done a job
+
+74
+00:08:29,180 --> 00:08:35,840
+that hooks the user in. We're telling people rats and mice are too smart for regular traps, and here's proof of that.
+
+75
+00:08:36,000 --> 00:08:41,260
+We're showing rather than telling. And then we get into this story that talks about all the different traps
+
+76
+00:08:41,260 --> 00:08:45,640
+that don't work, right? And that's why we explain and we bridge this perfectly
+
+77
+00:08:45,640 --> 00:08:51,840
+about how you don't need this product, you need technology that outsmarts them. And then, boom, we go into the product:
+
+78
+00:08:52,120 --> 00:08:54,280
+"Experience what the RatVac can do for you."
+
+79
+00:08:54,540 --> 00:08:59,200
+"Over 4,000 hours studying rodent behavior, we have invented the trap that outsmarts every rat.
+
+80
+00:08:59,420 --> 00:09:03,940
+It helps you get your sleep back, you save thousands on exterminators, right? A one-time investment
+
+81
+00:09:03,940 --> 00:09:10,560
+versus $3,000 for services that don't last, no disgusting clean-up, keep your family safe, and prevent house fires."
+
+82
+00:09:11,020 --> 00:09:13,500
+This is a huge thing that you'll see we'll talk a little bit more about, but
+
+83
+00:09:13,500 --> 00:09:18,820
+rats actually start house fires. They chew wires that start 25,000 plus fires every year.
+
+84
+00:09:19,260 --> 00:09:26,600
+And again, we go into "Get My RatVac". Now here is a product demo, so very similar to what we had on this page, but we've just surfaced it a little bit more.
+
+85
+00:09:26,960 --> 00:09:32,300
+Here's how the motion sensor system outsmarts the rats and mice. So for people who want to watch the video, they can watch the video.
+
+86
+00:09:32,440 --> 00:09:40,100
+However, if we just want to simplify it down again, understanding that people are scrolling through this, we can say number one, they can't steal the bait. The food is behind the motion sensor.
+
+87
+00:09:40,600 --> 00:09:44,620
+Number two, the fast- they're too fast to escape, so the powerful shop vacuum pulls them in.
+
+88
+00:09:44,920 --> 00:09:48,660
+Catch them all, gets up to 30 rats and 60 mice in one night, okay?
+
+89
+00:09:48,980 --> 00:09:51,780
+And you don't need to- so you don't need to continue to reset bait over and over and over.
+
+90
+00:09:52,080 --> 00:09:58,580
+And again, it works by itself, so once it's set up it works all night while you sleep, and you don't actually have to worry about checking all the traps, right?
+
+91
+00:09:59,020 --> 00:10:08,720
+And then from there, we finally add some social proof. So now we have social proof from just other reviews that we had on the site that people had left that were not even posted or shown on here.
+
+92
+00:10:09,040 --> 00:10:17,440
+And then on top of that, we also are able to pull this from our Meta Ads comments as well. So people who are leaving comments on this or people who have emailed in, okay?
+
+93
+00:10:17,580 --> 00:10:22,160
+So now, we're just showing the social proof. And then guess what? Now we go into the product.
+
+94
+00:10:22,160 --> 00:10:27,500
+And you'll notice this is the same photo except we did one thing: we optimized the offer.
+
+95
+00:10:27,880 --> 00:10:35,660
+Limited offer, 20% off, and then boom, here's a video of it working, here's footage again, and then here's a social proof of our actual um-
+
+96
+00:10:36,080 --> 00:10:46,700
+let me go ahead and go back to the things so we don't go to check out. Social proof of the actual brand owner who is like showing that this is, you know, a great product and it is approved and is validated by professional exterminators, okay?
+
+97
+00:10:47,060 --> 00:10:53,100
+So RatVac motion sensor rodent catching system was $249, is now $199, save $50.
+
+98
+00:10:53,520 --> 00:11:00,620
+Well, you might be thinking like, "Okay, well, as much as the page is good, well, you just gave somebody $50 off, right? Well, that's probably why it's converting better."
+
+99
+00:11:00,940 --> 00:11:08,980
+And you're exactly right, because we understood the margin and for the sake of this brand, I'm not going to get into their exact specifics, but we understood their exact margin.
+
+100
+00:11:09,500 --> 00:11:20,580
+And so you can do this too by very, very simply going into this new template, so margin and offer breakdown sheet, and you can actually add all of your information inside of here, okay?
+
+101
+00:11:20,900 --> 00:11:27,240
+So let's just say for example randomly, let's just say that their product cost them, I don't know, $15 or $20.
+
+102
+00:11:27,500 --> 00:11:33,280
+I actually don't even know, so this doesn't- like not even- I don't know if it's 20, 50, 5, you know, 100, I have no idea, okay?
+
+103
+00:11:33,320 --> 00:11:38,840
+And let's just say for the sake of simple that is, you know, it's $10 for shipping or $5 for shipping.
+
+104
+00:11:39,220 --> 00:11:48,180
+So you can see that our total cost for the US and this gateway here, you can see this is like based on the price that is on the site, so if we set this at $249, okay?
+
+105
+00:11:49,160 --> 00:11:56,820
+And you could say that here we don't actually charge for shipping, free shipping is included, you can see that I'm going to pay about $7 in, you know, transaction fees, okay?
+
+106
+00:11:57,320 --> 00:12:04,380
+And so here my total cost is $32, which means that if I take a look over here, my margin is $216.
+
+107
+00:12:05,480 --> 00:12:14,560
+So in this instance, if this was my cost, if it was $32 and I was selling it for $249, I have an 86% margin, almost 87% margin.
+
+108
+00:12:15,180 --> 00:12:24,360
+Okay? And so in this instance, and let's just say we have $0 price before discounts here, so there's actually $0 in savings is what this is basically telling us.
+
+109
+00:12:24,600 --> 00:12:31,160
+Then in this instance, you know, I have almost 87% is- is insane. Some of you guys actually might have really high margins, if you don't, that's fine.
+
+110
+00:12:31,320 --> 00:12:37,400
+Um but what we ended up doing is we did this, so we took these exact numbers. So we just just said, "Hey,
+
+111
+00:12:37,760 --> 00:12:44,700
+let's do a new offer. Let's test a very simple save $50 off. Let's just test a price point that feels a little bit more attainable,"
+
+112
+00:12:44,700 --> 00:12:48,940
+because what we understand is that at certain points, people will round up and round down.
+
+113
+00:12:49,140 --> 00:12:55,520
+So people are looking at this saying like, "Oh, it's 250 bucks, that might be too expensive." Whereas this one, we're saying it's 200 bucks.
+
+114
+00:12:55,700 --> 00:13:00,560
+So our first hypothesis was maybe people are rounding up saying like this thing's almost $300,
+
+115
+00:13:00,560 --> 00:13:12,120
+whereas if we just round down and actually put the price at 200, that might be a price that is going to actually increase our overall conversion rate and more importantly, increase our overall revenue per session.
+
+116
+00:13:12,420 --> 00:13:18,580
+And again, if you guys are tracking this properly, I want to show you that if we take a look at this during the previous week,
+
+117
+00:13:18,580 --> 00:13:23,280
+you can see that our conversion rate here was 0.4%.
+
+118
+00:13:23,280 --> 00:13:31,020
+So this only has one purchase and I want to try to maybe do a bit of a better job. Let's just see how it was during the month of the first 12 days.
+
+119
+00:13:31,180 --> 00:13:39,660
+So as you could see here, we had two purchases, our purchase conversion value was 499, so you can see here our AOV was 249 and our conversion rate was 0.42.
+
+120
+00:13:40,080 --> 00:13:49,160
+So if we do 249.99 times 0.42, we're going to get a revenue per session of a dollar 04 essentially, okay? So 104.
+
+121
+00:13:49,840 --> 00:13:54,080
+Now, if we take a look at the week where we actually launched this,
+
+122
+00:13:54,400 --> 00:13:58,560
+not only do we have way more scale, so we went from two purchases to 41 purchases total,
+
+123
+00:13:59,000 --> 00:14:04,300
+you can see here that literally our ROAS during this two week period was 4.59.
+
+124
+00:14:04,780 --> 00:14:12,480
+Okay? And so now let's take a look. Our conversion rate went from 0.42 to 3.09,
+
+125
+00:14:12,480 --> 00:14:19,440
+and our AOV actually came down to 222. So let's just do that for the sake of simple math, okay?
+
+126
+00:14:19,920 --> 00:14:24,500
+And now, all of a sudden, our revenue per session is 687.
+
+127
+00:14:25,700 --> 00:14:30,820
+So we literally had over a 6x increase in our revenue per session.
+
+128
+00:14:31,060 --> 00:14:39,880
+And the reason why this is important for you guys to understand, because, again, if we actually take 687 and turn that into a decimal amount, so $6.87,
+
+129
+00:14:39,880 --> 00:14:42,680
+our cost per click is $1.35.
+
+130
+00:14:43,380 --> 00:14:52,500
+So we're paying $1.35 to get someone to the website, and our revenue per session for every person who lands on the website is $6.87.
+
+131
+00:14:53,160 --> 00:14:59,080
+Very, very profitable. If we compare that to the first 12 days, we were paying, again, the same amount, $1.29,
+
+132
+00:14:59,080 --> 00:15:04,740
+yet our revenue per session, again, 0.42 * 249, as we saw, was 100.
+
+133
+00:15:04,740 --> 00:15:10,940
+So that, again, if we go back, just to show you guys, 0.42 * 249, doesn't matter, 104.
+
+134
+00:15:11,520 --> 00:15:13,920
+So, again, if we add the decimal, it's $1.04.
+
+135
+00:15:14,560 --> 00:15:22,560
+So we're paying $1.29 to get someone to the store, but they're only making us $1.04, which is why we were losing money, okay?
+
+136
+00:15:23,080 --> 00:15:29,120
+And so for you guys to understand that even though we have overall less margin. So let's do the math, okay?
+
+137
+00:15:29,520 --> 00:15:38,700
+Shipping is still $5. Now our gateway costs are actually going to go down, because the price on-site, we're going to do price before discounts is 249. So let's do 249, okay?
+
+138
+00:15:39,000 --> 00:15:41,060
+And then our price on-site is now 199,
+
+139
+00:15:41,640 --> 00:15:52,180
+okay? And we can bump this up here. So let's delete this, and let's just go ahead and copy this down. And then the gateway here, we want to copy this down as well. And, again, you guys will have a copy of this sheet.
+
+140
+00:15:52,740 --> 00:15:55,960
+You can see here, now our margin is 84%.
+
+141
+00:15:55,960 --> 00:16:02,520
+Okay? And so if we take a look at this, it should be balanced. So, yeah, 199 divided by the $31 in total costs here, okay?
+
+142
+00:16:02,560 --> 00:16:07,920
+So costs is, everything is still the same. Our margin dropped by this much, okay? By by 2%, okay?
+
+143
+00:16:08,520 --> 00:16:17,020
+And so now, if we take a look at this, and we drop all of this stuff down here, this should actually be accurate to this, so the margin actually needs to be copied down there as well. There we go.
+
+144
+00:16:17,380 --> 00:16:20,840
+So now, as you can see, we have, again, an 84% margin.
+
+145
+00:16:20,840 --> 00:16:24,340
+So we lost literally like 2 2% of our margin.
+
+146
+00:16:24,340 --> 00:16:32,360
+But as a result, we got 6x, more than 6x, the total revenue per session coming in, okay?
+
+147
+00:16:32,720 --> 00:16:39,720
+And so if you ask yourself, "Okay, where am I making more money? Up here, with a, you know, dollar revenue per session, 86% margins,
+
+148
+00:16:40,140 --> 00:16:48,720
+or here, with, you know, 6x the margin, or 6x the revenue per session, with 2% less margin?" Obviously, you're going to be making more money here, guys, okay?
+
+149
+00:16:49,000 --> 00:16:56,260
+And so my point of this is is if we continue to go down the page here, you can see just by giving somebody $50 off, we were able to 6x.
+
+150
+00:16:56,460 --> 00:17:01,560
+And sometimes making that tradeoff is actually going to be way worth it,
+
+151
+00:17:01,900 --> 00:17:09,400
+because not only do these guys make a ton of money upfront right now, they also have an LTV and a backend system as well to upsell clients even more products, okay?
+
+152
+00:17:09,740 --> 00:17:14,900
+But my point is is, again, we have our checks here, so, "Removes massive infestations overnight," pretty bold claim.
+
+153
+00:17:15,440 --> 00:17:19,760
+"Automatic rat and mice catching, motion sensor activated, catches up to 30 rats or 60 mice each use."
+
+154
+00:17:20,400 --> 00:17:26,440
+Again, "Buy now," 30-day money-back guarantee, a lot of the stuff is the same. Product detail, how to use, specs, shipping and returns, RatVac in action.
+
+155
+00:17:26,900 --> 00:17:33,960
+And then what's really cool is we go a lot deeper down here, so, "Why smart rodents make traditional traps useless," then we get down to, "Rodents are the number two cause of house fires,"
+
+156
+00:17:34,560 --> 00:17:39,680
+"A single rat gives birth to five pups every- five to 12 pups every 21 days," again, kind of really getting into that,
+
+157
+00:17:40,000 --> 00:17:45,500
+"And toddlers or pets can find the poison before rats do," right? All very real, again, kind of scary stuff, but very real things.
+
+158
+00:17:45,900 --> 00:17:49,240
+And then we get into a very condense frequently asked questions, okay?
+
+159
+00:17:49,260 --> 00:17:55,480
+And then we scroll down into some more stuff around here, around reviews and all that kind of stuff. But the most important thing is this offer, okay?
+
+160
+00:17:55,480 --> 00:18:00,380
+And that's why I'm making this video, because as you can see, "RatVac motion sensor rodent catching system," is now "Save $50."
+
+161
+00:18:00,380 --> 00:18:04,520
+And this is, again, this is on Pagedeck. This is on our landing page system.
+
+162
+00:18:04,920 --> 00:18:15,260
+And in case you guys were wondering of how easy it is to set up with Pagedeck, I'm actually going to show you that. And if you need an incentive of why you should be signing up for Pagedeck and why you should be using Pagedeck to actually build pages,
+
+163
+00:18:15,740 --> 00:18:22,420
+let me show you why. Because right now, if you actually go into Pagedeck and you click, "I want to create a new page,"
+
+164
+00:18:22,420 --> 00:18:30,820
+you can literally scroll down, and you can click this, and you can literally add this to your own Pagedeck with one click.
+
+165
+00:18:30,960 --> 00:18:35,160
+Now you have our landing page. You literally just copied it. It's done. It's there.
+
+166
+00:18:35,780 --> 00:18:40,560
+And if you have your branding updated, there you go. Everything's optimized, okay?
+
+167
+00:18:41,060 --> 00:18:48,020
+And so this is why using Pagedeck is so powerful, okay? This is a little bit of custom code here,
+
+168
+00:18:48,180 --> 00:18:56,740
+and so I'm actually working with the overall team to support on turning this more into an order form. But the reason why I wanted to give you this a one-click install,
+
+169
+00:18:56,740 --> 00:19:02,240
+because what you can do is you can just add a buy box, and now you have the exact same buy box that we do,
+
+170
+00:19:02,260 --> 00:19:08,500
+because as you can see, again, our our buy box is not that complicated, right? So let's bring the buy box down to the HTML embed here.
+
+171
+00:19:08,700 --> 00:19:15,920
+You can literally go, and you can copy your product and paste it into this buy box, okay? And this is literally how fast it works.
+
+172
+00:19:16,120 --> 00:19:22,020
+So let's go to Ridge Wallet just as a joke. So let's go to Ridge Wallet and let's just grab one of their products.
+
+173
+00:19:22,020 --> 00:19:26,080
+And let's go here, and let's copy this, "Products Aluminum." Great.
+
+174
+00:19:26,480 --> 00:19:32,080
+This has a ton of variants, so I'm not sure if it's actually going to pick it all up, but let's take a look. So product link,
+
+175
+00:19:32,240 --> 00:19:38,980
+let's sync product data. And there we go. Now I literally have the entire product just like that in my in my Pagedeck account.
+
+176
+00:19:39,900 --> 00:19:40,440
+There it is.
+
+177
+00:19:40,900 --> 00:19:41,980
+Now I can change the images,
+
+178
+00:19:42,300 --> 00:19:43,020
+I could do whatever I want.
+
+179
+00:19:43,360 --> 00:19:45,420
+Now, a lot of you guys might be wondering, well, I want these bullet points,
+
+180
+00:19:45,700 --> 00:19:47,620
+I want these customer reviews and stuff like that. And again,
+
+181
+00:19:47,620 --> 00:19:50,440
+you can see most of that stuff is up here. The bullet points we actually just need
+
+182
+00:19:50,440 --> 00:19:54,400
+to add. And then the backed by thirty day money guarantee, limited stock, and this
+
+183
+00:19:54,400 --> 00:19:58,420
+kind of stuff, again, if you want to contact the Pagedeck team for support, they can also help
+
+184
+00:19:58,420 --> 00:20:02,740
+you with this stuff as well, especially if you're on their full plan, which, again, you'll be able to see through
+
+185
+00:20:02,740 --> 00:20:06,080
+the plan stuff. But at the end of the day, you can literally copy and paste this entire
+
+186
+00:20:06,080 --> 00:20:10,920
+LP the exact same one that we just did inside of your Pagedeck, okay? And if you're wondering again,
+
+187
+00:20:11,000 --> 00:20:16,060
+how do you set this up? It is very, very simple. So again, what you're going to do is you're going to create a brand. So, let me just do
+
+188
+00:20:16,060 --> 00:20:20,600
+Ridge wallet again, so ridge.com is what I'm going to be using
+
+189
+00:20:20,600 --> 00:20:25,120
+for this example. So ridge.com. Please wait. It's going to go ahead and scan the website,
+
+190
+00:20:25,380 --> 00:20:29,580
+and literally, after a couple seconds, now, it has everything
+
+191
+00:20:29,580 --> 00:20:33,780
+about your brand. It has your fonts, it has your colors, you can update your logo, all this kind of stuff.
+
+192
+00:20:34,220 --> 00:20:39,260
+I mean, it's insane, right? You just literally got your entire brand, and then you can optimize it however you want.
+
+193
+00:20:39,260 --> 00:20:43,640
+Looks good, continue. And there we go. Now it's going to take you and say, select the template.
+
+194
+00:20:43,640 --> 00:20:49,420
+Well, let's go ahead, and let's find the pest control one because that's the one I'm a part of Evolve, and that's the one that I want to put in.
+
+195
+00:20:49,420 --> 00:20:54,020
+And there's also all these other templates as well, so you can choose whatever one you want. Listicles,
+
+196
+00:20:54,400 --> 00:20:58,600
+you want to take Tabs one over here, if you want to take one from Norse Organics.
+
+197
+00:20:58,600 --> 00:21:03,060
+Literally, I asked the team to put this in there so then Norse Organics one is in there as well if you guys have seen that YouTube video.
+
+198
+00:21:03,060 --> 00:21:05,680
+So let's go ahead and finish setup, and then, boom,
+
+199
+00:21:05,680 --> 00:21:10,020
+there you go. Now the page is all configured for me to optimize
+
+200
+00:21:10,020 --> 00:21:14,780
+however I want, okay? And so, that is literally the power of Pagedeck and why we do it because
+
+201
+00:21:14,780 --> 00:21:19,720
+just like that, I didn't even know that took me like a minute, I now have a page that I can go in and I can start editing,
+
+202
+00:21:19,720 --> 00:21:23,220
+and it's not complex, okay? It's not hard to go through
+
+203
+00:21:23,220 --> 00:21:27,180
+and fix this stuff, okay? And again, if you're looking like, okay, this is the HTML bed, embed
+
+204
+00:21:27,440 --> 00:21:31,420
+one. How do I get a video hero, how do I, how do I optimize this? Again, video and text,
+
+205
+00:21:31,420 --> 00:21:35,900
+it's just this box. So there you go. You can pull this one in here as well, and now you can optimize this
+
+206
+00:21:35,900 --> 00:21:40,600
+however you want. Now, if you know anything about coding, or you have a developer, which I'm sure most of you guys don't,
+
+207
+00:21:40,600 --> 00:21:45,400
+you can come in here, and you can find this stuff. So, the way that I do it is I I would look like rats. Here we go. So now
+
+208
+00:21:45,400 --> 00:21:50,260
+we can actually change the headline here, and then again, just don't touch any of the any of the the weird looking
+
+209
+00:21:50,260 --> 00:21:54,180
+stuff, just don't touch it. But here, you can come in, and you can change this. So, I would say, you know,
+
+210
+00:21:54,180 --> 00:21:59,460
+typical wallets are stupid, right?
+
+211
+00:21:59,800 --> 00:22:04,960
+And then same thing here, right? Now we can try to find the video. I think the images here, you can see it's going to show
+
+212
+00:22:06,620 --> 00:22:11,440
+backed by thirty day money guarantee, so that's this little thing here, so you can keep that one as well. The
+
+213
+00:22:11,440 --> 00:22:16,460
+video itself, if you know how to read code at all, and you could also, if you want, speaking of this stuff,
+
+214
+00:22:16,680 --> 00:22:19,200
+let's just go to ChatGPT, and let's just say, hey,
+
+215
+00:22:19,640 --> 00:22:24,340
+this is the code inside of this order form. I want to add
+
+216
+00:22:24,340 --> 00:22:29,160
+my video instead. How would I add my video to this?
+
+217
+00:22:29,600 --> 00:22:34,640
+And then you can even upload the video if you want as well. So to replace the video, you just need to update the source,
+
+218
+00:22:34,640 --> 00:22:38,920
+or add the video tag. So, here we go, here's literally the HTML. So,
+
+219
+00:22:38,920 --> 00:22:44,760
+there you go, it's really showing you guys how to code. AI is an amazing thing, okay? So if you really want to use the HTML
+
+220
+00:22:44,760 --> 00:22:48,720
+stuff as well, you can do that too. But, that's why we use Pagedeck. But,
+
+221
+00:22:48,720 --> 00:22:52,580
+the point of this video, this is kind of an all-in-one video here to show you guys how to kind of
+
+222
+00:22:52,580 --> 00:22:58,040
+build in Pagedeck, how we actually had this insane uptick from again, as you guys can see here,
+
+223
+00:22:58,300 --> 00:23:03,980
+a 0.76x ROAS to the last two weeks here a 4.59x ROAS at higher
+
+224
+00:23:03,980 --> 00:23:09,520
+spends, this is this is how we did it, okay? And then from there, again, the hopefully the landing page
+
+225
+00:23:09,520 --> 00:23:15,460
+breakdown makes sense, and you guys will have this offer template as well. And there's likely going to be more modules that come down on how to
+
+226
+00:23:15,460 --> 00:23:20,200
+apply different offers. This is obviously just a very, very simple one. And again, if you don't have $199 product,
+
+227
+00:23:20,200 --> 00:23:24,900
+that's fine. Think about how can we do save $10, how can we do save $20, right? How can we better understand
+
+228
+00:23:24,900 --> 00:23:29,800
+what offers to make rather than just like hopefully, like you know, just sending it. But I wanted to start this off
+
+229
+00:23:29,800 --> 00:23:35,320
+with an overview to show you guys how to do this. And again, if you do want to sign up for Pagedeck, you guys can save 15% off
+
+230
+00:23:35,320 --> 00:23:41,500
+using our link below, and that's not even me trying to get you guys to pay pay us an affiliate commission, like, I really don't make a lot.
+
+231
+00:23:41,500 --> 00:23:47,000
+It costs like a hundred 100 bucks for Pagedeck or whatever it costs, right? It's like Trust me, I have I have other ways I make money. The point
+
+232
+00:23:47,000 --> 00:23:52,200
+is this is we can give you guys 15% off, you can get a tool that allows you to page build pages fast,
+
+233
+00:23:52,200 --> 00:23:58,300
+and you don't have to, you know, even this ChatGPT stuff. Obviously this is a little bit more complex for our custom page, but if you actually go back
+
+234
+00:23:58,300 --> 00:24:03,400
+to the other pages as well, so let me just go ahead and click new page here. If I want to select
+
+235
+00:24:03,400 --> 00:24:08,480
+the Norse Organic page, which I saw some Here it is, right here, right? If I want to select this page,
+
+236
+00:24:09,020 --> 00:24:13,760
+all of this is literally It's It's already all pre-filled, right? So the image and text here,
+
+237
+00:24:13,760 --> 00:24:18,880
+it's already it's already all optimized for me, right? Look at this. This is all just image and text, right? So this exact
+
+238
+00:24:18,880 --> 00:24:19,460
+page,
+
+239
+00:24:19,460 --> 00:24:25,420
+I literally just show showed you guys on my YouTube channel, if you guys have seen that, is all here, and this is all click to edit.
+
+240
+00:24:25,420 --> 00:24:31,580
+You don't need to do any code. Everything is done right inside of here, and that's why Pagedeck is the best, 'cause you don't need to be a brainiac to do this.
+
+241
+00:24:31,580 --> 00:24:38,360
+You don't need to know UI, UX, all this kind of stuff. It just makes it extremely fast and easy to do, okay? And so, that is why we use this tool,
+
+242
+00:24:38,360 --> 00:24:47,060
+and I hope this helps you guys cr- create landing pages, and also give you a place to basically host all of your LPs and test all of your offers,
+
+243
+00:24:47,060 --> 00:24:53,180
+because what we do, whenever we test this, is we duplicate our ads, we copy this URL, we put we put that in there. Again,
+
+244
+00:24:53,180 --> 00:25:05,100
+want to launch your own campaign, you can, but if I was to do this again, I would just launch launch this in the same ad set because, as you can see, this one started taking off as well because of the LPs that we launched. So, if we go into here,
+
+245
+00:25:05,100 --> 00:25:12,140
+you can see IG reel number 9, we sent this to the new LP, and it started absolutely ripping, okay? And so, I want you guys to understand
+
+246
+00:25:12,140 --> 00:25:18,720
+that this is why we do things the way that we do through Pagedeck, through figuring out the right offer,
+
+247
+00:25:18,720 --> 00:25:24,560
+and then ultimately testing it inside of Meta to have that massive spike. I mean, I don't know where else you're going to see this.
+
+248
+00:25:24,560 --> 00:25:30,360
+From June 1st to June 12th, again, 0.76x ROAS with, you know, two purchases,
+
+249
+00:25:30,360 --> 00:25:37,000
+to literally two weeks later, we went to 41 purchases at a 4.6x return on ad spend.
+
+250
+00:25:37,000 --> 00:25:46,500
+I mean, that is absolutely insane, guys. Like, you're not going to be able to do this with a lot of the stuff that you guys are focusing on or a lot of the small things or media buying shit. Like, show me
+
+251
+00:25:46,500 --> 00:25:54,860
+a campaign structure that will do this, okay? And so, this is why I want you guys to lock in on this stuff, and I hope this is some upfront value for you guys to see this before,
+
+252
+00:25:55,160 --> 00:26:02,940
+you know, we go through and do some more in-depth stuff. But I wanted to get this over to you guys ASAP, give you a high-level overview so you guys can get rocking and rolling on this right away, okay?
+
+253
+00:26:02,960 --> 00:26:13,120
+So, that is how you do it. Now, in regards to some other things in Pagedeck that I just want you guys to know about, this is a subdomain. There are incredible things for you guys to go through and do. So, if we go into the brand settings here,
+
+254
+00:26:13,400 --> 00:26:22,960
+you guys will go in and you will actually set up a custom domain. So, again, you need to get a paid account to actually go through and set up a try., you know, ridge.com or whatever it is, right?
+
+255
+00:26:23,320 --> 00:26:31,040
+And then, go into your DNS and add that. And again, there's literally step-by-step on how to do all this stuff for you, but I wanted to share this with you guys because, again, this
+
+256
+00:26:31,040 --> 00:26:39,960
+is where massive scale can come from. And if you focus on the right LPs and the right offers, and you test offers the right way, you can make a ton of money, okay?
+
+257
+00:26:39,960 --> 00:26:46,420
+So, hopefully that makes sense, and in case you guys watched this here to 100k per month uh webinar, this is exactly what we did for that same brand as well,
+
+258
+00:26:46,840 --> 00:26:55,920
+exact same process. And again, it's working again for another client, and we're about to do it for another brand, and it's going to work again. So, it's like this is a very repeatable process in order to start scaling.

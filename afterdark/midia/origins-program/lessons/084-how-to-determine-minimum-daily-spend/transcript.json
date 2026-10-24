@@ -1,0 +1,186 @@
+{
+  "lesson": {
+    "num": 84,
+    "id": "084-how-to-determine-minimum-daily-spend",
+    "title": "How to determine minimum daily spend",
+    "section": "👨‍💻 How To Run Ads",
+    "video": "84. How to determine minimum daily spend Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 106.219,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=f2501941167d4ca0a7c5d19762456922"
+  },
+  "generated_at": "2026-10-06T20:24:10-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (95% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 397,
+    "matched_tokens": 378,
+    "match_ratio": 0.952,
+    "segments_aligned": 14,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 106.219,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.987,
+      "wpm": 215.5,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.34,
+      "speaker": "Presenter",
+      "text": "All right. So, in my last video, I talked about scaling protocol, and as part of talking about scaling protocol, we came across something called a minimum daily spend.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 8.34,
+      "end": 10.34,
+      "speaker": "Presenter",
+      "text": "Now, what is minimum daily spend?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 10.34,
+      "end": 16.64,
+      "speaker": "Presenter",
+      "text": "Minimum daily spend is essentially the amount that you are willing to spend regardless of performance on Facebook, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 17.1,
+      "end": 25.08,
+      "speaker": "Presenter",
+      "text": "We've talked about this uh in in the CBO setup or in the DCT campaign setup, where you're probably going to have a budget of at least $50 a day, okay, to start with.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 25.08,
+      "end": 36.68,
+      "speaker": "Presenter",
+      "text": "And you're most likely, if you're already running ads, probably having some kind of budget that you're, you know, you're confident in spending. For some clients, it's $100 a day. For other clients, it's $500 a day.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 36.92,
+      "end": 45.52,
+      "speaker": "Presenter",
+      "text": "It just depends ultimately on how much cash you have in the bank and how how much you're willing to essentially invest into your business regardless of performance.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 45.52,
+      "end": 57.82,
+      "speaker": "Presenter",
+      "text": "Because at the end of the day, as soon as you stop spending on Facebook, your opportunity of finding a winning ad or finding a um a way to basically scale, grow your business, goes to zero, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 58.1,
+      "end": 65.5,
+      "speaker": "Presenter",
+      "text": "So that's why having a minimum daily spend to at least continue to test, which is again, you're going to be focusing on testing the most important things.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 65.5,
+      "end": 75.34,
+      "speaker": "Presenter",
+      "text": "So it's not like you're just sitting there doing nothing. If you are testing creatives every single week like you're supposed to be doing, then this minimum daily spend is going to be something that is not just, you know",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 75.34,
+      "end": 80.02,
+      "speaker": "Presenter",
+      "text": "You're not just burning money on Facebook. You're actually giving yourself an opportunity to find a winning ad.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 80.16,
+      "end": 86.88,
+      "speaker": "Presenter",
+      "text": "So, are we at minimum daily spend? That's what minimum daily spend means. It is the amount that you're willing to spend regardless of performance.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 86.88,
+      "end": 96.76,
+      "speaker": "Presenter",
+      "text": "For most people, it's probably going to be $50 to $100 a day. But if you are in, obviously, a higher cap, and say you're already spending a couple hundred dollars a day, potentially it's $150 or $200, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 97.0,
+      "end": 102.32,
+      "speaker": "Presenter",
+      "text": "So it just depends on how much you are willing to spend regardless of performance, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 102.58,
+      "end": 105.94,
+      "speaker": "Presenter",
+      "text": "That is what minimum daily spend is. If you have any other questions about this, please let me know.",
+      "chunk": 0,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": []
+}

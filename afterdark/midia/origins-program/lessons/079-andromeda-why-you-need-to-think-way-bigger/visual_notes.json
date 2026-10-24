@@ -1,0 +1,99 @@
+{
+  "lesson": {
+    "num": 79,
+    "id": "079-andromeda-why-you-need-to-think-way-bigger",
+    "title": "(Andromeda) Why you need to think way bigger",
+    "video": "79. (Andromeda) Why you need to think way bigger Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T19:36:29-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "854x480 (native)",
+  "candidates_reviewed": 121,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 0.0,
+      "time": "00:00:00",
+      "frame": "frames/079_00-00-00.png",
+      "category": "software_demo",
+      "title": "Meta Ads Manager Reporting Table",
+      "on_screen": "Meta Ads Manager reporting interface showing metrics for 'Media A Easy' across 2 ad accounts, date set to Yesterday: Sep 21, 2025. Filter: 'Ad name contains eam'.\nKey metrics:\n- Total spent: $23,503.87\n- Total purchases: 381\n- Total purchases conversion value: $46,173.67\n- Average ROAS: 1.96\nTop rows listed by Amount spent:\n- Row 1: $2,235.94 spent, 30 purchases, $3,438.98 value, 1.54 ROAS\n- Row 2: $2,158.16 spent, 22 purchases, $3,031.79 value, 1.40 ROAS\n- Row 3: $1,611.89 spent, 18 purchases, $1,908.84 value, 1.18 ROAS\n- Row 4: $1,240.52 spent, 15 purchases, $1,694.87 value, 1.37 ROAS\n- Row 5: $1,219.69 spent, 18 purchases, $2,456.01 value, 2.01 ROAS",
+      "not_in_transcript": "Date filter: Yesterday: Sep 21, 2025; Total purchases: 381; Purchases conversion value: $46,173.67; ROAS: 1.96; individual ad metrics and ad names (e.g. 'EAM Bo...', 'EAM UG...').",
+      "legibility": "clear",
+      "candidate_id": "F001",
+      "drive_url": "https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk"
+    },
+    {
+      "t": 45.0,
+      "time": "00:00:45",
+      "frame": "frames/079_00-00-45.png",
+      "category": "webpage",
+      "title": "Evolve Community Skool Page",
+      "on_screen": "Webpage showing Skool community 'Evolve' (skool.com/evolve-8484):\n- Headline: 'EVOLVE GET RICH QUICK FOR SURE.'\n- Bio: 'Welcome to Evolve! This community has been made to help businesses find success with Facebook Ads & scale their brands, one step at a time.'\n- Link: 'Work With Our Agency'\n- Stats: 370 Members, 9 Online, 5 Admins\n- Button: 'JOIN $999/month'\n- Footer details: 'Private', '370 members', '$999 /month', 'By Spencer Pawliw'\n- Video embed shows a Zoom call with Spencer Pawliw and members.",
+      "not_in_transcript": "URL: skool.com/evolve-8484; exact membership stats (370 members, 9 online, 5 admins); pricing: $999/month; creator name: Spencer Pawliw.",
+      "legibility": "clear",
+      "candidate_id": "F005",
+      "drive_url": "https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk"
+    },
+    {
+      "t": 185.0,
+      "time": "00:03:05",
+      "frame": "frames/079_00-03-05.png",
+      "category": "chart",
+      "title": "Shopify Sales Dashboard Metric Graphic",
+      "on_screen": "Time filter: Today\n32 visitors\nTotal sales: $97,494.9 (7% up)\nOrders | Conversion\nChart Y-axis: $0, $1K, $2K\nChart X-axis: 12:00 AM, 10:00 AM, 8:00 PM\nGreen upward sales curve trending up throughout the day.",
+      "not_in_transcript": "Visitors count (32 visitors), exact total sales ($97,494.9), 7% increase indicator.",
+      "legibility": "clear",
+      "candidate_id": "F023",
+      "drive_url": "https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk"
+    },
+    {
+      "t": 220.0,
+      "time": "00:03:40",
+      "frame": "frames/079_00-03-40.png",
+      "category": "social_post",
+      "title": "Discord Channel Discussion on Shopify UI Update",
+      "on_screen": "Discord channel #🤑-wins conversation:\n- @Liam Bradshaw Started this brand in January. Just hit 7 figures last week. 🎯\n- auri VIP 2025-04-21, 4:17 AM: \"So sexy\"\n- Liam Bradshaw 2025-04-21, 5:47 AM: \"Why would it be fake haha\"\n- hernica 2025-04-21, 5:59 AM: \"I think Shopify updated the UI of the app that's why xD\"\n- Nate 2025-04-21, 9:16 AM: \"Shopify updated the ui\" (reactions: thumbs up 1, laugh 1)\n- Pranav 2025-04-22, 9:06 AM: [Yellow nerd emoji with glasses and hands meme]",
+      "not_in_transcript": "Usernames (Liam Bradshaw, auri, hernica, Nate, Pranav), timestamps (April 21-22, 2025), full conversation text defending against 'fake' claims citing Shopify's updated UI, and the nerd emoji image.",
+      "legibility": "clear",
+      "candidate_id": "F028",
+      "drive_url": "https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk"
+    },
+    {
+      "t": 335.0,
+      "time": "00:05:35",
+      "frame": "frames/079_00-05-35.png",
+      "category": "other",
+      "title": "YouTube Video Thumbnail for Meta Facebook Ads Full Course",
+      "on_screen": "A YouTube video thumbnail graphic displayed in the center with text:\n- \"2025\"\n- Meta logo (left) and Facebook logo icon (right)\n- \"FULL COURSE\" in neon green bold text at the bottom\n- Portrait photo of a man in the center against a blue background",
+      "not_in_transcript": "Text on thumbnail: \"2025\", \"FULL COURSE\", Meta and Facebook logos.",
+      "legibility": "clear",
+      "candidate_id": "F043",
+      "drive_url": "https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk"
+    },
+    {
+      "t": 405.0,
+      "time": "00:06:45",
+      "frame": "frames/079_00-06-45.png",
+      "category": "title_card",
+      "title": "Steal This $1M/Month Landing Page Card Graphic",
+      "on_screen": "$1,000,000\nSteal This $1M/Month Landing page",
+      "not_in_transcript": "",
+      "legibility": "clear",
+      "candidate_id": "F052",
+      "drive_url": "https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk"
+    },
+    {
+      "t": 540.0,
+      "time": "00:09:00",
+      "frame": "frames/079_00-09-00.png",
+      "category": "slide",
+      "title": "Daily Spend Threshold for Media Buying Optimization",
+      "on_screen": "$50k - $100k per day",
+      "not_in_transcript": "",
+      "legibility": "clear",
+      "candidate_id": "F068",
+      "drive_url": "https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk"
+    }
+  ]
+}

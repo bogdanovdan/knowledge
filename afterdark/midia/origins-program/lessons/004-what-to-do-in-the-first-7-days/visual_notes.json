@@ -1,0 +1,51 @@
+{
+  "lesson": {
+    "num": 4,
+    "id": "004-what-to-do-in-the-first-7-days",
+    "title": "What to do in the first 7 days",
+    "video": "4. What to do in the first 7 days Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T16:56:43-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "854x480 (native)",
+  "candidates_reviewed": 6,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 25.025,
+      "time": "00:00:25",
+      "frame": "frames/004_00-00-25.png",
+      "category": "software_demo",
+      "title": "Origins Program outline and first 7 days checklist editor",
+      "on_screen": "Course portal editor for 'Origins Program':\nText editor modal titled 'The first 7 days':\n- Double down/find your product\n- Do your research/build your avatars\n\nLeft sidebar course modules visible:\n- Origins Mindset\n- How To Find Products (sub-items: 'How To Find Winning Products (Brand B...', 'Live Product Research w/ Kalodata - Pt 2')\n- How To Create Avatars\n- How To Create Ads\n- How To Create Offers\n- How To Do Learnings\n- How To Set Up FB Assets\n- How To Run Ads",
+      "not_in_transcript": "Second bullet point: 'Do your research/build your avatars'; full list of left sidebar module titles including Kalodata research, avatars, offers, learnings, and FB asset setup.",
+      "legibility": "clear",
+      "candidate_id": "F004",
+      "drive_url": "https://drive.google.com/file/d/1PVw7gmdWTgoy_THf2_U-0sevUNEao_n8/view?usp=drivesdk"
+    },
+    {
+      "t": 30.03,
+      "time": "00:00:30",
+      "frame": "frames/004_00-00-30.png",
+      "category": "webpage",
+      "title": "Origins classroom course library overview",
+      "on_screen": "Classroom page showing courses:\n1. (START HERE) $0-$100k/Month F...\n'Watch this first! Live Training on how to scale from $0-$100k/month. Then move to EVOL...'\n2. Origins Program\n'This will be the exact step-by-step process on how to scale from $0-$100k/month in...'\n3. Call Recordings\n4. Case Studies\n'Hear the stories of those who have applied the full EVOLVE strategies'\n5. Evolve Lite\n'This program will be removed in the next 1-2 weeks. The Origins program is now much...'",
+      "not_in_transcript": "Descriptions and card titles for 'Origins Program', 'Call Recordings', 'Case Studies', and 'Evolve Lite' mentioning it will be removed in 1-2 weeks.",
+      "legibility": "clear",
+      "candidate_id": "F005",
+      "drive_url": "https://drive.google.com/file/d/1PVw7gmdWTgoy_THf2_U-0sevUNEao_n8/view?usp=drivesdk"
+    },
+    {
+      "t": 60.027,
+      "time": "00:01:00",
+      "frame": "frames/004_00-01-00.png",
+      "category": "webpage",
+      "title": "Full Live Webinar Of $0-$100k/Month resource links",
+      "on_screen": "Classroom lesson page: 'Full Live Webinar Of $0-$100k/Month'\nVideo embed titled 'EVOLVE $0-$100K/MONTH LIVE MASTERCLASS' (length 2:18:45)\nText: 'The Extended Cut is NOW available for Origins members with over 75 minutes of Q&A'\n\nResources:\nOffer Calculation Sheet:\nhttps://docs.google.com/spreadsheets/d/1DN69ZSOGSmHxT0KV_at4FKSQKizJUIlgRJSvpF6RII0/edit?usp=sharing\n\nUGC Framework:\nhttps://docs.google.com/document/d/1r8bKxPfp98LX4SgmeAVMIHb16yOfu7kT0/edit?usp=sharing\n\nFull CRO Training Video:\nhttps://www.youtube.com/watch?v=85IRnC7GrNM\n\nBook Recommendation - The Slight Edge by Jeff Olson:\nhttps://www.amazon.com/dp/1935944312/?bestFormat=true&k=slight%20edge%20book%20by%20jeff%20olson&ref_=nb_sb_ss_w_as-ont-ent-pd-bk-d_de_k0_1_9&crid=3229L6DPIDTOL&sprefix=slight%20ed",
+      "not_in_transcript": "Exact resource links listed under Resources: 'Offer Calculation Sheet', 'UGC Framework', 'Full CRO Training Video', and 'Book Recommendation - The Slight Edge by Jeff Olson' with their complete URLs.\n\n*Exact link from the course page:* <https://docs.google.com/spreadsheets/d/1DN69ZSOGSmHxT0KV_at4fKSQKizJUllgRJsvpF6RII0/edit?usp=sharing>\n*Exact link from the course page:* <https://docs.google.com/document/d/1r8bKxPfP98LX4SgmeAVMlHb16yOfu7IgSePWI_dSmT0/edit?usp=sharing>\n*Exact link from the course page:* <https://www.youtube.com/watch?v=85lRnC7GrNM>",
+      "legibility": "partly legible",
+      "candidate_id": "F006",
+      "drive_url": "https://drive.google.com/file/d/1PVw7gmdWTgoy_THf2_U-0sevUNEao_n8/view?usp=drivesdk"
+    }
+  ]
+}

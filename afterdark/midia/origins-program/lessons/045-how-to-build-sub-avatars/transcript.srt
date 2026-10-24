@@ -1,0 +1,1383 @@
+1
+00:00:00,000 --> 00:00:02,880
+We're back and today we're going to jump into sub-avatars.
+
+2
+00:00:02,880 --> 00:00:09,820
+Now, it has been a little bit of time since I actually made the original core avatars video because I wanted to let things breathe a little bit,
+
+3
+00:00:09,820 --> 00:00:18,560
+and I actually had to go through and define a lot of things. I've finished, I know you guys don't see this cuz you only see the videos that get uploaded week by week,
+
+4
+00:00:18,560 --> 00:00:28,560
+but I have spent the last basically 2 weeks going through and working on about seven other worksheets. Like you'll notice here, like this just keeps getting bigger and bigger.
+
+5
+00:00:28,560 --> 00:00:37,140
+Actually, you, I just realized you can't see it, but on my screen share, like the Docs just keep getting bigger and bigger. But, my point is is that we are going to jump into sub-avatars today.
+
+6
+00:00:37,160 --> 00:00:45,080
+That is the goal. We're going to help, we're going to go deeper on that, and I'm going to show you how to actually search, thinking through the other core five categories,
+
+7
+00:00:45,080 --> 00:00:52,620
+to actually build the best sub-avatars that you can. But this is actually, I'm going to share the screen here, the second sub-avatar video that I'm filming,
+
+8
+00:00:52,620 --> 00:00:57,300
+because the original one, where I originally went through and did this, I felt like it wasn't clear enough and it was kind of confusing.
+
+9
+00:00:57,300 --> 00:01:06,280
+Not like it wasn't confusing to me, but I felt like it would confuse some of you, and I also wanted to touch on just how to choose core avatars again. Okay?
+
+10
+00:01:06,280 --> 00:01:10,200
+Now, one note, cuz you guys should have already watched the core avatar training,
+
+11
+00:01:11,140 --> 00:01:19,600
+is that all avatars need to have desires, because that is what actually pushes them to buy. Okay? So, you guys should never have desireless avatars,
+
+12
+00:01:20,240 --> 00:01:29,160
+okay? Because here, you know, for example, behavior-based core avatar is core avatar people who don't eat before bedtime, right? Like that could just be a core avatar. Now that, why don't they eat before bedtime?
+
+13
+00:01:29,320 --> 00:01:37,420
+It could be a ton of different reasons, right? Maybe it's because they want better sleep, maybe it's because they want to lose weight and they think their body will just like burn all the calories if they go to bed hungry,
+
+14
+00:01:37,420 --> 00:01:46,900
+right? It could be a bunch of different things, but you will need to pick at least one desire. And so again, for the sake of simplicity, I recommend you guys, when you're building your sub-avatars,
+
+15
+00:01:46,900 --> 00:01:55,020
+especially if this is your first time going to this training, just start with a desire-based core avatar. Okay? So that's number one. Now, the second thing that came up is like, okay, well,
+
+16
+00:01:55,320 --> 00:02:04,060
+which core, like desire-based core avatar, do I choose, right? Because the truth is, like we talked about in the core avatar training that you should have watched before this,
+
+17
+00:02:04,060 --> 00:02:14,700
+each desire is going to have different urgency, different scope, right? And so at the end of the day, we need to try to pick a core avatar that is one that we can kind of work with,
+
+18
+00:02:14,780 --> 00:02:23,200
+okay? And now, I was mentioning something, this is actually I think take four, I was mentioning something before about like this avatar right here,
+
+19
+00:02:23,260 --> 00:02:31,180
+which is someone who like wants to improve their REM and deep sleep. We can essentially create this as a sub-avatar
+
+20
+00:02:32,480 --> 00:02:42,700
+while using this. Okay? And so what I mean by that is like this desire specifically of someone who wants to improve their REM and deep sleep, I actually found in this Reddit thread,
+
+21
+00:02:42,700 --> 00:02:49,960
+okay? And so we can basically use this as a desire if we want,
+
+22
+00:02:50,640 --> 00:02:58,540
+but what I would rather see you guys do is be able to look at this, and again we're just looking at words here, okay,
+
+23
+00:02:58,680 --> 00:03:08,420
+but I want you to be able to look at this and I want you to be able to see like, okay, this is obviously a desire. Someone wants to increase their REM
+
+24
+00:03:08,420 --> 00:03:15,740
+or deep sleep, okay? But this can also be an experience,
+
+25
+00:03:16,020 --> 00:03:22,100
+right? So, someone who had a product experience with a Whoop,
+
+26
+00:03:22,320 --> 00:03:32,100
+right? Or with an Oura Ring. This is actually a Whoop Band that he's looking at here cuz I've used Whoop before. And so we can almost take this slightly broader
+
+27
+00:03:32,100 --> 00:03:42,380
+core avatar here and we can build a sub-avatar based off of a product experience, okay? And so we could do sub-avatar
+
+28
+00:03:42,380 --> 00:03:49,240
+number two, the Whoop user, okay, or just like let's call it sleep tech user.
+
+29
+00:03:49,820 --> 00:03:57,600
+They still want restorative sleep, but the product product experience that they had is they used a sleep tech
+
+30
+00:03:57,600 --> 00:04:01,200
+to learn about REM/deep sleep,
+
+31
+00:04:02,060 --> 00:04:08,680
+okay? And maybe their behavior is they track REM and deep sleep.
+
+32
+00:04:09,320 --> 00:04:17,380
+Okay? And so now, the way that we speak to this person is is likely going to be the same
+
+33
+00:04:17,380 --> 00:04:27,340
+as someone as like this core avatar of someone again, the first desire is someone who wants to improve their REM sleep. Now you could go much more specific here, right?
+
+34
+00:04:27,480 --> 00:04:36,660
+We could still make a sub-avatar from this, right, and I'm just doing this for the sake of example, which is like someone who specifically uses an Oura, so product experience
+
+35
+00:04:38,820 --> 00:04:40,000
+uses an Oura,
+
+36
+00:04:41,120 --> 00:04:45,440
+k, and maybe another behavior that they do is they cold plunge
+
+37
+00:04:45,440 --> 00:04:49,360
+in the morning, or maybe they let's just do red light therapy at night,
+
+38
+00:04:51,120 --> 00:04:54,580
+k? And so at the end of the day, we can we can do this,
+
+39
+00:04:54,860 --> 00:04:58,460
+but think about on the scale from the avatar training, right?
+
+40
+00:04:58,920 --> 00:05:03,840
+This is this is very specific. Not only does this person need to know what REM and deep sleep is,
+
+41
+00:05:04,000 --> 00:05:05,700
+they also want to improve it,
+
+42
+00:05:06,520 --> 00:05:10,600
+k? And so at the end of the day, what I what I'm what I'm talking about here is that
+
+43
+00:05:10,600 --> 00:05:15,400
+when we're choosing the core desire the core avatar, sorry, core avatar,
+
+44
+00:05:15,640 --> 00:05:23,520
+very, very clearly, and I and I want to double down on this and go full screen because it's important, cuz I'm about to throw another piece of language at you, k? But the core
+
+45
+00:05:23,520 --> 00:05:24,380
+avatar,
+
+46
+00:05:25,740 --> 00:05:28,160
+k, should, again, be desire-based
+
+47
+00:05:28,160 --> 00:05:30,560
+and should like likely
+
+48
+00:05:30,560 --> 00:05:32,520
+be slightly more broad,
+
+49
+00:05:33,300 --> 00:05:37,900
+k, because then we can go deeper on it. But another super important thing
+
+50
+00:05:37,900 --> 00:05:42,600
+is that the desire that you're going after, your product actually has to live up to,
+
+51
+00:05:43,200 --> 00:05:46,940
+k? And so we're talking about someone here that wants restorative sleep.
+
+52
+00:05:47,400 --> 00:05:49,800
+If your product can't help with sleep,
+
+53
+00:05:50,120 --> 00:05:53,620
+it's not going to be a good desire for you to go after, man,
+
+54
+00:05:53,840 --> 00:05:56,000
+because one, or gal, because one,
+
+55
+00:05:56,560 --> 00:06:00,540
+even if they believe you, and they believe that your mechanism can do it,
+
+56
+00:06:01,420 --> 00:06:05,860
+when they get the product, if the product doesn't do it, k? Or if it doesn't do it for the majority,
+
+57
+00:06:06,120 --> 00:06:08,960
+cuz I understand like not every single product works for every single person, right?
+
+58
+00:06:09,240 --> 00:06:15,060
+Not every single person that even bought an iPhone had a had a great experience and got the experience that they wanted. It just happens, right? But
+
+59
+00:06:15,060 --> 00:06:21,880
+the point is, is like if majority of people are not having a good experience, then that's just going going to kill your brand, and I don't want you to kill your brand,
+
+60
+00:06:22,460 --> 00:06:28,080
+k? The second thing is, is like if it's not believable enough, like if your if your mechanism is not
+
+61
+00:06:28,080 --> 00:06:34,300
+believable enough for the desire, then it's just like it doesn't matter, people aren't going to buy, right? And so, for example, would be like,
+
+62
+00:06:34,740 --> 00:06:36,140
+if you wear sunglasses
+
+63
+00:06:36,140 --> 00:06:41,400
+during the day, it's actually going to help you get more restorative sleep.
+
+64
+00:06:41,880 --> 00:06:48,140
+Now, I can maybe swing that a way, and I can be like, you know, yeah, because like when you're getting sun in your eyes, it's like, you know, it keeps you more awake,
+
+65
+00:06:48,320 --> 00:06:54,060
+keeps you wired, and like by wearing sunglasses, it just keeps you in the in the night zone all day. Now, I just made that up completely,
+
+66
+00:06:54,340 --> 00:06:59,980
+but it's like how much am I going to believe that sunglasses are going to help me sleep better versus like, for example, an Eight Sleep?
+
+67
+00:07:00,120 --> 00:07:04,720
+For those of you that don't know what an Eight Sleep is, it's like a massive sleep machine that just like
+
+68
+00:07:04,720 --> 00:07:06,860
+scientifically is proven to help you sleep better. But
+
+69
+00:07:06,860 --> 00:07:09,820
+the mechanism's just better over there, and it makes more sense, k?
+
+70
+00:07:10,080 --> 00:07:14,140
+And so the core avatar, you essentially want it to be
+
+71
+00:07:14,140 --> 00:07:19,740
+a slightly broader desire, k, that actually makes sense, that your product can live up to,
+
+72
+00:07:20,440 --> 00:07:21,960
+k? That is the most important thing.
+
+73
+00:07:22,560 --> 00:07:27,740
+Now, the thing where I I had some some of you smarty pants, you were saying like, "Hey,
+
+74
+00:07:27,980 --> 00:07:34,660
+Spencer, like should the desire-based core avatar be a core desire?"
+
+75
+00:07:35,540 --> 00:07:38,860
+Now we're getting This is why I I I mentioned I want to be very clear with core avatar,
+
+76
+00:07:38,860 --> 00:07:45,400
+because core desires are these bad boys right here. And we've talked about this, and if you don't know what I'm talking about, go back and watch the desire modules.
+
+77
+00:07:45,640 --> 00:07:48,760
+But basically, that's health, sex, status, belonging, control, and comfort.
+
+78
+00:07:48,760 --> 00:07:52,640
+And so some of you smarty pants over here were saying like, "Hey, Spencer,
+
+79
+00:07:53,260 --> 00:07:58,100
+should I do, you know, just for this, for example, you know, should this just be want to be healthy?"
+
+80
+00:07:59,520 --> 00:08:02,860
+Again, that is Want to be health? Want to be health. Want to be healthy.
+
+81
+00:08:03,600 --> 00:08:05,040
+That is a core
+
+82
+00:08:05,040 --> 00:08:09,680
+desire, k? And, again, now, when we're thinking on the spectrum,
+
+83
+00:08:09,680 --> 00:08:11,820
+this is very, very broad, guys,
+
+84
+00:08:11,940 --> 00:08:17,460
+k? And so that's why what I would recommend is like don't probably don't use
+
+85
+00:08:17,460 --> 00:08:22,820
+a core desire as your desire-based core avatar.
+
+86
+00:08:22,820 --> 00:08:27,780
+I know that sounds ridiculous. Um, but what I mean by that is try to use,
+
+87
+00:08:27,920 --> 00:08:31,400
+you know, just like a a more specific desire,
+
+88
+00:08:33,060 --> 00:08:37,060
+k? Because from there, you're going Like, more specific from
+
+89
+00:08:37,060 --> 00:08:40,060
+the core desires, okay? So and I know like this is becoming word vomit,
+
+90
+00:08:40,060 --> 00:08:46,420
+and I'm and I'm going to try to slow it down, because I'm just trying to avoid you guys from being confused, and we're supposed to be talking about sub-avatars, but
+
+91
+00:08:46,420 --> 00:08:50,460
+this is very important for me to hammer home, k? So for this core-based,
+
+92
+00:08:51,280 --> 00:08:57,060
+sorry, for this core avatar that is desire-based, try to choose a desire that is broad,
+
+93
+00:08:57,780 --> 00:09:04,640
+k? But not like human-want-level broad. Some of you guys can do this,
+
+94
+00:09:04,640 --> 00:09:07,340
+and you can start going way more specific,
+
+95
+00:09:08,780 --> 00:09:13,340
+k, on sub-avatars, and if you want to do that, you can. Again, there's no right or wrong way.
+
+96
+00:09:13,640 --> 00:09:21,560
+I'm just trying to guide you in the direction of like what is going to be simplest and easiest for you, k? And at the end of the day,
+
+97
+00:09:21,560 --> 00:09:27,420
+this might throw some of you completely off the rails here, but if you just ask, "Why does someone want
+
+98
+00:09:27,420 --> 00:09:32,380
+restorative sleep?" obviously, the deep core desire behind that is they want to be healthier,
+
+99
+00:09:32,380 --> 00:09:37,640
+right? Or maybe they want to have more energy, which kind of leads to health anyways, and everything else, and maybe
+
+100
+00:09:37,640 --> 00:09:39,760
+you get the point, k?
+
+101
+00:09:41,220 --> 00:09:48,440
+Hopefully we're all clear on the desire-based core avatar. So just the TL;DR, so too long, didn't read 'cause I've had people ask me what that means,
+
+102
+00:09:48,620 --> 00:09:53,500
+when you're listing out these, you know, surface-level desires, that's what they're called,
+
+103
+00:09:53,920 --> 00:10:00,320
+and you're trying to find a core avatar, definitely go with one that is slightly more broad, okay, but not
+
+104
+00:10:00,320 --> 00:10:03,980
+too broad where it's a core desire, okay?
+
+105
+00:10:04,340 --> 00:10:12,180
+And then from there you can start to, you know, make things more specific with the sub-avatars, which is what I'm about to show you in this video, okay?
+
+106
+00:10:13,000 --> 00:10:21,020
+So with that said, how do we find different product experiences? How do we find different emotions? How do we find different behaviors?
+
+107
+00:10:21,740 --> 00:10:28,260
+And to be honest, you guys are going to notice that behaviors are like my favorite. I just love behaviors 'cause I think they're so awesome and it's like it's what people do.
+
+108
+00:10:28,620 --> 00:10:31,480
+And that's like there's nothing more relatable than like what we actually do.
+
+109
+00:10:31,480 --> 00:10:39,900
+For example, you know, I was actually listening to or was watching some videos and this person was talking about how,
+
+110
+00:10:39,900 --> 00:10:46,820
+you know, when you're giving talks on stage like not saying um or not using filler words and stuff like that. And I'm just sitting there thinking,
+
+111
+00:10:46,820 --> 00:10:56,300
+"Gosh, I wish I knew how to do that," right? And so my experience is I use a lot of those, or my behavior is that I use a lot of those filler words, and so it they just really cut deep. You know what I'm saying?
+
+112
+00:10:56,300 --> 00:11:01,400
+But at the end of the day, my point is is when I'm looking at this stuff, how do I find these?
+
+113
+00:11:01,880 --> 00:11:05,840
+Well, you just search it. Literally, you just Google it.
+
+114
+00:11:06,020 --> 00:11:08,620
+I'm going to go back and show you guys my actual Google here. So,
+
+115
+00:11:08,620 --> 00:11:14,180
+"I want to start sleeping bet- better, Reddit." There's a Reddit thread.
+
+116
+00:11:15,000 --> 00:11:22,720
+Here's another one here. This one I think I actually searched like, "Want more restorative sleep, Reddit." So that was the actual sub or like the the desire.
+
+117
+00:11:23,160 --> 00:11:25,960
+So, "What has helped you increase REM and deep sleep?" There's another one.
+
+118
+00:11:26,160 --> 00:11:31,460
+Here's another one. Just a straight-up Google search: "I want to start sleeping better." Now I've got this to look at, and we're going to go through this.
+
+119
+00:11:31,780 --> 00:11:39,260
+Another one here that I absolutely love. This is where we start digging into the other core five categories, okay?
+
+120
+00:11:39,360 --> 00:11:42,120
+So this is me just searching up the desire, okay?
+
+121
+00:11:43,120 --> 00:11:46,840
+Now, I'm searching up the emotion.
+
+122
+00:11:47,660 --> 00:11:57,120
+So why did I search up lack of sleep? Well, let's just think about this guys, right? We're I I know a lot of you guys, you know, maybe you're not brainiacs, but you're not completely braindead, so
+
+123
+00:11:57,120 --> 00:12:00,060
+why would someone want more restorative sleep?
+
+124
+00:12:01,140 --> 00:12:05,880
+Well, they likely have a problem that they're not getting enough sleep, right?
+
+125
+00:12:06,380 --> 00:12:12,180
+Or they have this like core desire, again, core desire going back over here of like they just want to be healthier, okay?
+
+126
+00:12:14,200 --> 00:12:17,520
+And so that probably means like they have some kind of a problem.
+
+127
+00:12:18,100 --> 00:12:26,640
+And so that's why I searched "how lack of sleep is making me feel." This was actually like the dumbest like it was just true Chad, okay?
+
+128
+00:12:26,640 --> 00:12:28,540
+"Lack of sleep is making me feel, Reddit."
+
+129
+00:12:28,540 --> 00:12:36,960
+And I found this thread: "Anyone else experience strong emotionally changes, strong emotional changes when you don't get enough sleep?"
+
+130
+00:12:37,700 --> 00:12:40,620
+I'm about to go in on this to find a bunch of emotions, okay?
+
+131
+00:12:40,640 --> 00:12:44,540
+Another one over here. What did I search? I searched some demographics.
+
+132
+00:12:44,540 --> 00:12:48,360
+"At what age does sleep start getting worse?"
+
+133
+00:12:49,640 --> 00:12:52,360
+Huh. Well, that's interesting. Okay.
+
+134
+00:12:52,820 --> 00:12:59,680
+How about this one over here? This was a product experience 'cause I searched out "blackout room sleep, Reddit"
+
+135
+00:13:00,040 --> 00:13:06,400
+because here, again, I'm looking for people that are essentially using this product, right?
+
+136
+00:13:07,360 --> 00:13:16,300
+And so that was just three kind of like dumbed-down searches based out of the core five categories,
+
+137
+00:13:16,300 --> 00:13:23,580
+which, again, are demographics, experiences, behaviors, emotions, and desires.
+
+138
+00:13:23,960 --> 00:13:31,000
+And because we went desire hunting and we found our desire-based core avatar, we can click that one out of there, right?
+
+139
+00:13:31,520 --> 00:13:35,140
+And now we just search up behaviors, emotions, experiences, and and demographics.
+
+140
+00:13:35,900 --> 00:13:41,740
+I might even start searching genders, right? So I just searched age here, right? Does sleep get worse with age?
+
+141
+00:13:42,460 --> 00:13:46,220
+Let's maybe search up another one here. Let's go to our avatar sheet.
+
+142
+00:13:47,500 --> 00:13:50,960
+And I wanted to come down to this as well, because, I'm I'm going to put a pin, this is a quick side quest.
+
+143
+00:13:51,400 --> 00:13:54,780
+But again, for those of you, a lot of you guys were asking, "How many core avatars should I use?"
+
+144
+00:13:55,120 --> 00:13:58,740
+Well, if you're 0 to 100k per month, you should just try to find one core avatar, okay?
+
+145
+00:13:58,880 --> 00:14:02,860
+And focus on creating sub-avatars from that main desire, very, very simple.
+
+146
+00:14:03,060 --> 00:14:09,960
+If you're 100k to a million per month, you could start looking at a few different core avatars, okay?
+
+147
+00:14:10,100 --> 00:14:15,840
+So maybe look at a few different desires, you know, desire-based core avatars for you to go after, because you probably
+
+148
+00:14:15,840 --> 00:14:20,420
+are at the point where you're allowed to do that because you're a better marketer. And then if you're a mil-plus a month,
+
+149
+00:14:20,700 --> 00:14:28,080
+you can probably have a few more core avatars again, just a core desire-based core avatars depending on how big your
+
+150
+00:14:28,080 --> 00:14:32,080
+desire-based core avatar actually is. Again, how broad it is.
+
+151
+00:14:32,780 --> 00:14:37,160
+But what we could look at here is like look at all these di- different demographics, right?
+
+152
+00:14:37,160 --> 00:14:43,960
+How does location, how does how does employment affect sleep? Let's go ahead and search that up.
+
+153
+00:14:44,180 --> 00:14:55,060
+All right. Here's another one. "Reddit users report that their jobs negatively impact sleep due to stress, anxiety, and disruptive schedules, leading to difficulty falling or staying asleep." Okay.
+
+154
+00:14:55,060 --> 00:14:58,200
+"I hate my job so much." This this is r/AskIreland.
+
+155
+00:14:59,420 --> 00:15:01,660
+I guess this person's kind of deep in Ireland.
+
+156
+00:15:02,820 --> 00:15:08,840
+"Work, stress, and impact on sleep." People in different, okay, what is this? "I need so much sleep. It affects
+
+157
+00:15:08,840 --> 00:15:12,920
+my job. My job is ruined my life. My work changed my sleep schedule three times."
+
+158
+00:15:13,240 --> 00:15:16,840
+I would be looking at, what I was trying to find here is like night shift workers, okay?
+
+159
+00:15:17,240 --> 00:15:22,520
+So "night shift workers on my sleep Reddit."
+
+160
+00:15:23,120 --> 00:15:26,540
+Okay? Because let's think about our product, right?
+
+161
+00:15:27,400 --> 00:15:30,560
+"How do you," or, what is this? This is This is six months ago.
+
+162
+00:15:31,140 --> 00:15:35,080
+This one has 50-plus comments. "How do people work night shifts, manage their lives?"
+
+163
+00:15:35,880 --> 00:15:37,880
+Very interesting. Okay?
+
+164
+00:15:38,500 --> 00:15:45,200
+So my point is is like look at all these different threads that we've got the opportunity to go through. Now, again,
+
+165
+00:15:45,440 --> 00:15:50,340
+you can do research overload. It's important to do research and also do action. So like
+
+166
+00:15:50,620 --> 00:15:57,600
+you could maybe spend an hour going through all these threads, and I'm going to go through a few of them to show you like what I found, but my point is, is like, I want you looking
+
+167
+00:15:57,600 --> 00:16:04,180
+at all these different categories to build sub-avatars, okay? So product-based experience,
+
+168
+00:16:04,520 --> 00:16:08,600
+emotion-based, behavior-based. What I'm actually going to do is I'm actually going to do
+
+169
+00:16:08,600 --> 00:16:14,320
+some demographic-based avatars, okay? As much as you guys know I hate demographics, I'm going to I'm going to get into it because,
+
+170
+00:16:14,320 --> 00:16:18,740
+again, we can use some of the other marketing strategies that we have like
+
+171
+00:16:18,740 --> 00:16:20,440
+the new information
+
+172
+00:16:21,400 --> 00:16:28,400
+as well as new mechanisms to help people, you know, to educate people, help people understand things to actually buy the product, all right? So
+
+173
+00:16:28,400 --> 00:16:34,760
+let's take a look, because we did some emotional ones here, these could be good. So this person said, "Is anyone else experiencing strong emotionally
+
+174
+00:16:34,760 --> 00:16:40,720
+changes when you don't get enough sleep? It seems to be a recurring theme in my life that when I don't get enough sleep, even for a night or two,
+
+175
+00:16:40,940 --> 00:16:46,280
+going out with friends, tossing and turning, my emotions kind of get thrown out of whack until I'm rested again. Things like overthinking,
+
+176
+00:16:46,760 --> 00:16:51,340
+being bothered by things that wouldn't normally bother me, negative feelings like jealousy, and so forth.
+
+177
+00:16:51,780 --> 00:17:01,140
+All things that are very unlike me. On those days I have to remind myself to relax and not to be too critical, and to get some good sleep." So this is someone who's actually aware, who's like aware of this problem that
+
+178
+00:17:01,140 --> 00:17:06,340
+not getting enough sleep is actually like making them emotionally, you know,
+
+179
+00:17:06,620 --> 00:17:11,800
+different, right? It's making them feel not great. Making them feel jealous. It's making them feel
+
+180
+00:17:11,800 --> 00:17:16,300
+like they're they're overthinking, right? So I didn't really see anything that I wanted to pull specifically.
+
+181
+00:17:16,620 --> 00:17:23,280
+Maybe you did, and again, just go with your flow, right? "Yes, I can relate as well. I feel similar feelings to what you described. I feel so overwhelmed
+
+182
+00:17:23,280 --> 00:17:30,560
+that I'm on the verge of tears for no other reason than I didn't get enough sleep. It's a bit embarrassing and difficult to get through when I need to go to work and get things done."
+
+183
+00:17:30,760 --> 00:17:34,740
+Okay? And so this is really, really good here. So someone feels
+
+184
+00:17:34,740 --> 00:17:41,640
+overwhelmed because they're not getting enough sleep. And so now what we can do is we can go into emotion-based
+
+185
+00:17:41,640 --> 00:17:45,800
+sub-avatar, okay? So
+
+186
+00:17:45,800 --> 00:17:50,480
+in here, we have emotion-based, we have a sub-avatar, someone who feels
+
+187
+00:17:50,480 --> 00:17:52,980
+extremely overwhelmed due to a lack of sleep.
+
+188
+00:17:54,740 --> 00:18:01,720
+And even this right here, guys, just so you know, if you wanted to just turn this into a actual ad
+
+189
+00:18:02,440 --> 00:18:08,880
+where where you just start using some of the language that the customer uses, this is going to sound really dumb. "Write me some headlines or hooks,"
+
+190
+00:18:09,260 --> 00:18:12,940
+and I'm going to give you guys way better prompts, I promise, by the way. "Based off of
+
+191
+00:18:12,940 --> 00:18:26,020
+this Reddit thread for my product which helps with improving sleep blackout blinds. Let's just see what Claude cooks up.
+
+192
+00:18:26,280 --> 00:18:32,580
+Look at this. This is so cool, guys. And Claude, by the way, Claude has zero context right now. So once you guys actually have this information,
+
+193
+00:18:33,080 --> 00:18:37,760
+and you give it to Claude with proper context, it's going to print for you. But at the end of the day,
+
+194
+00:18:38,000 --> 00:18:43,520
+one bad night turns you into someone you're not. Here's why light is ruining your sleep. The real reason you overthink
+
+195
+00:18:43,520 --> 00:18:50,960
+everything after tossing and turning all night. Really specific. Jealous, irritable, emotional, you're not broken, you're just not sleeping in total darkness.
+
+196
+00:18:50,960 --> 00:19:01,120
+Before and after. Stop waking up as the wrong version of yourself. From overthinking mess to calm and centered just by blocking out light. Sleep in complete darkness, wake up as yourself again.
+
+197
+00:19:01,280 --> 00:19:06,520
+The difference between, why am I like this, and, and some of these are getting more broad, I would say. I love the specifics, right?
+
+198
+00:19:06,760 --> 00:19:14,800
+The real reason you overthink after tossing and turning all night. This is amazing. Because if we look at this from someone who overthinks
+
+199
+00:19:15,260 --> 00:19:23,620
+because they're tossing and, they don't get enough sleep because they're tossing and turning, or hanging, went out with their friends, like that headline or that hook,
+
+200
+00:19:23,620 --> 00:19:30,800
+specifically, covers both of those. Okay, so that is just, like if you guys are like, I don't know how to turn my research into ads, like there you go. Okay?
+
+201
+00:19:31,100 --> 00:19:38,240
+Now this sub-avatar is basically like a head, this headline would work for that sub-avatar, okay?
+
+202
+00:19:39,520 --> 00:19:47,840
+If two bad nights turn you into an overthinker, you need blackout blinds. Things that shouldn't bother you suddenly do, that's not you, that's bad sleep. Be yourself tomorrow.
+
+203
+00:19:47,960 --> 00:19:55,000
+This is kind of like making people aware of a problem as well. Like this is going after a much larger audience too. But at the end of the day,
+
+204
+00:19:55,320 --> 00:20:02,700
+this is what, this is what it's, like why research is so powerful. But let's take a look at some demographics, because we just did an emotional one, right? And again,
+
+205
+00:20:02,700 --> 00:20:09,440
+you guys can see like, you can basically print these sub-avatars, right? Now let's take a look at some demographic-based, okay?
+
+206
+00:20:09,880 --> 00:20:14,820
+So I don't even know what sub-avatar number I'm on. I'm just going to leave it blank. But over here we have,
+
+207
+00:20:16,060 --> 00:20:25,500
+did your sleep get worse with age? So I feel like I'm finally at the stage where I'm getting the signs of aging now. I wake up almost three to four times a night for literally no reason. The only,
+
+208
+00:20:25,980 --> 00:20:31,780
+this only just started recently and I'm wondering if anyone else experiences this as well. He literally said experience.
+
+209
+00:20:32,440 --> 00:20:38,260
+Wake up three to four times a night for no reason. That's the experience,
+
+210
+00:20:39,140 --> 00:20:43,460
+okay? We could even make an experience-based avatar. This is just general.
+
+211
+00:20:44,460 --> 00:20:50,680
+Boink. Let's paste this in. Experience, tada! Look at us. Conquering it all right now, guys.
+
+212
+00:20:51,160 --> 00:21:00,640
+Sub-avatar, the waker upper. I don't know if that works as a, as a sub-avatar name, you guys tell me.
+
+213
+00:21:01,400 --> 00:21:04,200
+This is not a product experience. This is just a regular experience.
+
+214
+00:21:05,340 --> 00:21:09,700
+Wakes up almost three to four times a night.
+
+215
+00:21:10,660 --> 00:21:22,180
+This is somewhat of a behavior, I would say, but we can call it experience. So this is just like, this is kind of a pattern because it happens multiple times, but they've probably had the experience of, you know, waking up
+
+216
+00:21:22,180 --> 00:21:33,320
+three to four times a night for no reason. That's just an experience that they probably don't go through every night. If they go through it every night, they're probably much, you know, it's a much stronger desire for them to fix. But let's take a look. Yes, it's awful.
+
+217
+00:21:33,820 --> 00:21:41,840
+And even when I sleep through the night, for some reason I don't ever get enough deep sleep, so I consistently feel like crap. I had a sleep doctor with UCLA and an appointment with me angrily declaring,
+
+218
+00:21:41,840 --> 00:21:48,520
+everyone gets their sleep cycles, everyone, beeyotch. This person is in perimenopause, so there you go.
+
+219
+00:21:49,320 --> 00:22:00,080
+I feel this through my soul. 77, male. Over the years, my ability to sleep through the entire night utterly vanished, to be replaced by having to wake up to pee every few hours
+
+220
+00:22:00,080 --> 00:22:11,300
+and waking up without any desire to go back to sleep first thing in the morning. I'm lucky I can manage more than six hours a night. Recently, however, I've been taking an over-the-counter supplement called L-trypt-,
+
+221
+00:22:11,360 --> 00:22:17,860
+whatever that is. You know, Major Spenser or English, Major Spenser. Okay, deep sleep numbers went up.
+
+222
+00:22:18,160 --> 00:22:26,100
+Look at that, 25 upvotes. Yes. Only about four unbroken hours a night. I've struggled on and off with insomnia since my early 20s. I'm looking for demographics here, guys.
+
+223
+00:22:26,100 --> 00:22:38,140
+I'm dead the next day. Okay, 71 Canadian here. Legal indica gummies and maybe a glass of Cab Sav. My favorite! My go-to for getting a solid, I love my sleep. That's pretty funny,
+
+224
+00:22:38,520 --> 00:22:47,360
+okay? So here's what I love about this, guys. Like this is a demographic, this guy's, this guy's a very specific avatar, but I love this, because like this is again another behavior,
+
+225
+00:22:48,160 --> 00:22:59,880
+which is why I love behavior so much, because most people mention their behaviors, and I promise we're going to get to the other sub-avatars, but let's just do, I'm going to call this the, the drug taker. Well, I kind of want something better, but
+
+226
+00:22:59,880 --> 00:23:09,180
+basically, you know, we have a, we have a demographic of 71. It's pretty old, but we could just say 70-plus. And the behavior,
+
+227
+00:23:09,460 --> 00:23:21,780
+or this is kind of product experience, but let's just, let's just summarize it as a behavior.
+
+228
+00:23:21,780 --> 00:23:23,980
+So takes weed gummies and drinks wine.
+
+229
+00:23:26,980 --> 00:23:28,180
+Behavior: drinks wine.
+
+230
+00:23:29,620 --> 00:23:31,560
+He literally said Cab Sav specifically.
+
+231
+00:23:32,380 --> 00:23:33,700
+And he loves his sleep.
+
+232
+00:23:34,960 --> 00:23:35,660
+What a beauty.
+
+233
+00:23:36,780 --> 00:23:37,080
+Okay?
+
+234
+00:23:37,940 --> 00:23:42,620
+And so, this is the, I don't know, we can almost call them the full, the full sender grandpa.
+
+235
+00:23:43,460 --> 00:23:48,020
+At the end of the day, this obviously doesn't, we don't need to include this demographic, but if a lot of people
+
+236
+00:23:48,020 --> 00:23:51,440
+smoke weed to go to sleep or take like CBD to go to sleep
+
+237
+00:23:51,440 --> 00:23:54,300
+and again, what was the outcome of this, right?
+
+238
+00:23:54,700 --> 00:23:55,300
+Like the product,
+
+239
+00:23:55,300 --> 00:23:57,120
+or I would just say his overall experience,
+
+240
+00:23:57,980 --> 00:23:59,340
+is he has a great sleep.
+
+241
+00:24:00,120 --> 00:24:00,420
+Okay?
+
+242
+00:24:01,120 --> 00:24:04,260
+And so, this person right here,
+
+243
+00:24:04,560 --> 00:24:06,060
+let's just take a look,
+
+244
+00:24:07,460 --> 00:24:12,460
+says he has a great sleep. So, he's not really someone who says, "Mrs. Lahey", that's kind of funny.
+
+245
+00:24:13,480 --> 00:24:17,240
+Who wants more restorative sleep, like they have a great sleep, okay?
+
+246
+00:24:17,720 --> 00:24:24,800
+And so, this is kind of more or less under, if we go back to the sub-avatar, like this is more or less just information that we could pull from.
+
+247
+00:24:25,480 --> 00:24:33,260
+Like maybe someone did have, you know, does take weed gummies or like does drink wine to get good sleep,
+
+248
+00:24:33,860 --> 00:24:37,800
+but potentially they know that it's not healthy for them,
+
+249
+00:24:38,380 --> 00:24:38,760
+okay?
+
+250
+00:24:39,180 --> 00:24:48,080
+And so, potentially, like I don't want to I don't want to start creating different avatars, but this is almost somebody who who like has the desire of like wanting to sleep better
+
+251
+00:24:48,080 --> 00:24:53,060
+but in a but but healthier, like in a healthier way, in a way that's actually like better for their body.
+
+252
+00:24:54,000 --> 00:24:58,860
+And so, that's another thing that we could add down there if we want to, because I got all excited about this, but the truth is, is like
+
+253
+00:24:58,860 --> 00:25:02,580
+this person clearly doesn't have a problem, right? So, it's cool to see this, right?
+
+254
+00:25:02,580 --> 00:25:07,740
+But we could potentially just use this information for writing where it's like, "Get a better sleep
+
+255
+00:25:07,740 --> 00:25:11,360
+without having to, you know, intoxicate yourself or
+
+256
+00:25:11,360 --> 00:25:15,200
+without having to, you know, get stoned," you know what I mean?
+
+257
+00:25:15,660 --> 00:25:20,460
+And so, you could also potentially go through and create angles around that.
+
+258
+00:25:20,680 --> 00:25:27,900
+This is also where you could just start looking up like "weed gummies to improve sleep Reddit" and start reading more about this. It's like, "Anyone tried edibles?"
+
+259
+00:25:27,900 --> 00:25:34,900
+And now you can start going down another rabbit hole, but I'm trying to stay focused here, okay? This is just a product experience that you can also, again, go deeper on, right?
+
+260
+00:25:35,040 --> 00:25:41,100
+As you guys can see, there's so much to go deeper on. I don't want that to be overwhelming for you, I just want that to be, you know, really like
+
+261
+00:25:41,100 --> 00:25:44,360
+I want this to be exciting for you, more than anything, okay?
+
+262
+00:25:44,960 --> 00:25:48,440
+"67, I haven't slept more than 4 hours straight in 20 years," okay?
+
+263
+00:25:48,480 --> 00:25:51,080
+So, this is super interesting, so it seems like
+
+264
+00:25:51,080 --> 00:25:53,180
+this avatar that's like 60+.
+
+265
+00:25:53,860 --> 00:26:00,800
+So, we're just going to call it like the 60+ 4-hour-nighter sort of thing, or like 4 to 6-hour-nighter.
+
+266
+00:26:01,440 --> 00:26:04,320
+So, desire: obviously wants restorative sleep.
+
+267
+00:26:04,820 --> 00:26:07,440
+The demographic is going to be 60+.
+
+268
+00:26:07,880 --> 00:26:08,740
+Okay?
+
+269
+00:26:09,820 --> 00:26:17,820
+And so, their overall like experience, I would say, is sleeps 4 to 6 hours per night,
+
+270
+00:26:17,820 --> 00:26:22,720
+right? Or their behavior is they sleep 4 to 6 hours a night. At the end of the day, they're only they're only getting 4 to 6 hours per night.
+
+271
+00:26:23,160 --> 00:26:29,680
+So, what we can do here is we can start to base base ads around demographics as well.
+
+272
+00:26:30,360 --> 00:26:35,420
+Again, we're still including desire, where it's like, if you're 60+ and you haven't slept more than 6 hours
+
+273
+00:26:35,420 --> 00:26:40,300
+then and and or you can't sleep more than 6 hours, it's like here's the reason why.
+
+274
+00:26:41,020 --> 00:26:41,340
+Okay?
+
+275
+00:26:41,940 --> 00:26:47,240
+And so, this is a really, really good opportunity because at the end of the day, most like older people,
+
+276
+00:26:47,560 --> 00:26:51,660
+we could also add in a behavior here where it's like they go to bed early, huh, right?
+
+277
+00:26:53,460 --> 00:26:58,280
+Making assumptions here, not true, but I'm assuming most older people usually go to bed earlier, okay?
+
+278
+00:26:58,900 --> 00:27:07,380
+And so, potentially the reason why they can't sleep for longer than 4 to 6 hours is because like their room just isn't dark enough, right? See where I'm going with this?
+
+279
+00:27:07,840 --> 00:27:09,860
+And so, for people who are early nighters,
+
+280
+00:27:10,260 --> 00:27:11,320
+so I would call this,
+
+281
+00:27:11,700 --> 00:27:13,020
+so early nighters,
+
+282
+00:27:13,340 --> 00:27:19,440
+it's just a label. So, again, we're I mentioned we're going to talk about labels later. Labels are just like what you call these types of people, right?
+
+283
+00:27:19,500 --> 00:27:22,860
+Because 60+ 4 to 6-hour-nighter doesn't really make make sense.
+
+284
+00:27:23,120 --> 00:27:28,400
+Um, but we could just call this the elder, elderly, older night people,
+
+285
+00:27:29,240 --> 00:27:32,740
+or elderly early nighters, there we go, we're we're getting names together.
+
+286
+00:27:33,480 --> 00:27:40,500
+What we could do here is we could call these people out, where we could use more, even like a, you know, even even like a North Star ad,
+
+287
+00:27:40,500 --> 00:27:44,880
+where it's like, if you're if you're 60+, if you're if you only sleep 6 hours
+
+288
+00:27:44,880 --> 00:27:49,560
+and you're 60+, you know, here's why, blah blah blah blah. But at the end of the day, what I love about this angle is
+
+289
+00:27:49,560 --> 00:27:55,080
+we're starting to really develop some actionable sub-avatars that we can go and target.
+
+290
+00:27:55,520 --> 00:27:58,420
+Okay? And this was demographic based, we went through emotion-based ones.
+
+291
+00:27:58,500 --> 00:28:03,940
+This is another one: "How do people who work night shifts manage their lives when I find it difficult to wake up an hour earlier or go to bed an hour later?"
+
+292
+00:28:04,320 --> 00:28:08,540
+So, I'm very interested in night shifters, right? So, night shifters, there's a label right there. You see that?
+
+293
+00:28:08,540 --> 00:28:14,560
+When someone calls that out, speaking of labels, when someone calls that out, you got to jot that down, right?
+
+294
+00:28:14,840 --> 00:28:18,600
+So, this is also another demographic-based person because, again, it's based on their job.
+
+295
+00:28:19,080 --> 00:28:20,700
+And so, this would be night shift workers.
+
+296
+00:28:20,700 --> 00:28:21,820
+Okay?
+
+297
+00:28:24,040 --> 00:28:27,900
+And, again, think about, go deeper. What type of night shift workers are there?
+
+298
+00:28:28,540 --> 00:28:32,100
+There's, they could call they could be called like graveyard shifts, right? That's another thing.
+
+299
+00:28:32,520 --> 00:28:37,320
+So, night shifters is a really good label. I know this is ugly, but night shifters. We could also think about graveyard.
+
+300
+00:28:38,540 --> 00:28:41,400
+Graveyard shift is is a common term. We're trying to use their lingo. Okay?
+
+301
+00:28:42,380 --> 00:28:47,240
+So, let's go ahead and take a look. "I'm very interested in night shift night shifters' lifestyle outside of work.
+
+302
+00:28:47,260 --> 00:28:50,140
+Do you take some sleeping pills to go to sleep when you must go to sleep?
+
+303
+00:28:50,520 --> 00:28:55,320
+Do you go to sleep in the morning after the night shift, then what? Do you wake up in the evening, staying awake for the whole night?
+
+304
+00:28:55,680 --> 00:28:58,860
+It sounds like the whole regimen is is screwed up.
+
+305
+00:28:59,100 --> 00:29:05,860
+"Depends on the hours that you work. I worked from 11:00 p.m. to 8:00 a.m. for a few years, that was very easy to adjust to, and live a normal life
+
+306
+00:29:05,860 --> 00:29:13,160
+after work. I slept a few hours after work, woke up at at 1:00, and was good to go until 7:00 to 8:00, when I usually took a couple
+
+307
+00:29:13,160 --> 00:29:17,380
+of hours nap before work. Now I work 12-hour shifts, six to six.
+
+308
+00:29:17,760 --> 00:29:24,320
+And sometimes I have no control over my body, I sometimes get so tired, I come home, take a shower, and sleep until 3:00 or 4:00 p.m. non-stop.
+
+309
+00:29:24,320 --> 00:29:28,680
+No amount of noise or alarm can wake me up, but I do live a nocturnal life, so it's okay.
+
+310
+00:29:29,060 --> 00:29:31,500
+If you work nights, you have to embrace the lifestyle of a vampire."
+
+311
+00:29:32,120 --> 00:29:34,940
+So, there you go. Like, this is pretty interesting, right?
+
+312
+00:29:35,240 --> 00:29:41,160
+So, this is someone said, hey, I just embrace the lifestyle of a vampire, and that's just how it is.
+
+313
+00:29:41,740 --> 00:29:49,680
+But we can start to see like, okay, these are people that work night shift. And I'm going to try to build a sub-avatar for you guys, it's just this video's getting long, and I try to keep it short. Okay, cool.
+
+314
+00:29:49,900 --> 00:29:54,420
+So, here's just an example of like a night shift worker, where it's like desire: they want more restorative sleep.
+
+315
+00:29:54,420 --> 00:29:59,320
+Demographic: obviously works a night shift job. Even that alone could be good enough, right?
+
+316
+00:29:59,500 --> 00:30:04,380
+Because, again, I'm just looking at people who, you know, who are trying to manage their life better.
+
+317
+00:30:04,880 --> 00:30:07,480
+But this is super interesting to see either way, because, for example,
+
+318
+00:30:07,940 --> 00:30:12,140
+I spotted a few behaviors, right? I spotted people who go to bed right after work.
+
+319
+00:30:12,380 --> 00:30:17,120
+And then I spotted behaviors for people who, you know, go to bed a couple hours.
+
+320
+00:30:17,140 --> 00:30:21,840
+Like they wake up, they'll spend a couple hours after their day, in the morning, and then and then they go to bed, right?
+
+321
+00:30:22,260 --> 00:30:28,520
+And so, based on that behavior, the the behavior that I kind of like is like someone who who stays up for a bit after work,
+
+322
+00:30:29,880 --> 00:30:31,180
+and then goes to bed.
+
+323
+00:30:32,120 --> 00:30:36,920
+And what I like about this is because the angle here is like when you need to sleep
+
+324
+00:30:37,480 --> 00:30:42,860
+because you have to be up, you know, at, you know, 7:00 p.m. or whatever, or at a specific time.
+
+325
+00:30:43,220 --> 00:30:47,560
+This is kind of the, again, the hook or the headline like that I'm running, which we're we're going to get into very shortly.
+
+326
+00:30:48,820 --> 00:30:50,900
+You you need total darkness.
+
+327
+00:30:52,000 --> 00:30:53,520
+Right? And so, my
+
+328
+00:30:53,520 --> 00:30:58,200
+point of this is, is like we can start to see, okay, this is someone who works a night shift. They stay up a little bit late,
+
+329
+00:30:58,200 --> 00:31:03,520
+but they are basically setting an alarm, and they obviously have to be up at a certain point, but it's still bright out.
+
+330
+00:31:03,780 --> 00:31:09,600
+And so, what I would assume might happen is potentially these people are staying up too long, or whatever it is.
+
+331
+00:31:09,680 --> 00:31:14,940
+At the end of the day, I'm assuming these people are probably pretty tired because they work night shift, but a lot of them, it's just kind of their routine,
+
+332
+00:31:14,940 --> 00:31:19,160
+based on what I've seen. And again, I'm just doing This is just me doing one Reddit thread of research. But
+
+333
+00:31:19,160 --> 00:31:25,960
+my point is, is like, okay, now I have a sub-avatar of night shift workers, which is actually a great avatar for us to target because, guess what? They sleep during the day.
+
+334
+00:31:26,240 --> 00:31:32,080
+And that's when it's bright out. And obviously, if you're going to sleep, it's kind of hard to sleep during the middle of the day. Okay?
+
+335
+00:31:32,240 --> 00:31:37,320
+And so that is sub-avatars. You can see I have a ton here. In the next step, we're going to get into definitions.
+
+336
+00:31:37,900 --> 00:31:44,340
+We're going to get into angles, which has been one of the best things, the most fun I've ever had defining it. And so, I'm very excited for that.
+
+337
+00:31:44,340 --> 00:31:47,400
+But this is sub-avatars. You guys have hopefully gone through the core avatars video.
+
+338
+00:31:47,400 --> 00:31:53,920
+And I'm going to be pumping out these angles and these execution modules coming soon because I obviously know that we're getting very close to Q4,
+
+339
+00:31:53,920 --> 00:31:57,660
+depending on when you're watching this. This is probably going to be a video that lasts very long time. At the end of the day,
+
+340
+00:31:57,660 --> 00:32:03,560
+that is everything that you need to know around sub-avatars. If you still have questions, just know there is no right or wrong answer.
+
+341
+00:32:03,560 --> 00:32:10,360
+You're just building these sub-avatars, and these sub-avatars are going to give you the angles for you to go and test and target in your ads. Okay?
+
+342
+00:32:10,660 --> 00:32:16,700
+So, think of And I'm going to explain this a lot more clearly in the upcoming modules. Basically, your sub-avatars create the angles. Okay?
+
+343
+00:32:17,440 --> 00:32:23,760
+When you're trying to figure out, "Why why are we doing all this, Spencer? Why am I coming up with all these sub-avatars?" Well, these sub-avatars give you angles.
+
+344
+00:32:24,600 --> 00:32:29,200
+And in marketing, guess what? You need angles. And so if the angles are relatable, you're going to have better angles.
+
+345
+00:32:29,700 --> 00:32:34,400
+And so, that's the whole reason why we're doing this in the first place, for those of you trying to understand. I'm just taking things step by step.
+
+346
+00:32:34,540 --> 00:32:39,720
+So, I'm very excited for this. We're going to get into now some of the execution stuff, and I will see you in those modules.

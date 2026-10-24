@@ -1,0 +1,767 @@
+1
+00:00:00,000 --> 00:00:03,340
+All right. In this video, I'm going to show you how to edit video ads, kind of,
+
+2
+00:00:03,580 --> 00:00:11,780
+because I'm actually not going to be editing a video, and I know some of you would probably love to watch Spencer struggle to to edit a video, but I'm going to basically give you guys direction
+
+3
+00:00:11,780 --> 00:00:19,720
+on what you can do to bring your video scripts to life, okay? And so I have just some general, like,
+
+4
+00:00:19,880 --> 00:00:30,000
+Hey, first off, Coach Mike, shout-out to Coach Mike, did a video on how he edits at a very kind of like not beginner level, but just on like a level that scaled him to 100k per month. And sometimes, guys, like,
+
+5
+00:00:30,000 --> 00:00:37,840
+you don't need to be a world-class editor to get to 100k per month. You just kind of have to be good enough, okay? And to give you guys context, like, I'm actually going to go full screen for this,
+
+6
+00:00:37,840 --> 00:00:43,900
+we had a dude literally scale to a million dollars a month. He was making in net profit
+
+7
+00:00:43,900 --> 00:00:48,200
+over $250,000 a month, okay?
+
+8
+00:00:49,180 --> 00:00:50,200
+It was him and a VA.
+
+9
+00:00:50,980 --> 00:00:58,260
+He did all the script writing, he did all of the editing every single day, seven days a week. He did two to three concepts a day,
+
+10
+00:00:58,260 --> 00:01:04,060
+and he just like that he just forced his way to a million dollars a month. Now,
+
+11
+00:01:04,060 --> 00:01:11,840
+he had a very high-paying job, and it wasn't optimal, and we're working with him to help him build a real team, which he now has, and now he's scaled to $2 million a month.
+
+12
+00:01:11,840 --> 00:01:21,420
+But I wanted to give you guys context that, like, if you're too good to fail, like if you just do if you just do enough work, you can get to where you want to go, and then you have money to buy back your time and optimize things later.
+
+13
+00:01:21,420 --> 00:01:31,120
+But I don't want the excuse to be, "I can't find good video editors." Then do it yourself. Do it yourself until you can get to the point where you could afford to actually pay someone who's really good.
+
+14
+00:01:31,240 --> 00:01:40,780
+To give you guys context, like, when I found Carlo, I had to sell the shit out of him to actually join the company because he was making way more money. He was like, "Well, yeah, I'll work with you as a client."
+
+15
+00:01:40,780 --> 00:01:52,640
+And next thing you know, he saw that we were growing and we were developing, and he really believed in what we were doing, and he for some reason was delusional enough to stay with me, but he You know, I think I think he would say it was a decent decision, but at the end of the day,
+
+16
+00:01:52,640 --> 00:01:59,680
+I didn't really have that much value to give him, but I needed someone who's really good video editor, and I saw that Carlo was insane, and this guy was editing like 10 videos a day.
+
+17
+00:01:59,680 --> 00:02:07,600
+Like it it was nuts, and so if you can find a Carlo, great, but at the end of the day, most of you guys probably won't be able to or you're just you're just kind of like hoping at that point,
+
+18
+00:02:07,600 --> 00:02:16,260
+and so I'd rather see you just take it into your own hands. Or, if you feel like you can't do that, then if you don't want to pay with your time, you have to pay with money. You have to pay with something, okay?
+
+19
+00:02:16,720 --> 00:02:27,780
+So I just wanted to, like, clarify that before we get in a quick two-minute rant, but here we go. So, again, Coach Mike has a video on how to and how he edits videos. You can go and watch this. I'm pretty sure he just does it in CapCut. It's very, very simple.
+
+20
+00:02:27,780 --> 00:02:37,800
+Now, the question is is where do you get content? Well, the first place, I already mentioned this and I showed this to you guys, is Gridbank, okay? So you guys can go to Gridbank, and you can literally search up whatever clip that you need,
+
+21
+00:02:38,080 --> 00:02:48,500
+right? So let's just say walking in the snow, and I think I already had that one as something that I showed. So again, if we were trying to make the video of, like, "Are your toes always cold?" Well, there you go.
+
+22
+00:02:48,500 --> 00:02:59,800
+We've got people walking in the snow, right? We can see there's all these different clips of people just like walking in the snow, dog walking in the snow, right? Whatever you need, you can kind of find these clips on Gridbank.
+
+23
+00:02:59,940 --> 00:03:10,060
+Okay, this is what they do. They basically just like upload clips for you to buy. Now, the pricing here is again, I believe it's like $250 a month when you actually pay for the Yeah, so it's like $790 a quarter.
+
+24
+00:03:10,060 --> 00:03:16,960
+It's like 236 or something like that, or or 256, whatever it is. But you get 120 video downloads. You get premium content,
+
+25
+00:03:17,300 --> 00:03:26,200
+global content view, paid social rights. You get ad templates. You get a bunch of different things. So it's like, you guys, again, have to pay with time or you have to pay with money. This is kind of paying with money and time,
+
+26
+00:03:26,500 --> 00:03:36,160
+right? You're not hiring someone. And again, even if you hire an editor, they're probably going to need something like this. But at the end of the day, you can find Gridbank there. Insense is not something that I would probably recommend for most of you
+
+27
+00:03:36,160 --> 00:03:46,460
+just because it is relatively expensive, okay? Now, we do have a discount code, if you guys do want to use it. I thought I added it here. It's I think it should be called You can save $100 with
+
+28
+00:03:46,860 --> 00:03:53,000
+EZA100, I think it is. I'll I'll double-check what it actually is, but you'll you'll notice, like,
+
+29
+00:03:53,000 --> 00:04:03,720
+the pros and cons that I have with each for this, and and this is not me just like trying to get a commission from you guys. This is literally me just saying like if you want to save 100 bucks, you can. Insense is is about getting UGC creators.
+
+30
+00:04:03,940 --> 00:04:12,760
+And now the benefit with getting a UGC creator is you can kind of have you can just get a bunch of content from a bunch of people, and it might actually give you a winning ad. Like you might not
+
+31
+00:04:12,760 --> 00:04:21,320
+really have much to give them other than just a framework. And if you guys want more context on how to actually run this strategy, in the 0 to 100k per month training,
+
+32
+00:04:21,940 --> 00:04:32,080
+we actually talk about Insense at one of these points in here. I was like, "Hey, where where do you get content?" And it's it's somewhere in here. You guys can find it. I believe it's at like I think I show it here. Here it is. Like, get content,
+
+33
+00:04:32,300 --> 00:04:41,460
+find a creator, you can bring them in-house, you can pay them, again, $500 to $600 a month to do a video a week, and you can tell them what to do, and you can work next to them, if you're not someone that can film content.
+
+34
+00:04:41,460 --> 00:04:53,060
+But again, like this is going to be more pricey, but it is an option for you guys to get content for your videos. Now, I am not a fan of, like, "Okay, I write a script, and then I need to get a creator to go and film it." That just takes way too long.
+
+35
+00:04:53,300 --> 00:04:59,520
+To give you guys context, and I actually have real data on this, it takes us 6 days to do a video ad when we don't use a UGC creator.
+
+36
+00:04:59,920 --> 00:05:08,580
+When we use a UGC creator, it takes us 26 days, okay? And then if we use a UGC creator that we have in-house, it takes us 11 days.
+
+37
+00:05:08,980 --> 00:05:16,400
+And now those 11 days are actually like when the creator just does content like with a little bit of direction. If it's a full script, it gets up to like 15 days.
+
+38
+00:05:16,780 --> 00:05:25,580
+And so my point is is like it takes time to have someone film every single piece of content that you need for your script, and will that make the script better? Yes,
+
+39
+00:05:25,580 --> 00:05:34,960
+but my point is is like that's it's too much time. You need to test the script to see if it actually works. And then once you know it works, then you can go have a creator bring it to life, and that's something that we do all the time,
+
+40
+00:05:35,160 --> 00:05:40,560
+but my point is is like it's too slow. So you need to be using content that already exists, at least if you ask me,
+
+41
+00:05:40,920 --> 00:05:50,740
+okay? The next one here is Arcads, so it's $99 a month, and this is not really something where you can get B-roll from, and most of you guys, again, if we go into like the for every ad format that you can use,
+
+42
+00:05:51,780 --> 00:05:57,400
+here, in this ad format, the number one format that you guys should be using is voice-over with B-roll and subtitles with B-roll,
+
+43
+00:05:57,580 --> 00:06:03,920
+which means that nobody's actually talking. The only person that's talking is is in the background, it's like a narrative like a voice-over.
+
+44
+00:06:03,920 --> 00:06:08,220
+You'll notice in these videos, it's not someone talking directly to the camera, right?
+
+45
+00:06:08,220 --> 00:06:12,760
+So, if I play this video, you can see it's like, these are just clips, these are clips that are mashed together, right?
+
+46
+00:06:12,760 --> 00:06:20,820
+Parenting must-have, it's in a nursery. Here's like some crappy other humidifiers, and these were just clips that we found online or like our creators had old humidifiers.
+
+47
+00:06:20,980 --> 00:06:28,360
+So, this is just B-roll or B-roll and A-roll. I don't know, I don't think it's called A-roll, I think it's just B-roll. But my point is, it's like we're just combining B-roll. These are the videos that you guys want to make.
+
+48
+00:06:28,520 --> 00:06:35,780
+I promise you like, these are the most common videos that we make and they crush for us nine times out of 10, okay? Or like compared to other video types, right?
+
+49
+00:06:35,780 --> 00:06:42,740
+So, voice-over with B-roll or subtitles with B-roll, it's the same thing, you're just using B-roll, okay? So that's what I'm going to tell you guys to do.
+
+50
+00:06:42,740 --> 00:06:49,560
+The next one in here, so so again, so when we get to Arcads, the thing is is like your you can get an AI creator to like read a script for you.
+
+51
+00:06:49,560 --> 00:06:56,380
+Now, the script that I wrote won't make sense for an AI creator to read, and this is not something that I really endorse. I just want you to know like,
+
+52
+00:06:56,380 --> 00:07:05,100
+I think fakeness exists on all levels, so when you give a script to a creator they're being fake, and if you're using a fake person, well, they're also being fake.
+
+53
+00:07:05,360 --> 00:07:13,460
+So, I've kind of changed a little bit on what I think is good and what I think is bad. But again, legally, I'm not sure like if you're actually getting a AI UGC creator to be like,
+
+54
+00:07:13,480 --> 00:07:19,200
+"I tried this product, and it's great, and I love it." Like that's I I'm not a fan of that, I don't recommend that. If you're using for B-roll, I think it's fine,
+
+55
+00:07:19,340 --> 00:07:25,500
+like to have some kind of person like pointing at stuff or whatever, a lot of people use AI avatars or stuff like that.
+
+56
+00:07:25,620 --> 00:07:30,200
+I just don't want to send you guys down that direction, I'd rather see you guys just like use GridBank content or whatever, okay?
+
+57
+00:07:30,500 --> 00:07:33,800
+You can also film things yourself, and you can also source creators yourself.
+
+58
+00:07:33,800 --> 00:07:42,640
+So, if you don't want to pay for GridBank and you don't want to, you know, hire a creator to film content for you, then number one, you can go and film it yourself,
+
+59
+00:07:42,640 --> 00:07:49,560
+or number two, you can just go on TikTok and go on Instagram. I have a very old YouTube video, I'll see if I can actually find it for you guys.
+
+60
+00:07:49,800 --> 00:07:56,060
+So, here's the old school YouTube video of me with a whopping 680 views from 2 years ago.
+
+61
+00:07:56,060 --> 00:08:04,460
+So, this shows you like, hey, go to Twitter and post with hashtags, go to Collabstr, send emails, follow on Twitter, follow on Instagram, DM them, go and hunt these people down.
+
+62
+00:08:04,840 --> 00:08:13,040
+But you can also create a free account to Insense and you can go to Creator Discovery, and guess what? This is not really how Insense wants me to tell you guys how to use it,
+
+63
+00:08:13,280 --> 00:08:20,960
+but you guys can scroll here, oh, looks like they might have actually patched it, cuz I I used to I used to do this. I used to view the profile, get their @,
+
+64
+00:08:21,540 --> 00:08:25,580
+and sometimes you can see their @, there's their Amazon storefront there, which is not really ideal,
+
+65
+00:08:26,200 --> 00:08:31,640
+but I used to be able to find their @. It says, "Unlock Creator Marketplace," so, yeah, you've got to upgrade the plan, so it was worth the try.
+
+66
+00:08:31,640 --> 00:08:39,600
+But you might be able to find the creator on there, you might be able to see like what their names are or stuff like that. Or if you go to their Amazon storefront, you might be able to like find their name,
+
+67
+00:08:40,220 --> 00:08:47,000
+so you can see here, Crystal Gonzalez is the creator, so you might be able to sneak that way if they have an Amazon storefront. But, yeah,
+
+68
+00:08:47,920 --> 00:08:55,100
+I think Insense realized people were using like me, the Creator Marketplace, a little a little aggressively, and not the way that you're supposed to.
+
+69
+00:08:55,180 --> 00:08:59,080
+But anyways, some things get patched, good things get patched, it's like a just like in video games.
+
+70
+00:08:59,080 --> 00:09:04,380
+But my point is, is now if we go back to this, you can just go and and source and find these creators yourself.
+
+71
+00:09:04,380 --> 00:09:11,780
+And the other thing that you can do, and now this is something that I have to tell you to be careful, and I didn't want to put this in here, but I have to understand that like I know
+
+72
+00:09:11,780 --> 00:09:19,800
+for a lot of people and I don't want I I got to be careful with how I say this, but I know there are people who have ripped content before,
+
+73
+00:09:19,800 --> 00:09:23,300
+like just fully ripped videos for products, and and and tested them, okay?
+
+74
+00:09:24,260 --> 00:09:27,040
+And it has worked for them, right?
+
+75
+00:09:27,920 --> 00:09:34,460
+The problem with that is this, it'll work for you for a little bit if it does work, again, and it's illegal,
+
+76
+00:09:35,660 --> 00:09:41,200
+but then you just get stuck in this place where you have no skill, okay?
+
+77
+00:09:41,860 --> 00:09:50,000
+And I want you guys to have a skill set. That is why I'm spending so much time to do this, because if you guys get a skill set, you get better, you make more money, guess what, you join Evolve, you pay me more money,
+
+78
+00:09:50,340 --> 00:09:56,260
+and then at some point maybe you join other programs, and everybody's happy, and we win. And that's why I'm investing, I'm investing into you guys, okay?
+
+79
+00:09:56,660 --> 00:10:01,900
+But my point is, is that instead of just ripping an entire video and uploading it to your account,
+
+80
+00:10:02,360 --> 00:10:06,420
+you can do what I kind of call slightly more ethical ripping,
+
+81
+00:10:06,720 --> 00:10:13,880
+which means that you can go to creators with less than 5k followers and you can basically just go on Instagram and you can search for a specific clip,
+
+82
+00:10:13,880 --> 00:10:19,420
+or you can go on TikTok and search for a specific thing like walking in the snow or whatever it is, okay?
+
+83
+00:10:19,940 --> 00:10:25,080
+And instead of ripping the entire video, cuz obviously wouldn't make sense, you can just rip the clips, okay?
+
+84
+00:10:25,640 --> 00:10:30,660
+That said, I want you guys to know, this is copyright, okay? You are taking someone else's property.
+
+85
+00:10:31,080 --> 00:10:37,120
+I I think it's stupid cuz I just feel like, listen, dude, if you post something on the internet, anybody can use it.
+
+86
+00:10:37,980 --> 00:10:44,020
+At least that's my marker brand. I'm like, you know what, dude, you're posting a video on the internet, I'm and you know what, I need it,
+
+87
+00:10:45,080 --> 00:10:53,380
+I'm going to use it. But at the end of the day, that is not it's not ethical, okay? Or sorry, it's not that it's not ethical, well, it's not ethical, but like that is not allowed, okay?
+
+88
+00:10:53,660 --> 00:11:00,940
+That is the creator's property in the digital world, it's really dumb. But the point is, is if you do this, you can get the perfect clip.
+
+89
+00:11:00,940 --> 00:11:05,760
+I I I can promise you guys like you will be able to find the perfect clips. When you're doing this, though,
+
+90
+00:11:05,760 --> 00:11:11,600
+make sure you do not include the creator's face and make sure that you're just pulling the clip
+
+91
+00:11:12,500 --> 00:11:15,180
+and editing it so it goes into the video, right?
+
+92
+00:11:15,180 --> 00:11:17,700
+Not for it to be like the entire video, whatever it is.
+
+93
+00:11:17,940 --> 00:11:22,040
+And, again, like I said, do not put people's faces in there. I do not recommend that you do that. That's really bad.
+
+94
+00:11:22,360 --> 00:11:28,900
+And so, my point is is that you can do what we kind of called ethical sourcing—it's ripping regardless—to take content.
+
+95
+00:11:29,040 --> 00:11:32,720
+And then, what you're doing here is you're basically just asking for forgiveness later.
+
+96
+00:11:32,720 --> 00:11:38,940
+So, someone, and I promise you, if the ad scales and then works, they're going to come to you and say, "Hey, you're using my content.
+
+97
+00:11:39,280 --> 00:11:40,960
+I demand X amount of money."
+
+98
+00:11:41,360 --> 00:11:43,440
+Some people might demand a couple hundred bucks.
+
+99
+00:11:43,880 --> 00:11:47,080
+Some people, like we've had others, then might demand $10,000.
+
+100
+00:11:47,620 --> 00:11:53,440
+We had a specific editor when we used to do this—we don't do this anymore, just by the way, we use AI now, which I'm going to talk about down below.
+
+101
+00:11:54,380 --> 00:11:57,380
+We had one editor take content from a creator that had 100,000 followers.
+
+102
+00:11:57,440 --> 00:12:00,860
+She wanted $12,000 for one single clip.
+
+103
+00:12:00,860 --> 00:12:02,200
+K?
+
+104
+00:12:02,200 --> 00:12:06,640
+So, I want you guys to understand that this is you might get very much in trouble for this.
+
+105
+00:12:06,640 --> 00:12:14,500
+You You likely will have to turn off the ad, and I don't want you guys to get You You're You're probably not going to get sued, but like I don't want you guys to have legal trouble
+
+106
+00:12:14,500 --> 00:12:15,620
+because of what I'm telling you.
+
+107
+00:12:15,740 --> 00:12:23,660
+So, if you are like, "Listen, bro, I'm dead broke, I can't afford this, I can't afford that," if you ask me, you probably should do what I'm about to tell you down below.
+
+108
+00:12:24,120 --> 00:12:31,140
+So, assuming you guys have some kind of money to reinvest into these things, use like these are kind of in order of how I would use them.
+
+109
+00:12:31,280 --> 00:12:34,420
+And even film and source yourself, you can use that at the top as well.
+
+110
+00:12:34,680 --> 00:12:41,280
+But if you need to take content from the internet by searching on Instagram or searching on TikTok for specific clips or whatever it is,
+
+111
+00:12:41,600 --> 00:12:46,420
+you can do that. Again, if you ask me, it's better than just fully ripping someone's video, but it's still not great.
+
+112
+00:12:46,700 --> 00:12:49,100
+K? So, that is what I'm going to say on that point.
+
+113
+00:12:49,960 --> 00:12:57,940
+The other thing that you can do, which is the most honestly dialed-in thing, is learn how to edit like the top 1% and make enough money to then hire an editor later.
+
+114
+00:12:58,580 --> 00:13:01,320
+I want to make it clear that you do not have to edit your own videos.
+
+115
+00:13:02,000 --> 00:13:08,820
+However, this is a skill that I would recommend everyone sub 30k a month or 20k a month, most of you guys in here, should probably learn.
+
+116
+00:13:09,660 --> 00:13:10,600
+Why am I saying that?
+
+117
+00:13:11,100 --> 00:13:14,460
+Well, execution is one of the biggest reasons that your ads fail.
+
+118
+00:13:14,900 --> 00:13:19,920
+And because of your stage, you cannot afford quality editors or, very important here,
+
+119
+00:13:20,600 --> 00:13:22,220
+do good editors want to work for you?
+
+120
+00:13:22,600 --> 00:13:31,800
+If you're doing $3,000 a month, why would someone who's good want to work with you when they could work, not to be a dick, with someone like me, where we have clients spending $3,000 an hour?
+
+121
+00:13:32,380 --> 00:13:34,960
+Right, like who would you want to work with if you're a quality editor?
+
+122
+00:13:35,400 --> 00:13:36,660
+Probably the bigger guys, right?
+
+123
+00:13:36,660 --> 00:13:42,360
+And so, my point is, going back to the screen, is that it's going to be hard for you to find someone who's good.
+
+124
+00:13:42,860 --> 00:13:44,560
+And, also, find someone who's cheap,
+
+125
+00:13:45,660 --> 00:13:51,160
+k, which is where if you do hire editors, most of them are shit or they're working with all these other clients and they take forever.
+
+126
+00:13:51,480 --> 00:13:58,260
+So, if you, and just to correct this, don't have a good editor, and like I just said, because you don't have the money or opportunity to attract one, you should likely learn how to do it yourself.
+
+127
+00:13:58,680 --> 00:14:03,980
+And for context, guys, Sean literally edited all the videos at the agency when we started out.
+
+128
+00:14:06,000 --> 00:14:07,400
+Lit- like literally Sean.
+
+129
+00:14:07,400 --> 00:14:12,600
+Like Sean that you know from Twitter, Sean. He edited the videos for our brands. I swear to God, k?
+
+130
+00:14:12,780 --> 00:14:18,680
+So, just goes to show you that it's like skills can compound. You can stack skills and get good enough to make money.
+
+131
+00:14:19,180 --> 00:14:24,400
+K? Even though it feels like a low-leverage skill, I'm telling you, video editing is like pays a lot of money, k?
+
+132
+00:14:24,620 --> 00:14:34,340
+So, my point is is that there is link and information here, and I'm giving you guys our Evolve code, it's only supposed to be for Evolve, but it's going into Origins as well, and it's actually like $90 a month.
+
+133
+00:14:34,460 --> 00:14:36,280
+But the point is is you can go to ecomtalent.
+
+134
+00:14:36,760 --> 00:14:39,420
+Now, you might be wondering, "What the heck is ecomtalent?"
+
+135
+00:14:41,120 --> 00:14:46,780
+ecomtalent, explained by Carlo, is a course and a community made to train video editors, graphic designers on how to make winning ads for e-com brands.
+
+136
+00:14:47,020 --> 00:14:52,480
+The entire point is to train killer editors and ultimately turn them into creative strategists who can also make ads, a one-man team.
+
+137
+00:14:53,360 --> 00:14:53,960
+What's inside the course?
+
+138
+00:14:54,200 --> 00:14:59,840
+Inside the course consists of 15+ hours of content ranging from marketing fundamentals, because that's still the most important thing for editors,
+
+139
+00:14:59,840 --> 00:15:09,940
+to video ads, static ads, AI implementation, and basically Carlo shows behind the scenes into how he's how we're producing ads. Like Carlo is our creative director at the agency, for those of you that don't know.
+
+140
+00:15:10,340 --> 00:15:20,900
+And the last section of the course is all about creative strategy, and this unlocks 30 days after joining the course because it's essential for you to learn video editing first so that you can actually like learn how to edit the ads.
+
+141
+00:15:21,440 --> 00:15:27,440
+And then, again, if you're still making ads yourself, um this will be beyond valuable, which we still even have people in Evolve that edit their own videos.
+
+142
+00:15:27,920 --> 00:15:33,520
+And so, if you're serious about scaling your brand, you will at some point have to invest into your to to team members to develop them further.
+
+143
+00:15:33,520 --> 00:15:46,300
+So, let's just say, for example, you are in ecomtalent, and say you hire a video editor, well, you can—I mean, I'm not going to tell you to do this, but you can, I'm kind of telling you to do it—like give your login to the editor and have the editor go through the program as well so they get better.
+
+144
+00:15:46,300 --> 00:15:55,340
+And when I tell you guys like ecomtalent is one of the craziest opportunities right now because—and this is going to be something that I add at the start, so maybe you've already heard it—but like if you're dead broke,
+
+145
+00:15:55,340 --> 00:16:04,340
+we just we actually j- didn't we're about to. We're about to pay a dude $3,500 in clear-cut cash for one video ad that he made.
+
+146
+00:16:05,260 --> 00:16:08,560
+That ad is spending $13,000 a day for us.
+
+147
+00:16:09,740 --> 00:16:11,140
+He made that ad through ecomtalent,
+
+148
+00:16:12,260 --> 00:16:18,280
+okay? And so, think about it like, if he got good enough through ecomtalent to make an ad that can spend $13,000 a day,
+
+149
+00:16:18,500 --> 00:16:21,380
+don't you think it could probably make you good enough to make an ad that,
+
+150
+00:16:21,380 --> 00:16:25,140
+you know, can spend $1,000 a day?
+
+151
+00:16:25,740 --> 00:16:31,760
+I'd hope so. And I I want to be clear that like, I'm not here shilling ecomtalent because you guys are obviously in Origins to grow your brand,
+
+152
+00:16:31,760 --> 00:16:37,040
+and like, I feel like I've given you everything that you need to do, but the only thing that you don't have is video editing.
+
+153
+00:16:37,040 --> 00:16:43,500
+So, again, the goal with ecomtalent would be to join ecomtalent to get another skill, because I'll be honest with you, for what we're charging you for Origins,
+
+154
+00:16:44,200 --> 00:16:49,120
+I'm not going to include Carlo's program, because his program is worth probably 10 times the price
+
+155
+00:16:49,420 --> 00:16:53,360
+than what he's charging, okay? So, literally, even though it's like, "Oh Spencer, you're upselling us here,"
+
+156
+00:16:53,360 --> 00:16:56,580
+it's like sure, if you want to call an upsell, you can, but at the end of the day, for $180
+
+157
+00:16:57,440 --> 00:17:03,640
+you get access to Origins and you get access to a literal video editing masterclass program from a guy
+
+158
+00:17:03,640 --> 00:17:09,120
+who makes ads that have spent millions of dollars, like holy shit! For 180 bu-
+
+159
+00:17:09,120 --> 00:17:14,980
+Like it's, you know, I mean, maybe stop ordering Uber Eats a couple of days a week and it's paid for, you know what I mean?
+
+160
+00:17:15,120 --> 00:17:19,260
+And so, my my point is, is like, you don't have to do this. I put this at the end for a reason.
+
+161
+00:17:19,260 --> 00:17:22,660
+If you want to go through and you want to edit all this stuff, you can.
+
+162
+00:17:22,900 --> 00:17:26,840
+But if you want to learn how to edit ads yourself and just take things in your own hands, you can.
+
+163
+00:17:27,100 --> 00:17:33,040
+And guess what? The way that we're actually paying that person is through something called bounties, which you will discover if you actually join the community,
+
+164
+00:17:33,040 --> 00:17:39,260
+where you can submit ads for the brands that we actually work on, and you can get paid performance for them,
+
+165
+00:17:39,620 --> 00:17:44,040
+okay? And so, that's not to side quest you and have you start, you know, doing
+
+166
+00:17:44,040 --> 00:17:49,640
+what we're doing in ecomtalent, and take you away from your brand. I want you to stay focused on your brand, but if you don't know how to edit videos like,
+
+167
+00:17:49,640 --> 00:17:53,400
+and you can't afford someone, you should probably learn how to do it, okay?
+
+168
+00:17:53,400 --> 00:17:59,020
+And so, that's my spiel on ecomtalent and again, I'm probably going to have a part of this up further in the program,
+
+169
+00:17:59,020 --> 00:18:05,000
+but for anybody who's watching this as soon as the videos comes out, which I know a lot of you are, um this is just like, it's such a crucial skill.
+
+170
+00:18:05,000 --> 00:18:08,760
+Copywriting, crucial skill. Learning how to do research, crucial skill.
+
+171
+00:18:08,760 --> 00:18:14,120
+And then guess what? Putting it all together with editing. I promise you guys like, if you just know how to make your own ads, you have no- like
+
+172
+00:18:14,120 --> 00:18:18,960
+you don't have to you don't have to worry about a video editor being bad, because you're just doing everything yourself.
+
+173
+00:18:19,280 --> 00:18:22,620
+Now again, is that, you know, long-term super scalable to do everything yourself? No.
+
+174
+00:18:22,820 --> 00:18:26,080
+But guess what? You're never really going to go hungry if you just know how to make winning ads.
+
+175
+00:18:26,440 --> 00:18:31,120
+And guess what? Say you do this e-com brand thing and you're like, "You know what? I'm not really a big fan. Maybe I should see if Spencer's hiring,
+
+176
+00:18:31,120 --> 00:18:35,440
+or maybe if I should see the hundreds of other brands that we have in Evolve
+
+177
+00:18:35,440 --> 00:18:40,440
+need help with a creative strategist." Well, guess what? You're probably going to get hired because you're trained through this,
+
+178
+00:18:40,440 --> 00:18:44,920
+and you're trained through ecomtalent, so you know how to do everything. And so, I'm not trying to basically
+
+179
+00:18:44,920 --> 00:18:51,040
+tell you to go in a different direction, but I'm trying to help you understand that you can have options if you have a skill set. If you have a valuable skill set,
+
+180
+00:18:51,200 --> 00:18:54,060
+you can make money a lot of different ways, okay?
+
+181
+00:18:54,320 --> 00:18:59,180
+And so, with that said, that is how to edit videos plus ecomtalent plus another typical Spencer rant.
+
+182
+00:18:59,180 --> 00:19:04,220
+But my point is, is hopefully now you guys can see how everything works together. You could see how we use the prompt
+
+183
+00:19:04,220 --> 00:19:10,060
+to optimize it to then bringing it to life with your own skills, or going into ecomtalent to learn them even better,
+
+184
+00:19:10,060 --> 00:19:13,600
+and ultimately making some banger ads that helps scale your brand.
+
+185
+00:19:13,740 --> 00:19:18,580
+So, that is everything that you need to know. If you have other questions around this stuff or about ecomtalent in general, let me know.
+
+186
+00:19:18,880 --> 00:19:23,000
+I'll probably have Carlo come do a special guest call at some point for you guys, but that is it, okay?
+
+187
+00:19:23,200 --> 00:19:28,020
+And even though I didn't even mention it, there's also exclusive access to his AI program that's in there,
+
+188
+00:19:28,040 --> 00:19:34,540
+which right now you still get. Probably going to change, but if you want to see how to generate all these clips with AI, not using Arcads, but using a different tool,
+
+189
+00:19:34,940 --> 00:19:40,540
+it's in there as well. And that's what we're doing at the agency. We're literally making fully AI videos that look 100% realistic.
+
+190
+00:19:40,920 --> 00:19:45,260
+The B-roll that we're generating looks like it was from GridBank or shot by a creator, and it's fully AI.
+
+191
+00:19:45,260 --> 00:19:47,700
+So, if you're interested in that, you know where to go.
+
+192
+00:19:47,980 --> 00:19:50,040
+All right. Appreciate you guys for watching, and I hope this helps.

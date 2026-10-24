@@ -1,0 +1,1350 @@
+{
+  "lesson": {
+    "num": 12,
+    "id": "012-why-the-fact-its-hard-is-actually-good",
+    "title": "Why the fact it’s hard is actually good",
+    "section": "🧘 Origins Mindset",
+    "video": "12. Why the fact it’s hard is actually good Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 845.888,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=b7be8abae77e4d76a24a9b4871b8fc29"
+  },
+  "generated_at": "2026-10-06T20:24:06-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (95% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 3103,
+    "matched_tokens": 2935,
+    "match_ratio": 0.946,
+    "segments_aligned": 131,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 1,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 307.852,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.996,
+      "wpm": 243.1,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 307.852,
+      "end": 574.18,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.997,
+      "wpm": 229.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 574.18,
+      "end": 845.888,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.997,
+      "wpm": 240.3,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.6,
+      "speaker": "Presenter",
+      "text": "All right guys, in this final video we're going to talk about why the fact it's hard is actually a good thing",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 6.14,
+      "end": 12.5,
+      "speaker": "Presenter",
+      "text": "and then we're actually going to have a good time laughing about what hard really is once we get into this. So,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 12.5,
+      "end": 19.82,
+      "speaker": "Presenter",
+      "text": "first off, you know, if if something were easy, I want you guys to understand this, like if something were easy everyone would have it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 20.52,
+      "end": 20.9,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 21.78,
+      "end": 25.64,
+      "speaker": "Presenter",
+      "text": "You guys have probably heard this before, but again, sometimes you just need to be reminded more than you're taught.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 25.64,
+      "end": 33.52,
+      "speaker": "Presenter",
+      "text": "And you need to understand that difficulty is a filter that separates those who want it from those who deserve it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 34.08,
+      "end": 34.28,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 34.96,
+      "end": 38.14,
+      "speaker": "Presenter",
+      "text": "The hardness of something is what creates scarcity.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 38.92,
+      "end": 40.82,
+      "speaker": "Presenter",
+      "text": "Scarcity is what equals value.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 41.62,
+      "end": 41.84,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 42.88,
+      "end": 48.98,
+      "speaker": "Presenter",
+      "text": "And so, I want you guys to even just think of this very simply. This phone right here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 50.8,
+      "end": 53.82,
+      "speaker": "Presenter",
+      "text": "why is why is this just like something that we're just like \"Oh, whatever.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 54.56,
+      "end": 58.34,
+      "speaker": "Presenter",
+      "text": "Like, you know, \"Yeah, cool. Spencer has a phone.\" Like, why why don't people flex that they have a phone?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 59.16,
+      "end": 62.6,
+      "speaker": "Presenter",
+      "text": "You know, maybe they do in in Third World countries, I'm not sure. But it's like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 62.6,
+      "end": 65.64,
+      "speaker": "Presenter",
+      "text": "you guys need to understand that like everybody has this.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 66.3,
+      "end": 70.06,
+      "speaker": "Presenter",
+      "text": "So we don't really care, like it's not a flex to have a phone.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 70.98,
+      "end": 74.94,
+      "speaker": "Presenter",
+      "text": "But you know what's a flex? Driving a Lamborghini,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 74.94,
+      "end": 77.62,
+      "speaker": "Presenter",
+      "text": "driving a Ferrari. Why?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 78.12,
+      "end": 81.02,
+      "speaker": "Presenter",
+      "text": "Why is that a flex? Why is that something that that that you want?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 81.4,
+      "end": 85.58,
+      "speaker": "Presenter",
+      "text": "If maybe you don't want a Lamborghini, maybe you just want to make money, maybe you want to move out, whatever it is, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 85.82,
+      "end": 90.66,
+      "speaker": "Presenter",
+      "text": "Maybe you want to make hundreds of thousands of dollars a month, why why, why do you, why?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 91.32,
+      "end": 96.08,
+      "speaker": "Presenter",
+      "text": "Like literally have you ever asked yourself why? A lot of the times it's for reasons that, you know, don't even matter, but it's like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 96.46,
+      "end": 98.5,
+      "speaker": "Presenter",
+      "text": "because others don't have it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 99.88,
+      "end": 103.86,
+      "speaker": "Presenter",
+      "text": "That's why, okay? And so the fact that it's hard",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 103.86,
+      "end": 110.7,
+      "speaker": "Presenter",
+      "text": "to get a Lamborghini or make a hundred thousand dollars a month is what makes it worth it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 111.44,
+      "end": 111.58,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 111.98,
+      "end": 114.8,
+      "speaker": "Presenter",
+      "text": "And so again, a quote from someone smarter than me,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 115.04,
+      "end": 118.6,
+      "speaker": "Presenter",
+      "text": "\"The fact that most people quit is the reason that you shouldn't.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 118.72,
+      "end": 126.56,
+      "speaker": "Presenter",
+      "text": "Okay, you have to understand that most people quit, which is why most people don't make hundreds of thousands of dollars a month, or hundreds of thousands of dollars a year.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 127.78,
+      "end": 128.38,
+      "speaker": "Presenter",
+      "text": "They quit.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 129.0,
+      "end": 129.58,
+      "speaker": "Presenter",
+      "text": "It's hard.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 130.62,
+      "end": 136.8,
+      "speaker": "Presenter",
+      "text": "They don't want it, like, you know, they they they really if you if you ask those people, they just don't want it that badly.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 137.18,
+      "end": 140.5,
+      "speaker": "Presenter",
+      "text": "Which is okay, like it's fine if you don't want it that bad,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 140.5,
+      "end": 146.22,
+      "speaker": "Presenter",
+      "text": "but don't complain about the fact that you're not making money if you're not wanting to push through shit that's hard.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 146.22,
+      "end": 147.96,
+      "speaker": "Presenter",
+      "text": "'Kay?",
+      "chunk": 0,
+      "timing": "interpolated"
+    },
+    {
+      "id": 36,
+      "start": 147.96,
+      "end": 152.84,
+      "speaker": "Presenter",
+      "text": "So, I want you guys to to understand this, and then we're going to get into some some funny stuff down below,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 153.34,
+      "end": 160.22,
+      "speaker": "Presenter",
+      "text": "but just different framing for you guys. If some of you guys, I might just like be sending you back to this, I'm like \"Watch this module.\" Every frustration, so",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 160.22,
+      "end": 165.18,
+      "speaker": "Presenter",
+      "text": "no winning ads, low ROAS, losing money, this is proof that you're in the arena when most people aren't.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 165.18,
+      "end": 170.12,
+      "speaker": "Presenter",
+      "text": "So when that bad shit is happening, it's like, guess what? At least it's happening to you",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 170.12,
+      "end": 173.56,
+      "speaker": "Presenter",
+      "text": "because most people aren't even aren't even experiencing that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 173.56,
+      "end": 183.02,
+      "speaker": "Presenter",
+      "text": "They're sitting on their ass watching Netflix, playing Clash of Clans or fucking Minecraft or something. I don't know, and, you know, it's funny. We actually have people that play Minecraft. Anyway, the point is is like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 184.52,
+      "end": 194.26,
+      "speaker": "Presenter",
+      "text": "this is like they're you're experiencing things that most people don't experience, and that is a sign that you will eventually experience something that most people won't experience.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 195.48,
+      "end": 195.84,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 196.96,
+      "end": 202.54,
+      "speaker": "Presenter",
+      "text": "So, instead of saying \"This is hard,\" say \"Oh, this is just the part that makes it worth it.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 202.78,
+      "end": 209.6,
+      "speaker": "Presenter",
+      "text": "Like okay, you know, like going back to what Michael Rubin was just talking about, it's like he gets excited when it's hard, because that's what makes it worth it, guys.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 210.64,
+      "end": 217.0,
+      "speaker": "Presenter",
+      "text": "Right? So this mindset helps you kind of flip like these painful things into progress.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 217.68,
+      "end": 218.56,
+      "speaker": "Presenter",
+      "text": "It's like \"Oh, shit!\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 219.32,
+      "end": 222.66,
+      "speaker": "Presenter",
+      "text": "I like I even like if you guys think about it, it's like you know what ROAS means.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 222.66,
+      "end": 227.86,
+      "speaker": "Presenter",
+      "text": "Most people don't know what a ROAS is, let alone a low ROAS or winning ads. What the hell is that?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 228.1,
+      "end": 234.58,
+      "speaker": "Presenter",
+      "text": "It's like you're in the arena, right? This is you guys are getting the reps, like this is dope that you guys are actually doing this, 'kay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 235.46,
+      "end": 241.0,
+      "speaker": "Presenter",
+      "text": "And again, the very reason most people don't have it is the same reason it's so rewarding when you finally do.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 241.32,
+      "end": 245.92,
+      "speaker": "Presenter",
+      "text": "Again, just emphasizing what I mentioned up here. The fact that it's hard is what makes it worth it, and you guys",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 246.06,
+      "end": 255.6,
+      "speaker": "Presenter",
+      "text": "I feel like I I almost want to get it like tattooed like on my somewhere, cuz like even me guys, like you have to understand like there's times when I'm like filming I've made like four programs this year.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 255.6,
+      "end": 261.1,
+      "speaker": "Presenter",
+      "text": "Like I like most people, I mean, I don't know. I don't want to compare myself, cuz comparison's dumb, doesn't help you, but it's like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 261.58,
+      "end": 266.06,
+      "speaker": "Presenter",
+      "text": "there's times where I'm like \"I just don't want to do this. Like I don't even need to do this. Like why am I doing this?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 266.52,
+      "end": 273.68,
+      "speaker": "Presenter",
+      "text": "But it's like, okay, yeah it's hard, but that's what makes it worth it. That's why I'm going to get to the point where, you know, most people aren't.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 273.84,
+      "end": 281.6,
+      "speaker": "Presenter",
+      "text": "Because I'm doing the things that are hard. I'm The the more the more work it takes to get something, the less people have it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 281.82,
+      "end": 286.06,
+      "speaker": "Presenter",
+      "text": "You know, you guys even, maybe you're into like supercars. I just use cars cuz a lot of people use that, but it's like a Bugatti.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 286.94,
+      "end": 292.06,
+      "speaker": "Presenter",
+      "text": "Like where do you Like, even my dumb ass, I saw five Bugattis in like a parking lot near my house, and I was like,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 292.48,
+      "end": 296.62,
+      "speaker": "Presenter",
+      "text": "they were doing a car show, I was like \"Bro, there's five Bugattis right there. It's like twenty million dollars in cars.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 297.12,
+      "end": 300.68,
+      "speaker": "Presenter",
+      "text": "Why am I so like blown away by that?\" It's because most people don't have it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 300.98,
+      "end": 307.32,
+      "speaker": "Presenter",
+      "text": "And that again, if most people don't have it, that's what makes it worth it, okay? So I really, really want to hammer this point home, around the fact that",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 307.32,
+      "end": 312.84,
+      "speaker": "Presenter",
+      "text": "The fact that it's hard is what makes it worth it, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 312.88,
+      "end": 319.5,
+      "speaker": "Presenter",
+      "text": "So, you just have to constantly like drill that down. You know what? It's hard, but that's a good thing. You have to see hard as a good thing.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 319.66,
+      "end": 328.12,
+      "speaker": "Presenter",
+      "text": "Now, it doesn't mean you see it hard as forever, because eventually things will get easier as you get more knowledge. But in the beginning, there's so many skills that you have to learn that again, it's gonna be hard.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 328.22,
+      "end": 335.48,
+      "speaker": "Presenter",
+      "text": "It's gonna be overwhelming, but that's a good thing because most people are just gonna be overwhelmed and guess what? They're gonna quit, which is why most people don't have the things that you are probably working for, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 336.26,
+      "end": 344.48,
+      "speaker": "Presenter",
+      "text": "Now, to keep it real with you guys, this is not to like, and this is serious, okay? So, it's like, it is hard nowadays, and I want you guys to know that, but at the end of the day,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 344.48,
+      "end": 354.54,
+      "speaker": "Presenter",
+      "text": "it's also really not that hard, guys. You guys have to understand the opportunity that we have right now is ridiculous, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 355.22,
+      "end": 361.76,
+      "speaker": "Presenter",
+      "text": "Let's just compare this, okay, starting a business in, in the 2020s versus the 1990s, guys. We're talking 30 years.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 361.98,
+      "end": 367.56,
+      "speaker": "Presenter",
+      "text": "Like this is like your parents or, for some of you guys, I mean, your grandparents, that grew up during this, this time, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 368.1,
+      "end": 375.0,
+      "speaker": "Presenter",
+      "text": "You had to rent office space, even if you were solo, you needed landlines, fax machines, physical business cards,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 375.48,
+      "end": 382.32,
+      "speaker": "Presenter",
+      "text": "building a website, good luck, right? Marketing, Yellow Pages, newspaper ads, or local radio.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 382.98,
+      "end": 388.44,
+      "speaker": "Presenter",
+      "text": "To reach customers outside of your city, you needed a warehouse, shipping partners, and trust, just to get outside of your city or your town.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 389.24,
+      "end": 396.7,
+      "speaker": "Presenter",
+      "text": "Mail-order catalogs, all these different things. To hire, you had to post in local places. You, you couldn't get global talent.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 397.28,
+      "end": 403.88,
+      "speaker": "Presenter",
+      "text": "You couldn't just have people come and apply to work for you. You had to go out and like find these people in your city, like in your town, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 405.7,
+      "end": 410.4,
+      "speaker": "Presenter",
+      "text": "You had to raise, like basically, to raise money, you had to go to banks and beg them to give you money.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 411.36,
+      "end": 417.12,
+      "speaker": "Presenter",
+      "text": "And then, if you wanted to again, scale beyond where you lived, it, like it took serious logistics.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 417.66,
+      "end": 426.0,
+      "speaker": "Presenter",
+      "text": "And so, like I have so much respect, and if you know someone in your family, or someone that you know is like an old-school business guy, like if someone's in their 50s or 60s",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 426.0,
+      "end": 432.56,
+      "speaker": "Presenter",
+      "text": "and they have a business, I want you guys to like, stop calling them boomers and like give those guys some crazy respect",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 432.56,
+      "end": 442.16,
+      "speaker": "Presenter",
+      "text": "because what they did is insane. To be able to start a business back then, and actually like power through, and be successful, is insane, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 442.92,
+      "end": 449.88,
+      "speaker": "Presenter",
+      "text": "But let's compare that to the 2020s for us, you know, kids that can start a brand from our couch.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 450.8,
+      "end": 454.7,
+      "speaker": "Presenter",
+      "text": "I started a business in my mom, in my parents' house, in my bedroom,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 456.42,
+      "end": 461.5,
+      "speaker": "Presenter",
+      "text": "like with a, with a laptop that I actually got given to me, I didn't even pay for it, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 462.44,
+      "end": 466.38,
+      "speaker": "Presenter",
+      "text": "I had all these no-code tools: Shopify, Webflow, Zapier, WordPress, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 466.38,
+      "end": 474.36,
+      "speaker": "Presenter",
+      "text": "I could, I could literally, I had a, a website done in like, and I obviously did a website in like a week, but you can have a Shopify store up in a day,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 474.72,
+      "end": 482.18,
+      "speaker": "Presenter",
+      "text": "right? You can test ideas with AI, market research, you can get all your ads written by AI, product names.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 482.18,
+      "end": 489.5,
+      "speaker": "Presenter",
+      "text": "You can watch guys like me who are literally like helping you understand, and that like, that's one of the craziest things for me, and I know I'm kind of skipping ahead,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 489.5,
+      "end": 496.7,
+      "speaker": "Presenter",
+      "text": "but like you can learn everything that you need to know. There's literally videos that say, here's step by step.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 497.0,
+      "end": 500.32,
+      "speaker": "Presenter",
+      "text": "Here's how to like build the business that you're trying to build.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 501.02,
+      "end": 506.26,
+      "speaker": "Presenter",
+      "text": "Dude, 30 years ago, like there was no YouTube video for how to do anything.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 507.56,
+      "end": 515.08,
+      "speaker": "Presenter",
+      "text": "You can literally YouTube, Google, or do any of this stuff. Or like, you've paid $100 to be in this program, and I'm literally showing you guys like everything that you need to do basically.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 515.5,
+      "end": 521.64,
+      "speaker": "Presenter",
+      "text": "Not everything, but it's like we're trying to show you guys like everything you need to do for $100, like that is crazy, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 522.18,
+      "end": 527.28,
+      "speaker": "Presenter",
+      "text": "And going back up here, it's like you can hire people from anywhere in the world: Philippines, Pakistan, Eastern Europe.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 527.86,
+      "end": 534.7,
+      "speaker": "Presenter",
+      "text": "For, not just, you don't just get access to like the global talent market, you get access to it for like, you can pay someone $5 an hour.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 535.3,
+      "end": 541.26,
+      "speaker": "Presenter",
+      "text": "You would go to jail, I mean well, back in the 90s, I think minimum wage was 5 bucks an hour, but granted inflation, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 541.46,
+      "end": 547.74,
+      "speaker": "Presenter",
+      "text": "And people would make, you know, making $10,000 back then was like making like $50,000. But my point is is like, guys,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 548.22,
+      "end": 556.88,
+      "speaker": "Presenter",
+      "text": "you can hire people that are just as good in your local area. You get access to the entire world worth of talent for like a fraction of the cost, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 557.44,
+      "end": 563.76,
+      "speaker": "Presenter",
+      "text": "You can also, get this, reach millions and millions of people with just like one viral video.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 564.58,
+      "end": 573.06,
+      "speaker": "Presenter",
+      "text": "Like you can film a video in your room right now, and if you do it good enough, it can go viral and sell and make you tens of thousands of dollars.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 574.9,
+      "end": 580.2,
+      "speaker": "Presenter",
+      "text": "Crazy, right? Instant feedback from your analytics, your surveys, and your comments.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 580.2,
+      "end": 589.06,
+      "speaker": "Presenter",
+      "text": "You can sell all over the world. You can literally talk to an AI 24/7 to help you brainstorm, or design, or execute, or do any of the stuff. Like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 589.06,
+      "end": 594.34,
+      "speaker": "Presenter",
+      "text": "you guys have to understand that, like, the opportunity that we have right now, it's it's never been easier, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 595.24,
+      "end": 603.92,
+      "speaker": "Presenter",
+      "text": "Now, I'll add a caveat to that because, like, the truth is it's also never been, speaking of the slight-edge mentality, it's never been easier not to, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 604.48,
+      "end": 611.9,
+      "speaker": "Presenter",
+      "text": "I can spend a whole day on my phone, a whole day [snaps fingers], gone. Whole day is gone just by, like, looking at my phone, and what am I, the doom-scrolling, all day, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 612.68,
+      "end": 618.5,
+      "speaker": "Presenter",
+      "text": "A lot of people do that. I can watch Netflix all day. I can do nothing. It, like, people have made it so easy to do nothing all day long",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 618.5,
+      "end": 623.78,
+      "speaker": "Presenter",
+      "text": "that most people don't realize how insanely easy it is to just go and start a business.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 624.26,
+      "end": 631.68,
+      "speaker": "Presenter",
+      "text": "I want you guys to understand that, like, what I've accomplished in 5 years, and what I have accomplished is not even that it's not that insane, right, in the grand scheme of things.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 631.88,
+      "end": 638.52,
+      "speaker": "Presenter",
+      "text": "There's literal 22-year-old billionaires. Like, like, I want you guys to like be real for a second. That's not to make you feel bad, but it's like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 638.52,
+      "end": 645.64,
+      "speaker": "Presenter",
+      "text": "nobody should be able to make a billion dollars by 20. Like, that's just the fact that's possible is ridiculous.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 646.6,
+      "end": 651.48,
+      "speaker": "Presenter",
+      "text": "You know what I mean? Like, that just goes to show you how much opportunity is there, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 652.0,
+      "end": 664.46,
+      "speaker": "Presenter",
+      "text": "And if we scroll down, again, in 1995, if you wanted to start a supplement brand, you needed to convince a manufacturer to take your call, spend $30,000 on product runs, $10,000 on design, and literally pray that you get your product into local stores.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 664.98,
+      "end": 671.76,
+      "speaker": "Presenter",
+      "text": "In 2025, you get a Shopify template, prompt Claude for your product description, hire a designer on Fiverr, and run your first ad on Meta before lunch.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 673.18,
+      "end": 678.66,
+      "speaker": "Presenter",
+      "text": "Like literally, I know a guy in Evolve that started a brand cuz he was bored, and 7 days later, he was at $100,000 a day in sales.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 680.08,
+      "end": 684.62,
+      "speaker": "Presenter",
+      "text": "Like, what? It's crazy, right? But guess what, guys? He has a skill set.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 685.12,
+      "end": 694.38,
+      "speaker": "Presenter",
+      "text": "So, as easy as it is, you still need skills. It's just, like, it makes the getting the skills and then bringing the skills to life, everything is now easier, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 694.38,
+      "end": 700.24,
+      "speaker": "Presenter",
+      "text": "And if you guys even want to look at, like, historical examples, Amazon took 3 years to hit a million dollars a month in revenue, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 701.06,
+      "end": 710.04,
+      "speaker": "Presenter",
+      "text": "Most Shopify stores, not even 12 months, can hit that in 6 months. Again, I just told you a guy that hit a million dollars a month in, like, his first month, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 710.64,
+      "end": 714.78,
+      "speaker": "Presenter",
+      "text": "And this is Amazon. Like, they were pioneering in the internet era, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 715.8,
+      "end": 723.9,
+      "speaker": "Presenter",
+      "text": "Nike's first ad in the '70s cost $10,000 and reached thousands of people. A single UGC video can reach millions of people organically today, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 724.74,
+      "end": 736.48,
+      "speaker": "Presenter",
+      "text": "I love this one. Hiring developers in 1995, $80,000 salary and on-site. This would be the equivalent of paying like, I don't know, $170,000, $180,000, like basically paying someone $15,000 a month",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 736.48,
+      "end": 743.28,
+      "speaker": "Presenter",
+      "text": "to come help you build some shit or or code. And meanwhile, you can hire someone in 2025 from anywhere for like 2,000 bucks, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 744.32,
+      "end": 751.44,
+      "speaker": "Presenter",
+      "text": "And so, going full screen here, I know this one's a little bit longer, but I just want you guys to understand that, first of all, yes, it is still hard,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 752.16,
+      "end": 765.86,
+      "speaker": "Presenter",
+      "text": "and the fact that it's hard is what makes it worth doing. You have to like, you have to engrain that into your head. The fact that what you're trying to do most people don't do is what makes it worth doing, okay? All clear there.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 766.64,
+      "end": 769.88,
+      "speaker": "Presenter",
+      "text": "Second thing, it's like it's actually not that hard.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 771.62,
+      "end": 782.16,
+      "speaker": "Presenter",
+      "text": "Like, if you guys just, like, be real for a second, like, if you just think, okay, can I build a million-dollar business in 10 years, which most people don't because they just can't imagine 10 years, but it's like literally like",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 782.16,
+      "end": 794.78,
+      "speaker": "Presenter",
+      "text": "back in the day, if you told someone in like the '90s or like the '80s that you were going to build a million-dollar business in 10 years, they'd be like, \"Bro, this guy's crazy.\" [laughter] \"Million dollars? Like, okay.\" If you guys know what that is, like Dr. Evil. Anyways, my point is, is",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 794.78,
+      "end": 805.18,
+      "speaker": "Presenter",
+      "text": "you guys need to understand that as hard as it is, it's also not that hard, so you have to be like grateful of like all the opportunity that you have, and like that should motivate the hell out of you where it's like holy shit.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 805.7,
+      "end": 811.66,
+      "speaker": "Presenter",
+      "text": "It's not even that hard. Yes, it's still hard, but like it's not even that hard and it's like nobody's doing it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 812.38,
+      "end": 821.14,
+      "speaker": "Presenter",
+      "text": "And all I have to do is like just commit 1 to 2 years or 3 years of just like working hard and I can change my life, like it's crazy.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 821.78,
+      "end": 830.18,
+      "speaker": "Presenter",
+      "text": "You know, most people when they start a business, it's just so like they didn't have to work for somebody else or like they start a business because they wanted to, right? Nowadays, you can start a business and just like do whatever you want.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 831.02,
+      "end": 835.46,
+      "speaker": "Presenter",
+      "text": "So, the fact that it's hard is what makes it worth doing, and at the end of the day, it's really not that hard. So,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 835.46,
+      "end": 845.66,
+      "speaker": "Presenter",
+      "text": "hopefully this puts in perspective for you guys, and now you can jump in the program with the right mindset, excited and fired up to go take action and make this thing happen.",
+      "chunk": 2,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 4.1,
+      "end": 5.4,
+      "label": "laughter"
+    },
+    {
+      "start": 75.0,
+      "end": 76.1,
+      "label": "laughter"
+    },
+    {
+      "start": 98.9,
+      "end": 100.4,
+      "label": "laughter"
+    },
+    {
+      "start": 130.0,
+      "end": 131.2,
+      "label": "laughter"
+    },
+    {
+      "start": 222.5,
+      "end": 223.7,
+      "label": "laughter"
+    },
+    {
+      "start": 255.7,
+      "end": 256.8,
+      "label": "laughter"
+    },
+    {
+      "start": 377.25,
+      "end": 378.55,
+      "label": "laughter"
+    },
+    {
+      "start": 454.35,
+      "end": 455.85,
+      "label": "laughter"
+    },
+    {
+      "start": 505.95,
+      "end": 507.75,
+      "label": "laughter"
+    },
+    {
+      "start": 536.65,
+      "end": 538.25,
+      "label": "chuckle"
+    },
+    {
+      "start": 672.18,
+      "end": 673.28,
+      "label": "laughter"
+    },
+    {
+      "start": 679.48,
+      "end": 680.58,
+      "label": "snicker"
+    },
+    {
+      "start": 769.68,
+      "end": 771.38,
+      "label": "laughter"
+    },
+    {
+      "start": 788.38,
+      "end": 789.48,
+      "label": "laughter"
+    },
+    {
+      "start": 790.68,
+      "end": 791.58,
+      "label": "snicker"
+    }
+  ]
+}

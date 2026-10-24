@@ -1,0 +1,517 @@
+{
+  "lesson": {
+    "num": 10,
+    "id": "010-the-whitebelt-mindset",
+    "title": "The whitebelt mindset",
+    "section": "🧘 Origins Mindset",
+    "video": "10. The whitebelt mindset Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 380.565,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=639a93ed3dfb4fbe8a5d1d6d7a8932a8"
+  },
+  "generated_at": "2026-10-06T20:24:06-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (93% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 1626,
+    "matched_tokens": 1518,
+    "match_ratio": 0.934,
+    "segments_aligned": 47,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 308.596,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.936,
+      "wpm": 271.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 308.596,
+      "end": 380.565,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.823,
+      "wpm": 252.2,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.72,
+      "speaker": "Presenter",
+      "text": "All right, in this video, it's going to be a relatively quick mindset one, but I think it's some it's something that is just so important for you to understand that I I think so many people",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 8.72,
+      "end": 19.02,
+      "speaker": "Presenter",
+      "text": "have ego that just, well, not so many, I mean, everybody has an ego to some extent, but sometimes your ego can just get in the way of you actually just getting to where you want to go.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 20.5,
+      "end": 29.82,
+      "speaker": "Presenter",
+      "text": "Literally, like, that that's it. That sums up the entire video. And and and I do want to share my screen just to like show this photo. For those of you guys that don't know Georges St-Pierre, he's a one of the greatest",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 29.82,
+      "end": 40.76,
+      "speaker": "Presenter",
+      "text": "UFC, I don't know if I want to say one of the greatest, I'm not that deep into UFC, but this guy I know this guy, and I don't watch a lot of UFC. Like, this guy is a G, okay? And one of his quotes is, \"I keep the whitebelt mentality",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 40.76,
+      "end": 46.72,
+      "speaker": "Presenter",
+      "text": "that I can learn from anyone, anywhere, anytime.\" Okay? And the point of this is you want",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 48.14,
+      "end": 57.0,
+      "speaker": "Presenter",
+      "text": "like you want to make sure that you don't act like you know everything, okay? And I'm going to go full full screen here again, because here's the thing: if you act like you know everything,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 58.46,
+      "end": 64.36,
+      "speaker": "Presenter",
+      "text": "you're just not the there's nothing more for you to learn then, you know what I mean? And so",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 64.36,
+      "end": 69.98,
+      "speaker": "Presenter",
+      "text": "if you feel like you know everything and there's nothing more for you to learn, then guess what? If you can't learn, you can't grow.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 71.36,
+      "end": 80.16,
+      "speaker": "Presenter",
+      "text": "And now this quote specifically is talking about how you can learn from anyone, so even if there is someone doing a hundred dollars a day",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 80.16,
+      "end": 87.96,
+      "speaker": "Presenter",
+      "text": "and you're doing a hundred thousand dollars per day, there's potentially something that you can learn from that person.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 88.78,
+      "end": 96.42,
+      "speaker": "Presenter",
+      "text": "And like I know that sounds insane, but the truth is is like everybody has, I I genuinely believe like something to offer.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 96.9,
+      "end": 104.08,
+      "speaker": "Presenter",
+      "text": "And so I I want to give you kind of like the tale of of two different stories, and I want to see which one you would pick. You know, imagine",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 104.08,
+      "end": 114.1,
+      "speaker": "Presenter",
+      "text": "walking into the room and meeting someone and saying, \"Hey, what's going on? You know, my name's Jake\" or or \"Jonathan\" or whatever your name is, and you're like, \"Hey, man.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 114.54,
+      "end": 122.56,
+      "speaker": "Presenter",
+      "text": "You know, \"How's it going?\" You guys start talking, and he's like, \"Oh, you know, what are you doing?\" And you're like, \"Oh yeah, like I I have an e-commerce brand. You know, I'm doing 10k a month.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 122.9,
+      "end": 132.06,
+      "speaker": "Presenter",
+      "text": "You know, I'm killing it right now. I'm probably going to be doing 50k a month in a couple of weeks, and yeah, bro. Like, I've got creative strategy locked down. Like, I I know I know a lot about Facebook Ads.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 132.06,
+      "end": 141.08,
+      "speaker": "Presenter",
+      "text": "I'm probably one of the best at Facebook Ads. And, yeah, you know, that's that's me, like. You know, what about you, bro?\" And imagine you say that, right? And now in in a lot of instances,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 141.82,
+      "end": 147.56,
+      "speaker": "Presenter",
+      "text": "someone would be like, \"Holy shit, bro. You know, you're doing 10k a month? Like, you're about to do 50k a month? Like, holy shit, like that's crazy!\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 147.56,
+      "end": 156.76,
+      "speaker": "Presenter",
+      "text": "You know, and like you might be talking to someone that is doing, you know, 5k a month or 2k a month, and is looking at you like, \"Holy shit.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 157.16,
+      "end": 163.52,
+      "speaker": "Presenter",
+      "text": "But I want you to think of the other scenario, where you say the exact same thing, and then imagine you're talking to someone,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 163.84,
+      "end": 167.84,
+      "speaker": "Presenter",
+      "text": "I don't even want to use myself, but I will, just to keep it real with you guys, like imagine you're talking to someone like me.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 168.72,
+      "end": 178.66,
+      "speaker": "Presenter",
+      "text": "And you're flexing on me about how you're doing 10k a month, where if, you know, to be real, if I have some brands where if they don't do 10k an hour, it's a bad day.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 180.38,
+      "end": 190.08,
+      "speaker": "Presenter",
+      "text": "Now, think about how you would feel after, like, flexing on me, and say you don't know anything about me, but imagine you were flexing on me about what you're doing, and meanwhile, you know, I have brands doing 500,000 dollars a day.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 190.52,
+      "end": 201.36,
+      "speaker": "Presenter",
+      "text": "And you're acting like you know everything, and that, you know, you're hot shit, and you're talking to me. And and you know what you know what the the coolest part is? And this is the the type of version of person that even I'm still working on being, but that you want to be,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 201.36,
+      "end": 208.74,
+      "speaker": "Presenter",
+      "text": "is I might be listening to you trying to see if I can learn something. Legitimate. Like, I've talked to people who I I, you know, I",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 208.74,
+      "end": 216.24,
+      "speaker": "Presenter",
+      "text": "genuinely like don't know who I am, and they start talking to me about like how they do this and how they do that, and it's like, \"Oh yeah, I'm going to be this in in a couple months.\" And like they're, you know, they're shooting their shit.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 216.56,
+      "end": 223.64,
+      "speaker": "Presenter",
+      "text": "But I'm just I'm I'm literally listening. I'm like, \"I wonder what I could learn from this guy.\" Like, \"Yeah! This guy's clearly got a big ego, and he's pretty pretty proud of himself,\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 223.64,
+      "end": 228.92,
+      "speaker": "Presenter",
+      "text": "which I do. I want you guys to be confident in yourselves, but the point is is like I'm listening, and I'm like, \"What could I learn from this person?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 229.2,
+      "end": 236.98,
+      "speaker": "Presenter",
+      "text": "And I just think if you guys can develop that same mentality of just like, \"Okay. Don't just be Try not to be the loudest person in the room.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 237.16,
+      "end": 245.08,
+      "speaker": "Presenter",
+      "text": "And I saw this, like I want you guys to know, I did a talk in Dubai, and I was telling all these people about like hiring and this and this and that, and I was like, \"Hey, like you got to do this, and you got to do that.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 245.5,
+      "end": 251.58,
+      "speaker": "Presenter",
+      "text": "And meanwhile there's like four dudes in the back of the room that were just like this, like they were locked in like jotting down notes, and those dudes do like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 251.58,
+      "end": 257.5,
+      "speaker": "Presenter",
+      "text": "10 mil a month. And I'm like, \"Why are you listening?\" And I met them after. I was like, \"Bro, I am so sorry, like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 258.32,
+      "end": 264.78,
+      "speaker": "Presenter",
+      "text": "why were you listening to me?\" He's like, \"Oh no, dude. I picked up a couple of things. Like, it was good.\" And I felt like an idiot. I was like, \"Bro, here I am like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 264.78,
+      "end": 271.16,
+      "speaker": "Presenter",
+      "text": "telling these dudes doing 10 million a month, I'm like, \"Oh yeah, we scaled, you know, our agency to 30 people.\" And this one guy is managing 300.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 271.4,
+      "end": 280.08,
+      "speaker": "Presenter",
+      "text": "He's like, \"No, dude. I learned something.\" Because like you're so deep in what is going on, and this is what's cool about when you have a whitebelt mentality, and you learn from someone that's like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 280.08,
+      "end": 289.2,
+      "speaker": "Presenter",
+      "text": "kind of going through it and a little bit in the trenches, it might not be at your scale, but like they're, you know, telling you things that's going on, and like you they might have something that you missed.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 289.2,
+      "end": 297.58,
+      "speaker": "Presenter",
+      "text": "And now could you have conversations with people like this and learn absolutely nothing? 100%. But my point is is like if you just keep this frame of like there's always something to learn",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 297.58,
+      "end": 306.36,
+      "speaker": "Presenter",
+      "text": "and you literally like live by that, you're never going to stop growing, right? Even guys who are making billions of dollars,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 306.36,
+      "end": 308.14,
+      "speaker": "Presenter",
+      "text": "they still learn from other people.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 308.54,
+      "end": 316.44,
+      "speaker": "Presenter",
+      "text": "I- I always, I, you know, I've talked to a guy, I'm not I'm not gonna drop any names, he's actually in Evolve now, which is crazy, that runs like one of the biggest,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 316.9,
+      "end": 324.64,
+      "speaker": "Presenter",
+      "text": "biggest like health and wellness companies, like they were the innovators of this, and he's like the CEO of it, and he wanted to like ask me like what is going on,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 324.82,
+      "end": 329.78,
+      "speaker": "Presenter",
+      "text": "and he's like, \"I want to see this new way of doing this shit,\" and he's a student, a full on student, like trying to learn from me even though,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 330.46,
+      "end": 339.28,
+      "speaker": "Presenter",
+      "text": "you know, the money that guy's made is ridiculous, okay? And so there's always stuff to learn. Having a whitebelt mentality is always going to serve you more than acting like you know everything.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 339.64,
+      "end": 350.12,
+      "speaker": "Presenter",
+      "text": "So I want to make this quick video to just really double down that point because I think a lot of you guys might feel like you know everything, like \"Oh yeah, what's this Spencer guy going to teach me? He's talking about like valleys of despair or like feedback loops,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 350.3,
+      "end": 358.02,
+      "speaker": "Presenter",
+      "text": "like whatever that means, bro.\" It's like, just regardless of my credibility, regardless of anybody's credibility, just always keep an active ear",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 358.02,
+      "end": 366.2,
+      "speaker": "Presenter",
+      "text": "and always try to be the person that listens to try to see if you can pull anything that can help you, okay? Again, as soon as you stop learning, you stop growing,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 366.2,
+      "end": 376.62,
+      "speaker": "Presenter",
+      "text": "and if you're not growing, you're dying, okay? And so just want to share this video to share that, and again, show the big dog himself, Mr. Georges St-Pierre, absolute legend, and again, this is the whitebelt mindset",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 376.62,
+      "end": 380.22,
+      "speaker": "Presenter",
+      "text": "and why it will serve you and help you as you make your way through this program.",
+      "chunk": 1,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 174.6,
+      "end": 176.2,
+      "label": "chuckle"
+    },
+    {
+      "start": 220.4,
+      "end": 221.8,
+      "label": "laughter"
+    },
+    {
+      "start": 253.3,
+      "end": 255.1,
+      "label": "chuckle"
+    },
+    {
+      "start": 257.3,
+      "end": 258.9,
+      "label": "laughter"
+    }
+  ]
+}

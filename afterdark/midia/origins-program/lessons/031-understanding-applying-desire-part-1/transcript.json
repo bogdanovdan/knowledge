@@ -1,0 +1,5741 @@
+{
+  "lesson": {
+    "num": 31,
+    "id": "031-understanding-applying-desire-part-1",
+    "title": "Understanding & Applying Desire - Part 1",
+    "section": "🧍How To Create Avatars",
+    "video": "31. Understanding & Applying Desire - Part 1 Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 3709.781,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=aad43a6527294628b243fc4fcbff4f9d"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (96% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 13330,
+    "matched_tokens": 12758,
+    "match_ratio": 0.957,
+    "segments_aligned": 606,
+    "segments_partly_aligned": 2,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 337.596,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 222.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 337.596,
+      "end": 674.839,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.993,
+      "wpm": 212.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 674.839,
+      "end": 938.082,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.917,
+      "wpm": 207.7,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 938.082,
+      "end": 1223.284,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 207.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1223.284,
+      "end": 1521.162,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.945,
+      "wpm": 213.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 5,
+      "start": 1521.162,
+      "end": 1817.027,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.71,
+      "wpm": 220.0,
+      "issues": [
+        "low_coverage"
+      ],
+      "notes": ""
+    },
+    {
+      "idx": 6,
+      "start": 1817.027,
+      "end": 2128.413,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.941,
+      "wpm": 225.7,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 7,
+      "start": 2128.413,
+      "end": 2408.946,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.991,
+      "wpm": 206.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 8,
+      "start": 2408.946,
+      "end": 2707.672,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.978,
+      "wpm": 221.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 9,
+      "start": 2707.672,
+      "end": 3014.789,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.998,
+      "wpm": 228.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 10,
+      "start": 3014.789,
+      "end": 3311.704,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 228.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 11,
+      "start": 3311.704,
+      "end": 3596.72,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 229.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 12,
+      "start": 3596.72,
+      "end": 3709.781,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 248.7,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.6,
+      "end": 5.12,
+      "speaker": "Presenter",
+      "text": "All right. So, in this video, we are going to be breaking down desires. Now,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 5.52,
+      "end": 15.12,
+      "speaker": "Presenter",
+      "text": "desires are one of these things that I feel like if I had learned this years ago, I probably would be a lot further and I would have found success with Facebook a lot earlier. But",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 15.12,
+      "end": 28.4,
+      "speaker": "Presenter",
+      "text": "the tough thing about desires, I think for a lot of people, is they become overwhelming on trying to figure out, you know, what is a desire? What isn't? What, how do I know which desires are the strongest? How do I do",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 28.4,
+      "end": 37.72,
+      "speaker": "Presenter",
+      "text": "The goal of this video is to help you, number one, understand desires, which if you have already watched the module that explains desires, the slide show, this is going to show you how to apply it because",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 37.72,
+      "end": 47.06,
+      "speaker": "Presenter",
+      "text": "that's one of the biggest issues that comes to the things that we're about to talk about is how do you actually apply this stuff? Okay, cool. It's good to know desires. It's good to know awareness levels. It's good to know sophistication, but",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 47.06,
+      "end": 52.4,
+      "speaker": "Presenter",
+      "text": "how do I apply it? And so that's what we're going to walk through here. And so, the first thing",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 52.4,
+      "end": 62.5,
+      "speaker": "Presenter",
+      "text": "again, to keep in mind, is that the reason why you need to understand desire before creating avatars is because desires essentially create avatars, or at least they they create strong ones. Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 62.92,
+      "end": 70.02,
+      "speaker": "Presenter",
+      "text": "And so, to understand how to create an avatar, you need to understand desires, and obviously, to understand desires, well, that's what we're going to talk about here. So,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 70.02,
+      "end": 81.06,
+      "speaker": "Presenter",
+      "text": "essentially, in short, in one sentence, the description that Eugene, and that you'll find you know I have a few different ways of phrasing it, but it's essentially the public spread of a private want.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 81.12,
+      "end": 91.08,
+      "speaker": "Presenter",
+      "text": "Okay? What that means is that when millions of people privately want the same thing, it becomes a mass desire that advertising can harness.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 91.66,
+      "end": 103.94,
+      "speaker": "Presenter",
+      "text": "Okay? Now, I want you to understand that it doesn't it doesn't always mean that it's private. Essentially, it just means that we kind of keep it to ourselves most of the time. But, for example, a desire of, \"I want to lose weight,\" is one of the most common ones that people will say. Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 104.38,
+      "end": 117.24,
+      "speaker": "Presenter",
+      "text": "That is obviously a thing that some people will tell others and some people won't. But, at the end of the day, that is a common thing that a lot of people have, which is the reason why health and wellness essentially is a, you know, billions and billions and billions of dollar industry, hundreds of billions. Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 117.72,
+      "end": 124.42,
+      "speaker": "Presenter",
+      "text": "So, the reason why desire is important for building avatars is because this is where I think demographics are just dumb.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 125.08,
+      "end": 129.72,
+      "speaker": "Presenter",
+      "text": "Okay? Because a 22-year-old and a 45-year-old can share the same desire.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 130.26,
+      "end": 135.44,
+      "speaker": "Presenter",
+      "text": "Okay? So, another example of this, they want to make money, or for example, they want to find love, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 137.0,
+      "end": 148.06,
+      "speaker": "Presenter",
+      "text": "Demographics don't really make the best avatars. And that's why That's where most people go wrong because whenever you ask someone what what is their avatar, the first thing that they tell you is demographics. Oh, it's a male",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 148.54,
+      "end": 158.26,
+      "speaker": "Presenter",
+      "text": "uh mom, or it's Male mom. It's a female, you know, they're a mom, they have kids, and they're, you know, anywhere from 30 to 45, right? Or it's a female and she's, you know, 55 plus.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 158.26,
+      "end": 170.08,
+      "speaker": "Presenter",
+      "text": "That those Do those apply to avatars? Sure, but if you actually want desires that Or if you actually want avatars that will do something for your business that will actually help you to scale, you need to use desires. You need to understand desires. Okay? So,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 170.08,
+      "end": 180.58,
+      "speaker": "Presenter",
+      "text": "it's really about understanding what a group of people want before narrowing down your avatar, okay? And again, desires create basically labels, they create groups of people because they are shared things that people want",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 180.58,
+      "end": 188.7,
+      "speaker": "Presenter",
+      "text": "or that people need, okay? Again, the larger the desire, the more specific you will likely need to go on an avatar, or that you can go on an avatar,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 188.7,
+      "end": 197.36,
+      "speaker": "Presenter",
+      "text": "right? So, for example, the desire to lose weight, that is humongous, okay? Where, if we compare that to, I don't know, the desire for chip clips,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 198.36,
+      "end": 209.42,
+      "speaker": "Presenter",
+      "text": "I don't know, this is on my desk, it's it's going to be a little bit different, okay? And so, here, the key rule that everybody needs to understand, because I know we've talked about it a lot, I'm going to try to summarize each section uh wherever there's a line break, is",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 209.42,
+      "end": 214.32,
+      "speaker": "Presenter",
+      "text": "you cannot create desire, okay? This is a perfect example of the chip clip. Like,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 214.52,
+      "end": 225.42,
+      "speaker": "Presenter",
+      "text": "I don't care how cool your chip clip is, if you you cannot make people want chip clips. If they just If people don't have that desire, and that's just obviously a product-specific, but",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 225.42,
+      "end": 234.48,
+      "speaker": "Presenter",
+      "text": "if people just don't care enough, like they'll just roll up the bag of their chips, and I don't know how I got onto this, but the point is is you cannot make people want something. It just has to exist.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 235.08,
+      "end": 241.42,
+      "speaker": "Presenter",
+      "text": "It is It It takes, and I'll show you how desires are create- are created, but it takes things far out of your control to create desire,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 242.0,
+      "end": 253.58,
+      "speaker": "Presenter",
+      "text": "okay? So, this is why you need to learn how to channel desire, okay? So, just understanding if we were to dumb this down to the simplest level, desires are what people actually want, and a lot of times, if you look at benefits,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 254.14,
+      "end": 261.52,
+      "speaker": "Presenter",
+      "text": "right? Which is, for example, a benefit of this is that I can, you know, I can call my friends. So, well, why do you want to call your friends? Well,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 261.94,
+      "end": 270.68,
+      "speaker": "Presenter",
+      "text": "because I want to be in touch with people. I want to have relationships. I want to maintain those relationships. I want to be connected. I want to feel belonging. And we're going to get into these permanent forces down here, but",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 270.68,
+      "end": 278.86,
+      "speaker": "Presenter",
+      "text": "usually the desires are You just keep You just keep asking why something matters, and then you get down to the core, and that is essentially the",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 278.86,
+      "end": 288.02,
+      "speaker": "Presenter",
+      "text": "desire, okay? Or, more commonly, if you want to understand an even simple simpler version, whatever people say they want something or they need something, it's usually a desire,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 288.36,
+      "end": 292.86,
+      "speaker": "Presenter",
+      "text": "okay? So, down here, if we scroll down into how desires are born,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 293.24,
+      "end": 304.0,
+      "speaker": "Presenter",
+      "text": "okay? This is something that I'm not going to lie. I banged my head against the wall for the longest time, and I think I actually, you know, kind of mentioned this in the wrong way previously when I have tried to help people understand desires.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 304.52,
+      "end": 310.76,
+      "speaker": "Presenter",
+      "text": "Just understand that there are essentially three forces, okay? Or two forces is actually what it is.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 311.56,
+      "end": 318.22,
+      "speaker": "Presenter",
+      "text": "I wrote three because there's actually three talking points, which we're going to get down here, but there's two essential sources, okay? The first one",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 318.22,
+      "end": 324.92,
+      "speaker": "Presenter",
+      "text": "is permanent forces, okay? These are things that people will always have, no matter what.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 325.46,
+      "end": 336.86,
+      "speaker": "Presenter",
+      "text": "Okay? So, these are desires that never go away. They might change how they are satisfied, but they never go away, okay? These two sections here are permanent forces. The other",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 336.86,
+      "end": 343.56,
+      "speaker": "Presenter",
+      "text": "desire or how desires are born, the other force is forces of change, okay? And this is what changes",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 343.56,
+      "end": 348.54,
+      "speaker": "Presenter",
+      "text": "how the permanent desires are fulfilled, okay? So essentially,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 348.54,
+      "end": 351.94,
+      "speaker": "Presenter",
+      "text": "what this is here is there are two main permanent forces,",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 41,
+      "start": 352.5,
+      "end": 355.6,
+      "speaker": "Presenter",
+      "text": "and that is mass instincts and mass techno- technological problems.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 356.04,
+      "end": 361.16,
+      "speaker": "Presenter",
+      "text": "And then the other force that actually changes desire is essentially style trends and mass education,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 361.86,
+      "end": 367.0,
+      "speaker": "Presenter",
+      "text": "okay? We're going to get to that in a second, but just understand that there is essentially desires that people have,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 367.36,
+      "end": 372.54,
+      "speaker": "Presenter",
+      "text": "and those are the permanent desires. So the desire to have like whatever our instincts are, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 372.86,
+      "end": 374.62,
+      "speaker": "Presenter",
+      "text": "We will always have those, and we're going to get into those.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 374.62,
+      "end": 379.36,
+      "speaker": "Presenter",
+      "text": "Technological problems: we will always have those. It does not matter, and again, I'm going to break this down.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 379.74,
+      "end": 383.72,
+      "speaker": "Presenter",
+      "text": "But the other force of change that creates desires is essentially things that happen,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 383.82,
+      "end": 386.68,
+      "speaker": "Presenter",
+      "text": "whatever becomes fashionable from influencers, from from trends,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 386.98,
+      "end": 390.96,
+      "speaker": "Presenter",
+      "text": "and things that, again, you and me cannot technically create unless you're a very powerful person.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 391.58,
+      "end": 396.34,
+      "speaker": "Presenter",
+      "text": "And then mass education: so when new information is made available, again, sometimes through tech, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 396.96,
+      "end": 403.04,
+      "speaker": "Presenter",
+      "text": "So, the point of this is is for you to understand this here, which is the permanent forces",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 403.55,
+      "end": 405.76,
+      "speaker": "Presenter",
+      "text": "that essentially exist in every single person, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 405.8,
+      "end": 409.88,
+      "speaker": "Presenter",
+      "text": "So this will work on anyone, anywhere, anytime, caveman or CEO.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 410.58,
+      "end": 415.52,
+      "speaker": "Presenter",
+      "text": "This is essentially what every human wants and every person wants and will always continue to want.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 415.98,
+      "end": 421.1,
+      "speaker": "Presenter",
+      "text": "Now, just understand that the levels of how much we want this will differ from person to person.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 421.36,
+      "end": 427.2,
+      "speaker": "Presenter",
+      "text": "There are some people that really don't have the strongest desire to feel belonging with anyone, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 427.74,
+      "end": 430.9,
+      "speaker": "Presenter",
+      "text": "And there are also people who don't really care too much about status.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 431.3,
+      "end": 435.12,
+      "speaker": "Presenter",
+      "text": "There's also people who don't care about their health that much. There's people that just say, \"Screw it,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 435.24,
+      "end": 439.78,
+      "speaker": "Presenter",
+      "text": "right, I'm going to do drugs all day,\" right? So the how these desires rank",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 439.78,
+      "end": 446.2,
+      "speaker": "Presenter",
+      "text": "is relatively different and how strong they are, but for the conglomerate, if we are to generalize that this on people,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 446.52,
+      "end": 450.78,
+      "speaker": "Presenter",
+      "text": "whenever there is something going on that is going to scare us that we might not make it,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 451.04,
+      "end": 456.48,
+      "speaker": "Presenter",
+      "text": "health, for example, survival, staying alive, staying healthy and safe, is a pretty strong desire that every single person has,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 456.64,
+      "end": 458.16,
+      "speaker": "Presenter",
+      "text": "okay? It's literally an instinct, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 458.7,
+      "end": 462.7,
+      "speaker": "Presenter",
+      "text": "Sex, relationships, right? Be attractive, find a mate, feel desired.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 462.7,
+      "end": 466.62,
+      "speaker": "Presenter",
+      "text": "And the reason why sex is used here is simply just because it just helps people understand,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 467.08,
+      "end": 471.2,
+      "speaker": "Presenter",
+      "text": "but essentially it's just like relationships is is what we're getting at here, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 471.98,
+      "end": 477.4,
+      "speaker": "Presenter",
+      "text": "So, wanting to kind of have relationships or essentially have intimacy, have,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 477.4,
+      "end": 482.06,
+      "speaker": "Presenter",
+      "text": "you know, be be desired by other people, okay? That is, again, an instinct that people have.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 482.56,
+      "end": 487.28,
+      "speaker": "Presenter",
+      "text": "Then we have status, okay? So this is about being important, being respected, being better than others.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 487.44,
+      "end": 494.18,
+      "speaker": "Presenter",
+      "text": "And if we think back to like more tribal, it's like this existed 70,000 years ago, and it still exists- it still exists today, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 494.5,
+      "end": 498.54,
+      "speaker": "Presenter",
+      "text": "Somebody wanted to be the leader of the tribe, right? That person had status, right? Nowadays,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 498.86,
+      "end": 504.52,
+      "speaker": "Presenter",
+      "text": "what do we have? We have followers, we have influencers, we have all this kind of stuff. People who want status, okay? Money, people buy status, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 505.32,
+      "end": 508.08,
+      "speaker": "Presenter",
+      "text": "Belonging: so this is fitting in, having friends, not being rejected,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 508.08,
+      "end": 514.36,
+      "speaker": "Presenter",
+      "text": "right? This kind of is close with status, but belonging is more or less the sense of like kind of family sort of thing,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 514.66,
+      "end": 519.36,
+      "speaker": "Presenter",
+      "text": "okay? So this is this idea of fitting in, not being rejected.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 519.36,
+      "end": 523.3,
+      "speaker": "Presenter",
+      "text": "That's why a lot of people are close with their family, right? They want a sense of belonging.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 523.66,
+      "end": 527.2,
+      "speaker": "Presenter",
+      "text": "It's different from sex, and that's why I use sex instead of relationships,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 527.2,
+      "end": 532.46,
+      "speaker": "Presenter",
+      "text": "because essentially this makes it clear that, hey, this is the desire to be attractive and to find a mate,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 532.46,
+      "end": 539.8,
+      "speaker": "Presenter",
+      "text": "right, rather than belonging, which is a little bit more of like, \"Hey, I want to have friends and and belong and be a part of something,\" okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 540.14,
+      "end": 544.58,
+      "speaker": "Presenter",
+      "text": "And then we have control: so this is having power, predicting what happens, being in charge,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 544.84,
+      "end": 549.24,
+      "speaker": "Presenter",
+      "text": "okay? Again, think about a tribal leader, they had control on things, people like control.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 549.82,
+      "end": 555.48,
+      "speaker": "Presenter",
+      "text": "The reason why we get pissed off, and you guys probably remember this, when iPhone, you know, took away the headphone jack,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 555.56,
+      "end": 558.82,
+      "speaker": "Presenter",
+      "text": "we were like, \"What are they doing? Why would they do this?\", right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 559.2,
+      "end": 563.92,
+      "speaker": "Presenter",
+      "text": "We like being in control. We don't like change, okay? So control is a is an instinct.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 564.58,
+      "end": 569.86,
+      "speaker": "Presenter",
+      "text": "And the final one here is comfort, okay? So we want to make life easier, we want to avoid pain,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 569.86,
+      "end": 573.86,
+      "speaker": "Presenter",
+      "text": "and we want to avoid work, right? We always look for the easiest way out.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 574.26,
+      "end": 579.08,
+      "speaker": "Presenter",
+      "text": "Part of the reason why, for example, some of you guys maybe can't get stuff done is because it is so much easier",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 579.08,
+      "end": 583.74,
+      "speaker": "Presenter",
+      "text": "and so you get the same like dopamine hit from just sitting on the couch,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 583.74,
+      "end": 588.8,
+      "speaker": "Presenter",
+      "text": "eating chocolate or eating chips and watching TV. You get the same amount of dopamine",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 588.8,
+      "end": 595.78,
+      "speaker": "Presenter",
+      "text": "compared to if you actually work really hard for something and make something happen, and then you get a dopamine from that accomplishment.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 596.6,
+      "end": 600.7,
+      "speaker": "Presenter",
+      "text": "What is What is the easiest thing to- Well, it's way easier to just watch Netflix and get rewarded that way, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 600.7,
+      "end": 605.7,
+      "speaker": "Presenter",
+      "text": "And so my point is is comfort, making life easier, is also an instinct that people have.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 605.7,
+      "end": 608.88,
+      "speaker": "Presenter",
+      "text": "Back in tribal times, again, people wanted to be comfort.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 608.88,
+      "end": 612.04,
+      "speaker": "Presenter",
+      "text": "They wanted to avoid sleeping next to a lion's den, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 612.14,
+      "end": 616.7,
+      "speaker": "Presenter",
+      "text": "They wanted to just make their life easier, right? They developed wheels so they could roll stuff around.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 616.7,
+      "end": 621.56,
+      "speaker": "Presenter",
+      "text": "That's my point, okay? And so, the thing to understand here is that survival or health,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 621.56,
+      "end": 626.58,
+      "speaker": "Presenter",
+      "text": "okay, that drive existed 10,000 years ago. It will exist today,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 626.96,
+      "end": 630.34,
+      "speaker": "Presenter",
+      "text": "okay? And it will exist 10,000 more years from now,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 630.66,
+      "end": 633.3,
+      "speaker": "Presenter",
+      "text": "right? People are still going to want to survive, at least I I think they will.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 633.62,
+      "end": 639.32,
+      "speaker": "Presenter",
+      "text": "Same thing with status, right? The status drive existed 10,000 years ago, it exists today, and it will exist in 10,000 years, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 639.7,
+      "end": 643.72,
+      "speaker": "Presenter",
+      "text": "The only thing that changes, and this is due to the forces of change,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 644.22,
+      "end": 648.7,
+      "speaker": "Presenter",
+      "text": "okay, and we're going to get to that, is how we satiate these desires, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 649.02,
+      "end": 654.98,
+      "speaker": "Presenter",
+      "text": "But the desires will always be there. Now, I'm just going to use one that is like very very easy for everybody to understand,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 654.98,
+      "end": 659.8,
+      "speaker": "Presenter",
+      "text": "but it's kind of a really sad epidemic that is happening right now, and everybody has their own opinions on this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 659.98,
+      "end": 664.14,
+      "speaker": "Presenter",
+      "text": "and it's just one that makes sense. But, I mean, for example, like pornography as an example,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 664.32,
+      "end": 666.68,
+      "speaker": "Presenter",
+      "text": "and I don't know if you signed up for this, and you were expecting",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 666.68,
+      "end": 670.42,
+      "speaker": "Presenter",
+      "text": "to be learning about this stuff, but this is important stuff for you guys to know, but",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 670.42,
+      "end": 674.26,
+      "speaker": "Presenter",
+      "text": "it's like this opened up a new mechanism, essentially, for people to",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 674.26,
+      "end": 683.82,
+      "speaker": "Presenter",
+      "text": "find a mate, feel desired, right? It's like, that's an, and, and it, and it does in a backwards way because you're not actually with someone, but digitally you kind of are, and so that's why it, it is just",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 683.82,
+      "end": 695.86,
+      "speaker": "Presenter",
+      "text": "a, honestly, an insanely big industry. I don't think a lot of people understand like, it is, is crazy, it's very sad in a lot of ways, but that is when you see these OnlyFans models making, you know, hundreds of millions, millions of dollars a month",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 695.86,
+      "end": 704.74,
+      "speaker": "Presenter",
+      "text": "by selling this, okay? It is a mass instinct that people have, and that is a mechanism to get it. Now one that is, again, makes a little bit more sense for today,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 704.74,
+      "end": 715.48,
+      "speaker": "Presenter",
+      "text": "and is less weird and awkward to talk about, is status, right? So, this idea of like, having more Instagram followers, or having a bigger brand, or like, being more well-known, being famous, being rich, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 715.62,
+      "end": 723.38,
+      "speaker": "Presenter",
+      "text": "Like, people want that, especially now more than ever, because of how much word travels, right? And how many people can see you, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 723.62,
+      "end": 734.06,
+      "speaker": "Presenter",
+      "text": "Status, back in the day, you know, you maybe had a tribe of 10 people that saw you. Now your tribe is 10 million people, or for some, you know, hundreds of millions of people follow them, right? You look at someone like Ronaldo,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 734.06,
+      "end": 746.16,
+      "speaker": "Presenter",
+      "text": "right? He has uh, just a monu- monumental amount of status, okay? And so, that is the first permanent force, which is the mass instincts that people have.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 746.32,
+      "end": 758.58,
+      "speaker": "Presenter",
+      "text": "Okay, now we're getting into the second permanent force, which, again, is mass technological problems. And just as a reminder, again, these are permanent forces. These will never go away, okay? So,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 758.58,
+      "end": 768.48,
+      "speaker": "Presenter",
+      "text": "no matter the year, and I want you guys, I think a lot of the times my brain does this, at least, when I think technology, I think like phones, and I think internet and stuff like that. Technology is literally like developing the wheel",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 768.48,
+      "end": 780.54,
+      "speaker": "Presenter",
+      "text": "was technology. Or, for example, being able to build boats, like, that is technology, right? Being able to build guns is techno-, so just advancements in general is technology, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 780.9,
+      "end": 791.74,
+      "speaker": "Presenter",
+      "text": "And so, the truth is, is that no matter the year, technology will cause problems for people, okay? Whether people have direct experience with it, so for example, if",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 791.74,
+      "end": 802.3,
+      "speaker": "Presenter",
+      "text": "we're talking about boats, maybe in the medieval times when they were made, people made these boats and that created problems, because maybe one of the problems, and this is just a problem that's kind of random, is you get seasick,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 802.64,
+      "end": 812.9,
+      "speaker": "Presenter",
+      "text": "right? Like, that is a real thing that happens. And so, you might have a direct experience with that where you go on a boat, it's a new technology, and you get seasick,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 812.9,
+      "end": 824.38,
+      "speaker": "Presenter",
+      "text": "and it sucks, right? And then, on the other side, if I, say for example, I did that, and then I come back from my trip on the boat, and I tell all my friends, like, \"Dude, I got the worst seasickness. Like, if you get on the boat,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 824.4,
+      "end": 835.26,
+      "speaker": "Presenter",
+      "text": "you just feel so sick.\" That is indirect awareness. So people who don't actually have a direct experience with it, but I am able to share my experience with them, and now they are aware of the problem.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 835.68,
+      "end": 847.04,
+      "speaker": "Presenter",
+      "text": "And so for example, you can see how this creates new desires, and essentially technology creates new industries, which is what we're seeing right now with AI. AI is absolutely booming, and so many people are running to it to try to,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 847.04,
+      "end": 858.92,
+      "speaker": "Presenter",
+      "text": "you know, build businesses in AI and work in AI, because of the fact that it's creating problems for people, right? AI became a technology, and now a lot of business owners have a problem that they don't know how to use AI,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 859.48,
+      "end": 870.8,
+      "speaker": "Presenter",
+      "text": "and so again, when problems are created from technology, okay, mass technological problems, then desires are created, okay? And so, these are the types of desires that",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 870.8,
+      "end": 881.8,
+      "speaker": "Presenter",
+      "text": "technology esse- essentially creates by screwing things up. So, complexity, okay? Things are too hard to figure out how they work, okay? The buttons are confusing, the instructions don't make sense,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 881.8,
+      "end": 891.32,
+      "speaker": "Presenter",
+      "text": "and as, as a result, this is very important because we, we're going to talk a lot more about feelings in general, but in, around psychology, but you feel dumb, okay? So if technology is too complex,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 891.32,
+      "end": 904.28,
+      "speaker": "Presenter",
+      "text": "like if you were to give this phone to, you know, a silent gen or a, a boomer, right, maybe someone that's like an early boomer, so who's like 80 years old, they look at this phone, they don't know what to do with it, right? Or they open a laptop, they're like, \"I don't know what to do with this,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 904.28,
+      "end": 916.04,
+      "speaker": "Presenter",
+      "text": "it's too complex. I don't know how to use it,\" right? So complexity creates a lot of issues, okay? Overwhelm, okay? So there's too many choices, too many beeps and distractions, okay? Your phone won't stop buzzing,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 916.28,
+      "end": 928.0,
+      "speaker": "Presenter",
+      "text": "you have 47 different apps, there's too many streaming services, right? You start to feel anxious, and so again, what I'm trying to explain here is, these are mass technological problems create these feelings in people,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 928.28,
+      "end": 937.52,
+      "speaker": "Presenter",
+      "text": "okay? And so, this feeling of overwhelm, right? So this is a feeling that people can get from technology, and new technology that causes problems, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 939.06,
+      "end": 943.68,
+      "speaker": "Presenter",
+      "text": "basically- I don't even know how to pronounce this word because my brain is not working, but things that are fragile, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 943.74,
+      "end": 945.06,
+      "speaker": "Presenter",
+      "text": "So, it breaks when you need it, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 945.06,
+      "end": 947.06,
+      "speaker": "Presenter",
+      "text": "So, your phone dies during an important call.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 947.28,
+      "end": 949.04,
+      "speaker": "Presenter",
+      "text": "Your Wi-Fi crashes during a big meeting, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 949.04,
+      "end": 949.72,
+      "speaker": "Presenter",
+      "text": "You feel frustrated.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 950.18,
+      "end": 952.06,
+      "speaker": "Presenter",
+      "text": "So, you know, the technology is too fragile.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 952.66,
+      "end": 957.74,
+      "speaker": "Presenter",
+      "text": "And so you, as a result, crave things that will actually be- like will actually work, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 958.48,
+      "end": 964.68,
+      "speaker": "Presenter",
+      "text": "And you'll see a lot of technology companies then use this as positioning and marketing, because, again, this creates a problem and it creates a desire.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 964.88,
+      "end": 968.16,
+      "speaker": "Presenter",
+      "text": "People are frustrated, and so they want something that will work in this instance, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 968.94,
+      "end": 972.48,
+      "speaker": "Presenter",
+      "text": "Maintenance, so it always needs fixing, always need updating, or paying for it, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 972.78,
+      "end": 973.94,
+      "speaker": "Presenter",
+      "text": "Your apps want updates everyday.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 974.16,
+      "end": 975.66,
+      "speaker": "Presenter",
+      "text": "Your subscription costs keep going up.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 975.68,
+      "end": 977.48,
+      "speaker": "Presenter",
+      "text": "Something always needs to be fixed or renewed, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 977.58,
+      "end": 981.52,
+      "speaker": "Presenter",
+      "text": "You just feel tired, you feel exhausted of, like, all the maintenance that is needed, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 981.62,
+      "end": 983.42,
+      "speaker": "Presenter",
+      "text": "So again, when people bought TVs, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 983.92,
+      "end": 987.0,
+      "speaker": "Presenter",
+      "text": "This back in, I don't know when it was, like '50s or '60s or something like that.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 987.12,
+      "end": 988.36,
+      "speaker": "Presenter",
+      "text": "They bought the TV, they were all excited.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 988.36,
+      "end": 994.88,
+      "speaker": "Presenter",
+      "text": "Then the TV's just like, you had to adjust the wire, you had to get it just right, you had to bang the TV, and it was just- it was so frustrating.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 995.06,
+      "end": 995.96,
+      "speaker": "Presenter",
+      "text": "It always needed to be fixed.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 996.38,
+      "end": 1002.2,
+      "speaker": "Presenter",
+      "text": "There was entire industries that were created for TV repairmen, right, back in the '50s and '60s, and they made bank.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 1002.46,
+      "end": 1008.62,
+      "speaker": "Presenter",
+      "text": "Just cause people had a new desire of, you know, needing their- like \"I want my TV to work, I want my TV fixed\", right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 1009.0,
+      "end": 1011.64,
+      "speaker": "Presenter",
+      "text": "And so, essentially, that is a problem that is, again, created from tech.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 1013.24,
+      "end": 1014.4,
+      "speaker": "Presenter",
+      "text": "Incompatibility, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 1014.8,
+      "end": 1017.42,
+      "speaker": "Presenter",
+      "text": "Won't work- this is- English is not my strong suit.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 1017.92,
+      "end": 1019.86,
+      "speaker": "Presenter",
+      "text": "Won't work with your stuff, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 1020.0,
+      "end": 1022.02,
+      "speaker": "Presenter",
+      "text": "So, your old iPhone charger doesn't work with your new one.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 1022.3,
+      "end": 1023.2,
+      "speaker": "Presenter",
+      "text": "Nothing connects easily.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 1023.62,
+      "end": 1026.66,
+      "speaker": "Presenter",
+      "text": "The point is, is like things don't work with- with what you currently have.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 1027.02,
+      "end": 1029.52,
+      "speaker": "Presenter",
+      "text": "And so that creates a lot of problems for people as well, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 1029.52,
+      "end": 1031.76,
+      "speaker": "Presenter",
+      "text": "So you kind of feel trapped by the technology.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 1032.1,
+      "end": 1035.5,
+      "speaker": "Presenter",
+      "text": "And the final one here, is just essentially when things become obsolete, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 1035.66,
+      "end": 1037.18,
+      "speaker": "Presenter",
+      "text": "They get old and useless fast.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 1037.44,
+      "end": 1039.26,
+      "speaker": "Presenter",
+      "text": "Like, for example, MP3 players, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 1039.96,
+      "end": 1041.76,
+      "speaker": "Presenter",
+      "text": "Nobody needs MP3 players anymore.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 1041.84,
+      "end": 1043.36,
+      "speaker": "Presenter",
+      "text": "We just have it on our phone, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 1043.66,
+      "end": 1051.1,
+      "speaker": "Presenter",
+      "text": "So, for example, if technology- and this is just in the instance that we have here, your phone becomes too old for new apps, or last year's gadget is already outdated.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 1051.36,
+      "end": 1053.24,
+      "speaker": "Presenter",
+      "text": "The MP3 is kind of an example of that, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 1053.42,
+      "end": 1056.24,
+      "speaker": "Presenter",
+      "text": "Nobody's really buying MP3s anymore, because they're just on our phone, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 1056.58,
+      "end": 1061.18,
+      "speaker": "Presenter",
+      "text": "So, sometimes people feel cheated by the technology as well, and then- and it doesn't last.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 1061.5,
+      "end": 1070.78,
+      "speaker": "Presenter",
+      "text": "And so, at the end of the day, these are all feelings and these are all things that- that people go through, problems that people have that then create desires, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 1070.88,
+      "end": 1074.58,
+      "speaker": "Presenter",
+      "text": "So, just understand that like, technology creates problems for people.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 1074.58,
+      "end": 1079.36,
+      "speaker": "Presenter",
+      "text": "And again, when there's problems, there's new desires that need to be essentially served.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1079.36,
+      "end": 1082.94,
+      "speaker": "Presenter",
+      "text": "And so again, TV reception was terrible in the 1960s.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1082.94,
+      "end": 1084.82,
+      "speaker": "Presenter",
+      "text": "Internet connection is shaky today.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 1084.82,
+      "end": 1088.88,
+      "speaker": "Presenter",
+      "text": "And holograms will lag in 2050, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 1089.3,
+      "end": 1094.94,
+      "speaker": "Presenter",
+      "text": "The technology changes, but the problems will always be there and persist if you ask Grammarly, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 1095.4,
+      "end": 1097.02,
+      "speaker": "Presenter",
+      "text": "And so, this is important for you to understand, again.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1097.02,
+      "end": 1101.12,
+      "speaker": "Presenter",
+      "text": "That we have mass instincts, these are things that we constantly want.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1101.64,
+      "end": 1106.62,
+      "speaker": "Presenter",
+      "text": "And then, because of technology and the problems that it creates, these are also things that we constantly experience.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1106.76,
+      "end": 1109.24,
+      "speaker": "Presenter",
+      "text": "We experience trouble with technology breaking.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1109.32,
+      "end": 1111.06,
+      "speaker": "Presenter",
+      "text": "We- we experience feeling overwhelmed.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1111.48,
+      "end": 1112.24,
+      "speaker": "Presenter",
+      "text": "We experience complexity.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1112.92,
+      "end": 1114.3,
+      "speaker": "Presenter",
+      "text": "We experience maintenance, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1114.44,
+      "end": 1116.48,
+      "speaker": "Presenter",
+      "text": "And so this creates new desires, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 1116.58,
+      "end": 1120.5,
+      "speaker": "Presenter",
+      "text": "And this is essentially the desires that will always exist, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1120.9,
+      "end": 1123.26,
+      "speaker": "Presenter",
+      "text": "So now, let's talk about the forces of change, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1123.56,
+      "end": 1129.62,
+      "speaker": "Presenter",
+      "text": "So, again, just to be clear, this is what changes how these desires are fulfilled, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 1130.02,
+      "end": 1131.88,
+      "speaker": "Presenter",
+      "text": "And so, style trends as an example, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1132.14,
+      "end": 1133.38,
+      "speaker": "Presenter",
+      "text": "What becomes fashionable?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1133.96,
+      "end": 1136.44,
+      "speaker": "Presenter",
+      "text": "So, back in the day, you know, swimming pools were a big flex.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 1136.8,
+      "end": 1140.12,
+      "speaker": "Presenter",
+      "text": "Nowadays, it's bigger cars, fancier cars, big watches, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 1140.5,
+      "end": 1149.16,
+      "speaker": "Presenter",
+      "text": "Style trends essentially start to create specific desires and and change how we essentially satiate those desires, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 1149.44,
+      "end": 1153.84,
+      "speaker": "Presenter",
+      "text": "And so, just understand that style trends will change the way that these are delivered, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 1154.04,
+      "end": 1159.06,
+      "speaker": "Presenter",
+      "text": "So, for example, health back in the day or, you know, maybe status back in the day, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 1159.46,
+      "end": 1165.9,
+      "speaker": "Presenter",
+      "text": "You got status by potentially going out and, you know, being known at- at your local bar or in your town, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 1166.24,
+      "end": 1169.78,
+      "speaker": "Presenter",
+      "text": "Nowadays, if you want real status, you have to go online and you have to make videos of yourself.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 1169.9,
+      "end": 1178.1,
+      "speaker": "Presenter",
+      "text": "So like the way that we get status has changed, essentially, one, because of technology, but also because of the trends and how things are being done, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 1178.62,
+      "end": 1182.32,
+      "speaker": "Presenter",
+      "text": "Another one here is mass education, so this is what society learns, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 1182.34,
+      "end": 1184.28,
+      "speaker": "Presenter",
+      "text": "So, health awareness, new inventions.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 1184.28,
+      "end": 1196.62,
+      "speaker": "Presenter",
+      "text": "These are things where people learn new things, and this is why we can weaponize education in step three over here, which is market sophistication, but mass education is essentially what society learns, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 1197.06,
+      "end": 1203.88,
+      "speaker": "Presenter",
+      "text": "And so, when society learns something new, that changes the way that we can satiate these desires.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 1204.04,
+      "end": 1207.34,
+      "speaker": "Presenter",
+      "text": "And so, for example, a great one with this is Ozempic or GLP-1, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 1207.48,
+      "end": 1216.56,
+      "speaker": "Presenter",
+      "text": "That was new education that was released, and now it is one of the biggest selling and hottest things in the health space right now, because again, mass education, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 1216.66,
+      "end": 1222.76,
+      "speaker": "Presenter",
+      "text": "People learned about it, and then on top of that style trends, people want to be skinnier, okay, or they want to lose weight, or they want to be more fit. It's kind of a-",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 1222.76,
+      "end": 1231.24,
+      "speaker": "Presenter",
+      "text": "a trend that I think has always existed. If anything, there was kind of a reverse trend over the last couple of years where it's like we were everybody was being very body positive and all that kind of stuff. But the end of the day,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1231.54,
+      "end": 1241.48,
+      "speaker": "Presenter",
+      "text": "these style trends and educational like new things that people learn are what change how the permanent desires are fulfilled. Okay? So again, just to be clear,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1241.86,
+      "end": 1253.72,
+      "speaker": "Presenter",
+      "text": "we really just need to focus on these, which is what every human wants, and the fact that technology has problems, okay? And we need to understand what those problems are and then we can learn how to attend to those desires.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1254.2,
+      "end": 1262.14,
+      "speaker": "Presenter",
+      "text": "But at the end of the day, it's important that you guys understand the full picture that this is what changes them, okay? And a lot of times, like I said, we can use education, we can educate few people.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1262.28,
+      "end": 1271.48,
+      "speaker": "Presenter",
+      "text": "It's very hard to educate mass mass markets, but um we can use education, or at least this idea of how you know we can educate a small amount of small group of people",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1271.48,
+      "end": 1281.4,
+      "speaker": "Presenter",
+      "text": "around a specific desire to help them, you know, understand the truth or actually help them get it. But at the end of the day, you just need to understand from a desire standpoint that these are the things that change how",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1281.4,
+      "end": 1286.88,
+      "speaker": "Presenter",
+      "text": "these desires are satiated. All right. Now, all of that information put aside,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1287.32,
+      "end": 1294.66,
+      "speaker": "Presenter",
+      "text": "we're going to do a fun little experiment here, which is actually going to show you how to turn this learning",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 215,
+      "start": 1294.66,
+      "end": 1305.26,
+      "speaker": "Presenter",
+      "text": "into actual headlines or into actual essentially ads for you, where you can see, okay, I have a specific desire,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 216,
+      "start": 1306.16,
+      "end": 1315.4,
+      "speaker": "Presenter",
+      "text": "right? And I have essentially a specific trend or some new education that I learned about whatever the current forces, right, what is causing essentially desire, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1316.24,
+      "end": 1322.22,
+      "speaker": "Presenter",
+      "text": "That you can then channel into an ad. So for example, here, we are selling dog harnesses, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1322.22,
+      "end": 1326.68,
+      "speaker": "Presenter",
+      "text": "Just like how we did in this example over here. What we can do is we can learn",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1326.68,
+      "end": 1336.76,
+      "speaker": "Presenter",
+      "text": "how we can combine essentially what are the core four, which are instincts, okay, with style and education. So let's take a look at the instincts here, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1336.8,
+      "end": 1344.18,
+      "speaker": "Presenter",
+      "text": "So we're using mass instincts and style trends, and then we're using mass instincts and mass education, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1344.22,
+      "end": 1354.68,
+      "speaker": "Presenter",
+      "text": "So an example of this is mass instinct status, okay? So people don't want to be embarrassed, right? The current force, so a style trend that exists in my market",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1354.68,
+      "end": 1363.84,
+      "speaker": "Presenter",
+      "text": "is that dogs are family members. That's kind of a style thing that is happening. And again, we'll show you guys how to go and find these desires. It's going to be in the desire hunting section. But essentially,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1364.34,
+      "end": 1374.56,
+      "speaker": "Presenter",
+      "text": "we can take this information of people obviously want status and one of the trends that's happening right now is we need to treat dogs like family members, and so we can channel this or essentially write a headline",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1374.56,
+      "end": 1383.98,
+      "speaker": "Presenter",
+      "text": "that is \"Be the dog parent that everyone admires.\" Okay? Now, a lot of you might write a headline like this, but you don't actually understand why it works,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1384.22,
+      "end": 1395.18,
+      "speaker": "Presenter",
+      "text": "or you don't understand why something like this can have an impact. But if you understand what is behind the scenes and at least if you This is the biggest thing I'll say. If if you write a headline",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1396.04,
+      "end": 1404.26,
+      "speaker": "Presenter",
+      "text": "and then you try to break it down from there of, okay, what is the trend behind this, or like what is the education behind this, and then what instinct am I actually going after here?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1404.26,
+      "end": 1415.82,
+      "speaker": "Presenter",
+      "text": "That will help you understand and help you also find patterns in your winning ads as well. But just know, for this instance, I picked one of the mass instincts. Essentially, there's 1, 2, 3, 4, 5, 6",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 228,
+      "start": 1415.82,
+      "end": 1425.2,
+      "speaker": "Presenter",
+      "text": "different mass instincts that you could tap into, and then on top of that there's essentially I don't want to say unlimited trends, but there's so many different trends, okay, that basically shape",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1425.3,
+      "end": 1433.46,
+      "speaker": "Presenter",
+      "text": "the way that people see things, okay? And shape the way that, for example, a status desire is satiated in my specific market, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1433.92,
+      "end": 1442.76,
+      "speaker": "Presenter",
+      "text": "And so, just understand here that we can channel this into headlines when we have this information, or again vice versa. If we want to write headlines, we can then break it down further and say, hey,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1443.24,
+      "end": 1451.04,
+      "speaker": "Presenter",
+      "text": "what is really the driving force behind this? Why why is this why does this matter right now? And then from there, what is the mass instinct that we're actually going after? Okay? So, \"Be",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1451.04,
+      "end": 1457.96,
+      "speaker": "Presenter",
+      "text": "the dog parent that everyone admires,\" right? That is a headline that taps into the status desire and also is on trend.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1458.28,
+      "end": 1468.2,
+      "speaker": "Presenter",
+      "text": "And when I say trends, I don't want you to think of like you know things that are going to die you know in the next two months, right? We're talking about trends that are like I'm not talking about like a a Bitcoin",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1468.2,
+      "end": 1477.56,
+      "speaker": "Presenter",
+      "text": "pump or something like that back in you know that that lasts like two or three months. Like these are things that, you know, society is it takes you know sometimes a decade for them to essentially change,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1477.56,
+      "end": 1487.96,
+      "speaker": "Presenter",
+      "text": "right? But some of them become kind of permanent or just become very you know kind of top-of-mind for a lot of people, okay? So that is the first example of how we learned or we took a mass instinct,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1487.96,
+      "end": 1499.06,
+      "speaker": "Presenter",
+      "text": "what which is status, we spotted a trend that people treat dog uh dogs like family members, and we were able to write a headline that again talks about how being a dog parent that everyone admires,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1499.06,
+      "end": 1508.5,
+      "speaker": "Presenter",
+      "text": "which really leans into status, but also leverages dog parent, which kind of taps into this family member situation, okay? So example number two, mass instinct and mass education.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1509.0,
+      "end": 1518.7,
+      "speaker": "Presenter",
+      "text": "This is where I honestly lean the most, which is tapping into mass instincts. Especially, I mean product-aware markets you're going to really want to jump into some of these technological problems because",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1518.7,
+      "end": 1520.76,
+      "speaker": "Presenter",
+      "text": "if you have a very large product-aware market,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1521.2,
+      "end": 1527.12,
+      "speaker": "Presenter",
+      "text": "Tech problems are are massive, meaning like product problems are massive, okay? But mass instinct and mass education",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1527.12,
+      "end": 1535.86,
+      "speaker": "Presenter",
+      "text": "for me usually always lead to the biggest breakthroughs. And so again, just understand our whole goal of this is for you to have a breakthrough so you can create an ad that really bangs.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1536.58,
+      "end": 1543.2,
+      "speaker": "Presenter",
+      "text": "And so here, we have mass instinct is health and just understand that health can also apply to someone else, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1543.44,
+      "end": 1550.84,
+      "speaker": "Presenter",
+      "text": "So health here: survival, stay alive, stay healthy and safe. This can also we could basically want health for our pets as well,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1550.84,
+      "end": 1557.28,
+      "speaker": "Presenter",
+      "text": "or for those around us, too. So a lot of these can be applied. We want others to have status, you know, we want others to feel belonging,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1557.5,
+      "end": 1564.82,
+      "speaker": "Presenter",
+      "text": "we want others to have some kind of control and comfort, right? Cuz we a lot of times take care of people as well. But at the end at the end of the day here,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1565.02,
+      "end": 1570.42,
+      "speaker": "Presenter",
+      "text": "the example number two is health, so we want to keep our dog safe. That is the mass instinctual desire that we have.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1570.84,
+      "end": 1578.5,
+      "speaker": "Presenter",
+      "text": "And then here we have mass education, which people learned that collars or collar pulling damages the trachea,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1578.68,
+      "end": 1584.06,
+      "speaker": "Presenter",
+      "text": "okay? Which is essentially the dog's throat. And so we can channel this, and the reason why I starred this in a second I will tell you,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1584.48,
+      "end": 1591.1,
+      "speaker": "Presenter",
+      "text": "is we could say, \"Why are you still choking your dog in 2025?\", right? Now we're talking about health, so the dog's health,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1591.3,
+      "end": 1597.72,
+      "speaker": "Presenter",
+      "text": "and we're talking about this new thing that we learned and you might learn by doing research to understand what is going on,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1597.72,
+      "end": 1607.3,
+      "speaker": "Presenter",
+      "text": "to then channel that into a headline where, \"Hey, I just learned that apparently collars damage the dog's throat. I know people have a desire around keeping their dog safe,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1607.5,
+      "end": 1614.64,
+      "speaker": "Presenter",
+      "text": "so here's a headline: 'Why are you still choking your dog in 20 2025?'\" And the reason why I starred this is because this was actually a winning headline that we had wrote.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1614.64,
+      "end": 1622.36,
+      "speaker": "Presenter",
+      "text": "And by understanding this, we were able to write it, right? And then vice versa, right? Again, if we, for example, are maybe not thinking through",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 254,
+      "start": 1622.36,
+      "end": 1628.32,
+      "speaker": "Presenter",
+      "text": "or you previously have not thought through the headlines that you have written, you can then go back and peel back the layer and be like, \"Oh,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 255,
+      "start": 1628.64,
+      "end": 1635.72,
+      "speaker": "Presenter",
+      "text": "I found that this goes after this desire, I guess I should probably go deeper on this,\" okay? The next one here is mass tech problem and style trend.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1635.72,
+      "end": 1643.86,
+      "speaker": "Presenter",
+      "text": "So again, we're still under the dog harness brand here. I'm going to make this a little bit bigger just so everyone can can see it. But here we have a mass tech problem",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1643.86,
+      "end": 1651.56,
+      "speaker": "Presenter",
+      "text": "with a style trend. So again, what I did here is I was just combining each one of these to give you guys four different examples,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1651.56,
+      "end": 1657.92,
+      "speaker": "Presenter",
+      "text": "okay? Essentially, there are a lot of combinations, okay? There's six combinations here for techno- technological problems,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1657.98,
+      "end": 1663.48,
+      "speaker": "Presenter",
+      "text": "and there's six combinations here for mass instincts. And so essentially, you have 12 total,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 260,
+      "start": 1663.48,
+      "end": 1671.22,
+      "speaker": "Presenter",
+      "text": "you know, technological problems and instincts that you can then look for on specific style trends and also look for on specific education.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1671.42,
+      "end": 1679.38,
+      "speaker": "Presenter",
+      "text": "So whatever information is out there, which kind of gives you like 24 different combinations. Now, in that instance, I'm not doing that and I'm also not telling you to go and just",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 262,
+      "start": 1679.38,
+      "end": 1686.5,
+      "speaker": "Presenter",
+      "text": "test 24 combinations for the sake of testing it. But what you are going to want to do is leverage the desire ranking that I have down here, which we're going to get to.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 263,
+      "start": 1686.74,
+      "end": 1693.76,
+      "speaker": "Presenter",
+      "text": "But for this one specifically, now we're targeting a problem that exists in this niche of, you know, the harnesses being fragile,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 264,
+      "start": 1694.82,
+      "end": 1702.1,
+      "speaker": "Presenter",
+      "text": "right? And a trend that exists right now is people who are buying for the long-term. And this might not just and this might not actually be, for example,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 265,
+      "start": 1702.3,
+      "end": 1709.84,
+      "speaker": "Presenter",
+      "text": "a specific trend in your industry, okay? This might just be a trend overall, right? Um and so, for example, here,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 266,
+      "start": 1710.18,
+      "end": 1716.36,
+      "speaker": "Presenter",
+      "text": "if we take a look at this, so one of the style trends that we're leaning into on this is only buying products that are built to last,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 267,
+      "start": 1716.56,
+      "end": 1722.94,
+      "speaker": "Presenter",
+      "text": "or, for example, a trend right now is American-made, right? Buying things that are made in America. I can then use that as a headline,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 268,
+      "start": 1723.3,
+      "end": 1728.52,
+      "speaker": "Presenter",
+      "text": "right? And so, for example, the way that I channel this one here for built to last is, \"The last harness you'll ever buy.\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 269,
+      "start": 1728.82,
+      "end": 1735.9,
+      "speaker": "Presenter",
+      "text": "And again, this taps into this problem that a lot of harnesses are fragile, right? And then the style trend is that people are wanting to buy things that last.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 270,
+      "start": 1735.9,
+      "end": 1744.82,
+      "speaker": "Presenter",
+      "text": "Now, this might not be as much as a style trend, this is kind of more I I think more of a a desire that has become a part of people having shit products,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 271,
+      "start": 1744.82,
+      "end": 1752.92,
+      "speaker": "Presenter",
+      "text": "which is essentially why it has become the became a trend, which is like just stop buying the trend is to not buy crap or to buy things that actually last, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 272,
+      "start": 1753.3,
+      "end": 1760.02,
+      "speaker": "Presenter",
+      "text": "So that is how we can channel those two together. The final one here is mass tech problems and mass education. So the mass tech problem here",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 273,
+      "start": 1760.02,
+      "end": 1767.18,
+      "speaker": "Presenter",
+      "text": "is that this is just not compatible, okay? And so this won't work with a bunch of different dog types, that is a problem with harnesses.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 274,
+      "start": 1767.54,
+      "end": 1776.26,
+      "speaker": "Presenter",
+      "text": "And so the education here is that because of this, you know, lack of compatibility, people learn that dogs can slip",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 275,
+      "start": 1776.26,
+      "end": 1785.1,
+      "speaker": "Presenter",
+      "text": "out of their regular harness. And so now what we can do is like, okay, well, we learned by doing research that people have dogs that are escaping out of their harness,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 276,
+      "start": 1785.1,
+      "end": 1792.0,
+      "speaker": "Presenter",
+      "text": "and that most harnesses don't work because of the problem that they just don't work with different body types or different dog types.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 277,
+      "start": 1792.5,
+      "end": 1800.02,
+      "speaker": "Presenter",
+      "text": "And so the channel here and the headline that we write is, \"The Harness Houdini Can't Escape,\" right? And so we're leveraging a bit of an analogy there as well,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 278,
+      "start": 1800.02,
+      "end": 1806.78,
+      "speaker": "Presenter",
+      "text": "and Houdini, for people who know Houdini. Obviously, if they don't know Houdini, then you're not going to get this ad, which is fine. I think most people do,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 279,
+      "start": 1806.96,
+      "end": 1816.02,
+      "speaker": "Presenter",
+      "text": "um but at the end of the day, Houdini's a magician, but essentially, and known for escaping. This is an ad or a headline that targets this problem that",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 280,
+      "start": 1816.02,
+      "end": 1822.0,
+      "speaker": "Presenter",
+      "text": "that harnesses don't work and that dogs escape or harnesses, you know, don't fit specific dog types",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 281,
+      "start": 1822.0,
+      "end": 1826.9,
+      "speaker": "Presenter",
+      "text": "and they escape out of them regularly, right? So, this is the harness Houdini can't escape,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 282,
+      "start": 1826.9,
+      "end": 1833.56,
+      "speaker": "Presenter",
+      "text": "right? Or again, we could even frame this differently around just the fact that is I'm and I'm not going to spit out a headline right now,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 283,
+      "start": 1833.82,
+      "end": 1839.5,
+      "speaker": "Presenter",
+      "text": "but we could try to position this more so that it actually leans into the tech problem of, you know, the harness that will that actually fits.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 284,
+      "start": 1839.5,
+      "end": 1845.16,
+      "speaker": "Presenter",
+      "text": "You know, for example, one of our best headlines for this brand specifically is harnesses that fit big dogs, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 285,
+      "start": 1845.34,
+      "end": 1850.86,
+      "speaker": "Presenter",
+      "text": "Mentioning how this fits big dogs and actually works for big dogs because one of the things that people have learned is that",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 286,
+      "start": 1850.86,
+      "end": 1857.32,
+      "speaker": "Presenter",
+      "text": "harnesses don't work for a lot of big dogs, and so that probably would have been a better example. But at the end of the day, that is how you can leverage",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 287,
+      "start": 1857.32,
+      "end": 1862.94,
+      "speaker": "Presenter",
+      "text": "the problems that exist, the education that people have around the problem, right,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 288,
+      "start": 1863.38,
+      "end": 1869.58,
+      "speaker": "Presenter",
+      "text": "and then channel that into a headline to show your understanding of the customer and actually get them to convert. So, you're actually thinking",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 289,
+      "start": 1869.58,
+      "end": 1874.4,
+      "speaker": "Presenter",
+      "text": "about what you're writing rather than just writing it. All right, cool. So, now we're going to get into blackout blinds here,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 290,
+      "start": 1874.46,
+      "end": 1878.92,
+      "speaker": "Presenter",
+      "text": "but I'm not going to go through as in-depth as I just did on the dog harness one. Just know here's an exact",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 291,
+      "start": 1878.92,
+      "end": 1886.32,
+      "speaker": "Presenter",
+      "text": "example, again, of how we did this. So, mass instinct and style trend, we're going after the comfort instinct here, okay, the comfort desire",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 292,
+      "start": 1886.32,
+      "end": 1892.22,
+      "speaker": "Presenter",
+      "text": "of avoiding discomfort in bad sleeps, okay? I want to sleep better, that is kind of desire,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 293,
+      "start": 1892.42,
+      "end": 1893.54,
+      "speaker": "Presenter",
+      "text": "you know, I want to sleep more comfortably.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 294,
+      "start": 1894.24,
+      "end": 1898.8,
+      "speaker": "Presenter",
+      "text": "The trend of locking in is cool, right? So, this commitment and",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 295,
+      "start": 1898.8,
+      "end": 1903.54,
+      "speaker": "Presenter",
+      "text": "focus culture that exists, right, this whole idea of, \"Yo, lock in, bro,\" right? What we're going to channel is",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 296,
+      "start": 1903.54,
+      "end": 1907.0,
+      "speaker": "Presenter",
+      "text": "time to lock in to perfect sleep, okay? Another one down",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 297,
+      "start": 1907.0,
+      "end": 1912.78,
+      "speaker": "Presenter",
+      "text": "here is mass instinct or mass desire that exists is healthy, so staying healthy, okay? And now the education around this is",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 298,
+      "start": 1912.78,
+      "end": 1919.0,
+      "speaker": "Presenter",
+      "text": "people learn that light disrupts sleep cycles, okay? So, poor sleep equals health problems, right? So again, the instinct,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 299,
+      "start": 1919.26,
+      "end": 1924.8,
+      "speaker": "Presenter",
+      "text": "people want to be healthy. The education that we people have learned is that sleeping or better sleep",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 300,
+      "start": 1924.8,
+      "end": 1932.36,
+      "speaker": "Presenter",
+      "text": "actually allows you to be healthier, so they want to sleep better so they can be healthier. And so what we can do here is we can channel this to a blackout blind",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 301,
+      "start": 1932.36,
+      "end": 1938.44,
+      "speaker": "Presenter",
+      "text": "that says light is slowly killing you. Again, kind of lower valence there, meaning and I don't want to confuse you, but",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 302,
+      "start": 1938.44,
+      "end": 1945.56,
+      "speaker": "Presenter",
+      "text": "meaning that's a this is a bit more negative tone, but we're targeting someone who has this instinct to want to be healthy",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 303,
+      "start": 1945.56,
+      "end": 1952.2,
+      "speaker": "Presenter",
+      "text": "and knows that essentially light can disrupt sleep cycles, and so we're leveraging that. And again, a lot of times the headline",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 304,
+      "start": 1952.2,
+      "end": 1958.82,
+      "speaker": "Presenter",
+      "text": "is a bold call out, and it's important to add subheadings that kind of provides context around things. But this is an example",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 305,
+      "start": 1958.82,
+      "end": 1965.26,
+      "speaker": "Presenter",
+      "text": "of how we can go after the health instinct selling blackout blinds, right? Another one here, mass tech problems, so",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 306,
+      "start": 1965.26,
+      "end": 1971.08,
+      "speaker": "Presenter",
+      "text": "complexity, these things are too hard to install, education, people learn that installation usually sucks,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 307,
+      "start": 1971.6,
+      "end": 1977.94,
+      "speaker": "Presenter",
+      "text": "and so we can channel this into a headline of no tools, no drilling, no BS, right? Obviously, we have a photo",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 308,
+      "start": 1977.94,
+      "end": 1984.02,
+      "speaker": "Presenter",
+      "text": "of the product to make it congruent because we want to be clear what it is that we're selling. So, if we actually show the product, then",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 309,
+      "start": 1984.02,
+      "end": 1991.12,
+      "speaker": "Presenter",
+      "text": "that makes it easier for people to actually see, cuz what we want to avoid is just writing headlines that nobody understands, right? We want to make sure",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 310,
+      "start": 1991.12,
+      "end": 1995.2,
+      "speaker": "Presenter",
+      "text": "that we're actually being clear. It's so if we're going to be a little more, you know,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 311,
+      "start": 1995.4,
+      "end": 1998.4,
+      "speaker": "Presenter",
+      "text": "broad in the headline, we need to make sure that the imagery is very clear, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 312,
+      "start": 1998.76,
+      "end": 2002.42,
+      "speaker": "Presenter",
+      "text": "And then another example down here and the final one is mass tech problem of complexity,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 313,
+      "start": 2002.9,
+      "end": 2008.74,
+      "speaker": "Presenter",
+      "text": "so sleep optimization is really complicated. You got to, you know, do red light, you can't eat before nine,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 314,
+      "start": 2009.02,
+      "end": 2014.76,
+      "speaker": "Presenter",
+      "text": "you got to do this and that, and take these supplements and those, and at the end of the day, it's very complex, okay? So, that's a problem,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 315,
+      "start": 2014.76,
+      "end": 2019.7,
+      "speaker": "Presenter",
+      "text": "right, with a lot of the tech that is out there. And so the trend of obviously biohacking and sleep",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 316,
+      "start": 2019.7,
+      "end": 2024.76,
+      "speaker": "Presenter",
+      "text": "optimization is a big thing. People want to biohack, they want to, you know, improve their health,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 317,
+      "start": 2024.76,
+      "end": 2030.52,
+      "speaker": "Presenter",
+      "text": "but it's complex, right? And so the channel here is biohack your bedroom in five minutes,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 318,
+      "start": 2030.52,
+      "end": 2035.98,
+      "speaker": "Presenter",
+      "text": "right? So, we make it we show that it's easy within the five minutes, which covers the complexity,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 319,
+      "start": 2035.98,
+      "end": 2042.36,
+      "speaker": "Presenter",
+      "text": "and we also target the desire of people who want to biohack and optimize their sleep, right? Optimize your sleep,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 320,
+      "start": 2042.54,
+      "end": 2047.2,
+      "speaker": "Presenter",
+      "text": "we could even do this cuz it's a blind that closes, we could say, \"Optimize your sleep in 3 seconds,\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 321,
+      "start": 2047.2,
+      "end": 2051.54,
+      "speaker": "Presenter",
+      "text": "right, just show someone closing the blinds, as an example, okay? And so that is how",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 322,
+      "start": 2051.54,
+      "end": 2056.8,
+      "speaker": "Presenter",
+      "text": "you can take again, you understand what desires are, desires are what people want and what people",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 323,
+      "start": 2056.8,
+      "end": 2061.74,
+      "speaker": "Presenter",
+      "text": "need. And for example, when you find desires and we're going to show you how to do that, desire hunting, and we're going to make",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 324,
+      "start": 2061.74,
+      "end": 2066.56,
+      "speaker": "Presenter",
+      "text": "all of this make a lot more sense, but you need to understand these are the instincts, everything usually goes back to one of these six,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 325,
+      "start": 2067.12,
+      "end": 2071.38,
+      "speaker": "Presenter",
+      "text": "and when it comes to technology, these are usually the problems that people have, okay? And then from there,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 326,
+      "start": 2071.56,
+      "end": 2076.5,
+      "speaker": "Presenter",
+      "text": "the trend in the market or the trend in general, and education in general, okay,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 327,
+      "start": 2076.94,
+      "end": 2082.5,
+      "speaker": "Presenter",
+      "text": "is what helps you, or is essentially what creates the desires that people have around these instincts",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 328,
+      "start": 2082.5,
+      "end": 2087.8,
+      "speaker": "Presenter",
+      "text": "and around these tech problems, for you to then be able to understand so you can channel it",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 329,
+      "start": 2087.8,
+      "end": 2093.84,
+      "speaker": "Presenter",
+      "text": "into an ad, okay? And so that is the example section. Hopefully this is helpful for a lot of you guys as well.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 330,
+      "start": 2093.84,
+      "end": 2099.52,
+      "speaker": "Presenter",
+      "text": "And now we're going to get into how to find and evaluate desires. All right, so",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 331,
+      "start": 2099.52,
+      "end": 2104.32,
+      "speaker": "Presenter",
+      "text": "how to find and evaluate desires? We're going to go through this a lot more in depth in the desire hunting section,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 332,
+      "start": 2104.36,
+      "end": 2108.66,
+      "speaker": "Presenter",
+      "text": "but just know that the first thing that you need to do is you need to spot the desire. How do you spot the desire?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 333,
+      "start": 2109.16,
+      "end": 2113.14,
+      "speaker": "Presenter",
+      "text": "You watch out for complaints, okay, so different patterns that you see people complaining about.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 334,
+      "start": 2113.54,
+      "end": 2118.8,
+      "speaker": "Presenter",
+      "text": "You look for wants and for needs, okay? What do people say, \"I want?\" What do people say, \"Oh, I need this,\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 335,
+      "start": 2119.04,
+      "end": 2124.2,
+      "speaker": "Presenter",
+      "text": "right? Or, \"I wish I had this,\" right? With \"I wish,\" you have to be careful, because sometimes people just want things that they",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 336,
+      "start": 2124.2,
+      "end": 2128.04,
+      "speaker": "Presenter",
+      "text": "actually can't get, they do exist, but they just can't get them. So, wants and needs, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 337,
+      "start": 2128.56,
+      "end": 2134.06,
+      "speaker": "Presenter",
+      "text": "following cultural trends. So like what is going on, right? Where do people have desires? And, for example,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 338,
+      "start": 2134.68,
+      "end": 2142.28,
+      "speaker": "Presenter",
+      "text": "these kind of final two go towards what I would usually call trending desires. I don't want to confuse you guys, but, for example, Valentine's Day. And",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 339,
+      "start": 2142.28,
+      "end": 2147.22,
+      "speaker": "Presenter",
+      "text": "we're actually going to get into the desire calendar and talk about trending trending desires and how desires change,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 340,
+      "start": 2147.22,
+      "end": 2154.06,
+      "speaker": "Presenter",
+      "text": "which is really cool, over the year so you guys can understand which desires are like heavy hitting at at the current time.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 341,
+      "start": 2154.44,
+      "end": 2163.64,
+      "speaker": "Presenter",
+      "text": "But follow cultural trends and look at where people are spending money. An example of this is like Valentine's Day, right? We know people are likely buying flowers on Valentine's Day.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 342,
+      "start": 2163.74,
+      "end": 2173.38,
+      "speaker": "Presenter",
+      "text": "Valentine's Day is a cultural trend, right? And a lot of people spend money on it, okay? They book a lot of reservations. They buy a lot of chocolate, okay? And so you can understand that, and you can leverage that. But",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 343,
+      "start": 2173.38,
+      "end": 2184.8,
+      "speaker": "Presenter",
+      "text": "mainly what we're looking for here is where are people complaining and what do people say they want, and what do people say that they need, and that is going to help us spot the desire. Now, the next thing that you need to do is you then need to test its power.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 344,
+      "start": 2185.1,
+      "end": 2196.46,
+      "speaker": "Presenter",
+      "text": "And in short, essentially what this means is not all desires are carried equally, okay? And the example that I gave in the slideshow presentation that I did a little while ago",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 345,
+      "start": 2196.46,
+      "end": 2200.0,
+      "speaker": "Presenter",
+      "text": "was about the, you know, desires of, I, you know,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 346,
+      "start": 2200.42,
+      "end": 2201.86,
+      "speaker": "Presenter",
+      "text": "\"I want to have toned calves,\"",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 347,
+      "start": 2202.26,
+      "end": 2209.1,
+      "speaker": "Presenter",
+      "text": "right? So that is a desire that maybe you spotted in Reddit, right? \"I want toned calves. I want my calves to look toned. I want them to look big.\"",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 348,
+      "start": 2210.3,
+      "end": 2215.3,
+      "speaker": "Presenter",
+      "text": "Now, urgency, right? How desperately how desperately do people want",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 349,
+      "start": 2215.3,
+      "end": 2222.18,
+      "speaker": "Presenter",
+      "text": "that desire? And how badly do they, if if it's more of a problem, how bad do they need the relief,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 350,
+      "start": 2222.76,
+      "end": 2231.56,
+      "speaker": "Presenter",
+      "text": "right? So the example of this, if we go back to toned calves, right? Like someone's not going to die tomorrow if they don't have toned calves,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 351,
+      "start": 2232.08,
+      "end": 2232.3,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 352,
+      "start": 2233.16,
+      "end": 2233.56,
+      "speaker": "Presenter",
+      "text": "Pretty simple.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 353,
+      "start": 2234.32,
+      "end": 2242.62,
+      "speaker": "Presenter",
+      "text": "But, for example, if someone's phone like dies, or or not doesn't die, but let's just say someone's phone breaks,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 354,
+      "start": 2243.12,
+      "end": 2248.54,
+      "speaker": "Presenter",
+      "text": "that is like way more urgent because people almost cannot live without their phone nowadays, right? And so",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 355,
+      "start": 2248.54,
+      "end": 2255.62,
+      "speaker": "Presenter",
+      "text": "that is called urgency. And so specific desires will have higher amounts of urgency,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 356,
+      "start": 2255.62,
+      "end": 2260.48,
+      "speaker": "Presenter",
+      "text": "meaning that people will want them more than others, and they will need them faster,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 357,
+      "start": 2260.86,
+      "end": 2269.8,
+      "speaker": "Presenter",
+      "text": "right? So just understand that, again, the example that we have here is broken bone versus a cut. If you cut yourself, obviously, you know, you you need to get relief, right?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 358,
+      "start": 2270.18,
+      "end": 2275.06,
+      "speaker": "Presenter",
+      "text": "And so you're going to have a desire where it's like, I need, you know, I need a Band-Aid. But if you broke your bone,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 359,
+      "start": 2275.82,
+      "end": 2283.04,
+      "speaker": "Presenter",
+      "text": "that is way more Like, you might just be able to let a cut chill. But if you break a bone, unless you're kind of a psycho, you need to go and get that taken care of right away. So just understand that",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 360,
+      "start": 2283.04,
+      "end": 2289.98,
+      "speaker": "Presenter",
+      "text": "urgency is about how badly people need relief, how soon do they need relief, or how badly do they do they want it",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 361,
+      "start": 2289.98,
+      "end": 2299.06,
+      "speaker": "Presenter",
+      "text": "right now, okay? Is this something that they need to get quickly, right? The best-case scenario of this is like, you know, drugs, drug addicts, right? Like they desperately need it.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 362,
+      "start": 2299.14,
+      "end": 2303.54,
+      "speaker": "Presenter",
+      "text": "They'll do anything to get it. And they need it right now. They need it fast, right? And so",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 363,
+      "start": 2303.54,
+      "end": 2313.78,
+      "speaker": "Presenter",
+      "text": "that's why urgency can, if you if something has a lot of urgency, it creates a bigger market and and makes a more powerful desire. The next one is staying power.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 364,
+      "start": 2313.96,
+      "end": 2316.62,
+      "speaker": "Presenter",
+      "text": "So this is essentially, does this desire renew, right?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 365,
+      "start": 2317.02,
+      "end": 2319.98,
+      "speaker": "Presenter",
+      "text": "So, for example, if someone just eats a meal,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 366,
+      "start": 2320.52,
+      "end": 2321.52,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 367,
+      "start": 2322.18,
+      "end": 2327.42,
+      "speaker": "Presenter",
+      "text": "And then guess what? Six hours later, six hours later, for some people, like 3, 4 hours later,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 368,
+      "start": 2327.52,
+      "end": 2335.6,
+      "speaker": "Presenter",
+      "text": "they they want another meal, right? So the desire for hunger is constantly going. Same thing, and I know we had the conversation about it above,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 369,
+      "start": 2336.62,
+      "end": 2340.26,
+      "speaker": "Presenter",
+      "text": "is, you know, sex, right? For example, is like people like constantly do it,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 370,
+      "start": 2340.5,
+      "end": 2347.9,
+      "speaker": "Presenter",
+      "text": "right? It's the same thing for status, right? Some people constantly crave specific means of status,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 371,
+      "start": 2348.36,
+      "end": 2353.64,
+      "speaker": "Presenter",
+      "text": "right? And so this is a desire that people maybe don't just want status once, right? They want status constantly.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 372,
+      "start": 2354.46,
+      "end": 2359.26,
+      "speaker": "Presenter",
+      "text": "And so some desires have a staying power, which means they constantly renew,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 373,
+      "start": 2359.74,
+      "end": 2364.04,
+      "speaker": "Presenter",
+      "text": "right? People they like they satiate them, but then it comes back again, right? It comes back",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 374,
+      "start": 2364.04,
+      "end": 2371.5,
+      "speaker": "Presenter",
+      "text": "fast. And so, again, we have urgency is how badly do people want it, right? And then staying power is how many times do they want it,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 375,
+      "start": 2371.64,
+      "end": 2378.72,
+      "speaker": "Presenter",
+      "text": "right? So understanding this is very, very important to determine how big desires are going to be. And then the biggest one is really scope,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 376,
+      "start": 2379.12,
+      "end": 2387.12,
+      "speaker": "Presenter",
+      "text": "right? So there are way more people that have the desire to make money than people who have the desire to collect fine antiques.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 377,
+      "start": 2387.44,
+      "end": 2391.88,
+      "speaker": "Presenter",
+      "text": "Okay? That's just how it is, right? Some desires are just shared by more people,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 378,
+      "start": 2391.88,
+      "end": 2400.2,
+      "speaker": "Presenter",
+      "text": "right? And so at the end of the day, scope is one of the most important ones. And just to maybe not confuse you guys, I'll I'll put this one up at the top",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 379,
+      "start": 2400.2,
+      "end": 2408.2,
+      "speaker": "Presenter",
+      "text": "because if you don't understand this, just understand scope more than anything, okay? And then understand urgency, which is like how badly",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 380,
+      "start": 2408.2,
+      "end": 2415.72,
+      "speaker": "Presenter",
+      "text": "do people want it? And then staying power is how like how much do they need it? Like do they constantly need this,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 381,
+      "start": 2415.84,
+      "end": 2420.7,
+      "speaker": "Presenter",
+      "text": "and does it constantly redo? Okay? And the final one here is choosing the strongest, okay?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 382,
+      "start": 2421.12,
+      "end": 2428.8,
+      "speaker": "Presenter",
+      "text": "Now picking the desire above or picking the desire and then kind of running through, hey, how many people share this? And we're going to get into some AI stuff of how to gauge this as well,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 383,
+      "start": 2429.02,
+      "end": 2432.88,
+      "speaker": "Presenter",
+      "text": "but at the end of the day, honestly, I've already ranked these desires for you",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 384,
+      "start": 2432.88,
+      "end": 2440.14,
+      "speaker": "Presenter",
+      "text": "based off of a lot of deep research that I've done. So one of the biggest things like no matter what is always going to be health,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 385,
+      "start": 2440.14,
+      "end": 2444.62,
+      "speaker": "Presenter",
+      "text": "and we're going to talk about the elevation strategy shortly. But, and I'm scrolling up so you don't cheat,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 386,
+      "start": 2445.1,
+      "end": 2454.5,
+      "speaker": "Presenter",
+      "text": "health is still always going to be the number one thing. Because whether you're rich or you're poor, health scares and moves everyone, right? If there's, you know, a natural disaster coming in, there's a tornado,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 387,
+      "start": 2454.92,
+      "end": 2460.7,
+      "speaker": "Presenter",
+      "text": "there's an earthquake, right? And shit hits the fan, you stop everything that you're doing to make sure that you you go into survival mode,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 388,
+      "start": 2460.7,
+      "end": 2466.34,
+      "speaker": "Presenter",
+      "text": "right? It is the number one desire, okay? Status is the second one, okay?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 389,
+      "start": 2466.44,
+      "end": 2472.54,
+      "speaker": "Presenter",
+      "text": "And this is again, as it says here, amplified massively by social media. Makes everybody more visible than ever, makes competition",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 390,
+      "start": 2472.54,
+      "end": 2481.14,
+      "speaker": "Presenter",
+      "text": "more visible than ever, makes word spread faster than ever, everybody wants to be viral. Status is a very, very big thing, okay?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 391,
+      "start": 2481.48,
+      "end": 2486.8,
+      "speaker": "Presenter",
+      "text": "And so selling status is what creates, you know, $100 billion-plus industries, and",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 392,
+      "start": 2486.8,
+      "end": 2492.08,
+      "speaker": "Presenter",
+      "text": "I think honestly at this point probably trillion-dollar industries, because of status and being seen as,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 393,
+      "start": 2492.08,
+      "end": 2498.62,
+      "speaker": "Presenter",
+      "text": "you know, that kind of person, or a specific type of person, or being noticed in general, okay? And then sex kind of falls right under there as",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 394,
+      "start": 2498.62,
+      "end": 2504.6,
+      "speaker": "Presenter",
+      "text": "the third one. I'd say these two are kind of a a coin toss, it could be either or. But again, it's fundamental, but again,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 395,
+      "start": 2504.94,
+      "end": 2510.62,
+      "speaker": "Presenter",
+      "text": "at the end of the day, this is, you know, these two, these three are like the powerhouses. Number four is going to be comfort.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 396,
+      "start": 2511.24,
+      "end": 2518.04,
+      "speaker": "Presenter",
+      "text": "So just kind of elevated because technology made it possible and expected, right? So technology's gotten better. As life goes",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 397,
+      "start": 2518.04,
+      "end": 2526.04,
+      "speaker": "Presenter",
+      "text": "on, people get more and more and more comfortable, right? We used to have to walk everywhere and then, you know, we got horse and carriages, and then we got into cars. And now we, you know, we literally have",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 398,
+      "start": 2526.04,
+      "end": 2534.86,
+      "speaker": "Presenter",
+      "text": "like cars with I don't know, like Maybachs, right, where people are just chilling, watching movies in their car. So it's like technology elevates this, but comfort is something that people still crave,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 399,
+      "start": 2535.2,
+      "end": 2542.56,
+      "speaker": "Presenter",
+      "text": "right? And then we have control, so again, this is boosted a little bit more by modern complexity. People want control over chaotic systems, but control",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 400,
+      "start": 2542.56,
+      "end": 2550.34,
+      "speaker": "Presenter",
+      "text": "is people, I think people are starting to see like they have less and less control. Sometimes that can make it actually stronger, and these desires can change",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 401,
+      "start": 2550.34,
+      "end": 2557.88,
+      "speaker": "Presenter",
+      "text": "based off of, you know, how the world is and what's going on. But just understand that con- these are all still very strong. So this doesn't mean like don't",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 402,
+      "start": 2557.88,
+      "end": 2565.04,
+      "speaker": "Presenter",
+      "text": "go after this. It just means that if you're in your messaging telling someone, you know, like take control of your life versus, you know,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 403,
+      "start": 2565.66,
+      "end": 2573.26,
+      "speaker": "Presenter",
+      "text": "you need to you need to fix your diet or you're going to have diabetes, right, like for example, and you're you're not going to be able, you're not going to be healthy,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 404,
+      "start": 2573.38,
+      "end": 2580.46,
+      "speaker": "Presenter",
+      "text": "some people are going to prioritize health over control, as an example. Like or you need to control your kids or something like that, right?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 405,
+      "start": 2580.6,
+      "end": 2587.32,
+      "speaker": "Presenter",
+      "text": "But just understand that certain just because it's lower on this list doesn't mean it's not powerful, okay? And the final one here is belonging.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 406,
+      "start": 2587.64,
+      "end": 2593.64,
+      "speaker": "Presenter",
+      "text": "So this is again, still important, but it is less like survival urgent, and you don't,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 407,
+      "start": 2593.78,
+      "end": 2600.94,
+      "speaker": "Presenter",
+      "text": "as it says here, need tribe to literally survive. But again, in times of need, belonging becomes very, very important. Again, you guys are going to see that",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 408,
+      "start": 2600.94,
+      "end": 2607.52,
+      "speaker": "Presenter",
+      "text": "in the desire calendar. But essentially I would say these two can flip-flop as well. At the end of the day, it's kind of a hard list to put through,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 409,
+      "start": 2607.52,
+      "end": 2614.78,
+      "speaker": "Presenter",
+      "text": "but I would say that these three up here: health, status, and sex, are by far the big three that if you can tap into these desires,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 410,
+      "start": 2614.78,
+      "end": 2621.64,
+      "speaker": "Presenter",
+      "text": "it is really going to help you scale a lot further, okay? Because a lot of status also kind of goes into money, for example,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 411,
+      "start": 2622.22,
+      "end": 2629.38,
+      "speaker": "Presenter",
+      "text": "right? And money also, if you don't know, can help you with health, it can help you get more status, it can help you with sex, it can help you be more comfortable,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 412,
+      "start": 2629.62,
+      "end": 2636.6,
+      "speaker": "Presenter",
+      "text": "it can help you, you know, be in more control, it can help you, I would say belonging it doesn't help with as much. But as you can see, like that's why so many people",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 413,
+      "start": 2636.6,
+      "end": 2644.0,
+      "speaker": "Presenter",
+      "text": "crave money, because money can solve so many specific desires, right? So that is why it is such a strong",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 414,
+      "start": 2644.0,
+      "end": 2650.82,
+      "speaker": "Presenter",
+      "text": "thing that people want, okay? So hopefully that makes sense. And now we're going to get into the elevation strategy, which I'm so excited about because I think this section",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 415,
+      "start": 2650.82,
+      "end": 2657.38,
+      "speaker": "Presenter",
+      "text": "is honestly the sickest section for a lot of you guys that are at some decent scale right now or if you're just starting out. This is going to help you",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 416,
+      "start": 2657.38,
+      "end": 2665.42,
+      "speaker": "Presenter",
+      "text": "start to climb into different higher levels of desires and start moving your product up the chains to actually being",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 417,
+      "start": 2665.42,
+      "end": 2672.84,
+      "speaker": "Presenter",
+      "text": "seen and being wanted by more people. All right, so as I mentioned we are now going to get into the elevation strategy, and if you were",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 418,
+      "start": 2672.84,
+      "end": 2679.06,
+      "speaker": "Presenter",
+      "text": "peeking ahead I actually just optimized it, so that way it's going to hit even harder. And so",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 419,
+      "start": 2679.06,
+      "end": 2686.08,
+      "speaker": "Presenter",
+      "text": "the elevation strategy is essentially moving products within the hierarchy that can lead to more scale, okay?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 420,
+      "start": 2686.44,
+      "end": 2693.52,
+      "speaker": "Presenter",
+      "text": "So up here, as we know, this is the list of strongest to weakest, and again they're all extremely strong, but just understand that",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 421,
+      "start": 2693.52,
+      "end": 2701.5,
+      "speaker": "Presenter",
+      "text": "the elevation strategy is about moving your product up this desire chain here to have essentially ads",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 422,
+      "start": 2701.5,
+      "end": 2706.82,
+      "speaker": "Presenter",
+      "text": "that can hit harder, okay? And so just know that",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 423,
+      "start": 2708.12,
+      "end": 2712.58,
+      "speaker": "Presenter",
+      "text": "you're You can be massive in the control desire, okay?",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 424,
+      "start": 2712.64,
+      "end": 2719.34,
+      "speaker": "Presenter",
+      "text": "This does not mean that you need to not Like you have to completely abandon the control desire, and I don't want everyone to just jump into health",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 425,
+      "start": 2719.34,
+      "end": 2723.36,
+      "speaker": "Presenter",
+      "text": "'cause a lot of the times it just doesn't make sense. And for a lot of health brands, so",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 426,
+      "start": 2723.36,
+      "end": 2729.48,
+      "speaker": "Presenter",
+      "text": "people that actually help with health, I would actually recommend that you go down into like the comfort desire",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 427,
+      "start": 2729.48,
+      "end": 2732.64,
+      "speaker": "Presenter",
+      "text": "or the control desire or the sex desire because",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 428,
+      "start": 2732.64,
+      "end": 2735.4,
+      "speaker": "Presenter",
+      "text": "everybody in health is selling health, right?",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 429,
+      "start": 2735.74,
+      "end": 2739.96,
+      "speaker": "Presenter",
+      "text": "And I feel like a lot of the blue ocean, and if there's This might be too much sauce, but",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 430,
+      "start": 2739.96,
+      "end": 2743.28,
+      "speaker": "Presenter",
+      "text": "the Blue Ocean Strategy is essentially, for example,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 431,
+      "start": 2743.84,
+      "end": 2748.86,
+      "speaker": "Presenter",
+      "text": "having a product that most people would market as control, you then market it as health",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 432,
+      "start": 2748.86,
+      "end": 2753.62,
+      "speaker": "Presenter",
+      "text": "or as status. And then, all of a sudden, people are like, \"Oh, shit,\"",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 433,
+      "start": 2754.18,
+      "end": 2757.9,
+      "speaker": "Presenter",
+      "text": "right? Like, \"This is This is I've never seen this before,\" right? \"I didn't know this product could help me",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 434,
+      "start": 2757.9,
+      "end": 2762.9,
+      "speaker": "Presenter",
+      "text": "with that,\" right? Now, again, there are instances where if you go down,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 435,
+      "start": 2763.04,
+      "end": 2767.16,
+      "speaker": "Presenter",
+      "text": "right? So, in this elevation strategy here, where if you try to position",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 436,
+      "start": 2767.16,
+      "end": 2771.28,
+      "speaker": "Presenter",
+      "text": "a Rolex as convenient timekeeping, so comfort,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 437,
+      "start": 2772.22,
+      "end": 2777.2,
+      "speaker": "Presenter",
+      "text": "it is just going to like ruin the brand side of things, okay? And you're reducing",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 438,
+      "start": 2777.2,
+      "end": 2782.22,
+      "speaker": "Presenter",
+      "text": "its perceived value. Like, it's a $40,000 You know, the People aren't going to say like, \"Oh,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 439,
+      "start": 2782.64,
+      "end": 2787.48,
+      "speaker": "Presenter",
+      "text": "you know, with Rolex like you can always see the day on our Day-Date model, get it today.\" It's like,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 440,
+      "start": 2787.76,
+      "end": 2791.66,
+      "speaker": "Presenter",
+      "text": "nah, dude, you're going to see Tiger Woods and Roger Federer, you know, winning",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 441,
+      "start": 2791.66,
+      "end": 2795.64,
+      "speaker": "Presenter",
+      "text": "championships, and then Rolex is just going to be like, \"Oh, yeah, by the way, this is what they wear.\"",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 442,
+      "start": 2795.64,
+      "end": 2800.26,
+      "speaker": "Presenter",
+      "text": "And that's status, right? And so that's brand marketing and a lot of you guys aren't there, and so my point is",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 443,
+      "start": 2800.58,
+      "end": 2805.5,
+      "speaker": "Presenter",
+      "text": "is that you can You can hurt the overall, you know,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 444,
+      "start": 2806.16,
+      "end": 2811.38,
+      "speaker": "Presenter",
+      "text": "things like price, so Here's actually the explanation I'm looking for. So, it can have less emotions emotional urgency,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 445,
+      "start": 2812.24,
+      "end": 2817.5,
+      "speaker": "Presenter",
+      "text": "right? It can, sometimes, lead to you having to charge lower pricer- prices. It can have weaker positioning and it allows you to comeat-",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 446,
+      "start": 2817.5,
+      "end": 2823.98,
+      "speaker": "Presenter",
+      "text": "uh or compete in, you know, categories that are just not as big. But again, I would rather be",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 447,
+      "start": 2823.98,
+      "end": 2828.28,
+      "speaker": "Presenter",
+      "text": "massive in the control desire and have a product that crushes in control",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 448,
+      "start": 2828.28,
+      "end": 2833.4,
+      "speaker": "Presenter",
+      "text": "versus, you know, just being super super small in health, and just understand that, again, these are the three most",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 449,
+      "start": 2833.4,
+      "end": 2840.22,
+      "speaker": "Presenter",
+      "text": "competitive desires. It doesn't mean be scared of them, but I'm going to show you an example of how a product that a lot of you might not see as a status",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 450,
+      "start": 2840.22,
+      "end": 2844.72,
+      "speaker": "Presenter",
+      "text": "symbol, or a health symbol, or even a sex symbol, which I'm going to explain in a second,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 451,
+      "start": 2845.0,
+      "end": 2851.62,
+      "speaker": "Presenter",
+      "text": "can actually help you optimize your ads, okay?",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 452,
+      "start": 2852.22,
+      "end": 2856.28,
+      "speaker": "Presenter",
+      "text": "The key rule for this is the elevation must feel authentic, okay? If you force it,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 453,
+      "start": 2856.28,
+      "end": 2862.34,
+      "speaker": "Presenter",
+      "text": "customers are going to know that they are being manipulated and they don't like to be manipulated, okay? So, it has",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 454,
+      "start": 2862.34,
+      "end": 2867.18,
+      "speaker": "Presenter",
+      "text": "to make sense, right? So, again, the analogy that I gave was if I have a piece of paper",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 455,
+      "start": 2867.18,
+      "end": 2871.44,
+      "speaker": "Presenter",
+      "text": "and I'm like, \"This piece of paper is going to help you, you know,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 456,
+      "start": 2871.44,
+      "end": 2877.02,
+      "speaker": "Presenter",
+      "text": "get more girls because when you talk to them you're going to be able to write your phone number down or write their phone number down on it,\" it's like",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 457,
+      "start": 2877.78,
+      "end": 2882.68,
+      "speaker": "Presenter",
+      "text": "it's just dumb. It's like, no, I'm selling paper because people need to print or because they need to m- take notes.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 458,
+      "start": 2882.68,
+      "end": 2887.54,
+      "speaker": "Presenter",
+      "text": "You know You know what I'm saying? And so, like at the end of the day, if you try to force it, it's sometimes just awkward.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 459,
+      "start": 2887.72,
+      "end": 2893.34,
+      "speaker": "Presenter",
+      "text": "If you're really creative, you can make it work, but you should understand that don't Like sometimes trying to force things, and I'm going to show you an example",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 460,
+      "start": 2893.34,
+      "end": 2897.12,
+      "speaker": "Presenter",
+      "text": "of where forcing it is out and make sense in this situation, but",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 461,
+      "start": 2897.12,
+      "end": 2902.42,
+      "speaker": "Presenter",
+      "text": "you will see down below once we jump into the examples. So, let's jump into it. Level six,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 462,
+      "start": 2902.64,
+      "end": 2908.32,
+      "speaker": "Presenter",
+      "text": "which is belonging. And again, it says weakest, but these are still very strong desires, guys, so I don't want you",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 463,
+      "start": 2908.32,
+      "end": 2915.02,
+      "speaker": "Presenter",
+      "text": "to shy away from writing headlines or writing ads that go after the belonging desire. But",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 464,
+      "start": 2915.02,
+      "end": 2919.04,
+      "speaker": "Presenter",
+      "text": "an example of this, again, this is our dog harness category here,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 465,
+      "start": 2919.04,
+      "end": 2924.36,
+      "speaker": "Presenter",
+      "text": "and so for example, level six, belonging, right? Again, important, but less survival urgent, okay?",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 466,
+      "start": 2924.98,
+      "end": 2928.92,
+      "speaker": "Presenter",
+      "text": "A headline that goes after this desire is, \"Join the responsible dog owner community,\"",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 467,
+      "start": 2928.92,
+      "end": 2936.22,
+      "speaker": "Presenter",
+      "text": "right? Belonging. You want people to be \"Ah, I'm I'm one of those responsible dog owners,\" and labels do really",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 468,
+      "start": 2936.22,
+      "end": 2941.52,
+      "speaker": "Presenter",
+      "text": "really well for belonging, by the way, when we get into labels as well, but labels create a sense of belonging and they create",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 469,
+      "start": 2941.52,
+      "end": 2946.86,
+      "speaker": "Presenter",
+      "text": "relatability and they Again, even though it's the weakest, it's very strong, okay? And for some products,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 470,
+      "start": 2947.22,
+      "end": 2953.02,
+      "speaker": "Presenter",
+      "text": "this makes a lot of sense, okay? And so, again, I don't want every single one of you to be going like, \"Oh, I need to go after health,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 471,
+      "start": 2953.02,
+      "end": 2959.36,
+      "speaker": "Presenter",
+      "text": "status, and sex.\" It's not It's not always the answer, okay? Another one here is, \"Every caring dog owner needs this,\" right? And now",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 472,
+      "start": 2959.36,
+      "end": 2964.52,
+      "speaker": "Presenter",
+      "text": "this is really like I I love this cuz we're going to get into uh a few other things as well, but",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 473,
+      "start": 2964.52,
+      "end": 2970.92,
+      "speaker": "Presenter",
+      "text": "\"Every caring dog owner needs this.\" It's like this is targeting someone's ought self, basically the person they know they need to be",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 474,
+      "start": 2971.24,
+      "end": 2976.52,
+      "speaker": "Presenter",
+      "text": "or for some people their actual self, which is, \"Hey, I'm a caring dog owner, like, yeah, I do need this,\" okay?",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 475,
+      "start": 2977.26,
+      "end": 2980.36,
+      "speaker": "Presenter",
+      "text": "Belonging, right? Now, let's get into comfort, okay?",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 476,
+      "start": 2980.82,
+      "end": 2984.64,
+      "speaker": "Presenter",
+      "text": "So, again, it says weak, still very strong. \"No more struggling with your dog,\"",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 477,
+      "start": 2984.98,
+      "end": 2990.32,
+      "speaker": "Presenter",
+      "text": "right? \"Finally stress-free dog walks.\" And this is something that we've beat down a ton for this brand.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 478,
+      "start": 2991.0,
+      "end": 2995.56,
+      "speaker": "Presenter",
+      "text": "Just haven't really seen it convert. Like it has converted uh obviously a little bit, but",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 479,
+      "start": 2995.56,
+      "end": 3001.24,
+      "speaker": "Presenter",
+      "text": "this is just not something that we've seen work really, really well. We have really tried the angle around comfort for the dog,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 480,
+      "start": 3001.24,
+      "end": 3007.48,
+      "speaker": "Presenter",
+      "text": "and that kind of has done okay, but you know this is not really a desire for this brand, specifically, that has worked well,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 481,
+      "start": 3007.58,
+      "end": 3011.92,
+      "speaker": "Presenter",
+      "text": "but here's an example of how you can see. Now we get into like normal \"No more struggling with your dog,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 482,
+      "start": 3012.22,
+      "end": 3014.22,
+      "speaker": "Presenter",
+      "text": "finally stress-free dog walks,\" okay?",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 483,
+      "start": 3015.14,
+      "end": 3017.14,
+      "speaker": "Presenter",
+      "text": "Now it's getting control. Now we're starting to cook a little bit.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 484,
+      "start": 3017.7,
+      "end": 3019.4,
+      "speaker": "Presenter",
+      "text": "We've got \"Take control of every walk,\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 485,
+      "start": 3020.44,
+      "end": 3023.26,
+      "speaker": "Presenter",
+      "text": "right? \"Master your dog's pulling instantly.\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 486,
+      "start": 3023.9,
+      "end": 3028.0,
+      "speaker": "Presenter",
+      "text": "This is actually one of this one of the winners that we have running for this product specifically,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 487,
+      "start": 3028.46,
+      "end": 3036.14,
+      "speaker": "Presenter",
+      "text": "because we've been able to communicate to people that, \"Hey, with this product, you can solve this problem,\" right?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 488,
+      "start": 3036.26,
+      "end": 3038.44,
+      "speaker": "Presenter",
+      "text": "You're able to master your dog's pulling instantly,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 489,
+      "start": 3038.44,
+      "end": 3044.66,
+      "speaker": "Presenter",
+      "text": "which is going after control, and a lot of things that people are are aware of, or some technological problems",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 490,
+      "start": 3044.66,
+      "end": 3049.6,
+      "speaker": "Presenter",
+      "text": "with leashes, and collars, and harnesses in general, is that dogs pull on them,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 491,
+      "start": 3049.88,
+      "end": 3052.68,
+      "speaker": "Presenter",
+      "text": "okay? And it's annoying, but here, we have control.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 492,
+      "start": 3053.2,
+      "end": 3057.58,
+      "speaker": "Presenter",
+      "text": "And so, \"Hey, take control of every walk,\" right? \"Master your dog's pulling instantly,\" right?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 493,
+      "start": 3058.14,
+      "end": 3059.76,
+      "speaker": "Presenter",
+      "text": "Very, very, very powerful headlines here.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 494,
+      "start": 3060.22,
+      "end": 3061.24,
+      "speaker": "Presenter",
+      "text": "Now we go to level three.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 495,
+      "start": 3061.8,
+      "end": 3065.1,
+      "speaker": "Presenter",
+      "text": "This is going to make you guys laugh, okay? And so this is where it's like,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 496,
+      "start": 3065.46,
+      "end": 3070.56,
+      "speaker": "Presenter",
+      "text": "okay, how can we sell a dog harness as, you know, kind of sex, right?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 497,
+      "start": 3070.56,
+      "end": 3075.18,
+      "speaker": "Presenter",
+      "text": "And and we're not getting weird here and this is nothing here is weird, but this is an example of,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 498,
+      "start": 3075.42,
+      "end": 3082.44,
+      "speaker": "Presenter",
+      "text": "you know, maybe this isn't this is me trying to sell paper for sex sort of thing, right? Like, it just doesn't really make sense.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 499,
+      "start": 3082.44,
+      "end": 3084.1,
+      "speaker": "Presenter",
+      "text": "But let's see.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 500,
+      "start": 3084.16,
+      "end": 3086.0,
+      "speaker": "Presenter",
+      "text": "All right, well, what's the first headline we have?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 501,
+      "start": 3086.52,
+      "end": 3088.78,
+      "speaker": "Presenter",
+      "text": "\"She'll ask where you got that harness.\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 502,
+      "start": 3090.16,
+      "end": 3092.04,
+      "speaker": "Presenter",
+      "text": "Think about what that does, right?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 503,
+      "start": 3092.56,
+      "end": 3095.1,
+      "speaker": "Presenter",
+      "text": "So we're selling dog harnesses,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 504,
+      "start": 3095.44,
+      "end": 3100.94,
+      "speaker": "Presenter",
+      "text": "okay? [laughter] I love this headline, by the way. I I think it's sick. And I'm proud of myself for it, but",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 505,
+      "start": 3100.94,
+      "end": 3105.88,
+      "speaker": "Presenter",
+      "text": "the point is is we're sitting here and everyone's like,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 506,
+      "start": 3106.2,
+      "end": 3113.12,
+      "speaker": "Presenter",
+      "text": "\"Get this dog harness. Get my dog harness. It's the best,\" you know, \"Buy my dog harness because it has this, my dog-\" And then you just come in with an ad that says,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 507,
+      "start": 3113.12,
+      "end": 3115.04,
+      "speaker": "Presenter",
+      "text": "\"She'll ask where you got that harness from.\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 508,
+      "start": 3115.54,
+      "end": 3118.78,
+      "speaker": "Presenter",
+      "text": "What do you think that is going to do for guys? Guys with dogs, like,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 509,
+      "start": 3118.78,
+      "end": 3121.42,
+      "speaker": "Presenter",
+      "text": "probably going to buy that harness.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 510,
+      "start": 3121.88,
+      "end": 3125.52,
+      "speaker": "Presenter",
+      "text": "You know what I'm saying? And so this is a headline that again, we actually haven't tested this yet because",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 511,
+      "start": 3125.52,
+      "end": 3131.92,
+      "speaker": "Presenter",
+      "text": "this is not really been an approach that we've been wanting to take, but I'm always pushing my team to do crazy stuff and this could totally flop,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 512,
+      "start": 3131.92,
+      "end": 3136.06,
+      "speaker": "Presenter",
+      "text": "but my point is, is I want you guys thinking in this direction of now,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 513,
+      "start": 3136.06,
+      "end": 3138.42,
+      "speaker": "Presenter",
+      "text": "we're not selling a dog harness, okay?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 514,
+      "start": 3138.74,
+      "end": 3142.24,
+      "speaker": "Presenter",
+      "text": "We're selling a girl paying attention to the guy.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 515,
+      "start": 3142.84,
+      "end": 3149.52,
+      "speaker": "Presenter",
+      "text": "Crazy how we were able to take that desire and bridge it to our product with a headline, right?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 516,
+      "start": 3149.94,
+      "end": 3156.68,
+      "speaker": "Presenter",
+      "text": "Remember I talked about in the beginning, this is your product and this is the desire that you're trying to go after and your marketing bridges the gap? Gap has been bridged.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 517,
+      "start": 3157.52,
+      "end": 3159.42,
+      "speaker": "Presenter",
+      "text": "Next one right here, \"Turn heads on every walk,\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 518,
+      "start": 3159.76,
+      "end": 3164.42,
+      "speaker": "Presenter",
+      "text": "right? Now for some women, [laughter] they probably don't want to turn any more heads, right? But for others, they might,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 519,
+      "start": 3164.78,
+      "end": 3169.44,
+      "speaker": "Presenter",
+      "text": "right? \"Turn heads on every walk.\" Something where it's like, \"Hey, you're going to get a lot of attention from other people.\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 520,
+      "start": 3169.8,
+      "end": 3172.66,
+      "speaker": "Presenter",
+      "text": "But \"She'll ask where you got that harness from\" is probably my favorite,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 521,
+      "start": 3173.04,
+      "end": 3173.18,
+      "speaker": "Presenter",
+      "text": "okay?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 522,
+      "start": 3173.56,
+      "end": 3176.48,
+      "speaker": "Presenter",
+      "text": "Now let's go into status, right? Now we're getting really strong.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 523,
+      "start": 3177.18,
+      "end": 3183.68,
+      "speaker": "Presenter",
+      "text": "These honestly, for me, and I want you guys to understand that in certain categories you're going to have stronger headlines by nature of the product,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 524,
+      "start": 3183.8,
+      "end": 3190.8,
+      "speaker": "Presenter",
+      "text": "so for me, control is a great, great, great, great category for this brand as well as belonging, because dog communities are very strong. But at the end of the day,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 525,
+      "start": 3191.08,
+      "end": 3192.5,
+      "speaker": "Presenter",
+      "text": "let's go into status, right?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 526,
+      "start": 3192.8,
+      "end": 3195.16,
+      "speaker": "Presenter",
+      "text": "So, \"Why celebrity trainers won't use anything else.\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 527,
+      "start": 3195.74,
+      "end": 3200.46,
+      "speaker": "Presenter",
+      "text": "We're selling status. We're showing that we have an association with celebrities,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 528,
+      "start": 3200.46,
+      "end": 3203.64,
+      "speaker": "Presenter",
+      "text": "and celebrity trainers use our product,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 529,
+      "start": 3203.64,
+      "end": 3207.8,
+      "speaker": "Presenter",
+      "text": "right? Now, if you don't have a celebrity trainer that uses your product, don't say that. You're going to get in trouble.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 530,
+      "start": 3207.8,
+      "end": 3211.74,
+      "speaker": "Presenter",
+      "text": "I'm I'm not a lawyer, and I don't want you to get in trouble, but just understanding for you guys to see,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 531,
+      "start": 3212.08,
+      "end": 3217.82,
+      "speaker": "Presenter",
+      "text": "you know, there's been a lot of really big angles, especially in the skincare niche, especially in all these other niches where,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 532,
+      "start": 3218.06,
+      "end": 3222.74,
+      "speaker": "Presenter",
+      "text": "for example, people leverage other people's credibility. So if you sell, I don't know, jawline gum,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 533,
+      "start": 3223.32,
+      "end": 3229.34,
+      "speaker": "Presenter",
+      "text": "and someone, you know, I don't know, Bradley Cooper is chewing jawline gum, it might not be yours,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 534,
+      "start": 3230.04,
+      "end": 3233.68,
+      "speaker": "Presenter",
+      "text": "but you can say, \"Celebrities like Bradley Cooper are chewing jawline gum,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 535,
+      "start": 3234.1,
+      "end": 3236.96,
+      "speaker": "Presenter",
+      "text": "and that's why it's this whole big thing,\" and then you say, \"Oh yeah, by the way, I also sell",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 536,
+      "start": 3236.96,
+      "end": 3240.84,
+      "speaker": "Presenter",
+      "text": "you know, jawline gum.\" Well, there you go. You are now able to",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 537,
+      "start": 3240.84,
+      "end": 3246.4,
+      "speaker": "Presenter",
+      "text": "kind of say that in a way that is Again, I'm not a lawyer, I don't want to get you in trouble, but just understand like that's how people create status, okay?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 538,
+      "start": 3246.9,
+      "end": 3251.88,
+      "speaker": "Presenter",
+      "text": "There was another headline here, and I don't know where it went. I think it might have got jotted down. Let's see, there we go.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 539,
+      "start": 3252.18,
+      "end": 3257.76,
+      "speaker": "Presenter",
+      "text": "And so the other headline that I have here is, \"The harness only 3% of dog owners know about.\" Again, this is also status, right?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 540,
+      "start": 3257.96,
+      "end": 3261.8,
+      "speaker": "Presenter",
+      "text": "People value things that are rare, and so by saying,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 541,
+      "start": 3261.8,
+      "end": 3264.46,
+      "speaker": "Presenter",
+      "text": "\"This is the harness that nobody knows about,\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 542,
+      "start": 3264.84,
+      "end": 3269.42,
+      "speaker": "Presenter",
+      "text": "right? It's kind of, in a way, creating status. Sometimes, it it doesn't,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 543,
+      "start": 3269.58,
+      "end": 3275.6,
+      "speaker": "Presenter",
+      "text": "but when things are scarce, things are exclusive, and you \"Oh my gosh, you have one of those?\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 544,
+      "start": 3276.0,
+      "end": 3281.06,
+      "speaker": "Presenter",
+      "text": "right? It creates this idea of status, that \"Oh, I have this, and no one else has it.\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 545,
+      "start": 3281.16,
+      "end": 3281.38,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 546,
+      "start": 3282.06,
+      "end": 3284.26,
+      "speaker": "Presenter",
+      "text": "And then let's go to the big one, survival,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 547,
+      "start": 3285.0,
+      "end": 3290.08,
+      "speaker": "Presenter",
+      "text": "right? Aka, health, and you already saw both the headlines, but there you go.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 548,
+      "start": 3290.46,
+      "end": 3294.34,
+      "speaker": "Presenter",
+      "text": "So, \"Why vets are begging owners to switch,\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 549,
+      "start": 3294.78,
+      "end": 3297.58,
+      "speaker": "Presenter",
+      "text": "right? Super, super, super strong headline around,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 550,
+      "start": 3297.64,
+      "end": 3298.76,
+      "speaker": "Presenter",
+      "text": "\"Hey, authority,\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 551,
+      "start": 3299.6,
+      "end": 3304.28,
+      "speaker": "Presenter",
+      "text": "right? \"is telling you that you need to switch from traditional collars to a harness,\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 552,
+      "start": 3305.02,
+      "end": 3308.54,
+      "speaker": "Presenter",
+      "text": "okay? And then for example the other one here that was actually a winning ad, as we mentioned, a winning angle,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 553,
+      "start": 3308.84,
+      "end": 3310.54,
+      "speaker": "Presenter",
+      "text": "\"Why are you still choking your dog in 2025?\"",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 554,
+      "start": 3312.0,
+      "end": 3315.26,
+      "speaker": "Presenter",
+      "text": "There we go. Right? Going after the health angle. Okay?",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 555,
+      "start": 3315.62,
+      "end": 3324.82,
+      "speaker": "Presenter",
+      "text": "And so, as you can see, we were able to essentially climb up, use the elevation strategy to try to find stronger, bigger desires. Okay?",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 556,
+      "start": 3325.38,
+      "end": 3334.22,
+      "speaker": "Presenter",
+      "text": "Base off of the instincts that humans have and it's pretty cool, cuz a lot of you guys would think like, \"Oh, dog harness. I just need to talk about how, you know, it fits, and it's c-\" and it's like, look at how many",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 557,
+      "start": 3334.22,
+      "end": 3338.24,
+      "speaker": "Presenter",
+      "text": "different desires we can go after with it. Pretty cool stuff. Okay?",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 558,
+      "start": 3338.62,
+      "end": 3344.04,
+      "speaker": "Presenter",
+      "text": "Now, the next thing on here, and we're going to wrap this up now, because this has been over an hour video, which I absolutely love.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 559,
+      "start": 3344.36,
+      "end": 3353.7,
+      "speaker": "Presenter",
+      "text": "But how desires change throughout the year, in the next video, you're going to see the complete desire calendar, which is honestly It's just, it's sick.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 560,
+      "start": 3354.06,
+      "end": 3362.38,
+      "speaker": "Presenter",
+      "text": "So we're going to walk you guys through that, to show you how, based off of specific times of year, specific trends that are happening, and just kind of humans in general and how they behave,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 561,
+      "start": 3362.38,
+      "end": 3371.7,
+      "speaker": "Presenter",
+      "text": "how to target specific desires based off the time of year that you're in. And the final one here is just final words from me and Mr. Schwartz.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 562,
+      "start": 3371.7,
+      "end": 3379.02,
+      "speaker": "Presenter",
+      "text": "And for those of you that don't know, Eugene Schwartz, Breakthrough Advertising. I've got the book. It's usually behind me, but it's right here, underneath",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 563,
+      "start": 3379.02,
+      "end": 3385.68,
+      "speaker": "Presenter",
+      "text": "12 Alex Hormozi books, but, um This book right here is is an incredible book. Okay?",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 564,
+      "start": 3386.7,
+      "end": 3393.04,
+      "speaker": "Presenter",
+      "text": "If you don't have enough money for it, there's, I'm sure you can find I'm not even going to say it, but find something online.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 565,
+      "start": 3393.66,
+      "end": 3402.4,
+      "speaker": "Presenter",
+      "text": "If you have 60 bucks, I think it's like 100 bucks, get the hard copy, cuz then you actually might value it. You might actually read it. Um,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 566,
+      "start": 3403.74,
+      "end": 3411.8,
+      "speaker": "Presenter",
+      "text": "it's kind of a hard read. I had to read this like three times, and I also I didn't bring the workbook, but I also got the workbook, that was like 300 bucks.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 567,
+      "start": 3412.76,
+      "end": 3419.6,
+      "speaker": "Presenter",
+      "text": "It's just a phenomenal book for breaking this down. But to be honest, the way that I break it down is a lot easier than what is in here.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 568,
+      "start": 3420.14,
+      "end": 3424.62,
+      "speaker": "Presenter",
+      "text": "But for those of you that like books, like reading, want to invest in yourself, want to have something in your background,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 569,
+      "start": 3425.56,
+      "end": 3433.62,
+      "speaker": "Presenter",
+      "text": "you can buy the book as well. Okay, and I don't have an affiliate code or anything like that. But you just look up Breakthrough Advertising, and you'll be able to find it. But big shout-out to Eugene.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 570,
+      "start": 3434.58,
+      "end": 3440.16,
+      "speaker": "Presenter",
+      "text": "Big takeaways here. Never fight desires. You will fail if you go after desires that do not exist. Okay?",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 571,
+      "start": 3440.54,
+      "end": 3449.6,
+      "speaker": "Presenter",
+      "text": "Education is powerful. Okay, some companies can educate their audiences through ads. Again, we're going to touch more on this later, because this requires deep research and",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 572,
+      "start": 3449.6,
+      "end": 3454.64,
+      "speaker": "Presenter",
+      "text": "very good copywriting, and a very good skill set. Uh, timing is important. Okay?",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 573,
+      "start": 3455.44,
+      "end": 3463.8,
+      "speaker": "Presenter",
+      "text": "The same product or the same desire can succeed or fail based on, again, what is happening in the market, based off what information people have,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 574,
+      "start": 3463.8,
+      "end": 3469.52,
+      "speaker": "Presenter",
+      "text": "and what trends are happening, right? For example, if you're a brand selling GLP-1 right now,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 575,
+      "start": 3469.92,
+      "end": 3479.48,
+      "speaker": "Presenter",
+      "text": "just a big popping topic, right? If something comes out tomorrow that says GLP-1, I don't know, causes big C, right,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 576,
+      "start": 3480.82,
+      "end": 3488.24,
+      "speaker": "Presenter",
+      "text": "everybody's going to stop. Right? Most people are going to stop buying it. So that desire can change overnight. Okay?",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 577,
+      "start": 3488.82,
+      "end": 3492.2,
+      "speaker": "Presenter",
+      "text": "Based off of things that, again, that are just happening in the world.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 578,
+      "start": 3493.8,
+      "end": 3498.16,
+      "speaker": "Presenter",
+      "text": "Analysis paralysis. This is the biggest one here, guys. Okay? And if you've made it all the way through this video,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 579,
+      "start": 3498.16,
+      "end": 3510.62,
+      "speaker": "Presenter",
+      "text": "I want to make sure that you do not write like a mechanical robot. I don't want you to be like, \"Okay, I need to find mass instinct, put mass instinct, and then I need to find trend, I found trend, and then, okay, Spencer said to make it ma- \"",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 580,
+      "start": 3512.18,
+      "end": 3514.82,
+      "speaker": "Presenter",
+      "text": "Just write, but be aware. Okay?",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 581,
+      "start": 3515.26,
+      "end": 3523.88,
+      "speaker": "Presenter",
+      "text": "And so, a lot of the times, it's good to force yourself to write different headlines, and again, we'll talk about how we use AI to do this stuff as well, but you can force yourself to write different headlines to",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 582,
+      "start": 3523.88,
+      "end": 3530.7,
+      "speaker": "Presenter",
+      "text": "fit these specific um these specific categories or specific desires, right?",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 583,
+      "start": 3531.0,
+      "end": 3539.36,
+      "speaker": "Presenter",
+      "text": "Or if you notice a trend, or you find new information, basically writing headlines around that, and then writing them in the different categories, and it's just helpful to be aware of,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 584,
+      "start": 3539.36,
+      "end": 3543.46,
+      "speaker": "Presenter",
+      "text": "but I don't want you to feel like you have to be a robot and think about how to write eight things, okay? What's important,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 585,
+      "start": 3543.46,
+      "end": 3552.58,
+      "speaker": "Presenter",
+      "text": "as it says here, is to be able to identify desires from headlines or identify desires from ads and go deeper on the understanding of why specific ones are working. If you're like,",
+      "chunk": 11,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 586,
+      "start": 3552.76,
+      "end": 3558.5,
+      "speaker": "Presenter",
+      "text": "\"Hey, I can look at this headline of, 'Why are you still choking your dog in 2025?'\" And a lot of you guys might be like, \"Okay,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 587,
+      "start": 3558.92,
+      "end": 3568.44,
+      "speaker": "Presenter",
+      "text": "I need to do an iteration. Uh, 'Why is your dog choking in 2025?'\" And then you do another iteration of like, \"Uh, 'Why do you use collars in 2025?'\" And you're not",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 588,
+      "start": 3568.62,
+      "end": 3575.36,
+      "speaker": "Presenter",
+      "text": "you're not thinking about how your headline or how your messaging makes someone feel. Okay?",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 589,
+      "start": 3575.8,
+      "end": 3585.62,
+      "speaker": "Presenter",
+      "text": "You need to understand that, because that is what actually matters, okay? A lot of you guys are focused on shit that just like doesn't matter. So just even think about that headline in general, right?",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 590,
+      "start": 3585.96,
+      "end": 3592.26,
+      "speaker": "Presenter",
+      "text": "\"Why are you still choking your dog in 2025?\" Right, that goes after the health desire. It's a very, very strong desire. I'm like, \"Okay,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 591,
+      "start": 3592.54,
+      "end": 3595.7,
+      "speaker": "Presenter",
+      "text": "I'm going to do an iteration. 'Why are you still wearing collars in 2025?'\"",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 592,
+      "start": 3597.28,
+      "end": 3601.04,
+      "speaker": "Presenter",
+      "text": "Now, even though it seems like a very, very close iteration to it,",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 593,
+      "start": 3601.26,
+      "end": 3604.58,
+      "speaker": "Presenter",
+      "text": "what desire does that even go after, right?",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 594,
+      "start": 3605.0,
+      "end": 3612.6,
+      "speaker": "Presenter",
+      "text": "Now you can see why headline A, \"Why are you still choking?\", worked better than headline B, \"Why are you still wearing collars?\", right?",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 595,
+      "start": 3613.06,
+      "end": 3615.36,
+      "speaker": "Presenter",
+      "text": "Now, could that headline B work? Sure.",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 596,
+      "start": 3615.76,
+      "end": 3622.34,
+      "speaker": "Presenter",
+      "text": "And if we break it down, we understand it's like, okay, well, that one is kind of a tricky one and that's why having AI is helpful, but also understanding this is good. But",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 597,
+      "start": 3622.34,
+      "end": 3627.38,
+      "speaker": "Presenter",
+      "text": "for example, \"Why are you still wearing collars?\" kind of goes after a status desire.",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 598,
+      "start": 3627.38,
+      "end": 3635.36,
+      "speaker": "Presenter",
+      "text": "And after thinking through it, I mean, that makes sense, right? It's like, well, collars are outdated. Okay, so you're going after more status, but",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 599,
+      "start": 3635.36,
+      "end": 3640.42,
+      "speaker": "Presenter",
+      "text": "the point is is I want you guys to understand why specific headlines work at a deeper level.",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 600,
+      "start": 3640.42,
+      "end": 3649.0,
+      "speaker": "Presenter",
+      "text": "And that is the secret formula. Okay? That is what helps people scale extremely fast is they understand how their words make people feel,",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 601,
+      "start": 3649.0,
+      "end": 3657.3,
+      "speaker": "Presenter",
+      "text": "and they understand how their words show people that they can get what they want because marketing is about giving someone what they want,",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 602,
+      "start": 3657.3,
+      "end": 3661.98,
+      "speaker": "Presenter",
+      "text": "okay, not about getting what you want, and that's how they're able to scale, okay?",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 603,
+      "start": 3662.36,
+      "end": 3667.34,
+      "speaker": "Presenter",
+      "text": "And so just understand that I don't want you guys to have analysis paralysis. I don't want you guys to feel like a robot.",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 604,
+      "start": 3667.96,
+      "end": 3677.18,
+      "speaker": "Presenter",
+      "text": "Understand this, go back through it, watch this again, break it down. AI is your friend. At the end of the day, just write and then look at what you're writing to try to better understand it, okay?",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 605,
+      "start": 3677.18,
+      "end": 3684.84,
+      "speaker": "Presenter",
+      "text": "And then execution above all: if you've done the research and you know the desire exists, you need to understand your execution, how you communicate the desire, is what will lead to real success, okay?",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 606,
+      "start": 3685.1,
+      "end": 3692.6,
+      "speaker": "Presenter",
+      "text": "You could you could write you could have all the best desires in the world, but if you don't know how to channel them and you don't know how to execute them, they're not going to work, okay?",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 607,
+      "start": 3692.78,
+      "end": 3700.82,
+      "speaker": "Presenter",
+      "text": "So, a lot of you guys, this might be what you need to hear to start creating more winning ads, but for some of you guys, you just don't have the skill set on how to execute ads, and so we're going to get there as well.",
+      "chunk": 12,
+      "timing": "aligned"
+    },
+    {
+      "id": 608,
+      "start": 3700.82,
+      "end": 3709.44,
+      "speaker": "Presenter",
+      "text": "But it's so important that you understand the fundamentals around desires specifically so that way you can know what is happening in your ads.",
+      "chunk": 12,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 197.4,
+      "end": 198.9,
+      "label": "laughter"
+    },
+    {
+      "start": 666.9,
+      "end": 667.8,
+      "label": "laughter"
+    },
+    {
+      "start": 939.38,
+      "end": 940.18,
+      "label": "cough"
+    },
+    {
+      "start": 2196.31,
+      "end": 2200.01,
+      "label": "snort"
+    },
+    {
+      "start": 2326.41,
+      "end": 2327.51,
+      "label": "cough"
+    },
+    {
+      "start": 2335.81,
+      "end": 2337.11,
+      "label": "laughter"
+    },
+    {
+      "start": 2381.81,
+      "end": 2382.81,
+      "label": "laughter"
+    },
+    {
+      "start": 3096.39,
+      "end": 3097.29,
+      "label": "laughter"
+    },
+    {
+      "start": 3160.99,
+      "end": 3162.19,
+      "label": "laughter"
+    },
+    {
+      "start": 3424.9,
+      "end": 3425.9,
+      "label": "chuckle"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "lesson": {
+    "num": 20,
+    "id": "020-why-you-must-know-your-numbers-with-new-offers",
+    "title": "Why you MUST know your numbers with new offers",
+    "video": "20. Why you MUST know your numbers with new offers Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T16:28:00-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "854x480 (native)",
+  "candidates_reviewed": 21,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 14.982,
+      "time": "00:00:15",
+      "frame": "frames/020_00-00-15.png",
+      "category": "slide",
+      "title": "Origins - Offer Mastery Title Slide",
+      "on_screen": "ORIGINS\nOffer Mastery\n© EASY A MEDIA INC.",
+      "not_in_transcript": "© EASY A MEDIA INC.",
+      "legibility": "clear",
+      "candidate_id": "F002",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    },
+    {
+      "t": 114.982,
+      "time": "00:01:55",
+      "frame": "frames/020_00-01-55.png",
+      "category": "slide",
+      "title": "Important Note #1: Offers Can Be Addicting",
+      "on_screen": "⭐ IMPORTANT NOTE #1\nOffers can be like drugs... They are ADDICTING. They can take your ROAS from a 2x to 4x overnight, pump your conversion rate from a 1.5% to 2.5%, and drive revenue through the roof... But, they can oftentimes be IMPOSSIBLE to get off of and can be OVERLY relied on to acquire customers.\n[Two e-commerce offer screenshots shown: Cali Tiger 'BUY 1 GET 2 FREE!' and Solawave 'Better skin in 2 weeks! 30% Off']\nEasy A Media",
+      "not_in_transcript": "Conversion rate pump specifically noted as 'from a 1.5% to 2.5%'. Brand screenshots: Cali Tiger 'BUY 1 GET 2 FREE!', Solawave 'Better skin in 2 weeks!' with 30% off.",
+      "legibility": "clear",
+      "candidate_id": "F003",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    },
+    {
+      "t": 129.963,
+      "time": "00:02:10",
+      "frame": "frames/020_00-02-10.png",
+      "category": "product_page",
+      "title": "Carepod Homepage Example",
+      "on_screen": "CAREPOD\nShop Carepod Reviews Why Carepod Press FAQ Support\nNEW One Plus is here. Fresh air, new glow. Save up to $126. | Shop now\nOver 130,220+ Humidifiers Sold\nThe World's Cleanest Humidifier. Now Glowing.\nShop One Plus",
+      "not_in_transcript": "'Over 130,220+ Humidifiers Sold', banner text: 'NEW One Plus is here. Fresh air, new glow. Save up to $126.'",
+      "legibility": "clear",
+      "candidate_id": "F005",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    },
+    {
+      "t": 139.973,
+      "time": "00:02:20",
+      "frame": "frames/020_00-02-20.png",
+      "category": "product_page",
+      "title": "Carepod One Plus Product Bundle Offer Pricing",
+      "on_screen": "Carepod One Plus - Stainless Steel Humidifier with Mood Light\nSelect Quantity\n- Carepod | Up to 500 sq. ft | $325.00 ($350.00) | Save $25\n- Carepod x2 | Up to 1,000 sq. ft | $630.00 ($700.00) | Save $70\n- Carepod x3 | Up to 1,500 sq. ft | $924.00 ($1,050.00) | Save $126",
+      "not_in_transcript": "Specific pricing and tier details: 1 unit $325 (Save $25), 2 units $630 (Save $70), 3 units $924 (Save $1,050 crossed out, Save $126). Square footage coverage for each tier.",
+      "legibility": "clear",
+      "candidate_id": "F007",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    },
+    {
+      "t": 219.986,
+      "time": "00:03:40",
+      "frame": "frames/020_00-03-40.png",
+      "category": "slide",
+      "title": "Important Note #2: Knowing Margins with New Offers",
+      "on_screen": "⭐ IMPORTANT NOTE #2\nPrior to setting up any offer ALWAYS use the profit calculator to establish the new targets for ROAS & CPA so you know whether or not it is successful\n\nEvergreen Example:\nIf your ROAS is currently a 2x and your break even ROAS is 1.43x (70% Gross profit) and your spending $100k per month, and you're generating $200k total.\nYour Gross Profit = $40,000 ($200k rev * 0.7 gp = $140k gp - $100k spend)\n\nSales Example:\nBut if you launch a 30% offer that takes you to a 2x ROAS but your breakeven is now 1.82x (55% Gross profit) and now your spending $150k per month, generating $300k total\nGross Profit = $15,000 ($300k rev * 0.55 gp = $165kgp - $150k spend)\nEasy: https://www.easyamedia.com/profit-calculator",
+      "not_in_transcript": "Formulas and exact numbers: Evergreen math ($200k rev * 0.7 gp = $140k gp - $100k spend = $40k Gross Profit); Sales math with 30% offer: breakeven is 1.82x (55% Gross profit), $150k spend, $300k rev, $300k rev * 0.55 gp = $165k gp - $150k spend = $15k Gross Profit. URL: https://www.easyamedia.com/profit-calculator",
+      "legibility": "clear",
+      "candidate_id": "F008",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    },
+    {
+      "t": 299.966,
+      "time": "00:05:00",
+      "frame": "frames/020_00-05-00.png",
+      "category": "software_demo",
+      "title": "E-Commerce Results Calculator Initial State",
+      "on_screen": "E-Commerce Results Calculator\nEnter your marketing metrics below to calculate the real ROI you will receive through Paid Advertising\n\nInputs:\n- Average (Gross) Profit Margin: 0.80 / 0.8\n- Breakeven ROAS value: 1.25\n- Service Fee: $0 /pm\n- Performance Fee: 0% Profit\n- Commission: $0\n- Recommended Ad Spend: $10,000 per month\n- ROAS Value Multiplier: 5.00 times returns / 5\n\nOutputs:\n- Revenue From Ad Spend (ROAS): $50,000 per month\n- Profit After Margin: $40,000 per month\n- Profit After Ad Spend: $30,000 per month\n- Profit After All Spend: $30,000 per month\n- True Profit: $30,000 per month\nROI: Infinity%",
+      "not_in_transcript": "Calculated output line items: Breakeven ROAS value 1.25, Revenue From Ad Spend $50,000, Profit After Margin $40,000, Profit After Ad Spend $30,000, True Profit $30,000.",
+      "legibility": "clear",
+      "candidate_id": "F009",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    },
+    {
+      "t": 369.97,
+      "time": "00:06:10",
+      "frame": "frames/020_00-06-10.png",
+      "category": "software_demo",
+      "title": "Profit Margin Calculator Section",
+      "on_screen": "Profit Margin Calulator\n- Price Of Product + Shipping: 55\n- Cost Of Product + Shipping: 15\n- Your Profit Margin: 0.73",
+      "not_in_transcript": "Typo in header 'Calulator'; field names: 'Price Of Product + Shipping', 'Cost Of Product + Shipping'.",
+      "legibility": "clear",
+      "candidate_id": "F010",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    },
+    {
+      "t": 394.961,
+      "time": "00:06:35",
+      "frame": "frames/020_00-06-35.png",
+      "category": "software_demo",
+      "title": "E-Commerce Results Calculator Updated with 0.73 Margin",
+      "on_screen": "E-Commerce Results Calculator\n- Average (Gross) Profit Margin: 0.73\n- Breakeven ROAS value: 1.37\n- Service Fee: $0 /pm\n- Performance Fee: 0% Profit\n- Commission: $0\n- Recommended Ad Spend: $10,000 per month\n- ROAS Value Multiplier: 5.00 times returns\n- Revenue From Ad Spend (ROAS): $50,000 per month\n- Profit After Margin: $36,500 per month\n- Profit After Ad Spend: $30,000 per month\n- Profit After All Spend: $26,500 per month\n- True Profit: $30,000 per month",
+      "not_in_transcript": "Profit After Margin ($36,500 per month) and Profit After All Spend ($26,500 per month) updated values.",
+      "legibility": "clear",
+      "candidate_id": "F011",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    },
+    {
+      "t": 609.976,
+      "time": "00:10:10",
+      "frame": "frames/020_00-10-10.png",
+      "category": "software_demo",
+      "title": "Profit Margin Calculator with Discounted Product Price",
+      "on_screen": "Profit Margin Calulator\nPrice Of Product + Shipping: 35\nCost Of Product + Shipping: 15\nYour Profit Margin: 0.57\nROI: Infinity%",
+      "not_in_transcript": "",
+      "legibility": "clear",
+      "candidate_id": "F015",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    },
+    {
+      "t": 619.986,
+      "time": "00:10:20",
+      "frame": "frames/020_00-10-20.png",
+      "category": "slide",
+      "title": "Important Note #2: Offer Margin Comparison and Net Gross Profit",
+      "on_screen": "⭐ IMPORTANT NOTE #2\nPrior to setting up any offer ALWAYS use the profit calculator to establish the new targets for ROAS & CPA so you know whether or not it is successful\n\nEvergreen Example:\nIf your ROAS is currently a 2x and your break even ROAS is 1.43x (70% Gross profit) and your spending $100k per month, and you're generating $200k total.\nYour Gross Profit = $40,000 ($200k rev *0.7 gp = $140k gp - $100k spend)\n\nNew Offer Example:\nBut if you launch a 30% offer Keeps you at a 2x ROAS but your breakeven is now 1.82x (55% Gross profit) and now your spending $150k per month, generating $300k total\nGross Profit = $15,000 ($300k rev *0.55 gp = $165kgp - $150k spend)\n\nEasy: https://www.easyamedia.com/profit-calculator",
+      "not_in_transcript": "Formula details: ($200k rev *0.7 gp = $140k gp - $100k spend); URL: https://www.easyamedia.com/profit-calculator",
+      "legibility": "clear",
+      "candidate_id": "F016",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    },
+    {
+      "t": 729.963,
+      "time": "00:12:10",
+      "frame": "frames/020_00-12-10.png",
+      "category": "software_demo",
+      "title": "E-Commerce Results Calculator with Higher ROAS at Lower Margin",
+      "on_screen": "E-Commerce Results Calculator\nAverage (Gross) Profit Margin: 0.55\nBreakeven ROAS value: 1.82\nService Fee: $0 /pm (0)\nPerformance Fee: 0% Profit (0)\nCommission: $0\nRecommended Ad Spend: $10,000 per month (10000)\nROAS Value Multiplier: 3.00 times returns (3)\nRevenue From Ad Spend (ROAS): $30,000 per month\nProfit After Margin: $16,500 per month\nProfit After Ad Spend: $6,500 per month\nProfit After All Spend: $6,500 per month\nTrue Profit: $6,500 per month\nROI: Infinity%",
+      "not_in_transcript": "Revenue From Ad Spend (ROAS): $30,000 per month; Profit After Margin: $16,500 per month; Profit After All Spend: $6,500 per month",
+      "legibility": "clear",
+      "candidate_id": "F018",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    },
+    {
+      "t": 809.976,
+      "time": "00:13:30",
+      "frame": "frames/020_00-13-30.png",
+      "category": "webpage",
+      "title": "Skool Course Portal - Origins Classroom Module List",
+      "on_screen": "Origins | Classroom\nOrigins (in progress)\n- 🧘 Origins Mindset\n- 🔍 How To Find Products\n- 👤 How To Create Avatars\n- 🏷️ How to Create Offers\n  (Draft) Why offers have such a big impact\n  (Draft) The types of offers you can run\n  (Draft) How to create an offer\n  How one offer can 2x ad spend and 3x ...\n  🚨 Action Item: Sign Up For Pagedeck + ...\n- 🎬 How To Create Ads\n- 🏎️ How To Run Ads\n- 🧠 How To Do Learnings\n\nHow to create an offer\nThe Offer Creation Sheet:\nhttps://docs.google.com/spreadsheets/d/16QG7kl0vYGvJm7W90-0d04Ekt5aVzwrKtcSwpL_QsU/edit?usp=sharing",
+      "not_in_transcript": "Google sheet URL: https://docs.google.com/spreadsheets/d/16QG7kl0vYGvJm7W90-0d04Ekt5aVzwrKtcSwpL_QsU/edit?usp=sharing\n\n*Exact link from the course page:* <https://docs.google.com/spreadsheets/d/16QG7kI0vYGvJm7w90-0dO40Ekt5aVzwrKtcSwpL_QsU/edit?usp=sharing>",
+      "legibility": "clear",
+      "candidate_id": "F019",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    },
+    {
+      "t": 964.964,
+      "time": "00:16:05",
+      "frame": "frames/020_00-16-05.png",
+      "category": "software_demo",
+      "title": "E-Commerce Results Calculator with Scaled Ad Spend and Target ROAS",
+      "on_screen": "E-Commerce Results Calculator\nAverage (Gross) Profit Margin: 0.55\nBreakeven ROAS value: 1.82\nRecommended Ad Spend: $30,000 per month (30000)\nROAS Value Multiplier: 2.39 times returns\nRevenue From Ad Spend (ROAS): $71,700 per month\nProfit After Margin: $39,435 per month\nProfit After Ad Spend: $9,435 per month\nProfit After All Spend: $9,435 per month\nTrue Profit: $9,435 per month\n\nSpotlight Overlay:\n1.4+1 = 2.4",
+      "not_in_transcript": "Exact calculator outputs: Revenue From Ad Spend $71,700 per month, Profit After Margin $39,435 per month, True Profit $9,435 per month",
+      "legibility": "partly legible",
+      "candidate_id": "F021",
+      "drive_url": "https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk"
+    }
+  ]
+}

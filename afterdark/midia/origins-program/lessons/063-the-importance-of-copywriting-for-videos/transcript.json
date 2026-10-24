@@ -1,0 +1,4389 @@
+{
+  "lesson": {
+    "num": 63,
+    "id": "063-the-importance-of-copywriting-for-videos",
+    "title": "The importance of copywriting for videos",
+    "section": "📢 How To Create Ads",
+    "video": "63. The importance of copywriting for videos Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 2545.92,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=f63fc54c5f16425d99d437b7dd5bcd3b"
+  },
+  "generated_at": "2026-10-06T20:24:08-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (95% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 10255,
+    "matched_tokens": 9719,
+    "match_ratio": 0.948,
+    "segments_aligned": 460,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 4,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Played audio",
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 313.955,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.998,
+      "wpm": 248.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 313.955,
+      "end": 612.53,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.872,
+      "wpm": 262.1,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 612.53,
+      "end": 970.122,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 260.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 970.122,
+      "end": 1302.809,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.985,
+      "wpm": 285.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1302.809,
+      "end": 1646.568,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 238.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 5,
+      "start": 1646.568,
+      "end": 1916.755,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.991,
+      "wpm": 244.1,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 6,
+      "start": 1916.755,
+      "end": 2186.944,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.982,
+      "wpm": 243.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 7,
+      "start": 2186.944,
+      "end": 2545.92,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.997,
+      "wpm": 243.4,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.96,
+      "speaker": "Presenter",
+      "text": "All right. So let's get into understanding copywriting.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 3.2,
+      "end": 8.08,
+      "speaker": "Presenter",
+      "text": "Now, I just want to say, before I jump into this document, that I wasn't actually going to make this document",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 8.08,
+      "end": 14.24,
+      "speaker": "Presenter",
+      "text": "to like help you understand copywriting fundamentals. That was something that was more or less going to say for Evolve. But I realized that if I'm really going to help you guys,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 14.32,
+      "end": 23.18,
+      "speaker": "Presenter",
+      "text": "like if I'm really going to guide some of you to actually getting a real skill set and actually being able to take all the information that you just got through all of the trainings",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 23.18,
+      "end": 26.68,
+      "speaker": "Presenter",
+      "text": "to then actually be able to execute it at least from a copywriting standpoint,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 27.36,
+      "end": 32.42,
+      "speaker": "Presenter",
+      "text": "you need to understand some kind of baseline fundamentals, because what most people do in most programs is they just give you a prompt,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 32.42,
+      "end": 38.76,
+      "speaker": "Presenter",
+      "text": "and yes, I will give you a prompt, and you'll see me use prompts, but at the end of the day, you need to understand what copywriting actually is.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 38.84,
+      "end": 41.5,
+      "speaker": "Presenter",
+      "text": "Most of you guys don't even understand copywriting strategies in general.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 41.5,
+      "end": 47.52,
+      "speaker": "Presenter",
+      "text": "And you have this look on copywriting where it's like, oh, AI can just do it. But the truth is, is like, you don't know anything, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 47.52,
+      "end": 54.22,
+      "speaker": "Presenter",
+      "text": "And so, yes, AI has all this stuff, and you can, you know, basically get a lot of information and feed it to the AI and hope it writes you something good.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 54.22,
+      "end": 63.7,
+      "speaker": "Presenter",
+      "text": "But at the end of the day, the people who are doing the best are, you know, using AI to do the bulk of the work, and then using their copywriting skill set and knowledge to then finish it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 63.7,
+      "end": 72.02,
+      "speaker": "Presenter",
+      "text": "And that, you know, final 10% or 20% that they put on the scripts and the briefs that they write are what actually make all the difference between a winning ad and a losing ad, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 72.4,
+      "end": 77.96,
+      "speaker": "Presenter",
+      "text": "Like, you guys have to understand that one or two words can completely change an ad, especially in the hook, and we're going to get into that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 77.98,
+      "end": 86.76,
+      "speaker": "Presenter",
+      "text": "But I wanted to make this to basically help some of you that are very beginner level. Maybe you don't have any experience at all copywriting and you're like, gosh, I just like, use whatever Claude gives me,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 86.76,
+      "end": 94.3,
+      "speaker": "Presenter",
+      "text": "and I hope for the best, or I just use what sounds good. And at the end of the day, some of you guys don't have five years of experience of writing copy. My point is, is like,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 94.68,
+      "end": 100.9,
+      "speaker": "Presenter",
+      "text": "copywriting is a skill set that you will 100% want to develop, and I'm going to explain that just by jumping into the doc. And so my point here is this,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 100.9,
+      "end": 105.84,
+      "speaker": "Presenter",
+      "text": "is that if you run an e-commerce brand, the most crucial part of your business is marketing, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 106.14,
+      "end": 115.76,
+      "speaker": "Presenter",
+      "text": "For most of you watching this, you did not innovate an incre- like a world-class product that you can just take a photo of it, throw it up on Facebook, and just have everybody buy it, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 115.84,
+      "end": 118.26,
+      "speaker": "Presenter",
+      "text": "That's just not how it works for a lot of brands, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 118.52,
+      "end": 126.2,
+      "speaker": "Presenter",
+      "text": "And so if the most crucial part of your business is marketing, right, 'cause you don't have an insane product, then you need to get good at it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 126.92,
+      "end": 128.2,
+      "speaker": "Presenter",
+      "text": "Very simple, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 128.94,
+      "end": 133.56,
+      "speaker": "Presenter",
+      "text": "And then, to be good at advertising, or, again, I use these words interchangeably, but to be good at marketing,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 134.12,
+      "end": 137.12,
+      "speaker": "Presenter",
+      "text": "you need to be good at writing words that convince people to buy your stuff.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 137.68,
+      "end": 146.3,
+      "speaker": "Presenter",
+      "text": "And to be good at writing words that convince people to buy your stuff, unlike me, cuz, clearly, as you can tell, I'm very repetitive. But, to be good at writing words that convince people to buy your stuff,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 146.3,
+      "end": 149.06,
+      "speaker": "Presenter",
+      "text": "you need to understand who those people are, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 149.44,
+      "end": 154.64,
+      "speaker": "Presenter",
+      "text": "And once you understand who they are, you need to learn how to communicate that understanding to them, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 155.14,
+      "end": 158.32,
+      "speaker": "Presenter",
+      "text": "And so, there's a great quote by somebody who's extremely smart.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 158.32,
+      "end": 163.18,
+      "speaker": "Presenter",
+      "text": "The power of your copy is in direct proportion to the depth of your research.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 163.18,
+      "end": 172.34,
+      "speaker": "Presenter",
+      "text": "So how you communicate to them how you communicate your understanding of someone, because obviously a lot of you guys have gone through this and you've gone through the modules and you've gone really deep on understanding",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 172.34,
+      "end": 177.0,
+      "speaker": "Presenter",
+      "text": "your potential customers, right? You've done a lot of research, but how you communicate",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 177.0,
+      "end": 181.68,
+      "speaker": "Presenter",
+      "text": "your understanding to them is called copywriting, okay? At least that's my definition of it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 181.74,
+      "end": 185.14,
+      "speaker": "Presenter",
+      "text": "It's like it's how you communicate with the actual potential customer that you're trying to sell.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 185.76,
+      "end": 191.24,
+      "speaker": "Presenter",
+      "text": "And so, for you to actually scale your e-comm brand, the number one skill that you need is copywriting, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 191.4,
+      "end": 196.72,
+      "speaker": "Presenter",
+      "text": "A lot of people use copywriting and research interchangeably, but we're going to talk about the actual writing of the words.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 196.72,
+      "end": 203.74,
+      "speaker": "Presenter",
+      "text": "Although your customers, a lot of the times, will write the words for you, at the end of the day, copywriting is the number one skill that you need to scale your brand. Easy, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 204.3,
+      "end": 212.58,
+      "speaker": "Presenter",
+      "text": "Well, the problem is, and when I say easy, it's like, all right, well, I just need to get this one skill. Right, but you're going to need a lot more, I promise. But the problem is is that most people,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 212.58,
+      "end": 216.52,
+      "speaker": "Presenter",
+      "text": "especially nowadays with AI, are mediocre at best at copywriting, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 216.62,
+      "end": 220.9,
+      "speaker": "Presenter",
+      "text": "And I want you guys to understand that with AI, the floor just, just rises. You know what I'm saying?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 221.08,
+      "end": 224.54,
+      "speaker": "Presenter",
+      "text": "So like, AI does like basic-level copywriting for everybody.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 224.54,
+      "end": 236.16,
+      "speaker": "Presenter",
+      "text": "But the truth is, is like, people who are really good at it, really good at copywriting with AI, it just like it exponentially like they just have such a big advantage on everybody else who isn't good at copywriting",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 236.16,
+      "end": 245.48,
+      "speaker": "Presenter",
+      "text": "because they know, basically, how to work with AI like an employee that never sleeps and doesn't ask for a raise. Or sometimes they ask for raises cuz they increase credits or whatever. Anyways,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 245.62,
+      "end": 250.18,
+      "speaker": "Presenter",
+      "text": "my point is, is like, they know how to get the best out of AI, okay? You probably don't.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 250.88,
+      "end": 261.92,
+      "speaker": "Presenter",
+      "text": "But problem is, is that, again, most people with AI are mediocre at copywriting, and people prefer to press to press buttons in Meta to try to hack the system instead of learning a legit skill set of copywriting.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 262.42,
+      "end": 268.28,
+      "speaker": "Presenter",
+      "text": "And the truth is, being good at copywriting is hard, and getting good at copywriting is honestly like learning a new language.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 268.6,
+      "end": 276.7,
+      "speaker": "Presenter",
+      "text": "And I'm gonna have a bunch of credits. If you guys have maybe been in the copywriting space before, you've heard some people say this stuff, then great, I'm going to talk about the credits down below of where this information is coming from.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 276.84,
+      "end": 283.6,
+      "speaker": "Presenter",
+      "text": "But I want you to understand that this is a very, very important thing for you to know, like learning a new language is not easy, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 284.04,
+      "end": 293.2,
+      "speaker": "Presenter",
+      "text": "And so getting good at copywriting is like learning a new language. It's like you're not just going to be a world-class copywriter after writing 10 ads. Like you, think about this kind of logically, guys, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 293.86,
+      "end": 299.4,
+      "speaker": "Presenter",
+      "text": "And so, for most of you who aren't people who grew up speaking two languages, learning a language is pretty damn hard. So,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 299.4,
+      "end": 313.44,
+      "speaker": "Presenter",
+      "text": "the truth is is, if you were just ho- like, you know, just looking at this to get a template and get a prompt and just put it in there, and just like hopefully winning ads get created for you, you know, as awesome as that would be, the problem is is like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 314.26,
+      "end": 323.96,
+      "speaker": "Presenter",
+      "text": "you just you don't Again, you still don't have a skillset, and like the goal of Origins, hopefully, you guys can see, is to actually have a skillset, okay? And so if I just if I don't do this, and this is why I realized",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 323.96,
+      "end": 335.18,
+      "speaker": "Presenter",
+      "text": "I needed to write this and put this together for you guys, is if if I don't make you aware of this, or at least don't set you on you know as you'll see me say down below, set you on your quest to become a great copywriter, or at least give you some kind of guidance on",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 335.18,
+      "end": 347.86,
+      "speaker": "Presenter",
+      "text": "how to write good copy and you just use the prompt that I give you, I'm doing you guys a disservice, okay? And here's the problem: although I'm going to show me writing an ad like and that the ad's already written. I'm actually",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 347.86,
+      "end": 358.42,
+      "speaker": "Presenter",
+      "text": "just giving it a breather, and then I'm going to, you know, finish it up tomorrow and those videos depending if you guys are watching this right when the videos come out like a lot of you guys do, those videos will be out tomorrow. Um, but my point is is this, is like I've been",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 358.42,
+      "end": 367.02,
+      "speaker": "Presenter",
+      "text": "copywriting for the last 5 years in e-commerce, so a lot of the stuff just comes natural to me because I've done the reps and I've learned the language, right? But by being in Origins,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 367.02,
+      "end": 374.7,
+      "speaker": "Presenter",
+      "text": "you now have the skill set of being able to find the information that will equip you with the knowledge of your specific customers. However,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 374.78,
+      "end": 384.36,
+      "speaker": "Presenter",
+      "text": "the only thing that will hold you back from actually getting to the next level is is your ability to execute it, okay? So aka your copywriting, and then after your copywriting unfortunately there is another caveat,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 384.36,
+      "end": 394.14,
+      "speaker": "Presenter",
+      "text": "okay, which is your ability to visually communicate it, which is video editing, and although I I we'll talk about the solution, you guys will see that coming soon as well, my point is this, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 394.74,
+      "end": 404.0,
+      "speaker": "Presenter",
+      "text": "Copywriting is not a nice-to-have skill, it's a must-have skill, okay? Whether it's you that has the skill, or it's someone else in your business that has the skill,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 404.0,
+      "end": 418.44,
+      "speaker": "Presenter",
+      "text": "it is a must-have skill, it's not really an option, okay? And for some of you guys, you might not have the money to hire someone who's really good at copywriting right now and finding good copywriters is hard, because again it's a hard skill to to actually master,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 419.24,
+      "end": 432.68,
+      "speaker": "Presenter",
+      "text": "but my point is is like someone in the company needs to be great at copywriting. I literally speak with multiple brands who do 5 to $10 million a month, actually just spoke with a brand that does $20 million a month. Guess what? They have",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 432.68,
+      "end": 446.28,
+      "speaker": "Presenter",
+      "text": "incredible copywriters in their business, every single one of them. And so, guess what? Common pattern there, right? Probably need to have a good copywriter in the business, and if you can't afford to have someone, then guess what? That's got to be you.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 446.52,
+      "end": 457.32,
+      "speaker": "Presenter",
+      "text": "You'd at least got to be good enough to get you to the point where you have enough money to actually get someone to do it for you, okay? So what we're about to cover it's just a speck, like literally like the tiniest amount,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 458.42,
+      "end": 471.22,
+      "speaker": "Presenter",
+      "text": "of what comes into copywriting, okay? And this has actually been really fun for me, because like I've never actually like laid out all the copywriting knowledge that I kind of know, and I've actually been having to do some more research and guess what? I've I've been going back and and rereading books and",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 471.22,
+      "end": 485.36,
+      "speaker": "Presenter",
+      "text": "you know, really trying to like break this down and teach it in a way that's hopefully actionable, cuz again I think, and shout out to one of the guys down here that you'll see me call out Kyle, he talks about like a lot of gurus just give you these frames and or will give you like these templates to to fill, but they don't actually like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 485.36,
+      "end": 496.06,
+      "speaker": "Presenter",
+      "text": "show you how to like get really good and they don't teach you principles, or they teach you some principles, but they don't show you how to actually just become a better copywriter. So that's my goal, I'm going to try to do what he does, but I need you to understand that,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 496.06,
+      "end": 506.12,
+      "speaker": "Presenter",
+      "text": "as I mentioned the first line, learning copywriting is like learning a new language, and at first it can be really rough, so you're just going to have to try to remember to do specific things and it might feel like you're a little bit robotic",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 506.12,
+      "end": 521.54,
+      "speaker": "Presenter",
+      "text": "at first, and just know that you're going to make mistakes and you're going to sound like a new baby, you know, saying its first few words, but after enough practice it will just start to flow naturally for you guys and at the end of the day if there's one skill that will keep food on your table for the rest of your life even outside of e-com,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 521.54,
+      "end": 532.16,
+      "speaker": "Presenter",
+      "text": "it's copywriting, okay? So lean into this, be excited to develop and learn a new skill. Origins will not be the copywriting masterclass that will get you to millions of dollars a month and have you become a world-class copywriter, I can promise you that right now,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 532.58,
+      "end": 543.46,
+      "speaker": "Presenter",
+      "text": "but it will hopefully set you on your quest to become a great copywriter through reading books, learning from some of the greats and most importantly writing tons of copy, okay? And I really want to go full screen for this, because the only way that you get better at writing copy",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 543.46,
+      "end": 557.24,
+      "speaker": "Presenter",
+      "text": "is to write copy. Like I you know, I I have had people tell me this now because I've been making videos and yapping at the camera for 3 years, where they're like, \"Oh, you're really good on camera. Like you know how to talk on camera, you know how to flow, you know, all this kind and I still think I'm a I'm an idiot",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 557.24,
+      "end": 567.22,
+      "speaker": "Presenter",
+      "text": "on the camera, but at the end of the day, my point is, is I've just filmed like God knows how many like probably a thousand videos, you know what I mean? Like between the Looms, all the modules that I film,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 567.62,
+      "end": 578.8,
+      "speaker": "Presenter",
+      "text": "YouTube videos, like I've just I just talk all the time, like I'm always on camera talking and so my point is it's like I've gotten decent at the skill of yapping at the camera, so it's the exact same thing with copywriting, like you can read",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 578.8,
+      "end": 592.76,
+      "speaker": "Presenter",
+      "text": "all the books in the world on copywriting and study all the, but like you just have to do it. It's like so many things where you can kind of get this analysis paralysis and like, \"I don't know if I'm doing this right or that right.\" Like sometimes you just got to write and then you just got to review, you got to complete feedback loops, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 592.96,
+      "end": 604.1,
+      "speaker": "Presenter",
+      "text": "Going back to one of the biggest principles of of Origins is complete your feedback loops, okay? So let's go ahead and let's jump in to the rules of copy. So rule number one:",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 604.38,
+      "end": 612.02,
+      "speaker": "Presenter",
+      "text": "Nobody cares about you, your company or your product. And I'm just going to scroll up, I don't care if you guys can see the the rules that come next, just stay with me.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 612.72,
+      "end": 614.26,
+      "speaker": "Presenter",
+      "text": "This is the beginner mistake, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 614.68,
+      "end": 621.32,
+      "speaker": "Presenter",
+      "text": "Talking about how great your product is, how long you've been in the business, you know, your awards and your mission, and like, yes, those things can provide social",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 621.32,
+      "end": 625.84,
+      "speaker": "Presenter",
+      "text": "proof and credibility, but the truth is is people only care about themselves, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 626.24,
+      "end": 633.4,
+      "speaker": "Presenter",
+      "text": "So, you have to frame everything through their lens, through their problems, their desires, and their outcomes and make it like relevant to them,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 633.86,
+      "end": 640.62,
+      "speaker": "Presenter",
+      "text": "okay? So, the shift here is like, you know, \"We've been in business for 20 years,\" or like, you know, a lot of you guys make these empty claims where it's like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 640.78,
+      "end": 646.5,
+      "speaker": "Presenter",
+      "text": "\"We've got the best product,\" or like, \"We're the number one product,\" but it's like, what does that mean for the actual customer, okay? \"For 20 years,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 646.52,
+      "end": 649.04,
+      "speaker": "Presenter",
+      "text": "we've been helping people like you solve this problem,\" right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 649.5,
+      "end": 656.98,
+      "speaker": "Presenter",
+      "text": "Now, this is very, very basic, but I want you guys to understand like this is the number one mistake that I see people make is we feel special, right? We have this spotlight",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 656.98,
+      "end": 666.22,
+      "speaker": "Presenter",
+      "text": "syndrome where we think like, you know, people care about us, but nobody gives a shit, like nobody cares, right? Like how many of you guys have scrolled past",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 666.22,
+      "end": 672.54,
+      "speaker": "Presenter",
+      "text": "little Suzie's small business selling? Like you just don't care, like there's nothing in it for you, right? It's like what's in it",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 672.54,
+      "end": 678.74,
+      "speaker": "Presenter",
+      "text": "for you. And you guys shop like this all the time, right? Whenever you buy anything, it's like, what's in it for me, right? Like",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 678.74,
+      "end": 683.28,
+      "speaker": "Presenter",
+      "text": "this, for example, why did I buy this book? Because it's probably going to help me make more money.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 683.28,
+      "end": 691.34,
+      "speaker": "Presenter",
+      "text": "That's why I bought it. You know what I'm saying? So, it's like it's it's like that with with anything, like it has something has to be in it for the customer. So, don't",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 691.34,
+      "end": 697.86,
+      "speaker": "Presenter",
+      "text": "write copy about you, write about the customer and understand that nobody knows you, nobody cares. Don't assume that people know who you are.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 697.86,
+      "end": 704.28,
+      "speaker": "Presenter",
+      "text": "To a broader perspective, like most people just don't know and they don't care, they only care about themselves, okay? Number two: results are all that matter,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 704.5,
+      "end": 709.78,
+      "speaker": "Presenter",
+      "text": "so remove your emotion, okay? The be- the beginner mistake here is, \"I think this headline is better,\" or, \"This sounds better to me,\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 709.78,
+      "end": 715.36,
+      "speaker": "Presenter",
+      "text": "or, \"This sounds good to me,\" right? The truth is is that the market decides what is good, what is not, and your job is to just test,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 715.36,
+      "end": 720.82,
+      "speaker": "Presenter",
+      "text": "measure, and let the data tell you what converts, okay? And more importantly, use the data to complete feedback loops,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 721.08,
+      "end": 726.52,
+      "speaker": "Presenter",
+      "text": "okay? When you have this hunch like, \"Oh, I think this headline is going to work better,\" because you like it,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 727.0,
+      "end": 732.72,
+      "speaker": "Presenter",
+      "text": "and then it sucks ass and another headline does actually work better, complete your feedback loop and learn to like the one that you didn't like.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 733.48,
+      "end": 738.36,
+      "speaker": "Presenter",
+      "text": "Okay? Like that is that is the hack. If you learn to like what your market likes, you're going to make a lot more money,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 738.9,
+      "end": 744.42,
+      "speaker": "Presenter",
+      "text": "okay? Never argue about copy, just test it. If it doesn't convert, you know, it's wrong. It doesn't matter how much you like it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 744.74,
+      "end": 750.94,
+      "speaker": "Presenter",
+      "text": "Number three: write how people talk now how not how they read, okay? Beginner mistake is like writing in very proper,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 750.94,
+      "end": 758.06,
+      "speaker": "Presenter",
+      "text": "formal English like you learned in school, right? And that's why sometimes when I'm reading this stuff to you guys, like I I get off the beaten track because I'm talking it, I'm",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 758.06,
+      "end": 765.28,
+      "speaker": "Presenter",
+      "text": "speaking it, right? And sometimes I write not as spoken, I write as written and so sometimes it's hard to speak written things. And so,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 765.28,
+      "end": 772.02,
+      "speaker": "Presenter",
+      "text": "the thing that you need to do is like copy should sound like a conversation, right? Use shorter sentences, start sentences with",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 772.02,
+      "end": 778.4,
+      "speaker": "Presenter",
+      "text": "\"And,\" or \"But,\" or, you know, something like you're writing to your friend, right? Read your copy out loud. If it sounds weird or stiff, rewrite it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 778.56,
+      "end": 785.08,
+      "speaker": "Presenter",
+      "text": "And this is especially for those of you that are doing AI voiceovers, that kind of stuff. And then obviously, pro tip here is like use the Hemingway App to confirm that your writing",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 785.08,
+      "end": 790.02,
+      "speaker": "Presenter",
+      "text": "is at a sixth-grade level or below. Just keep it simple, okay? Especially for the average person.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 790.02,
+      "end": 794.4,
+      "speaker": "Presenter",
+      "text": "Again, \"This supplement facilitates enhanced metabolic function,\" right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 794.86,
+      "end": 800.48,
+      "speaker": "Presenter",
+      "text": "\"This tells your body to turn to burn fat instead of storing it.\" Much much more simple, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 800.48,
+      "end": 807.46,
+      "speaker": "Presenter",
+      "text": "Copy is never too long, only too boring. Pretty simple here. This is a common myth that a lot of people have is like, \"Oh, I can't do long-form.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 807.52,
+      "end": 813.4,
+      "speaker": "Presenter",
+      "text": "Like, everything needs to be short.\" It's like, no, it's like it just can't suck, that's all it is. Every sentence should create a slippery slide.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 813.62,
+      "end": 819.28,
+      "speaker": "Presenter",
+      "text": "I love this analogy of just like thinking about sliding into the next line, like every line just slides you into the next one. So,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 819.28,
+      "end": 824.1,
+      "speaker": "Presenter",
+      "text": "you can do this with ending sentence with intrigue, using open loops, creating curiosity gaps, making",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 824.1,
+      "end": 831.0,
+      "speaker": "Presenter",
+      "text": "each sentence lead naturally to the next, and then never give them a natural stop until the CTA. So for again,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 831.38,
+      "end": 836.72,
+      "speaker": "Presenter",
+      "text": "another example when you're writing your body copy, right? Like, \"Our product has three ingredients, they work together to help you.\" It's like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 838.32,
+      "end": 842.34,
+      "speaker": "Presenter",
+      "text": "right? This one is, \"Our product has three ingredients. The first one does something no other supplement can do.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 843.1,
+      "end": 844.54,
+      "speaker": "Presenter",
+      "text": "Which one are you more likely to read?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 845.66,
+      "end": 851.64,
+      "speaker": "Presenter",
+      "text": "Probably the second one, right? So just giving you guys again examples here of how to just suck less at copy,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 851.64,
+      "end": 859.18,
+      "speaker": "Presenter",
+      "text": "okay? Research is 80% of the work. We already talked about this, right? The beginner mistake is a lot of you guys will just sit down and start writing with without research,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 859.18,
+      "end": 867.82,
+      "speaker": "Presenter",
+      "text": "okay? So a lot of you guys try to write ads without any research at all. And then on top of that, you don't actually stop to do more research when you're in writing because sometimes you need to like go and",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 867.82,
+      "end": 874.26,
+      "speaker": "Presenter",
+      "text": "check things, be like, \"Oh, you know what, I really want to write this line here, I need to go and research this to make sure like this is actually a, you know, a solid claim to make,\" or whatever it is,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 874.48,
+      "end": 880.84,
+      "speaker": "Presenter",
+      "text": "okay? The best copy comes from great research, okay? And writing is, as Eugene puts it, just organizing",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 880.84,
+      "end": 887.58,
+      "speaker": "Presenter",
+      "text": "what you've learned, okay? It's such such a great recommendation, and that's why I have a lot of Evolve organized",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 887.58,
+      "end": 893.4,
+      "speaker": "Presenter",
+      "text": "and Origins organized in the way where you just learn about your customer and then the the writing just comes naturally, but obviously we need to show you guys how to put this together",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 893.4,
+      "end": 900.52,
+      "speaker": "Presenter",
+      "text": "as well. Every 1 hour of writing that you do, you should be doing every, you know, 2 to 3 hours of research, okay? Where to research, you guys should already know this, but",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 900.52,
+      "end": 905.14,
+      "speaker": "Presenter",
+      "text": "there you go, okay? And I love this, this is number seven, okay? So this is the daily practice, and",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 905.14,
+      "end": 910.78,
+      "speaker": "Presenter",
+      "text": "this is from again Kyle, and he mentioned this guy named Joe Schriefer. Hopefully, I said his name right.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 911.38,
+      "end": 918.9,
+      "speaker": "Presenter",
+      "text": "I can promise you that if you guys legitimately like If you guys pull up a like a a sheet, like a random sheet, like let me give you guys an example of this.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 919.1,
+      "end": 924.6,
+      "speaker": "Presenter",
+      "text": "All right, we're getting off the beaten track here, but this is literally a tracker that I used to use everyday, guys. So,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 924.6,
+      "end": 929.5,
+      "speaker": "Presenter",
+      "text": "30 minutes development, new idea to the growth guide, launch new ad creative, conduct research.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 930.38,
+      "end": 933.84,
+      "speaker": "Presenter",
+      "text": "This was literally like this was a daily tracker that I used every day,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 934.36,
+      "end": 939.38,
+      "speaker": "Presenter",
+      "text": "okay? But instead of doing this, what you can do, and I'll give you guys this sheet if you guys want it,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 939.68,
+      "end": 948.16,
+      "speaker": "Presenter",
+      "text": "but what you could do is say, \"Write a piece of copy,\" \"Write a page,\" or, sorry, \"Read a piece of copy,\" \"Write a page of copy,\" and \"Come up with an idea,\" okay? So, those would be your three things.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 948.52,
+      "end": 954.56,
+      "speaker": "Presenter",
+      "text": "So, you could just come over here and you could just change this to write, and you could change this to read, write, and new idea,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 955.3,
+      "end": 962.72,
+      "speaker": "Presenter",
+      "text": "right? Or even if you want to separate them, you can. It's like, hey, did I do this every day? Did I do this Monday? Yep. Did I do this Tuesday? Yep. Did I do this Wednesday? Yep. Did I do this",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 962.72,
+      "end": 968.62,
+      "speaker": "Presenter",
+      "text": "Thursday? Yep. You guys could even add other things in here if you want, right? You guys could always say like, \"Hey, did I did I go to gym,\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 968.62,
+      "end": 970.46,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 2,
+      "timing": "interpolated"
+    },
+    {
+      "id": 135,
+      "start": 970.46,
+      "end": 973.84,
+      "speaker": "Presenter",
+      "text": "or, for example, it's like, did I did I watch a module?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 975.64,
+      "end": 978.24,
+      "speaker": "Presenter",
+      "text": "Two modules, right? Same thing here.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 978.36,
+      "end": 980.86,
+      "speaker": "Presenter",
+      "text": "Launch a new creative, did I write a new ad?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 981.58,
+      "end": 987.18,
+      "speaker": "Presenter",
+      "text": "You guys can add these things in here to literally keep track of all your stuff.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 987.46,
+      "end": 989.24,
+      "speaker": "Presenter",
+      "text": "Okay, I'll make this one totally full for you guys.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 989.72,
+      "end": 993.56,
+      "speaker": "Presenter",
+      "text": "Right? Give yourself Sundays off if you want. However you want to do it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 993.92,
+      "end": 999.12,
+      "speaker": "Presenter",
+      "text": "And guess what? It's like, okay, well, I had a new idea for the growth guide today. I I wrote a write a new ad, I I wrote a new ad.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 999.56,
+      "end": 1004.6,
+      "speaker": "Presenter",
+      "text": "Okay, I went to the gym today, I watched at least two modules, and I did some research, great, perfect day.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 1005.08,
+      "end": 1006.96,
+      "speaker": "Presenter",
+      "text": "Right? And this is how you guys can track",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 1006.96,
+      "end": 1013.3,
+      "speaker": "Presenter",
+      "text": "how you're doing. And then I know this is supposed to be about copywriting, and I might have to make a different one about the habit tracker here, but the point is, it's like,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 1013.7,
+      "end": 1020.16,
+      "speaker": "Presenter",
+      "text": "this is how you guys can track whether or not you're doing this stuff. And I promise you, if you do this, if you read a piece of copy and like analyze what is being communicated,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 1020.8,
+      "end": 1023.4,
+      "speaker": "Presenter",
+      "text": "you write a page of copy, so just open a Google Doc and write,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 1023.94,
+      "end": 1029.54,
+      "speaker": "Presenter",
+      "text": "right? Doesn't have to be for an ad, could be for a landing page, could be for tweet. For most of you guys, it should probably be for an ad, but just write something.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 1030.18,
+      "end": 1036.0,
+      "speaker": "Presenter",
+      "text": "And if you come up with an idea, you just basically like ask, like, hey, like what if I approached this from a completely different angle? Or what if",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 1036.3,
+      "end": 1040.66,
+      "speaker": "Presenter",
+      "text": "why why did this ad stop me? This is one of my favorite things. Like why did this ad stop me? Why do I think this ad worked, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 1041.46,
+      "end": 1046.64,
+      "speaker": "Presenter",
+      "text": "How much, and that's when you guys are just like doom scrolling, whatever you're doing, how much should I, you know, how would I improve this ad if it was mine?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 1047.06,
+      "end": 1050.34,
+      "speaker": "Presenter",
+      "text": "Right? Or if you buy something, why did I buy this? Like Origins, why why did you buy this?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 1050.8,
+      "end": 1057.74,
+      "speaker": "Presenter",
+      "text": "Go through that. Like try to think, like why why did I do that? Like what was the trigger? Like what made what made me do it? What was the desire that I potentially have, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 1058.84,
+      "end": 1063.3,
+      "speaker": "Presenter",
+      "text": "Why like why why wouldn't I buy this faster? Or what would would have made me buy this faster, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 1064.18,
+      "end": 1069.1,
+      "speaker": "Presenter",
+      "text": "Or again, everyone in this niche says X, like what if I said Y instead, like just come up with these ideas, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 1069.48,
+      "end": 1073.48,
+      "speaker": "Presenter",
+      "text": "And again, keep a Notes app on your phone, create a copy ideas section, or",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 1073.48,
+      "end": 1080.32,
+      "speaker": "Presenter",
+      "text": "I have one in my phone that's just like hooks that stop my scroll section, I even have one that's called winning ads, and I just have this massive document of winning ads",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 1080.32,
+      "end": 1083.48,
+      "speaker": "Presenter",
+      "text": "that I just kind of track cuz I want to go back and study them later, but like",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 1084.26,
+      "end": 1090.3,
+      "speaker": "Presenter",
+      "text": "just do this. Like just make it routine. And if you guys want to use this tracker again, I will include it, but like you guys need to make it a habit.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 1090.96,
+      "end": 1094.68,
+      "speaker": "Presenter",
+      "text": "Like, I guarantee you, like if you actually do this for 90 days, you wrote a piece of copy,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 1095.02,
+      "end": 1103.06,
+      "speaker": "Presenter",
+      "text": "read a piece of copy, wrote a piece of copy, and came up with an idea for 90 days straight, you would be better than like, it's safe to say, 90% of copywriters. The truth is,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 1103.06,
+      "end": 1106.7,
+      "speaker": "Presenter",
+      "text": "is most of you guys won't do this. Most of you guys won't make it past day 10,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 1107.48,
+      "end": 1114.44,
+      "speaker": "Presenter",
+      "text": "let alone maybe day 30, maybe you'll do 30 days and then you'll fall off then, right? But it's like how bad do you actually want to make the money that you want to make, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 1114.8,
+      "end": 1121.84,
+      "speaker": "Presenter",
+      "text": "And so, I know we're getting off topic on like mindset stuff and we'll circle back on that later, but this is like one of the most important things. Like everything that I've just",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 1121.84,
+      "end": 1130.38,
+      "speaker": "Presenter",
+      "text": "taught you here, everything that we just discussed, it doesn't matter if you guys don't actually action this stuff, okay? So this is a phenomenal way for you guys",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 1130.38,
+      "end": 1138.36,
+      "speaker": "Presenter",
+      "text": "and you guys can see the other's tracker, maybe it doesn't need to be every other day, maybe it could just be like every 2 days, whatever it is, like however you want to do it, keep track of your stuff because I if",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 1138.36,
+      "end": 1145.46,
+      "speaker": "Presenter",
+      "text": "for whatever reason we do a a call and it's like, \"Hey, like how come you're not scaling? Show me your daily tracker.\" It's like, \"Oh, well, I haven't done anything.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 1146.6,
+      "end": 1148.18,
+      "speaker": "Presenter",
+      "text": "Well, that's probably your problem.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 1148.18,
+      "end": 1152.66,
+      "speaker": "Presenter",
+      "text": "I guarantee you, cuz I have proof of this, if you fill this out every single day for a year",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 1153.7,
+      "end": 1159.94,
+      "speaker": "Presenter",
+      "text": "and you're actually consistent, probably get to where you want to go. Cuz I've done it, and, you know, I sort of got to where I wanted to go.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 1160.6,
+      "end": 1167.84,
+      "speaker": "Presenter",
+      "text": "So, that is everything around just like overall kind of like practice here and like sorry the rules of copywriting and things that you should know,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 1167.84,
+      "end": 1170.02,
+      "speaker": "Presenter",
+      "text": "okay?",
+      "chunk": 3,
+      "timing": "interpolated"
+    },
+    {
+      "id": 172,
+      "start": 1170.02,
+      "end": 1176.66,
+      "speaker": "Presenter",
+      "text": "Now, let's talk about some actual copywriting strategies, okay? So, what are some strategies, Spencer, that I can use to hit a 100k per month? And now I'm going to go through these",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 1176.66,
+      "end": 1183.24,
+      "speaker": "Presenter",
+      "text": "relatively quickly, but some copywriting strategies that are going to be really great for you to understand is the first one is the value equation,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 1183.7,
+      "end": 1186.36,
+      "speaker": "Presenter",
+      "text": "right? What do people actually value? Well, first off,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1186.64,
+      "end": 1194.94,
+      "speaker": "Presenter",
+      "text": "what is their dream outcome, right? Like where am I getting them where am I what am I offering them? Like what is it that they actually want? A lot of you guys will know this as their desire, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1195.56,
+      "end": 1200.08,
+      "speaker": "Presenter",
+      "text": "How likely are they to get it, right? That's the perceived likelihood of achievement, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 1200.76,
+      "end": 1207.18,
+      "speaker": "Presenter",
+      "text": "How long does it take them to get it? These two, I love for copywriting specifically: time delay, effort, and sacrifice,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 1207.78,
+      "end": 1213.86,
+      "speaker": "Presenter",
+      "text": "right? If you can help someone get something faster, and if you can help someone get something easier,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 1214.7,
+      "end": 1219.56,
+      "speaker": "Presenter",
+      "text": "and overall just with less sacrifice, like they don't have to give up the things that they like,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1219.8,
+      "end": 1229.4,
+      "speaker": "Presenter",
+      "text": "you'll see that in some of the ads where it's like, you know, lose weight without, you know, without, you know, while still being able to cheat like cheat meals and stuff like that, Huel runs ads like that, it's like why does that work? Well,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1229.92,
+      "end": 1237.76,
+      "speaker": "Presenter",
+      "text": "they get what they want super easy, and they don't have to sacrifice what they like, okay? And so, this is the first thing that if you guys like don't take anything away from this or like a lot of this stuff maybe gets",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1237.76,
+      "end": 1245.7,
+      "speaker": "Presenter",
+      "text": "too complex down below, like this is a great thing for you guys to just keep in the back of your mind. Like what do people actually value? Well, they value effort, they value sacrifice, they value their time,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1245.7,
+      "end": 1250.64,
+      "speaker": "Presenter",
+      "text": "and they value knowing that it's safe, right? And that the perceived likelihood of achievement is high.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1250.64,
+      "end": 1258.58,
+      "speaker": "Presenter",
+      "text": "Okay, a lot of these things are going to say the same things, but these are just different ways of me communicating it to you. So like this is what humans value. So when writing copy,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1258.58,
+      "end": 1262.78,
+      "speaker": "Presenter",
+      "text": "ask this, like hey, did I remove the time delay? Did I say that it's easy?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1262.78,
+      "end": 1274.8,
+      "speaker": "Presenter",
+      "text": "You know, did I mention that they don't have to sacrifice specific things? Like these are things that will build value not only in your ads, but also in your landing pages, okay? Understanding frames that you can use, I call them frames",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 1274.8,
+      "end": 1279.14,
+      "speaker": "Presenter",
+      "text": "just for the sake of keeping things simple with you guys around what we've been through in the avatar training,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1279.48,
+      "end": 1288.78,
+      "speaker": "Presenter",
+      "text": "but there's new and only, easy and anybody, safe and predictable, big and fast, okay? This is something they've never seen before, it's different from everything else.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1288.78,
+      "end": 1296.3,
+      "speaker": "Presenter",
+      "text": "Here's what the person then thinks as a result of you using words like new and only. Is this new? Or is this the same old stuff I've already tried,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 1296.9,
+      "end": 1301.96,
+      "speaker": "Presenter",
+      "text": "right? If you're writing copy that makes them think it's the same stuff that they've already tried, do you think they're going to buy?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1303.2,
+      "end": 1305.8,
+      "speaker": "Presenter",
+      "text": "No. Easy and anybody.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1306.22,
+      "end": 1310.18,
+      "speaker": "Presenter",
+      "text": "\"This is simple to do. It doesn't take a lot of work. Anyone can do this,\" right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 1310.58,
+      "end": 1312.12,
+      "speaker": "Presenter",
+      "text": "What is the person thinking? \"Can I actually do this?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 1312.8,
+      "end": 1316.38,
+      "speaker": "Presenter",
+      "text": "Like, is this going to be hard,\" right? Look at this. Effort and sacrifice,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 1317.24,
+      "end": 1318.52,
+      "speaker": "Presenter",
+      "text": "right? Safe and predictable.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 1318.98,
+      "end": 1323.46,
+      "speaker": "Presenter",
+      "text": "\"This is safe. Other people have tried it, and it worked. You won't lose money if it doesn't work,\" okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 1323.96,
+      "end": 1327.48,
+      "speaker": "Presenter",
+      "text": "\"What if I try this, and it doesn't work for me,\" right? That goes into perceived likelihood of achievement,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 1328.48,
+      "end": 1332.0,
+      "speaker": "Presenter",
+      "text": "right? And so, again, when we tell people that it's safe,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 1332.66,
+      "end": 1335.14,
+      "speaker": "Presenter",
+      "text": "\"Don't worry. We have a guarantee,\" or like, \"It's all right.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 1336.74,
+      "end": 1338.9,
+      "speaker": "Presenter",
+      "text": "It's going to make them feel safe. Big and fast.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 1339.22,
+      "end": 1343.06,
+      "speaker": "Presenter",
+      "text": "\"You'll see big results, and it'll happen fast. You won't have to wait forever.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 1343.72,
+      "end": 1348.52,
+      "speaker": "Presenter",
+      "text": "What the person's thinking, like, \"Will this actually change my life,\" right? Or is this just, you know, a small little thing?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 1348.72,
+      "end": 1352.38,
+      "speaker": "Presenter",
+      "text": "If it's small enough, it's probably not a big enough motivation to get someone to purchase,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 1353.0,
+      "end": 1358.34,
+      "speaker": "Presenter",
+      "text": "right? Like, I mean, I don't know, like, for example, my my nails are, as a random example, they're they're kind of",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 1358.34,
+      "end": 1361.96,
+      "speaker": "Presenter",
+      "text": "long right now. Like not crazy, but, for me, it's like",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 1361.96,
+      "end": 1367.72,
+      "speaker": "Presenter",
+      "text": "not cutting my nails tonight is not going to It's not a big difference. You know what I mean?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 1368.1,
+      "end": 1372.98,
+      "speaker": "Presenter",
+      "text": "But like if If I had like a serious infection, or like somebody told me like if my nails reach out past a certain point, and it's like,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1372.98,
+      "end": 1379.04,
+      "speaker": "Presenter",
+      "text": "\"Then you're going to get chronically ill,\" or something, it's like, well, bro, I'd be going on Amazon, or I'd be going to the store right",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1379.04,
+      "end": 1381.82,
+      "speaker": "Presenter",
+      "text": "now to go and buy some damn nail clippers. I mean, they're somewhere in the house.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1381.82,
+      "end": 1386.56,
+      "speaker": "Presenter",
+      "text": "But my point is, it's like it needs to be of importance. A lot of times we write ads, it's just like",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1386.7,
+      "end": 1390.86,
+      "speaker": "Presenter",
+      "text": "it's not that big. Like nobody really cares. There's not a lot of urgency there, and there's not really",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1391.1,
+      "end": 1395.04,
+      "speaker": "Presenter",
+      "text": "there's not a big impact that comes from it, so think about the impact. It needs to be big.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1395.6,
+      "end": 1399.62,
+      "speaker": "Presenter",
+      "text": "Okay? So, these are frames that you guys can use. Now, getting into examples, right? \"Lose weight",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1399.62,
+      "end": 1403.6,
+      "speaker": "Presenter",
+      "text": "fast,\" right? It has big, but not even I wouldn't even say this is big",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 215,
+      "start": 1403.6,
+      "end": 1408.86,
+      "speaker": "Presenter",
+      "text": "because we're just saying lose weight. We only have fast, right? It's missing this new, this easy, this safe,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 216,
+      "start": 1409.2,
+      "end": 1414.22,
+      "speaker": "Presenter",
+      "text": "right? So, \"12,000 women block the enzyme destroying their appetite hormone and ate 24%",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1414.64,
+      "end": 1417.18,
+      "speaker": "Presenter",
+      "text": "less in week one without trying.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1419.0,
+      "end": 1423.3,
+      "speaker": "Presenter",
+      "text": "Pretty wordy. And we're going to talk about this and how to cut this down, all that kind of stuff, but it's like,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1423.78,
+      "end": 1427.88,
+      "speaker": "Presenter",
+      "text": "you know, this actually is probably going to be a lot more",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1427.94,
+      "end": 1431.56,
+      "speaker": "Presenter",
+      "text": "enticing for someone that wants to lose weight fast,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1431.8,
+      "end": 1437.44,
+      "speaker": "Presenter",
+      "text": "right? \"12,000 women block the enzyme destroying their appetite hormone and ate 24% less in week one.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1438.82,
+      "end": 1442.98,
+      "speaker": "Presenter",
+      "text": "Pretty specific, and we're going to talk about that as well. \"Sleep better with our blackout curtains.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1444.16,
+      "end": 1447.88,
+      "speaker": "Presenter",
+      "text": "You know, like sleep better is kind of Like, yeah, sleeping better is is pretty big.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1448.42,
+      "end": 1452.38,
+      "speaker": "Presenter",
+      "text": "But here we have, you know, \"The first blackout blind that blocks 100% of light using military-grade",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1452.38,
+      "end": 1458.28,
+      "speaker": "Presenter",
+      "text": "fabric. Install in under 5 minutes without drilling. 15,000 parents got their toddlers sleeping through the night in the first week.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1458.62,
+      "end": 1463.42,
+      "speaker": "Presenter",
+      "text": "Right? We've got speed here, right? We've got the fact that it's safe, right? It's military-grade fabric,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1463.86,
+      "end": 1466.9,
+      "speaker": "Presenter",
+      "text": "right? It's new, right? The first, you know?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 228,
+      "start": 1468.02,
+      "end": 1472.9,
+      "speaker": "Presenter",
+      "text": "So, there's ways to do this, and we're going to talk about this, and you guys are going to see this in the prompt, stuff like that, but I'm just helping you guys to understand, like,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1472.9,
+      "end": 1476.5,
+      "speaker": "Presenter",
+      "text": "the difference between boring copy and copy that actually has",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1476.5,
+      "end": 1481.64,
+      "speaker": "Presenter",
+      "text": "these specific frames in it that can elevate it. Now, you don't have to use all four. In this instance, I'm using all four.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1482.14,
+      "end": 1487.5,
+      "speaker": "Presenter",
+      "text": "My point is, it's like you don't have to all the time, and you'll see that, but this is just giving you an idea of like, \"Hey, how can we add",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1487.5,
+      "end": 1491.66,
+      "speaker": "Presenter",
+      "text": "some more to this,\" right? How can we maybe be more specific",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1491.66,
+      "end": 1496.32,
+      "speaker": "Presenter",
+      "text": "than fast, right? Or how can we be more specific with the fact that it's easy,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1496.32,
+      "end": 1499.62,
+      "speaker": "Presenter",
+      "text": "or that it's safe? Okay? Like \"without trying\".",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1499.96,
+      "end": 1502.98,
+      "speaker": "Presenter",
+      "text": "That's easy, okay? We didn't say easy, but we're saying",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1502.98,
+      "end": 1506.92,
+      "speaker": "Presenter",
+      "text": "that it was easy because they didn't even have to try. Avoid categorizing yourself with",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1506.92,
+      "end": 1510.2,
+      "speaker": "Presenter",
+      "text": "others and blending in. Now, this is a trap that the moment you compare yourself into an existing",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1510.2,
+      "end": 1514.3,
+      "speaker": "Presenter",
+      "text": "category, you lose the new and only positioning, and you",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1514.3,
+      "end": 1519.14,
+      "speaker": "Presenter",
+      "text": "have specific headlines, and sometimes these can work, but most of the time, if you're saying,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1519.4,
+      "end": 1522.66,
+      "speaker": "Presenter",
+      "text": "\"We're like X, but Y,\" this categorizes you as an alternative,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1523.06,
+      "end": 1527.04,
+      "speaker": "Presenter",
+      "text": "and you've now entered a competitive comparison instead of owning this new",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1527.04,
+      "end": 1531.22,
+      "speaker": "Presenter",
+      "text": "category, right? And so the fix is don't say what you're like,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1531.48,
+      "end": 1535.66,
+      "speaker": "Presenter",
+      "text": "don't use market-category language, don't say that you're better than another competitor",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1535.66,
+      "end": 1540.28,
+      "speaker": "Presenter",
+      "text": "unless you truly are, and, again, us-versus-them have, at times,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1540.28,
+      "end": 1545.34,
+      "speaker": "Presenter",
+      "text": "done really, really well, and I have given you guys those templates, but it's usually because of a new mechanism.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1545.82,
+      "end": 1548.78,
+      "speaker": "Presenter",
+      "text": "It's the new mechanism that makes it, you know, appealing, even though we are relatively,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1548.78,
+      "end": 1553.76,
+      "speaker": "Presenter",
+      "text": "you know, we are essentially comparing. The point with this is when you want to say like",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1554.1,
+      "end": 1560.0,
+      "speaker": "Presenter",
+      "text": "things, \"Hey, we're better than other collagens. It's not like other collagens,\" it's like, well, now you've just bundled yourself as another collagen.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1560.36,
+      "end": 1567.3,
+      "speaker": "Presenter",
+      "text": "Of course you're going to be better than the other one. You know what I'm saying? Like, so when you guys think about the copy that you're writing, and you read stuff like this,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1567.4,
+      "end": 1569.04,
+      "speaker": "Presenter",
+      "text": "it's like, \"Oh, we're not like other collagens.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1569.04,
+      "end": 1573.26,
+      "speaker": "Presenter",
+      "text": "Of course you're going to say that because you're trying to sell me something,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1573.68,
+      "end": 1577.78,
+      "speaker": "Presenter",
+      "text": "right? But if I say, \"We're the first supplement that blocks the enzyme destroying your appetite",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1577.78,
+      "end": 1581.38,
+      "speaker": "Presenter",
+      "text": "hormone,\" this creates this whole new thing that they've never heard of.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 254,
+      "start": 1581.94,
+      "end": 1585.96,
+      "speaker": "Presenter",
+      "text": "Holy shit. This isn't This And guess what? You know what they do?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 255,
+      "start": 1586.14,
+      "end": 1588.48,
+      "speaker": "Presenter",
+      "text": "\"This isn't like other collagens. This is new.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1588.48,
+      "end": 1592.2,
+      "speaker": "Presenter",
+      "text": "And guess what? They're more likely to buy. \"Like whey protein,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1592.2,
+      "end": 1597.86,
+      "speaker": "Presenter",
+      "text": "but vegan.\" Again, we're categorizing this as like a whey alternative. Now, could this work potentially for people who are vegan,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1597.86,
+      "end": 1603.38,
+      "speaker": "Presenter",
+      "text": "right, and know that whey protein is good, but, you know, we could say something like, \"This is the first complete protein",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1603.38,
+      "end": 1608.94,
+      "speaker": "Presenter",
+      "text": "that digests in 23 minutes and builds muscle 40% faster than whey from a banned Icelandic",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 260,
+      "start": 1608.94,
+      "end": 1613.88,
+      "speaker": "Presenter",
+      "text": "algae,\" right? New category, fast-digesting complete protein from algae,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1613.88,
+      "end": 1618.68,
+      "speaker": "Presenter",
+      "text": "right? So, you're kind of, again, creating this new category, right? \"Like Dyson,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 262,
+      "start": 1618.68,
+      "end": 1623.06,
+      "speaker": "Presenter",
+      "text": "but affordable,\" right? This is something that we used to say all the time, and guess what? It never worked,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 263,
+      "start": 1623.72,
+      "end": 1626.8,
+      "speaker": "Presenter",
+      "text": "okay? \"This is the first device that adds moisture without making your room",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 264,
+      "start": 1626.8,
+      "end": 1630.5,
+      "speaker": "Presenter",
+      "text": "feel like a rainforest by releasing particles 90% smaller than traditional",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 265,
+      "start": 1630.64,
+      "end": 1635.52,
+      "speaker": "Presenter",
+      "text": "humidifiers.\" Now, this is obviously talking about the Dyson humidifier, not the Dyson hair dryer for anyone that's wondering, but",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 266,
+      "start": 1635.52,
+      "end": 1639.5,
+      "speaker": "Presenter",
+      "text": "new category, micro-particle moisture, okay? And so you're just tying",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 267,
+      "start": 1639.5,
+      "end": 1643.02,
+      "speaker": "Presenter",
+      "text": "in these new mechanisms to separate yourself and make it sound new,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 268,
+      "start": 1643.02,
+      "end": 1645.82,
+      "speaker": "Presenter",
+      "text": "and not just saying like, \"Oh, we're better than other ones.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 269,
+      "start": 1645.82,
+      "end": 1648.16,
+      "speaker": "Presenter",
+      "text": "K?",
+      "chunk": 5,
+      "timing": "interpolated"
+    },
+    {
+      "id": 270,
+      "start": 1648.16,
+      "end": 1652.48,
+      "speaker": "Presenter",
+      "text": "Number four: you need to show, not tell, even with words.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 271,
+      "start": 1652.62,
+      "end": 1657.14,
+      "speaker": "Presenter",
+      "text": "You guys have probably heard me say multiple times like you need to show, not tell, like, show that your product works, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 272,
+      "start": 1657.3,
+      "end": 1662.42,
+      "speaker": "Presenter",
+      "text": "And the best example of this is again like if I have a phone—I don't know where my phone is—",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 273,
+      "start": 1662.5,
+      "end": 1666.74,
+      "speaker": "Presenter",
+      "text": "this is the common example that I give everybody and I know this example is getting a little bit carried away, but it's like I'm like, \"Hey,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 274,
+      "start": 1667.28,
+      "end": 1669.32,
+      "speaker": "Presenter",
+      "text": "this phone case will protect your phone.\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 275,
+      "start": 1670.32,
+      "end": 1674.9,
+      "speaker": "Presenter",
+      "text": "Will you believe me? Maybe. Maybe not, I don't know, like, depends on how much you like me.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 276,
+      "start": 1674.9,
+      "end": 1681.62,
+      "speaker": "Presenter",
+      "text": "But what if I said, \"This phone case protects your phone,\" and I just fully dropped it from like 50 ft away,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 277,
+      "start": 1681.62,
+      "end": 1684.3,
+      "speaker": "Presenter",
+      "text": "and then I went down and I picked it up and I was like, \"See?\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 278,
+      "start": 1684.3,
+      "end": 1691.44,
+      "speaker": "Presenter",
+      "text": "I just loo- like, you're going to believe me, like, \"All right, yeah! Definitely does, K?\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 279,
+      "start": 1691.88,
+      "end": 1696.08,
+      "speaker": "Presenter",
+      "text": "And so that's one of those things where visually if you can show, always show,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 280,
+      "start": 1696.08,
+      "end": 1699.96,
+      "speaker": "Presenter",
+      "text": "right? Like we have a brand right now that is absolutely murdering it. It's because guess what?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 281,
+      "start": 1699.96,
+      "end": 1703.24,
+      "speaker": "Presenter",
+      "text": "The mechanism that we're using, we can show.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 282,
+      "start": 1703.24,
+      "end": 1706.96,
+      "speaker": "Presenter",
+      "text": "And so we just show it. It's like, look at this. Whoop! Problem solved.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 283,
+      "start": 1708.04,
+      "end": 1711.46,
+      "speaker": "Presenter",
+      "text": "You know? So we're we're crushing it for them. But it's not always that simple.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 284,
+      "start": 1711.46,
+      "end": 1716.06,
+      "speaker": "Presenter",
+      "text": "Supplements, I don't I don't take a supplement and all of a sudden lose 20 lb. It's not how it happens. So,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 285,
+      "start": 1716.06,
+      "end": 1721.86,
+      "speaker": "Presenter",
+      "text": "how do we show when we can't use visuals? And this was something that I used to always struggle with, but guess what? There's a way to do it. So,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 286,
+      "start": 1722.92,
+      "end": 1726.52,
+      "speaker": "Presenter",
+      "text": "most copywriters tell benefits: this will make you feel energized, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 287,
+      "start": 1726.52,
+      "end": 1733.78,
+      "speaker": "Presenter",
+      "text": "This telling triggers the logical brain, K? Which then creates skepticism.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 288,
+      "start": 1735.82,
+      "end": 1741.12,
+      "speaker": "Presenter",
+      "text": "The solution is show the transformation through story, imagery, and behavioral change.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 289,
+      "start": 1742.08,
+      "end": 1745.4,
+      "speaker": "Presenter",
+      "text": "Showing triggers the emotional brain, K?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 290,
+      "start": 1746.82,
+      "end": 1751.56,
+      "speaker": "Presenter",
+      "text": "So examples of this, telling: \"You'll have more energy and feel great.\" Sure I will, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 291,
+      "start": 1752.5,
+      "end": 1760.52,
+      "speaker": "Presenter",
+      "text": "\"Imagine waking up without hitting snooze three times, walking past the vending machine at 3:00 p.m. without even thinking about it, and going to bed without the nightly pantry raid.\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 292,
+      "start": 1762.3,
+      "end": 1766.06,
+      "speaker": "Presenter",
+      "text": "Like, damn, K? And guess what? Where do where do you get this stuff from, guys?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 293,
+      "start": 1766.46,
+      "end": 1769.26,
+      "speaker": "Presenter",
+      "text": "You get this from your research and from understanding your customer, K?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 294,
+      "start": 1769.92,
+      "end": 1773.36,
+      "speaker": "Presenter",
+      "text": "And so this is why that works, is because you're showing",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 295,
+      "start": 1773.36,
+      "end": 1779.26,
+      "speaker": "Presenter",
+      "text": "them that it helps you have more energy and feel great, you're not telling them.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 296,
+      "start": 1780.28,
+      "end": 1785.5,
+      "speaker": "Presenter",
+      "text": "You're showing them through words. I know it sounds like it might be a some of you guys might be a little bit stuck there,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 297,
+      "start": 1785.56,
+      "end": 1791.74,
+      "speaker": "Presenter",
+      "text": "but you're showing them by communicating. Here's another one: ergonomic mouse, right? Your wrist pain will disappear. This one's not my favorite, but",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 298,
+      "start": 1792.3,
+      "end": 1799.34,
+      "speaker": "Presenter",
+      "text": "show- remember that shooting pain you used to get around 2:00 p.m., the one that made you shake your hand out every few minutes? It's gone.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 299,
+      "start": 1799.76,
+      "end": 1804.62,
+      "speaker": "Presenter",
+      "text": "Now you're on your third Zoom call and you haven't even thought about your wrist. You're clicking without even wincing.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 300,
+      "start": 1805.82,
+      "end": 1811.26,
+      "speaker": "Presenter",
+      "text": "I am showing that their pain will disappear. I'm not telling them their pain is going to disappear, I'm showing them.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 301,
+      "start": 1813.34,
+      "end": 1817.38,
+      "speaker": "Presenter",
+      "text": "K? This is sauce. I wish I knew this way earlier.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 302,
+      "start": 1817.38,
+      "end": 1822.56,
+      "speaker": "Presenter",
+      "text": "You guys are getting it at a stage that, I don't even know, most a lot of advanced copywriters don't even know this shit.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 303,
+      "start": 1823.24,
+      "end": 1827.2,
+      "speaker": "Presenter",
+      "text": "Another one here, number five, is how to write body copy that isn't fluff,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 304,
+      "start": 1827.54,
+      "end": 1833.12,
+      "speaker": "Presenter",
+      "text": "K? And this is a really good formula, it's very like again, you'll see with the creations below, it's a it's a very common formula,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 305,
+      "start": 1833.12,
+      "end": 1836.58,
+      "speaker": "Presenter",
+      "text": "but I love this because a lot of people just have objections.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 306,
+      "start": 1837.32,
+      "end": 1841.16,
+      "speaker": "Presenter",
+      "text": "There have been so many products that they've tried and so many things that they've done",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 307,
+      "start": 1841.69,
+      "end": 1847.94,
+      "speaker": "Presenter",
+      "text": "that everybody has made these claims and so, guess what? There is going to be more objections in the market than there is going to be belief, K?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 308,
+      "start": 1849.38,
+      "end": 1854.98,
+      "speaker": "Presenter",
+      "text": "And so if we follow this process of objection, claim, proof, benefit,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 309,
+      "start": 1854.98,
+      "end": 1861.0,
+      "speaker": "Presenter",
+      "text": "and we kind of rotate through that, it it helps you make a claim",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 310,
+      "start": 1862.5,
+      "end": 1865.52,
+      "speaker": "Presenter",
+      "text": "or it helps you address the objection before the claim is even made,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 311,
+      "start": 1866.32,
+      "end": 1869.8,
+      "speaker": "Presenter",
+      "text": "right? It's like, think about when you're on a sales call, it's like, I know what you're thinking.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 312,
+      "start": 1870.52,
+      "end": 1874.18,
+      "speaker": "Presenter",
+      "text": "You're thinking, sure, Spencer, this copywriting strategy is going to work for me,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 313,
+      "start": 1874.78,
+      "end": 1878.86,
+      "speaker": "Presenter",
+      "text": "right? Like maybe a lot of somebody's thinking that right now, right? It's like,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 314,
+      "start": 1879.74,
+      "end": 1883.38,
+      "speaker": "Presenter",
+      "text": "well, here's here's the claim, right? The claim is your counter statement. Well, it's like,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 315,
+      "start": 1883.38,
+      "end": 1886.26,
+      "speaker": "Presenter",
+      "text": "nobody has ever taught you about market awareness levels,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 316,
+      "start": 1886.86,
+      "end": 1891.14,
+      "speaker": "Presenter",
+      "text": "right? And market awareness levels work because, look at this, these three guys right here",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 317,
+      "start": 1891.14,
+      "end": 1894.24,
+      "speaker": "Presenter",
+      "text": "just scaled to 100k per day by running problem-aware ads.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 318,
+      "start": 1894.92,
+      "end": 1898.66,
+      "speaker": "Presenter",
+      "text": "And now, as a result of them making 100k per day, they just bought two Lamborghinis.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 319,
+      "start": 1900.2,
+      "end": 1902.8,
+      "speaker": "Presenter",
+      "text": "K? That's objection, claim, proof, benefit. I just made that up on the spot.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 320,
+      "start": 1902.88,
+      "end": 1907.34,
+      "speaker": "Presenter",
+      "text": "My point is, is objection is, and it's a terrible example, what they're thinking about,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 321,
+      "start": 1907.34,
+      "end": 1913.0,
+      "speaker": "Presenter",
+      "text": "and what they're doubting, you address it head on, like, \"I already know what you're thinking,\" cause guess what? You've done the research, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 322,
+      "start": 1913.54,
+      "end": 1916.04,
+      "speaker": "Presenter",
+      "text": "Claim: your counter statement, what's actually true.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 323,
+      "start": 1917.12,
+      "end": 1919.14,
+      "speaker": "Presenter",
+      "text": "usually some kind of new mechanism as well. Proof,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 324,
+      "start": 1919.14,
+      "end": 1921.14,
+      "speaker": "Presenter",
+      "text": "evidence that validates your claim,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 325,
+      "start": 1922.6,
+      "end": 1925.54,
+      "speaker": "Presenter",
+      "text": "and then benefit, the emotional payoff, what their life looks like after.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 326,
+      "start": 1926.22,
+      "end": 1930.84,
+      "speaker": "Presenter",
+      "text": "Okay? So cycle through this pattern multiple times in your body copy for different objections. For example, objection:",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 327,
+      "start": 1931.42,
+      "end": 1935.04,
+      "speaker": "Presenter",
+      "text": "\"I've tried supplements before. They didn't work.\" Or, \"I've- Listen, I've tried-",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 328,
+      "start": 1935.6,
+      "end": 1938.62,
+      "speaker": "Presenter",
+      "text": "I've tried collagen before. Didn't work- It didn't work.\" Claim:",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 329,
+      "start": 1938.88,
+      "end": 1940.9,
+      "speaker": "Presenter",
+      "text": "\"Well, this isn't another collagen.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 330,
+      "start": 1941.6,
+      "end": 1945.38,
+      "speaker": "Presenter",
+      "text": "It's the first collagen that blocks the enzyme destroying your appetite hormone.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 331,
+      "start": 1946.28,
+      "end": 1951.16,
+      "speaker": "Presenter",
+      "text": "In a 12-week study, women ate 25% fewer calories in- in a week without trying.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 332,
+      "start": 1952.08,
+      "end": 1955.06,
+      "speaker": "Presenter",
+      "text": "Imagine only eating 1200 calories and feeling satisfied, not-",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 333,
+      "start": 1955.16,
+      "end": 1958.2,
+      "speaker": "Presenter",
+      "text": "not deprived, just done eating. No more food noise.\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 334,
+      "start": 1958.76,
+      "end": 1961.54,
+      "speaker": "Presenter",
+      "text": "Right? Now, is this the best example? Eh, it's- it's- it's okay.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 335,
+      "start": 1962.04,
+      "end": 1965.44,
+      "speaker": "Presenter",
+      "text": "My point is is like, you handled the objection, you get into the claim--",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 336,
+      "start": 1965.76,
+      "end": 1969.42,
+      "speaker": "Presenter",
+      "text": "and I know I added words there that weren't on the screen, but you handle the objection, you",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 337,
+      "start": 1969.42,
+      "end": 1973.48,
+      "speaker": "Presenter",
+      "text": "state the claim, you then show proof, and then you explain why",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 338,
+      "start": 1973.94,
+      "end": 1976.2,
+      "speaker": "Presenter",
+      "text": "that actually matters. What- What do they actually get?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 339,
+      "start": 1976.98,
+      "end": 1978.36,
+      "speaker": "Presenter",
+      "text": "And now, again, their guard comes down.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 340,
+      "start": 1978.92,
+      "end": 1979.2,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 341,
+      "start": 1980.46,
+      "end": 1983.7,
+      "speaker": "Presenter",
+      "text": "Number six is the roles of market awareness levels, and now for you guys,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 342,
+      "start": 1984.16,
+      "end": 1989.52,
+      "speaker": "Presenter",
+      "text": "market awareness is something that right now is important to understand, like you definitely need to know this, and I used to get",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 343,
+      "start": 1989.52,
+      "end": 1994.04,
+      "speaker": "Presenter",
+      "text": "like so overwhelmed by this, I'd be like, \"Oh, no, like, what awareness level is this?\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 344,
+      "start": 1994.16,
+      "end": 1998.24,
+      "speaker": "Presenter",
+      "text": "And I know when you're first learning it, it is hard. Trust me. You might be like, \"Product-aware, problem-aware...\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 345,
+      "start": 1998.28,
+      "end": 2001.76,
+      "speaker": "Presenter",
+      "text": "And I wasn't sure about keeping this in here, but I wanted to, just for the sake of",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 346,
+      "start": 2001.76,
+      "end": 2006.34,
+      "speaker": "Presenter",
+      "text": "a lot of you guys have heard of this, because it's become more common knowledge, guess what? It's got more sophisticated, people know more about it.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 347,
+      "start": 2006.78,
+      "end": 2008.44,
+      "speaker": "Presenter",
+      "text": "However, you should only be focusing",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 348,
+      "start": 2008.44,
+      "end": 2011.98,
+      "speaker": "Presenter",
+      "text": "from the levels of most-aware to problem-aware. I want you",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 349,
+      "start": 2011.98,
+      "end": 2015.38,
+      "speaker": "Presenter",
+      "text": "to fully ignore this.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 350,
+      "start": 2015.82,
+      "end": 2018.86,
+      "speaker": "Presenter",
+      "text": "This right here, unaware, just ignore it, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 351,
+      "start": 2019.68,
+      "end": 2020.22,
+      "speaker": "Presenter",
+      "text": "You don't need it.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 352,
+      "start": 2021.06,
+      "end": 2024.4,
+      "speaker": "Presenter",
+      "text": "It's not for you right now. Past 100k per month we can talk about it, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 353,
+      "start": 2025.08,
+      "end": 2028.1,
+      "speaker": "Presenter",
+      "text": "For now, just understand that when you write--",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 354,
+      "start": 2028.78,
+      "end": 2033.72,
+      "speaker": "Presenter",
+      "text": "Proofread your work. But your ad must go through each stage, okay? So, if you're running a problem-aware ad,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 355,
+      "start": 2034.7,
+      "end": 2039.7,
+      "speaker": "Presenter",
+      "text": "ideally, you go from problem, to solution, to product, to most-aware.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 356,
+      "start": 2040.78,
+      "end": 2046.18,
+      "speaker": "Presenter",
+      "text": "And then if you're running solution-aware, you go from solution-aware to product-aware to most-aware.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 357,
+      "start": 2046.64,
+      "end": 2050.84,
+      "speaker": "Presenter",
+      "text": "And then if you're running product-aware, you go from product-aware straight to most-aware.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 358,
+      "start": 2050.84,
+      "end": 2055.1,
+      "speaker": "Presenter",
+      "text": "All right, \"Here's this product, blah, blah, blah, blah, blah, and here's ours and here's why it's better,\" okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 359,
+      "start": 2055.94,
+      "end": 2058.14,
+      "speaker": "Presenter",
+      "text": "So just understand that when you're writing copy,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 360,
+      "start": 2058.96,
+      "end": 2062.44,
+      "speaker": "Presenter",
+      "text": "usually, the higher awareness level you go, the longer your copy will be.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 361,
+      "start": 2063.44,
+      "end": 2067.5,
+      "speaker": "Presenter",
+      "text": "Why? Well, you need to communicate a problem,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 362,
+      "start": 2067.5,
+      "end": 2071.6,
+      "speaker": "Presenter",
+      "text": "and you need to communicate your solution, and you need to- a lot of times, educate people on this stuff.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 363,
+      "start": 2072.46,
+      "end": 2077.0,
+      "speaker": "Presenter",
+      "text": "Solution, they need education on your solution, specifically, and why it's better than the other ones, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 364,
+      "start": 2077.0,
+      "end": 2081.76,
+      "speaker": "Presenter",
+      "text": "For example, people who struggle with cravings, which is the ad that I'm writing, there's so many different solutions,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 365,
+      "start": 2082.52,
+      "end": 2086.7,
+      "speaker": "Presenter",
+      "text": "right? You can just, I don't know, go on a water fast or you could just",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 366,
+      "start": 2086.7,
+      "end": 2092.9,
+      "speaker": "Presenter",
+      "text": "eat like lots of vegetables instead or whatever it is, right? Or just eat one meal a day,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 367,
+      "start": 2092.9,
+      "end": 2099.26,
+      "speaker": "Presenter",
+      "text": "or you could try this supplement, or you could try this fat bur- Whatever, there's so many different things. But my point is is that the",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 368,
+      "start": 2099.26,
+      "end": 2104.34,
+      "speaker": "Presenter",
+      "text": "further up you go in awareness levels, the more that you have to justify what you're saying.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 369,
+      "start": 2104.34,
+      "end": 2112.6,
+      "speaker": "Presenter",
+      "text": "Now, if you guys don't know what this is, it's very, very simple. I'm going to pull up a graphic, 'cause I thought there was actually an explanation here, but let me pull up a graphic to explain market awareness levels to you guys",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 370,
+      "start": 2112.6,
+      "end": 2114.28,
+      "speaker": "Presenter",
+      "text": "very, very quickly, and trust me, guys,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 371,
+      "start": 2114.76,
+      "end": 2122.76,
+      "speaker": "Presenter",
+      "text": "when I was first learning this, like I- Oh, my gosh, I- I've read so many things, and I- and I just- and I just tried to understand it, and everybody was getting upsold. Um,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 372,
+      "start": 2122.76,
+      "end": 2126.28,
+      "speaker": "Presenter",
+      "text": "I tried so hard to understand, but I'm going to try to make this as simple as possible for you guys.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 373,
+      "start": 2126.28,
+      "end": 2128.06,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 6,
+      "timing": "interpolated"
+    },
+    {
+      "id": 374,
+      "start": 2128.06,
+      "end": 2128.64,
+      "speaker": "Presenter",
+      "text": "Most-aware",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 375,
+      "start": 2128.64,
+      "end": 2136.1,
+      "speaker": "Presenter",
+      "text": "means that they know of your product and what it does, but they haven't gotten around to purchasing yet.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 376,
+      "start": 2136.88,
+      "end": 2137.04,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 377,
+      "start": 2138.24,
+      "end": 2146.54,
+      "speaker": "Presenter",
+      "text": "So, they just know what your product is. And I know, because a lot of you guys are going to want examples, I'm going to go ahead and pull up an example, as well. All right, so here's the example of a most-aware ad,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 378,
+      "start": 2147.04,
+      "end": 2149.72,
+      "speaker": "Presenter",
+      "text": "okay? It says, \"Everyday Dose, I want my money back,\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 379,
+      "start": 2150.24,
+      "end": 2152.68,
+      "speaker": "Presenter",
+      "text": "right? They're calling out the brand, Everyday Dose.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 380,
+      "start": 2153.06,
+      "end": 2157.26,
+      "speaker": "Presenter",
+      "text": "Now, just for the sake of simplicity, I want you to understand that it's like,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 381,
+      "start": 2157.26,
+      "end": 2160.34,
+      "speaker": "Presenter",
+      "text": "usually, when you're starting with your brand, it's like that's most-aware.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 382,
+      "start": 2160.76,
+      "end": 2166.1,
+      "speaker": "Presenter",
+      "text": "You're just saying like, \"Hey, this is our brand.\" Like, straightaway you're just starting with it. And I've had this question before, as well, market awareness",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 383,
+      "start": 2166.86,
+      "end": 2171.52,
+      "speaker": "Presenter",
+      "text": "really applies to kind of where the hook starts and leading in to everything else,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 384,
+      "start": 2171.52,
+      "end": 2176.84,
+      "speaker": "Presenter",
+      "text": "okay? And you can just see it. It's like, \"I want my money back,\" and then it's just getting into like this product that they bought,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 385,
+      "start": 2176.84,
+      "end": 2179.99,
+      "speaker": "Presenter",
+      "text": "right? And it's all about the brand. They're not really going much further than that.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 386,
+      "start": 2179.99,
+      "end": 2181.67,
+      "speaker": "Presenter",
+      "text": "Then we have product-aware,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 387,
+      "start": 2182.19,
+      "end": 2186.13,
+      "speaker": "Presenter",
+      "text": "right? Now here's an example of product-aware for the same brand, okay? I think",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 388,
+      "start": 2186.13,
+      "end": 2189.49,
+      "speaker": "Played audio",
+      "text": "I think I just got scammed. I ordered a bag",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 389,
+      "start": 2189.49,
+      "end": 2192.87,
+      "speaker": "Played audio",
+      "text": "of this coffee, but they sent me this entire box. I didn't",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 390,
+      "start": 2192.87,
+      "end": 2195.19,
+      "speaker": "Played audio",
+      "text": "realize you get five free gifts when you order the coffee",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 391,
+      "start": 2195.19,
+      "end": 2197.55,
+      "speaker": "Played audio",
+      "text": "completely free from this video only. This viral",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 392,
+      "start": 2197.55,
+      "end": 2198.73,
+      "speaker": "Presenter",
+      "text": "copy is top rated,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 393,
+      "start": 2199.19,
+      "end": 2203.83,
+      "speaker": "Presenter",
+      "text": "and so what I want you to notice here is they didn't say Everyday Dose. They just said, \"I ordered this",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 394,
+      "start": 2203.83,
+      "end": 2208.57,
+      "speaker": "Presenter",
+      "text": "coffee,\" okay? And so we're at this product-aware level. And to show you guys another",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 395,
+      "start": 2208.57,
+      "end": 2211.19,
+      "speaker": "Presenter",
+      "text": "product-aware ad, here's another one here where it says,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 396,
+      "start": 2211.19,
+      "end": 2217.73,
+      "speaker": "Presenter",
+      "text": "\"The hollow-fiber revolution that's making cardiologists trash their own compression socks happened completely by accident.\"",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 397,
+      "start": 2217.73,
+      "end": 2222.57,
+      "speaker": "Presenter",
+      "text": "You know, so, \"Why do most compression socks...?\" So here, they're basically talking about their",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 398,
+      "start": 2222.57,
+      "end": 2227.73,
+      "speaker": "Presenter",
+      "text": "product, which are compression socks. They're not talking about all kind of socks in general, but they're",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 399,
+      "start": 2227.73,
+      "end": 2231.77,
+      "speaker": "Presenter",
+      "text": "talking about this new mechanism for this specific product. So the hollow-fiber",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 400,
+      "start": 2231.77,
+      "end": 2237.07,
+      "speaker": "Presenter",
+      "text": "revolution that's making cardiologists trash their own compression socks. Now, this is kind of getting into,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 401,
+      "start": 2237.07,
+      "end": 2242.09,
+      "speaker": "Presenter",
+      "text": "like, some education and a little bit of unaware, cuz people might not know what the hollow-fiber is,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 402,
+      "start": 2242.09,
+      "end": 2246.71,
+      "speaker": "Presenter",
+      "text": "but I don't want to confuse you guys. I just want you guys to know that they're talking about compression socks here,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 403,
+      "start": 2246.71,
+      "end": 2251.89,
+      "speaker": "Presenter",
+      "text": "which is what they sell. It's in their category, right? They're talking about the compression",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 404,
+      "start": 2251.89,
+      "end": 2258.17,
+      "speaker": "Presenter",
+      "text": "socks, okay? Another one here as well is, again, \"Five reasons why you need these shirts,\" okay? They didn't say, \"Five reasons",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 405,
+      "start": 2258.17,
+      "end": 2263.97,
+      "speaker": "Presenter",
+      "text": "why you need True Classic,\" although this is a True Classic ad. They just said, \"Five reasons why you need these shirts: they're designed to be tighter",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 406,
+      "start": 2263.97,
+      "end": 2268.57,
+      "speaker": "Presenter",
+      "text": "around your arms, chest, and shoulders,\" right? So this is product-aware. We're talking about shirts, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 407,
+      "start": 2269.37,
+      "end": 2274.13,
+      "speaker": "Presenter",
+      "text": "Solution-aware. Now, for solution-aware, I don't even know if I actually have an example of solution-aware",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 408,
+      "start": 2274.17,
+      "end": 2279.71,
+      "speaker": "Presenter",
+      "text": "in here, because I think, for a lot of people, when we get— Yeah, I don't even have an example in here. Let me Let me just pull one up for you guys.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 409,
+      "start": 2279.91,
+      "end": 2283.23,
+      "speaker": "Presenter",
+      "text": "All right, this is a really gross video, but this basically just says like,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 410,
+      "start": 2283.23,
+      "end": 2289.91,
+      "speaker": "Presenter",
+      "text": "\"Ever wonder why tick preventatives don't work anymore? Like, don't seem to work anymore? It's like my vet's shocking revelation.\"",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 411,
+      "start": 2289.91,
+      "end": 2294.01,
+      "speaker": "Presenter",
+      "text": "Basically, we're talking about tick preventatives, so we didn't actually say",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 412,
+      "start": 2294.01,
+      "end": 2299.91,
+      "speaker": "Presenter",
+      "text": "a specific mechanism. Like, we didn't say— You know, we We are kind of getting into a mechanism",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 413,
+      "start": 2299.91,
+      "end": 2304.29,
+      "speaker": "Presenter",
+      "text": "around tick preventatives, but there's a lot of different type of tick preventatives. There's sprays,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 414,
+      "start": 2304.29,
+      "end": 2308.93,
+      "speaker": "Presenter",
+      "text": "right? There's, you know, shots that you can get. There's, apparently, those tools that you can pull out,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 415,
+      "start": 2308.93,
+      "end": 2313.11,
+      "speaker": "Presenter",
+      "text": "all that kind of stuff. So we kind of named a category. Just know, when you're talking about solutions,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 416,
+      "start": 2313.27,
+      "end": 2317.29,
+      "speaker": "Presenter",
+      "text": "it's kind of like a category, more or less. But, you know, they know there's a solution",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 417,
+      "start": 2317.29,
+      "end": 2321.69,
+      "speaker": "Presenter",
+      "text": "to their problem, but they don't know any specific products to solve it, right? So that specific",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 418,
+      "start": 2321.69,
+      "end": 2327.15,
+      "speaker": "Presenter",
+      "text": "ad would be kind of targeting people who know their dog has ticks, but like they just like, you know, they're not really sure",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 419,
+      "start": 2327.15,
+      "end": 2332.83,
+      "speaker": "Presenter",
+      "text": "which solution, cuz they just don't really work— none of them are really working, sort of thing. So we're kind of starting at the solution. The problem",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 420,
+      "start": 2332.83,
+      "end": 2338.49,
+      "speaker": "Presenter",
+      "text": "is— And this is where a lot of you guys get confused, cuz it's like, \"Well, isn't that the problem, like the solutions don't work? Isn't that a problem?\"",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 421,
+      "start": 2338.99,
+      "end": 2343.51,
+      "speaker": "Presenter",
+      "text": "Yeah, like don't overcomplicate it. But here, for example, this is a true problem-aware,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 422,
+      "start": 2343.51,
+      "end": 2349.29,
+      "speaker": "Presenter",
+      "text": "where it says like, \"What if I told you everything you know about dandruff is wrong?\" Or this one over here, where I believe they say,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 423,
+      "start": 2350.17,
+      "end": 2355.79,
+      "speaker": "Presenter",
+      "text": "\"Here's the easiest way,\" using \"easiest,\" \"to get rid of dandruff,\" right? And so we're talking about the problem.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 424,
+      "start": 2355.79,
+      "end": 2359.85,
+      "speaker": "Presenter",
+      "text": "Dandruff is not a product; dandruff is a problem, right? And so",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 425,
+      "start": 2359.85,
+      "end": 2364.83,
+      "speaker": "Presenter",
+      "text": "hopefully that makes sense. If you guys are confused on the solution-aware, don't just don't worry about it, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 426,
+      "start": 2365.17,
+      "end": 2368.27,
+      "speaker": "Presenter",
+      "text": "Most people make problem-aware ads, product-aware ads, and most-aware ads.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 427,
+      "start": 2368.27,
+      "end": 2373.45,
+      "speaker": "Presenter",
+      "text": "The important thing to know is that when you're creating problem-aware ads, you ideally want to go through",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 428,
+      "start": 2373.45,
+      "end": 2379.25,
+      "speaker": "Presenter",
+      "text": "the funnel, okay? And so here, again, when we're starting a problem-aware, ideally we want to talk about the problem,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 429,
+      "start": 2379.25,
+      "end": 2384.47,
+      "speaker": "Presenter",
+      "text": "and then we want to talk about those other solutions that are out there and why they suck, and then we want to talk about why this solution",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 430,
+      "start": 2384.47,
+      "end": 2387.61,
+      "speaker": "Presenter",
+      "text": "specifically is better, and then how ours is the best.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 431,
+      "start": 2388.67,
+      "end": 2394.15,
+      "speaker": "Presenter",
+      "text": "Now, I'm actually watching this ad right here, and and I love this ad because it's actually a great example where it talks about the problem",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 432,
+      "start": 2394.15,
+      "end": 2398.23,
+      "speaker": "Presenter",
+      "text": "and this guy's clearly an authority, and he's saying like a lot of people use oils. Again,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 433,
+      "start": 2398.47,
+      "end": 2403.13,
+      "speaker": "Presenter",
+      "text": "now we're getting into solution, right? People use oils to basically try to fix",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 434,
+      "start": 2403.13,
+      "end": 2407.87,
+      "speaker": "Presenter",
+      "text": "their problem, and then they get into the product, or it's actually it's it's not a— Well, this ad does a good job, but",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 435,
+      "start": 2407.87,
+      "end": 2413.09,
+      "speaker": "Presenter",
+      "text": "it's this ad here, right? Where it's talking about here, it's like, oh, people lose oils and that's not the solution",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 436,
+      "start": 2413.09,
+      "end": 2417.03,
+      "speaker": "Presenter",
+      "text": "that you need to use because dandruff is actually caused by this. And then it says like,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 437,
+      "start": 2417.03,
+      "end": 2421.11,
+      "speaker": "Presenter",
+      "text": "\"That's why you need to use this shampoo, and Flakes is the best shampoo, because it has this and that,\"",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 438,
+      "start": 2421.27,
+      "end": 2425.61,
+      "speaker": "Presenter",
+      "text": "and then it gets into, you know, the social proof, the anti, you know, dandruff shampoo, all that kind of stuff,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 439,
+      "start": 2425.81,
+      "end": 2430.19,
+      "speaker": "Presenter",
+      "text": "okay? And so that is where we kind of go from problem-aware, solution-aware, product-aware, and then obviously most-aware. And sometimes,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 440,
+      "start": 2430.19,
+      "end": 2433.83,
+      "speaker": "Presenter",
+      "text": "product and most-aware can be blended. I just want you guys to understand that you",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 441,
+      "start": 2433.83,
+      "end": 2438.67,
+      "speaker": "Presenter",
+      "text": "do need to be aware of this, but don't let this confuse you. Don't be like, \"Oh shoot, I need to do problem-aware ads,\"",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 442,
+      "start": 2438.67,
+      "end": 2443.05,
+      "speaker": "Presenter",
+      "text": "or, \"Oh, I need to do solution-aware.\" Like, just write whatever feels natural to you,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 443,
+      "start": 2443.05,
+      "end": 2447.09,
+      "speaker": "Presenter",
+      "text": "and then again, be aware of what you're writing, okay? So if you have a product-aware",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 444,
+      "start": 2447.09,
+      "end": 2451.89,
+      "speaker": "Presenter",
+      "text": "ad that's working really well, maybe be like, \"Okay, how could I turn this into more of a problem-aware ad? How could",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 445,
+      "start": 2451.89,
+      "end": 2456.43,
+      "speaker": "Presenter",
+      "text": "I maybe add more to this to sit in the problem and like resonate with more",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 446,
+      "start": 2456.43,
+      "end": 2460.75,
+      "speaker": "Presenter",
+      "text": "people who potentially aren't fully aware of our product or who are just kind of immune to like product ads,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 447,
+      "start": 2460.75,
+      "end": 2464.75,
+      "speaker": "Presenter",
+      "text": "and we need to speak to them directly about their problem,\" okay? So that is that.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 448,
+      "start": 2464.75,
+      "end": 2468.75,
+      "speaker": "Presenter",
+      "text": "That is everything that you guys need to know around copywriting for now.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 449,
+      "start": 2469.31,
+      "end": 2473.49,
+      "speaker": "Presenter",
+      "text": "Big credits to Alex Hormozi, big credits to Kyle Milligan, and big credits,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 450,
+      "start": 2473.79,
+      "end": 2478.97,
+      "speaker": "Presenter",
+      "text": "of course, the goat, Eugene. There's a few other copywriting specialists. I think there's some copywriting greats.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 451,
+      "start": 2478.97,
+      "end": 2483.35,
+      "speaker": "Presenter",
+      "text": "I can't think cuz it's it's getting late. But my point is is that these guys",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 452,
+      "start": 2483.35,
+      "end": 2488.03,
+      "speaker": "Presenter",
+      "text": "are incredible. They are the ones that came with this information. Big shout-out to Kyle as well, and actually Adam—",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 453,
+      "start": 2488.03,
+      "end": 2492.75,
+      "speaker": "Presenter",
+      "text": "I don't know if, Adam, you would ever be watching this, but gave me kind of shed the light on this guy, and",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 454,
+      "start": 2492.75,
+      "end": 2497.35,
+      "speaker": "Presenter",
+      "text": "at the end of the day, I want you guys to know that this skill is, again,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 455,
+      "start": 2497.35,
+      "end": 2501.29,
+      "speaker": "Presenter",
+      "text": "one of the best skills that you can have. And although I know that",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 456,
+      "start": 2501.29,
+      "end": 2506.09,
+      "speaker": "Presenter",
+      "text": "some of you are just going to want to get straight in and just use the prompt and be brainless, and I I know some of you will do that,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 457,
+      "start": 2506.09,
+      "end": 2512.45,
+      "speaker": "Presenter",
+      "text": "really committing to this and really being like, \"Okay, I'm going to try to get as good as I can at copy, I'm going to use this",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 458,
+      "start": 2512.45,
+      "end": 2517.41,
+      "speaker": "Presenter",
+      "text": "tracker, and I'm going to, you know, go in here and and write copy, and read copy, and and think of new",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 459,
+      "start": 2517.41,
+      "end": 2522.23,
+      "speaker": "Presenter",
+      "text": "ideas every single day and get better.\" I promise you, like if you actually do",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 460,
+      "start": 2522.23,
+      "end": 2526.81,
+      "speaker": "Presenter",
+      "text": "that, you will— you are going to get to where you want to go, okay? That's all I'll say. But",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 461,
+      "start": 2526.93,
+      "end": 2531.93,
+      "speaker": "Presenter",
+      "text": "with that said, I hope you guys enjoyed this video. I can't wait to upload, again for those of you that are watching this straight away,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 462,
+      "start": 2531.93,
+      "end": 2537.51,
+      "speaker": "Presenter",
+      "text": "the videos tomorrow about the script that I wrote, and then we're going to talk about how to edit the videos, and I promise it'll all be done by the end of the week.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 463,
+      "start": 2537.51,
+      "end": 2543.05,
+      "speaker": "Presenter",
+      "text": "And I again, I just hope this is helpful for you guys to get psyched up, get ready to go, and, most importantly, take action.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 464,
+      "start": 2543.05,
+      "end": 2545.71,
+      "speaker": "Presenter",
+      "text": "All right, I will see you guys in the next module below.",
+      "chunk": 7,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 140.4,
+      "end": 142.1,
+      "label": "laughter"
+    },
+    {
+      "start": 376.95,
+      "end": 378.45,
+      "label": "chuckle"
+    },
+    {
+      "start": 683.03,
+      "end": 684.63,
+      "label": "laughter"
+    },
+    {
+      "start": 732.53,
+      "end": 733.83,
+      "label": "laughter"
+    },
+    {
+      "start": 844.33,
+      "end": 845.53,
+      "label": "laughter"
+    },
+    {
+      "start": 1141.62,
+      "end": 1143.72,
+      "label": "laughter"
+    },
+    {
+      "start": 1303.61,
+      "end": 1305.21,
+      "label": "laughter"
+    },
+    {
+      "start": 1365.91,
+      "end": 1367.51,
+      "label": "laughter"
+    },
+    {
+      "start": 1566.51,
+      "end": 1568.31,
+      "label": "laughter"
+    },
+    {
+      "start": 1689.57,
+      "end": 1690.77,
+      "label": "chuckle"
+    },
+    {
+      "start": 1815.57,
+      "end": 1816.77,
+      "label": "laughter"
+    },
+    {
+      "start": 1898.97,
+      "end": 1900.17,
+      "label": "laughter"
+    }
+  ]
+}

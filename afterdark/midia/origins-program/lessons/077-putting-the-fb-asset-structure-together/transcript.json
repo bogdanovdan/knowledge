@@ -1,0 +1,902 @@
+{
+  "lesson": {
+    "num": 77,
+    "id": "077-putting-the-fb-asset-structure-together",
+    "title": "Putting The FB Asset Structure Together",
+    "section": "🛡️ How To Set Up FB Assets",
+    "video": "77. Putting The FB Asset Structure Together Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 388.011,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=148dbf1f55ad4055b42c3aa417b089fe"
+  },
+  "generated_at": "2026-10-06T20:24:09-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (82% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 1122,
+    "matched_tokens": 923,
+    "match_ratio": 0.823,
+    "segments_aligned": 90,
+    "segments_partly_aligned": 1,
+    "segments_interpolated": 1,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Played audio",
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 266.238,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 251.1,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 266.238,
+      "end": 388.011,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.997,
+      "wpm": 273.0,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.44,
+      "end": 3.08,
+      "speaker": "Presenter",
+      "text": "Okay, here's how to put all of your Facebook ad assets together.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 3.56,
+      "end": 8.96,
+      "speaker": "Presenter",
+      "text": "So you've learned how to create a Business Manager, your pixel, your profiles, your pages already, and your ad accounts.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 9.36,
+      "end": 11.28,
+      "speaker": "Presenter",
+      "text": "How do you actually invite each other to each?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 12.08,
+      "end": 14.42,
+      "speaker": "Presenter",
+      "text": "So, three Business Managers over here today.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 14.58,
+      "end": 16.48,
+      "speaker": "Presenter",
+      "text": "Let's see the first one we're going to go through.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 17.2,
+      "end": 20.28,
+      "speaker": "Presenter",
+      "text": "It's the one that's going to be the pixel only with three-plus real profiles.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 21.3,
+      "end": 23.24,
+      "speaker": "Presenter",
+      "text": "So first of all, why do you need real profile?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 23.68,
+      "end": 26.06,
+      "speaker": "Presenter",
+      "text": "So in this case I only have two. How do you add them in?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 26.06,
+      "end": 29.7,
+      "speaker": "Presenter",
+      "text": "Simple. You have click the Invite People button.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 30.18,
+      "end": 34.86,
+      "speaker": "Presenter",
+      "text": "Let's say put in an email address here, yadayada@gmail.com.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 38.16,
+      "end": 41.44,
+      "speaker": "Presenter",
+      "text": "Next, give them admin access. It's all your real profiles.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 41.98,
+      "end": 44.36,
+      "speaker": "Presenter",
+      "text": "If it's your real profiles, just it's fine, give them everything.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 45.4,
+      "end": 47.76,
+      "speaker": "Presenter",
+      "text": "Access to everything inside here as well, just tick everything here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 49.54,
+      "end": 50.66,
+      "speaker": "Presenter",
+      "text": "Give them full access to everything.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 51.1,
+      "end": 54.32,
+      "speaker": "Presenter",
+      "text": "Tick next, and then there's going to be invitation, invite, and that's it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 55.12,
+      "end": 58.26,
+      "speaker": "Presenter",
+      "text": "So let's say I invite yadayada@gmail.com.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 60.82,
+      "end": 63.24,
+      "speaker": "Presenter",
+      "text": "So I would then have three profiles. Why do I need three profiles?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 64.68,
+      "end": 68.22,
+      "speaker": "Presenter",
+      "text": "So if you only have one profile, and it gets banned,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 69.54,
+      "end": 73.46,
+      "speaker": "Presenter",
+      "text": "you lose access to everything connected to this uh Facebook profile,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 73.8,
+      "end": 75.66,
+      "speaker": "Presenter",
+      "text": "which means if you're running ads on your ad account,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 75.66,
+      "end": 77.96,
+      "speaker": "Presenter",
+      "text": "and your Facebook profile gets banned,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 77.96,
+      "end": 79.82,
+      "speaker": "Presenter",
+      "text": "you can't access your Business Manager,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 79.82,
+      "end": 82.7,
+      "speaker": "Presenter",
+      "text": "which means you can't access your ad account, which means anything that was running",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 82.7,
+      "end": 86.34,
+      "speaker": "Presenter",
+      "text": "is basically just stopped or lost, and you can't recover it anymore,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 87.14,
+      "end": 92.42,
+      "speaker": "Presenter",
+      "text": "which is why we always have backups. If one gets banned, you still have other other profiles to have access to the Business Manager.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 92.88,
+      "end": 95.28,
+      "speaker": "Presenter",
+      "text": "This way you are safe. So always have three.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 96.2,
+      "end": 97.58,
+      "speaker": "Presenter",
+      "text": "So in this case, what are we going to do?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 98.16,
+      "end": 100.54,
+      "speaker": "Presenter",
+      "text": "We learned how to set up the Facebook pixel already through Shopify.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 101.52,
+      "end": 106.16,
+      "speaker": "Presenter",
+      "text": "So pixel only, how do we then share it to the Business Manager 2, in this case?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 107.14,
+      "end": 107.48,
+      "speaker": "Presenter",
+      "text": "Good question.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 108.28,
+      "end": 109.44,
+      "speaker": "Presenter",
+      "text": "So let's go to Business Manager 2.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 110.88,
+      "end": 116.96,
+      "speaker": "Presenter",
+      "text": "Over here, simple trick to get the business ID is this URL has a business ID behind it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 117.74,
+      "end": 122.48,
+      "speaker": "Presenter",
+      "text": "The last part of this The last part of this ID is blurred just uh just for my privacy,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 123.34,
+      "end": 126.38,
+      "speaker": "Presenter",
+      "text": "but you guys just need to copy the whole string of numbers over here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 126.96,
+      "end": 129.54,
+      "speaker": "Presenter",
+      "text": "This is the Business Manager ID, then right click, click on copy.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 130.7,
+      "end": 132.48,
+      "speaker": "Presenter",
+      "text": "So this is the Business Manager that's going to hold everything.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 133.56,
+      "end": 134.54,
+      "speaker": "Presenter",
+      "text": "Let's go back to Business Manager 1.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 135.28,
+      "end": 138.22,
+      "speaker": "Presenter",
+      "text": "Let's click on Data Sources to the datasets and pixels.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 138.94,
+      "end": 140.94,
+      "speaker": "Presenter",
+      "text": "It says Chic Wave Accessories over here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 141.62,
+      "end": 145.12,
+      "speaker": "Presenter",
+      "text": "I want to assign this to the new holding BM.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 145.6,
+      "end": 148.26,
+      "speaker": "Presenter",
+      "text": "Click on Partners, click Assign partner,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 149.6,
+      "end": 151.94,
+      "speaker": "Presenter",
+      "text": "input your Business Manager ID, paste it in,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 152.4,
+      "end": 154.9,
+      "speaker": "Presenter",
+      "text": "Full, manage events dataset, click Assign.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 156.46,
+      "end": 159.2,
+      "speaker": "Presenter",
+      "text": "And that's it. Now if you go back to Business Manager 2,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 161.12,
+      "end": 164.74,
+      "speaker": "Presenter",
+      "text": "let's look at datasets and pixels, see if it's here yet. It says Request Pending.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 165.64,
+      "end": 171.56,
+      "speaker": "Presenter",
+      "text": "Click it, just accept the stuff, and then just refresh your page, then it should show up.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 174.48,
+      "end": 177.68,
+      "speaker": "Presenter",
+      "text": "There we go. Now you have it connected to your Business Manager already.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 178.68,
+      "end": 182.88,
+      "speaker": "Presenter",
+      "text": "Then, Business Manager 3, where you host your ad accounts, where you create ad accounts,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 183.08,
+      "end": 185.1,
+      "speaker": "Presenter",
+      "text": "let's say I already created my ad account here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 186.56,
+      "end": 190.34,
+      "speaker": "Presenter",
+      "text": "Cosmo Cosmo Projectors, simple. In this page, click on Partners again,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 191.28,
+      "end": 191.98,
+      "speaker": "Presenter",
+      "text": "Assign partner,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 191.98,
+      "end": 196.42,
+      "speaker": "Presenter",
+      "text": "input the same Business Manager ID from Business Manager 2,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 197.46,
+      "end": 199.34,
+      "speaker": "Presenter",
+      "text": "full manage ad account access, click assign.",
+      "chunk": 0,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 54,
+      "start": 202.28,
+      "end": 202.92,
+      "speaker": "Presenter",
+      "text": "You're done.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 204.84,
+      "end": 207.16,
+      "speaker": "Presenter",
+      "text": "Then, go to Ad accounts in Business Manager 2.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 208.54,
+      "end": 211.86,
+      "speaker": "Presenter",
+      "text": "So actually, th- this this is the ad account that was shared.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 212.9,
+      "end": 214.7,
+      "speaker": "Presenter",
+      "text": "So I have access to it now.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 215.26,
+      "end": 217.66,
+      "speaker": "Presenter",
+      "text": "So what do you need to do from here? A few things.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 218.64,
+      "end": 220.61,
+      "speaker": "Presenter",
+      "text": "Go back to Data Sources in Business Manager 2,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 223.31,
+      "end": 225.21,
+      "speaker": "Presenter",
+      "text": "click on Connected Assets,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 226.13,
+      "end": 228.87,
+      "speaker": "Presenter",
+      "text": "Connect assets, and then connect it to the ad account attached.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 229.65,
+      "end": 234.67,
+      "speaker": "Presenter",
+      "text": "Now you you've just uh assigned the ad account, I mean the pixel to the ad account.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 235.17,
+      "end": 235.53,
+      "speaker": "Presenter",
+      "text": "Great.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 236.81,
+      "end": 242.37,
+      "speaker": "Presenter",
+      "text": "Then next thing you need to do, go back to People. The people you have in Business Manager 2,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 243.21,
+      "end": 248.55,
+      "speaker": "Presenter",
+      "text": "you have to click uh on the dot over here, assign assets,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 249.07,
+      "end": 251.43,
+      "speaker": "Presenter",
+      "text": "then assign all the assets that you just added.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 252.09,
+      "end": 258.21,
+      "speaker": "Presenter",
+      "text": "My ad account, full control, my pixel, which is here the dataset over here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 258.21,
+      "end": 263.69,
+      "speaker": "Presenter",
+      "text": "Pixels got renamed to datasets, manage the best data set, assign assets.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 263.69,
+      "end": 268.17,
+      "speaker": "Presenter",
+      "text": "Manage events dataset, assign assets,",
+      "chunk": 0,
+      "timing": "interpolated"
+    },
+    {
+      "id": 70,
+      "start": 268.17,
+      "end": 272.59,
+      "speaker": "Presenter",
+      "text": "takes some time, but great, now you can run ads on it. We're not going to be",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 272.59,
+      "end": 275.23,
+      "speaker": "Presenter",
+      "text": "attaching the Facebook page to the Business Manager",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 275.23,
+      "end": 280.73,
+      "speaker": "Presenter",
+      "text": "because you want it connected to the ad account only. So let me show you how it works now.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 281.59,
+      "end": 285.23,
+      "speaker": "Presenter",
+      "text": "Now, I mean, I'm on Business Manager 2, I have this ad account here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 286.75,
+      "end": 289.17,
+      "speaker": "Presenter",
+      "text": "I say, I want to create a new ad, sales campaign,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 292.09,
+      "end": 295.05,
+      "speaker": "Presenter",
+      "text": "this is a test for you guys. If I go to the ad level,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 297.25,
+      "end": 300.71,
+      "speaker": "Presenter",
+      "text": "let me change the objective here. Sales objective.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 301.91,
+      "end": 307.47,
+      "speaker": "Presenter",
+      "text": "There's the- there's going to be modules afterwards that teach you actually how to set up the- the campaign, so don't worry about this.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 307.99,
+      "end": 311.55,
+      "speaker": "Presenter",
+      "text": "I said how to set it up for sales. I just want to show you how it all looks like now.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 312.83,
+      "end": 315.37,
+      "speaker": "Presenter",
+      "text": "So on the ad set level, ad sets over here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 316.15,
+      "end": 320.67,
+      "speaker": "Presenter",
+      "text": "it's going to be your dataset, which you can then select your pixel.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 321.63,
+      "end": 323.33,
+      "speaker": "Presenter",
+      "text": "Conversion event is always going to be purchase.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 326.97,
+      "end": 330.21,
+      "speaker": "Presenter",
+      "text": "Don't need to worry too much about this, cuz if you set up through Shopify, everything is pretty much straightforward.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 330.21,
+      "end": 332.79,
+      "speaker": "Presenter",
+      "text": "I want to show you that you can actually access everything only.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 334.05,
+      "end": 338.93,
+      "speaker": "Presenter",
+      "text": "So, if you remember, in the previous step, the Facebook page was connected to my Facebook profile.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 339.69,
+      "end": 342.77,
+      "speaker": "Presenter",
+      "text": "So if I look at it now, if I type \"the BM backup for Origins\",",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 343.47,
+      "end": 347.79,
+      "speaker": "Presenter",
+      "text": "you don't even need the page to be connected to the Business Manager, and you can still use it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 348.09,
+      "end": 354.27,
+      "speaker": "Presenter",
+      "text": "For Instagram account, you may opt to create one as well. Most people don't really, you can just choose to create a Facebook page first,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 355.69,
+      "end": 363.59,
+      "speaker": "Presenter",
+      "text": "then the ad account- you know, the- Instagram page will run under the same name as the back- the Facebook page.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 366.93,
+      "end": 370.39,
+      "speaker": "Presenter",
+      "text": "That's pretty much it. So you've already learned over here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 370.39,
+      "end": 374.29,
+      "speaker": "Presenter",
+      "text": "how to set up the three BMs, how to share the access to each other.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 375.11,
+      "end": 381.01,
+      "speaker": "Presenter",
+      "text": "Then you're pretty much good to start running ads on Business Manager 2, just open Ads Manager, seems like I mentioned here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 381.01,
+      "end": 386.79,
+      "speaker": "Played audio",
+      "text": "Free audio post-production by auphonic.com.",
+      "chunk": 1,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": []
+}

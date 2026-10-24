@@ -1,0 +1,1308 @@
+{
+  "lesson": {
+    "num": 20,
+    "id": "020-why-you-must-know-your-numbers-with-new-offers",
+    "title": "Why you MUST know your numbers with new offers",
+    "section": "🏷️ How to Create Offers",
+    "video": "20. Why you MUST know your numbers with new offers Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 991.083,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=e02ff5a306064fd5a0bcb2772d845676"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (95% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 3848,
+    "matched_tokens": 3667,
+    "match_ratio": 0.953,
+    "segments_aligned": 132,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 319.038,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.901,
+      "wpm": 227.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 319.038,
+      "end": 626.863,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.988,
+      "wpm": 226.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 626.863,
+      "end": 881.7,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.895,
+      "wpm": 216.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 881.7,
+      "end": 991.083,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.998,
+      "wpm": 220.3,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.88,
+      "speaker": "Presenter",
+      "text": "All right. So, in this video, we're going to be talking about what types of offers that you can actually run. And I'm just going to jump straight in",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 5.88,
+      "end": 12.24,
+      "speaker": "Presenter",
+      "text": "because this is something that, again, is it's it's very simple, and you don't need to overcomplicate it. Okay? I'm going to walk through",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 12.24,
+      "end": 20.82,
+      "speaker": "Presenter",
+      "text": "how to actually create an offer as well using the offer sheet that we have. But I need to make sure that it's very clear that you understand what you're about to get into",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 20.82,
+      "end": 29.94,
+      "speaker": "Presenter",
+      "text": "and that when you're optimizing an offer around your product, okay, that you make it, you know, as as best as you can make it or make it in a",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 29.94,
+      "end": 38.74,
+      "speaker": "Presenter",
+      "text": "in a way that's like, okay, it's good value, but you also still have, you know, good margins, okay? Now, the first note that I always tell everyone when it comes to offer building is offers are kind of like drugs,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 39.4,
+      "end": 46.48,
+      "speaker": "Presenter",
+      "text": "okay? They're very addicting, and they can definitely take your ROAS from like a 2x to a 4x overnight like very quickly.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 47.12,
+      "end": 52.28,
+      "speaker": "Presenter",
+      "text": "And they can pump your conversion rate, and you can basically find a way to just start making way more money, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 52.8,
+      "end": 62.08,
+      "speaker": "Presenter",
+      "text": "But it can often times become impossible to get off of, and, you know, you can be overly reliant on offers specifically. Now, if you ask me,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 62.08,
+      "end": 69.64,
+      "speaker": "Presenter",
+      "text": "because a lot of you you're probably not building the next Rolex, or you're probably not building, you know, the next David's Protein, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 70.26,
+      "end": 79.04,
+      "speaker": "Presenter",
+      "text": "This is probably just going to be, for a lot of you, a brand where you just kind of make your first money, you make your first brand, right? And then your first brand doesn't have",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 79.04,
+      "end": 87.6,
+      "speaker": "Presenter",
+      "text": "to be, you know, this this massive mega brand. And it still can be, I want you guys to understand that, that this is not me trying to, like, create a limiting belief for you. But you have to understand that",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 87.6,
+      "end": 97.26,
+      "speaker": "Presenter",
+      "text": "you guys don't have the skill set yet to go build a world-class brand, and so be a- like, just it's okay that if you're just trying to make a great offer and provide a lot of value, okay? There's still",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 97.26,
+      "end": 103.38,
+      "speaker": "Presenter",
+      "text": "massive brands that run offers all the time. You just have to understand that if you're wanting this approach of like,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 103.38,
+      "end": 110.88,
+      "speaker": "Presenter",
+      "text": "\"Oh, I'm going to be this very sophisticated brand that doesn't run offers,\" it's like, okay, unless you have an insanely unique product, like you",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 110.88,
+      "end": 120.52,
+      "speaker": "Presenter",
+      "text": "R&D'd the hell out of it, and like, you know, the the example that I give is, you know, one of our brands that we work with called Carepod. Like, they have an incredibly world-class product, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 120.88,
+      "end": 129.5,
+      "speaker": "Presenter",
+      "text": "You know, this is a stainless steel humidifier, and they are literally innovating and leading kind of the humidifier space, okay? And so,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 129.5,
+      "end": 135.32,
+      "speaker": "Presenter",
+      "text": "they kind of have the ability to just like sit on a bit of a high horse and say, \"We're not running offers.\" But even then,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 136.02,
+      "end": 146.78,
+      "speaker": "Presenter",
+      "text": "they're still running some kind of an offer here, okay? You can save $126 on this product, right? And so, at the end of the day, offers, this is not to scare you, I'm just letting you know",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 146.98,
+      "end": 157.12,
+      "speaker": "Presenter",
+      "text": "that they can be they can be very addictive, okay? So, you need to make sure that when you create offers, you think through them. And most importantly, as we get into note number two here, that you really",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 157.12,
+      "end": 163.58,
+      "speaker": "Presenter",
+      "text": "understand your margins at the new offer that you create, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 163.62,
+      "end": 174.46,
+      "speaker": "Presenter",
+      "text": "Now, I do not want to lose you guys, and so I've made this ridiculously simple, and this will also help a lot of you actually set your target ROAS, which we're going to get into in like how to like scale your ads.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 174.46,
+      "end": 182.18,
+      "speaker": "Presenter",
+      "text": "But you guys should know this already, and if you don't know what ROAS is, again, it's return on ad spend. So, break-even ROAS essentially just means like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 182.18,
+      "end": 192.22,
+      "speaker": "Presenter",
+      "text": "how what your ROAS like if you are below this ROAS, you are losing money, or most of the time if you're at this ROAS, you're probably still losing money when you consider things like processing fees",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 192.22,
+      "end": 201.24,
+      "speaker": "Presenter",
+      "text": "and, you know, other little fees, and maybe operational costs and all that kind of stuff. And and not saying you include operational costs at by any means into your break-even ROAS, that's dumb,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 201.46,
+      "end": 210.1,
+      "speaker": "Presenter",
+      "text": "but processing fees, for sure. And at the end of the day, I just want you guys to know that like we always try to round this number up a little bit. And so, for example,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 210.94,
+      "end": 220.02,
+      "speaker": "Presenter",
+      "text": "if your currently, you know, if your ROAS that you're at right now, let's say you're spending $200 a day, and you're at a 2x ROAS, and your break-even is a 1.43,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 220.48,
+      "end": 229.16,
+      "speaker": "Presenter",
+      "text": "which just means that you have 70% gross profit, okay? And if you're like, \"Spencer, slow the hell down,\" okay, I have this calculator here for you, and before you guys say it's broken,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 229.48,
+      "end": 240.2,
+      "speaker": "Presenter",
+      "text": "sometimes you just have to like re-punch in the numbers, okay? So, if you change this to 0.7, sometimes it won't update properly. So, again, you have to delete the number, punch it back in, and then you'll notice it'll kind of like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 240.28,
+      "end": 249.62,
+      "speaker": "Presenter",
+      "text": "re-correct itself. So, if I change this to $10,000 in spend, you'll notice that it might not be accurate. So, again, delete the ROAS number, punch it back in. Okay, now we're good.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 249.98,
+      "end": 261.82,
+      "speaker": "Presenter",
+      "text": "We also are including service fees and performance fees over here, because obviously we're an agency. So here, when you delete it, if you don't put a 0 back in here, it's not going to work. Again, if you don't put a 0, if you delete performance fee",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 261.82,
+      "end": 272.76,
+      "speaker": "Presenter",
+      "text": "and don't put a 0, it's not going to work. And so, when you're doing this stuff, you just sometimes need to re-jig the numbers to make sure it's 100% accurate, okay? And so, as you can see here, I just changed my profit",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 272.76,
+      "end": 282.54,
+      "speaker": "Presenter",
+      "text": "margin to 80%, and this number didn't change, so what are we going to do? We're going to go in and we're going to update this, and now you can see now it's 30,000 rather than 25. And if you want to be 100% sure,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 282.7,
+      "end": 292.24,
+      "speaker": "Presenter",
+      "text": "clear this number out as well, and then now you there you go, now you can see the profit that's coming in, okay? And so, this is a completely side tangent here, but I just want you guys I I know this calculator",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 292.24,
+      "end": 301.92,
+      "speaker": "Presenter",
+      "text": "is a little bit glitchy, but we have different ways of finding our target ROAS now, so we don't really use this as much. But this is just a nice little bonus for you guys to understand your numbers, because I know a lot of you",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 301.92,
+      "end": 310.56,
+      "speaker": "Presenter",
+      "text": "might not even know what a break-even ROAS is or know how to calculate your break-even ROAS, okay? And so, how you calculate your break-even ROAS is you go here, and you take your gross profit,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 311.1,
+      "end": 318.2,
+      "speaker": "Presenter",
+      "text": "okay? \"Spencer, I don't know what my gross profit is.\" Okay, amazing. Well, let's figure that out, okay? So, if the price of your product is $50,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 318.82,
+      "end": 319.62,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 319.86,
+      "end": 325.3,
+      "speaker": "Presenter",
+      "text": "What you want to do here is you want the cost of your product plus your cost of shipping,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 325.3,
+      "end": 334.22,
+      "speaker": "Presenter",
+      "text": "and I would even add in processing fees as well if you can, but if that's too much for you, just don't worry about it. If your cost of product and shipping, let's say, is $15,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 335.04,
+      "end": 339.06,
+      "speaker": "Presenter",
+      "text": "okay? And again, sometimes you have to punch the numbers in twice, okay, so we'll reset it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 339.06,
+      "end": 348.96,
+      "speaker": "Presenter",
+      "text": "Now we can see, okay, our product is 50, our cost of product and shipping is 70 or sorry, is 15, that means our gross profit margin is 70%,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 348.96,
+      "end": 349.8,
+      "speaker": "Presenter",
+      "text": "okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 350.24,
+      "end": 354.9,
+      "speaker": "Presenter",
+      "text": "And so, in this instance as well, if you guys are charging for shipping, so say you charge $5 for shipping,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 355.36,
+      "end": 360.26,
+      "speaker": "Presenter",
+      "text": "say your product on the site is 50, your product or your shipping is also another $5,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 360.84,
+      "end": 366.2,
+      "speaker": "Presenter",
+      "text": "well, then you need to add that in, and again, reset the numbers here just so you can confirm this number is 100% accurate.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 366.62,
+      "end": 370.88,
+      "speaker": "Presenter",
+      "text": "Now you can see that your gross profit margin is 0.73%.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 370.88,
+      "end": 375.7,
+      "speaker": "Presenter",
+      "text": "Okay, so now what do we do with this? Well, we take this and we put this number up here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 375.84,
+      "end": 382.98,
+      "speaker": "Presenter",
+      "text": "and again, sometimes you just need to reset it, just I always recommend delete a number and put it back. It's a little bit glitchy, but, you know, just hang in there with me.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 383.3,
+      "end": 388.96,
+      "speaker": "Presenter",
+      "text": "And now we can see that our breakeven ROAS is 1.37. What we'll always do is we'll usually just round up,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 389.2,
+      "end": 392.54,
+      "speaker": "Presenter",
+      "text": "so in this instance, we would just say that our breakeven ROAS is 1.4,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 392.8,
+      "end": 393.26,
+      "speaker": "Presenter",
+      "text": "okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 393.6,
+      "end": 403.22,
+      "speaker": "Presenter",
+      "text": "And so, now we know that at this price point and at this cost of product and shipping, or at this product price point plus shipping and this cost of product plus shipping,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 403.22,
+      "end": 410.64,
+      "speaker": "Presenter",
+      "text": "this is our gross profit margin, which means our breakeven ROAS, this calculator will show us, is 1.37. We're going to round that up to 1.4,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 411.22,
+      "end": 411.66,
+      "speaker": "Presenter",
+      "text": "okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 412.14,
+      "end": 415.74,
+      "speaker": "Presenter",
+      "text": "And so, the reason why this is important, we haven't even gone to offers yet, like, Spencer, just get into the offers,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 415.74,
+      "end": 420.36,
+      "speaker": "Presenter",
+      "text": "but I'm telling you guys, a lot of you guys are very early on in your journey, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 420.72,
+      "end": 427.86,
+      "speaker": "Presenter",
+      "text": "And you're probably going to be like, \"Okay, I'm going to run this crazy offer.\" You're not going to look at your numbers, and guess what? Your revenue is going to go up, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 427.86,
+      "end": 430.9,
+      "speaker": "Presenter",
+      "text": "Your ROAS is going to go up and you're going to be like, \"Bro, I'm cooking!\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 430.9,
+      "end": 436.28,
+      "speaker": "Presenter",
+      "text": "And then at the end of the month, you'll check your, you know, your actual bank account and you're like, \"Wait, how did I lose money?\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 436.74,
+      "end": 441.92,
+      "speaker": "Presenter",
+      "text": "It's because you didn't know your numbers, okay? And so, like, I wish somebody told me this earlier because I didn't understand this.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 441.92,
+      "end": 449.32,
+      "speaker": "Presenter",
+      "text": "We had brands where we thought we were ripping and ROAS went up, but at the end of the day, we were actually making less money, and I'm going to show you an example of this as well, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 449.78,
+      "end": 453.9,
+      "speaker": "Presenter",
+      "text": "And so, we've conquered a few things here. So, we have, you know, what your ROAS is currently at,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 454.2,
+      "end": 460.54,
+      "speaker": "Presenter",
+      "text": "we have breakeven ROAS, which is 1.43, again, breakeven ROAS is based off of gross profit, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 461.0,
+      "end": 467.2,
+      "speaker": "Presenter",
+      "text": "And you're spending 100k per month, I know these are bigger numbers, but at the end of the day, this means if you're spending 100k",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 467.2,
+      "end": 471.56,
+      "speaker": "Presenter",
+      "text": "and you're getting a 2x ROAS, you're generating 200k in total,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 472.1,
+      "end": 474.92,
+      "speaker": "Presenter",
+      "text": "okay? If that doesn't make sense to you, I don't know how else to explain it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 475.08,
+      "end": 483.42,
+      "speaker": "Presenter",
+      "text": "You're spending 100,000, you're getting a 2x return on ad spend, which means you ever- every dollar you spend you're getting two back, which means you're getting 200,000 in total revenue,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 484.04,
+      "end": 484.18,
+      "speaker": "Presenter",
+      "text": "okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 484.84,
+      "end": 495.94,
+      "speaker": "Presenter",
+      "text": "Now, your gross profit from this is $40,000 because, again, you have 70% of this is, or sorry, 70% of this is profit minus $100,000 in ad spend, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 496.1,
+      "end": 502.88,
+      "speaker": "Presenter",
+      "text": "So, 200k in top-line revenue times our gross profit gives us how much just total profit we have, because again, we're not selling air.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 503.86,
+      "end": 511.16,
+      "speaker": "Presenter",
+      "text": "We have to sell a product, and then we have 100k in ad spend that we have to account for, so 140 - 100 = $40,000,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 511.16,
+      "end": 520.94,
+      "speaker": "Presenter",
+      "text": "and this is gross profit. Now, some of you guys might consider this net profit because you don't really have any other fees in your business, like you don't maybe you don't pay agencies or you don't have team members, whatever it may be,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 521.3,
+      "end": 528.98,
+      "speaker": "Presenter",
+      "text": "but this is your gross profit. Net profit would basically be minus all those other fees, but we're going to focus just for the sake of this on gross profit,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 529.3,
+      "end": 529.6,
+      "speaker": "Presenter",
+      "text": "okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 529.92,
+      "end": 537.24,
+      "speaker": "Presenter",
+      "text": "But let's say you guys get all excited after watching this training and you decide to launch, I'm just going to say an offer, okay, so a new offer, example.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 537.66,
+      "end": 545.7,
+      "speaker": "Presenter",
+      "text": "Okay, so I just went through a a bit of example here, but I'm going to I'm going to try to keep this short because that one got a little bit confusing, so if there was a rough edit there, that's why. Just understand that, okay,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 545.98,
+      "end": 551.1,
+      "speaker": "Presenter",
+      "text": "now if we go ahead and we launch a new offer, okay, let's say we launch a 30% off offer,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 551.5,
+      "end": 551.9,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 552.38,
+      "end": 559.78,
+      "speaker": "Presenter",
+      "text": "And we still stay at a 2x ROAS, you might be like, \"Well, that's kind of dumb,\" but we have to consider elements of scale, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 560.26,
+      "end": 568.16,
+      "speaker": "Presenter",
+      "text": "And so, let's say that this 30% off offer allowed us to basically spend an extra $50,000 a month.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 568.7,
+      "end": 573.32,
+      "speaker": "Presenter",
+      "text": "That's pretty good, right? We were spending 100 at and getting a 2x, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 573.7,
+      "end": 581.46,
+      "speaker": "Presenter",
+      "text": "And now we're spending 150 at a 2x with this 30% off offer because it's a better offer. So, we were able to keep the ROAS the same, but we were able to scale more.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 581.86,
+      "end": 585.82,
+      "speaker": "Presenter",
+      "text": "Now we're doing 300k total. That's pretty awesome, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 586.36,
+      "end": 594.22,
+      "speaker": "Presenter",
+      "text": "But the thing is is we have to factor in the discount, right? So, if you remember up here, we had 70% gross profit,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 594.72,
+      "end": 595.0,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 595.4,
+      "end": 603.72,
+      "speaker": "Presenter",
+      "text": "If we do 50 * 0.3, which is $15, so $50 - 15 for math majors is 35,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 604.38,
+      "end": 610.94,
+      "speaker": "Presenter",
+      "text": "we can see, again, the cost of goods doesn't change, so this stays the same. Our price of product, though, did change,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 611.38,
+      "end": 626.34,
+      "speaker": "Presenter",
+      "text": "and so now if we put this in here, you can see it's 1.75 and what I did is I essentially just rounded up here, like I mentioned you guys to do, which is how if you guys are wondering, how did I get 1.822, I just kind of rounded up to the 55% cuz I actually considered processing fees and whatnot.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 627.3,
+      "end": 635.74,
+      "speaker": "Presenter",
+      "text": "And so here, as you can see, we now have 55% gross profit, and now we're spending, again, a 150k at a 2x ROAS, generating 300.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 636.22,
+      "end": 642.28,
+      "speaker": "Presenter",
+      "text": "But the problem is, is as you can see here, even though we're doing 300k in total revenue now,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 642.32,
+      "end": 650.94,
+      "speaker": "Presenter",
+      "text": "so we're doing a 100k more, we had a 50% increase in revenue, our gross profit actually went down by $25,000.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 651.72,
+      "end": 659.6,
+      "speaker": "Presenter",
+      "text": "We went from making $40,000 a month here to now making $15,000 a month here even though we're making more revenue.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 660.18,
+      "end": 668.82,
+      "speaker": "Presenter",
+      "text": "How does that happen? Well, it happens because of gross profit. 300k in revenue times 0.55 is 165k",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 668.82,
+      "end": 674.92,
+      "speaker": "Presenter",
+      "text": "in GP, which means gross profit, okay? And now, again, we're spending $150,000 on ads,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 674.92,
+      "end": 683.14,
+      "speaker": "Presenter",
+      "text": "so if we subtract 150,000 from this, guess what? We get 15,000. And so this is why it's very important for you guys to know your numbers,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 683.18,
+      "end": 694.68,
+      "speaker": "Presenter",
+      "text": "and you guys can also play around with this in here, because let's say, again, for example, we're spending $10,000 at a 2x ROAS and we have 70% margins, well, we're making $4,000 a month.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 695.06,
+      "end": 707.12,
+      "speaker": "Presenter",
+      "text": "But if our if our margins go down to 55%, and let's say even then we get to a 3x, well, in this instance, look, we're actually making more, right? So that then the offer is smart, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 707.54,
+      "end": 720.18,
+      "speaker": "Presenter",
+      "text": "So we go from 70% profit margins, right, $10,000 at a 2x, we're making $4,000 in total profit. What happens if we drop our margins to 55%, but as a result we're able to increase our ROAS?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 720.58,
+      "end": 729.46,
+      "speaker": "Presenter",
+      "text": "Well, now we're spend Now we're making $6,500 a month, right? So this is awesome. And so this is where you guys can play around with with your numbers and with offers, just to try to see",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 729.76,
+      "end": 740.38,
+      "speaker": "Presenter",
+      "text": "which your new targets need to be. My My My main focus here for you guys is to make sure that you know your numbers. This is This can seem like it's advanced, and I didn't want to turn this into like",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 740.38,
+      "end": 752.08,
+      "speaker": "Presenter",
+      "text": "the importance of knowing your numbers, which now it might actually be its own video, because this video has gone pretty long, it's just important that you guys know your numbers and you know what kind of revenue and profit that you're actually getting at.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 752.22,
+      "end": 761.88,
+      "speaker": "Presenter",
+      "text": "This calculator is here to be your friend. Because, again, if say we just decide to scale, because this is what will happen, guys. You're going to you're going to launch a new offer, your margins get worse, and look,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 762.04,
+      "end": 773.64,
+      "speaker": "Presenter",
+      "text": "you're spending the same amount as you were at 2x, but now your ROAS got better, and you're like, \"All right. Well, let's scale.\" And let's say say you you double your ad spend to 20,000 a month, but then your ROAS comes back down to a 2x,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 773.94,
+      "end": 784.2,
+      "speaker": "Presenter",
+      "text": "well, look at this. Now you're making less money, okay? You're driving more revenue, but you're making less profit. And so that's why it's important to make sure that, as you scale,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 784.84,
+      "end": 797.78,
+      "speaker": "Presenter",
+      "text": "you keep an eye on your numbers, because, ideally, you shouldn't really be going down, you, you know, you should be going past really a 2.2x. Because as soon as you get to around a 2.2 at this kind of scale, based on your margin, you're making less money,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 798.22,
+      "end": 807.78,
+      "speaker": "Presenter",
+      "text": "okay? You're making more revenue, but you're making less profit, which, for a lot of you guys, you need to make profit upfront, especially when you're early stages in your business, okay? And so I'm actually just going to leave this one here.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 807.78,
+      "end": 819.78,
+      "speaker": "Presenter",
+      "text": "Again, we're going to get deeper into how to create an offer, the types of offer that you're going to run. We're actually going to I'm going to put this in the next section, this is going to be how to make sure you don't ruin your yourself. But it's very important that you guys know your numbers, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 819.88,
+      "end": 831.12,
+      "speaker": "Presenter",
+      "text": "So make sure that you're running your numbers, you know, don't do it on a daily basis, but you can do it on a weekly basis, just make sure you're trying to calculate your profit, because there's going to be other expenses that come up, which is why it's important to actually look at your bank account profit",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 831.12,
+      "end": 843.32,
+      "speaker": "Presenter",
+      "text": "and not just what this calculator says. But hopefully this just gives you guys the awareness to understand your numbers, because I didn't know this, and so there was times where I thought, you know, \"Oh, we're making our clients so much more money,\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 843.32,
+      "end": 854.94,
+      "speaker": "Presenter",
+      "text": "but at at the end of it all, he was actually making less because we were scaling at a lower target, or we were we were scaling at the same target despite having lower margins. So you need to basically reset your targets.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 855.1,
+      "end": 866.56,
+      "speaker": "Presenter",
+      "text": "And so my point here is, is you just want to make sure you re-analyze, you know, what your breakeven is here. So let's just say, for example, here our one we we have a 2x target is what we're running at",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 866.56,
+      "end": 877.4,
+      "speaker": "Presenter",
+      "text": "despite only being at a 1.43x, well, we should probably find the delta between this, right? So 2 - 1.43 is 0.57, didn't mean to click calendar,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 877.4,
+      "end": 880.7,
+      "speaker": "Presenter",
+      "text": "and so if we just take this 1.82",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 882.1,
+      "end": 889.7,
+      "speaker": "Presenter",
+      "text": "plus 0.57. That means that we should ideally just not go below a 2.39, and that probably checks out.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 889.7,
+      "end": 893.3,
+      "speaker": "Presenter",
+      "text": "As you can see here, right? 2.39. Well, look at that.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 893.3,
+      "end": 901.74,
+      "speaker": "Presenter",
+      "text": "No matter how much more that we spend here, 40,000, you know, a 100,000, as long as we're not going below this, as you can see, 10,000,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 901.74,
+      "end": 905.66,
+      "speaker": "Presenter",
+      "text": "0.7, at a 2x, is going to make us 4,000,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 905.86,
+      "end": 909.84,
+      "speaker": "Presenter",
+      "text": "but if we reset kind of like our bare minimum target to 2.39",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 909.84,
+      "end": 916.46,
+      "speaker": "Presenter",
+      "text": "at that 0.55 new offer margin, as you can see, we should be safe, no matter how much that we spent, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 916.48,
+      "end": 919.64,
+      "speaker": "Presenter",
+      "text": "We're still going to make more money, no matter how much we spent, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 919.86,
+      "end": 927.0,
+      "speaker": "Presenter",
+      "text": "And so, that's kind of a little cheat code for you if you want to just calculate the delta of which you're currently scaling at. And now, as one final thing,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 927.0,
+      "end": 933.22,
+      "speaker": "Presenter",
+      "text": "we're going to talk about this later in the how to kind of set your targets. I'll just mention it now, but usually what we would do",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 933.22,
+      "end": 940.84,
+      "speaker": "Presenter",
+      "text": "is whatever our 1. what- so, break-even ROAS here is 1.82. As long as we're usually one point above this,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 940.84,
+      "end": 948.5,
+      "speaker": "Presenter",
+      "text": "is what I would say is like healthy to kind of target at, okay? Um, so, this is kind of like our true like, hey, don't really go below this,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 948.86,
+      "end": 958.32,
+      "speaker": "Presenter",
+      "text": "um, with a 0.5, um, but ideally, you know, anything above, um, or anything one, so, let's just say our target is 1. or break-even is 1.82,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 958.46,
+      "end": 963.98,
+      "speaker": "Presenter",
+      "text": "we're just going to add one, so 2.82 becomes our target. If our break-even ROAS is 1.4,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 963.98,
+      "end": 968.86,
+      "speaker": "Presenter",
+      "text": "if we add one, you can see 2.4 is kind of our target, okay? Now, it doesn't have to be add one.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 968.86,
+      "end": 973.5,
+      "speaker": "Presenter",
+      "text": "I usually just tell people to add one as your target, because you'll likely be below your target,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 973.5,
+      "end": 976.96,
+      "speaker": "Presenter",
+      "text": "but if you are ever above it, then you should be scaling, and we're going to get into that,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 976.96,
+      "end": 981.0,
+      "speaker": "Presenter",
+      "text": "but I just wanted to try to cover as much ground on this about knowing your numbers. If you got confused,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 981.0,
+      "end": 986.76,
+      "speaker": "Presenter",
+      "text": "just take a second, take a breather, come back and watch it again, because if you slow it down, you should be able to make sense of it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 986.98,
+      "end": 990.84,
+      "speaker": "Presenter",
+      "text": "The most important thing is just know the profit that you're making, not just the revenue.",
+      "chunk": 3,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 39.1,
+      "end": 40.4,
+      "label": "laughter"
+    },
+    {
+      "start": 135.1,
+      "end": 136.8,
+      "label": "laughter"
+    },
+    {
+      "start": 503.14,
+      "end": 504.14,
+      "label": "chuckle"
+    },
+    {
+      "start": 537.24,
+      "end": 537.84,
+      "label": "pause"
+    }
+  ]
+}

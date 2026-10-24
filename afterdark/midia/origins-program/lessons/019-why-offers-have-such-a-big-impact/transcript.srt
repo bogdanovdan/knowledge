@@ -1,0 +1,231 @@
+1
+00:00:00,000 --> 00:00:05,660
+All right, so in this video, I just wanted to talk about why offers have such a big impact, and if you haven't already,
+
+2
+00:00:05,700 --> 00:00:12,920
+I'm just going to jump straight into the screen here, so you guys can see what's going on. But if you haven't already seen the webinar here
+
+3
+00:00:12,920 --> 00:00:21,400
+where I walk through the 0 to 100k per month, and I talk about, you know, how we went through, and for anyone that's 0 to 10k per month
+
+4
+00:00:21,400 --> 00:00:26,180
+at this point, you know, we created this offer, and this offer specifically took this brand from, you know, losing,
+
+5
+00:00:26,180 --> 00:00:34,860
+or I think they were at like a 0.3x return on ad spend up into the point where they actually ended up getting to about like a 3 to 4x
+
+6
+00:00:34,860 --> 00:00:41,220
+return on ad spend at twice the budget. And so, we're going to get into like offers and types of offers and creating different offers,
+
+7
+00:00:41,560 --> 00:00:49,540
+but you guys will also see here that there is the 'How One Offer Can 2x Ad Spend and 3x Scale', and same thing here.
+
+8
+00:00:49,760 --> 00:00:57,220
+I mean the the offer that we ran for this brand, you know, absolutely crushed it. And trying to show you guys actual ad account shots here
+
+9
+00:00:57,220 --> 00:01:02,720
+if we can get to it. But you guys can see, you know, during those two weeks, performance was terrible, and then, you know,
+
+10
+00:01:02,720 --> 00:01:08,840
+it was like one week later we were, you know, at at like a way better, you know, double the spend and 3x ROAS, okay?
+
+11
+00:01:08,920 --> 00:01:13,500
+And so, I want you to understand that as much as we're getting into, you know, mindset, and mindset's more important than anything,
+
+12
+00:01:14,100 --> 00:01:19,640
+and finding the right products, and this avatar training is very dense, the offer side of things is actually very simple,
+
+13
+00:01:19,640 --> 00:01:26,960
+because what you guys just need to focus on is just creating offers that are good enough or strong enough for you to just
+
+14
+00:01:26,960 --> 00:01:34,020
+kind of eliminate that that thought from your mind of like, 'Oh, is it my landing page or is it my offer?' Because what you'll notice here
+
+15
+00:01:34,020 --> 00:01:39,040
+is there's nothing here that really talks about landing pages. Although in the training, I obviously talk about, you know,
+
+16
+00:01:39,040 --> 00:01:44,800
+the landing page that we built specifically. There's actually another example of this. All right, so over here,
+
+17
+00:01:45,260 --> 00:01:52,840
+you can see I talk about how landing pages like Client A, we were able to spend over $95,000 in 30 days
+
+18
+00:01:52,840 --> 00:01:58,960
+just on testing LPs, okay? And, you know, this is actually mainly driven by offers.
+
+19
+00:01:59,420 --> 00:02:04,320
+So our top landing pages here actually just had a better offer, and it wasn't even that insane of an offer.
+
+20
+00:02:04,500 --> 00:02:09,540
+It was just an extra 10 to 15% off. Here's another example here as well.
+
+21
+00:02:09,780 --> 00:02:14,960
+Again, this is the old method. You guys will see how we test landing pages moving forward in the 'How to Run Ads' section.
+
+22
+00:02:15,520 --> 00:02:21,880
+And when I say landing pages, I'm really just talking about offers, guys, cuz I don't want you thinking about creating advertorials
+
+23
+00:02:21,880 --> 00:02:26,900
+or listicles or all this kind of stuff at your stage. If you're doing less than 100k per month, a lot of that stuff just doesn't matter.
+
+24
+00:02:27,200 --> 00:02:33,980
+What really, really matters is the offer itself. So here's another brand: 13k to 2.8, and then we scaled up to 35 with a 2.5,
+
+25
+00:02:33,980 --> 00:02:39,680
+okay? And again, the difference there was just the offer, okay? There's another one here as well where we had this brand
+
+26
+00:02:40,060 --> 00:02:46,180
+that was spending, I believe we did over $56,000 leading up to Black Friday, you know, $128,000 in spend,
+
+27
+00:02:46,180 --> 00:02:52,960
+and a lot of it was really just focused on—and not $128,000 in spend with a 56k return.
+
+28
+00:02:53,740 --> 00:03:00,240
+I think this was over like the first week of November or a month during November. And a lot of our ads, almost all of our ads,
+
+29
+00:03:00,240 --> 00:03:06,420
+were actually going to an LP again that was just focused on offers, and that offer was buy two, get one free, okay?
+
+30
+00:03:06,440 --> 00:03:12,780
+And again, the reason why offers are so powerful is because they can increase conversion rate, and they can increase AOV.
+
+31
+00:03:13,140 --> 00:03:19,660
+And if you increase both of these, your ROAS can go up massively. Now, understand that ad creatives, you know, increase these three
+
+32
+00:03:19,660 --> 00:03:25,080
+and decrease CPM, which is why ad creatives are the most powerful. But I want you to understand that when we're trying to conquer
+
+33
+00:03:25,080 --> 00:03:32,220
+increasing ROAS so we can spend more on ads, a lot of these pages that we make, although, you know, I talked about things
+
+34
+00:03:32,220 --> 00:03:39,980
+being congruent and all that kind of stuff, was actually the most important is the offer, okay? Every single winning page that we have ever
+
+35
+00:03:39,980 --> 00:03:45,500
+made has honestly just had a better offer, okay? And so, we're going to get into that, and you're going to see that. We're going to talk about
+
+36
+00:03:45,500 --> 00:03:51,620
+the different types of offers that that you guys can run. I'm going to walk through like how to actually create an offer for yourself
+
+37
+00:03:51,620 --> 00:03:56,800
+as well, and I'm going to try to use a bunch of different examples in that. But I just wanted to make this initial video here
+
+38
+00:03:56,800 --> 00:04:02,420
+to help you guys understand that offers are are very, very important, okay? And when I sometimes loosely say LPs or offers,
+
+39
+00:04:02,720 --> 00:04:09,580
+offers are what you guys need to focus on in the early stages, especially when you're trying to like get moving.
+
+40
+00:04:09,580 --> 00:04:16,660
+A lot of times just an offer and a good static ad, like a good offer and a and a decently good static ad using the static ad
+
+41
+00:04:16,660 --> 00:04:22,680
+templates that we've given you guys, and you'll see that in the 'How to Create Ads' section. Just that alone can get you up to 20, 30k
+
+42
+00:04:22,680 --> 00:04:29,240
+a month, sometimes even more. We've scaled brands with literally just statics and a really good offer landing page
+
+43
+00:04:29,240 --> 00:04:35,160
+and, you know, gotten to, you know, 300 to 400k a month, okay? And so, at the end of the day, I want you guys to understand that offers
+
+44
+00:04:35,160 --> 00:04:41,220
+are what is most important. Don't get distracted by advertorials and listicles and congruent pages,
+
+45
+00:04:41,220 --> 00:04:42,980
+and although those do matter, and again,
+
+46
+00:04:43,440 --> 00:04:51,900
+if you're taking the time to go into Pagedeck and build what I would call like an offer style landing page, which is basically just a product page, a lot of you guys don't even need Pagedeck.
+
+47
+00:04:52,040 --> 00:04:56,800
+If you want to just like do this on your main site, now if you already have some sales coming in
+
+48
+00:04:56,800 --> 00:05:03,660
+and all your traffic is going to your main site, I would probably then recommend when I say have some sales coming in, probably like
+
+49
+00:05:03,660 --> 00:05:10,320
+30k-ish a month or 40k-ish a month. At that point, I would definitely recommend just paying for Pagedeck and getting a license to properly test
+
+50
+00:05:10,320 --> 00:05:13,140
+offers inside of Meta. But if you're just starting out, if you're like
+
+51
+00:05:13,480 --> 00:05:21,240
+$1,000 to $10,000 a month, like just just adjust the offer really on your site because it's like, you know, you don't really have anything working anyways.
+
+52
+00:05:21,860 --> 00:05:28,100
+But again, the whole goal is to make the offer better. And we're going to show you guys how to make the offer better. And at the end of the day, we're going to get into that here.
+
+53
+00:05:28,160 --> 00:05:34,760
+So I just wanted to make this initial video to to like show you guys tons of proof of like why offers matter, why offers are just crucial.
+
+54
+00:05:34,760 --> 00:05:40,720
+And for those of you guys that need any more additional proof, it's like there's a reason why Alex Hormozi made that his first book. Okay, so offers are everything.
+
+55
+00:05:41,060 --> 00:05:47,380
+So let's go ahead and and get into it, and talk about, number one, just the type of offers that you can run, and then we'll get into how to actually create an offer.
+
+56
+00:05:47,580 --> 00:05:54,440
+So I'm excited for you guys to go through this. And then again, at the end, with what I'm trying to do with a lot of these sections is actually show you proof of what I'm teaching you working.
+
+57
+00:05:54,440 --> 00:05:59,740
+And again, it's already been there. Some of you guys have probably already watched how one offer can double ad spend and 3x ROAS.
+
+58
+00:06:00,100 --> 00:06:05,440
+And so once you go through this section, if you haven't watched that, you'll be able to see the proof that it actually works, so then it's just a matter of execution.

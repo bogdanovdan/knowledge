@@ -1,0 +1,315 @@
+1
+00:00:00,000 --> 00:00:15,660
+All right. Now, in this video, we're going to go through one of the most powerful things when it comes to marketing and one of the things that has probably made our clients the most amount of money and continues to make our clients an insane amount of money. And honestly, that is going to be new mechanisms.
+
+2
+00:00:16,000 --> 00:00:19,200
+And so, I am very, very excited to jump in. So, let's go ahead and jump in.
+
+3
+00:00:19,360 --> 00:00:25,600
+All right. So, as you can see on screen, what we've done here, and thankfully because of AI, we're going to make this very easy for you guys,
+
+4
+00:00:25,600 --> 00:00:30,740
+but this is how to find and apply new mechanisms on your product, okay?
+
+5
+00:00:30,880 --> 00:00:39,160
+And so literally all you guys will need to do is you will just need to copy this prompt right here, okay?
+
+6
+00:00:39,680 --> 00:00:44,960
+So, you want to copy this prompt, and you're going to go into Claude, so we can load up Claude.
+
+7
+00:00:46,400 --> 00:00:53,360
+And what you're going to do is you're going to paste this prompt right here, if I don't mess it up, into the chat.
+
+8
+00:00:53,360 --> 00:01:07,900
+And you're going to add your product name, so whatever your product name is. So, we can use for an example, if we go to Carepod, we can grab the URL of this product specifically and paste it here underneath the product.
+
+9
+00:01:07,900 --> 00:01:13,420
+Well, that's not product name, that's product URL. And then again, the product name is going to be Carepod 1.
+
+10
+00:01:13,740 --> 00:01:21,240
+And from there, the only other thing that you'll need to do is you will also need to download the doc or the doc here.
+
+11
+00:01:21,240 --> 00:01:25,380
+So, if we go, let me just go ahead and save this, and we go into the market sophistication document,
+
+12
+00:01:25,560 --> 00:01:29,860
+we're going to go here, we're going to click download, and we're going to download as a PDF.
+
+13
+00:01:30,920 --> 00:01:36,440
+And then from there, you're going to drop that in there, and you're just going to hit go, and that's all you need to do, okay?
+
+14
+00:01:36,920 --> 00:01:45,720
+And as a result of that, what will happen is you are going to have the AI basically spot the new mechanisms for you, okay?
+
+15
+00:01:46,000 --> 00:01:56,480
+And so, what's cool is if you know how to use AI, you'll be able to find, it'll be able to find new mechanisms for you. If you know how to prompt it, rather, it'll be able to find mechanisms for you, which might save you a lot of time.
+
+16
+00:01:56,940 --> 00:02:05,200
+Just know that even if you want to do this manually, the key point of this is, again, if we go back to what the what the hell are new mechanisms, right?
+
+17
+00:02:05,640 --> 00:02:17,200
+New mechanisms are basically new technologies that deliver something that people want in a new way, okay? It provides new hope, all right?
+
+18
+00:02:17,540 --> 00:02:21,900
+And even if you want to better understand it, you can actually scroll down here to see what I have told the AI.
+
+19
+00:02:22,500 --> 00:02:29,440
+"The new mechanism strategy introduces new processes, technology, or delivery systems that makes familiar promises fresh and believable.
+
+20
+00:02:29,980 --> 00:02:41,960
+When analyzing new mechanisms, consider new delivery methods, innovative approaches, uncommon ingredients, technologies, or methodologies, specific combinations of existing elements, and contrarian approaches that challenge conventional wisdom."
+
+21
+00:02:42,520 --> 00:02:47,840
+And then here you can see the number one most important thing, "These new mechanisms give people new hope
+
+22
+00:02:47,840 --> 00:02:54,100
+that this product will solve their problem or satisfy/satiate the target desire," okay?
+
+23
+00:02:54,480 --> 00:02:58,860
+And so, if you want to learn [laughter] more about how to do this stuff yourself, just read the prompt.
+
+24
+00:02:59,560 --> 00:03:09,660
+Essentially, if we go back into my little overview doc here, I want to show you guys just actually like how how insane this prompt is that I'm giving you in the fact that this is, I mean, like,
+
+25
+00:03:09,900 --> 00:03:26,600
+I'm not going to lie, like, I did this as a test to see how good the AI would be, and it was literally 100% dead on, or I would say about like 90% dead on with the mechanisms that are literally working in the account, okay? So,
+
+26
+00:03:26,600 --> 00:03:38,640
+it's it's crazy, all right? And I want you to understand that we had worked with this brand for two years before we actually cracked this new mechanism of stainless steel.
+
+27
+00:03:39,020 --> 00:03:46,700
+That's how bad at marketing we were, and you guys are basically getting two years of us being idiots and like the lessons that we learned,
+
+28
+00:03:47,420 --> 00:03:55,800
+that then led to us creating an ad that did very, very, very well for this company. I can't say how much, I can't say what it did, just know it did well, okay?
+
+29
+00:03:56,160 --> 00:04:02,300
+And you guys are getting that for free, and you're actually going to have an AI that might be able to help you find that specific mechanism for you, okay?
+
+30
+00:04:02,480 --> 00:04:16,780
+And so, again, if you go ahead and click that prompt, and before I even show you the Windows, because I actually already have the Windows pulled up for Carepod where I did the prompt just like how I showed you here, so I actually already prompted this, okay?
+
+31
+00:04:17,400 --> 00:04:25,460
+And because I have the Claude, you can see I already did this, I'm not pulling a secret one here on you guys. I already prompted it. I already went through this, okay?
+
+32
+00:04:25,700 --> 00:04:35,920
+And I want you guys to understand that the new mechanism that we had tested, so we we tested this new mechanism back in January. This is actually before I even had the prompt, and the reason why I'm giving you guys this context is because
+
+33
+00:04:35,920 --> 00:04:46,640
+this prompt that I have just made for you actually was able to identify the new mechanism that made this brand and was that led to a breakthrough for this brand,
+
+34
+00:04:47,020 --> 00:04:55,940
+okay? So, that mechanism was stainless steel, and so this led to multiple winners and a lot of variations of this mechanism specifically, okay?
+
+35
+00:04:56,780 --> 00:05:04,060
+attending to the desire of "I want a humidifier that is easy to clean." And essentially, this was the new mechanism that took off for us, okay?
+
+36
+00:05:04,740 --> 00:05:11,920
+What happens when I asked Claude to do this for me, it did the research and guess what the first mechanism it gave me?
+
+37
+00:05:12,960 --> 00:05:18,240
+The medical-grade stainless steel mechanism, okay? [laughter] Most humidifiers use plastic, okay?
+
+38
+00:05:19,480 --> 00:05:24,720
+This all-stainless steel interior represents a fundamental material shift that most competitors haven't adopted.
+
+39
+00:05:25,420 --> 00:05:35,080
+Not another plastic humidifier that grows mold in places you can't see, but the first one built like medical equipment with surgical grade stainless steel that bacteria simply can't survive on.
+
+40
+00:05:35,080 --> 00:05:37,840
+Hook: Why your humidifier might be making you sicker.
+
+41
+00:05:38,300 --> 00:05:42,000
+That's actually a hook that worked well for us. By the way, this is not in a project.
+
+42
+00:05:42,380 --> 00:05:47,400
+This is a random Claude, there's no project here, okay, guys? This prompt did this all on its own.
+
+43
+00:05:48,100 --> 00:05:52,400
+Okay? The next one, guess what it also said: 99.9% sterilization.
+
+44
+00:05:52,840 --> 00:05:59,140
+Well, as a matter of fact, this was actually one of the other main selling points that we had in almost every single ad for this brand.
+
+45
+00:05:59,520 --> 00:06:09,580
+Okay, so this prompt literally was able to identify the number one new mechanism that led to a winning ad for this brand, that took us 2 years,
+
+46
+00:06:10,160 --> 00:06:18,860
+right? So, I'm just trying to help you guys understand like that's why I'm all geeked out right now and kind of like kinda being weird. Like Spencer, chill, it's not that insane, but for me, it's insane because I was grinding for 2 years
+
+47
+00:06:18,860 --> 00:06:28,120
+trying to find a breakthrough for this brand. And we finally came up with stainless steel. We actually worked with the client. The client was like, "Hey, by the way, like have you done anything around stainless steel?" I was like, "Oh, not really."
+
+48
+00:06:28,440 --> 00:06:36,060
+And then as a result of doing that, we realized the power of new mechanisms, which I'm now sharing with you, and now this prompt likely will be able to help you find a new mechanism that could scale. So, if this,
+
+49
+00:06:36,360 --> 00:06:39,660
+you know, it's it's just crazy. Okay, the next one on here,
+
+50
+00:06:39,660 --> 00:06:44,760
+for our dog, Friendly Co, harness brand. I don't want to show the new mechanism yet,
+
+51
+00:06:44,760 --> 00:06:50,100
+but we ran the exact same thing for this brand specifically, okay? Exact same prompt, here it is.
+
+52
+00:06:50,400 --> 00:06:56,540
+Okay? And this says new mechanism analysis for this brand. The first one that it mentioned is One-Click Freedom System,
+
+53
+00:06:56,980 --> 00:07:02,080
+okay? It's actually something that our team has not tested. So, we are going to be testing this, but
+
+54
+00:07:02,080 --> 00:07:06,080
+the second one here was the convertible D-ring system.
+
+55
+00:07:06,720 --> 00:07:08,620
+The second new mechanism that it suggested.
+
+56
+00:07:10,480 --> 00:07:11,780
+I'm not making this up, guys.
+
+57
+00:07:12,780 --> 00:07:22,420
+This was the new mechanism that we just recently tested that led to a winning ad, targeting the desire of, you know, dogs who or people who wanted their dog to stop pulling.
+
+58
+00:07:22,820 --> 00:07:29,940
+This D-ring mechanism, we had not fully tested this yet. We had not fully gone through and actually optimized an ad for this clearly,
+
+59
+00:07:29,940 --> 00:07:36,200
+that helped people understand that this could help people you this could help gain control of your dog, okay, by using this mechanism.
+
+60
+00:07:37,680 --> 00:07:40,640
+This AI listed it as the second best new mechanism for us to test.
+
+61
+00:07:42,640 --> 00:07:48,200
+Pretty crazy, okay? And again, I did not give this eye any this AI any context. The reason why you saw
+
+62
+00:07:48,200 --> 00:07:56,860
+an additional PDF up here is because I accidentally gave it the wrong prompt and I said, "Forget everything from this conversation." And then we started fresh. But I want you to understand
+
+63
+00:07:56,860 --> 00:08:05,940
+that this prompt right here, with your product, might be able to help you find a new mechanism that could scale your brand today. Now, execution is important,
+
+64
+00:08:06,020 --> 00:08:14,780
+okay? Because we did some variations of this and we're going to get into that when it comes to how to make the ads. So, execution is important. This won't just save your your day, but this will help you
+
+65
+00:08:14,780 --> 00:08:24,040
+see a mechanism, okay, that can work, because when we originally did a test, I did a video on this where I don't want to pull it up, well, I'm pulling it up, so what?
+
+66
+00:08:24,300 --> 00:08:30,200
+All right, so here's literally a video for my YouTube channel. This was 6 months ago, guys. So, you guys can see that like this is when we we started
+
+67
+00:08:30,200 --> 00:08:40,420
+going over this, you know, how to make ads that scale to 50k per day. If you guys haven't watched this video, I'd highly recommend watching it. I'll actually include it in the link down below. But here, you can see the world's first stainless steel humidifier,
+
+68
+00:08:40,800 --> 00:08:45,600
+the first doctor-designed humidifier, the world's cleanest humidifier. We tested these and stainless steel
+
+69
+00:08:45,600 --> 00:08:47,740
+was the one that actually worked,
+
+70
+00:08:48,780 --> 00:08:52,060
+okay? And this AI, again, just nailed it on the first try.
+
+71
+00:08:52,480 --> 00:08:59,940
+Okay? And so what I'm trying to help you guys understand is that this specifically, you know, the the process that we went through
+
+72
+00:08:59,940 --> 00:09:08,200
+to test and make this ad, if we if if we had this prompt, we would be light years ahead, and we're actually now using this prompt at the agency to continue to find
+
+73
+00:09:08,200 --> 00:09:17,640
+winners. But I wanted to let you guys know that these two here we did not use this prompt for. We scrambled around, we figured we tried to figure it out, and then we finally came across these new mechanisms,
+
+74
+00:09:17,640 --> 00:09:21,860
+and we tested them and we got them to work, and this AI just nailed it on the first the first try,
+
+75
+00:09:22,600 --> 00:09:29,120
+okay? And so that is the power of new mechanisms. That is how you can find and that is how you can apply new mechanisms
+
+76
+00:09:29,120 --> 00:09:37,120
+from your product, or find them on your product and apply them into your ads to get them to to essentially create ads that can scale,
+
+77
+00:09:37,600 --> 00:09:46,560
+okay? So, there you go. That is the new mechanisms module. These modules are going to be straight to the point and like try to be as value-packed as possible. It's going to be a lot of prompts to help you guys,
+
+78
+00:09:46,560 --> 00:09:51,380
+you know, basically use them in a way that is effective. And again, give you examples of how we did this,
+
+79
+00:09:51,780 --> 00:10:02,040
+and hopefully, this is valuable to you guys. And hopefully, this helps you find more winning ads and find new angles for you to absolutely crush it this Q4 and beyond.

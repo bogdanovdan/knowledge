@@ -1,0 +1,1379 @@
+{
+  "lesson": {
+    "num": 52,
+    "id": "052-putting-it-all-together-origins-version",
+    "title": "Putting It All Together (Origins Version)",
+    "section": "📢 How To Create Ads",
+    "video": "52. Putting It All Together (Origins Version) Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1021.504,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=8dae879e22df4f7b89d8a5b63497bd22"
+  },
+  "generated_at": "2026-10-06T20:24:08-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (96% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 4159,
+    "matched_tokens": 3993,
+    "match_ratio": 0.96,
+    "segments_aligned": 143,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 348.909,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.998,
+      "wpm": 227.7,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 348.909,
+      "end": 661.852,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.999,
+      "wpm": 237.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 661.852,
+      "end": 1021.504,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 246.6,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.5,
+      "speaker": "Presenter",
+      "text": "All right, guys. So, we have made it all the way to the end of putting it all together inside of the avatar training, as well as the angles and everything else. And so,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 8.5,
+      "end": 15.96,
+      "speaker": "Presenter",
+      "text": "what we're going to do is we're just going to walk through some examples here of how to put it all together and how you can see everything come to life. Again, this is the foundation for",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 15.96,
+      "end": 25.08,
+      "speaker": "Presenter",
+      "text": "how to plan ads, and how to actually create ads that, you know, are are sought out, and not just spammed, right? That's the whole goal of this training,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 25.08,
+      "end": 34.44,
+      "speaker": "Presenter",
+      "text": "is like you guys are actually putting a lot of intent into your ad plans so that when you create the ads, they come out so much better, okay? And so, this is an example",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 34.44,
+      "end": 41.44,
+      "speaker": "Presenter",
+      "text": "of a concept that we have which was called the Nutella ad, and again, just as a reminder for you guys, this is actually in the Origins program.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 42.02,
+      "end": 50.24,
+      "speaker": "Presenter",
+      "text": "And so, if you guys see here, under the \"How to Create Ads\" section, there's 13 winning static ads and breakdown. This Nutella template is actually right here. And so, the concept",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 50.24,
+      "end": 57.64,
+      "speaker": "Presenter",
+      "text": "that was made here was very simple. It was this is bread, this is breakfast. This was the idea that we had, right? And so, we used the template here",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 57.64,
+      "end": 66.7,
+      "speaker": "Presenter",
+      "text": "to actually create these, which is awesome, and maybe the person who actually made this ad is in Origins. I don't know if they are. I think I think they might be.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 67.6,
+      "end": 76.96,
+      "speaker": "Presenter",
+      "text": "He didn't actually have this training when he when he made these ads. But what I wanted to show you here is an example of like how this can be broken down. So,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 76.96,
+      "end": 87.1,
+      "speaker": "Presenter",
+      "text": "for example here, this concept here is the Nutella ad, okay? And so, the angles are we just have two very very very broad angles, and so just for the sake of of of this training,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 87.28,
+      "end": 96.04,
+      "speaker": "Presenter",
+      "text": "like, just don't don't worry about how broad this confidence versus control angle is. And, on top of that, a lot of you there was questions from some people in Evolve as well that,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 96.04,
+      "end": 104.48,
+      "speaker": "Presenter",
+      "text": "you know, these two are very similar. They're like the same ad, but I'm going to break down and show you how they're different, okay? And so, the angles here that we're testing",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 104.48,
+      "end": 114.1,
+      "speaker": "Presenter",
+      "text": "are confidence and control, okay? And so, because you guys are doing the sub-avatar strategy and then coming up with angles where it's like, you know,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 114.1,
+      "end": 121.02,
+      "speaker": "Presenter",
+      "text": "a harness that gives you the person confidence, like that could be the actual more specific angle. Or here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 121.02,
+      "end": 128.34,
+      "speaker": "Presenter",
+      "text": "you know, a harness that gives, you know, a the person control over their dog. Like that is that is the angle, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 128.54,
+      "end": 136.72,
+      "speaker": "Presenter",
+      "text": "But, because you guys are starting with sub-avatars, let's just say our desire is wants to stop their dog from pulling. These two angles have the exact same core desire, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 136.88,
+      "end": 143.84,
+      "speaker": "Presenter",
+      "text": "They have the exact same core desire-based avatar. And then, from here, you can see there's different product experiences. So, has tried traditional harnesses.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 144.32,
+      "end": 151.0,
+      "speaker": "Presenter",
+      "text": "Emotion here is maybe they feel embarrassed walking their dog, and their behaviors, they avoid walking their dog in certain situations. And then, here, we have product experience.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 151.0,
+      "end": 158.86,
+      "speaker": "Presenter",
+      "text": "It's tried multiple harnesses, and it did not stop the dog from pulling. The emotion is like they just kind of feel frustrated that harnesses don't work. And so,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 158.86,
+      "end": 164.36,
+      "speaker": "Presenter",
+      "text": "the two variations that we have here are, \"This is a harness. This is confidence.\" And then we have, \"This is pulling. This is control.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 164.36,
+      "end": 173.9,
+      "speaker": "Presenter",
+      "text": "And the format here is, again, static graphic design, like you guys will see inside of the formats. So, every ad format that you can use, you guys can find that in there.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 174.24,
+      "end": 182.48,
+      "speaker": "Presenter",
+      "text": "And then the testing method here is Marksman, okay? And the reason why it's Marksman is because, again, we're testing two different angles. Whenever we're testing multiple angles in an ad, it's Marksman,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 182.78,
+      "end": 192.36,
+      "speaker": "Presenter",
+      "text": "okay? So, very simple, right? Now, the explanation here is, in the ads above, we're actually testing two different sub-avatars here, aka angles, right? And one of them is talking about confidence and the other",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 192.36,
+      "end": 198.76,
+      "speaker": "Presenter",
+      "text": "is talking about control, okay? So, down here, referencing that traditional harnesses are basically just",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 198.76,
+      "end": 210.24,
+      "speaker": "Presenter",
+      "text": "pulling mechanisms, but this new harness is obviously the better solution, okay? And so, here, again, we are testing two different angles with one variation of each, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 210.44,
+      "end": 220.36,
+      "speaker": "Presenter",
+      "text": "So, we're not testing the control angle with three different variations. We're only testing the control angle with one variation, just like how we're testing the confidence angle with one with one variation,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 220.72,
+      "end": 227.44,
+      "speaker": "Presenter",
+      "text": "okay? Now, there is actually a third ad. I just only put two for the sake of it like fitting nicely in the doc, and you guys like being able to see it. The three just looked ugly.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 227.44,
+      "end": 234.54,
+      "speaker": "Presenter",
+      "text": "Just know there was a third concept or third variation here, but just don't worry about it, okay? And so, again, cuz that's that's the 3-2-2, right? If we go to the definition,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 234.92,
+      "end": 243.56,
+      "speaker": "Presenter",
+      "text": "3-2-2 is our testing structure that we use, and you guys will see that in the \"How to Run Ads\" section as well, okay? And so, that is just an example of using Marksman strategy,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 243.64,
+      "end": 252.86,
+      "speaker": "Presenter",
+      "text": "and again, because we're going to keep things simple, whenever you're doing image ads, you should or initial image ads, you should always just test Marksman, and although these don't look massively different,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 252.86,
+      "end": 260.34,
+      "speaker": "Presenter",
+      "text": "again, if you look at these ads, this is going after a completely different angle. Where we're saying, \"Hey, this is a harness and this is confidence,\" and then, here, we're saying, \"This is pulling, this is control,\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 260.88,
+      "end": 269.24,
+      "speaker": "Presenter",
+      "text": "right? And so, again, if this ad works, let's say that, \"This is pulling. This is control,\" is the ad that works, well, what are we going to do? We're going to double down on this idea of control,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 269.58,
+      "end": 278.8,
+      "speaker": "Presenter",
+      "text": "and guess what? We're going to go search more about this person who wants who wants more control of their dog, right? What are some of their behaviors? Like, what are they doing to try to keep control of their dog?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 279.0,
+      "end": 288.28,
+      "speaker": "Presenter",
+      "text": "Because I would assume, if this is working, maybe they've tried a harness to get control of the dog and it's not working, right? But this harness actually is, right? Or we're showing that it is, and so",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 288.28,
+      "end": 295.84,
+      "speaker": "Presenter",
+      "text": "that could be the reason why this is working, and then we might go and test a different format. Maybe we'll go and do a video about how this harness makes your dog pull,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 295.96,
+      "end": 304.72,
+      "speaker": "Presenter",
+      "text": "and then this harness actually allows you to have control because of a specific new mechanism, okay? So, you guys can see how everything gets put together. Now, another example over here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 304.72,
+      "end": 312.16,
+      "speaker": "Presenter",
+      "text": "for number two here, is the concept of shift worker experience. So, what we were wanting to do is we were wanting to go after shift workers,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 312.3,
+      "end": 320.66,
+      "speaker": "Presenter",
+      "text": "and so the concept explanation here is we're now optimizing individual ads for night shift workers and that sub-avatar, okay? So, I didn't break it down fully",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 320.66,
+      "end": 330.22,
+      "speaker": "Presenter",
+      "text": "like I did up here. But, again, if you have a sub-avatar that's about night shift workers, and you know their behaviors, their emotions, or whatever else you have in your sub-avatar, again, the angle here is to sleep better during the day,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 330.22,
+      "end": 338.34,
+      "speaker": "Presenter",
+      "text": "okay, with total darkness. That's what we're going after. And so, the variations that we have here are graveyard shift, \"I'm finding it impossible to sleep in the morning.\" This is the one hook that we had.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 338.86,
+      "end": 346.62,
+      "speaker": "Presenter",
+      "text": "\"Night shift is killing me,\" and then, \"Night shift job, but I can't sleep all day. My life has taken a quick downturn.\" And so, what you'll notice about this is this is three different ways",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 346.62,
+      "end": 348.58,
+      "speaker": "Presenter",
+      "text": "of communicating this angle.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 349.0,
+      "end": 354.14,
+      "speaker": "Presenter",
+      "text": "Right? And so the format here that you'll see is subtitles with B-roll. So there's all the three hooks, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 354.48,
+      "end": 361.1,
+      "speaker": "Presenter",
+      "text": "And then the testing method is what? It's sniper method, because again we're focusing on just one angle. If there's one angle, we're going sniper method.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 361.1,
+      "end": 366.6,
+      "speaker": "Presenter",
+      "text": "And for most of you guys in Origins, if you're going to do a video, you should go sniper method, okay? Focus on your best angle,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 366.86,
+      "end": 371.36,
+      "speaker": "Presenter",
+      "text": "and then in the variation side of things you're going to communicate that angle in different ways, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 371.36,
+      "end": 375.44,
+      "speaker": "Presenter",
+      "text": "And we're going to talk a little bit more about execution in the modules coming up. But explanation here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 375.46,
+      "end": 383.72,
+      "speaker": "Presenter",
+      "text": "this is an example of getting a direction from a marksman method test, and then optimizing the rest of the hold and the ad for the specific sub-avatar to make it more relatable.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 384.04,
+      "end": 389.46,
+      "speaker": "Presenter",
+      "text": "And just so you guys know, this actually did come from a marksman test. We did a very simple marksman test where we tested a bunch of different sub-avatars,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 389.46,
+      "end": 394.24,
+      "speaker": "Presenter",
+      "text": "and we found that night shift workers was getting direction, and so we made a ad around it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 394.32,
+      "end": 402.3,
+      "speaker": "Presenter",
+      "text": "If you take a look at this specifically, right, graveyard shift, I'm finding it impossible to sleep, and then it gets into this ad right here. Says fix your sleep, five-minute whatever, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 402.4,
+      "end": 407.4,
+      "speaker": "Presenter",
+      "text": "And then it talks about like join 10,000-plus night shift workers. Now, you'll notice the rest of this ad is very simple.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 407.5,
+      "end": 414.56,
+      "speaker": "Presenter",
+      "text": "What I have actually told my team to do and we completed a feedback loop is that we needed to get more into actual night shift working,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 414.56,
+      "end": 418.98,
+      "speaker": "Presenter",
+      "text": "or night shift workers specifics rather than general things, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 419.1,
+      "end": 424.34,
+      "speaker": "Presenter",
+      "text": "Cuz like this has nothing to do with night shift workers. This also has nothing to do with night shift workers, and neither's neither's this, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 424.66,
+      "end": 429.98,
+      "speaker": "Presenter",
+      "text": "This is all general stuff, right? So if we wanted to make this better, what we could potentially say is like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 429.98,
+      "end": 433.0,
+      "speaker": "Presenter",
+      "text": "\"Sleep better during the day with 100% darkness,\" right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 433.3,
+      "end": 438.46,
+      "speaker": "Presenter",
+      "text": "That is really going to relate with someone who literally says, \"Finding it impossible to sleep in the morning,\" right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 438.66,
+      "end": 442.14,
+      "speaker": "Presenter",
+      "text": "We can just say, \"Sleep better in the morning with 100% darkness.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 442.3,
+      "end": 449.22,
+      "speaker": "Presenter",
+      "text": "That would be much more congruent and much more relatable to the actual night shift working avatar rather than just saying \"fix your sleep,\" right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 449.36,
+      "end": 454.76,
+      "speaker": "Presenter",
+      "text": "I mean, does it still work? Potentially. But there's nothing really that is relatable here except for this final one.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 455.08,
+      "end": 461.5,
+      "speaker": "Presenter",
+      "text": "But even then, like we should have added more here to be more specific. Now, this was just like a quick little short ad that you can see,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 461.76,
+      "end": 468.28,
+      "speaker": "Presenter",
+      "text": "but, you know, I would have I would have made this much more congruent and I would have used this hold, because what you'll see here as I play this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 468.28,
+      "end": 476.16,
+      "speaker": "Presenter",
+      "text": "is that all of these ads have the exact same hold, and so this is a strategy that you'll see from an execution standpoint where we take three different hooks",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 476.16,
+      "end": 483.9,
+      "speaker": "Presenter",
+      "text": "again, and we use the same hold. So here's third separate hook here, right? Night shift job, but I can't sleep all day, right? And then it's the exact same hold.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 484.1,
+      "end": 490.14,
+      "speaker": "Presenter",
+      "text": "So this hold should have been much more optimized if you ask me, but that is an example of sniper method where we're just communicating this three different ways.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 490.2,
+      "end": 496.92,
+      "speaker": "Presenter",
+      "text": "And my point with this is is if you're going to do sniper method, like go in on it. Make make the best ad that you can.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 497.1,
+      "end": 504.62,
+      "speaker": "Presenter",
+      "text": "Now, if it's an initial test and you just want to make like a shorter quick ad like this, that's fine. But if you know that night shift workers are working",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 504.62,
+      "end": 509.04,
+      "speaker": "Presenter",
+      "text": "or if you know a specific sub-avatar is working, focus on making the most relatable",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 509.04,
+      "end": 515.14,
+      "speaker": "Presenter",
+      "text": "complete ads that you can rather than just trying to make the the hooks relatable, okay? Now, example one and two,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 515.14,
+      "end": 521.04,
+      "speaker": "Presenter",
+      "text": "okay, we're going to go through this marksman method and sniper deep dive, okay? And so again, for images, it's very easy to test",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 521.04,
+      "end": 527.72,
+      "speaker": "Presenter",
+      "text": "the marksman method. You have your three different angles, you test them congruently and that's it, okay? And so with image ads, you should always be testing",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 527.72,
+      "end": 533.72,
+      "speaker": "Presenter",
+      "text": "marksman method unless you have a true winner that you want to optimize further. But as much as images are simple and easy to test,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 534.18,
+      "end": 543.34,
+      "speaker": "Presenter",
+      "text": "most people suck at execution and can get turned off from an angle because they screwed up the execution part, okay? So just because static ads seem simple",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 543.34,
+      "end": 549.14,
+      "speaker": "Presenter",
+      "text": "to make does not mean that they're easy, okay? Now, the question here is how do you test the marksman method with videos?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 549.14,
+      "end": 555.94,
+      "speaker": "Presenter",
+      "text": "And so for those of you that are like, you know, courageous enough or like, you know, you feel like you're smart enough to also apply marksman method to video,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 555.94,
+      "end": 561.2,
+      "speaker": "Presenter",
+      "text": "you can, okay? I don't have an example in here for you because I don't want to confuse you guys,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 561.2,
+      "end": 565.6,
+      "speaker": "Presenter",
+      "text": "but if you are like, \"Hey, you know what, I do kind of want to do some video marksman tests,\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 565.72,
+      "end": 570.0,
+      "speaker": "Presenter",
+      "text": "it's very simple, okay? As long as your hold is relevant to the core avatar,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 570.74,
+      "end": 572.92,
+      "speaker": "Presenter",
+      "text": "right? So if we go back up here for this specifically,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 572.92,
+      "end": 578.88,
+      "speaker": "Presenter",
+      "text": "the core avatar wants their dog to stop pulling. So we could have done a video ad about getting your confidence back,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 578.88,
+      "end": 584.46,
+      "speaker": "Presenter",
+      "text": "that has a hook about getting confidence back, and another one that has a hook about getting control of your dog, and another one that has,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 584.46,
+      "end": 590.08,
+      "speaker": "Presenter",
+      "text": "you know, a hook of, I don't know, something else. As long as it all leads back to wanting their dog to stop pulling,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 590.46,
+      "end": 594.28,
+      "speaker": "Presenter",
+      "text": "then that's fine, right? And so again, put in terms of this avatar training,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 594.38,
+      "end": 599.76,
+      "speaker": "Presenter",
+      "text": "as long as your hold, so everything after the first 3 to 10 seconds, and the reason why I say 10 seconds is sometimes",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 599.76,
+      "end": 605.68,
+      "speaker": "Presenter",
+      "text": "we extend the hook, and so we make the hook even more relatable for 3 to 10 seconds, and then we get into a generic hold,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 606.06,
+      "end": 610.44,
+      "speaker": "Presenter",
+      "text": "but you guys don't need to worry about that. Just know the hook is like the first 2 to 3 seconds for majority of you.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 610.76,
+      "end": 614.78,
+      "speaker": "Presenter",
+      "text": "And as long as the hold, so everything else after that, is relevant to the core avatar that you're targeting,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 615.14,
+      "end": 619.18,
+      "speaker": "Presenter",
+      "text": "then you're fine, okay? Just know that when you're testing the marksman method with video,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 619.18,
+      "end": 624.66,
+      "speaker": "Presenter",
+      "text": "focus on making the hooks more specific and the holds more generic, okay? And so I did have an example above.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 624.96,
+      "end": 631.58,
+      "speaker": "Presenter",
+      "text": "So when we actually did a video marksman's test for this brand specifically, we tested these three different like POVs.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 631.64,
+      "end": 638.6,
+      "speaker": "Presenter",
+      "text": "Like POV, you work the night shift. POV, you're a light sleeper. POV, you have insomnia. These are This POV strategy is an execution strategy that we're going to get into,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 638.6,
+      "end": 644.42,
+      "speaker": "Presenter",
+      "text": "which is a really, really great way for you guys to quickly test sub-avatars and use labels to call them out,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 644.58,
+      "end": 651.76,
+      "speaker": "Presenter",
+      "text": "okay? And then the hold here is it shows blinds closing, complete darkness, and then peaceful sleep, right? Like this applies to any of these people,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 651.76,
+      "end": 655.74,
+      "speaker": "Presenter",
+      "text": "because again they all have the same desire, all right? And so",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 655.74,
+      "end": 661.24,
+      "speaker": "Presenter",
+      "text": "this works because the body just demonstrates the mechanism. Again, the total blackout or the hold, rather,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 661.78,
+      "end": 671.84,
+      "speaker": "Presenter",
+      "text": "just demonstrates the mechanism, which is total blackout, that resonates with the core avatar, and then helps the sub the specific sub-avatar understand why we call them out in the original hook.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 671.84,
+      "end": 678.36,
+      "speaker": "Presenter",
+      "text": "Okay? Again, each hook calls out who needs it, and then the hold should just show why they need it in a very simple way.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 678.72,
+      "end": 682.46,
+      "speaker": "Presenter",
+      "text": "Okay? And again, this is for initial video concepts using the Marksman method if you want to.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 682.58,
+      "end": 690.54,
+      "speaker": "Presenter",
+      "text": "Again, I'm telling most of you guys in Origins: Marksman method, use it for images; sniper method, use it for videos. Very, very, very simple, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 690.96,
+      "end": 701.64,
+      "speaker": "Presenter",
+      "text": "And so, just getting down here, again, this is an important note, like if your hold is too specific that talks about, you know, someone waking up at 7:00 a.m., the sun rising, kids getting ready for school and they're about to go to bed,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 702.08,
+      "end": 707.56,
+      "speaker": "Presenter",
+      "text": "and then you have a you know, a hook that says, \"POV: You're a light sleeper,\" right? Like it's just it's not really going to make sense, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 707.88,
+      "end": 713.84,
+      "speaker": "Presenter",
+      "text": "And so again, the goal of the Marksman method is to find direction fast, and once you do, use the sniper method to go deeper. But just understand,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 713.84,
+      "end": 722.02,
+      "speaker": "Presenter",
+      "text": "biggest note for all of this is that your customers don't give two shits if you're running Marksman method or sniper method. Okay? They just care about what's in it for them.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 722.16,
+      "end": 725.78,
+      "speaker": "Presenter",
+      "text": "So if you're confused by these two methods, again: Marksman means images.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 725.78,
+      "end": 733.94,
+      "speaker": "Presenter",
+      "text": "When you're testing image ads, just make sure you take three different swings, okay? Three different angles in each ad. Make that ad as congruent as possible, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 734.18,
+      "end": 739.4,
+      "speaker": "Presenter",
+      "text": "If you're going to do videos, then use the sniper method. Focus on one angle, and just make the best video ad that you can, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 739.86,
+      "end": 749.2,
+      "speaker": "Presenter",
+      "text": "So, at the end of the day, hopefully, that all makes sense. Again, back to the examples here. Here's another example of like again, it's a meme static ad. We had this idea to to make meme ads, but like meme ads of what?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 749.2,
+      "end": 756.82,
+      "speaker": "Presenter",
+      "text": "We're like, \"Okay. Well, again, it's an image ad, so we're going to use Marksman strategy. 'Keeps your coffee hot for 6 hours' was one one angle. 'Unbreakable ceramic' was the other.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 757.08,
+      "end": 767.2,
+      "speaker": "Presenter",
+      "text": "Again, variations. So, again, we only have one way to communicate this angle. So we said, \"When your coffee still tastes perfect 6 hours later.\" And then, in this instance, you can see we made the image more congruent, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 767.46,
+      "end": 772.86,
+      "speaker": "Presenter",
+      "text": "And then this one here says, \"Me offering a caveman unbreakable ceramic,\" has this image here, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 773.12,
+      "end": 778.3,
+      "speaker": "Presenter",
+      "text": "Now, could we have used this image and just said this differently when it's like, \"When you drop your cup and it doesn't break\"?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 778.58,
+      "end": 783.48,
+      "speaker": "Presenter",
+      "text": "Like, obviously, that could still work, but we just felt like this one would be funnier. You know what I'm saying?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 783.5,
+      "end": 793.66,
+      "speaker": "Presenter",
+      "text": "And so, at the end of the day, you get the point. Like, you can use different images. You can use You can communicate it however you want, just know with Marksman method it's like you're just focused again on making the best ads possible.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 793.66,
+      "end": 801.26,
+      "speaker": "Presenter",
+      "text": "And you're going to notice that as a common theme. So like image ads, even though we're using Marksman method, I want you to make the best variation possible for that angle.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 801.54,
+      "end": 809.08,
+      "speaker": "Presenter",
+      "text": "And then if you're using sniper method and you're doing video ads, again, I just want you to make the best video ad possible, because that's what you guys need to focus on more than anything, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 809.5,
+      "end": 816.44,
+      "speaker": "Presenter",
+      "text": "Hopefully, that all makes sense. Again, you guys get this, all clear. And then we have another one here as well that you guys can go and check out. It's It's very, very simple.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 816.92,
+      "end": 824.46,
+      "speaker": "Presenter",
+      "text": "This one here, batch number 127. This is an example of us going after, again, career-ending injuries. So it says, \"Don't risk a career-ending injury.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 824.88,
+      "end": 829.14,
+      "speaker": "Presenter",
+      "text": "The other one here says, \"This is the best way to prevent career-ending injuries.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 829.72,
+      "end": 835.84,
+      "speaker": "Presenter",
+      "text": "And then the final one says, \"The right skate cut protection not only prevents career-ending injuries dot dot dot, but it can also save your life.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 836.14,
+      "end": 844.66,
+      "speaker": "Presenter",
+      "text": "And you'll notice here so this is an example of like a two-step hook, or like a bridge is what we would kind of call this, but again, it's still only 3 seconds. And then we get into the rest of the hook, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 844.88,
+      "end": 851.1,
+      "speaker": "Presenter",
+      "text": "We're focused on one angle specifically, right? We use subtitle b-roll to communicate this.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 851.58,
+      "end": 858.4,
+      "speaker": "Presenter",
+      "text": "Here's Here's the angle that we focused on. The variations were: \"Don't risk this. This is the best. This is the right.\" The hooks that I just read out were the variations that we did.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 858.5,
+      "end": 869.48,
+      "speaker": "Presenter",
+      "text": "And then, again, this is an example of an older iteration that we did, because, again, when you're using sniper method a lot of times you're doing iterations. But, again, for you guys, even if you're doing initial concepts you can still use the sniper method, don't get confused.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 870.04,
+      "end": 877.68,
+      "speaker": "Presenter",
+      "text": "And at the end of the day, this is another example where I felt like these ads were not as specific enough for career-ending injuries specifically.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 878.2,
+      "end": 883.42,
+      "speaker": "Presenter",
+      "text": "It's just some of the more recent ads that we've made for brands, they just don't want us showing.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 883.76,
+      "end": 891.8,
+      "speaker": "Presenter",
+      "text": "I'm actually going to write some examples for you guys like raw, and and do it myself, and actually get it edited and show you the final video. So you guys will be able to see that,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 891.8,
+      "end": 900.34,
+      "speaker": "Presenter",
+      "text": "and it'll show you like how to execute it properly. But again, I'm just trying to show you that from a hook standpoint, how the sniper or how the Marksman method works,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 900.34,
+      "end": 907.94,
+      "speaker": "Presenter",
+      "text": "and how the concept, angle, variation, format all come together, okay? So this is putting everything together with examples.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 908.4,
+      "end": 918.12,
+      "speaker": "Presenter",
+      "text": "Hopefully this all makes sense to you guys. Again, if you have questions, we're here to help, but at the end of the day you guys just need to focus on the best execution possible. And now that you've gone through the whole training, again, here's my concept.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 918.24,
+      "end": 924.78,
+      "speaker": "Presenter",
+      "text": "If it's just a format or whatever it is, it's like, okay, then what is the angle? Again, multiple angles means we're using Marksman method.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 924.78,
+      "end": 932.48,
+      "speaker": "Presenter",
+      "text": "If we only have one angle, it means we're using sniper method. Again, variations for sniper method is different ways of saying this one angle.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 933.3,
+      "end": 940.96,
+      "speaker": "Presenter",
+      "text": "Variations for Marksman method is one way of saying that angle. And then, again, the formats, you guys can find all of the formats",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 940.96,
+      "end": 946.4,
+      "speaker": "Presenter",
+      "text": "inside of this here. There's tons of formats, all with examples. So, I hope this makes sense, guys.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 946.62,
+      "end": 955.8,
+      "speaker": "Presenter",
+      "text": "I hope this training has been extremely helpful for you to get you planned, and for those of you who have been watching this module by module, I have a lot of respect for you. Um, but I hope this helps you guys understand how to plan your ads properly",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 955.8,
+      "end": 964.02,
+      "speaker": "Presenter",
+      "text": "because most people do not do this. They just go and make ads, which is why their ads suck, okay? And so, when you put in way more time, if you spend 90% of your time",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 964.38,
+      "end": 973.64,
+      "speaker": "Presenter",
+      "text": "preparing the ads and getting them like ready to go and really thinking through the entire concept, it makes execution just flow way more easily, cuz a lot of you guys just try to jump straight into execution,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 973.64,
+      "end": 983.78,
+      "speaker": "Presenter",
+      "text": "and you're like, \"I don't know what I'm going to make ads about.\" Well, you should never have that problem. I think most of you have the problem now of like you have too many angles. You're like, \"How do I test all these angles?\" And like that is not usually a beginner problem,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 984.08,
+      "end": 992.58,
+      "speaker": "Presenter",
+      "text": "so the fact that you guys have that problem is a good problem. You have too many ideas versus zero ideas at all. So, hopefully, this training is helpful, guys. I'm looking forward to seeing the wins.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 992.9,
+      "end": 1000.12,
+      "speaker": "Presenter",
+      "text": "Make sure that you guys, if you aren't posting them, you get in the community, you jump in there, you tag it as a freaking win, and you tag me,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 1000.2,
+      "end": 1007.7,
+      "speaker": "Presenter",
+      "text": "you tag Mike, you tag Sean, you're like, \"Guys, I just found a new winning ad. Let's go.\" And I know that might not happen until we get, the rest of",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 1007.7,
+      "end": 1017.78,
+      "speaker": "Presenter",
+      "text": "the modules in here for you guys around and if you're watching this later, they're already there, but around the how to create ad section, so look out for those if you're watching this brand new. But, again, thank you, guys, for being such a great community.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 1018.04,
+      "end": 1021.3,
+      "speaker": "Presenter",
+      "text": "I hope this module was helpful for you, and I'll see you in the next ones.",
+      "chunk": 2,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 467.61,
+      "end": 470.21,
+      "label": "silence"
+    }
+  ]
+}

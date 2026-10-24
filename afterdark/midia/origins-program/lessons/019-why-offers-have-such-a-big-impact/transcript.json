@@ -1,0 +1,609 @@
+{
+  "lesson": {
+    "num": 19,
+    "id": "019-why-offers-have-such-a-big-impact",
+    "title": "Why offers have such a big impact",
+    "section": "🏷️ How to Create Offers",
+    "video": "19. Why offers have such a big impact Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 365.781,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=e292720d29e14721b1f22ba41ae5c604"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (95% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 1482,
+    "matched_tokens": 1413,
+    "match_ratio": 0.953,
+    "segments_aligned": 58,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 283.452,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.831,
+      "wpm": 219.3,
+      "issues": [],
+      "notes": "Clip ends mid-sentence at 03:54.7."
+    },
+    {
+      "idx": 1,
+      "start": 283.452,
+      "end": 365.781,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.957,
+      "wpm": 274.5,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [
+    {
+      "type": "transcriber_note",
+      "start": 0.0,
+      "end": 283.452,
+      "chunk": 0,
+      "detail": "Clip ends mid-sentence at 03:54.7."
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.66,
+      "speaker": "Presenter",
+      "text": "All right, so in this video, I just wanted to talk about why offers have such a big impact, and if you haven't already,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 5.7,
+      "end": 12.92,
+      "speaker": "Presenter",
+      "text": "I'm just going to jump straight into the screen here, so you guys can see what's going on. But if you haven't already seen the webinar here",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 12.92,
+      "end": 21.4,
+      "speaker": "Presenter",
+      "text": "where I walk through the 0 to 100k per month, and I talk about, you know, how we went through, and for anyone that's 0 to 10k per month",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 21.4,
+      "end": 26.18,
+      "speaker": "Presenter",
+      "text": "at this point, you know, we created this offer, and this offer specifically took this brand from, you know, losing,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 26.18,
+      "end": 34.86,
+      "speaker": "Presenter",
+      "text": "or I think they were at like a 0.3x return on ad spend up into the point where they actually ended up getting to about like a 3 to 4x",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 34.86,
+      "end": 41.22,
+      "speaker": "Presenter",
+      "text": "return on ad spend at twice the budget. And so, we're going to get into like offers and types of offers and creating different offers,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 41.56,
+      "end": 49.54,
+      "speaker": "Presenter",
+      "text": "but you guys will also see here that there is the 'How One Offer Can 2x Ad Spend and 3x Scale', and same thing here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 49.76,
+      "end": 57.22,
+      "speaker": "Presenter",
+      "text": "I mean the the offer that we ran for this brand, you know, absolutely crushed it. And trying to show you guys actual ad account shots here",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 57.22,
+      "end": 62.72,
+      "speaker": "Presenter",
+      "text": "if we can get to it. But you guys can see, you know, during those two weeks, performance was terrible, and then, you know,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 62.72,
+      "end": 68.84,
+      "speaker": "Presenter",
+      "text": "it was like one week later we were, you know, at at like a way better, you know, double the spend and 3x ROAS, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 68.92,
+      "end": 73.5,
+      "speaker": "Presenter",
+      "text": "And so, I want you to understand that as much as we're getting into, you know, mindset, and mindset's more important than anything,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 74.1,
+      "end": 79.64,
+      "speaker": "Presenter",
+      "text": "and finding the right products, and this avatar training is very dense, the offer side of things is actually very simple,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 79.64,
+      "end": 86.96,
+      "speaker": "Presenter",
+      "text": "because what you guys just need to focus on is just creating offers that are good enough or strong enough for you to just",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 86.96,
+      "end": 94.02,
+      "speaker": "Presenter",
+      "text": "kind of eliminate that that thought from your mind of like, 'Oh, is it my landing page or is it my offer?' Because what you'll notice here",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 94.02,
+      "end": 99.04,
+      "speaker": "Presenter",
+      "text": "is there's nothing here that really talks about landing pages. Although in the training, I obviously talk about, you know,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 99.04,
+      "end": 104.8,
+      "speaker": "Presenter",
+      "text": "the landing page that we built specifically. There's actually another example of this. All right, so over here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 105.26,
+      "end": 112.84,
+      "speaker": "Presenter",
+      "text": "you can see I talk about how landing pages like Client A, we were able to spend over $95,000 in 30 days",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 112.84,
+      "end": 118.96,
+      "speaker": "Presenter",
+      "text": "just on testing LPs, okay? And, you know, this is actually mainly driven by offers.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 119.42,
+      "end": 124.32,
+      "speaker": "Presenter",
+      "text": "So our top landing pages here actually just had a better offer, and it wasn't even that insane of an offer.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 124.5,
+      "end": 129.54,
+      "speaker": "Presenter",
+      "text": "It was just an extra 10 to 15% off. Here's another example here as well.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 129.78,
+      "end": 134.96,
+      "speaker": "Presenter",
+      "text": "Again, this is the old method. You guys will see how we test landing pages moving forward in the 'How to Run Ads' section.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 135.52,
+      "end": 141.88,
+      "speaker": "Presenter",
+      "text": "And when I say landing pages, I'm really just talking about offers, guys, cuz I don't want you thinking about creating advertorials",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 141.88,
+      "end": 146.9,
+      "speaker": "Presenter",
+      "text": "or listicles or all this kind of stuff at your stage. If you're doing less than 100k per month, a lot of that stuff just doesn't matter.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 147.2,
+      "end": 153.98,
+      "speaker": "Presenter",
+      "text": "What really, really matters is the offer itself. So here's another brand: 13k to 2.8, and then we scaled up to 35 with a 2.5,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 153.98,
+      "end": 159.68,
+      "speaker": "Presenter",
+      "text": "okay? And again, the difference there was just the offer, okay? There's another one here as well where we had this brand",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 160.06,
+      "end": 166.18,
+      "speaker": "Presenter",
+      "text": "that was spending, I believe we did over $56,000 leading up to Black Friday, you know, $128,000 in spend,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 166.18,
+      "end": 172.96,
+      "speaker": "Presenter",
+      "text": "and a lot of it was really just focused on—and not $128,000 in spend with a 56k return.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 173.74,
+      "end": 180.24,
+      "speaker": "Presenter",
+      "text": "I think this was over like the first week of November or a month during November. And a lot of our ads, almost all of our ads,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 180.24,
+      "end": 186.42,
+      "speaker": "Presenter",
+      "text": "were actually going to an LP again that was just focused on offers, and that offer was buy two, get one free, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 186.44,
+      "end": 192.78,
+      "speaker": "Presenter",
+      "text": "And again, the reason why offers are so powerful is because they can increase conversion rate, and they can increase AOV.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 193.14,
+      "end": 199.66,
+      "speaker": "Presenter",
+      "text": "And if you increase both of these, your ROAS can go up massively. Now, understand that ad creatives, you know, increase these three",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 199.66,
+      "end": 205.08,
+      "speaker": "Presenter",
+      "text": "and decrease CPM, which is why ad creatives are the most powerful. But I want you to understand that when we're trying to conquer",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 205.08,
+      "end": 212.22,
+      "speaker": "Presenter",
+      "text": "increasing ROAS so we can spend more on ads, a lot of these pages that we make, although, you know, I talked about things",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 212.22,
+      "end": 219.98,
+      "speaker": "Presenter",
+      "text": "being congruent and all that kind of stuff, was actually the most important is the offer, okay? Every single winning page that we have ever",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 219.98,
+      "end": 225.5,
+      "speaker": "Presenter",
+      "text": "made has honestly just had a better offer, okay? And so, we're going to get into that, and you're going to see that. We're going to talk about",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 225.5,
+      "end": 231.62,
+      "speaker": "Presenter",
+      "text": "the different types of offers that that you guys can run. I'm going to walk through like how to actually create an offer for yourself",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 231.62,
+      "end": 236.8,
+      "speaker": "Presenter",
+      "text": "as well, and I'm going to try to use a bunch of different examples in that. But I just wanted to make this initial video here",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 236.8,
+      "end": 242.42,
+      "speaker": "Presenter",
+      "text": "to help you guys understand that offers are are very, very important, okay? And when I sometimes loosely say LPs or offers,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 242.72,
+      "end": 249.58,
+      "speaker": "Presenter",
+      "text": "offers are what you guys need to focus on in the early stages, especially when you're trying to like get moving.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 249.58,
+      "end": 256.66,
+      "speaker": "Presenter",
+      "text": "A lot of times just an offer and a good static ad, like a good offer and a and a decently good static ad using the static ad",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 256.66,
+      "end": 262.68,
+      "speaker": "Presenter",
+      "text": "templates that we've given you guys, and you'll see that in the 'How to Create Ads' section. Just that alone can get you up to 20, 30k",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 262.68,
+      "end": 269.24,
+      "speaker": "Presenter",
+      "text": "a month, sometimes even more. We've scaled brands with literally just statics and a really good offer landing page",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 269.24,
+      "end": 275.16,
+      "speaker": "Presenter",
+      "text": "and, you know, gotten to, you know, 300 to 400k a month, okay? And so, at the end of the day, I want you guys to understand that offers",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 275.16,
+      "end": 281.22,
+      "speaker": "Presenter",
+      "text": "are what is most important. Don't get distracted by advertorials and listicles and congruent pages,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 281.22,
+      "end": 282.98,
+      "speaker": "Presenter",
+      "text": "and although those do matter, and again,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 283.44,
+      "end": 291.9,
+      "speaker": "Presenter",
+      "text": "if you're taking the time to go into Pagedeck and build what I would call like an offer style landing page, which is basically just a product page, a lot of you guys don't even need Pagedeck.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 292.04,
+      "end": 296.8,
+      "speaker": "Presenter",
+      "text": "If you want to just like do this on your main site, now if you already have some sales coming in",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 296.8,
+      "end": 303.66,
+      "speaker": "Presenter",
+      "text": "and all your traffic is going to your main site, I would probably then recommend when I say have some sales coming in, probably like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 303.66,
+      "end": 310.32,
+      "speaker": "Presenter",
+      "text": "30k-ish a month or 40k-ish a month. At that point, I would definitely recommend just paying for Pagedeck and getting a license to properly test",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 310.32,
+      "end": 313.14,
+      "speaker": "Presenter",
+      "text": "offers inside of Meta. But if you're just starting out, if you're like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 313.48,
+      "end": 321.24,
+      "speaker": "Presenter",
+      "text": "$1,000 to $10,000 a month, like just just adjust the offer really on your site because it's like, you know, you don't really have anything working anyways.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 321.86,
+      "end": 328.1,
+      "speaker": "Presenter",
+      "text": "But again, the whole goal is to make the offer better. And we're going to show you guys how to make the offer better. And at the end of the day, we're going to get into that here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 328.16,
+      "end": 334.76,
+      "speaker": "Presenter",
+      "text": "So I just wanted to make this initial video to to like show you guys tons of proof of like why offers matter, why offers are just crucial.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 334.76,
+      "end": 340.72,
+      "speaker": "Presenter",
+      "text": "And for those of you guys that need any more additional proof, it's like there's a reason why Alex Hormozi made that his first book. Okay, so offers are everything.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 341.06,
+      "end": 347.38,
+      "speaker": "Presenter",
+      "text": "So let's go ahead and and get into it, and talk about, number one, just the type of offers that you can run, and then we'll get into how to actually create an offer.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 347.58,
+      "end": 354.44,
+      "speaker": "Presenter",
+      "text": "So I'm excited for you guys to go through this. And then again, at the end, with what I'm trying to do with a lot of these sections is actually show you proof of what I'm teaching you working.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 354.44,
+      "end": 359.74,
+      "speaker": "Presenter",
+      "text": "And again, it's already been there. Some of you guys have probably already watched how one offer can double ad spend and 3x ROAS.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 360.1,
+      "end": 365.44,
+      "speaker": "Presenter",
+      "text": "And so once you go through this section, if you haven't watched that, you'll be able to see the proof that it actually works, so then it's just a matter of execution.",
+      "chunk": 1,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 171.5,
+      "end": 173.0,
+      "label": "chuckle"
+    }
+  ]
+}

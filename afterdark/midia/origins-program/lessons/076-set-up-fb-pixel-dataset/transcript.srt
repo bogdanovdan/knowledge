@@ -1,0 +1,159 @@
+1
+00:00:00,000 --> 00:00:03,280
+Presenter: Hey, guys. So, here's how to set up your Facebook pixel.
+
+2
+00:00:03,980 --> 00:00:07,540
+Presenter: So, interesting one. We're on Shopify instead of Facebook Ads, and
+
+3
+00:00:07,540 --> 00:00:10,720
+Presenter: I'm making this video assuming most of you guys are on Shopify.
+
+4
+00:00:11,540 --> 00:00:16,140
+Presenter: So, some people would ask, what tools do I need to use to create my pixel? Should I use
+
+5
+00:00:16,140 --> 00:00:19,040
+Presenter: a third party tracking? Whatever these terms are,
+
+6
+00:00:19,740 --> 00:00:24,580
+Presenter: keep it very simple. In Shopify, download the Facebook and Instagram channel. It's free.
+
+7
+00:00:24,700 --> 00:00:26,420
+Presenter: After you download it, install it in the App Store,
+
+8
+00:00:26,940 --> 00:00:29,680
+Presenter: which if you guys don't know where it is, just search up Shopify App Store,
+
+9
+00:00:29,680 --> 00:00:33,140
+Presenter: and then it shows up. You can download your apps, etc.
+
+10
+00:00:34,240 --> 00:00:36,760
+Presenter: Shows up here, Face- Facebook and Instagram. It shows up.
+
+11
+00:00:38,180 --> 00:00:40,660
+Presenter: You get a page like this, then click on Get Started.
+
+12
+00:00:41,540 --> 00:00:45,120
+Presenter: This is whatever. Make sure you're on admin access to your Business Manager,
+
+13
+00:00:46,020 --> 00:00:50,560
+Presenter: Facebook page, and ad account, which we have done so already, and created, and warmed up.
+
+14
+00:00:50,880 --> 00:00:51,460
+Presenter: Click Next.
+
+15
+00:00:52,000 --> 00:00:56,720
+Presenter: Facebook account, of course, connect the ones that has your Business Manager.
+
+16
+00:00:58,180 --> 00:01:01,820
+Presenter: Business assets, choose the Business Manager.
+
+17
+00:01:02,060 --> 00:01:04,880
+Presenter: Let's say this one over here, ECA Media.
+
+18
+00:01:06,540 --> 00:01:08,180
+Presenter: Then, for the pixel here,
+
+19
+00:01:08,180 --> 00:01:13,800
+Presenter: click on Maximum, which is already the default. If it's not the default, click on Change, and it shows you
+
+20
+00:01:13,800 --> 00:01:18,320
+Presenter: conservative, enhanced, maximum. The default should be maximum. Just leave it as is.
+
+21
+00:01:18,860 --> 00:01:21,740
+Presenter: Then, you shouldn't see any pixels at the moment. Just click Create new,
+
+22
+00:01:22,280 --> 00:01:23,280
+Presenter: then
+
+23
+00:01:23,280 --> 00:01:29,060
+Presenter: click Confirm. In this case, I'm going to disconnect it for now.
+
+24
+00:01:30,500 --> 00:01:33,960
+Presenter: Let's click Confirm, then you get to the next step. Let's say I use an existing one,
+
+25
+00:01:34,680 --> 00:01:36,800
+Presenter: it's going to ask you to choose the ad account, just choose the ad account,
+
+26
+00:01:37,620 --> 00:01:40,520
+Presenter: and then click Confirm. And then,
+
+27
+00:01:41,100 --> 00:01:44,060
+Presenter: contact info, just put your own business one. Resend Windows for your own one.
+
+28
+00:01:45,920 --> 00:01:47,560
+Presenter: T&C, just agree to it.
+
+29
+00:01:47,560 --> 00:01:50,200
+Presenter: And that is pretty much it.
+
+30
+00:01:51,480 --> 00:01:55,340
+Presenter: All right. So, if you set it up via Shopify, it actually gets autocreated
+
+31
+00:01:55,800 --> 00:02:01,940
+Presenter: within your Facebook Business Manager anymore. So you don't actually need to create a new one over here. It's going to
+
+32
+00:02:01,940 --> 00:02:02,720
+Presenter: show up here already.
+
+33
+00:02:03,540 --> 00:02:08,020
+Presenter: So go to your Business Manager through business.facebook.com, select your Business Manager on the
+
+34
+00:02:08,020 --> 00:02:11,160
+Presenter: left side here. Just choose Data sets and Pixels under Data sources.
+
+35
+00:02:13,040 --> 00:02:17,920
+Presenter: Data sources, Data sets and Pixels, you should already have it connected. It should already be connected to the
+
+36
+00:02:18,280 --> 00:02:21,340
+Presenter: to the Facebook ad account that you chose earlier. If not, click Connect assets,
+
+37
+00:02:22,500 --> 00:02:25,160
+Presenter: then you can choose the Facebook ad account you want to connect it to.
+
+38
+00:02:25,840 --> 00:02:29,060
+Presenter: That's pretty much all you need to do for the pixel. It's very straightforward.
+
+39
+00:02:29,520 --> 00:02:32,980
+Presenter: Nothing else you need to do. Conversion API is connected to Shopify already.
+
+40
+00:02:34,940 --> 00:02:38,940
+Played audio: Free audio post production by auphonic.com.

@@ -1,0 +1,27 @@
+{
+  "lesson": {
+    "num": 11,
+    "id": "011-why-you-actually-never-fail",
+    "title": "Why you actually never fail",
+    "video": "11. Why you actually never fail Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T17:05:54-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "854x480 (native)",
+  "candidates_reviewed": 38,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 129.963,
+      "time": "00:02:10",
+      "frame": "frames/011_00-02-10.png",
+      "category": "webpage",
+      "title": "Origins Program lesson page: Why you actually never fail",
+      "on_screen": "Origins Program\nOrigins Mindset\nWhy you actually never fail\nHow failing is actually just getting you closer to success\nMichael Reuben:\nhttps://www.youtube.com/shorts/MAZPIY4uUHs",
+      "not_in_transcript": "URL: https://www.youtube.com/shorts/MAZPIY4uUHs\nSpelling of Michael Reuben on screen",
+      "legibility": "clear",
+      "candidate_id": "F017",
+      "drive_url": "https://drive.google.com/file/d/1ZRYPTk56C8j2WtWBiEYOy2L-ijyL10US/view?usp=drivesdk"
+    }
+  ]
+}

@@ -1,0 +1,7235 @@
+{
+  "lesson": {
+    "num": 18,
+    "id": "018-live-product-research-w-kalodata-pt-2",
+    "title": "Live Product Research w/ Kalodata - Pt 2",
+    "section": "🔍 How To Find Products",
+    "video": "18. Live Product Research w Kalodata - Pt 2 Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 3585.515,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=261ce2caaf4045838a0d6d9463c351c4"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (80% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 10216,
+    "matched_tokens": 8129,
+    "match_ratio": 0.796,
+    "segments_aligned": 670,
+    "segments_partly_aligned": 50,
+    "segments_interpolated": 27,
+    "whisper_fills": 1,
+    "whisper_fill_words": 6,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Played audio",
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 315.128,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.991,
+      "wpm": 257.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 315.128,
+      "end": 572.113,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.99,
+      "wpm": 249.6,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 572.113,
+      "end": 843.879,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.985,
+      "wpm": 262.7,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 843.879,
+      "end": 1141.981,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.995,
+      "wpm": 254.6,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1141.981,
+      "end": 1436.932,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.999,
+      "wpm": 239.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 5,
+      "start": 1436.932,
+      "end": 1770.166,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 2,
+      "coverage": 0.996,
+      "wpm": 276.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 6,
+      "start": 1770.166,
+      "end": 2092.458,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.994,
+      "wpm": 257.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 7,
+      "start": 2092.458,
+      "end": 2450.548,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.993,
+      "wpm": 262.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 8,
+      "start": 2450.548,
+      "end": 2729.322,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.994,
+      "wpm": 243.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 9,
+      "start": 2729.322,
+      "end": 3056.471,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.997,
+      "wpm": 261.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 10,
+      "start": 3056.471,
+      "end": 3337.811,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.966,
+      "wpm": 258.7,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 11,
+      "start": 3337.811,
+      "end": 3585.515,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.993,
+      "wpm": 263.2,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [
+    {
+      "type": "filled_omission",
+      "start": 765.5,
+      "end": 771.5,
+      "chunk": 2,
+      "detail": "6 word(s) heard by local Whisper but missing from the Gemini text were inserted, marked [+ ...]: \"similar web. It's a no -holo.\""
+    },
+    {
+      "type": "possible_omission",
+      "start": 2234.3,
+      "end": 2235.5,
+      "chunk": 7,
+      "detail": "local Whisper (low confidence) heard ~5 words missing from the transcript: \"like this. It's actually by\""
+    },
+    {
+      "type": "possible_omission",
+      "start": 3260.1,
+      "end": 3261.0,
+      "chunk": 10,
+      "detail": "local Whisper (low confidence) heard ~15 words missing from the transcript: \"the most, the most, the most, the most, the most, the most, the most apply.\""
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.74,
+      "speaker": "Presenter",
+      "text": "Welcome to the long-awaited part two to product research. So,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 3.74,
+      "end": 12.6,
+      "speaker": "Presenter",
+      "text": "I've pretty much simplified it down to the most basic product research method that people usually get results with. If you ask me, \"Dude's in Evolve,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 12.6,
+      "end": 18.14,
+      "speaker": "Presenter",
+      "text": "how did they set a brand so fast, get things going quick?\" It's this method. So, I'm really going to be going through one method,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 18.7,
+      "end": 22.06,
+      "speaker": "Presenter",
+      "text": "so what's most important is part one, the theory of how you plan to stand out.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 22.62,
+      "end": 26.86,
+      "speaker": "Presenter",
+      "text": "So, there's a few tools we're going to need. The first one is Kalodata. Ad Library is free. Intra,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 27.64,
+      "end": 32.3,
+      "speaker": "Presenter",
+      "text": "it's not really yet needed, so you can skip this and just use Ad Library.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 33.06,
+      "end": 41.34,
+      "speaker": "Presenter",
+      "text": "You'll need a Similarweb. It's free as well. Trademark search, also free. So, the first part, Kalodata is the only paid tool",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 41.34,
+      "end": 45.56,
+      "speaker": "Presenter",
+      "text": "that you is necessary. So, just so you know how much it is,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 46.08,
+      "end": 52.26,
+      "speaker": "Presenter",
+      "text": "I think it's like $45.9 for starter, $100 per month for professional plan. I'm on a professional plan.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 52.64,
+      "end": 59.22,
+      "speaker": "Presenter",
+      "text": "You can start off with the starter fine. I'll leave the discount code down below as well so you guys can get that. So, once you guys get Kalodata,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 59.5,
+      "end": 63.14,
+      "speaker": "Presenter",
+      "text": "what do you need to do? So, just go on Product over here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 64.1,
+      "end": 68.34,
+      "speaker": "Presenter",
+      "text": "filter by date: \"Last 7 days.\" Average unit price, I like to put it above $15",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 68.34,
+      "end": 72.1,
+      "speaker": "Presenter",
+      "text": "cuz, like part one, I don't like to sell things that are too low-ticket.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 72.76,
+      "end": 75.54,
+      "speaker": "Presenter",
+      "text": "Some people do, it still works, but my personal preference is not.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 76.2,
+      "end": 79.82,
+      "speaker": "Presenter",
+      "text": "So, all you need to do here is really just look at what is trending,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 80.88,
+      "end": 88.68,
+      "speaker": "Presenter",
+      "text": "go through the criterias in part one. Of course, if they are trademark brands, Goli for example is a huge brand, you can't sell their products from here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 89.32,
+      "end": 93.82,
+      "speaker": "Presenter",
+      "text": "Let's say this one down here is an under-eye corrector. Maybe you could sell it, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 94.84,
+      "end": 100.38,
+      "speaker": "Presenter",
+      "text": "So, the most popular method that people get a store running is they will just rip it from TikTok Shop. Most gurus will teach you that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 100.76,
+      "end": 105.7,
+      "speaker": "Presenter",
+      "text": "I still think that is the most effective method, but if you only rely on that, you will never be able to grow long-term.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 106.46,
+      "end": 111.66,
+      "speaker": "Presenter",
+      "text": "So, you can still rip to start, once you get traction, of course you'll be doubling down more on it,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 111.86,
+      "end": 115.8,
+      "speaker": "Presenter",
+      "text": "investing in your own custom product, your own custom content, branding, et cetera.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 116.86,
+      "end": 119.9,
+      "speaker": "Presenter",
+      "text": "And it's why it's important to think of how to stand out with your product beforehand.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 120.68,
+      "end": 124.16,
+      "speaker": "Presenter",
+      "text": "If you just rip mindlessly, you won't be able to to get out of that hole.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 124.84,
+      "end": 130.84,
+      "speaker": "Presenter",
+      "text": "But if you already had in mind, let's say on top of ripping, you are also creating your own creatives together alongside it,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 131.44,
+      "end": 134.86,
+      "speaker": "Presenter",
+      "text": "you will be able to figure out another winning ad beyond what was just ripped as well.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 134.86,
+      "end": 141.68,
+      "speaker": "Presenter",
+      "text": "The The ripping method just helps you get things going much faster. Since it's already proven on TikTok Shop,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 142.24,
+      "end": 146.82,
+      "speaker": "Presenter",
+      "text": "if you put it to Facebook Ads, it pretty much usually will will carry over as well.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 147.56,
+      "end": 152.72,
+      "speaker": "Presenter",
+      "text": "If you only rely on this method, just ripping ad mindlessly, the issue you will find is that",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 152.72,
+      "end": 157.58,
+      "speaker": "Presenter",
+      "text": "it is really just a a VA game of who can copy-paste the fastest,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 158.34,
+      "end": 165.4,
+      "speaker": "Presenter",
+      "text": "which you're competing a lot of dudes with huge teams, or some even automated, so it's really hard for you to do that unless you can stand out with your own messaging.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 166.0,
+      "end": 171.12,
+      "speaker": "Presenter",
+      "text": "Which is why you rip you rip, and then you also need to figure out your own creatives alongside of how to stand out.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 172.64,
+      "end": 174.5,
+      "speaker": "Presenter",
+      "text": "So, what do we look for now over here?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 175.3,
+      "end": 178.14,
+      "speaker": "Presenter",
+      "text": "So, let's look at the first few listings whether I will test it or not.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 178.84,
+      "end": 182.54,
+      "speaker": "Presenter",
+      "text": "What even is the first few listings? Let's say I click on this. What is this?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 183.18,
+      "end": 190.56,
+      "speaker": "Presenter",
+      "text": "Bear in mind, I'm filming this in October 27th now. So, the top one product last seven days trending is just decorative pillow sets.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 191.32,
+      "end": 197.54,
+      "speaker": "Presenter",
+      "text": "Just a fun fact for you guys, print-on-demand items do extremely well during Q4 gifting season,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 197.54,
+      "end": 200.86,
+      "speaker": "Presenter",
+      "text": "but they kind of drop off the face. The issue with it as well is it",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 200.86,
+      "end": 203.66,
+      "speaker": "Presenter",
+      "text": "you actually need to get custom designs to get going,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 203.66,
+      "end": 206.88,
+      "speaker": "Presenter",
+      "text": "but the rest of the year, it drops off very, very hard.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 207.78,
+      "end": 211.36,
+      "speaker": "Presenter",
+      "text": "I have had clients scale print-on-demand very very far.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 211.98,
+      "end": 215.9,
+      "speaker": "Presenter",
+      "text": "It's just very seasonal, it literally just a copy-paste game.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 216.12,
+      "end": 218.22,
+      "speaker": "Presenter",
+      "text": "It's up to you whether you want to get into it. Me, personally,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 218.9,
+      "end": 223.44,
+      "speaker": "Presenter",
+      "text": "unless for cash-flow reasons, you can, but me personally, I wouldn't.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 224.88,
+      "end": 230.84,
+      "speaker": "Presenter",
+      "text": "So, for those who who do you have a personal affinity to the product, you can run it. I don't.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 231.44,
+      "end": 234.76,
+      "speaker": "Presenter",
+      "text": "Let's say you actually do like these type of pillows, you're actually the type of person who would buy it,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 235.22,
+      "end": 242.36,
+      "speaker": "Presenter",
+      "text": "it does make sense for you right now, only because right now I'm filming this during Q4, to run a print-on-demand store, that's really these designs.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 242.98,
+      "end": 248.52,
+      "speaker": "Presenter",
+      "text": "It's very off-topic from what we're going to talk about today, but just some some things that I'll comment on as",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 248.52,
+      "end": 250.18,
+      "speaker": "Presenter",
+      "text": "I see what type of products they are.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 250.18,
+      "end": 254.9,
+      "speaker": "Presenter",
+      "text": "This one, same thing as well. It's print-on-demand, Q4 gifting.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 258.26,
+      "end": 264.96,
+      "speaker": "Presenter",
+      "text": "Third one: Shark Messless portable wet and dry dry vacuum. We can't sell this. Why? Cuz it's a patented product from Shark. Not possible.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 264.96,
+      "end": 269.48,
+      "speaker": "Presenter",
+      "text": "Pet Pivot, same thing as well. I believe this one is patented.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 269.48,
+      "end": 273.78,
+      "speaker": "Presenter",
+      "text": "So, the way you actually check it, which is why we have the trademark search here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 274.3,
+      "end": 275.8,
+      "speaker": "Presenter",
+      "text": "let's say you search up Pet Pivot.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 276.42,
+      "end": 280.96,
+      "speaker": "Presenter",
+      "text": "You want to do this because some people will still rip it, regardless",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 280.96,
+      "end": 284.42,
+      "speaker": "Presenter",
+      "text": "of whether the the product has a patent or not.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 284.8,
+      "end": 288.68,
+      "speaker": "Presenter",
+      "text": "The issue is, you will get into a lot of issues later down the line",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 288.68,
+      "end": 295.0,
+      "speaker": "Presenter",
+      "text": "unless your approach is, \"Okay, I'm going to find this with traction and then I'm going to switch over, change the product name, change the brand name entirely.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 295.88,
+      "end": 296.9,
+      "speaker": "Presenter",
+      "text": "Then, you can approach it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 297.98,
+      "end": 302.96,
+      "speaker": "Presenter",
+      "text": "If If not, it it's really just too much of a headache to to get these sort of products working. Like if I look it up,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 303.24,
+      "end": 309.04,
+      "speaker": "Presenter",
+      "text": "there's active trademarks for it already, and if I go to their- let's say I Google them, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 309.4,
+      "end": 311.52,
+      "speaker": "Presenter",
+      "text": "They're probably going to be a big brand already.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 312.76,
+      "end": 312.76,
+      "speaker": "Presenter",
+      "text": "Let's see: Pet Pivot.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 312.76,
+      "end": 320.18,
+      "speaker": "Presenter",
+      "text": "Let's try to find their IG, TikTok. It's probably going to be a big following.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 322.24,
+      "end": 323.38,
+      "speaker": "Presenter",
+      "text": "Hmm, not so big, actually.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 324.56,
+      "end": 325.0,
+      "speaker": "Presenter",
+      "text": "Interesting.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 326.5,
+      "end": 335.1,
+      "speaker": "Presenter",
+      "text": "So, if their IG and TikTok following is not that big, I'm not sure this is the original store, by the way.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 336.52,
+      "end": 337.66,
+      "speaker": "Presenter",
+      "text": "Can I view on TikTok?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 339.74,
+      "end": 345.92,
+      "speaker": "Presenter",
+      "text": "I can't view it because I need a TikTok Shop account, which I don't log into right now.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 347.96,
+      "end": 348.84,
+      "speaker": "Presenter",
+      "text": "On that note,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 349.76,
+      "end": 355.88,
+      "speaker": "Presenter",
+      "text": "like for me, I'm in Malaysia. Malaysia doesn't have these US TikTok Shop accounts. You can actually go and buy these accounts.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 356.54,
+      "end": 366.3,
+      "speaker": "Presenter",
+      "text": "I'm not sure where the exact link is to buy it, but I know people do buy this type of accounts not just to sell, just so you can get access to view these product listings.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 367.62,
+      "end": 369.42,
+      "speaker": "Presenter",
+      "text": "So, these are products. Let me see.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 371.1,
+      "end": 387.74,
+      "speaker": "Presenter",
+      "text": "Pet Pivot US, you can see. From last 30-day trend, they did 3 mil, which is crazy.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 387.74,
+      "end": 389.32,
+      "speaker": "Presenter",
+      "text": "Let's look at some of their best ads.",
+      "chunk": 1,
+      "timing": "interpolated"
+    },
+    {
+      "id": 75,
+      "start": 389.32,
+      "end": 389.85,
+      "speaker": "Played audio",
+      "text": "Scooping litter box.",
+      "chunk": 1,
+      "timing": "interpolated"
+    },
+    {
+      "id": 76,
+      "start": 389.85,
+      "end": 392.13,
+      "speaker": "Played audio",
+      "text": "And no, you're not going to be spending $700 on this one.",
+      "chunk": 1,
+      "timing": "interpolated"
+    },
+    {
+      "id": 77,
+      "start": 392.13,
+      "end": 397.41,
+      "speaker": "Played audio",
+      "text": "Typically, it's in automatic mode, and that means 70 seconds after your cat does his business and leaves the machine, it's going to start the automatic cleaning process.",
+      "chunk": 1,
+      "timing": "interpolated"
+    },
+    {
+      "id": 78,
+      "start": 397.41,
+      "end": 400.22,
+      "speaker": "Presenter",
+      "text": "So, I just want to see what type of content that people are posting about it.",
+      "chunk": 1,
+      "timing": "interpolated"
+    },
+    {
+      "id": 79,
+      "start": 400.22,
+      "end": 412.52,
+      "speaker": "Presenter",
+      "text": "Because I'm trying to find if it's a huge brand.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 413.62,
+      "end": 418.52,
+      "speaker": "Presenter",
+      "text": "Would have avoided it. If obviously, you go against Shark, like let's say we go back to Shark,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 420.0,
+      "end": 422.12,
+      "speaker": "Presenter",
+      "text": "Shark Vacuum, they're a huge corporation.",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 82,
+      "start": 424.78,
+      "end": 430.04,
+      "speaker": "Presenter",
+      "text": "Founded since 1994. You think they have the resources to come after you legally? Yes, they do. I'm not going to run that at all.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 431.44,
+      "end": 438.82,
+      "speaker": "Presenter",
+      "text": "Let's see this Pet Pivot one. I'm trying to find if they actually have that big brand behind them. If not, it could be something you run, actually.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 443.46,
+      "end": 446.12,
+      "speaker": "Presenter",
+      "text": "Doesn't seem like it, honestly.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 447.78,
+      "end": 449.38,
+      "speaker": "Presenter",
+      "text": "Pet Pivot Auto Scooper 11.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 453.5,
+      "end": 459.32,
+      "speaker": "Presenter",
+      "text": "So, in this instance, we just want to make sure and double check if what I'm thinking of is actually real.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 460.72,
+      "end": 464.0,
+      "speaker": "Presenter",
+      "text": "Because I can't really find that much branding behind it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 471.0,
+      "end": 472.74,
+      "speaker": "Presenter",
+      "text": "Yeah, literally can't find anything.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 472.76,
+      "end": 475.3,
+      "speaker": "Presenter",
+      "text": "Even their YouTube has 1k subscribers.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 477.94,
+      "end": 478.42,
+      "speaker": "Presenter",
+      "text": "So,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 478.42,
+      "end": 482.78,
+      "speaker": "Presenter",
+      "text": "surprisingly, on the third listing of Kalodata, we found a product that I would potentially sell.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 483.86,
+      "end": 490.94,
+      "speaker": "Presenter",
+      "text": "Why would I potentially sell this is because, based on Kalodata, it's doing really well.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 492.24,
+      "end": 494.8,
+      "speaker": "Presenter",
+      "text": "And there is a trademark on the name itself.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 496.26,
+      "end": 499.92,
+      "speaker": "Presenter",
+      "text": "However, if you're selling it, obviously, you're not going to sell it as Pet Pivot.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 500.3,
+      "end": 503.42,
+      "speaker": "Presenter",
+      "text": "You're going to sell it as whatever other brand name you put out.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 503.8,
+      "end": 509.26,
+      "speaker": "Presenter",
+      "text": "So, the the product itself and the store needs to be something totally different. If not, you run into a lot of legal issues.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 510.48,
+      "end": 514.3,
+      "speaker": "Presenter",
+      "text": "So, if that is actually true, this could be something you run.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 514.7,
+      "end": 518.04,
+      "speaker": "Presenter",
+      "text": "So, how do you actually go about running it? Now we get into this topic.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 520.42,
+      "end": 525.86,
+      "speaker": "Presenter",
+      "text": "Simple Google search first. We want to look at a at the current brand, how they're running it, what people think about it. Let's say go on Reddit.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 529.54,
+      "end": 535.48,
+      "speaker": "Presenter",
+      "text": "If this is a product you're going to run, obviously you need to know the current stage of sophistication in the market, what are people saying about it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 536.18,
+      "end": 541.76,
+      "speaker": "Presenter",
+      "text": "If let's say based on TikTok and based on Reddit, you can see that it's a very, very saturated product already.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 543.92,
+      "end": 545.9,
+      "speaker": "Presenter",
+      "text": "And you you confirm saturation through a few things.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 547.46,
+      "end": 552.6,
+      "speaker": "Presenter",
+      "text": "Through Ad Library and FORESIGHT. When you search it up, let's say I'm looking at Pet Pivot now.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 556.5,
+      "end": 558.94,
+      "speaker": "Presenter",
+      "text": "Pet Pivot Taiwan. Chinese brand, maybe?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 561.2,
+      "end": 566.68,
+      "speaker": "Presenter",
+      "text": "Can't even find the original brand running it. It's just everyone weird stuff coming up.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 567.44,
+      "end": 568.66,
+      "speaker": "Presenter",
+      "text": "Let me try Pet Pivot.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 574.76,
+      "end": 581.42,
+      "speaker": "Presenter",
+      "text": "No, like the this these guys, they they're not even Pet Pivot, they're obviously just ripping as well. This is literally the same video we saw earlier.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 584.4,
+      "end": 585.14,
+      "speaker": "Presenter",
+      "text": "So let's see.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 586.26,
+      "end": 595.08,
+      "speaker": "Presenter",
+      "text": "So let's say we go on Ad Library we go on Ad Library to see what the competition is competition is running, and you use a tool like Similarweb to check how much they are doing.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 595.72,
+      "end": 600.0,
+      "speaker": "Presenter",
+      "text": "You won't be able to see the accurate number. What Similarweb gives you is an estimate traffic.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 602.12,
+      "end": 607.24,
+      "speaker": "Presenter",
+      "text": "Let's see this one over here. That's not enough data, which basically means the store is very small.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 608.06,
+      "end": 610.6,
+      "speaker": "Presenter",
+      "text": "What if I try Pet Pivot on Similarweb?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 616.48,
+      "end": 620.02,
+      "speaker": "Presenter",
+      "text": "Also very small, surprisingly. 30,000 visits.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 620.9,
+      "end": 624.28,
+      "speaker": "Presenter",
+      "text": "If, let's say you estimate 30,000 visits at a 1% conversion rate,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 625.08,
+      "end": 629.1,
+      "speaker": "Presenter",
+      "text": "30- oh, let me pull this in here.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 634.64,
+      "end": 639.2,
+      "speaker": "Presenter",
+      "text": "309 purchases for how much is the product? Let's say it's 170, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 640.96,
+      "end": 642.28,
+      "speaker": "Presenter",
+      "text": "It's like 50k a month.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 642.9,
+      "end": 649.3,
+      "speaker": "Presenter",
+      "text": "It's actually very small on on ad- not ads, on the site itself. It's very surprising.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 651.52,
+      "end": 656.02,
+      "speaker": "Presenter",
+      "text": "But if you ask me, there is potential in this product based on what you see on Kalodata.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 657.9,
+      "end": 663.56,
+      "speaker": "Presenter",
+      "text": "For you to test and verify it, it's pretty simple because all you need to do is just rip it as in,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 663.56,
+      "end": 668.4,
+      "speaker": "Presenter",
+      "text": "you go on the Kalodata section, you go on Videos here, to see what are the best videos here that are relevant.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 669.52,
+      "end": 673.32,
+      "speaker": "Presenter",
+      "text": "If they don't mention Pet Pivot, you can really just copy download these videos and run as ads.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 673.58,
+      "end": 674.18,
+      "speaker": "Played audio",
+      "text": "Here's a hack",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 674.18,
+      "end": 676.78,
+      "speaker": "Presenter",
+      "text": "like the this what these guys are doing as well.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 677.56,
+      "end": 683.36,
+      "speaker": "Presenter",
+      "text": "That It's not the only criteria we take a look at. I'm going to dive deeper into what I'm going to look at besides that.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 685.4,
+      "end": 688.1,
+      "speaker": "Presenter",
+      "text": "So potential is there. Let's see I look up more again.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 689.76,
+      "end": 693.1,
+      "speaker": "Presenter",
+      "text": "Okay let's see. I think all these are fake also.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 694.62,
+      "end": 695.78,
+      "speaker": "Presenter",
+      "text": "What's the product actually called?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 696.74,
+      "end": 701.5,
+      "speaker": "Presenter",
+      "text": "Pet scooper, litter scooper, self cleaning litter box.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 703.06,
+      "end": 708.36,
+      "speaker": "Presenter",
+      "text": "Let's say I look up again self cleaning litter box. Let's say I'm selling it to US.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 709.52,
+      "end": 711.12,
+      "speaker": "Presenter",
+      "text": "You can sell it this to wherever you want.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 713.66,
+      "end": 715.54,
+      "speaker": "Presenter",
+      "text": "Let's see what type of ads the competition is running.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 717.44,
+      "end": 719.2,
+      "speaker": "Presenter",
+      "text": "Now you're starting to see everyone selling the same product.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 720.38,
+      "end": 723.6,
+      "speaker": "Presenter",
+      "text": "That's still fine. You're never going to be first to market.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 724.36,
+      "end": 731.36,
+      "speaker": "Presenter",
+      "text": "You just want want to know what type of ads the competition is running, so you can do better than them. You're trying to find underserved avatars or new mechanisms, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 735.82,
+      "end": 737.92,
+      "speaker": "Presenter",
+      "text": "So let's say I look at these ads, oh,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 740.02,
+      "end": 741.74,
+      "speaker": "Presenter",
+      "text": "new tab, new tab, new tab.",
+      "chunk": 2,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 138,
+      "start": 743.44,
+      "end": 744.74,
+      "speaker": "Presenter",
+      "text": "Let's say this Happy Paws.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 748.22,
+      "end": 750.24,
+      "speaker": "Presenter",
+      "text": "Nothing crazy here. See ad details.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 750.24,
+      "end": 761.94,
+      "speaker": "Presenter",
+      "text": "Mhm.",
+      "chunk": 2,
+      "timing": "interpolated"
+    },
+    {
+      "id": 141,
+      "start": 761.94,
+      "end": 765.52,
+      "speaker": "Presenter",
+      "text": "So same thing as well. You want to see how well they are doing, you estimate based off Similarweb.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 765.52,
+      "end": 765.76,
+      "speaker": "Presenter",
+      "text": "similar web. It's a no -holo.",
+      "chunk": 2,
+      "timing": "whisper",
+      "source": "local_whisper_fill"
+    },
+    {
+      "id": 143,
+      "start": 765.76,
+      "end": 784.32,
+      "speaker": "Presenter",
+      "text": "Also not a whole lot.",
+      "chunk": 2,
+      "timing": "interpolated"
+    },
+    {
+      "id": 144,
+      "start": 784.32,
+      "end": 798.24,
+      "speaker": "Presenter",
+      "text": "This one also probably not a whole lot, based on just how the site looks.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 798.24,
+      "end": 811.78,
+      "speaker": "Presenter",
+      "text": "Oh, where's my Similarweb? I may have deleted it.",
+      "chunk": 2,
+      "timing": "interpolated"
+    },
+    {
+      "id": 146,
+      "start": 811.78,
+      "end": 813.06,
+      "speaker": "Presenter",
+      "text": "Also too small to see.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 813.78,
+      "end": 820.52,
+      "speaker": "Presenter",
+      "text": "Just cuz it doesn't show up, doesn't mean that it's not a good opportunity, cuz there's going to be a lot more ads you can see over here.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 820.52,
+      "end": 827.38,
+      "speaker": "Presenter",
+      "text": "It's also potentially some people that are going to run it without the keywords I showed over here and still do well.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 827.82,
+      "end": 834.4,
+      "speaker": "Presenter",
+      "text": "We can we can keep trying to find a few more to see how much they're doing. Let's see which ones come up the most.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 836.54,
+      "end": 837.96,
+      "speaker": "Presenter",
+      "text": "Whisker is a legit brand. Uh",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 849.16,
+      "end": 851.16,
+      "speaker": "Presenter",
+      "text": "Same thing as well. SimilarWeb's kind of trash.",
+      "chunk": 3,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 152,
+      "start": 851.56,
+      "end": 856.56,
+      "speaker": "Presenter",
+      "text": "Where is my SimilarWeb, bro?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 857.28,
+      "end": 868.24,
+      "speaker": "Presenter",
+      "text": "I thought I just had it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 871.46,
+      "end": 875.34,
+      "speaker": "Presenter",
+      "text": "I'd say this one copycat actually has pretty decent amount of visits.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 876.8,
+      "end": 879.14,
+      "speaker": "Presenter",
+      "text": "The original one had 30k, this one has 28k.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 881.48,
+      "end": 887.76,
+      "speaker": "Presenter",
+      "text": "20 Let's say 28k at at the same AOV, let's say you're assuming, right? It's all assumption.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 888.4,
+      "end": 891.56,
+      "speaker": "Presenter",
+      "text": "At 0.1% a conversion rate, that's say 280 purchases a month.",
+      "chunk": 3,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 158,
+      "start": 892.66,
+      "end": 896.68,
+      "speaker": "Presenter",
+      "text": "280 times whatever the AOV is, 160.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 896.68,
+      "end": 901.24,
+      "speaker": "Presenter",
+      "text": "You to get how you look how you find out the AOV is go on",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 901.24,
+      "end": 903.2,
+      "speaker": "Presenter",
+      "text": "I can't find that exact one.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 903.2,
+      "end": 909.4,
+      "speaker": "Presenter",
+      "text": "You go on the product page, look at what's the product price. It's really got to be more after bundles and whatever.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 909.4,
+      "end": 911.86,
+      "speaker": "Presenter",
+      "text": "You can be conservative and just only look at the product price",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 912.32,
+      "end": 917.48,
+      "speaker": "Presenter",
+      "text": "based on the the site visits, the conversion rate, the the price here. This is how you estimate it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 917.48,
+      "end": 920.56,
+      "speaker": "Presenter",
+      "text": "So on the ad side, it doesn't look too promising.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 925.0,
+      "end": 929.92,
+      "speaker": "Presenter",
+      "text": "But they're still crushing it on what's the word for it? TikTok Shop.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 931.98,
+      "end": 935.42,
+      "speaker": "Presenter",
+      "text": "So it could still be an opportunity. This one is a real brand.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 936.84,
+      "end": 938.52,
+      "speaker": "Presenter",
+      "text": "The Calm Cat Journal, these are different things as well.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 942.16,
+      "end": 945.8,
+      "speaker": "Presenter",
+      "text": "There's not going to be one specific clarity ruler that will make you think that this will go to work out.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 946.12,
+      "end": 949.26,
+      "speaker": "Presenter",
+      "text": "It's going to be multiple data points you draw from, which is why I'm doing this live.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 950.22,
+      "end": 951.56,
+      "speaker": "Presenter",
+      "text": "Let's say I go back to PetPivot,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 953.68,
+      "end": 956.74,
+      "speaker": "Presenter",
+      "text": "I look at Reddit, how many people are talking about it?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 959.1,
+      "end": 963.26,
+      "speaker": "Presenter",
+      "text": "There's There's a lot of word-of-mouth from TikTok Shop.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 963.88,
+      "end": 968.4,
+      "speaker": "Presenter",
+      "text": "And just 'cause the other stores don't don't have much traffic doesn't mean you can't win, 'cause all of them are just copying the TikTok Shop videos.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 969.1,
+      "end": 973.24,
+      "speaker": "Presenter",
+      "text": "If let's say you do some research from this Reddit here",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 973.98,
+      "end": 980.46,
+      "speaker": "Presenter",
+      "text": "and you find something that is bad about PetPivot, but then you can use as an advantage in in your own product,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 981.34,
+      "end": 982.4,
+      "speaker": "Presenter",
+      "text": "then you can still win.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 983.96,
+      "end": 991.14,
+      "speaker": "Presenter",
+      "text": "Especially if everyone is so much so if everyone knows about that product already, it's more product-aware, you just need to run product-aware ads",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 991.14,
+      "end": 993.08,
+      "speaker": "Presenter",
+      "text": "to market it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 993.9,
+      "end": 998.78,
+      "speaker": "Presenter",
+      "text": "It is a bit confusing as I explain it right now. You might need to watch this video a few times.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1000.9,
+      "end": 1008.26,
+      "speaker": "Presenter",
+      "text": "But I'm doing all of this now just to see what is the market sentiment, what's the awareness stages, what is the market sophistication that market is in.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1009.16,
+      "end": 1012.54,
+      "speaker": "Presenter",
+      "text": "This way when I actually market it, which I'll cover later down the line,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1013.18,
+      "end": 1018.36,
+      "speaker": "Presenter",
+      "text": "after at the end of the video, how I'll go about marketing it after, first, I verify that that it can work.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1019.64,
+      "end": 1021.86,
+      "speaker": "Presenter",
+      "text": "So let's say we read through the the Reddits here.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1022.56,
+      "end": 1026.02,
+      "speaker": "Presenter",
+      "text": "They're being bombarded on TikTok, as we've seen, it's doing really well.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1027.26,
+      "end": 1028.96,
+      "speaker": "Presenter",
+      "text": "\"Can't find any reviews for it that aren't ads.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1030.44,
+      "end": 1033.82,
+      "speaker": "Presenter",
+      "text": "Hmm. Maybe that's an angle you can run. Maybe you can run review-style ads.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 1035.8,
+      "end": 1038.86,
+      "speaker": "Presenter",
+      "text": "\"Opinions on these options? I want to do better for my boys.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1040.42,
+      "end": 1042.5,
+      "speaker": "Presenter",
+      "text": "\"Had it for about a week now, very happy with it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1045.66,
+      "end": 1047.28,
+      "speaker": "Presenter",
+      "text": "No concerns. Cat is fine.",
+      "chunk": 3,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 190,
+      "start": 1049.86,
+      "end": 1050.66,
+      "speaker": "Presenter",
+      "text": "Highly recommend it.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1052.4,
+      "end": 1056.44,
+      "speaker": "Presenter",
+      "text": "Let's see what else people are saying. Pros and cons. No, just yeah, pros and cons.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1056.44,
+      "end": 1063.0,
+      "speaker": "Presenter",
+      "text": "\"It works. Won't hurt the cat, climbs mid- cleans. Cats like to dig all the cat litter out.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 1065.54,
+      "end": 1069.6,
+      "speaker": "Presenter",
+      "text": "The drawer where the waste goes is horrendously designed like the bags barely fit.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 1070.28,
+      "end": 1072.46,
+      "speaker": "Presenter",
+      "text": "When you put the bag in, it's hard to close latches\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 1072.62,
+      "end": 1074.7,
+      "speaker": "Presenter",
+      "text": "So there's issues with the bag here.",
+      "chunk": 3,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 196,
+      "start": 1078.54,
+      "end": 1079.0,
+      "speaker": "Presenter",
+      "text": "Okay.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 1079.0,
+      "end": 1081.96,
+      "speaker": "Presenter",
+      "text": "\"This litter box has crushed a cat and they were sued for 3 million.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 1081.96,
+      "end": 1087.66,
+      "speaker": "Presenter",
+      "text": "Hmm. Maybe that's a point of concern that you wouldn't run the product depending on how well it goes.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 1087.66,
+      "end": 1093.44,
+      "speaker": "Presenter",
+      "text": "Just read more.",
+      "chunk": 3,
+      "timing": "interpolated"
+    },
+    {
+      "id": 200,
+      "start": 1093.44,
+      "end": 1095.64,
+      "speaker": "Presenter",
+      "text": "\"Uncomplicated, user-friendly, no glitching apps.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 1097.08,
+      "end": 1100.26,
+      "speaker": "Presenter",
+      "text": "It outperformed my expensive $750 litter box in every way.\"",
+      "chunk": 3,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 202,
+      "start": 1104.42,
+      "end": 1106.32,
+      "speaker": "Presenter",
+      "text": "Long very long text wall.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 1107.3,
+      "end": 1114.36,
+      "speaker": "Presenter",
+      "text": "Wait, these are things These are things you need to do, bro, manual research, going in the trenches. There's gonna be some gold you can dig from this.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 1116.54,
+      "end": 1119.4,
+      "speaker": "Presenter",
+      "text": "\"You don't need expensive pet waste bags unless you want them.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 1120.06,
+      "end": 1124.82,
+      "speaker": "Presenter",
+      "text": "Now, cleaning, it's genius on the breakdown. You press two buttons and then it's easy to clean.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 1126.0,
+      "end": 1127.32,
+      "speaker": "Presenter",
+      "text": "Isn't a problem for me.\" Hmm.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 1127.88,
+      "end": 1138.94,
+      "speaker": "Presenter",
+      "text": "Maybe that could have going to be a good point. If other self-cleaning litter boxes in the market are difficult to clean, you can run ads with this angle based on what you're saying here.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1145.0,
+      "end": 1146.2,
+      "speaker": "Presenter",
+      "text": "is really long, bro.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1147.08,
+      "end": 1150.94,
+      "speaker": "Presenter",
+      "text": "Cat takes a crap, the robot covers the crap after the cat exits. First,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1152.0,
+      "end": 1155.32,
+      "speaker": "Presenter",
+      "text": "again, being realistic, when crap comes out of anybody, it stinks.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1156.94,
+      "end": 1158.18,
+      "speaker": "Presenter",
+      "text": "It's pretty self-sufficient.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1160.92,
+      "end": 1165.04,
+      "speaker": "Presenter",
+      "text": "It did keep up with my cats on its own, but I did realize I need another one because they refused to use the expensive one.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1166.22,
+      "end": 1168.28,
+      "speaker": "Presenter",
+      "text": "Okay, another breakdown from some of her four cats.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1169.0,
+      "end": 1174.72,
+      "speaker": "Presenter",
+      "text": "Had the Litter-Robot 3, 4. 3 got bricked after a year or two, effectively becoming a manual-operated feline-",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 215,
+      "start": 1176.32,
+      "end": 1179.12,
+      "speaker": "Presenter",
+      "text": "Okay. You may know trials, but to reassume my janitorial duties.",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 216,
+      "start": 1180.9,
+      "end": 1184.72,
+      "speaker": "Presenter",
+      "text": "So I assumed haven't been pleased with the Litter-Robots 3 and 4, we have the PetSafe ScoopFree.",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 217,
+      "start": 1187.3,
+      "end": 1190.74,
+      "speaker": "Presenter",
+      "text": "It's- It's Litter-Robot, they're s- they're talking about different products. Pet Pivot.",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 218,
+      "start": 1190.74,
+      "end": 1193.24,
+      "speaker": "Presenter",
+      "text": "Do they want to switch from- from their current product to Pet Pivot?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1199.04,
+      "end": 1201.72,
+      "speaker": "Presenter",
+      "text": "Today's another t- tool that I would want to use as well,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1202.56,
+      "end": 1206.58,
+      "speaker": "Presenter",
+      "text": "I want to see in Google Trends whether this, how- how this niche is doing.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1213.96,
+      "end": 1216.2,
+      "speaker": "Presenter",
+      "text": "Let's say, auto self-cleaning litter box.",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 222,
+      "start": 1217.66,
+      "end": 1219.52,
+      "speaker": "Presenter",
+      "text": "Switch it, let's see, I'm going United States.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1219.52,
+      "end": 1223.12,
+      "speaker": "Presenter",
+      "text": "Go last 5 years, is how you'll see.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1223.62,
+      "end": 1227.8,
+      "speaker": "Presenter",
+      "text": "So the trend is pretty flat, as long as trends are flat or not declining, you- it can work out pretty well.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1230.32,
+      "end": 1231.54,
+      "speaker": "Presenter",
+      "text": "Oh, it's bugged out.",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 226,
+      "start": 1234.8,
+      "end": 1241.62,
+      "speaker": "Presenter",
+      "text": "All right, it's fixed. All right, let's say another term, cat litter box. It's pretty flat, going up a bit.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1241.62,
+      "end": 1247.9,
+      "speaker": "Presenter",
+      "text": "Automatic litter box.",
+      "chunk": 4,
+      "timing": "interpolated"
+    },
+    {
+      "id": 228,
+      "start": 1247.9,
+      "end": 1249.78,
+      "speaker": "Presenter",
+      "text": "Pretty flat and going up recently as well.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1250.46,
+      "end": 1252.18,
+      "speaker": "Presenter",
+      "text": "So niche-wise it's not bad.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1254.68,
+      "end": 1259.18,
+      "speaker": "Presenter",
+      "text": "So niche-wise it's not bad, volume, there is demand for it to test out.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1260.3,
+      "end": 1264.52,
+      "speaker": "Presenter",
+      "text": "Trademark as well, you can just research the trademark, that's not, not too big of an- of an issue.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1265.68,
+      "end": 1269.64,
+      "speaker": "Presenter",
+      "text": "Since it's not like the whole product has- has the- the Pet Pivot branding on it.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1270.08,
+      "end": 1272.54,
+      "speaker": "Presenter",
+      "text": "So it's not- not too big of an issue to start.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1273.2,
+      "end": 1278.44,
+      "speaker": "Presenter",
+      "text": "The only part that will concern me running this, especially for- for you guys who are newer,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1279.0,
+      "end": 1282.52,
+      "speaker": "Presenter",
+      "text": "is high-tick-, it's more high-ticket, which is very- it's much harder to work.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1283.98,
+      "end": 1287.24,
+      "speaker": "Presenter",
+      "text": "Try to find one of the stores, but can't find it. Let's see, go to Pet Pivot.",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 237,
+      "start": 1288.76,
+      "end": 1293.26,
+      "speaker": "Presenter",
+      "text": "If let's say this is your first product, I would not recommend you to run it cause it's- it's too high-ticket.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1293.94,
+      "end": 1300.54,
+      "speaker": "Presenter",
+      "text": "The issue with things being too high-ticket, it's a hundred seventy dollars, right? Let's say you want a 2x ROAS to be 20% net margins.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1302.12,
+      "end": 1306.16,
+      "speaker": "Presenter",
+      "text": "So you need 2x ROAS, which means that your breakeven needs to be 85 dollars.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1307.84,
+      "end": 1313.2,
+      "speaker": "Presenter",
+      "text": "85 dollars just to break even, let's say, do you have that amount of money to spend is the question.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1314.1,
+      "end": 1316.96,
+      "speaker": "Presenter",
+      "text": "You're spending a hundred dollars per day, as you know, Facebook isn't very consistent.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1317.52,
+      "end": 1318.44,
+      "speaker": "Presenter",
+      "text": "It's how it is.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1319.28,
+      "end": 1325.86,
+      "speaker": "Presenter",
+      "text": "You might get no purchases one day, two days, and then on the third day you only get one purchase, or maybe three purchases, and then you're, you're, you're profitable again.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1326.28,
+      "end": 1334.4,
+      "speaker": "Presenter",
+      "text": "At the very start, you may not have the capital to run it, which is why I don't recommend like higher ticket products if you're brand new beginner.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1335.06,
+      "end": 1342.56,
+      "speaker": "Presenter",
+      "text": "However, if you've been in the drop shipping space, you have a few stores already, I don't think it'd be too much of an issue for you to do a product of this price.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1344.1,
+      "end": 1348.28,
+      "speaker": "Presenter",
+      "text": "So I would test it myself after doing more research and looking at what type of,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1348.28,
+      "end": 1354.1,
+      "speaker": "Presenter",
+      "text": "you know, angles I can run, what is underserved avatars or mechanisms that I can run.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1354.1,
+      "end": 1359.88,
+      "speaker": "Presenter",
+      "text": "If I cannot find any of these two, then I wouldn't run it. But everything else looks good to me for someone who's more experienced.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1360.98,
+      "end": 1364.12,
+      "speaker": "Presenter",
+      "text": "I'll also look at other, other products af- after this as well, just to let you know.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1366.12,
+      "end": 1368.5,
+      "speaker": "Presenter",
+      "text": "So besides just looking at product-specific,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1369.14,
+      "end": 1375.28,
+      "speaker": "Presenter",
+      "text": "we looked at trend already, let's say I, I Google up self-cleaning-",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1375.96,
+      "end": 1376.58,
+      "speaker": "Presenter",
+      "text": "Damn.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1377.58,
+      "end": 1379.28,
+      "speaker": "Presenter",
+      "text": "You don't want me to get this- Dude, chill.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 254,
+      "start": 1379.6,
+      "end": 1383.22,
+      "speaker": "Presenter",
+      "text": "Self-cleaning litter box.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 255,
+      "start": 1387.74,
+      "end": 1391.54,
+      "speaker": "Presenter",
+      "text": "I see besides, besides the brand-specific one,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1392.12,
+      "end": 1395.64,
+      "speaker": "Presenter",
+      "text": "what do people think about it? You can go on Reddit, you can go on Amazon,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1396.98,
+      "end": 1400.52,
+      "speaker": "Presenter",
+      "text": "wherever possible. TikTok as well. I want to see what people are saying about it, what's good, what's bad.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1401.46,
+      "end": 1402.4,
+      "speaker": "Presenter",
+      "text": "So you know how to enter the market.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1404.92,
+      "end": 1405.9,
+      "speaker": "Presenter",
+      "text": "They have the Litter-Robot.",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 260,
+      "start": 1410.32,
+      "end": 1411.02,
+      "speaker": "Presenter",
+      "text": "Again, expensive.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1414.96,
+      "end": 1419.38,
+      "speaker": "Presenter",
+      "text": "So how much is the- the Litter-Robot? Litter-Robot.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 262,
+      "start": 1421.28,
+      "end": 1426.48,
+      "speaker": "Presenter",
+      "text": "Where is it? Sheesh, bro, 650 dollars to spend on your cat, that's crazy.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 263,
+      "start": 1428.0,
+      "end": 1433.74,
+      "speaker": "Presenter",
+      "text": "I think, that might, no, I wonder if you, well, if you do adopt a cat, this costs a lot more than a cat.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 264,
+      "start": 1437.98,
+      "end": 1442.9,
+      "speaker": "Presenter",
+      "text": "the cheaper angle is can work as well compared to Litter-Robot. If, let's say, people",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 265,
+      "start": 1442.9,
+      "end": 1449.38,
+      "speaker": "Presenter",
+      "text": "already know a lot about the the sort of self-cleaning litter box, this depends on your research.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 266,
+      "start": 1449.98,
+      "end": 1454.02,
+      "speaker": "Presenter",
+      "text": "I only went through Reddit. Let's say if I go through TikTok and Instagram, I can find a lot of content about it.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 267,
+      "start": 1454.94,
+      "end": 1460.6,
+      "speaker": "Presenter",
+      "text": "Potentially, you can run a product-aware angle where, literally, it's just comparing your your version of it,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 268,
+      "start": 1460.6,
+      "end": 1466.66,
+      "speaker": "Presenter",
+      "text": "which you can get your Chinese dropshipping supplier to source, compared to Litter-Robot. Obviously, don't put",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 269,
+      "start": 1466.66,
+      "end": 1471.58,
+      "speaker": "Presenter",
+      "text": "their brand name. You can get sued for that. Litter-Robot is an actual actual brand. If it's just to come after you legally,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 270,
+      "start": 1472.5,
+      "end": 1477.48,
+      "speaker": "Presenter",
+      "text": "just put the the product itself without any branding. Then, you can put like benefits, um,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 271,
+      "start": 1479.4,
+      "end": 1484.7,
+      "speaker": "Presenter",
+      "text": "product comparisons, really. Yours is cheaper, yours is um equally as safe,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 272,
+      "start": 1485.46,
+      "end": 1487.82,
+      "speaker": "Presenter",
+      "text": "the other one is more expensive or whatever it may be.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 273,
+      "start": 1488.56,
+      "end": 1491.4,
+      "speaker": "Presenter",
+      "text": "You figure this out when you do your research, what I'm doing right now,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 274,
+      "start": 1491.74,
+      "end": 1496.92,
+      "speaker": "Presenter",
+      "text": "on which one is good, which one is bad, I mean the pros and cons of each. This way, you can you can put the more",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 275,
+      "start": 1496.92,
+      "end": 1502.32,
+      "speaker": "Presenter",
+      "text": "important things on yours. Let's say, from the previous Reddit post, we saw people say that it is easy to clean.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 276,
+      "start": 1502.9,
+      "end": 1509.38,
+      "speaker": "Presenter",
+      "text": "That can be a big one, right? Maybe people already know about litter robots, you don't need to convince them why they need one for themselves.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 277,
+      "start": 1510.02,
+      "end": 1514.38,
+      "speaker": "Presenter",
+      "text": "Maybe you just need to convince them why yours is the best in the market. It's cheaper, it's easy to clean,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 278,
+      "start": 1515.58,
+      "end": 1520.92,
+      "speaker": "Presenter",
+      "text": "you can fork out I mean this is like four times the price of what you set what you can sell it for.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 279,
+      "start": 1521.86,
+      "end": 1524.54,
+      "speaker": "Presenter",
+      "text": "So, that can be the angle by itself, also.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 280,
+      "start": 1530.56,
+      "end": 1533.1,
+      "speaker": "Presenter",
+      "text": "Now, let's look a bit more if we can find any more things.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 281,
+      "start": 1538.48,
+      "end": 1541.32,
+      "speaker": "Presenter",
+      "text": "\"Clean mine once in seven years.\" It's kind of nasty.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 282,
+      "start": 1548.6,
+      "end": 1551.28,
+      "speaker": "Presenter",
+      "text": "Now, this is pretty much the process you you will go through for a product.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 283,
+      "start": 1552.14,
+      "end": 1557.3,
+      "speaker": "Presenter",
+      "text": "You go on Kalodata and see what's trending first. You see what the market is currently running,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 284,
+      "start": 1557.54,
+      "end": 1564.02,
+      "speaker": "Presenter",
+      "text": "which, from my very basic search right now, you can spend a lot more time on this, this one's are like the own ads AIS they make, \"Never scoop poop again.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 285,
+      "start": 1564.42,
+      "end": 1567.44,
+      "speaker": "Presenter",
+      "text": "Pull, tie, toss.\" These guys are marketing it this way,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 286,
+      "start": 1569.2,
+      "end": 1574.62,
+      "speaker": "Presenter",
+      "text": "but, like I said, what does the market actually want? From what I am seeing, people already know about litter",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 287,
+      "start": 1575.08,
+      "end": 1577.3,
+      "speaker": "Presenter",
+      "text": "this self-cleaning litter box things.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 288,
+      "start": 1578.66,
+      "end": 1582.56,
+      "speaker": "Presenter",
+      "text": "Maybe you don't need to go about it through telling them something they already know.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 289,
+      "start": 1583.22,
+      "end": 1587.64,
+      "speaker": "Presenter",
+      "text": "Maybe you just need to tell people you're the best. This is what I mean by the mechanism itself.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 290,
+      "start": 1588.58,
+      "end": 1592.84,
+      "speaker": "Presenter",
+      "text": "You highlight the thing that people actually care about. If you're targeting someone who's already sophisticated enough,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 291,
+      "start": 1593.06,
+      "end": 1599.28,
+      "speaker": "Presenter",
+      "text": "maybe they're used to it, but they they they care about the price or they care about maintenance. That's something that you highlight in your ad, that you're the best.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 292,
+      "start": 1600.36,
+      "end": 1602.2,
+      "speaker": "Presenter",
+      "text": "Either that, or you can find an unsatisfied avatar,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 293,
+      "start": 1603.28,
+      "end": 1610.46,
+      "speaker": "Presenter",
+      "text": "which both can work as well. So, this is this is a product that I can see myself running as as well, but",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 294,
+      "start": 1611.3,
+      "end": 1617.1,
+      "speaker": "Presenter",
+      "text": "only difference is I don't have affinity to cats. I'm a pet dog. I don't even I can't even pronounce litter box properly.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 295,
+      "start": 1618.3,
+      "end": 1625.72,
+      "speaker": "Presenter",
+      "text": "Not big cat guy, so uh personally, I can I can see myself scaling this up, but",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 296,
+      "start": 1625.72,
+      "end": 1629.36,
+      "speaker": "Presenter",
+      "text": "if you were to ask me to run a a big brand, uh this wouldn't be my pick.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 297,
+      "start": 1629.78,
+      "end": 1633.46,
+      "speaker": "Presenter",
+      "text": "But for you guys starting out, it doesn't really matter whether you're passionate about it or not.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 298,
+      "start": 1634.04,
+      "end": 1638.62,
+      "speaker": "Presenter",
+      "text": "Um as long as, you know, you feel some affinity to it, you're not repulsed by it. Let's say",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 299,
+      "start": 1639.22,
+      "end": 1644.9,
+      "speaker": "Presenter",
+      "text": "you're selling like some super weird niche, like let's say if you're super religious and then, now, you need to sell some tarot cards,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 300,
+      "start": 1645.78,
+      "end": 1648.74,
+      "speaker": "Presenter",
+      "text": "it's probably not a good idea, bro. It's hard to make it work.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 301,
+      "start": 1652.72,
+      "end": 1656.26,
+      "speaker": "Presenter",
+      "text": "So, just to recap, if you have affinity to this,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 302,
+      "start": 1656.42,
+      "end": 1660.78,
+      "speaker": "Presenter",
+      "text": "based on the criterias I'm seeing, you can just rip this videos, create some of your own ads,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 303,
+      "start": 1661.52,
+      "end": 1667.98,
+      "speaker": "Presenter",
+      "text": "targeting the ang- angles, the pros and cons that I talked about, the new mechanisms, or unsatisfied avatar, you can make this work.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 304,
+      "start": 1668.72,
+      "end": 1676.4,
+      "speaker": "Presenter",
+      "text": "Wait, if you're not a beginner, this can work. If you are continuing beginner, it's harder to make it work, just because of the AOV. You can still make it work,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 305,
+      "start": 1676.64,
+      "end": 1680.38,
+      "speaker": "Presenter",
+      "text": "but my preference is for you to sell something that's cheaper, which means you get a lower",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 306,
+      "start": 1680.38,
+      "end": 1683.48,
+      "speaker": "Presenter",
+      "text": "cost per purchase, you get more purchases in,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 307,
+      "start": 1683.96,
+      "end": 1687.32,
+      "speaker": "Presenter",
+      "text": "'cause at at the very start, you guys might might struggle to get even like one purchase.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 308,
+      "start": 1688.7,
+      "end": 1695.76,
+      "speaker": "Presenter",
+      "text": "Um so if you run something high-ticket like this, it's going to take even longer for that, and I don't want you guys to burn more money at the very beginning stages.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 309,
+      "start": 1696.78,
+      "end": 1702.08,
+      "speaker": "Presenter",
+      "text": "Ideally, the goal is to get profitable as fast as possible, then we can talk about optimizing, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 310,
+      "start": 1704.7,
+      "end": 1705.48,
+      "speaker": "Presenter",
+      "text": "All right.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 311,
+      "start": 1705.48,
+      "end": 1714.04,
+      "speaker": "Presenter",
+      "text": "Let's see other products here. Goli, I would not, it's an actual brand. Shark, same thing, I would not. This one,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 312,
+      "start": 1714.68,
+      "end": 1715.72,
+      "speaker": "Presenter",
+      "text": "let's see what this is.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 313,
+      "start": 1717.6,
+      "end": 1723.48,
+      "speaker": "Presenter",
+      "text": "color clay CC under-eye corrector. No idea what this is, so we'll go on videos and see what the product actually is for.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 314,
+      "start": 1723.58,
+      "end": 1733.72,
+      "speaker": "Played audio",
+      "text": "I didn't know one product could give me so much confidence, but I have this breakout that hurts so bad. I honestly didn't even want to leave the house,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 315,
+      "start": 1734.32,
+      "end": 1737.3,
+      "speaker": "Played audio",
+      "text": "but then, of course, I remembered I had this. Look. Gone.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 316,
+      "start": 1737.3,
+      "end": 1750.36,
+      "speaker": "Played audio",
+      "text": "Gone.",
+      "chunk": 5,
+      "timing": "interpolated"
+    },
+    {
+      "id": 317,
+      "start": 1750.36,
+      "end": 1763.42,
+      "speaker": "Played audio",
+      "text": "Gone.",
+      "chunk": 5,
+      "timing": "interpolated"
+    },
+    {
+      "id": 318,
+      "start": 1763.42,
+      "end": 1764.3,
+      "speaker": "Played audio",
+      "text": "Gone. My eye bags,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 319,
+      "start": 1777.28,
+      "end": 1780.3,
+      "speaker": "Presenter",
+      "text": "Okay. I think we have a general idea of what it does now.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 320,
+      "start": 1780.42,
+      "end": 1783.14,
+      "speaker": "Played audio",
+      "text": "It doesn't make sense why this product is printing this uh-",
+      "chunk": 6,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 321,
+      "start": 1783.58,
+      "end": 1785.94,
+      "speaker": "Presenter",
+      "text": "It looks does look very effective.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 322,
+      "start": 1786.5,
+      "end": 1789.6,
+      "speaker": "Presenter",
+      "text": "So, same process like the previous one. Let's look up the actual brand.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 323,
+      "start": 1791.02,
+      "end": 1795.88,
+      "speaker": "Presenter",
+      "text": "I'm not sure if it's actually called tarte or some- Okay, Tarte Cosmetics.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 324,
+      "start": 1798.66,
+      "end": 1801.22,
+      "speaker": "Presenter",
+      "text": "Let's see, last 7 days they did almost two mil.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 325,
+      "start": 1801.92,
+      "end": 1804.94,
+      "speaker": "Presenter",
+      "text": "High chance that they're a legit brand, but let's see.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 326,
+      "start": 1806.42,
+      "end": 1812.92,
+      "speaker": "Presenter",
+      "text": "Okay, founded 2000. You know, you most likely would not go after something like this",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 327,
+      "start": 1812.92,
+      "end": 1817.18,
+      "speaker": "Presenter",
+      "text": "if you rip it one-to-one",
+      "chunk": 6,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 328,
+      "start": 1817.18,
+      "end": 1821.78,
+      "speaker": "Presenter",
+      "text": "because your supplier won't or, high chance, they won't be able to replicate it. You can ask",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 329,
+      "start": 1821.78,
+      "end": 1824.16,
+      "speaker": "Presenter",
+      "text": "if they can replicate the effectiveness of the product,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 330,
+      "start": 1825.08,
+      "end": 1828.88,
+      "speaker": "Presenter",
+      "text": "then you can run it. Of course, under a totally different brand name.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 331,
+      "start": 1833.0,
+      "end": 1833.76,
+      "speaker": "Presenter",
+      "text": "Skincare is competitive.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 332,
+      "start": 1836.3,
+      "end": 1837.38,
+      "speaker": "Presenter",
+      "text": "This product does look good.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 333,
+      "start": 1838.34,
+      "end": 1841.6,
+      "speaker": "Presenter",
+      "text": "I'm just not sure if you would be able to to to source it, is the thing.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 334,
+      "start": 1842.54,
+      "end": 1847.52,
+      "speaker": "Presenter",
+      "text": "So let's see. The first step I would do here is just ask if everything else looks good, right? Let's say,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 335,
+      "start": 1847.52,
+      "end": 1849.72,
+      "speaker": "Presenter",
+      "text": "of course, I go on the site, same steps.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 336,
+      "start": 1850.92,
+      "end": 1856.42,
+      "speaker": "Presenter",
+      "text": "Let's see, I go on Similarweb. This probably has a lot more traffic going to it.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 337,
+      "start": 1857.08,
+      "end": 1857.92,
+      "speaker": "Presenter",
+      "text": "Yeah, one point-",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 338,
+      "start": 1859.5,
+      "end": 1861.4,
+      "speaker": "Presenter",
+      "text": "Let's see if we can do maths.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 339,
+      "start": 1862.68,
+      "end": 1865.36,
+      "speaker": "Presenter",
+      "text": "This is from worldwide, not US only.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 340,
+      "start": 1866.9,
+      "end": 1871.14,
+      "speaker": "Presenter",
+      "text": "Whatever, let's say 18,000 times, what's the product price?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 341,
+      "start": 1871.14,
+      "end": 1879.28,
+      "speaker": "Presenter",
+      "text": "Let's say, it's considered as $32.",
+      "chunk": 6,
+      "timing": "interpolated"
+    },
+    {
+      "id": 342,
+      "start": 1879.28,
+      "end": 1884.56,
+      "speaker": "Presenter",
+      "text": "Like I said, obviously AOV is going to be much higher, people are not only gonna just buy one.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 343,
+      "start": 1885.8,
+      "end": 1890.3,
+      "speaker": "Presenter",
+      "text": "So you could still run this at a at this product price, cuz if add on bundles and offers, you can make it 60.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 344,
+      "start": 1892.32,
+      "end": 1894.34,
+      "speaker": "Presenter",
+      "text": "Let's say, if the math's correct,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 345,
+      "start": 1894.82,
+      "end": 1900.48,
+      "speaker": "Presenter",
+      "text": "18,000 orders, 32, they're doing about 600k a month on this this one product alone, and they have multiple also.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 346,
+      "start": 1901.18,
+      "end": 1903.56,
+      "speaker": "Presenter",
+      "text": "So the store is doing pretty well.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 347,
+      "start": 1904.16,
+      "end": 1907.66,
+      "speaker": "Presenter",
+      "text": "So, if you can source it without this branding, of course,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 348,
+      "start": 1908.52,
+      "end": 1910.14,
+      "speaker": "Presenter",
+      "text": "it can be something that you run as well.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 349,
+      "start": 1910.14,
+      "end": 1915.64,
+      "speaker": "Presenter",
+      "text": "If I do the the the trademark search, it's obviously going to have a trademark, because it's a big brand. It's been around for a long time.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 350,
+      "start": 1915.64,
+      "end": 1917.22,
+      "speaker": "Presenter",
+      "text": "Tarte Cosmetics.",
+      "chunk": 6,
+      "timing": "interpolated"
+    },
+    {
+      "id": 351,
+      "start": 1917.22,
+      "end": 1920.94,
+      "speaker": "Presenter",
+      "text": "If they don't have a trademark on it, it's super dumb.",
+      "chunk": 6,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 352,
+      "start": 1925.92,
+      "end": 1927.06,
+      "speaker": "Presenter",
+      "text": "What's the actual brand name?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 353,
+      "start": 1928.7,
+      "end": 1929.54,
+      "speaker": "Presenter",
+      "text": "tarte cosmetics",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 354,
+      "start": 1934.94,
+      "end": 1935.36,
+      "speaker": "Presenter",
+      "text": "cosmetics",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 355,
+      "start": 1940.2,
+      "end": 1941.7,
+      "speaker": "Presenter",
+      "text": "Can't even find here, for some reason.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 356,
+      "start": 1945.42,
+      "end": 1948.66,
+      "speaker": "Presenter",
+      "text": "If you ask me, they probably have one, if they don't, they'll be pretty screwed.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 357,
+      "start": 1956.5,
+      "end": 1958.86,
+      "speaker": "Presenter",
+      "text": "Let's see, just to double check.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 358,
+      "start": 1960.52,
+      "end": 1961.22,
+      "speaker": "Presenter",
+      "text": "tarte cosmetics",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 359,
+      "start": 1962.92,
+      "end": 1964.26,
+      "speaker": "Presenter",
+      "text": "If I got this right.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 360,
+      "start": 1975.0,
+      "end": 1976.1,
+      "speaker": "Presenter",
+      "text": "Hm, maybe it's together.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 361,
+      "start": 1983.72,
+      "end": 1984.4,
+      "speaker": "Presenter",
+      "text": "Very suspicious.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 362,
+      "start": 1985.14,
+      "end": 1987.22,
+      "speaker": "Presenter",
+      "text": "To confirm our doubts, let's go on Klot now.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 363,
+      "start": 1988.42,
+      "end": 1992.2,
+      "speaker": "Presenter",
+      "text": "All right. And now we did a Klot search and now it's starting to make more sense.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 364,
+      "start": 1992.48,
+      "end": 1995.92,
+      "speaker": "Presenter",
+      "text": "The trademark tarte, not Tarte Cosmetics, as well as some of their product names.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 365,
+      "start": 1996.82,
+      "end": 1998.02,
+      "speaker": "Presenter",
+      "text": "Big Ego and Power Flex.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 366,
+      "start": 1998.84,
+      "end": 2001.12,
+      "speaker": "Presenter",
+      "text": "Let's see if we can find their-",
+      "chunk": 6,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 367,
+      "start": 2004.4,
+      "end": 2008.74,
+      "speaker": "Presenter",
+      "text": "I can't find it. I'm pretty sure, if you search it up, it'll be there.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 368,
+      "start": 2010.34,
+      "end": 2011.84,
+      "speaker": "Presenter",
+      "text": "Search bar's not working.",
+      "chunk": 6,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 369,
+      "start": 2012.94,
+      "end": 2013.64,
+      "speaker": "Presenter",
+      "text": "Come on, bro.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 370,
+      "start": 2018.36,
+      "end": 2021.16,
+      "speaker": "Presenter",
+      "text": "Which means, if we go back to the Tarte Cosmetics product,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 371,
+      "start": 2021.82,
+      "end": 2024.28,
+      "speaker": "Presenter",
+      "text": "like, there's no trademark on this, actually.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 372,
+      "start": 2024.82,
+      "end": 2030.06,
+      "speaker": "Presenter",
+      "text": "As long as you don't use the name tarte, if your supplier can source it, it would actually be a good opportunity.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 373,
+      "start": 2032.44,
+      "end": 2032.92,
+      "speaker": "Presenter",
+      "text": "So,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 374,
+      "start": 2032.92,
+      "end": 2037.82,
+      "speaker": "Presenter",
+      "text": "you can do the Google Trends search, but skincare is skincare, it's always going to be flat or up.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 375,
+      "start": 2038.32,
+      "end": 2039.58,
+      "speaker": "Presenter",
+      "text": "Unless it is a specific ingredient.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 376,
+      "start": 2040.4,
+      "end": 2045.68,
+      "speaker": "Presenter",
+      "text": "Like uh people were running kojic acid. That's just as an example, right? I think it's called kojic acid.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 377,
+      "start": 2046.04,
+      "end": 2049.68,
+      "speaker": "Presenter",
+      "text": "At at one point, it was viral on TikTok Shop,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 378,
+      "start": 2050.5,
+      "end": 2053.24,
+      "speaker": "Presenter",
+      "text": "and if you were running it now, you might have a pretty hard time.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 379,
+      "start": 2054.24,
+      "end": 2057.16,
+      "speaker": "Presenter",
+      "text": "Let's see, I go to past 5 years again to show you.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 380,
+      "start": 2057.9,
+      "end": 2061.96,
+      "speaker": "Presenter",
+      "text": "Like let's say, you you run it during this peak last year, it's probably going to work. Oh, is it actually this year?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 381,
+      "start": 2062.88,
+      "end": 2065.26,
+      "speaker": "Presenter",
+      "text": "Right now, it's like flat, for some reason.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 382,
+      "start": 2066.54,
+      "end": 2069.44,
+      "speaker": "Presenter",
+      "text": "Is it called kojic acid or something else? Pretty sure it's kojic acid.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 383,
+      "start": 2071.44,
+      "end": 2074.48,
+      "speaker": "Presenter",
+      "text": "Yeah, doesn't look too good. Cuz of this peak and then down.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 384,
+      "start": 2075.38,
+      "end": 2079.14,
+      "speaker": "Presenter",
+      "text": "So, probably some viral TikTok went live here, then now it's not doing so well.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 385,
+      "start": 2079.14,
+      "end": 2086.6,
+      "speaker": "Presenter",
+      "text": "So I would stay away from from from things like that. But this one, like, just looking from this, looking from the store,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 386,
+      "start": 2087.28,
+      "end": 2090.64,
+      "speaker": "Presenter",
+      "text": "obviously, you can take a look at the store itself, where it's a store.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 387,
+      "start": 2094.7,
+      "end": 2096.14,
+      "speaker": "Presenter",
+      "text": "This one, under-eye corrector.",
+      "chunk": 7,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 388,
+      "start": 2100.6,
+      "end": 2104.04,
+      "speaker": "Presenter",
+      "text": "Like, there's no crazy- they don't mention anything crazy about the ingredients.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 389,
+      "start": 2104.04,
+      "end": 2110.48,
+      "speaker": "Presenter",
+      "text": "So I think generally it's fine. It'll be more focused on the transformation then.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 390,
+      "start": 2110.8,
+      "end": 2112.3,
+      "speaker": "Presenter",
+      "text": "This can work.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 391,
+      "start": 2117.08,
+      "end": 2120.4,
+      "speaker": "Presenter",
+      "text": "So if you do this, of course, you'll start off",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 392,
+      "start": 2120.4,
+      "end": 2123.18,
+      "speaker": "Presenter",
+      "text": "ripping some of the videos here,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 393,
+      "start": 2123.9,
+      "end": 2125.54,
+      "speaker": "Presenter",
+      "text": "then you go do deeper research,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 394,
+      "start": 2126.76,
+      "end": 2131.12,
+      "speaker": "Presenter",
+      "text": "like same thing we did. You can look up Tarte Cosmetics, or even let's say you go through the",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 395,
+      "start": 2133.58,
+      "end": 2134.4,
+      "speaker": "Presenter",
+      "text": "TikTok video here,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 396,
+      "start": 2137.12,
+      "end": 2139.4,
+      "speaker": "Presenter",
+      "text": "go in the comments, see what people are saying.",
+      "chunk": 7,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 397,
+      "start": 2140.4,
+      "end": 2144.4,
+      "speaker": "Presenter",
+      "text": "\"What setting powder do you use? Blend, blend, blend so fast. What shade is this?\"",
+      "chunk": 7,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 398,
+      "start": 2146.86,
+      "end": 2150.16,
+      "speaker": "Presenter",
+      "text": "\"Does it work if you're over- 40? Gave mine to my daughter. She loves it.",
+      "chunk": 7,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 399,
+      "start": 2150.56,
+      "end": 2153.08,
+      "speaker": "Presenter",
+      "text": "It really settles in fine lines, even when I set it.\" Hmm.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 400,
+      "start": 2153.08,
+      "end": 2156.5,
+      "speaker": "Presenter",
+      "text": "Maybe with this insight,",
+      "chunk": 7,
+      "timing": "interpolated"
+    },
+    {
+      "id": 401,
+      "start": 2156.5,
+      "end": 2159.28,
+      "speaker": "Presenter",
+      "text": "and with the videos you see, maybe you can run it towards a different audience?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 402,
+      "start": 2159.98,
+      "end": 2160.22,
+      "speaker": "Presenter",
+      "text": "Maybe.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 403,
+      "start": 2166.04,
+      "end": 2166.48,
+      "speaker": "Presenter",
+      "text": "Yeah.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 404,
+      "start": 2167.28,
+      "end": 2170.86,
+      "speaker": "Presenter",
+      "text": "After this, the same process. Do more research. You'll figure out",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 405,
+      "start": 2170.86,
+      "end": 2174.74,
+      "speaker": "Presenter",
+      "text": "what it is: underserved avatar or a new mechanism you can put",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 406,
+      "start": 2175.48,
+      "end": 2176.86,
+      "speaker": "Presenter",
+      "text": "alongside the ripped creatives.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 407,
+      "start": 2178.32,
+      "end": 2180.06,
+      "speaker": "Presenter",
+      "text": "'Cause if you just copy exactly what they're doing,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 408,
+      "start": 2182.64,
+      "end": 2185.74,
+      "speaker": "Presenter",
+      "text": "what they're doing could work as well, but if you don't find another way to stand out,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 409,
+      "start": 2187.22,
+      "end": 2193.28,
+      "speaker": "Presenter",
+      "text": "you'll get to a certain point where one of these creators are going to do a copyright strike on you, and you need to take the ad down.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 410,
+      "start": 2194.28,
+      "end": 2198.58,
+      "speaker": "Presenter",
+      "text": "What you need to understand is, when you rip creatives, that's a very real reality that",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 411,
+      "start": 2198.58,
+      "end": 2203.36,
+      "speaker": "Presenter",
+      "text": "you're pretty much running on borrowed time, where any of these creators can take it down anytime.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 412,
+      "start": 2203.36,
+      "end": 2208.46,
+      "speaker": "Presenter",
+      "text": "So you're on- only using this as the ripped creatives as proof of traction.",
+      "chunk": 7,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 413,
+      "start": 2209.2,
+      "end": 2210.92,
+      "speaker": "Presenter",
+      "text": "After that, you just do your own things,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 414,
+      "start": 2211.7,
+      "end": 2214.5,
+      "speaker": "Presenter",
+      "text": "make sure you get your own ad that actually outperforms. That's That's the goal.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 415,
+      "start": 2215.58,
+      "end": 2219.38,
+      "speaker": "Presenter",
+      "text": "Which is why I always do the thing beforehand, also what part 1 covers, of sending out.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 416,
+      "start": 2222.24,
+      "end": 2226.58,
+      "speaker": "Presenter",
+      "text": "Same thing here, the Tarte concealer, powder brush, similar brand, maybe you can run it the same as well.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 417,
+      "start": 2230.1,
+      "end": 2232.88,
+      "speaker": "Presenter",
+      "text": "Wednesday plush, this is pepin-, this is co- copyrighted, I wouldn't touch that.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 418,
+      "start": 2232.88,
+      "end": 2234.2,
+      "speaker": "Presenter",
+      "text": "What the fuck is this? Electric bike.",
+      "chunk": 7,
+      "timing": "interpolated"
+    },
+    {
+      "id": 419,
+      "start": 2234.2,
+      "end": 2238.84,
+      "speaker": "Presenter",
+      "text": "It's $600. It's too high-ticket for you to run.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 420,
+      "start": 2241.78,
+      "end": 2242.36,
+      "speaker": "Presenter",
+      "text": "What is this?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 421,
+      "start": 2242.36,
+      "end": 2246.66,
+      "speaker": "Presenter",
+      "text": "Compression wear?",
+      "chunk": 7,
+      "timing": "interpolated"
+    },
+    {
+      "id": 422,
+      "start": 2246.66,
+      "end": 2248.48,
+      "speaker": "Presenter",
+      "text": "Makes sense. It usually does, um,",
+      "chunk": 7,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 423,
+      "start": 2248.48,
+      "end": 2252.5,
+      "speaker": "Presenter",
+      "text": "this sort of compressions wear",
+      "chunk": 7,
+      "timing": "interpolated"
+    },
+    {
+      "id": 424,
+      "start": 2252.5,
+      "end": 2254.3,
+      "speaker": "Presenter",
+      "text": "does well usually every Q4.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 425,
+      "start": 2254.7,
+      "end": 2255.82,
+      "speaker": "Presenter",
+      "text": "I- I'll show you why.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 426,
+      "start": 2257.32,
+      "end": 2261.32,
+      "speaker": "Presenter",
+      "text": "It's not something that you really brand out of it, but it's something that does work.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 427,
+      "start": 2269.92,
+      "end": 2274.36,
+      "speaker": "Played audio",
+      "text": "Because if you have a cute costume that you want to wear, but you don't want to be cold, these are perfect.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 428,
+      "start": 2274.36,
+      "end": 2280.76,
+      "speaker": "Played audio",
+      "text": "These fleece leggings has that optical illusion to where it looks like you're wearing nothing underneath, but it's actually fleece, and thick, and super soft inside.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 429,
+      "start": 2280.76,
+      "end": 2286.76,
+      "speaker": "Presenter",
+      "text": "Yeah, p- people run this product every Q4 'cause it makes you look like you're wearing leggings, or like you're actually like not wearing anything.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 430,
+      "start": 2287.4,
+      "end": 2288.96,
+      "speaker": "Presenter",
+      "text": "But since it's winter now,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 431,
+      "start": 2290.02,
+      "end": 2292.7,
+      "speaker": "Presenter",
+      "text": "it helps you, gives you that look while keeping you warm.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 432,
+      "start": 2292.7,
+      "end": 2296.02,
+      "speaker": "Presenter",
+      "text": "People run this every Q4, but it's very seasonal product,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 433,
+      "start": 2296.02,
+      "end": 2297.66,
+      "speaker": "Presenter",
+      "text": "so,",
+      "chunk": 7,
+      "timing": "interpolated"
+    },
+    {
+      "id": 434,
+      "start": 2297.66,
+      "end": 2302.14,
+      "speaker": "Presenter",
+      "text": "keep that in mind. Seasonal products, all you need to do really just rip all of these, run more seasonal-type ads.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 435,
+      "start": 2303.06,
+      "end": 2304.54,
+      "speaker": "Presenter",
+      "text": "Um, that's pretty much it.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 436,
+      "start": 2304.86,
+      "end": 2307.82,
+      "speaker": "Presenter",
+      "text": "Especially if everyone's is already doing the same thing over here,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 437,
+      "start": 2308.34,
+      "end": 2309.78,
+      "speaker": "Presenter",
+      "text": "just find your new mechanism.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 438,
+      "start": 2310.68,
+      "end": 2314.14,
+      "speaker": "Presenter",
+      "text": "For clothing, the example is like, let's say Oodie, right? How the Oodie actually became a big thing,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 439,
+      "start": 2316.4,
+      "end": 2318.88,
+      "speaker": "Presenter",
+      "text": "when Oodie first came out, let me just put this aside to show you.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 440,
+      "start": 2319.64,
+      "end": 2324.7,
+      "speaker": "Presenter",
+      "text": "So Oodie's side now, Oodie sells just like oversized, um, hoodies.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 441,
+      "start": 2326.06,
+      "end": 2330.22,
+      "speaker": "Presenter",
+      "text": "Then, the only thing they needed to do to stand out, it's not to sell a new product or underserved avatar.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 442,
+      "start": 2330.22,
+      "end": 2336.5,
+      "speaker": "Presenter",
+      "text": "For them, like, they invested more into product at the start, they just made it like 10, 20% longer,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 443,
+      "start": 2337.02,
+      "end": 2342.4,
+      "speaker": "Presenter",
+      "text": "'cause people- the issue with the product initially is that people couldn't put the product over their knees, which is what they wanted.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 444,
+      "start": 2342.4,
+      "end": 2345.08,
+      "speaker": "Presenter",
+      "text": "So he made it longer just so it did that. It's essentially the same product.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 445,
+      "start": 2345.9,
+      "end": 2348.48,
+      "speaker": "Presenter",
+      "text": "With this new mechanism, he scaled it to a multi-nine-figure brand now.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 446,
+      "start": 2348.86,
+      "end": 2353.56,
+      "speaker": "Presenter",
+      "text": "Obviously not all of you are going to take that approach. I don't recommend you to, if you're brand new,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 447,
+      "start": 2353.8,
+      "end": 2355.86,
+      "speaker": "Presenter",
+      "text": "'cause you need to invest in stock and product then.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 448,
+      "start": 2356.96,
+      "end": 2360.78,
+      "speaker": "Presenter",
+      "text": "So you can find ways to stand out on your product even without investing right away,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 449,
+      "start": 2361.44,
+      "end": 2364.12,
+      "speaker": "Presenter",
+      "text": "just through highlighting the new mechanisms you can come up with.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 450,
+      "start": 2369.7,
+      "end": 2372.3,
+      "speaker": "Presenter",
+      "text": "So let's go back to- to the product here.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 451,
+      "start": 2373.16,
+      "end": 2374.84,
+      "speaker": "Presenter",
+      "text": "Let's say what's the mechanism over here, right?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 452,
+      "start": 2375.98,
+      "end": 2379.62,
+      "speaker": "Presenter",
+      "text": "I can't tell you because I've not done the deep research, but let's say",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 453,
+      "start": 2379.62,
+      "end": 2382.96,
+      "speaker": "Presenter",
+      "text": "you can find comments right now.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 454,
+      "start": 2383.68,
+      "end": 2387.76,
+      "speaker": "Presenter",
+      "text": "\"Mine are so warm, but I wish you could see all my leg tattoos through them still.\" Hmm.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 455,
+      "start": 2389.72,
+      "end": 2396.86,
+      "speaker": "Presenter",
+      "text": "Maybe you can ask your supplier if they have one version where it's literally you can- it's still as warm, but you can see your leg tattoos.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 456,
+      "start": 2397.62,
+      "end": 2399.24,
+      "speaker": "Presenter",
+      "text": "Maybe that's literally just your mechanism.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 457,
+      "start": 2400.12,
+      "end": 2402.62,
+      "speaker": "Presenter",
+      "text": "Everyone's already seen these ads from TikTok Shop or wherever.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 458,
+      "start": 2403.54,
+      "end": 2406.38,
+      "speaker": "Presenter",
+      "text": "Like, you're n- not new to market, everyone looks at Q4.",
+      "chunk": 7,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 459,
+      "start": 2406.72,
+      "end": 2409.52,
+      "speaker": "Presenter",
+      "text": "So maybe if you had that, you target people of who have tattoos,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 460,
+      "start": 2409.52,
+      "end": 2414.42,
+      "speaker": "Presenter",
+      "text": "you're just, it's say the same thing, but you show that off. It's a new mechanism.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 461,
+      "start": 2415.46,
+      "end": 2416.5,
+      "speaker": "Presenter",
+      "text": "Literally that- that's how you're going to win.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 462,
+      "start": 2417.64,
+      "end": 2418.44,
+      "speaker": "Presenter",
+      "text": "But, of course,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 463,
+      "start": 2418.96,
+      "end": 2421.44,
+      "speaker": "Presenter",
+      "text": "do more research to verify it, 'cause I know from the",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 464,
+      "start": 2421.44,
+      "end": 2427.28,
+      "speaker": "Presenter",
+      "text": "products we talked about today, you guys are going to rip it. If you rip it one to one, it's not going to work out well.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 465,
+      "start": 2428.0,
+      "end": 2428.9,
+      "speaker": "Presenter",
+      "text": "Do your own research, please.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 466,
+      "start": 2430.52,
+      "end": 2432.62,
+      "speaker": "Presenter",
+      "text": "'Cause I'm not doing super in-depth research as well.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 467,
+      "start": 2432.62,
+      "end": 2440.78,
+      "speaker": "Presenter",
+      "text": "That's- that's all covered in the other modules. I'm just teaching you guys what I actually look for, then you guys will do the deeper research, um, in the other modules. They cover it.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 468,
+      "start": 2442.56,
+      "end": 2447.34,
+      "speaker": "Presenter",
+      "text": "Goli, same thing, brand. Medicube, same thing, brand. Comfort, brand. Halara also, brand.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 469,
+      "start": 2451.14,
+      "end": 2454.9,
+      "speaker": "Presenter",
+      "text": "This one portable car jump starter with air compressor.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 470,
+      "start": 2455.92,
+      "end": 2455.98,
+      "speaker": "Presenter",
+      "text": "So,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 471,
+      "start": 2465.06,
+      "end": 2467.28,
+      "speaker": "Presenter",
+      "text": "let's see the ad.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 472,
+      "start": 2468.12,
+      "end": 2469.06,
+      "speaker": "Presenter",
+      "text": "What is this product?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 473,
+      "start": 2471.72,
+      "end": 2472.76,
+      "speaker": "Presenter",
+      "text": "Okay, fearmongering ad.",
+      "chunk": 8,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 474,
+      "start": 2472.76,
+      "end": 2476.96,
+      "speaker": "Played audio",
+      "text": "This sparks, right? Yeah.",
+      "chunk": 8,
+      "timing": "interpolated"
+    },
+    {
+      "id": 475,
+      "start": 2476.96,
+      "end": 2481.68,
+      "speaker": "Played audio",
+      "text": "This is one of the most dangerous things that you can keep in your car. Not only will it damage your sensor and",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 476,
+      "start": 2481.68,
+      "end": 2485.64,
+      "speaker": "Played audio",
+      "text": "the computer, but it also can damage your battery, and you have",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 477,
+      "start": 2485.86,
+      "end": 2488.0,
+      "speaker": "Played audio",
+      "text": "it turns green, which means that it's ready to start.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 478,
+      "start": 2488.46,
+      "end": 2492.78,
+      "speaker": "Played audio",
+      "text": "Get that error message again, and no and a regular USB port to fully charge your phone.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 479,
+      "start": 2492.9,
+      "end": 2497.66,
+      "speaker": "Played audio",
+      "text": "And if you ever have an emergency at night, this does have a flashlight that also blinks red and blue.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 480,
+      "start": 2497.66,
+      "end": 2504.3,
+      "speaker": "Played audio",
+      "text": "I think every person should have one of these in their car for their own safety. If you want to grab one, I'm going to leave the link down in this orange shopping cart below.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 481,
+      "start": 2504.3,
+      "end": 2507.76,
+      "speaker": "Played audio",
+      "text": "Just know that they have free shipping right now, and they're on a huge flash",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 482,
+      "start": 2508.64,
+      "end": 2509.04,
+      "speaker": "Presenter",
+      "text": "Okay.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 483,
+      "start": 2511.4,
+      "end": 2516.32,
+      "speaker": "Presenter",
+      "text": "You guys will need, if you want to sell tech products, you will need to be more mindful cuz more things can go wrong,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 484,
+      "start": 2516.32,
+      "end": 2519.72,
+      "speaker": "Presenter",
+      "text": "especially for something like a car jump starter with a battery inside.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 485,
+      "start": 2520.92,
+      "end": 2524.0,
+      "speaker": "Presenter",
+      "text": "You're not sure of the actual product defect defect rate.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 486,
+      "start": 2524.94,
+      "end": 2526.88,
+      "speaker": "Presenter",
+      "text": "But most of the ads here are literally just",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 487,
+      "start": 2529.02,
+      "end": 2531.4,
+      "speaker": "Presenter",
+      "text": "a lot of it is, what's the word for it?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 488,
+      "start": 2532.34,
+      "end": 2536.2,
+      "speaker": "Presenter",
+      "text": "Fearmongering, which works works really well. Not that you should go away from it.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 489,
+      "start": 2538.08,
+      "end": 2540.18,
+      "speaker": "Presenter",
+      "text": "Let's see what type of ads are doing well here.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 490,
+      "start": 2540.9,
+      "end": 2542.5,
+      "speaker": "Presenter",
+      "text": "It's just portable car jump starter.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 491,
+      "start": 2544.92,
+      "end": 2548.88,
+      "speaker": "Presenter",
+      "text": "Let's see. I'm just curious what type of price can you get it for on AliExpress.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 492,
+      "start": 2551.04,
+      "end": 2552.7,
+      "speaker": "Presenter",
+      "text": "Because that is a factor as well.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 493,
+      "start": 2553.22,
+      "end": 2559.18,
+      "speaker": "Presenter",
+      "text": "Sometimes the prices you're going to see on TikTok Shop are going to be much lower than the prices you usually sell it for.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 494,
+      "start": 2559.88,
+      "end": 2563.66,
+      "speaker": "Presenter",
+      "text": "You're going to be marking marking it up a lot more.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 495,
+      "start": 2563.66,
+      "end": 2566.52,
+      "speaker": "Presenter",
+      "text": "Usually, the markup is three times the product cost, right?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 496,
+      "start": 2566.86,
+      "end": 2569.18,
+      "speaker": "Presenter",
+      "text": "So let's say, what's the product name again?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 497,
+      "start": 2571.58,
+      "end": 2574.56,
+      "speaker": "Presenter",
+      "text": "Portable car jump starter.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 498,
+      "start": 2574.56,
+      "end": 2579.18,
+      "speaker": "Presenter",
+      "text": "You can search in AliExpress just to get a rough idea before you ask your agent for a quote.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 499,
+      "start": 2579.18,
+      "end": 2580.38,
+      "speaker": "Presenter",
+      "text": "So",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 500,
+      "start": 2583.56,
+      "end": 2586.74,
+      "speaker": "Presenter",
+      "text": "I think this this type is the most similar one.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 501,
+      "start": 2588.08,
+      "end": 2588.68,
+      "speaker": "Presenter",
+      "text": "Or you can literally just go,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 502,
+      "start": 2588.68,
+      "end": 2591.22,
+      "speaker": "Presenter",
+      "text": "let's say for me,",
+      "chunk": 8,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 503,
+      "start": 2592.48,
+      "end": 2594.12,
+      "speaker": "Presenter",
+      "text": "can I save the photo?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 504,
+      "start": 2595.64,
+      "end": 2596.2,
+      "speaker": "Presenter",
+      "text": "I think I have it saved.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 505,
+      "start": 2596.2,
+      "end": 2601.06,
+      "speaker": "Presenter",
+      "text": "H-Y-H-A like Hyha, Hyha,",
+      "chunk": 8,
+      "timing": "interpolated"
+    },
+    {
+      "id": 506,
+      "start": 2601.06,
+      "end": 2606.06,
+      "speaker": "Presenter",
+      "text": "how will you pronounce it, Hyha battery charger.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 507,
+      "start": 2607.78,
+      "end": 2608.66,
+      "speaker": "Presenter",
+      "text": "Okay, this one.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 508,
+      "start": 2614.5,
+      "end": 2617.76,
+      "speaker": "Presenter",
+      "text": "So right, the only reason I'm going here is just to save the image if I can.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 509,
+      "start": 2617.76,
+      "end": 2621.14,
+      "speaker": "Presenter",
+      "text": "There are a lot of tools you can use to save image: right click, save image as.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 510,
+      "start": 2621.96,
+      "end": 2625.0,
+      "speaker": "Presenter",
+      "text": "I'm just going to go to AliExpress and reverse-image search it.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 511,
+      "start": 2631.08,
+      "end": 2631.8,
+      "speaker": "Presenter",
+      "text": "Found it already.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 512,
+      "start": 2633.42,
+      "end": 2634.78,
+      "speaker": "Presenter",
+      "text": "And from what I'm seeing,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 513,
+      "start": 2635.28,
+      "end": 2637.32,
+      "speaker": "Presenter",
+      "text": "of course, we're in funny country prices.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 514,
+      "start": 2637.84,
+      "end": 2640.48,
+      "speaker": "Presenter",
+      "text": "Let me put in USD so you guys understand.",
+      "chunk": 8,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 515,
+      "start": 2643.2,
+      "end": 2644.84,
+      "speaker": "Presenter",
+      "text": "Bro, they reset it on me.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 516,
+      "start": 2649.66,
+      "end": 2652.04,
+      "speaker": "Presenter",
+      "text": "It's like $150 for for these types.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 517,
+      "start": 2653.96,
+      "end": 2657.36,
+      "speaker": "Presenter",
+      "text": "Okay, this one is $28, but I think it's a bit different.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 518,
+      "start": 2661.06,
+      "end": 2662.66,
+      "speaker": "Presenter",
+      "text": "Does it have the same features?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 519,
+      "start": 2667.26,
+      "end": 2668.14,
+      "speaker": "Presenter",
+      "text": "Not exactly.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 520,
+      "start": 2668.14,
+      "end": 2671.5,
+      "speaker": "Presenter",
+      "text": "I mean, it does have, it's not the exact same product,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 521,
+      "start": 2671.5,
+      "end": 2674.34,
+      "speaker": "Presenter",
+      "text": "but let's say if it was $28",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 522,
+      "start": 2674.34,
+      "end": 2676.42,
+      "speaker": "Presenter",
+      "text": "and they're selling it for",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 523,
+      "start": 2676.42,
+      "end": 2683.42,
+      "speaker": "Presenter",
+      "text": "$40, obviously, this is a Chinese brand. They They run their own stuff. Obviously, that's why it's cheap.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 524,
+      "start": 2684.04,
+      "end": 2687.32,
+      "speaker": "Presenter",
+      "text": "You need to be able to get it and run it for 3x this.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 525,
+      "start": 2687.48,
+      "end": 2692.3,
+      "speaker": "Presenter",
+      "text": "Let's say your supplier gets it for $25 or $30, and turn in at $90.",
+      "chunk": 8,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 526,
+      "start": 2693.02,
+      "end": 2695.56,
+      "speaker": "Presenter",
+      "text": "So let's say you look at competition on, right now.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 527,
+      "start": 2695.86,
+      "end": 2697.88,
+      "speaker": "Presenter",
+      "text": "Let's say go on Amazon.",
+      "chunk": 8,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 528,
+      "start": 2700.96,
+      "end": 2702.6,
+      "speaker": "Presenter",
+      "text": "What's the keyword for this product?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 529,
+      "start": 2705.12,
+      "end": 2707.94,
+      "speaker": "Presenter",
+      "text": "Portable car jump starter with air compressor.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 530,
+      "start": 2707.94,
+      "end": 2712.68,
+      "speaker": "Presenter",
+      "text": "Compressor.",
+      "chunk": 8,
+      "timing": "interpolated"
+    },
+    {
+      "id": 531,
+      "start": 2712.68,
+      "end": 2713.82,
+      "speaker": "Presenter",
+      "text": "Nope, spelled it wrong.",
+      "chunk": 8,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 532,
+      "start": 2714.98,
+      "end": 2716.9,
+      "speaker": "Presenter",
+      "text": "Com, there we go.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 533,
+      "start": 2717.12,
+      "end": 2724.32,
+      "speaker": "Presenter",
+      "text": "Right, it's $40, $47. These ones don't look as as premium, obviously.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 534,
+      "start": 2725.14,
+      "end": 2728.1,
+      "speaker": "Presenter",
+      "text": "Trying to find the exact one, but I can't, or so.",
+      "chunk": 8,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 535,
+      "start": 2731.32,
+      "end": 2732.04,
+      "speaker": "Presenter",
+      "text": "Like, it's $40,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 536,
+      "start": 2733.44,
+      "end": 2735.72,
+      "speaker": "Presenter",
+      "text": "so you need to be able to sell it for a higher price.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 537,
+      "start": 2736.2,
+      "end": 2742.16,
+      "speaker": "Presenter",
+      "text": "It depends how much you can source it for. If let's say the source price is too close to this, like $30, $40,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 538,
+      "start": 2743.1,
+      "end": 2747.78,
+      "speaker": "Presenter",
+      "text": "it's not something that I would sell, cuz you need to be selling something for 3x the price, whereas this one is only $41.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 539,
+      "start": 2748.82,
+      "end": 2749.72,
+      "speaker": "Presenter",
+      "text": "Can you still make it work?",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 540,
+      "start": 2752.8,
+      "end": 2753.16,
+      "speaker": "Presenter",
+      "text": "Yes,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 541,
+      "start": 2753.16,
+      "end": 2757.52,
+      "speaker": "Presenter",
+      "text": "but you want something that is not, not, the price difference isn't too big.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 542,
+      "start": 2758.24,
+      "end": 2759.92,
+      "speaker": "Presenter",
+      "text": "This way when you mark it up, it's not too unreasonable.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 543,
+      "start": 2760.68,
+      "end": 2761.16,
+      "speaker": "Presenter",
+      "text": "Does that make sense?",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 544,
+      "start": 2761.92,
+      "end": 2766.28,
+      "speaker": "Presenter",
+      "text": "I'm looking at this Amazon because I want to have a, have a gauge on what people would actually pay",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 545,
+      "start": 2766.56,
+      "end": 2768.78,
+      "speaker": "Presenter",
+      "text": "for this stuff, since I'm not the audience itself.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 546,
+      "start": 2770.22,
+      "end": 2774.14,
+      "speaker": "Presenter",
+      "text": "So, you do more market research like that to see what is an average price in the market, what's high, what's low.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 547,
+      "start": 2774.14,
+      "end": 2777.4,
+      "speaker": "Presenter",
+      "text": "In fact, if you're smart about it, you can usually ask Claude. Hey, Claude,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 548,
+      "start": 2778.36,
+      "end": 2780.56,
+      "speaker": "Presenter",
+      "text": "all right, simple. Now you do a Claude search.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 549,
+      "start": 2780.8,
+      "end": 2782.34,
+      "speaker": "Presenter",
+      "text": "Average price is $60 to $200.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 550,
+      "start": 2783.34,
+      "end": 2786.22,
+      "speaker": "Presenter",
+      "text": "So, if you can get it for, let's say, 20, if you sell it at 60,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 551,
+      "start": 2787.1,
+      "end": 2789.76,
+      "speaker": "Presenter",
+      "text": "this is honestly not too bad, cuz it's within the average price range.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 552,
+      "start": 2790.72,
+      "end": 2791.52,
+      "speaker": "Presenter",
+      "text": "So, it's not really too bad.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 553,
+      "start": 2792.1,
+      "end": 2798.8,
+      "speaker": "Presenter",
+      "text": "So, based on this, it could be something you sell based on um how, how much you can get it for from your supplier.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 554,
+      "start": 2800.14,
+      "end": 2802.5,
+      "speaker": "Presenter",
+      "text": "Besides that, you need to do the manual research again.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 555,
+      "start": 2803.8,
+      "end": 2808.3,
+      "speaker": "Presenter",
+      "text": "Let's say research on topics on Reddit or wherever it is.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 556,
+      "start": 2809.2,
+      "end": 2810.88,
+      "speaker": "Presenter",
+      "text": "What do people actually say about these compressors?",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 557,
+      "start": 2812.66,
+      "end": 2815.76,
+      "speaker": "Presenter",
+      "text": "Okay, let's say mechanics, what do mechanics look for? What's good? What's bad?",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 558,
+      "start": 2816.3,
+      "end": 2819.88,
+      "speaker": "Presenter",
+      "text": "Maybe you could make an ad around mechanic approved with what they say here.",
+      "chunk": 9,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 559,
+      "start": 2820.32,
+      "end": 2830.06,
+      "speaker": "Presenter",
+      "text": "Or let's say the original video, if I can find it.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 560,
+      "start": 2834.7,
+      "end": 2836.42,
+      "speaker": "Presenter",
+      "text": "Let's go to comments again.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 561,
+      "start": 2839.8,
+      "end": 2842.38,
+      "speaker": "Presenter",
+      "text": "\"It really is dangerous if you aren't with tire.",
+      "chunk": 9,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 562,
+      "start": 2842.5,
+      "end": 2844.86,
+      "speaker": "Presenter",
+      "text": "The miniature sensor told me everything I need to know.\"",
+      "chunk": 9,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 563,
+      "start": 2846.12,
+      "end": 2848.18,
+      "speaker": "Presenter",
+      "text": "Yeah, \"$30 is is cheap.",
+      "chunk": 9,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 564,
+      "start": 2850.1,
+      "end": 2851.44,
+      "speaker": "Presenter",
+      "text": "Only dangerous if you do it wrong.\"",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 565,
+      "start": 2851.78,
+      "end": 2853.2,
+      "speaker": "Presenter",
+      "text": "So, also men saying this.",
+      "chunk": 9,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 566,
+      "start": 2854.16,
+      "end": 2855.76,
+      "speaker": "Presenter",
+      "text": "If let's say you're targeting towards women,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 567,
+      "start": 2856.46,
+      "end": 2859.48,
+      "speaker": "Presenter",
+      "text": "do they really know how to, how to work a jump starter?",
+      "chunk": 9,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 568,
+      "start": 2859.48,
+      "end": 2860.24,
+      "speaker": "Presenter",
+      "text": "Not really.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 569,
+      "start": 2860.76,
+      "end": 2866.08,
+      "speaker": "Presenter",
+      "text": "So maybe you can run this as an angle for them, it's easy for them towards women for them to be able to jumpstart it easily,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 570,
+      "start": 2866.98,
+      "end": 2867.98,
+      "speaker": "Presenter",
+      "text": "instead of just targeting dudes.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 571,
+      "start": 2868.78,
+      "end": 2870.16,
+      "speaker": "Presenter",
+      "text": "That could be an angle you run, too.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 572,
+      "start": 2873.62,
+      "end": 2874.66,
+      "speaker": "Presenter",
+      "text": "You can double check again as well,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 573,
+      "start": 2874.66,
+      "end": 2876.72,
+      "speaker": "Presenter",
+      "text": "if I can find uh",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 574,
+      "start": 2876.72,
+      "end": 2880.34,
+      "speaker": "Presenter",
+      "text": "store. It's called HeeHaa.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 575,
+      "start": 2880.34,
+      "end": 2885.14,
+      "speaker": "Presenter",
+      "text": "Chinese-ass name.",
+      "chunk": 9,
+      "timing": "interpolated"
+    },
+    {
+      "id": 576,
+      "start": 2885.14,
+      "end": 2886.08,
+      "speaker": "Presenter",
+      "text": "Jump starter cable,",
+      "chunk": 9,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 577,
+      "start": 2887.28,
+      "end": 2889.1,
+      "speaker": "Presenter",
+      "text": "Google Trends,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 578,
+      "start": 2890.64,
+      "end": 2892.16,
+      "speaker": "Presenter",
+      "text": "portable jump starter,",
+      "chunk": 9,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 579,
+      "start": 2892.54,
+      "end": 2897.72,
+      "speaker": "Presenter",
+      "text": "car jump starter with air compressor.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 580,
+      "start": 2897.72,
+      "end": 2905.0,
+      "speaker": "Presenter",
+      "text": "It's too low volume, car jump starter.",
+      "chunk": 9,
+      "timing": "interpolated"
+    },
+    {
+      "id": 581,
+      "start": 2905.0,
+      "end": 2908.64,
+      "speaker": "Presenter",
+      "text": "It peaks during December.",
+      "chunk": 9,
+      "timing": "interpolated"
+    },
+    {
+      "id": 582,
+      "start": 2908.64,
+      "end": 2911.04,
+      "speaker": "Presenter",
+      "text": "I would never expect a product like this is pretty seasonal.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 583,
+      "start": 2913.14,
+      "end": 2915.14,
+      "speaker": "Presenter",
+      "text": "It's very surprised it's very surprising, apparently it is.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 584,
+      "start": 2916.68,
+      "end": 2923.34,
+      "speaker": "Presenter",
+      "text": "So if at this current stage right now, I would run it, because hey, seasonal, it's gifting season.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 585,
+      "start": 2923.96,
+      "end": 2927.32,
+      "speaker": "Presenter",
+      "text": "Besides that, I don't think I would really run it, just cause due to seasonality.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 586,
+      "start": 2928.32,
+      "end": 2930.36,
+      "speaker": "Presenter",
+      "text": "You peak during Q4, but after that it's kind of flat.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 587,
+      "start": 2931.22,
+      "end": 2933.48,
+      "speaker": "Presenter",
+      "text": "You're going to have a hard time running it besides, besides seasonality.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 588,
+      "start": 2934.04,
+      "end": 2936.94,
+      "speaker": "Presenter",
+      "text": "Well, if your goal is just to get something going, it does make sense.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 589,
+      "start": 2940.08,
+      "end": 2944.24,
+      "speaker": "Presenter",
+      "text": "Let's see Similarweb just to estimate what the main store is doing.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 590,
+      "start": 2944.58,
+      "end": 2948.04,
+      "speaker": "Presenter",
+      "text": "Also bear in mind a lot of these big TikTok Shop stores,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 591,
+      "start": 2949.12,
+      "end": 2952.62,
+      "speaker": "Presenter",
+      "text": "they will do a lot of big TikTok Shop numbers, but they will do very little in actual website.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 592,
+      "start": 2954.04,
+      "end": 2957.1,
+      "speaker": "Presenter",
+      "text": "Especially like Chinese, Chinese, these all these Chinese stores,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 593,
+      "start": 2958.54,
+      "end": 2963.52,
+      "speaker": "Presenter",
+      "text": "they they can compete on price and product, which TikTok Shop allows them to push, they can give a lot of incentives.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 594,
+      "start": 2964.2,
+      "end": 2966.84,
+      "speaker": "Presenter",
+      "text": "When running ads to their own site, they don't know how to make the creatives.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 595,
+      "start": 2967.86,
+      "end": 2969.66,
+      "speaker": "Presenter",
+      "text": "So, it's not too big of an issue, really.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 596,
+      "start": 2970.66,
+      "end": 2973.06,
+      "speaker": "Presenter",
+      "text": "Unless you're doing other research methods,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 597,
+      "start": 2973.8,
+      "end": 2977.98,
+      "speaker": "Presenter",
+      "text": "let's say you're going on Facebook Ad Library, seeing tools like AfterLib, um Minea,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 598,
+      "start": 2978.56,
+      "end": 2983.82,
+      "speaker": "Presenter",
+      "text": "then this this total visits become much more important, cuz you're looking at website, people who drive traffic to the website.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 599,
+      "start": 2984.66,
+      "end": 2991.62,
+      "speaker": "Presenter",
+      "text": "From this, it's really maybe this could be opportunity where you just run ads towards your own site, cuz it's not a lot of visitors to their own site.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 600,
+      "start": 2992.52,
+      "end": 2993.08,
+      "speaker": "Presenter",
+      "text": "Could be.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 601,
+      "start": 2993.98,
+      "end": 2996.92,
+      "speaker": "Presenter",
+      "text": "But you just need to verify the actual product, that it actually is legit first.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 602,
+      "start": 2997.56,
+      "end": 3002.5,
+      "speaker": "Presenter",
+      "text": "Like car jump starter tech itself is already pretty wonky with defect rates, with a battery,",
+      "chunk": 9,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 603,
+      "start": 3003.0,
+      "end": 3005.86,
+      "speaker": "Presenter",
+      "text": "it's it's a pretty big risk. If something goes wrong, it goes boom.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 604,
+      "start": 3006.62,
+      "end": 3011.36,
+      "speaker": "Presenter",
+      "text": "So if you're not comfortable with that, don't run it. If you can verify that it's legit, test it out yourself first in time, then you can.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 605,
+      "start": 3015.34,
+      "end": 3018.02,
+      "speaker": "Presenter",
+      "text": "Let's see what else. Collagen bio",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 606,
+      "start": 3021.54,
+      "end": 3022.24,
+      "speaker": "Presenter",
+      "text": "Let's see if we can find anything else. So do a last one.",
+      "chunk": 9,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 607,
+      "start": 3024.24,
+      "end": 3026.04,
+      "speaker": "Presenter",
+      "text": "No, we are not selling lawn sweepers, bro.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 608,
+      "start": 3026.82,
+      "end": 3027.34,
+      "speaker": "Presenter",
+      "text": "That's crazy.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 609,
+      "start": 3028.74,
+      "end": 3034.46,
+      "speaker": "Presenter",
+      "text": "Just in if in case you guys want to know why you don't sell lawn sweepers: one, it's a very common product; two, it's heavy,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 610,
+      "start": 3036.08,
+      "end": 3042.02,
+      "speaker": "Presenter",
+      "text": "and expensive. Heavy means it's it's going to be a lot of issues during shipping, and it costs a lot.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 611,
+      "start": 3043.18,
+      "end": 3046.26,
+      "speaker": "Presenter",
+      "text": "Um the thing with these heavy heavy products like a lawnmower,",
+      "chunk": 9,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 612,
+      "start": 3046.72,
+      "end": 3049.74,
+      "speaker": "Presenter",
+      "text": "they can get sell it for this price cuz they buy bulk into a 3PL.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 613,
+      "start": 3050.02,
+      "end": 3053.46,
+      "speaker": "Presenter",
+      "text": "If you are buying this, dropshipping straight for heavy product, it might cost like double,",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 614,
+      "start": 3054.1,
+      "end": 3054.86,
+      "speaker": "Presenter",
+      "text": "so not not advisable.",
+      "chunk": 9,
+      "timing": "aligned"
+    },
+    {
+      "id": 615,
+      "start": 3058.74,
+      "end": 3059.72,
+      "speaker": "Presenter",
+      "text": "What's up with this?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 616,
+      "start": 3059.72,
+      "end": 3061.86,
+      "speaker": "Presenter",
+      "text": "Collagen.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 617,
+      "start": 3065.32,
+      "end": 3066.64,
+      "speaker": "Presenter",
+      "text": "Top-performing one is uh",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 618,
+      "start": 3068.4,
+      "end": 3070.38,
+      "speaker": "Presenter",
+      "text": "in Spanish. I'm not sure. I can't I don't understand.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 619,
+      "start": 3072.86,
+      "end": 3074.6,
+      "speaker": "Presenter",
+      "text": "Okay, second-performing video. What is this?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 620,
+      "start": 3077.04,
+      "end": 3079.18,
+      "speaker": "Presenter",
+      "text": "This is crazy. From cancer researcher? I'm not sure if it's true or not, okay, maybe it's true.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 621,
+      "start": 3079.18,
+      "end": 3086.6,
+      "speaker": "Played audio",
+      "text": "Collagen is the most abundant protein found in our bodies, and it's like the glue that holds everything together. It keeps your skin firm, elastic, and hydrated,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 622,
+      "start": 3086.6,
+      "end": 3095.64,
+      "speaker": "Played audio",
+      "text": "provides cushioning and strength for joints and cartilage, adds flexibility and strength to your bones, supports the strength and growth of your within your cells. So that is why you need to buy hydrolyzed",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 623,
+      "start": 3095.64,
+      "end": 3105.36,
+      "speaker": "Played audio",
+      "text": "collagen. These are little peptides that are broken apart from regular collagen, and they have a much, much higher absorption rate and more bioavailable, which means that your body is actually going to be able to use it. Full collagen",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 624,
+      "start": 3105.36,
+      "end": 3114.34,
+      "speaker": "Played audio",
+      "text": "proteins are usually just peed right out of your body, so hydrolyzed peptides are going to be small enough to pass through your gut lining and enter the cells and enter systemic circulation where it's going to travel",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 625,
+      "start": 3114.34,
+      "end": 3124.32,
+      "speaker": "Played audio",
+      "text": "throughout your bloodstream and find the important cells that can use those amino acids and peptides to create way more collagen in your body. So, it's very important to find a supplement that has hydrolyzed collagen and also shows the amino",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 626,
+      "start": 3124.32,
+      "end": 3133.94,
+      "speaker": "Played audio",
+      "text": "acid profile of all the peptides that are in the formulation. And the great thing about collagen is that you can take it at any time in the day, so usually people do powders, which are really easy to mix into your drinks or smoothies or yogurt,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 627,
+      "start": 3133.94,
+      "end": 3141.76,
+      "speaker": "Played audio",
+      "text": "really easy to use. And if you would like a recommendation for a grass-fed, reputable, third-party tested company that I use myself, the one from NeoCell, this big chungus",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 628,
+      "start": 3141.76,
+      "end": 3145.42,
+      "speaker": "Played audio",
+      "text": "bottle right here only $28, and this has the full",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 629,
+      "start": 3145.42,
+      "end": 3147.18,
+      "speaker": "Presenter",
+      "text": "So, before we go into more research, like,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 630,
+      "start": 3147.18,
+      "end": 3148.98,
+      "speaker": "Presenter",
+      "text": "this is a very unaware ad.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 631,
+      "start": 3149.68,
+      "end": 3151.08,
+      "speaker": "Presenter",
+      "text": "You may have seen VSLs before.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 632,
+      "start": 3151.08,
+      "end": 3155.04,
+      "speaker": "Presenter",
+      "text": "This style of TikTok ads are literally just unaware VSLs in just a different format.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 633,
+      "start": 3155.9,
+      "end": 3157.16,
+      "speaker": "Presenter",
+      "text": "And it's I don't know how long it is.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 634,
+      "start": 3157.52,
+      "end": 3158.32,
+      "speaker": "Played audio",
+      "text": "full amino acid",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 635,
+      "start": 3158.32,
+      "end": 3159.9,
+      "speaker": "Presenter",
+      "text": "Oh, collagen.",
+      "chunk": 10,
+      "timing": "interpolated"
+    },
+    {
+      "id": 636,
+      "start": 3159.9,
+      "end": 3161.28,
+      "speaker": "Presenter",
+      "text": "It's two minutes long.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 637,
+      "start": 3162.0,
+      "end": 3165.2,
+      "speaker": "Presenter",
+      "text": "It's going viral. People will watch a two-minute long video.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 638,
+      "start": 3165.34,
+      "end": 3167.72,
+      "speaker": "Presenter",
+      "text": "Your ads are never too long. It's just too boring.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 639,
+      "start": 3168.12,
+      "end": 3171.04,
+      "speaker": "Presenter",
+      "text": "Like, she speaks fast. She speak gets all the information out.",
+      "chunk": 10,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 640,
+      "start": 3171.74,
+      "end": 3173.6,
+      "speaker": "Presenter",
+      "text": "So let's actually do some research on the product itself.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 641,
+      "start": 3174.02,
+      "end": 3175.28,
+      "speaker": "Presenter",
+      "text": "Collagen is very popular one already.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 642,
+      "start": 3176.4,
+      "end": 3177.88,
+      "speaker": "Presenter",
+      "text": "So according to what I understand,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 643,
+      "start": 3178.28,
+      "end": 3182.24,
+      "speaker": "Presenter",
+      "text": "this one is better because it has a new mechanism, it's hydrolyzed, whatever it is.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 644,
+      "start": 3182.32,
+      "end": 3184.36,
+      "speaker": "Presenter",
+      "text": "I want to see the actual product itself.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 645,
+      "start": 3185.32,
+      "end": 3186.14,
+      "speaker": "Presenter",
+      "text": "So what's the brand name?",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 646,
+      "start": 3187.36,
+      "end": 3188.16,
+      "speaker": "Presenter",
+      "text": "NeoCell collagen.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 647,
+      "start": 3194.48,
+      "end": 3196.32,
+      "speaker": "Presenter",
+      "text": "Why is it in JPY?",
+      "chunk": 10,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 648,
+      "start": 3196.66,
+      "end": 3198.66,
+      "speaker": "Presenter",
+      "text": "Okay, funny number, back to USD.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 649,
+      "start": 3203.56,
+      "end": 3204.48,
+      "speaker": "Presenter",
+      "text": "Damn, so cheap.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 650,
+      "start": 3207.14,
+      "end": 3210.52,
+      "speaker": "Presenter",
+      "text": "It's going to be hard for you to sell this product if it's this cheap.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 651,
+      "start": 3210.52,
+      "end": 3213.4,
+      "speaker": "Presenter",
+      "text": "Let's see. Buy one is $32.",
+      "chunk": 10,
+      "timing": "interpolated"
+    },
+    {
+      "id": 652,
+      "start": 3213.4,
+      "end": 3214.08,
+      "speaker": "Presenter",
+      "text": "It's not too bad.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 653,
+      "start": 3218.16,
+      "end": 3220.74,
+      "speaker": "Presenter",
+      "text": "So if if you were to sell the product on a pricing itself,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 654,
+      "start": 3221.42,
+      "end": 3225.78,
+      "speaker": "Presenter",
+      "text": "you wouldn't sell the 14-day supply. You need to sell the 28-day supply. The 14-day supply is too low-ticket.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 655,
+      "start": 3226.76,
+      "end": 3233.24,
+      "speaker": "Presenter",
+      "text": "So there's a lot of ways you can make the AOV higher. Let's say if you sell a 28-day supply instead of buy the buy one is at $32,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 656,
+      "start": 3233.5,
+      "end": 3234.92,
+      "speaker": "Presenter",
+      "text": "it's a buy one, free one offer",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 657,
+      "start": 3234.92,
+      "end": 3238.24,
+      "speaker": "Presenter",
+      "text": "um for I don't know, half the price, let's say $50,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 658,
+      "start": 3238.98,
+      "end": 3241.2,
+      "speaker": "Presenter",
+      "text": "your AOV now is raised to $50 plus.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 659,
+      "start": 3241.48,
+      "end": 3248.0,
+      "speaker": "Presenter",
+      "text": "Then you can add on more um mo- more products to it, increase the price, free gifts, or whatever to get your AOV even higher.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 660,
+      "start": 3248.76,
+      "end": 3250.2,
+      "speaker": "Presenter",
+      "text": "This, by itself, is a pretty cheap product.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 661,
+      "start": 3251.16,
+      "end": 3252.36,
+      "speaker": "Presenter",
+      "text": "So bear that in mind.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 662,
+      "start": 3252.36,
+      "end": 3255.54,
+      "speaker": "Presenter",
+      "text": "Like same thing, go on Claude and actually look at what people pay for.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 663,
+      "start": 3255.94,
+      "end": 3258.8,
+      "speaker": "Presenter",
+      "text": "If people actually pay for like $20 is the average",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 664,
+      "start": 3258.8,
+      "end": 3262.44,
+      "speaker": "Presenter",
+      "text": "for this similar similar month supply and you can source it for cheaper,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 665,
+      "start": 3263.3,
+      "end": 3264.72,
+      "speaker": "Presenter",
+      "text": "then it's something I I I wouldn't do.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 666,
+      "start": 3267.18,
+      "end": 3271.14,
+      "speaker": "Presenter",
+      "text": "Unless say the average price is around 30 $30, $20 for this,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 667,
+      "start": 3271.84,
+      "end": 3274.36,
+      "speaker": "Presenter",
+      "text": "like a supplement like this, that's what people expect already,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 668,
+      "start": 3275.24,
+      "end": 3277.02,
+      "speaker": "Presenter",
+      "text": "then it's it's closer to what people are selling here.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 669,
+      "start": 3277.02,
+      "end": 3281.26,
+      "speaker": "Presenter",
+      "text": "Realistically, you can source this for around $10, including shipping from China.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 670,
+      "start": 3282.06,
+      "end": 3285.5,
+      "speaker": "Presenter",
+      "text": "So, 3x 3x on that is $30, let's say.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 671,
+      "start": 3286.02,
+      "end": 3288.54,
+      "speaker": "Presenter",
+      "text": "Of course, the $10 I give you is a rough estimate.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 672,
+      "start": 3289.06,
+      "end": 3293.16,
+      "speaker": "Presenter",
+      "text": "I'm not exactly sure. Your supplier will have to quote you. Maybe it's higher. Maybe it's lower. It's likely going to be higher a bit.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 673,
+      "start": 3295.12,
+      "end": 3298.3,
+      "speaker": "Presenter",
+      "text": "Then if let's say if you sell two, $20, let's say $15,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 674,
+      "start": 3298.3,
+      "end": 3300.6,
+      "speaker": "Presenter",
+      "text": "for for two products plus shipping,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 675,
+      "start": 3301.44,
+      "end": 3306.24,
+      "speaker": "Presenter",
+      "text": "and then you sell it for $50, it's a 3x margin on uh. So margins are pretty good.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 676,
+      "start": 3306.68,
+      "end": 3308.12,
+      "speaker": "Presenter",
+      "text": "AOV is pretty good. It's not too bad.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 677,
+      "start": 3309.56,
+      "end": 3311.68,
+      "speaker": "Presenter",
+      "text": "That That's thinking about it in terms of the economics.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 678,
+      "start": 3313.3,
+      "end": 3315.62,
+      "speaker": "Presenter",
+      "text": "So not all collagen is created equal. This one has",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 679,
+      "start": 3316.5,
+      "end": 3316.84,
+      "speaker": "Presenter",
+      "text": "Yeah.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 680,
+      "start": 3318.32,
+      "end": 3321.26,
+      "speaker": "Presenter",
+      "text": "It's a new mechanism to it. That's That's why it's doing well because collagen is a very",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 681,
+      "start": 3321.26,
+      "end": 3323.38,
+      "speaker": "Presenter",
+      "text": "saturated market already.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 682,
+      "start": 3324.16,
+      "end": 3326.14,
+      "speaker": "Presenter",
+      "text": "So you need to ask your supplier if they can actually do this.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 683,
+      "start": 3327.92,
+      "end": 3329.98,
+      "speaker": "Presenter",
+      "text": "Because some of them will just give you like the same packaging,",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 684,
+      "start": 3330.92,
+      "end": 3332.24,
+      "speaker": "Presenter",
+      "text": "but they give you some some shit product.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 685,
+      "start": 3332.72,
+      "end": 3335.44,
+      "speaker": "Presenter",
+      "text": "Like it doesn't actually have all these all these new ingredients.",
+      "chunk": 10,
+      "timing": "aligned"
+    },
+    {
+      "id": 686,
+      "start": 3339.62,
+      "end": 3342.9,
+      "speaker": "Presenter",
+      "text": "if it does, then all you need to do is just rip it.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 687,
+      "start": 3345.66,
+      "end": 3347.52,
+      "speaker": "Presenter",
+      "text": "Then you can just copy the ads over here.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 688,
+      "start": 3348.4,
+      "end": 3352.62,
+      "speaker": "Presenter",
+      "text": "Same thing, Similarweb you can double check the ad vol- traffic volume, the trends,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 689,
+      "start": 3352.96,
+      "end": 3356.1,
+      "speaker": "Presenter",
+      "text": "collagen, is it going up or down, and",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 690,
+      "start": 3356.1,
+      "end": 3357.6,
+      "speaker": "Presenter",
+      "text": "average price to see what people expect.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 691,
+      "start": 3358.46,
+      "end": 3362.26,
+      "speaker": "Presenter",
+      "text": "And then, you do your Reddit research and your TikTok research. Is there any way you can stand out besides only doing",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 692,
+      "start": 3364.66,
+      "end": 3368.8,
+      "speaker": "Presenter",
+      "text": "besides only ripping? What unique angles can you stand out? Maybe it's another avatar.",
+      "chunk": 11,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 693,
+      "start": 3369.9,
+      "end": 3373.6,
+      "speaker": "Presenter",
+      "text": "Maybe instead of educating why people need to take collagen, how to take collagen,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 694,
+      "start": 3373.72,
+      "end": 3376.5,
+      "speaker": "Presenter",
+      "text": "you do pro- more product-aware ads just targeting, \"Hey,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 695,
+      "start": 3379.14,
+      "end": 3383.48,
+      "speaker": "Presenter",
+      "text": "you can do a direct product comparison: your collagen against the rest. The rest are",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 696,
+      "start": 3383.48,
+      "end": 3387.88,
+      "speaker": "Presenter",
+      "text": "not effective. Based on research, only this form of collagen is effective.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 697,
+      "start": 3388.4,
+      "end": 3392.58,
+      "speaker": "Presenter",
+      "text": "You're act- Whatever you're spending on, you're actually wasting 50% of it, gone to waste",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 698,
+      "start": 3392.58,
+      "end": 3395.42,
+      "speaker": "Presenter",
+      "text": "because it cannot absorb, because it's it's the fake one. Not fake one, but",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 699,
+      "start": 3395.42,
+      "end": 3398.2,
+      "speaker": "Presenter",
+      "text": "it's the lesser version of collagen.\"",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 700,
+      "start": 3399.06,
+      "end": 3401.94,
+      "speaker": "Presenter",
+      "text": "If people aren't already doing this, you do your Ahrefs search,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 701,
+      "start": 3402.5,
+      "end": 3405.2,
+      "speaker": "Presenter",
+      "text": "I don't have Ahrefs anymore, Facebook ad library research,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 702,
+      "start": 3405.58,
+      "end": 3408.86,
+      "speaker": "Presenter",
+      "text": "if not a lot of people are doing product-aware ads like this, they're just copy-pasting,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 703,
+      "start": 3409.66,
+      "end": 3411.44,
+      "speaker": "Presenter",
+      "text": "then that's your, that's a way to push through inside.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 704,
+      "start": 3412.4,
+      "end": 3416.78,
+      "speaker": "Presenter",
+      "text": "A lot of the products that I picked, I can find myself running. Doesn't mean that you can run it",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 705,
+      "start": 3416.78,
+      "end": 3417.62,
+      "speaker": "Presenter",
+      "text": "because,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 706,
+      "start": 3418.66,
+      "end": 3423.96,
+      "speaker": "Presenter",
+      "text": "like I said, you can make any product work, the difficulty of it of each format will differ.",
+      "chunk": 11,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 707,
+      "start": 3425.32,
+      "end": 3427.38,
+      "speaker": "Presenter",
+      "text": "From what Even the basic research I've done so far,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 708,
+      "start": 3427.86,
+      "end": 3432.04,
+      "speaker": "Presenter",
+      "text": "I've managed to find ways for me to angle my product differently so I can advertise it.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 709,
+      "start": 3433.24,
+      "end": 3435.68,
+      "speaker": "Presenter",
+      "text": "So, hopefully that helps you think a little bit more",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 710,
+      "start": 3435.68,
+      "end": 3440.36,
+      "speaker": "Presenter",
+      "text": "when you do your product research. I know I didn't go as deep on each product doing the full research for it,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 711,
+      "start": 3440.58,
+      "end": 3443.68,
+      "speaker": "Presenter",
+      "text": "I wanted to cover more more products and more ways of thinking for you guys.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 712,
+      "start": 3443.68,
+      "end": 3447.08,
+      "speaker": "Presenter",
+      "text": "So, you guys may have some questions around this, and we've covered in a follow-up video.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 713,
+      "start": 3447.08,
+      "end": 3450.24,
+      "speaker": "Presenter",
+      "text": "So, I think I pretty much covered everything",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 714,
+      "start": 3451.24,
+      "end": 3453.76,
+      "speaker": "Presenter",
+      "text": "you needed to know when picking a product with Kalodata.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 715,
+      "start": 3454.28,
+      "end": 3460.06,
+      "speaker": "Presenter",
+      "text": "This is even more advanced thinking, right? Some people literally all they do is you just go in here, \"What's trending? Not brand, I rip, I test,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 716,
+      "start": 3460.06,
+      "end": 3463.9,
+      "speaker": "Presenter",
+      "text": "it does well, okay, great.\" That's usually how they do it. It still works very well.",
+      "chunk": 11,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 717,
+      "start": 3463.9,
+      "end": 3467.94,
+      "speaker": "Presenter",
+      "text": "If you actually put more thought into it on how you're going to stand out, new mechanism, new avatar,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 718,
+      "start": 3467.94,
+      "end": 3470.74,
+      "speaker": "Presenter",
+      "text": "new angles, you can actually make something work.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 719,
+      "start": 3470.78,
+      "end": 3475.08,
+      "speaker": "Presenter",
+      "text": "Again, rip some stuff and put your own creatives together inside it,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 720,
+      "start": 3475.78,
+      "end": 3477.74,
+      "speaker": "Presenter",
+      "text": "test it, that's pretty much it.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 721,
+      "start": 3479.42,
+      "end": 3483.7,
+      "speaker": "Presenter",
+      "text": "Also just for clarity's sake, wha- what do I mean when I say actually rip it? So,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 722,
+      "start": 3484.48,
+      "end": 3488.08,
+      "speaker": "Presenter",
+      "text": "Kalodata again up here, product. Click on the product that you actually want to sell in the end.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 723,
+      "start": 3488.98,
+      "end": 3492.28,
+      "speaker": "Presenter",
+      "text": "Click on Video and ad over here. Click on these videos,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 724,
+      "start": 3493.38,
+      "end": 3494.2,
+      "speaker": "Presenter",
+      "text": "now you can actually download the videos.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 725,
+      "start": 3494.96,
+      "end": 3498.9,
+      "speaker": "Presenter",
+      "text": "Download all of these videos. I usually just pick the top, you know, 10 to 20,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 726,
+      "start": 3499.44,
+      "end": 3504.18,
+      "speaker": "Presenter",
+      "text": "scroll over here, take top 20. Some people do more, it depends on your budget. If you're spending like",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 727,
+      "start": 3504.18,
+      "end": 3506.3,
+      "speaker": "Presenter",
+      "text": "200 a day,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 728,
+      "start": 3507.84,
+      "end": 3509.84,
+      "speaker": "Presenter",
+      "text": "100 dollars a day, usually it's just up to 20.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 729,
+      "start": 3510.36,
+      "end": 3512.12,
+      "speaker": "Presenter",
+      "text": "You can do last seven days what's trending as well.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 730,
+      "start": 3512.36,
+      "end": 3518.68,
+      "speaker": "Presenter",
+      "text": "Then so you take the 20 20 ads from here, whatever's relevant. Does it mention the actual, what's the word for it,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 731,
+      "start": 3519.24,
+      "end": 3519.72,
+      "speaker": "Presenter",
+      "text": "brand name?",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 732,
+      "start": 3520.4,
+      "end": 3524.78,
+      "speaker": "Presenter",
+      "text": "Then just run it. Just download it and put it straight into Ads Manager.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 733,
+      "start": 3524.78,
+      "end": 3529.58,
+      "speaker": "Presenter",
+      "text": "There is one extra thing that you will do before launching it and that is clearing your metadata.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 734,
+      "start": 3530.38,
+      "end": 3533.28,
+      "speaker": "Presenter",
+      "text": "So if you just search up \"clear metadata\", there will still be some tools",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 735,
+      "start": 3533.28,
+      "end": 3536.36,
+      "speaker": "Presenter",
+      "text": "that that pop up.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 736,
+      "start": 3537.12,
+      "end": 3540.7,
+      "speaker": "Presenter",
+      "text": "What metadata is basically is if you rip it from straight straight like this,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 737,
+      "start": 3541.32,
+      "end": 3546.98,
+      "speaker": "Presenter",
+      "text": "there's going to be like some data inside and if you put it into Ads Manager, Facebook obviously can see that you're copying someone else",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 738,
+      "start": 3547.72,
+      "end": 3552.06,
+      "speaker": "Presenter",
+      "text": "because everyone else is going to just do the same thing and then you're going to have you won't",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 739,
+      "start": 3552.06,
+      "end": 3553.04,
+      "speaker": "Presenter",
+      "text": "reach the right auction.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 740,
+      "start": 3553.62,
+      "end": 3556.68,
+      "speaker": "Presenter",
+      "text": "So, we use a metadata to clear the data so it appears as a new ad.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 741,
+      "start": 3556.68,
+      "end": 3561.5,
+      "speaker": "Presenter",
+      "text": "There's many ways to do it, you can go search up a tool, just Google it,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 742,
+      "start": 3561.82,
+      "end": 3565.5,
+      "speaker": "Presenter",
+      "text": "or an easy way like we I do it, I just use my my Premiere Pro",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 743,
+      "start": 3565.82,
+      "end": 3568.98,
+      "speaker": "Presenter",
+      "text": "or just whatever video editing tool you have, CapCut, Editing Pro, Canva,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 744,
+      "start": 3569.94,
+      "end": 3574.0,
+      "speaker": "Presenter",
+      "text": "just put it inside there, then download it ba- back and then you clean the metadata again",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 745,
+      "start": 3574.3,
+      "end": 3575.62,
+      "speaker": "Presenter",
+      "text": "and put it straight to your Ads Manager.",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 746,
+      "start": 3576.32,
+      "end": 3578.84,
+      "speaker": "Presenter",
+      "text": "That's really the strategy, just download videos from here,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 747,
+      "start": 3579.3,
+      "end": 3580.28,
+      "speaker": "Presenter",
+      "text": "you think that it's going to do well,",
+      "chunk": 11,
+      "timing": "aligned"
+    },
+    {
+      "id": 748,
+      "start": 3580.9,
+      "end": 3584.28,
+      "speaker": "Presenter",
+      "text": "create your own ads together alongside it, and put both together inside the campaign.",
+      "chunk": 11,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 382.83,
+      "end": 390.93,
+      "label": "silence"
+    },
+    {
+      "start": 402.63,
+      "end": 404.73,
+      "label": "silence"
+    },
+    {
+      "start": 439.33,
+      "end": 443.63,
+      "label": "silence"
+    },
+    {
+      "start": 464.13,
+      "end": 471.23,
+      "label": "silence"
+    },
+    {
+      "start": 553.33,
+      "end": 556.83,
+      "label": "silence"
+    },
+    {
+      "start": 572.11,
+      "end": 575.01,
+      "label": "silence"
+    },
+    {
+      "start": 611.21,
+      "end": 616.81,
+      "label": "keyboard typing"
+    },
+    {
+      "start": 629.71,
+      "end": 633.41,
+      "label": "keyboard typing"
+    },
+    {
+      "start": 673.31,
+      "end": 674.21,
+      "label": "ad audio playback"
+    },
+    {
+      "start": 703.81,
+      "end": 706.71,
+      "label": "keyboard typing"
+    },
+    {
+      "start": 708.81,
+      "end": 709.71,
+      "label": "keyboard typing"
+    },
+    {
+      "start": 755.31,
+      "end": 762.01,
+      "label": "silence"
+    },
+    {
+      "start": 766.81,
+      "end": 771.01,
+      "label": "keyboard typing"
+    },
+    {
+      "start": 772.51,
+      "end": 784.31,
+      "label": "silence"
+    },
+    {
+      "start": 794.71,
+      "end": 812.01,
+      "label": "keyboard typing"
+    },
+    {
+      "start": 839.91,
+      "end": 843.88,
+      "label": "silence"
+    },
+    {
+      "start": 1526.53,
+      "end": 1531.13,
+      "label": "silence"
+    },
+    {
+      "start": 1533.93,
+      "end": 1538.73,
+      "label": "silence"
+    },
+    {
+      "start": 1542.23,
+      "end": 1549.13,
+      "label": "silence"
+    },
+    {
+      "start": 1705.73,
+      "end": 1709.33,
+      "label": "silence"
+    },
+    {
+      "start": 1738.03,
+      "end": 1745.43,
+      "label": "video playback"
+    },
+    {
+      "start": 1746.53,
+      "end": 1752.73,
+      "label": "video playback"
+    },
+    {
+      "start": 1753.83,
+      "end": 1761.33,
+      "label": "video playback"
+    },
+    {
+      "start": 1765.13,
+      "end": 1770.13,
+      "label": "video playback"
+    },
+    {
+      "start": 1770.17,
+      "end": 1777.57,
+      "label": "video playback"
+    },
+    {
+      "start": 1830.17,
+      "end": 1832.27,
+      "label": "silence"
+    },
+    {
+      "start": 1872.67,
+      "end": 1877.47,
+      "label": "silence"
+    },
+    {
+      "start": 1930.17,
+      "end": 1934.37,
+      "label": "typing"
+    },
+    {
+      "start": 1936.17,
+      "end": 1940.17,
+      "label": "typing"
+    },
+    {
+      "start": 1951.17,
+      "end": 1957.27,
+      "label": "typing"
+    },
+    {
+      "start": 1965.17,
+      "end": 1974.57,
+      "label": "typing"
+    },
+    {
+      "start": 1978.17,
+      "end": 1983.57,
+      "label": "typing"
+    },
+    {
+      "start": 2270.56,
+      "end": 2280.96,
+      "label": "video playback"
+    },
+    {
+      "start": 2456.75,
+      "end": 2466.25,
+      "label": "silence"
+    },
+    {
+      "start": 2473.65,
+      "end": 2474.95,
+      "label": "video playback"
+    },
+    {
+      "start": 2509.25,
+      "end": 2511.35,
+      "label": "silence"
+    },
+    {
+      "start": 2581.15,
+      "end": 2583.85,
+      "label": "silence"
+    },
+    {
+      "start": 2625.25,
+      "end": 2631.05,
+      "label": "silence"
+    },
+    {
+      "start": 2645.25,
+      "end": 2649.85,
+      "label": "silence"
+    },
+    {
+      "start": 2663.05,
+      "end": 2667.75,
+      "label": "silence"
+    },
+    {
+      "start": 2698.05,
+      "end": 2700.95,
+      "label": "silence"
+    },
+    {
+      "start": 2717.35,
+      "end": 2720.05,
+      "label": "silence"
+    },
+    {
+      "start": 2823.32,
+      "end": 2835.32,
+      "label": "silence"
+    },
+    {
+      "start": 2870.32,
+      "end": 2873.72,
+      "label": "silence"
+    },
+    {
+      "start": 3011.82,
+      "end": 3015.72,
+      "label": "silence"
+    },
+    {
+      "start": 3023.62,
+      "end": 3024.52,
+      "label": "laughter"
+    },
+    {
+      "start": 3056.47,
+      "end": 3058.57,
+      "label": "silence"
+    },
+    {
+      "start": 3137.77,
+      "end": 3145.97,
+      "label": "video playback"
+    },
+    {
+      "start": 3189.27,
+      "end": 3195.87,
+      "label": "silence"
+    },
+    {
+      "start": 3198.97,
+      "end": 3203.87,
+      "label": "silence"
+    },
+    {
+      "start": 3205.17,
+      "end": 3207.87,
+      "label": "silence"
+    },
+    {
+      "start": 3214.67,
+      "end": 3218.97,
+      "label": "silence"
+    },
+    {
+      "start": 3343.51,
+      "end": 3346.11,
+      "label": "typing"
+    },
+    {
+      "start": 3361.81,
+      "end": 3365.51,
+      "label": "typing"
+    },
+    {
+      "start": 3533.31,
+      "end": 3535.11,
+      "label": "typing"
+    }
+  ]
+}

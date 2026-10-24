@@ -1,0 +1,1289 @@
+{
+  "lesson": {
+    "num": 27,
+    "id": "027-understanding-your-product-part-1",
+    "title": "Understanding Your Product - Part 1",
+    "section": "🧍How To Create Avatars",
+    "video": "27. Understanding Your Product - Part 1 Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 979.563,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=bc43ff8113f74c2aae07d6e19075b92d"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (95% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 3771,
+    "matched_tokens": 3595,
+    "match_ratio": 0.953,
+    "segments_aligned": 133,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 333.472,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 245.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 333.472,
+      "end": 630.132,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.991,
+      "wpm": 240.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 630.132,
+      "end": 979.563,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 229.1,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.24,
+      "speaker": "Presenter",
+      "text": "All right, so, in this video we're going to talk about understanding your product, which sounds like one of the weirdest modules because it's like obviously I know what my product is, but I am telling you guys",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 8.62,
+      "end": 14.74,
+      "speaker": "Presenter",
+      "text": "a lot of you don't actually understand on a deep level what your product really does, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 14.94,
+      "end": 23.04,
+      "speaker": "Presenter",
+      "text": "And so to jump to the screen here, I just want to call out straight away, like before you get all excited about all this stuff, again, the order of this is likely going to change and on top of that",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 23.56,
+      "end": 31.76,
+      "speaker": "Presenter",
+      "text": "I'm going to get into some of this stuff in a little bit here, but we need to start with this, so I want you guys to focus on this first, which is understanding your product, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 32.06,
+      "end": 42.28,
+      "speaker": "Presenter",
+      "text": "And the reason why you need to understand your product before you get into creating desires, understanding sophistication levels and creating avatars, which is ultimately the goal of what we're trying to do, because one of the best ways to scale",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 42.88,
+      "end": 51.92,
+      "speaker": "Presenter",
+      "text": "is by creating new avatars for you to go after, and really identifying the avatars for you, but, with that said, you need to understand what it is that you're selling, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 52.36,
+      "end": 58.8,
+      "speaker": "Presenter",
+      "text": "And so, the reason why, very, very simply, if we put this at, you know, third grade level, you can't sell what you don't understand, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 58.82,
+      "end": 65.66,
+      "speaker": "Presenter",
+      "text": "If you don't know what you are actually selling, it's pretty hard to, to sell it, right? So that's number one.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 66.14,
+      "end": 74.72,
+      "speaker": "Presenter",
+      "text": "And a lot of you that have maybe worked with agencies before have maybe had this pain point as well. A lot of times your agencies just have no idea what the hell it is that you're selling, because they just don't do the research, so I'll digress.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 75.08,
+      "end": 80.24,
+      "speaker": "Presenter",
+      "text": "The problem is that most of you guys, though, are in the belief that you do know your product, but",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 80.24,
+      "end": 90.74,
+      "speaker": "Presenter",
+      "text": "the truth is is you likely don't. You actually don't fully understand your product, because you haven't done the research or don't haven't really seen what it is actually going on out there.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 90.74,
+      "end": 97.28,
+      "speaker": "Presenter",
+      "text": "I know some of you are a little bit more dialed in on this, but the point is is that a lot of you guys don't actually understand your product that well, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 97.74,
+      "end": 104.74,
+      "speaker": "Presenter",
+      "text": "And so just know here that at the very, very basic level, foundation, every product is actually two products, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 105.8,
+      "end": 110.76,
+      "speaker": "Presenter",
+      "text": "It's what your product delivers, so we're going to use an example here of a cup, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 111.14,
+      "end": 117.66,
+      "speaker": "Presenter",
+      "text": "So what you deliver, which is essentially like the physical components, and then what it actually does, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 117.88,
+      "end": 126.78,
+      "speaker": "Presenter",
+      "text": "If you look at this, this is a hunk of metal with, you know, a a brand name on it, okay? And we're I'm going to come back to that in a second.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 127.2,
+      "end": 130.46,
+      "speaker": "Presenter",
+      "text": "So what it is, it's it's a hunk of metal, okay? Built in like a circle.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 131.56,
+      "end": 136.44,
+      "speaker": "Presenter",
+      "text": "Now, what does this actually do? Well, what this does, number one, is it holds my water, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 136.84,
+      "end": 140.84,
+      "speaker": "Presenter",
+      "text": "I just need something to hold my water, so that's what this does.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 141.16,
+      "end": 148.28,
+      "speaker": "Presenter",
+      "text": "And then, the second thing that it does, is it actually keeps it cold, and it keeps it cold because of one of the physical components, which is stainless steel,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 148.28,
+      "end": 159.1,
+      "speaker": "Presenter",
+      "text": "and you guys are going to see how we take physical components and actually branch them towards benefits, of like, okay, if I have this component or if I have this hunk of metal, you know, what does it do, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 159.1,
+      "end": 166.28,
+      "speaker": "Presenter",
+      "text": "Well, it's made out of stainless steel. That's a physical feature, right? But it actually keeps my water cold, which is kind of nice. And then from there,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 166.48,
+      "end": 177.52,
+      "speaker": "Presenter",
+      "text": "I also happen to have this this brand name on it, which is also a reason why I bought it, because I have more confidence in this brand that they make good products, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 177.94,
+      "end": 186.8,
+      "speaker": "Presenter",
+      "text": "And on top of that, this also, as a as another thing, helps me not like consume microplastics, because if you drink out of plastic bottles all day—and I don't even know if this is actually true,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 186.8,
+      "end": 196.38,
+      "speaker": "Presenter",
+      "text": "but I just do it because that's what society tells me to do, and we're going to come back to why that's even important as well, when you know, monkey see, monkey do, if people say, hey, don't do this, what do we do? We just kind of blindly follow it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 196.38,
+      "end": 207.66,
+      "speaker": "Presenter",
+      "text": "I've never actually done research to try to understand microplastics, but I've heard people say that you shouldn't consume microplastics, so what am I doing? Well, I decided to pay way more for a stainless steel cup, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 207.84,
+      "end": 218.4,
+      "speaker": "Presenter",
+      "text": "And so, again, this this part of it, so what the product is actually doing is why I'm buying this. I didn't buy this just because it's a hunk of metal, I bought it for all the reasons that I just mentioned, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 219.26,
+      "end": 225.16,
+      "speaker": "Presenter",
+      "text": "And so key rule here, as I just explained, is that people buy what it does and not what it is, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 225.22,
+      "end": 235.44,
+      "speaker": "Presenter",
+      "text": "And a lot of you guys try so hard to just market all day long that it has this feature and it has this, and this, and this, and it's like nobody cares! They care about what it actually does for them, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 235.52,
+      "end": 242.54,
+      "speaker": "Presenter",
+      "text": "And some people will make the connection that hey, stainless steel means that it actually keeps my water cold, but a lot of people won't, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 242.58,
+      "end": 252.62,
+      "speaker": "Presenter",
+      "text": "And I know we're getting very basic here, because there's you know, a hundred probably a hundred thousand, I don't even know, there's thousands of cup brands that say that their cups keep water cold, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 252.66,
+      "end": 261.24,
+      "speaker": "Presenter",
+      "text": "So, it's not like we're we're treading new ground here, but we're we're going to circle this back around, I promise. But the most common mistake that we see, and this is very, very important for you guys to understand,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 261.46,
+      "end": 266.58,
+      "speaker": "Presenter",
+      "text": "is that people try to target desires that their product cannot live up to, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 267.78,
+      "end": 275.76,
+      "speaker": "Presenter",
+      "text": "So, again, just to repeat that, people try to target desires—and if you don't know what desires are, essentially, it's what people want, it's what people need, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 276.14,
+      "end": 282.16,
+      "speaker": "Presenter",
+      "text": "I want my water to be cold, right? That's a desire that I have. And a lot Something that a lot of people have as well, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 282.74,
+      "end": 288.94,
+      "speaker": "Presenter",
+      "text": "But a lot of the times you try to go after desires that your product cannot live up to, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 289.08,
+      "end": 295.26,
+      "speaker": "Presenter",
+      "text": "And the problem with that is that when you try to go after desires that your product cannot live up to, or",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 295.26,
+      "end": 302.12,
+      "speaker": "Presenter",
+      "text": "we're going to get into this in the sophistication level, people just don't believe or they know it does not live up to,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 302.12,
+      "end": 308.92,
+      "speaker": "Presenter",
+      "text": "when you go and target those people with those claims, it will not work, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 309.44,
+      "end": 317.02,
+      "speaker": "Presenter",
+      "text": "And even though this desire still exists, that people want cold water, okay? Or they want to keep their water cold,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 318.0,
+      "end": 329.1,
+      "speaker": "Presenter",
+      "text": "your mechanism and your product—and I'm I'm going to kind of give you a sneak peek there, I'm going to talk about mechanisms in a second—but your product does not, it just cannot live up to that, because say for example if people have tried that before,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 330.2,
+      "end": 332.64,
+      "speaker": "Presenter",
+      "text": "people have tried these stainless steel cups and they didn't work",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 333.14,
+      "end": 335.7,
+      "speaker": "Presenter",
+      "text": "people just aren't going to buy it, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 336.02,
+      "end": 346.08,
+      "speaker": "Presenter",
+      "text": "Or on top of that, because the overall staying power, so the amount of times people need their water cold, which is every day, but for example, like I don't need a new Stanley cup every day. I just",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 346.08,
+      "end": 355.18,
+      "speaker": "Presenter",
+      "text": "I just have one. Like I don't I'm probably going to have this for the next 10 years, or well that's kind of gross, but next year at least. So like I don't need a lot more of them, right? Unless I'm like a weird collector, but the point is",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 355.42,
+      "end": 360.5,
+      "speaker": "Presenter",
+      "text": "is like then we're getting into product markets, which I don't want to get too all over the place,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 360.5,
+      "end": 365.0,
+      "speaker": "Presenter",
+      "text": "but I'm just trying to help you for those of you that are a little bit more advanced, kind of help you understand why shit is not working. But it's like, okay,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 365.52,
+      "end": 375.38,
+      "speaker": "Presenter",
+      "text": "well, if a lot of people actually want their drink cold, they know stainless steel works, well, I'm making ads that say my cups are stainless steel, it keeps your water cold, why is that not working? Well, it's because a lot of that desire has already been met, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 375.38,
+      "end": 379.12,
+      "speaker": "Presenter",
+      "text": "And so, what you need to understand, most importantly though,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 379.12,
+      "end": 386.14,
+      "speaker": "Presenter",
+      "text": "is that you can't get confused with the fact that, for example, like this desire just doesn't exist, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 386.6,
+      "end": 395.84,
+      "speaker": "Presenter",
+      "text": "A lot of times there are desires that do exist and people obviously want cold cold water, but if there's not a better way for them to get it, like say for example this just",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 395.84,
+      "end": 400.72,
+      "speaker": "Presenter",
+      "text": "kept my water at the perfect temperature, or like it froze it or something, I don't know.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 401.2,
+      "end": 408.44,
+      "speaker": "Presenter",
+      "text": "Like then that's potentially, you know, a a new way to deliver this to to that desire that I have, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 408.56,
+      "end": 413.0,
+      "speaker": "Presenter",
+      "text": "Depending on, again, we're getting a little bit weird with this cold water example, but just trying to help you guys understand that",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 413.0,
+      "end": 420.5,
+      "speaker": "Presenter",
+      "text": "the most common mistake that a lot of you guys make is that you try to target desires that your product cannot live up to, because they're either too sophisticated",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 420.5,
+      "end": 423.7,
+      "speaker": "Presenter",
+      "text": "or it just doesn't make sense, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 423.74,
+      "end": 427.62,
+      "speaker": "Presenter",
+      "text": "And so, for example, I want you to see is like this is your product here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 427.62,
+      "end": 431.94,
+      "speaker": "Presenter",
+      "text": "and this is the desires that people have. There's tons of them out here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 431.94,
+      "end": 440.12,
+      "speaker": "Presenter",
+      "text": "And if you pick a desire, say for example, I want to help people who have back pain, but my product, I'm looking at my table right now, is a hat,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 440.76,
+      "end": 443.96,
+      "speaker": "Presenter",
+      "text": "that's going to be one hell of an ad. And so, just so you guys can understand,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 444.62,
+      "end": 455.46,
+      "speaker": "Presenter",
+      "text": "your marketing is what bridges the gap. And so, if I can somehow convince someone that a hat helps people with their back pain, then I am a world-class marketer,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 455.72,
+      "end": 465.48,
+      "speaker": "Presenter",
+      "text": "okay? Because maybe I could spin up a story that talks about how Jimbo, the farmer, wears a sunhat everyday and that helps him with his back pain, because, you know, he",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 465.94,
+      "end": 471.76,
+      "speaker": "Presenter",
+      "text": "I don't know, doesn't have to rub sunscreen on his back and that constant motion of rubbing sunscreen, you know, causes back pain.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 472.2,
+      "end": 477.32,
+      "speaker": "Presenter",
+      "text": "Stupid, stupid analogy, right? Or, you know, Jimbo has to, you know, do whatever it is. At the end of the day,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 477.54,
+      "end": 484.78,
+      "speaker": "Presenter",
+      "text": "again, that's an example of like you're pushing yourself to try to be an incredible marketer when your desire is so far away from your product.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 484.96,
+      "end": 491.18,
+      "speaker": "Presenter",
+      "text": "Cuz for example, like that that product, we're selling hats, and then we have back pain, that's a huge gap to bridge.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 491.18,
+      "end": 498.64,
+      "speaker": "Presenter",
+      "text": "Where some of you guys, there's desires that just make more sense. And so, this is where the zone that I want you to focus on, because there are going to be desires that make more sense,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 499.14,
+      "end": 502.78,
+      "speaker": "Presenter",
+      "text": "but what you need to understand is that they are going to be more competitive, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 503.1,
+      "end": 509.48,
+      "speaker": "Presenter",
+      "text": "And so, the further out that you go with your product and your desire, the harder it is",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 509.48,
+      "end": 517.18,
+      "speaker": "Presenter",
+      "text": "to make that connection and make people believe that it can actually deliver to this desire, but usually the more untapped it is, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 517.6,
+      "end": 524.56,
+      "speaker": "Presenter",
+      "text": "I don't see a lot of people selling hats for weight loss, but if I found a way to convince someone that a hat could help them lose weight, well,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 524.56,
+      "end": 528.2,
+      "speaker": "Presenter",
+      "text": "guess what? Probably in a pretty untapped market right now, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 528.56,
+      "end": 535.6,
+      "speaker": "Presenter",
+      "text": "And again, then once people actually experience it and realize that, \"Oh, well this hat didn't help me lose weight,\" well, guess what? Then the market gets more sophisticated",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 535.6,
+      "end": 539.76,
+      "speaker": "Presenter",
+      "text": "and then you have to find a new mechanism or you have to go after a different desire, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 539.84,
+      "end": 546.44,
+      "speaker": "Presenter",
+      "text": "So, hopefully this is making sense. And for a lot of you guys that don't know desires or don't know sophistication or don't know awareness levels, like don't worry about that.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 546.56,
+      "end": 554.84,
+      "speaker": "Presenter",
+      "text": "We're going to go through all of that, but I just am trying to help you understand that you have to understand your product. You need to know what your product does, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 555.36,
+      "end": 563.36,
+      "speaker": "Presenter",
+      "text": "Now, the nine-figure tip here that I have for you guys is that a lot of the biggest brands in the world actually start with the customer and the desire first, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 563.86,
+      "end": 573.08,
+      "speaker": "Presenter",
+      "text": "Before they even make a product. And this, guess what? Also applies to if you're searching for products, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 573.12,
+      "end": 580.46,
+      "speaker": "Presenter",
+      "text": "You don't have to innovate a product, but a lot of you guys, the best thing to do is to actually go and look at what do people want?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 580.96,
+      "end": 588.34,
+      "speaker": "Presenter",
+      "text": "What are their desires, and who wants them? And we're going to get into avatars as well, but the point is is we want if we understand that,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 589.02,
+      "end": 597.2,
+      "speaker": "Presenter",
+      "text": "and then we're like, \"Okay, we know people want this, and we know that they're talking about these things that they hate, but like we could see that they they have this problem.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 597.82,
+      "end": 601.68,
+      "speaker": "Presenter",
+      "text": "Well, we could just find a product that solves it, or we can make a product that solves it, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 602.18,
+      "end": 611.06,
+      "speaker": "Presenter",
+      "text": "Like HexClad. The guy hated all the pan all the pans sucked! All pans sucked, they always burned, they were always like, you know, being worn out within a year.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 611.06,
+      "end": 616.06,
+      "speaker": "Presenter",
+      "text": "And so, he was like, \"Screw it, I'm just going to make pans that never like they just last forever.\" And that's what he did.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 616.06,
+      "end": 622.22,
+      "speaker": "Presenter",
+      "text": "And he developed the technology for it, obviously pretty innovative, but that's why they're worth probably at this point like a billion dollars, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 622.54,
+      "end": 629.56,
+      "speaker": "Presenter",
+      "text": "Ridge, same thing. Traditional wallets, they fold, really messy, they're bulky, they're gross, right? What'd they do? They just slimmed it right down.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 629.56,
+      "end": 633.94,
+      "speaker": "Presenter",
+      "text": "and they started with the avatar. They They noticed that that was just a problem that people had.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 633.94,
+      "end": 642.34,
+      "speaker": "Presenter",
+      "text": "Same thing with Gruns, right? They noticed people didn't like drinking their green juice, right, from AG1. So what did they do? They just threw it in gummies. And then, on top of that, they also innovated",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 642.34,
+      "end": 653.32,
+      "speaker": "Presenter",
+      "text": "avatars, right? And they saw that imagine trying to get kids to drink green juice. Like, absolutely not. So what'd they do? They put it in a gummy bear. And now, one of their biggest avatars is selling to parents to give it to their kids, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 653.32,
+      "end": 660.16,
+      "speaker": "Presenter",
+      "text": "And so, I need you to understand that a lot of the biggest brands, they think through the avatar, and they think through the desire first. Now again, if you",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 660.16,
+      "end": 668.46,
+      "speaker": "Presenter",
+      "text": "don't know what that is, I'm going to explain that, but we have to start with the product. But the reason why I wanted to mention this is that if you're trying to build something big, you should likely",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 668.46,
+      "end": 678.08,
+      "speaker": "Presenter",
+      "text": "start with the person and with the actual desire that exist before you just go and grab a random product, because a lot of you guys just grab random products, and you don't think about",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 678.08,
+      "end": 685.86,
+      "speaker": "Presenter",
+      "text": "the problem that it actually solves, or you don't think about the, like the functional of, like what it actually does for the person, okay? And then",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 685.86,
+      "end": 695.44,
+      "speaker": "Presenter",
+      "text": "you don't actually do research to figure out if people actually want that thing. You just assume, like, \"Oh, yeah, I assume,\" and even right now, like, I made the assumption that, you know, I, like, people want",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 695.44,
+      "end": 701.02,
+      "speaker": "Presenter",
+      "text": "cold water, but I don't actually know how many people actually want their water cold. There could be a lot of people that don't, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 701.16,
+      "end": 706.88,
+      "speaker": "Presenter",
+      "text": "And so, that's what's important. You need to understand that, at the end of the day, it goes back to people, but you need to understand your product, okay? So again,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 707.08,
+      "end": 710.62,
+      "speaker": "Presenter",
+      "text": "I just went through the two product reality, which is the physical and the functional, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 711.04,
+      "end": 717.7,
+      "speaker": "Presenter",
+      "text": "So, materials, ingredients, size, weight, touch, measure, manufacture, this is the physical side: the hunk of metal, stainless steel, that stuff.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 717.7,
+      "end": 725.48,
+      "speaker": "Presenter",
+      "text": "The functional products, like what it does, the benefits, the problems that it solves, and the performance and experiences it creates, okay? And then down here, we had product mechanisms.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 725.88,
+      "end": 730.2,
+      "speaker": "Presenter",
+      "text": "I talked about this briefly, but put short, a product mechanism",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 730.2,
+      "end": 738.96,
+      "speaker": "Presenter",
+      "text": "is the specific way that your product creates the results, okay? It's not what it does, it's how it does it, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 739.2,
+      "end": 742.88,
+      "speaker": "Presenter",
+      "text": "So, for example, here, with this cup specifically,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 743.28,
+      "end": 749.98,
+      "speaker": "Presenter",
+      "text": "it's like, how does it keep my water cold? Well, it uses stainless steel to keep the water cold. That is essentially",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 749.98,
+      "end": 760.8,
+      "speaker": "Presenter",
+      "text": "the mechanism, okay? How does it do it? Well, I don't know, stainless steel just does it. We can probably get into more of the science if we wanted to, but at the end of the day, that's an example of the mechanism. Okay, the mechanism of stainless steel",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 760.8,
+      "end": 768.64,
+      "speaker": "Presenter",
+      "text": "actually allows it to keep the water cold. And for example, we actually have a Carepod, or a Carepod--that's the brand--we have a humidifier brand called Carepod, and they",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 768.64,
+      "end": 776.86,
+      "speaker": "Presenter",
+      "text": "sell stainless steel humidifiers, and that product mechanism essentially makes it easy to clean, okay? So, that is the mechanism. It being stainless steel",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 776.86,
+      "end": 781.66,
+      "speaker": "Presenter",
+      "text": "allows it to make it easier to clean, okay? So for example, here you can see, again,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 781.84,
+      "end": 792.9,
+      "speaker": "Presenter",
+      "text": "mechanisms are one of the most important things to understand about your product. So, how does your product deliver the thing that it says it does, right? Understanding that is almost even better than just understanding like feature to benefit to desires.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 792.9,
+      "end": 802.16,
+      "speaker": "Presenter",
+      "text": "Just like, \"What does my product do? Like, what is the mechanism?\" Okay, so mechanisms create believe- believability in sophisticated markets. New mechanisms give people new hope,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 802.16,
+      "end": 806.56,
+      "speaker": "Presenter",
+      "text": "okay, and mechanisms differentiate you from everything else that they've tried, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 806.7,
+      "end": 814.1,
+      "speaker": "Presenter",
+      "text": "So for example, this is a really good one for even just a supplement brand, which is like, a lot of people will just say like, \"Our supplement helps you lose weight,\" but when you weaponize",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 814.1,
+      "end": 821.88,
+      "speaker": "Presenter",
+      "text": "mechanisms, you could say, \"Our supplement blocks sugar absorption, so your body burns fat.\" That's a new mechanism: blocking sugar absorption, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 821.88,
+      "end": 828.58,
+      "speaker": "Presenter",
+      "text": "And ideally we would need an- an ingredient that matches that. Like, \"This ingredient blocks sugar absorption, so your body, um, burns fat.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 828.82,
+      "end": 832.1,
+      "speaker": "Presenter",
+      "text": "Now this leverages new mechanisms, and it leverages new information,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 832.84,
+      "end": 838.62,
+      "speaker": "Presenter",
+      "text": "okay, if we actually have the ingredients, so let's just say, I don't know, uh, Peptide 47D",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 839.78,
+      "end": 844.0,
+      "speaker": "Presenter",
+      "text": "blocks sugar absorption, so your body burns fat instead. So that's how it actually blocks it, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 844.26,
+      "end": 851.04,
+      "speaker": "Presenter",
+      "text": "Um, so mechanisms, again, blocking sugar absorption, makes it more believable for how the person will lose weight.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 851.54,
+      "end": 858.72,
+      "speaker": "Presenter",
+      "text": "Okay, so as good old Eugene would say, um, mechanisms make people believe that this will actually work when everything else they have tried failed.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 859.22,
+      "end": 863.44,
+      "speaker": "Presenter",
+      "text": "So, in short, just to wrap this up, because I know this video is probably gotten a lot longer than it needs to be, but",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 863.44,
+      "end": 871.82,
+      "speaker": "Presenter",
+      "text": "without clear basically performances, or without clear benefits, or being clear on the the functional piece of what your product does,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 872.2,
+      "end": 875.7,
+      "speaker": "Presenter",
+      "text": "you will not be able to, in the next step, channel the desires,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 876.38,
+      "end": 883.44,
+      "speaker": "Presenter",
+      "text": "okay? And so, just to understand, I'm going to explain desires shortly, but it is very, very clear for you to be clear on what your product actually does, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 883.44,
+      "end": 894.52,
+      "speaker": "Presenter",
+      "text": "And then from there, you have to remember that every single performance that we look at, and even as we map that into a desire, will help us actually map different avatars, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 894.9,
+      "end": 907.4,
+      "speaker": "Presenter",
+      "text": "And so, at the end of the day, I want you guys to understand that the bottom, bottom line is before you worry about who to target, what to say, how to scale, or do any of this stuff, ABO, CBO, you have to master what your product does, and everything else, as a result, becomes easier to do.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 907.4,
+      "end": 916.66,
+      "speaker": "Presenter",
+      "text": "Okay? So, hopefully, those examples that I gave were easy for you guys to understand and follow, but at the end of the day, you have to understand your product. You have to understand that there's two types",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 916.66,
+      "end": 926.52,
+      "speaker": "Presenter",
+      "text": "of products that you sell, even though it's just one product. You have to understand the importance of mechanisms and be able to to identify them in your product, and you have to understand why this is so crucial",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 926.52,
+      "end": 930.08,
+      "speaker": "Presenter",
+      "text": "for avatar creation and desire selection, okay? So in the",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 930.08,
+      "end": 942.16,
+      "speaker": "Presenter",
+      "text": "next step, we're going to walk through this product template, and I'm actually going to fill one out manually. I did fill two of these out, as well, using AI, so we're actually going to get into how to fill out the product overview template, because it was like, okay,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 942.42,
+      "end": 949.82,
+      "speaker": "Presenter",
+      "text": "now we know it's important. What do we do, Spencer? Well, we fill out this document, so that way, we can actually work towards, um, understanding our product",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 949.82,
+      "end": 958.98,
+      "speaker": "Presenter",
+      "text": "better, and then from there, we're going to get into the desires. But with that said, that is the product overview. That is why it is so important to understand your product, and know",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 958.98,
+      "end": 969.56,
+      "speaker": "Presenter",
+      "text": "the actual functional and the fundamentals of this stuff, and the actual reasons why a lot of the times when you guys market products they don't work, okay, or a lot of times you're like, \"Hey, I'm targeting this desire, it's not working.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 969.56,
+      "end": 977.02,
+      "speaker": "Presenter",
+      "text": "It's just because a- you just you just don't understand deep enough, okay? And so, that is my goal is to go very, very deep with you guys to help you understand this,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 977.36,
+      "end": 979.06,
+      "speaker": "Presenter",
+      "text": "so that way we can actually make progress.",
+      "chunk": 2,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 838.23,
+      "end": 839.93,
+      "label": "chuckle"
+    }
+  ]
+}

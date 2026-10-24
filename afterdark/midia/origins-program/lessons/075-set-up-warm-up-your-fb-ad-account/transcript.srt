@@ -1,0 +1,507 @@
+1
+00:00:01,040 --> 00:00:03,780
+All right. So, now we're getting into how to set up and warm up the ad accounts.
+
+2
+00:00:04,580 --> 00:00:08,160
+So, once you get into the Business Manager side, on ad accounts on the left here, you'll see this.
+
+3
+00:00:08,880 --> 00:00:09,920
+You can just click on Add,
+
+4
+00:00:10,200 --> 00:00:12,640
+click on Create a new ad account.
+
+5
+00:00:13,100 --> 00:00:18,320
+So, with the time zone, ad account name, it doesn't matter. You can put whatever you want. Some people like to put funny names, Chat Scary Larry.
+
+6
+00:00:18,320 --> 00:00:24,600
+Time zone, what you should do here is you should put the time zone that you mainly plan to sell to.
+
+7
+00:00:24,600 --> 00:00:31,060
+If you're planning to sell to the US, or worldwide, then put it to that time zone, not your local time zone.
+
+8
+00:00:31,380 --> 00:00:36,980
+Me, for example, I'm in Malaysia. I'm not going to put it to my local time zone. I'm going to put it to wherever I'm going to sell to, it's the US.
+
+9
+00:00:37,440 --> 00:00:43,340
+Let's say, US has a lot of time zones, right? So, pick either one, doesn't really matter too much. I'm going to put PST, Los Angeles.
+
+10
+00:00:44,140 --> 00:00:50,000
+Currency, make sure it's the currency that you're mainly going to transact in, as in, pay your bills with.
+
+11
+00:00:50,720 --> 00:00:59,600
+The reason why this is important: if let's say you are doing USD in ad account, but you're paying in let's say Canadian dollars,
+
+12
+00:01:00,040 --> 00:01:06,620
+Facebook actually charges you a transaction fee for it. They don't tell you, but I think it's maybe one to two percent.
+
+13
+00:01:06,620 --> 00:01:15,460
+So, if you want to save on that, whatever your bank account is going to sell in, let's say your bank is set up in Canada, you can set it to Canadian dollars instead of just USD.
+
+14
+00:01:16,120 --> 00:01:21,340
+Of course, some people like to keep it to USD, they're still going to pay that one to two percent just to keep everything more simple.
+
+15
+00:01:21,660 --> 00:01:28,560
+For me, if I use my Malaysian bank account, it's a bit hard to know whether USD or Malaysia, what's the actual number behind it.
+
+16
+00:01:29,260 --> 00:01:32,240
+So, USD could make sense. Just something for you to bear in mind.
+
+17
+00:01:32,880 --> 00:01:41,440
+And the thing with this is you're going to set it up now because after you set up an ad account with this time zone, currency, and name, you can't change it after.
+
+18
+00:01:42,100 --> 00:01:48,300
+So, let's say I'm going to put this. You can just put it, account will be used for my business, then just confirm this.
+
+19
+00:01:49,180 --> 00:01:52,120
+So, this is set up. I'm going to teach how to warm, warm it up afterwards.
+
+20
+00:01:53,840 --> 00:02:04,040
+So, after it's created, it's going to ask you to add payment info. You don't need to do that right now. Usually, it's best for you to create, to, to put in the payment info within the Business Manager instead of straight to the ad account.
+
+21
+00:02:05,000 --> 00:02:11,060
+Usually, it causes less bans, I can't tell you why exactly. In the Business Manager, over here, just click on Billing and payments.
+
+22
+00:02:13,520 --> 00:02:15,760
+And then, you'll see
+
+23
+00:02:15,760 --> 00:02:19,200
+you can, under payment methods,
+
+24
+00:02:20,320 --> 00:02:26,720
+let's say mine's empty right now, that's where you can add your business payment method, you know, putting your card details, whatever it may be, assigned to myself.
+
+25
+00:02:29,580 --> 00:02:37,300
+All right. Then, you can put in the card details. Obviously, put it in, let's say, if my company is set up in US, I'm going to put it in the US.
+
+26
+00:02:38,820 --> 00:02:45,340
+Let's see, United States. Then, click Next. Then, of course, set up your card number and everything.
+
+27
+00:02:45,700 --> 00:02:52,240
+After it has been added already, now we go back to the ad account setup. So, you can just click on Ads Manager now.
+
+28
+00:02:54,960 --> 00:02:57,500
+Okay, great. Now you're in the ad account, there's a few things you need to do.
+
+29
+00:02:58,140 --> 00:03:03,540
+So, now ad can I set up, get set up to run ads, there's a few things you need to confirm. Needs to go to account overview. It's going to ask you to,
+
+30
+00:03:03,540 --> 00:03:11,340
+where is it? Add the payment method and add a, create a Facebook page.
+
+31
+00:03:12,140 --> 00:03:19,620
+So, the only thing you need to do here is add a payment method. Facebook page, since you created it on a profile level, it's going to show up here regardless of not adding it to your Business Manager.
+
+32
+00:03:19,800 --> 00:03:25,020
+Phone number, doesn't matter. Just the payment method. When it asks you for it, instead of putting it the card details again,
+
+33
+00:03:26,040 --> 00:03:31,380
+location, of course, set to wherever your company is set up, where you are, are set up to take payments.
+
+34
+00:03:34,020 --> 00:03:39,540
+So, when the payment detail itself, you should make sure that the country and region matches your actual card you're paying in.
+
+35
+00:03:39,920 --> 00:03:46,740
+If the address on the card and address on the Business Manager doesn't match up, or address on the ad account doesn't match up, you can get banned also.
+
+36
+00:03:47,820 --> 00:03:51,160
+Then, it's going to ask you where you want to add your business payment info.
+
+37
+00:03:51,980 --> 00:04:02,920
+Instead of putting in your new information over here to the card, click on Business payment method, since, and add in the one that you added in previously. Just click on Set as default and you can set it up.
+
+38
+00:04:04,840 --> 00:04:09,160
+Okay, so let's say you set it up already, the next step is just to create a page-like campaign first.
+
+39
+00:04:09,640 --> 00:04:14,480
+Go ahead, click on Create. You're not, you're not running sales right away, you need to right, warm it out first.
+
+40
+00:04:15,380 --> 00:04:26,180
+So, let's see. I believe it is under, where is it? Engagement now. They change it up a bit quite recently.
+
+41
+00:04:26,180 --> 00:04:28,420
+All right, so engagement, click continue.
+
+42
+00:04:28,840 --> 00:04:29,140
+should be under engagement.
+
+43
+00:04:29,800 --> 00:04:31,700
+Let's get manual engagement campaign.
+
+44
+00:04:35,200 --> 00:04:42,360
+So we're not launching a sales campaign first because we want to warm up the account with another campaign to get ads launched, to make sure ads are live first.
+
+45
+00:04:42,360 --> 00:04:46,320
+If not, there's a high chance you launch sales ad right away and it just gets banned.
+
+46
+00:04:47,180 --> 00:04:49,060
+So set the daily budget to $5 a day.
+
+47
+00:04:51,260 --> 00:04:53,260
+No this- disregard this. Just put it to five.
+
+48
+00:04:55,540 --> 00:04:57,920
+Okay, then go to the ad set level.
+
+49
+00:05:03,260 --> 00:05:06,500
+So for this type of engagement,
+
+50
+00:05:07,220 --> 00:05:10,200
+so you can put get people to engage with your IG profile, Facebook page, or both.
+
+51
+00:05:13,100 --> 00:05:16,160
+I like to do page likes. It's similar to what you want to do.
+
+52
+00:05:16,160 --> 00:05:25,500
+For me, if if I'm I might if I need to spend like $5 a day, I might as well just spend it on warming up my prof- my page to make it look a little more legit, same time.
+
+53
+00:05:25,500 --> 00:05:30,060
+So this is set up to run your page likes campaign, choose a the page you plan to run ads on.
+
+54
+00:05:30,060 --> 00:05:33,380
+Let's say, you should have it here. Search for whatever you want.
+
+55
+00:05:33,380 --> 00:05:38,660
+The the schedule to run the ads for this campaign specifically doesn't really matter.
+
+56
+00:05:38,660 --> 00:05:43,040
+So leave all these default. For the locations, I usually put worldwide.
+
+57
+00:05:43,040 --> 00:05:46,100
+You shouldn't do this if your for your sales campaign.
+
+58
+00:05:46,540 --> 00:05:50,500
+It's just for the sake of the engagement campaign.
+
+59
+00:05:50,500 --> 00:06:00,460
+Like you don't really care about the type of people who follow you. You just want as many followers as possible, even if it's cheap people from India. I don't really care, so put worldwide.
+
+60
+00:06:00,460 --> 00:06:09,700
+No, you don't have this. Everything else, you can just leave default over here.
+
+61
+00:06:09,700 --> 00:06:16,160
+They ask you to choose the beneficiary and payer. You can just put a new verification if you don't have already.
+
+62
+00:06:16,840 --> 00:06:17,980
+Then it's going to ask you to do some things.
+
+63
+00:06:18,380 --> 00:06:20,940
+It's it's pretty straightforward process.
+
+64
+00:06:22,060 --> 00:06:26,520
+If you don't want to do this as well, you're too bored with it, you can't be bothered,
+
+65
+00:06:26,520 --> 00:06:28,060
+you can exclude the countries that ask you.
+
+66
+00:06:28,420 --> 00:06:31,300
+So then, if you exclude, let's say, Taiwan, Singapore, India.
+
+67
+00:06:33,620 --> 00:06:33,920
+Singapore.
+
+68
+00:06:34,080 --> 00:06:38,240
+India, I will recommend you to have just because it's it's cheap impressions.
+
+69
+00:06:39,120 --> 00:06:40,660
+Then you shouldn't have these issues anymore.
+
+70
+00:06:41,600 --> 00:06:44,840
+You need to declare. You don't have this, so just do as default.
+
+71
+00:06:45,620 --> 00:06:48,940
+Nothing here, don't need to fill this in, this is default.
+
+72
+00:06:51,600 --> 00:06:53,820
+Then everything else, you can just leave pretty much default.
+
+73
+00:06:54,760 --> 00:06:55,680
+Then, click on next.
+
+74
+00:06:56,320 --> 00:06:57,380
+So for the ad,
+
+75
+00:06:58,860 --> 00:07:00,680
+so, what's the word for it?
+
+76
+00:07:01,720 --> 00:07:04,640
+For for the ad, for page likes,
+
+77
+00:07:04,880 --> 00:07:09,280
+so same thing like warming up your page, what's the best style creatives to run?
+
+78
+00:07:10,440 --> 00:07:12,980
+Literally just search up nature landscape.
+
+79
+00:07:15,580 --> 00:07:16,900
+Take any image here.
+
+80
+00:07:17,640 --> 00:07:21,240
+Then, give me a quote of the day.
+
+81
+00:07:22,020 --> 00:07:24,980
+Put like a random quote, "The future starts today, not tomorrow."
+
+82
+00:07:26,420 --> 00:07:31,420
+Then put like some serene image of landscape. We'll just put one right now.
+
+83
+00:07:32,260 --> 00:07:33,520
+Save this image over here.
+
+84
+00:07:36,480 --> 00:07:36,880
+Okay.
+
+85
+00:07:40,240 --> 00:07:41,280
+Click upload, click on this.
+
+86
+00:07:42,660 --> 00:07:46,800
+Like this this campaign over here won't affect your sales in any way,
+
+87
+00:07:46,800 --> 00:07:50,120
+so it doesn't really matter what you set up, the whole point is just getting ads approved.
+
+88
+00:07:51,040 --> 00:07:52,680
+So I'm not sure why it's not showing up yet.
+
+89
+00:07:52,680 --> 00:07:54,680
+Let me try again.
+
+90
+00:07:59,200 --> 00:08:05,260
+Okay, I had I had to choose a different different nature landscape photo, the previous one had issues uploading.
+
+91
+00:08:05,260 --> 00:08:07,440
+So I choose this one over here.
+
+92
+00:08:08,000 --> 00:08:11,400
+Text, what should you put inside? Literally the same thing as the give a quote one.
+
+93
+00:08:12,940 --> 00:08:14,360
+Let's put this.
+
+94
+00:08:14,360 --> 00:08:15,820
+Image gen, no one really care.
+
+95
+00:08:17,380 --> 00:08:18,980
+Literally this this is your ad.
+
+96
+00:08:19,400 --> 00:08:22,720
+You can just click publish, everything else doesn't matter.
+
+97
+00:08:24,080 --> 00:08:24,900
+That's really it.
+
+98
+00:08:26,000 --> 00:08:27,620
+So let me go ahead, click publish.
+
+99
+00:08:32,080 --> 00:08:39,340
+Business Manager payment method, same thing, what I mentioned to you earlier. Put this one, 5331, is this one I put as for the BM method.
+
+100
+00:08:39,460 --> 00:08:41,180
+Then, you will also publish it afterwards.
+
+101
+00:08:42,600 --> 00:08:50,380
+So, after you publish it, it's not going to go live right away. If you click on performance, the column over here, column performance, you'll see the delivery that says processing.
+
+102
+00:08:50,700 --> 00:08:57,580
+Basically, it just means the ad is processing. If it's a new ad account, a new ad, it might take a day, a few hours, two days
+
+103
+00:08:58,140 --> 00:09:04,300
+for it to actually finish processing and go live, which is why this is like a page like, not even for for conversions.
+
+104
+00:09:04,820 --> 00:09:07,500
+So, if you run straight to conversions, higher chance of getting banned.
+
+105
+00:09:08,240 --> 00:09:12,660
+So, it's going to say processing. After it's done processing, you may receive an email that says your ad is approved.
+
+106
+00:09:13,240 --> 00:09:18,060
+If not, just check performance, delivery, refresh it over here, it might say approved already or active.
+
+107
+00:09:19,620 --> 00:09:22,740
+For context, when an ad is approved, it's going to say active like this.
+
+108
+00:09:23,420 --> 00:09:31,120
+So, let's say your first ad, you only launched one ad set, one ad. The name of the ad set doesn't really matter. The name of the campaign ad doesn't matter at all.
+
+109
+00:09:31,120 --> 00:09:38,380
+So, what you need to do here is you want to get as many instances of active ads running, all approved.
+
+110
+00:09:39,100 --> 00:09:45,120
+Let's say you have 50 ads approved, when you launch your sales ad, it's going to go through without much issue.
+
+111
+00:09:45,780 --> 00:09:49,020
+Once your first ad is approved, all you need to do, click duplicate.
+
+112
+00:09:49,320 --> 00:09:57,780
+Let's say I duplicate number of copies, I click four, duplicate it, then it's going to have four of the same ads, then you click publish.
+
+113
+00:09:58,640 --> 00:10:07,040
+So, after the same thing, it goes in draft to processing to active. Now, you have five ads active at the same time, same exact five ads, keep duplicating it again.
+
+114
+00:10:07,040 --> 00:10:12,000
+Let's say five, double it, 10, 20, 40, eventually it's 50.
+
+115
+00:10:12,520 --> 00:10:19,300
+You can do this at unlimited times. Let's say it takes you an hour to approve, then you can just duplicate it right away after everything's approved.
+
+116
+00:10:19,620 --> 00:10:23,240
+Takes you a few minutes to do it. Same thing, it doesn't matter how long it takes you, right?
+
+117
+00:10:23,420 --> 00:10:29,040
+Maybe the first few times might take longer, a few hours, a day, after that, everything is getting approved much faster.
+
+118
+00:10:29,620 --> 00:10:36,700
+So, I usually like to duplicate it until I get at least 50 ads. So, duplicate, duplicate until I have 50 of the same ads active.
+
+119
+00:10:36,700 --> 00:10:39,000
+That's what I I aim for.
+
+120
+00:10:39,000 --> 00:10:43,220
+So, after you have this 50 ads active in the page likes campaign,
+
+121
+00:10:43,840 --> 00:10:48,040
+we run it at $5 a day for 3 days. It's just $15 a day.
+
+122
+00:10:48,540 --> 00:10:53,540
+So, the the ad itself is going to get a bunch of engagement, which doesn't matter. It's just so things don't get banned.
+
+123
+00:10:53,980 --> 00:10:59,340
+Page less likely to to go banned since now that you've you gained some followers on it.
+
+124
+00:10:59,340 --> 00:11:05,380
+You're going to have like super cheap cost per page like cuz it's it's worldwide, from India, Bangladesh, what not.
+
+125
+00:11:06,280 --> 00:11:09,200
+Page is is more warmed up. Ad account is more warmed up.
+
+126
+00:11:09,780 --> 00:11:18,840
+The next step after this, you have your ad account set up properly already, the the the the page is warmed up, ad account warmed up with payment method,
+
+127
+00:11:19,300 --> 00:11:25,100
+then you can go ahead and just create your sales campaign, which is covered in the in the later modules. This this just covers how to set it up.

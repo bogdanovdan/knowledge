@@ -1,0 +1,2490 @@
+{
+  "lesson": {
+    "num": 83,
+    "id": "083-how-to-scale-your-account-up-down",
+    "title": "How to scale your account (up & down)",
+    "section": "👨‍💻 How To Run Ads",
+    "video": "83. How to scale your account (up & down) Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1830.08,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=a23ae610d0cd4f489f7a2aebbea00d9d"
+  },
+  "generated_at": "2026-10-06T20:24:10-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (98% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 7070,
+    "matched_tokens": 6911,
+    "match_ratio": 0.978,
+    "segments_aligned": 261,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 277.425,
+      "end_boundary": "quiet",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 208.7,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 277.425,
+      "end": 529.05,
+      "end_boundary": "quiet",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 206.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 529.05,
+      "end": 936.926,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 230.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 936.926,
+      "end": 1198.201,
+      "end_boundary": "quiet",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 223.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1198.201,
+      "end": 1497.126,
+      "end_boundary": "quiet",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.993,
+      "wpm": 220.4,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 5,
+      "start": 1497.126,
+      "end": 1830.08,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.995,
+      "wpm": 232.8,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.92,
+      "speaker": "Presenter",
+      "text": "If you have ever scaled your Facebook Ads and then watched your ROAS tank as soon as you push that budget up,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 5.92,
+      "end": 15.86,
+      "speaker": "Presenter",
+      "text": "and then as a result you have to scale back down and you continue to bash your head against the wall trying to figure out how can I actually scale Meta without it completely tanking on me.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 15.98,
+      "end": 25.12,
+      "speaker": "Presenter",
+      "text": "Well, in this week's video, I'm going to show you the exact scaling process that we use to scale brands to spending over $100,000 a day on ads",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 25.12,
+      "end": 31.86,
+      "speaker": "Presenter",
+      "text": "and show you the different levels of where you should be focusing and how you should be scaling based off of your current daily spend.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 32.2,
+      "end": 40.04,
+      "speaker": "Presenter",
+      "text": "I'm also going to shatter your beliefs of what you actually think is possible when it comes to media buying on Meta by showing you some seriously big numbers.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 40.32,
+      "end": 46.6,
+      "speaker": "Presenter",
+      "text": "Here's an actual screenshot of a brand spending $50,000 on a single campaign.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 47.04,
+      "end": 54.42,
+      "speaker": "Presenter",
+      "text": "And most importantly, I'm going to give you the exact process and SOP that our team uses to scale ad accounts every single day",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 54.42,
+      "end": 61.84,
+      "speaker": "Presenter",
+      "text": "and help our brands and our community of 300+ Shopify brand owners in Evolve scale towards 100k days.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 62.04,
+      "end": 67.54,
+      "speaker": "Presenter",
+      "text": "Now, I'll be honest, there is absolutely nothing in the world that gives me more dopamine or fires me up more",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 67.54,
+      "end": 74.14,
+      "speaker": "Presenter",
+      "text": "than being able to go into Meta, click on the budget tab, and increase that budget and, sometimes, even double it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 74.34,
+      "end": 77.08,
+      "speaker": "Presenter",
+      "text": "So I am absolutely pumped to bring you this week's video.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 77.08,
+      "end": 82.98,
+      "speaker": "Presenter",
+      "text": "If you've been wanting to scale your Facebook Ads and again you don't have a strategy in doing so, this video is 100% for you.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 83.04,
+      "end": 84.16,
+      "speaker": "Presenter",
+      "text": "Let's go ahead and jump in.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 84.26,
+      "end": 92.7,
+      "speaker": "Presenter",
+      "text": "All right. So, as you see on screen here, there are going to be specific levels that we go through in this video based on where your current daily spend is.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 92.7,
+      "end": 102.38,
+      "speaker": "Presenter",
+      "text": "Now, before we actually unlock the certain levels and the actual structural and tactical things that you will be doing in the ad account at each level in front of you,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 102.38,
+      "end": 105.52,
+      "speaker": "Presenter",
+      "text": "we first need to understand how to actually scale. Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 105.52,
+      "end": 116.6,
+      "speaker": "Presenter",
+      "text": "And so, how we actually scale is down here in the EAM scaling process, and this applies to the campaigns that are in your account and what you currently have an active budget on.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 116.8,
+      "end": 123.48,
+      "speaker": "Presenter",
+      "text": "Now, I am going to go through this pretty quickly, but again, this process is pretty straightforward and you can go back in the video if you want to re-watch.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 123.5,
+      "end": 131.02,
+      "speaker": "Presenter",
+      "text": "Again, I will stop and emphasize the points that need to be emphasized. But for the most part, step one is pretty simple: is this campaign hitting target KPI?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 131.32,
+      "end": 136.24,
+      "speaker": "Presenter",
+      "text": "And to add a caveat to that, I would add that is your entire ad account actually hitting target KPI,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 136.4,
+      "end": 147.08,
+      "speaker": "Presenter",
+      "text": "because as we scroll up here into the specific levels, there are going to be some specific things that we add at each stage. So again, make sure you keep watching the video to see those next levels.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 147.36,
+      "end": 150.26,
+      "speaker": "Presenter",
+      "text": "But with that said, the first question is, are we hitting target KPI?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 150.46,
+      "end": 156.18,
+      "speaker": "Presenter",
+      "text": "Now, if the answer is yes, we're actually going to go down the yes train first, you need to ask yourself if you are in scaling protocol.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 156.3,
+      "end": 159.3,
+      "speaker": "Presenter",
+      "text": "Now, you might be wondering, what the heck is scaling protocol?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 159.66,
+      "end": 164.82,
+      "speaker": "Presenter",
+      "text": "Well, scaling protocol is essentially where you scale the ad account every 24 hours. Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 164.86,
+      "end": 172.4,
+      "speaker": "Presenter",
+      "text": "If you are not in scaling protocol, you are going to go down the no train, and I'm actually going to explain what scaling protocol is. Again, it's not that hard to understand.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 172.4,
+      "end": 183.84,
+      "speaker": "Presenter",
+      "text": "Or, you'll see here, if you are looking at a limited-time promo or sale campaign—say, for example, you're running a Fourth of July campaign, or you're running a Black Friday campaign, and that has a hard end date—",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 183.84,
+      "end": 189.78,
+      "speaker": "Presenter",
+      "text": "then you are able to actually go straight into scaling protocol, and you do not have to wait.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 190.04,
+      "end": 197.6,
+      "speaker": "Presenter",
+      "text": "So assuming you're not running a promo or sale campaign, and that you're just going to say no to this, \"I'm just running my regular campaign.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 198.14,
+      "end": 206.3,
+      "speaker": "Presenter",
+      "text": "And again, if you don't know what a promo or sale campaign is, I am going to show you guys an ad account that we scaled to $100,000 a day with the promo structure. So again, we're going to tap into that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 206.4,
+      "end": 216.84,
+      "speaker": "Presenter",
+      "text": "But again, if you said no here, you can scroll down and you can see that we have updated this to say, \"Has there been 48 to 72 hours of performance consistently above target KPI?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 217.22,
+      "end": 221.68,
+      "speaker": "Presenter",
+      "text": "Now, if you're wondering what scaling protocol is, this is what scaling protocol is. Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 221.74,
+      "end": 232.96,
+      "speaker": "Presenter",
+      "text": "If you have seen two to three days of consistent performance above your target KPI, you are officially in scaling protocol, which means that you can start scaling your ad account every 24 hours.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 233.22,
+      "end": 240.88,
+      "speaker": "Presenter",
+      "text": "So for example, on Monday, if you check and you're at a 3x ROAS, and that is above your KPI, that would be the first 24 hours. Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 241.14,
+      "end": 246.98,
+      "speaker": "Presenter",
+      "text": "So when you come down here and you see, \"Has there been 48 to 72 hours of consistent performance?\" You would say no.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 247.28,
+      "end": 249.48,
+      "speaker": "Presenter",
+      "text": "And then what you would do is you would just wait another 24 hours.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 249.74,
+      "end": 260.54,
+      "speaker": "Presenter",
+      "text": "So let's say Tuesday, we come back and again we see that there has now been another day at a 3x ROAS, and you have now had 48 hours of consistent target KPI performance.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 261.0,
+      "end": 267.5,
+      "speaker": "Presenter",
+      "text": "Then, you can say yes and go down the train of checking whether or not it is click-based data.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 267.5,
+      "end": 277.04,
+      "speaker": "Presenter",
+      "text": "Now, I'm going to come back to this, because the final thing that I wanted to mention here is recently we've added a new step to this, which says, \"Is there a new reason to be scaling?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 277.04,
+      "end": 287.76,
+      "speaker": "Presenter",
+      "text": "And what we mean by that is have you essentially found a new winning ad, have you found a new winning offer, or have you found a new winning landing page, or has something happened inside",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 287.76,
+      "end": 299.4,
+      "speaker": "Presenter",
+      "text": "of the ad account that is leading to dramatically better performance within that period? Because there have been times when we go through where we see this question and we are not in Scaling Protocol,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 299.4,
+      "end": 306.48,
+      "speaker": "Presenter",
+      "text": "and we are not running a limited time promo campaign, but we have just launched a new winning ad and the thing is taking off like a rocket ship,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 306.48,
+      "end": 315.74,
+      "speaker": "Presenter",
+      "text": "and it's taken our ROAS from a 2x to a 5x. Because in case you didn't know, winning ads and winning offers and winning landing pages can actually do that for your ad account.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 315.74,
+      "end": 325.74,
+      "speaker": "Presenter",
+      "text": "Then there will be times where we will say, \"Yes, there is a new reason to be scaling.\" And again, we will confirm now whether or not it is all click-based data.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 325.74,
+      "end": 336.04,
+      "speaker": "Presenter",
+      "text": "And for those of you that don't know what click-based data is, essentially when you go into your ad account—so, for example, here is an ad account here that I'm actually going to pull up when it comes to the scaling levels.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 336.1,
+      "end": 345.58,
+      "speaker": "Presenter",
+      "text": "So again, just a reminder, if you want to actually see the levels of scale over here, you've got to keep on watching. But to see how much of your data is actually click-based,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 345.58,
+      "end": 355.32,
+      "speaker": "Presenter",
+      "text": "what you're going to do is you're going to click on \"Columns\", you're going to click \"Compare attribution settings\", and you're going to take a look at your seven-day click-based data. And now this is assuming that you are going to be running",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 355.32,
+      "end": 363.34,
+      "speaker": "Presenter",
+      "text": "seven-day click, one-day view. So again, for the sake of this brand, that is what they're running. It says multiple attribution, but let me just go and show you the active ad sets.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 363.34,
+      "end": 372.74,
+      "speaker": "Presenter",
+      "text": "So, as you can see, this brand is running seven-day click, one-day view. And actually on this Champions ad set, we're running or one-day engaged-view. Now this is a whole another topic. Just know it doesn't really matter.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 372.74,
+      "end": 380.78,
+      "speaker": "Presenter",
+      "text": "You're just going to scroll over to make sure that all of the data or most of the data is actually click-based.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 380.98,
+      "end": 392.02,
+      "speaker": "Presenter",
+      "text": "So, as you can see here, there are 111 purchases, and out of those purchases, 104 are click-based. And so if we scroll to our click-based ROAS, you can see we're at a 2.4.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 392.12,
+      "end": 400.08,
+      "speaker": "Presenter",
+      "text": "Now again, the reason that we do this is because we want to see that the ads are actually driving the performance and it's not just collecting a bunch of view-through attribution.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 400.36,
+      "end": 409.9,
+      "speaker": "Presenter",
+      "text": "Now I have gone back and forth on view-through attribution and I do think there is a place for it. However, when it comes to incrementality and essentially like whatever provides an incremental lift",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 409.92,
+      "end": 416.48,
+      "speaker": "Presenter",
+      "text": "and what is going to drive the sales that you see on your actual store, I prefer to look at click-based data.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 416.72,
+      "end": 427.3,
+      "speaker": "Presenter",
+      "text": "And so this is where we look to see if 60% or more of the purchases are click-based or click-based data is actually meeting KPI, then you can go ahead and scale.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 427.7,
+      "end": 436.32,
+      "speaker": "Presenter",
+      "text": "Okay? And so in this instance, when it comes to the actual buttons, because we've made it this far now, we are either going to increase the budget by 20% flat, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 436.36,
+      "end": 442.5,
+      "speaker": "Presenter",
+      "text": "So again, if you're spending $100 a day, you would increase it by 20%, which puts you to 120.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 443.0,
+      "end": 452.48,
+      "speaker": "Presenter",
+      "text": "Now if you have very big budgets and say you're spending $10,000 a day or $100,000 a day, obviously a 20% budget increase is quite a lot, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 452.74,
+      "end": 462.84,
+      "speaker": "Presenter",
+      "text": "That goes up to $2,000 additional and up to $20,000 if you're actually spending $100,000 a day. So unless you're at those budgets, again, you can scale by 20%.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 462.84,
+      "end": 474.0,
+      "speaker": "Presenter",
+      "text": "Now if you are at those budgets, we have at times scaled by 15% or 10% or 5%, but it really does depend on the brand. For most people, you can actually scale 20%.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 474.0,
+      "end": 483.96,
+      "speaker": "Presenter",
+      "text": "If you notice that you have over-scaled, and again, when you come back to check and you're not hitting target KPI, then you can of course scale down. And again, we're going to talk about the process for that as well.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 484.26,
+      "end": 494.3,
+      "speaker": "Presenter",
+      "text": "But as you can see here, on the other side, if you are at 50 to 100% above KPI—so say your target is a 2x and you are actually getting a 4x return on ad spend—",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 494.56,
+      "end": 504.3,
+      "speaker": "Presenter",
+      "text": "there are times where we will double or 1.5x the actual budget. So again, as another example down here, if your target is 2.5 and performance is at 3.75,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 505.18,
+      "end": 511.62,
+      "speaker": "Presenter",
+      "text": "aka 50% above your target, and just as a reminder, that is actually happening consistently and it's not just one day,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 511.88,
+      "end": 519.48,
+      "speaker": "Presenter",
+      "text": "well, then what you can do is you can actually increase your budget by however much you are above. Just know, do this at your own risk. And if you are dealing with bigger budgets,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 519.48,
+      "end": 528.7,
+      "speaker": "Presenter",
+      "text": "obviously, chad scaling from 10k a day to 20k per day is a massive jump, right? But if you're spending $200 a day, $200 to $400 a day",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 528.7,
+      "end": 530.76,
+      "speaker": "Presenter",
+      "text": "not really that big of a difference. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 530.76,
+      "end": 535.44,
+      "speaker": "Presenter",
+      "text": "So just understand that as you play with bigger numbers, you are going to want to be less aggressive.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 536.1,
+      "end": 542.58,
+      "speaker": "Presenter",
+      "text": "But if you are less than a thousand dollars a day or even less than two or three thousand dollars a day, you're probably fine to be more aggressive with how you scale.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 542.9,
+      "end": 546.1,
+      "speaker": "Presenter",
+      "text": "Just again make sure you see where your KPI is at.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 546.3,
+      "end": 549.42,
+      "speaker": "Presenter",
+      "text": "Now, if we climb back up here, I just want to emphasize this again.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 549.54,
+      "end": 554.36,
+      "speaker": "Presenter",
+      "text": "If there is a new reason to be scaling, you can scale within 24 hours.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 554.36,
+      "end": 562.6,
+      "speaker": "Presenter",
+      "text": "But we still, a lot of the times, even if we hit a new winning ad or a new winning offer, we will wait 48 hours just to see how it's doing,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 562.6,
+      "end": 570.92,
+      "speaker": "Presenter",
+      "text": "or we'll wait like 36 hours. So we'll let it run for a day, and then if we check it the next day and it's still crushing or off to a really good start, then sometimes we will scale.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 571.26,
+      "end": 572.44,
+      "speaker": "Presenter",
+      "text": "But I just want to clarify that.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 572.62,
+      "end": 577.66,
+      "speaker": "Presenter",
+      "text": "And then again, if you are not in scaling protocol, there's no new reason to be scaling, wait another 24 hours.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 577.66,
+      "end": 585.5,
+      "speaker": "Presenter",
+      "text": "And same thing here, if more than 60% of purchases are not click-based, so basically a lot of view-through data is coming in, wait another 24 hours.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 585.5,
+      "end": 590.8,
+      "speaker": "Presenter",
+      "text": "And at this point, I would actually check and potentially switch to seven-day click-only, but that's a topic for another video.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 590.8,
+      "end": 593.24,
+      "speaker": "Presenter",
+      "text": "Now, let's go down the no train here. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 593.42,
+      "end": 601.06,
+      "speaker": "Presenter",
+      "text": "So if you are not hitting target KPI, then the first question that you need to ask yourself is, are you below breakeven KPI for 24 to 48 hours?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 601.18,
+      "end": 607.38,
+      "speaker": "Presenter",
+      "text": "Now, this is a question that we recently added, because we have seen some people ultimately Chad-scale and just tank their account.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 607.62,
+      "end": 610.98,
+      "speaker": "Presenter",
+      "text": "And for a lot of you guys, you'll scale up and then all of a sudden your ROAS just tanks.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 611.32,
+      "end": 621.52,
+      "speaker": "Presenter",
+      "text": "And so, you want to give Meta time to figure itself out, because when you increase budget, it has to expand its reach and it has to serve your ads to more people.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 621.72,
+      "end": 629.58,
+      "speaker": "Presenter",
+      "text": "And what ends up happening and the reason why your ads can't scale when you do this majority of the time is because the creatives are just not good enough, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 629.78,
+      "end": 634.58,
+      "speaker": "Presenter",
+      "text": "So you have creatives that are able to, say, reach, you know, 10,000 people a day and get them to convert.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 634.72,
+      "end": 640.5,
+      "speaker": "Presenter",
+      "text": "But as soon as you try to scale beyond those 10,000 people, Meta is now having to show your ads to colder and colder people.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 640.52,
+      "end": 648.04,
+      "speaker": "Presenter",
+      "text": "And because your ads are not good enough to convert those colder and colder people, you see your return on ad spend tank, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 648.18,
+      "end": 649.66,
+      "speaker": "Presenter",
+      "text": "And spend becomes really inefficient.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 650.16,
+      "end": 655.4,
+      "speaker": "Presenter",
+      "text": "So if you are below breakeven KPI for whatever reason, so after 24 or 48 hours,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 655.4,
+      "end": 665.5,
+      "speaker": "Presenter",
+      "text": "what we would recommend doing is checking if you're at minimum daily spend, and again minimum daily spend I'm going to come back to in a second, but then likely just scale down and decrease the budget 20%. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 665.8,
+      "end": 668.2,
+      "speaker": "Presenter",
+      "text": "The minimum that we usually scale is around 20%.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 668.2,
+      "end": 671.42,
+      "speaker": "Presenter",
+      "text": "It's very, very rare that we'll scale down like 10%.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 671.66,
+      "end": 675.92,
+      "speaker": "Presenter",
+      "text": "And there are times where we will scale down more aggressively. It really depends on the scenario.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 675.92,
+      "end": 677.22,
+      "speaker": "Presenter",
+      "text": "And again, we're going to get more into that.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 677.22,
+      "end": 683.14,
+      "speaker": "Presenter",
+      "text": "But if for whatever reason you're not at breakeven or you're not below breakeven, but you are not really hitting your KPI,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 683.14,
+      "end": 687.26,
+      "speaker": "Presenter",
+      "text": "so again, for example, if your target is a 2.5 and you're at a 2,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 687.26,
+      "end": 691.58,
+      "speaker": "Presenter",
+      "text": "obviously you're not losing money, but it's not your ideal target. So in that instance,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 691.58,
+      "end": 695.88,
+      "speaker": "Presenter",
+      "text": "what you can ask yourself is again, has there been 48 to 72 hours of",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 695.88,
+      "end": 698.1,
+      "speaker": "Presenter",
+      "text": "performance consistently below your target?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 698.1,
+      "end": 701.1,
+      "speaker": "Presenter",
+      "text": "And again, we're emphasizing this on a seven-day click-based data.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 701.1,
+      "end": 706.12,
+      "speaker": "Presenter",
+      "text": "So if you have seen two to three days of poor performance, then what we would recommend doing",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 706.12,
+      "end": 710.88,
+      "speaker": "Presenter",
+      "text": "is, again, checking if you're at minimum spend, but if you're not, again wait 24 hours. Very, very simple.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 710.88,
+      "end": 715.9,
+      "speaker": "Presenter",
+      "text": "But if you are, then check if you're at minimum daily spend and likely, again, decrease your budget down.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 716.1,
+      "end": 717.6,
+      "speaker": "Presenter",
+      "text": "Now, what is minimum daily spend?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 717.82,
+      "end": 721.94,
+      "speaker": "Presenter",
+      "text": "Well, minimum daily spend is essentially how much you're willing to spend no matter what. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 722.28,
+      "end": 725.82,
+      "speaker": "Presenter",
+      "text": "And this changes as you get bigger as a brand. Okay? Because you'll likely have more cash.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 725.82,
+      "end": 730.5,
+      "speaker": "Presenter",
+      "text": "For a lot of you guys, when you're just starting out, you're probably maybe spending $50 to $100 a day.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 730.62,
+      "end": 735.0,
+      "speaker": "Presenter",
+      "text": "And so that is likely your minimum daily spend, where no matter what, that is what you're going to spend for 30 days.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 735.3,
+      "end": 740.5,
+      "speaker": "Presenter",
+      "text": "Now, for some of our brands, because we're spending a lot more, say we're spending 10, 15, 20, or 30k a day,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 740.78,
+      "end": 748.28,
+      "speaker": "Presenter",
+      "text": "our minimum spend for a brand spending 20k a day might be 10, meaning that no matter what, like, we're spending 10k a day and we better figure it out, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 748.66,
+      "end": 754.22,
+      "speaker": "Presenter",
+      "text": "And so calculating your minimum daily spend is more of an exercise that you can do based off of the cash flow and the reserves that you have.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 754.42,
+      "end": 760.72,
+      "speaker": "Presenter",
+      "text": "But for most of you guys, I would say like your minimum daily spend should be like $100 or $200 a day, and if you continue to go down, down, down, down, down,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 760.94,
+      "end": 766.76,
+      "speaker": "Presenter",
+      "text": "well, then you're going to have to really figure some things out here, which is why we have this updated area down here.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 766.96,
+      "end": 772.12,
+      "speaker": "Presenter",
+      "text": "Okay, so whether or not you're decreasing budget or you are at your minimum daily spend and you can't decrease anymore,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 772.42,
+      "end": 778.44,
+      "speaker": "Presenter",
+      "text": "it's very, very, very important for you to actually take action outside of the ad account. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 778.54,
+      "end": 785.24,
+      "speaker": "Presenter",
+      "text": "And I cannot stress this enough, because if you are scaling down, you need to focus on the things that actually allow you to scale. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 785.5,
+      "end": 788.2,
+      "speaker": "Presenter",
+      "text": "Which is, number one, launching new DCTs. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 788.5,
+      "end": 791.02,
+      "speaker": "Presenter",
+      "text": "Number two, double-checking the funnel for bugs or errors.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 791.36,
+      "end": 795.6,
+      "speaker": "Presenter",
+      "text": "You wouldn't believe how many times that we've seen brands break something on their website.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 795.94,
+      "end": 798.6,
+      "speaker": "Presenter",
+      "text": "We check the ad account the next day, performance is totally tanked,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 798.72,
+      "end": 804.06,
+      "speaker": "Presenter",
+      "text": "and now we're trying to figure out what's going on. But because we have a process for double-checking the entire funnel,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 804.34,
+      "end": 812.1,
+      "speaker": "Presenter",
+      "text": "what we actually do is we go and check the website and boom, all of a sudden we found that the client accidentally removed a piece of code for their cart or changed something on the product page",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 812.1,
+      "end": 813.68,
+      "speaker": "Presenter",
+      "text": "or they're out of stock. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 813.68,
+      "end": 820.16,
+      "speaker": "Presenter",
+      "text": "And so it's very, very important to make sure that your media buyers specifically or you specifically have a process for double-checking your funnel",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 820.16,
+      "end": 822.48,
+      "speaker": "Presenter",
+      "text": "if you see performance going down. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 822.74,
+      "end": 828.94,
+      "speaker": "Presenter",
+      "text": "This is actually something that I'd recommend doing every day, especially if you see a dramatic change in the funnel. Most of you guys do this automatically because you just",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 828.94,
+      "end": 833.12,
+      "speaker": "Presenter",
+      "text": "spam your ad account and spam your Shopify, but for the most part, make sure you double-check your funnel.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 833.24,
+      "end": 841.32,
+      "speaker": "Presenter",
+      "text": "Now, the other thing that you should be doing is conducting data analysis on ads that are getting spend, and processing learnings and completing feedback loops to understand,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 841.32,
+      "end": 847.32,
+      "speaker": "Presenter",
+      "text": "okay, Meta is liking this angle or Meta is liking this avatar or Meta is liking this style of creative,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 847.74,
+      "end": 850.4,
+      "speaker": "Presenter",
+      "text": "what can I learn from it? How can I make better ads?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 850.4,
+      "end": 856.94,
+      "speaker": "Presenter",
+      "text": "And make sure that you complete those feedback loops so you're not wasting your time when you go to create new DCTs, because again,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 856.94,
+      "end": 862.14,
+      "speaker": "Presenter",
+      "text": "you need to learn from what is happening in the account. And if you're new to the channel, I have tons of videos that talk about that.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 862.3,
+      "end": 868.58,
+      "speaker": "Presenter",
+      "text": "And I actually just made a video about processing learnings, so you can actually go and check that out. I'll make sure the team leaves a link in the description down below.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 868.58,
+      "end": 873.58,
+      "speaker": "Presenter",
+      "text": "But from there, you can also conduct deep research for new avatars and new mechanisms.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 873.64,
+      "end": 879.82,
+      "speaker": "Presenter",
+      "text": "And this is something that I really want to double-click into, because I think some of you guys start to panic when Meta is tanking,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 879.9,
+      "end": 883.68,
+      "speaker": "Presenter",
+      "text": "and you're constantly looking in the ad account for answers. But the truth is,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 883.68,
+      "end": 889.18,
+      "speaker": "Presenter",
+      "text": "the reason why your ad account is tanking is because what's actually inside of it. And this is where it's so confusing",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 889.74,
+      "end": 895.64,
+      "speaker": "Presenter",
+      "text": "because you see that the inside of the ad account is tanking, and so you want to try to fix the inside of the ad account,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 895.64,
+      "end": 898.68,
+      "speaker": "Presenter",
+      "text": "a.k.a you want to fix the campaigns and the structure and all that kind of stuff.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 899.04,
+      "end": 903.02,
+      "speaker": "Presenter",
+      "text": "But what is actually going to fix the inside of your ad account is everything outside.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 903.68,
+      "end": 909.66,
+      "speaker": "Presenter",
+      "text": "And so if you are seeing that performance is going down and that every time you scale you get hit and punched in the face,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 909.66,
+      "end": 914.04,
+      "speaker": "Presenter",
+      "text": "well, it's probably time for you to spend more time outside of the ad account,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 914.04,
+      "end": 919.12,
+      "speaker": "Presenter",
+      "text": "focusing on deep research, finding new mechanisms and new ways to position your product,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 919.46,
+      "end": 923.34,
+      "speaker": "Presenter",
+      "text": "finding new avatars and people with specific pain points that you can go after,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 923.52,
+      "end": 930.94,
+      "speaker": "Presenter",
+      "text": "and finding new creatives and studying existing creatives or even looking at creatives. And this is what I love so much about Evolve,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 930.94,
+      "end": 936.64,
+      "speaker": "Presenter",
+      "text": "because the first thing that we show people when they join Evolve is a winning ads document of ads that have spent",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 936.64,
+      "end": 944.52,
+      "speaker": "Presenter",
+      "text": "millions of dollars, and so they right away are able to adjust their lens of what a good ad looks like, so they can go and create them.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 944.66,
+      "end": 948.78,
+      "speaker": "Presenter",
+      "text": "So, if you're struggling in your ad account, you need to understand what a great ad is,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 948.78,
+      "end": 955.9,
+      "speaker": "Presenter",
+      "text": "and then from there, you need to put in the work again outside of the ad account to actually get the inside of the ad account to start working better.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 956.1,
+      "end": 958.06,
+      "speaker": "Presenter",
+      "text": "Wanted to go full screen just to make sure I emphasized that.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 958.2,
+      "end": 966.62,
+      "speaker": "Presenter",
+      "text": "And then from there, the final thing that you can do, and this is something that we again started doing recently and it's so so important for you to understand, is to start offer testing, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 966.82,
+      "end": 974.48,
+      "speaker": "Presenter",
+      "text": "If you are a brand that has been plateaued for a few months and you haven't been able to scale, or maybe you're scaling back down, or even then you're at your minimum daily budget,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 974.76,
+      "end": 977.3,
+      "speaker": "Presenter",
+      "text": "you should likely start testing some new offers, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 977.58,
+      "end": 979.72,
+      "speaker": "Presenter",
+      "text": "The market is going to get sophisticated.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 979.72,
+      "end": 985.0,
+      "speaker": "Presenter",
+      "text": "The offer that you ran in January is probably not as powerful as it is now in June.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 985.4,
+      "end": 988.24,
+      "speaker": "Presenter",
+      "text": "And on top of that, desires are shifting. Desires are changing.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 988.66,
+      "end": 991.72,
+      "speaker": "Presenter",
+      "text": "Unless you live in the Arctic, it's also summer right now.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 991.92,
+      "end": 997.5,
+      "speaker": "Presenter",
+      "text": "So, again, when I say desires are shifting and changing, people have different buying habits. People are outside more. People are traveling more.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 997.68,
+      "end": 1002.82,
+      "speaker": "Presenter",
+      "text": "You need to figure out how you can create offers that are going to appeal to those specific types of people,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 1002.82,
+      "end": 1011.42,
+      "speaker": "Presenter",
+      "text": "and you also need to understand how to make offers that can scale through specific seasons and specific periods where everything might not be in your favor, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 1011.66,
+      "end": 1022.44,
+      "speaker": "Presenter",
+      "text": "And so, my favorite way to do offer testing is, again, to do it inside of your one campaign and test brand new ads with a brand new offer in that campaign to see if it gets spent.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 1022.66,
+      "end": 1031.24,
+      "speaker": "Presenter",
+      "text": "Now, if you are a brand that is a little bit more scaled, maybe you're spending 10 to 15k per day, you likely have enough data to go and split test it formerly on your store.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 1031.6,
+      "end": 1040.96,
+      "speaker": "Presenter",
+      "text": "But with that said, I still love just creating new offers, focusing on the avatar, which again, why deep research is so important, and coming up with different pricing strategies, different bundles,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 1041.34,
+      "end": 1054.82,
+      "speaker": "Presenter",
+      "text": "and all of that good stuff, actually be able to test it inside of your ad account and see if that can give you the lightning bolt that you need to get you out of your minimum daily spend or to get you off of this plateau or decreased budget protocol that you are in.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 1054.94,
+      "end": 1060.34,
+      "speaker": "Presenter",
+      "text": "So, that is the entire scaling SOP up to date with exactly what we do.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 1060.4,
+      "end": 1069.08,
+      "speaker": "Presenter",
+      "text": "Now, if you hung in there to the end, you're going to get the sauce over here of something that we've recently just put together that is our levels of scaling, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 1069.34,
+      "end": 1073.0,
+      "speaker": "Presenter",
+      "text": "And so, level one of scaling is 0 to 50k per day.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 1073.18,
+      "end": 1080.92,
+      "speaker": "Presenter",
+      "text": "Now, I know this sounds ridiculous and this sounds super weird, like how can my scaling setup be the same at $0 to 50k?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 1081.1,
+      "end": 1084.76,
+      "speaker": "Presenter",
+      "text": "Well, it's because that's where Meta is pushing everything and there's proof of it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 1084.84,
+      "end": 1093.58,
+      "speaker": "Presenter",
+      "text": "So, again, if you are a brand that is spending $100 per day, this is what your ad account should look like, and again, you should apply scaling protocol to this campaign.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 1094.04,
+      "end": 1100.76,
+      "speaker": "Presenter",
+      "text": "As you can see here, $360 a day budget, if we are hitting KPI, we are going to scale. It's very, very simple, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 1100.82,
+      "end": 1103.94,
+      "speaker": "Presenter",
+      "text": "So, you just follow everything that we went through for that one campaign.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 1104.16,
+      "end": 1108.54,
+      "speaker": "Presenter",
+      "text": "Now, for those of you that are wondering, \"Well, why 50k per day?\", right? \"How come this one campaign is spending 360?\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 1109.12,
+      "end": 1117.54,
+      "speaker": "Presenter",
+      "text": "And as I'm about to show you, here's an actual screenshot of a brand spending $50,000 on a single campaign, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1118.02,
+      "end": 1123.16,
+      "speaker": "Presenter",
+      "text": "How is that possible? It's because it's all about the things that are outside of your ad account, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1123.6,
+      "end": 1138.02,
+      "speaker": "Presenter",
+      "text": "So, if you are from the belief that you need all of this different ad account strategy, you need this campaign and that campaign, you need to launch new CBOs with every single ad that you test, whatever dumb thing you guys think is actually going to get you to scale further, you don't need to do that, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 1138.08,
+      "end": 1143.04,
+      "speaker": "Presenter",
+      "text": "This is an ad account that was spending 50k per day at a 2x ROAS, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 1143.3,
+      "end": 1159.96,
+      "speaker": "Presenter",
+      "text": "So, it is very, very, very possible and we've actually seen ad accounts further than this. I just don't have permission to share them, unfortunately, with how much things have grown over this year, which I am very grateful for. I can't share a lot of these things anymore with you guys, but I'm doing my best to show you as much as I can. And so, just know, this is very, very possible, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 1160.18,
+      "end": 1162.98,
+      "speaker": "Presenter",
+      "text": "You can literally scale this to 50k plus a day with one campaign.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1163.22,
+      "end": 1172.34,
+      "speaker": "Presenter",
+      "text": "Now, again, if you haven't clicked off yet and you want to see level two, well, that is now going to get revealed, and tada! It is actually CBOs plus raw content, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1172.48,
+      "end": 1179.64,
+      "speaker": "Presenter",
+      "text": "So, this is level two scaling. So, if you are spending 3 to 10k per day, you can start to introduce some more campaigns.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1179.98,
+      "end": 1186.08,
+      "speaker": "Presenter",
+      "text": "Now, the reason why I recommend just one campaign for people that are spending less than 3k per day is because you just don't need it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1186.2,
+      "end": 1198.12,
+      "speaker": "Presenter",
+      "text": "You just need to lock in on your creatives, you need to lock in on your landing pages, and whether you're running a CBO or an ASC, I literally don't care. You need to focus on getting up to 3k per day in spend, and in one campaign, you can definitely do it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1198.36,
+      "end": 1204.84,
+      "speaker": "Presenter",
+      "text": "Okay? So that is level one, but now jumping into level two, we're introducing what is called a raw content campaign.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1205.04,
+      "end": 1209.66,
+      "speaker": "Presenter",
+      "text": "Now what is raw content? It's just the word that we've came up with for low-intent testing campaigns.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1209.7,
+      "end": 1220.24,
+      "speaker": "Presenter",
+      "text": "And this is because, as a brand spending three to 10k per day, you likely have potentially some UGC coming in, or maybe you're doing some TikTok Shop, and you're likely getting more content because you've realized content is important.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 1220.54,
+      "end": 1224.5,
+      "speaker": "Presenter",
+      "text": "So at this stage, what we actually do is we introduce a raw content campaign.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1224.5,
+      "end": 1229.54,
+      "speaker": "Presenter",
+      "text": "But as you can see, right here, the main spending campaign is still our one campaign, all right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1229.54,
+      "end": 1238.88,
+      "speaker": "Presenter",
+      "text": "Our raw content campaign is barely spending $200 a day, and this testing campaign is just something that we're doing for purposes of ABO versus CBO, which is going to be an insane video.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 1238.88,
+      "end": 1241.62,
+      "speaker": "Presenter",
+      "text": "The learnings that we're getting from that are actually very, very interesting.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1241.62,
+      "end": 1250.98,
+      "speaker": "Presenter",
+      "text": "So if you are not subscribed, make sure that you click the subscribe button right now, especially if you're enjoying this. If you're hating this, then don't subscribe, but if you are enjoying this and you want to see a master",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1250.98,
+      "end": 1260.06,
+      "speaker": "Presenter",
+      "text": "data sheet of ABO versus CBO, we tested over 500 ads and counting, it is going to be an absolute banger, so make sure you guys subscribe for that.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 1260.06,
+      "end": 1269.9,
+      "speaker": "Presenter",
+      "text": "But again, inside of this campaign setup, as you can see, we have our main campaign, which is the standard CBO, with a new raw content campaign that we just recently set up.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 1269.9,
+      "end": 1277.74,
+      "speaker": "Presenter",
+      "text": "And now what we're doing is we're launching all of our low-intent product seeding TikTok Shop videos into this campaign to just do mass testing.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 1277.74,
+      "end": 1289.16,
+      "speaker": "Presenter",
+      "text": "And the reason why we're doing it that way is because we are starting to segment different objectives of hey, this is our high-intent campaign, and this is our campaign where we're just shotgunning content in there, and if something sticks, then great, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 1289.18,
+      "end": 1291.86,
+      "speaker": "Presenter",
+      "text": "So that is the setup for level two.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 1292.12,
+      "end": 1299.3,
+      "speaker": "Presenter",
+      "text": "Now, if you are looking to get to level three of scaling, so 10 to 50k plus a day, this is what you're going to start to look at, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 1299.44,
+      "end": 1304.66,
+      "speaker": "Presenter",
+      "text": "This is CBOs, plus raw content, plus ASCs, plus whitelisting, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 1304.9,
+      "end": 1308.5,
+      "speaker": "Presenter",
+      "text": "Now I'm going to show you two ad accounts here, they're actually with the same brand.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 1308.5,
+      "end": 1317.76,
+      "speaker": "Presenter",
+      "text": "Now the reason why we actually have the ad account separated is simply because we had an ad account ban and then we actually got it back, and we just realized that we might as well keep it.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 1317.76,
+      "end": 1321.54,
+      "speaker": "Presenter",
+      "text": "But for those of you that also think like separating ad accounts is a good scaling strategy,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 1321.54,
+      "end": 1324.5,
+      "speaker": "Presenter",
+      "text": "that's something that you can test on your own if you want.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 1324.5,
+      "end": 1334.94,
+      "speaker": "Presenter",
+      "text": "We haven't seen it actually impact. Most of our ad accounts that are spending the most are usually just in the same ad account, or most of our brands rather are that are spending the most are just running everything in the same ad account.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 1334.94,
+      "end": 1345.16,
+      "speaker": "Presenter",
+      "text": "But for the sake of this example, I'm going to show you guys that at this level, we are now running our CBOs, our raw content, ASCs is what we're introducing, as well as whitelisting, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 1345.44,
+      "end": 1346.6,
+      "speaker": "Presenter",
+      "text": "So what does this actually look like?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 1346.74,
+      "end": 1349.76,
+      "speaker": "Presenter",
+      "text": "Well, as you can see in here, we again have CBOs with an S.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 1349.76,
+      "end": 1357.62,
+      "speaker": "Presenter",
+      "text": "Now I will say that if you do have multiple countries, this brand specifically does not run in multiple countries, as you can see it's US only,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1357.62,
+      "end": 1366.78,
+      "speaker": "Presenter",
+      "text": "but if you do have multiple countries, what you can actually do is either launch a worldwide campaign, see which countries perform, and then optimize funnels and different CBOs for them.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1367.06,
+      "end": 1372.12,
+      "speaker": "Presenter",
+      "text": "And again, the CBO is the same DCT structure or same 3-2-2 structure that we recommend.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1372.5,
+      "end": 1377.0,
+      "speaker": "Presenter",
+      "text": "And again, if you haven't seen the full how to run Facebook Ads to hit 100k days video, make sure you go and check that out.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1377.12,
+      "end": 1382.5,
+      "speaker": "Presenter",
+      "text": "People are liking it, so again, there will be a pop-up on screen somewhere and a link down below for you to go check it out.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1382.64,
+      "end": 1386.84,
+      "speaker": "Presenter",
+      "text": "But in here, again, we are running raw content, as well as ASCs and whitelisting.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1386.84,
+      "end": 1394.54,
+      "speaker": "Presenter",
+      "text": "So the ASCs specifically are coming in for scaling, and so as you can see here, this is our main scaling ASC.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1394.92,
+      "end": 1399.74,
+      "speaker": "Presenter",
+      "text": "And again, just ignore this testing scaling ABO, it is for the ABO versus CBO test,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 215,
+      "start": 1399.96,
+      "end": 1408.36,
+      "speaker": "Presenter",
+      "text": "but here, as you can see, we now have introduced a scaling ASC where what we do is we treat this like a champions ad set inside of our main CBO.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 216,
+      "start": 1408.68,
+      "end": 1417.42,
+      "speaker": "Presenter",
+      "text": "And essentially, we're taking all of our winning ads, and we're putting them in an ASC, and we're allowing Meta to actually use that to deliver to another segment of customers, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1417.52,
+      "end": 1425.24,
+      "speaker": "Presenter",
+      "text": "And so, if you want to introduce ASCs at the three to 10k level, and you don't have a ton of content, you definitely can do CBOs and ASCs here.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1425.4,
+      "end": 1429.42,
+      "speaker": "Presenter",
+      "text": "The point of this is is you don't need to be overcomplicated at three to 10k per day in spend.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1429.7,
+      "end": 1435.34,
+      "speaker": "Presenter",
+      "text": "With that said, as you start to approach 10k plus per day in spend, we do often see a little bit more complex account structures.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1435.42,
+      "end": 1441.42,
+      "speaker": "Presenter",
+      "text": "And so, to show you where our raw content campaigns are, as well as our whitelisting campaigns, you can see them in here.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1441.52,
+      "end": 1450.52,
+      "speaker": "Presenter",
+      "text": "Now, for those of you that don't know what whitelisting is, whitelisting is, essentially, where you run ads from content creators' profiles rather than your own brand profile.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1450.54,
+      "end": 1460.9,
+      "speaker": "Presenter",
+      "text": "And so, what we actually have done, for this brand specifically, is we've segmented whitelisting ads into a separate campaign, and then have our actual ASC scaling for raw content, which",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1460.9,
+      "end": 1466.9,
+      "speaker": "Presenter",
+      "text": "I would not recommend, but again, if you want to start getting more segmented at around 10k per day in spend, you can.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1466.9,
+      "end": 1469.1,
+      "speaker": "Presenter",
+      "text": "Just know, again, you don't need to get overcomplex.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1469.5,
+      "end": 1480.06,
+      "speaker": "Presenter",
+      "text": "We have our main CBO here for raw content, we have our whitelisting, which is all of our winning raw content on the creators' actual profile, so again, from their page rather than our page.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1480.08,
+      "end": 1486.9,
+      "speaker": "Presenter",
+      "text": "And then we also have that in two worldwide campaigns as well, but as you can see, it's not really doing much, it's mainly the US that is crushing for this brand specifically.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1486.98,
+      "end": 1496.48,
+      "speaker": "Presenter",
+      "text": "And again, I did mention that there is this ASC here that we're using for raw content. This is something new that we're testing, but it is the same fundamental principle as a scaling ASC",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 228,
+      "start": 1496.48,
+      "end": 1505.08,
+      "speaker": "Presenter",
+      "text": "for your CBO and high-intent creatives, but with that said, this is a brand that is spending just around 10k per day. We've actually had to scale down a little bit because of stock,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1505.08,
+      "end": 1508.46,
+      "speaker": "Presenter",
+      "text": "but this is an account where you can see that in action.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1508.46,
+      "end": 1518.82,
+      "speaker": "Presenter",
+      "text": "And then the final area, which again as it says here, if you actually are spending 50 to 100k per day on ads, well, you probably should have just skipped to this because your time is very valuable. But,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1518.82,
+      "end": 1523.12,
+      "speaker": "Presenter",
+      "text": "this is where we start to see things a lot more complex in ad accounts.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1523.12,
+      "end": 1534.18,
+      "speaker": "Presenter",
+      "text": "Now, the thing that is very, very important for you to understand, that if you are over here and you're in 0 to 50k per day, you do not want to replicate what someone is doing at level four of scaling, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1534.3,
+      "end": 1543.98,
+      "speaker": "Presenter",
+      "text": "Where you start segmenting CBOs and segmenting raw content campaigns and ASCs and whitelisting. And if you're wondering what I mean by segmented CBOs, what we see brands at this level doing",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1543.98,
+      "end": 1552.28,
+      "speaker": "Presenter",
+      "text": "is segmenting by collections or segmenting by specific avatars. And so a lot of you guys see this, and you want to do this, right? You get all excited",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1552.28,
+      "end": 1562.84,
+      "speaker": "Presenter",
+      "text": "about an ad account spending 50k per day, but the truth is, is you're not spending 50k per day. You're spending 3k a day, or 4k a day, and can this maybe help you get a little bit more spend?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1562.94,
+      "end": 1567.66,
+      "speaker": "Presenter",
+      "text": "Sure, but the point is, is you have to earn this level of scaling, and you have to earn this structure.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1567.98,
+      "end": 1577.94,
+      "speaker": "Presenter",
+      "text": "The example that I want to give is like looking at a billionaire and being like, \"I need to do exactly what he's doing. I need to talk on the phone all day, I need to fly private, I need to have my own driver, I need to live in a penthouse.\" Like,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1578.08,
+      "end": 1588.76,
+      "speaker": "Presenter",
+      "text": "no, you don't. You need to sit on your laptop, you need to learn a skill, you need to start to make some money so that way you can get your capital and people to work for you, and then you can maybe act more like a billionaire, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1588.78,
+      "end": 1596.88,
+      "speaker": "Presenter",
+      "text": "So point is, is that you should not replicate or copy what an ad account is doing at 50 to 100k per day if you're spending 2, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1597.1,
+      "end": 1611.36,
+      "speaker": "Presenter",
+      "text": "And so that's why I've tried to break this down into the levels of scale so that way you can see what you can hopefully build up towards, but you have to earn that right to start to expand your ad account a little bit further and get more creative simply because of the sheer volume that you're dealing with.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1611.36,
+      "end": 1622.8,
+      "speaker": "Presenter",
+      "text": "So again, going back into this, there are segmented CBOs that you can run, and again, a lot of the brands that we talk to or can actually manage spending 100k plus a day on ads, it is a little bit more segmented.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1622.9,
+      "end": 1633.98,
+      "speaker": "Presenter",
+      "text": "And because again, these brands don't want their ad accounts out there, I cannot show you, but what I can show you is actually an example of where you leverage one campaign strategy with promo strategy.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1633.98,
+      "end": 1643.74,
+      "speaker": "Presenter",
+      "text": "So again, I did mention that we would get into the promo strategy, and so the promo campaign strategy does apply no matter where you're at, and what the promo campaign strategy is,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1643.74,
+      "end": 1652.38,
+      "speaker": "Presenter",
+      "text": "is, as you can see over here, in our campaign set up, it is where we have our cold, hot, and warm audiences inside of this one campaign.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1652.76,
+      "end": 1658.96,
+      "speaker": "Presenter",
+      "text": "And again, I'm not going to go deep into how to set this up. If you want to see how we set this up, there is the How to Run Facebook Ads video attached below.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1659.3,
+      "end": 1665.4,
+      "speaker": "Presenter",
+      "text": "But as you can see here, this ad account was actually spending 50k per day the day before Black Friday.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1665.4,
+      "end": 1672.84,
+      "speaker": "Presenter",
+      "text": "Now, as you can see on Black Friday itself, we actually did spend $100,000 in a single day, and we scaled the heck out of this.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1673.04,
+      "end": 1687.5,
+      "speaker": "Presenter",
+      "text": "And this just goes to show you that with ASCs and sale promo campaigns and a very, very simple CBO campaign, again, outside of this ABO testing campaign, which was something that we were just playing around with for this mega ABO-CBO test that we've been working on.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1687.78,
+      "end": 1699.62,
+      "speaker": "Presenter",
+      "text": "As you can see here, it's just separated by different countries, and I do actually break down this ad account in my $10 million in 90 days video, but the point is, is you can get up to 100k per day if the period allows for specific promos.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1699.62,
+      "end": 1709.74,
+      "speaker": "Presenter",
+      "text": "And so, in this instance, we actually were able to spend over 100k per day, or 100k per day exactly, without doing a bunch of segmented CBOs and raw content ASCs and other kinds of stuff.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1709.74,
+      "end": 1717.84,
+      "speaker": "Presenter",
+      "text": "We were just focused on our one campaign strategy, right, with our promo strategy. And for those of you that are wondering when you can use the promo strategy,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1717.84,
+      "end": 1730.24,
+      "speaker": "Presenter",
+      "text": "you can use it for any period, right? 4th of July, there's going to be Halloween coming up, obviously Black Friday, Christmas, all of these major holidays or all of these events that happen. Prime Day is actually another one.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1730.5,
+      "end": 1739.74,
+      "speaker": "Presenter",
+      "text": "You can take advantage of that, okay? And you can launch limited-time campaigns with great offers, and if you want to see our sales and offer strategy, there's also another video on my channel.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 254,
+      "start": 1739.88,
+      "end": 1746.56,
+      "speaker": "Presenter",
+      "text": "I've got way too many videos by now, but the point is, is you can see that that strategy alone can also scale up to six figures a day in spend",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 255,
+      "start": 1746.56,
+      "end": 1762.12,
+      "speaker": "Presenter",
+      "text": "when the period allows. Now again, it's Black Friday, it's Q4, it's the hottest period of the year, but I want you guys to understand that you can scale very, very high with a very simplified ad account structure and a very simple overall scaling process by going through that protocol that we just walked through.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1762.12,
+      "end": 1775.86,
+      "speaker": "Presenter",
+      "text": "And again, just to recap, here it is for you, and if you did make it all the way to the end, I appreciate you for staying. If you need to review this video for whatever reason, I'll kind of zoom out here so you guys can see it, and then go ahead and screenshot it and do whatever you want with it.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1775.86,
+      "end": 1787.44,
+      "speaker": "Presenter",
+      "text": "But that is the scaling process that we use. Now again, if you enjoyed this week's video and you want more insights like this about how we're scaling brands to 100k plus days, I'd highly recommend that you check out the Evolve link down below.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1787.44,
+      "end": 1799.02,
+      "speaker": "Presenter",
+      "text": "We are making a push to get back to the number one spot on Skool. Big shout-out to the guy that actually dethroned us. He is the new GOAT on Skool, so in some of my previous videos where I said we're number one, unfortunately, we're not number one anymore, but",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1799.02,
+      "end": 1812.54,
+      "speaker": "Presenter",
+      "text": "if you want to see strategies like this and you want to get into the highest-level community for all of e-com, where there are literally dudes spawning out of nowhere doing 40, 50, 90, 150k plus days in e-com right now, that's the place to be.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 260,
+      "start": 1812.76,
+      "end": 1824.62,
+      "speaker": "Presenter",
+      "text": "So, I'll leave it there. Again, I really, really hope that you guys enjoyed this video, and if you happen to be a Shopify brand that wants our team to step in and manage things, and you're spending at least six figures a month on ads, I'd highly recommend for you to check out the second link down below",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1824.62,
+      "end": 1829.9,
+      "speaker": "Presenter",
+      "text": "to book a call with me and my team. Thank you so much for making it all the way to the end, and I will see you in the next one.",
+      "chunk": 5,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 0.0,
+      "end": 27.0,
+      "label": "background music"
+    },
+    {
+      "start": 41.5,
+      "end": 42.3,
+      "label": "chuckle"
+    },
+    {
+      "start": 1763.63,
+      "end": 1830.08,
+      "label": "music"
+    }
+  ]
+}

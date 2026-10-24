@@ -1,0 +1,51 @@
+{
+  "lesson": {
+    "num": 82,
+    "id": "082-how-to-set-roas-targets-for-scaling",
+    "title": "How to set ROAS targets for scaling",
+    "video": "82. How to set ROAS targets for scaling Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T20:14:12-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "854x480 (native)",
+  "candidates_reviewed": 3,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 15.015,
+      "time": "00:00:15",
+      "frame": "frames/082_00-00-15.png",
+      "category": "software_demo",
+      "title": "E-Commerce Results Calculator interface",
+      "on_screen": "E-Commerce Results Calculator\nEnter your marketing metrics below to calculate the real ROI you will receive through Paid Advertising\n- Average (Gross) Profit Margin: 0.6\n- Breakeven ROAS value: 1.67\n- Service Fee: $2,000 /pm (Input: 2000)\n- Performance Fee: 5% Profit (Input: 5)\n- Commission: $2,500\n- Recommended Ad Spend: $20,000 per month (Input: 20000)\n- ROAS Value Multiplier: 6.00 times returns (Input: 6.00)\n- Revenue From Ad Spend (ROAS): $120,000 per month\n- Profit After Margin: $72,000 per month\n- Profit After Ad Spend: $52,000 per month\n- Profit After All Spend: $50,000 per month\n- True Profit: $45,000 per month\nROI: 2240%\nProfit Margin Calculator",
+      "not_in_transcript": "The numbers loaded by default in the tool (Ad Spend: $20,000, Revenue: $120,000, True Profit: $45,000, Service Fee: $2,000, Commission: $2,500).",
+      "legibility": "clear",
+      "candidate_id": "F001",
+      "drive_url": "https://drive.google.com/file/d/1p0xhjWXzJx64saYaDRXAtO6usepI81Mc/view?usp=drivesdk"
+    },
+    {
+      "t": 115.015,
+      "time": "00:01:55",
+      "frame": "frames/082_00-01-55.png",
+      "category": "software_demo",
+      "title": "Profit Margin Calculator input fields",
+      "on_screen": "Profit Margin Calculator\nPrice Of Product + Shipping: 50\nCost Of Product + Shipping: 16.5\nYour Profit Margin: 0.67",
+      "not_in_transcript": "Input form field labels: 'Price Of Product + Shipping:', 'Cost Of Product + Shipping:'.",
+      "legibility": "clear",
+      "candidate_id": "F002",
+      "drive_url": "https://drive.google.com/file/d/1p0xhjWXzJx64saYaDRXAtO6usepI81Mc/view?usp=drivesdk"
+    },
+    {
+      "t": 445.011,
+      "time": "00:07:25",
+      "frame": "frames/082_00-07-25.png",
+      "category": "software_demo",
+      "title": "Meta Ads Manager daily reporting metrics",
+      "on_screen": "Meta Ads Manager - Campaigns view:\nCampaign: EAM//Acquisition//Origins-Purchase//USCA...\nDate: Today: Oct 23, 2025\nMetrics:\n- Amount spent: $236.00\n- Cost per result: $47.20 Per Purchase\n- Purchases: 5 Total\n- Cost per purchase: $47.20 Per Action\n- Purchases conversion value: $91.22 Total\n- Purchase ROAS (return on ad spend): 0.39 Average\n- CVR: 5.88%\n- AOV: $18.24",
+      "not_in_transcript": "Date selected: 'Today: Oct 23, 2025'; Amount spent: $236.00; Purchases: 5; Cost per purchase: $47.20; Conversion value: $91.22; CVR: 5.88%; AOV: $18.24; Campaign name: 'EAM//Acquisition//Origins-Purchase//USCA...'.",
+      "legibility": "clear",
+      "candidate_id": "F003",
+      "drive_url": "https://drive.google.com/file/d/1p0xhjWXzJx64saYaDRXAtO6usepI81Mc/view?usp=drivesdk"
+    }
+  ]
+}

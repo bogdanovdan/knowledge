@@ -1,0 +1,1855 @@
+1
+00:00:00,000 --> 00:00:02,960
+Presenter: All right. So let's get into understanding copywriting.
+
+2
+00:00:03,200 --> 00:00:08,080
+Presenter: Now, I just want to say, before I jump into this document, that I wasn't actually going to make this document
+
+3
+00:00:08,080 --> 00:00:14,240
+Presenter: to like help you understand copywriting fundamentals. That was something that was more or less going to say for Evolve. But I realized that if I'm really going to help you guys,
+
+4
+00:00:14,320 --> 00:00:23,180
+Presenter: like if I'm really going to guide some of you to actually getting a real skill set and actually being able to take all the information that you just got through all of the trainings
+
+5
+00:00:23,180 --> 00:00:26,680
+Presenter: to then actually be able to execute it at least from a copywriting standpoint,
+
+6
+00:00:27,360 --> 00:00:32,420
+Presenter: you need to understand some kind of baseline fundamentals, because what most people do in most programs is they just give you a prompt,
+
+7
+00:00:32,420 --> 00:00:38,760
+Presenter: and yes, I will give you a prompt, and you'll see me use prompts, but at the end of the day, you need to understand what copywriting actually is.
+
+8
+00:00:38,840 --> 00:00:41,500
+Presenter: Most of you guys don't even understand copywriting strategies in general.
+
+9
+00:00:41,500 --> 00:00:47,520
+Presenter: And you have this look on copywriting where it's like, oh, AI can just do it. But the truth is, is like, you don't know anything, right?
+
+10
+00:00:47,520 --> 00:00:54,220
+Presenter: And so, yes, AI has all this stuff, and you can, you know, basically get a lot of information and feed it to the AI and hope it writes you something good.
+
+11
+00:00:54,220 --> 00:01:03,700
+Presenter: But at the end of the day, the people who are doing the best are, you know, using AI to do the bulk of the work, and then using their copywriting skill set and knowledge to then finish it.
+
+12
+00:01:03,700 --> 00:01:12,020
+Presenter: And that, you know, final 10% or 20% that they put on the scripts and the briefs that they write are what actually make all the difference between a winning ad and a losing ad, okay?
+
+13
+00:01:12,400 --> 00:01:17,960
+Presenter: Like, you guys have to understand that one or two words can completely change an ad, especially in the hook, and we're going to get into that.
+
+14
+00:01:17,980 --> 00:01:26,760
+Presenter: But I wanted to make this to basically help some of you that are very beginner level. Maybe you don't have any experience at all copywriting and you're like, gosh, I just like, use whatever Claude gives me,
+
+15
+00:01:26,760 --> 00:01:34,300
+Presenter: and I hope for the best, or I just use what sounds good. And at the end of the day, some of you guys don't have five years of experience of writing copy. My point is, is like,
+
+16
+00:01:34,680 --> 00:01:40,900
+Presenter: copywriting is a skill set that you will 100% want to develop, and I'm going to explain that just by jumping into the doc. And so my point here is this,
+
+17
+00:01:40,900 --> 00:01:45,840
+Presenter: is that if you run an e-commerce brand, the most crucial part of your business is marketing, okay?
+
+18
+00:01:46,140 --> 00:01:55,760
+Presenter: For most of you watching this, you did not innovate an incre- like a world-class product that you can just take a photo of it, throw it up on Facebook, and just have everybody buy it, okay?
+
+19
+00:01:55,840 --> 00:01:58,260
+Presenter: That's just not how it works for a lot of brands, okay?
+
+20
+00:01:58,520 --> 00:02:06,200
+Presenter: And so if the most crucial part of your business is marketing, right, 'cause you don't have an insane product, then you need to get good at it.
+
+21
+00:02:06,920 --> 00:02:08,200
+Presenter: Very simple, right?
+
+22
+00:02:08,940 --> 00:02:13,560
+Presenter: And then, to be good at advertising, or, again, I use these words interchangeably, but to be good at marketing,
+
+23
+00:02:14,120 --> 00:02:17,120
+Presenter: you need to be good at writing words that convince people to buy your stuff.
+
+24
+00:02:17,680 --> 00:02:26,300
+Presenter: And to be good at writing words that convince people to buy your stuff, unlike me, cuz, clearly, as you can tell, I'm very repetitive. But, to be good at writing words that convince people to buy your stuff,
+
+25
+00:02:26,300 --> 00:02:29,060
+Presenter: you need to understand who those people are, right?
+
+26
+00:02:29,440 --> 00:02:34,640
+Presenter: And once you understand who they are, you need to learn how to communicate that understanding to them, okay?
+
+27
+00:02:35,140 --> 00:02:38,320
+Presenter: And so, there's a great quote by somebody who's extremely smart.
+
+28
+00:02:38,320 --> 00:02:43,180
+Presenter: The power of your copy is in direct proportion to the depth of your research.
+
+29
+00:02:43,180 --> 00:02:52,340
+Presenter: So how you communicate to them how you communicate your understanding of someone, because obviously a lot of you guys have gone through this and you've gone through the modules and you've gone really deep on understanding
+
+30
+00:02:52,340 --> 00:02:57,000
+Presenter: your potential customers, right? You've done a lot of research, but how you communicate
+
+31
+00:02:57,000 --> 00:03:01,680
+Presenter: your understanding to them is called copywriting, okay? At least that's my definition of it.
+
+32
+00:03:01,740 --> 00:03:05,140
+Presenter: It's like it's how you communicate with the actual potential customer that you're trying to sell.
+
+33
+00:03:05,760 --> 00:03:11,240
+Presenter: And so, for you to actually scale your e-comm brand, the number one skill that you need is copywriting, right?
+
+34
+00:03:11,400 --> 00:03:16,720
+Presenter: A lot of people use copywriting and research interchangeably, but we're going to talk about the actual writing of the words.
+
+35
+00:03:16,720 --> 00:03:23,740
+Presenter: Although your customers, a lot of the times, will write the words for you, at the end of the day, copywriting is the number one skill that you need to scale your brand. Easy, right?
+
+36
+00:03:24,300 --> 00:03:32,580
+Presenter: Well, the problem is, and when I say easy, it's like, all right, well, I just need to get this one skill. Right, but you're going to need a lot more, I promise. But the problem is is that most people,
+
+37
+00:03:32,580 --> 00:03:36,520
+Presenter: especially nowadays with AI, are mediocre at best at copywriting, okay?
+
+38
+00:03:36,620 --> 00:03:40,900
+Presenter: And I want you guys to understand that with AI, the floor just, just rises. You know what I'm saying?
+
+39
+00:03:41,080 --> 00:03:44,540
+Presenter: So like, AI does like basic-level copywriting for everybody.
+
+40
+00:03:44,540 --> 00:03:56,160
+Presenter: But the truth is, is like, people who are really good at it, really good at copywriting with AI, it just like it exponentially like they just have such a big advantage on everybody else who isn't good at copywriting
+
+41
+00:03:56,160 --> 00:04:05,480
+Presenter: because they know, basically, how to work with AI like an employee that never sleeps and doesn't ask for a raise. Or sometimes they ask for raises cuz they increase credits or whatever. Anyways,
+
+42
+00:04:05,620 --> 00:04:10,180
+Presenter: my point is, is like, they know how to get the best out of AI, okay? You probably don't.
+
+43
+00:04:10,880 --> 00:04:21,920
+Presenter: But problem is, is that, again, most people with AI are mediocre at copywriting, and people prefer to press to press buttons in Meta to try to hack the system instead of learning a legit skill set of copywriting.
+
+44
+00:04:22,420 --> 00:04:28,280
+Presenter: And the truth is, being good at copywriting is hard, and getting good at copywriting is honestly like learning a new language.
+
+45
+00:04:28,600 --> 00:04:36,700
+Presenter: And I'm gonna have a bunch of credits. If you guys have maybe been in the copywriting space before, you've heard some people say this stuff, then great, I'm going to talk about the credits down below of where this information is coming from.
+
+46
+00:04:36,840 --> 00:04:43,600
+Presenter: But I want you to understand that this is a very, very important thing for you to know, like learning a new language is not easy, okay?
+
+47
+00:04:44,040 --> 00:04:53,200
+Presenter: And so getting good at copywriting is like learning a new language. It's like you're not just going to be a world-class copywriter after writing 10 ads. Like you, think about this kind of logically, guys, right?
+
+48
+00:04:53,860 --> 00:04:59,400
+Presenter: And so, for most of you who aren't people who grew up speaking two languages, learning a language is pretty damn hard. So,
+
+49
+00:04:59,400 --> 00:05:13,440
+Presenter: the truth is is, if you were just ho- like, you know, just looking at this to get a template and get a prompt and just put it in there, and just like hopefully winning ads get created for you, you know, as awesome as that would be, the problem is is like
+
+50
+00:05:14,260 --> 00:05:23,960
+Presenter: you just you don't Again, you still don't have a skillset, and like the goal of Origins, hopefully, you guys can see, is to actually have a skillset, okay? And so if I just if I don't do this, and this is why I realized
+
+51
+00:05:23,960 --> 00:05:35,180
+Presenter: I needed to write this and put this together for you guys, is if if I don't make you aware of this, or at least don't set you on you know as you'll see me say down below, set you on your quest to become a great copywriter, or at least give you some kind of guidance on
+
+52
+00:05:35,180 --> 00:05:47,860
+Presenter: how to write good copy and you just use the prompt that I give you, I'm doing you guys a disservice, okay? And here's the problem: although I'm going to show me writing an ad like and that the ad's already written. I'm actually
+
+53
+00:05:47,860 --> 00:05:58,420
+Presenter: just giving it a breather, and then I'm going to, you know, finish it up tomorrow and those videos depending if you guys are watching this right when the videos come out like a lot of you guys do, those videos will be out tomorrow. Um, but my point is is this, is like I've been
+
+54
+00:05:58,420 --> 00:06:07,020
+Presenter: copywriting for the last 5 years in e-commerce, so a lot of the stuff just comes natural to me because I've done the reps and I've learned the language, right? But by being in Origins,
+
+55
+00:06:07,020 --> 00:06:14,700
+Presenter: you now have the skill set of being able to find the information that will equip you with the knowledge of your specific customers. However,
+
+56
+00:06:14,780 --> 00:06:24,360
+Presenter: the only thing that will hold you back from actually getting to the next level is is your ability to execute it, okay? So aka your copywriting, and then after your copywriting unfortunately there is another caveat,
+
+57
+00:06:24,360 --> 00:06:34,140
+Presenter: okay, which is your ability to visually communicate it, which is video editing, and although I I we'll talk about the solution, you guys will see that coming soon as well, my point is this, okay?
+
+58
+00:06:34,740 --> 00:06:44,000
+Presenter: Copywriting is not a nice-to-have skill, it's a must-have skill, okay? Whether it's you that has the skill, or it's someone else in your business that has the skill,
+
+59
+00:06:44,000 --> 00:06:58,440
+Presenter: it is a must-have skill, it's not really an option, okay? And for some of you guys, you might not have the money to hire someone who's really good at copywriting right now and finding good copywriters is hard, because again it's a hard skill to to actually master,
+
+60
+00:06:59,240 --> 00:07:12,680
+Presenter: but my point is is like someone in the company needs to be great at copywriting. I literally speak with multiple brands who do 5 to $10 million a month, actually just spoke with a brand that does $20 million a month. Guess what? They have
+
+61
+00:07:12,680 --> 00:07:26,280
+Presenter: incredible copywriters in their business, every single one of them. And so, guess what? Common pattern there, right? Probably need to have a good copywriter in the business, and if you can't afford to have someone, then guess what? That's got to be you.
+
+62
+00:07:26,520 --> 00:07:37,320
+Presenter: You'd at least got to be good enough to get you to the point where you have enough money to actually get someone to do it for you, okay? So what we're about to cover it's just a speck, like literally like the tiniest amount,
+
+63
+00:07:38,420 --> 00:07:51,220
+Presenter: of what comes into copywriting, okay? And this has actually been really fun for me, because like I've never actually like laid out all the copywriting knowledge that I kind of know, and I've actually been having to do some more research and guess what? I've I've been going back and and rereading books and
+
+64
+00:07:51,220 --> 00:08:05,360
+Presenter: you know, really trying to like break this down and teach it in a way that's hopefully actionable, cuz again I think, and shout out to one of the guys down here that you'll see me call out Kyle, he talks about like a lot of gurus just give you these frames and or will give you like these templates to to fill, but they don't actually like
+
+65
+00:08:05,360 --> 00:08:16,060
+Presenter: show you how to like get really good and they don't teach you principles, or they teach you some principles, but they don't show you how to actually just become a better copywriter. So that's my goal, I'm going to try to do what he does, but I need you to understand that,
+
+66
+00:08:16,060 --> 00:08:26,120
+Presenter: as I mentioned the first line, learning copywriting is like learning a new language, and at first it can be really rough, so you're just going to have to try to remember to do specific things and it might feel like you're a little bit robotic
+
+67
+00:08:26,120 --> 00:08:41,540
+Presenter: at first, and just know that you're going to make mistakes and you're going to sound like a new baby, you know, saying its first few words, but after enough practice it will just start to flow naturally for you guys and at the end of the day if there's one skill that will keep food on your table for the rest of your life even outside of e-com,
+
+68
+00:08:41,540 --> 00:08:52,160
+Presenter: it's copywriting, okay? So lean into this, be excited to develop and learn a new skill. Origins will not be the copywriting masterclass that will get you to millions of dollars a month and have you become a world-class copywriter, I can promise you that right now,
+
+69
+00:08:52,580 --> 00:09:03,460
+Presenter: but it will hopefully set you on your quest to become a great copywriter through reading books, learning from some of the greats and most importantly writing tons of copy, okay? And I really want to go full screen for this, because the only way that you get better at writing copy
+
+70
+00:09:03,460 --> 00:09:17,240
+Presenter: is to write copy. Like I you know, I I have had people tell me this now because I've been making videos and yapping at the camera for 3 years, where they're like, "Oh, you're really good on camera. Like you know how to talk on camera, you know how to flow, you know, all this kind and I still think I'm a I'm an idiot
+
+71
+00:09:17,240 --> 00:09:27,220
+Presenter: on the camera, but at the end of the day, my point is, is I've just filmed like God knows how many like probably a thousand videos, you know what I mean? Like between the Looms, all the modules that I film,
+
+72
+00:09:27,620 --> 00:09:38,800
+Presenter: YouTube videos, like I've just I just talk all the time, like I'm always on camera talking and so my point is it's like I've gotten decent at the skill of yapping at the camera, so it's the exact same thing with copywriting, like you can read
+
+73
+00:09:38,800 --> 00:09:52,760
+Presenter: all the books in the world on copywriting and study all the, but like you just have to do it. It's like so many things where you can kind of get this analysis paralysis and like, "I don't know if I'm doing this right or that right." Like sometimes you just got to write and then you just got to review, you got to complete feedback loops, right?
+
+74
+00:09:52,960 --> 00:10:04,100
+Presenter: Going back to one of the biggest principles of of Origins is complete your feedback loops, okay? So let's go ahead and let's jump in to the rules of copy. So rule number one:
+
+75
+00:10:04,380 --> 00:10:12,020
+Presenter: Nobody cares about you, your company or your product. And I'm just going to scroll up, I don't care if you guys can see the the rules that come next, just stay with me.
+
+76
+00:10:12,720 --> 00:10:14,260
+Presenter: This is the beginner mistake, okay?
+
+77
+00:10:14,680 --> 00:10:21,320
+Presenter: Talking about how great your product is, how long you've been in the business, you know, your awards and your mission, and like, yes, those things can provide social
+
+78
+00:10:21,320 --> 00:10:25,840
+Presenter: proof and credibility, but the truth is is people only care about themselves, okay?
+
+79
+00:10:26,240 --> 00:10:33,400
+Presenter: So, you have to frame everything through their lens, through their problems, their desires, and their outcomes and make it like relevant to them,
+
+80
+00:10:33,860 --> 00:10:40,620
+Presenter: okay? So, the shift here is like, you know, "We've been in business for 20 years," or like, you know, a lot of you guys make these empty claims where it's like,
+
+81
+00:10:40,780 --> 00:10:46,500
+Presenter: "We've got the best product," or like, "We're the number one product," but it's like, what does that mean for the actual customer, okay? "For 20 years,
+
+82
+00:10:46,520 --> 00:10:49,040
+Presenter: we've been helping people like you solve this problem," right?
+
+83
+00:10:49,500 --> 00:10:56,980
+Presenter: Now, this is very, very basic, but I want you guys to understand like this is the number one mistake that I see people make is we feel special, right? We have this spotlight
+
+84
+00:10:56,980 --> 00:11:06,220
+Presenter: syndrome where we think like, you know, people care about us, but nobody gives a shit, like nobody cares, right? Like how many of you guys have scrolled past
+
+85
+00:11:06,220 --> 00:11:12,540
+Presenter: little Suzie's small business selling? Like you just don't care, like there's nothing in it for you, right? It's like what's in it
+
+86
+00:11:12,540 --> 00:11:18,740
+Presenter: for you. And you guys shop like this all the time, right? Whenever you buy anything, it's like, what's in it for me, right? Like
+
+87
+00:11:18,740 --> 00:11:23,280
+Presenter: this, for example, why did I buy this book? Because it's probably going to help me make more money.
+
+88
+00:11:23,280 --> 00:11:31,340
+Presenter: That's why I bought it. You know what I'm saying? So, it's like it's it's like that with with anything, like it has something has to be in it for the customer. So, don't
+
+89
+00:11:31,340 --> 00:11:37,860
+Presenter: write copy about you, write about the customer and understand that nobody knows you, nobody cares. Don't assume that people know who you are.
+
+90
+00:11:37,860 --> 00:11:44,280
+Presenter: To a broader perspective, like most people just don't know and they don't care, they only care about themselves, okay? Number two: results are all that matter,
+
+91
+00:11:44,500 --> 00:11:49,780
+Presenter: so remove your emotion, okay? The be- the beginner mistake here is, "I think this headline is better," or, "This sounds better to me,"
+
+92
+00:11:49,780 --> 00:11:55,360
+Presenter: or, "This sounds good to me," right? The truth is is that the market decides what is good, what is not, and your job is to just test,
+
+93
+00:11:55,360 --> 00:12:00,820
+Presenter: measure, and let the data tell you what converts, okay? And more importantly, use the data to complete feedback loops,
+
+94
+00:12:01,080 --> 00:12:06,520
+Presenter: okay? When you have this hunch like, "Oh, I think this headline is going to work better," because you like it,
+
+95
+00:12:07,000 --> 00:12:12,720
+Presenter: and then it sucks ass and another headline does actually work better, complete your feedback loop and learn to like the one that you didn't like.
+
+96
+00:12:13,480 --> 00:12:18,360
+Presenter: Okay? Like that is that is the hack. If you learn to like what your market likes, you're going to make a lot more money,
+
+97
+00:12:18,900 --> 00:12:24,420
+Presenter: okay? Never argue about copy, just test it. If it doesn't convert, you know, it's wrong. It doesn't matter how much you like it.
+
+98
+00:12:24,740 --> 00:12:30,940
+Presenter: Number three: write how people talk now how not how they read, okay? Beginner mistake is like writing in very proper,
+
+99
+00:12:30,940 --> 00:12:38,060
+Presenter: formal English like you learned in school, right? And that's why sometimes when I'm reading this stuff to you guys, like I I get off the beaten track because I'm talking it, I'm
+
+100
+00:12:38,060 --> 00:12:45,280
+Presenter: speaking it, right? And sometimes I write not as spoken, I write as written and so sometimes it's hard to speak written things. And so,
+
+101
+00:12:45,280 --> 00:12:52,020
+Presenter: the thing that you need to do is like copy should sound like a conversation, right? Use shorter sentences, start sentences with
+
+102
+00:12:52,020 --> 00:12:58,400
+Presenter: "And," or "But," or, you know, something like you're writing to your friend, right? Read your copy out loud. If it sounds weird or stiff, rewrite it.
+
+103
+00:12:58,560 --> 00:13:05,080
+Presenter: And this is especially for those of you that are doing AI voiceovers, that kind of stuff. And then obviously, pro tip here is like use the Hemingway App to confirm that your writing
+
+104
+00:13:05,080 --> 00:13:10,020
+Presenter: is at a sixth-grade level or below. Just keep it simple, okay? Especially for the average person.
+
+105
+00:13:10,020 --> 00:13:14,400
+Presenter: Again, "This supplement facilitates enhanced metabolic function," right?
+
+106
+00:13:14,860 --> 00:13:20,480
+Presenter: "This tells your body to turn to burn fat instead of storing it." Much much more simple, okay?
+
+107
+00:13:20,480 --> 00:13:27,460
+Presenter: Copy is never too long, only too boring. Pretty simple here. This is a common myth that a lot of people have is like, "Oh, I can't do long-form.
+
+108
+00:13:27,520 --> 00:13:33,400
+Presenter: Like, everything needs to be short." It's like, no, it's like it just can't suck, that's all it is. Every sentence should create a slippery slide.
+
+109
+00:13:33,620 --> 00:13:39,280
+Presenter: I love this analogy of just like thinking about sliding into the next line, like every line just slides you into the next one. So,
+
+110
+00:13:39,280 --> 00:13:44,100
+Presenter: you can do this with ending sentence with intrigue, using open loops, creating curiosity gaps, making
+
+111
+00:13:44,100 --> 00:13:51,000
+Presenter: each sentence lead naturally to the next, and then never give them a natural stop until the CTA. So for again,
+
+112
+00:13:51,380 --> 00:13:56,720
+Presenter: another example when you're writing your body copy, right? Like, "Our product has three ingredients, they work together to help you." It's like,
+
+113
+00:13:58,320 --> 00:14:02,340
+Presenter: right? This one is, "Our product has three ingredients. The first one does something no other supplement can do."
+
+114
+00:14:03,100 --> 00:14:04,540
+Presenter: Which one are you more likely to read?
+
+115
+00:14:05,660 --> 00:14:11,640
+Presenter: Probably the second one, right? So just giving you guys again examples here of how to just suck less at copy,
+
+116
+00:14:11,640 --> 00:14:19,180
+Presenter: okay? Research is 80% of the work. We already talked about this, right? The beginner mistake is a lot of you guys will just sit down and start writing with without research,
+
+117
+00:14:19,180 --> 00:14:27,820
+Presenter: okay? So a lot of you guys try to write ads without any research at all. And then on top of that, you don't actually stop to do more research when you're in writing because sometimes you need to like go and
+
+118
+00:14:27,820 --> 00:14:34,260
+Presenter: check things, be like, "Oh, you know what, I really want to write this line here, I need to go and research this to make sure like this is actually a, you know, a solid claim to make," or whatever it is,
+
+119
+00:14:34,480 --> 00:14:40,840
+Presenter: okay? The best copy comes from great research, okay? And writing is, as Eugene puts it, just organizing
+
+120
+00:14:40,840 --> 00:14:47,580
+Presenter: what you've learned, okay? It's such such a great recommendation, and that's why I have a lot of Evolve organized
+
+121
+00:14:47,580 --> 00:14:53,400
+Presenter: and Origins organized in the way where you just learn about your customer and then the the writing just comes naturally, but obviously we need to show you guys how to put this together
+
+122
+00:14:53,400 --> 00:15:00,520
+Presenter: as well. Every 1 hour of writing that you do, you should be doing every, you know, 2 to 3 hours of research, okay? Where to research, you guys should already know this, but
+
+123
+00:15:00,520 --> 00:15:05,140
+Presenter: there you go, okay? And I love this, this is number seven, okay? So this is the daily practice, and
+
+124
+00:15:05,140 --> 00:15:10,780
+Presenter: this is from again Kyle, and he mentioned this guy named Joe Schriefer. Hopefully, I said his name right.
+
+125
+00:15:11,380 --> 00:15:18,900
+Presenter: I can promise you that if you guys legitimately like If you guys pull up a like a a sheet, like a random sheet, like let me give you guys an example of this.
+
+126
+00:15:19,100 --> 00:15:24,600
+Presenter: All right, we're getting off the beaten track here, but this is literally a tracker that I used to use everyday, guys. So,
+
+127
+00:15:24,600 --> 00:15:29,500
+Presenter: 30 minutes development, new idea to the growth guide, launch new ad creative, conduct research.
+
+128
+00:15:30,380 --> 00:15:33,840
+Presenter: This was literally like this was a daily tracker that I used every day,
+
+129
+00:15:34,360 --> 00:15:39,380
+Presenter: okay? But instead of doing this, what you can do, and I'll give you guys this sheet if you guys want it,
+
+130
+00:15:39,680 --> 00:15:48,160
+Presenter: but what you could do is say, "Write a piece of copy," "Write a page," or, sorry, "Read a piece of copy," "Write a page of copy," and "Come up with an idea," okay? So, those would be your three things.
+
+131
+00:15:48,520 --> 00:15:54,560
+Presenter: So, you could just come over here and you could just change this to write, and you could change this to read, write, and new idea,
+
+132
+00:15:55,300 --> 00:16:02,720
+Presenter: right? Or even if you want to separate them, you can. It's like, hey, did I do this every day? Did I do this Monday? Yep. Did I do this Tuesday? Yep. Did I do this Wednesday? Yep. Did I do this
+
+133
+00:16:02,720 --> 00:16:08,620
+Presenter: Thursday? Yep. You guys could even add other things in here if you want, right? You guys could always say like, "Hey, did I did I go to gym,"
+
+134
+00:16:08,620 --> 00:16:10,460
+Presenter: right?
+
+135
+00:16:10,460 --> 00:16:13,840
+Presenter: or, for example, it's like, did I did I watch a module?
+
+136
+00:16:15,640 --> 00:16:18,240
+Presenter: Two modules, right? Same thing here.
+
+137
+00:16:18,360 --> 00:16:20,860
+Presenter: Launch a new creative, did I write a new ad?
+
+138
+00:16:21,580 --> 00:16:27,180
+Presenter: You guys can add these things in here to literally keep track of all your stuff.
+
+139
+00:16:27,460 --> 00:16:29,240
+Presenter: Okay, I'll make this one totally full for you guys.
+
+140
+00:16:29,720 --> 00:16:33,560
+Presenter: Right? Give yourself Sundays off if you want. However you want to do it.
+
+141
+00:16:33,920 --> 00:16:39,120
+Presenter: And guess what? It's like, okay, well, I had a new idea for the growth guide today. I I wrote a write a new ad, I I wrote a new ad.
+
+142
+00:16:39,560 --> 00:16:44,600
+Presenter: Okay, I went to the gym today, I watched at least two modules, and I did some research, great, perfect day.
+
+143
+00:16:45,080 --> 00:16:46,960
+Presenter: Right? And this is how you guys can track
+
+144
+00:16:46,960 --> 00:16:53,300
+Presenter: how you're doing. And then I know this is supposed to be about copywriting, and I might have to make a different one about the habit tracker here, but the point is, it's like,
+
+145
+00:16:53,700 --> 00:17:00,160
+Presenter: this is how you guys can track whether or not you're doing this stuff. And I promise you, if you do this, if you read a piece of copy and like analyze what is being communicated,
+
+146
+00:17:00,800 --> 00:17:03,400
+Presenter: you write a page of copy, so just open a Google Doc and write,
+
+147
+00:17:03,940 --> 00:17:09,540
+Presenter: right? Doesn't have to be for an ad, could be for a landing page, could be for tweet. For most of you guys, it should probably be for an ad, but just write something.
+
+148
+00:17:10,180 --> 00:17:16,000
+Presenter: And if you come up with an idea, you just basically like ask, like, hey, like what if I approached this from a completely different angle? Or what if
+
+149
+00:17:16,300 --> 00:17:20,660
+Presenter: why why did this ad stop me? This is one of my favorite things. Like why did this ad stop me? Why do I think this ad worked, right?
+
+150
+00:17:21,460 --> 00:17:26,640
+Presenter: How much, and that's when you guys are just like doom scrolling, whatever you're doing, how much should I, you know, how would I improve this ad if it was mine?
+
+151
+00:17:27,060 --> 00:17:30,340
+Presenter: Right? Or if you buy something, why did I buy this? Like Origins, why why did you buy this?
+
+152
+00:17:30,800 --> 00:17:37,740
+Presenter: Go through that. Like try to think, like why why did I do that? Like what was the trigger? Like what made what made me do it? What was the desire that I potentially have, right?
+
+153
+00:17:38,840 --> 00:17:43,300
+Presenter: Why like why why wouldn't I buy this faster? Or what would would have made me buy this faster, right?
+
+154
+00:17:44,180 --> 00:17:49,100
+Presenter: Or again, everyone in this niche says X, like what if I said Y instead, like just come up with these ideas, okay?
+
+155
+00:17:49,480 --> 00:17:53,480
+Presenter: And again, keep a Notes app on your phone, create a copy ideas section, or
+
+156
+00:17:53,480 --> 00:18:00,320
+Presenter: I have one in my phone that's just like hooks that stop my scroll section, I even have one that's called winning ads, and I just have this massive document of winning ads
+
+157
+00:18:00,320 --> 00:18:03,480
+Presenter: that I just kind of track cuz I want to go back and study them later, but like
+
+158
+00:18:04,260 --> 00:18:10,300
+Presenter: just do this. Like just make it routine. And if you guys want to use this tracker again, I will include it, but like you guys need to make it a habit.
+
+159
+00:18:10,960 --> 00:18:14,680
+Presenter: Like, I guarantee you, like if you actually do this for 90 days, you wrote a piece of copy,
+
+160
+00:18:15,020 --> 00:18:23,060
+Presenter: read a piece of copy, wrote a piece of copy, and came up with an idea for 90 days straight, you would be better than like, it's safe to say, 90% of copywriters. The truth is,
+
+161
+00:18:23,060 --> 00:18:26,700
+Presenter: is most of you guys won't do this. Most of you guys won't make it past day 10,
+
+162
+00:18:27,480 --> 00:18:34,440
+Presenter: let alone maybe day 30, maybe you'll do 30 days and then you'll fall off then, right? But it's like how bad do you actually want to make the money that you want to make, right?
+
+163
+00:18:34,800 --> 00:18:41,840
+Presenter: And so, I know we're getting off topic on like mindset stuff and we'll circle back on that later, but this is like one of the most important things. Like everything that I've just
+
+164
+00:18:41,840 --> 00:18:50,380
+Presenter: taught you here, everything that we just discussed, it doesn't matter if you guys don't actually action this stuff, okay? So this is a phenomenal way for you guys
+
+165
+00:18:50,380 --> 00:18:58,360
+Presenter: and you guys can see the other's tracker, maybe it doesn't need to be every other day, maybe it could just be like every 2 days, whatever it is, like however you want to do it, keep track of your stuff because I if
+
+166
+00:18:58,360 --> 00:19:05,460
+Presenter: for whatever reason we do a a call and it's like, "Hey, like how come you're not scaling? Show me your daily tracker." It's like, "Oh, well, I haven't done anything."
+
+167
+00:19:06,600 --> 00:19:08,180
+Presenter: Well, that's probably your problem.
+
+168
+00:19:08,180 --> 00:19:12,660
+Presenter: I guarantee you, cuz I have proof of this, if you fill this out every single day for a year
+
+169
+00:19:13,700 --> 00:19:19,940
+Presenter: and you're actually consistent, probably get to where you want to go. Cuz I've done it, and, you know, I sort of got to where I wanted to go.
+
+170
+00:19:20,600 --> 00:19:27,840
+Presenter: So, that is everything around just like overall kind of like practice here and like sorry the rules of copywriting and things that you should know,
+
+171
+00:19:27,840 --> 00:19:30,020
+Presenter: okay?
+
+172
+00:19:30,020 --> 00:19:36,660
+Presenter: Now, let's talk about some actual copywriting strategies, okay? So, what are some strategies, Spencer, that I can use to hit a 100k per month? And now I'm going to go through these
+
+173
+00:19:36,660 --> 00:19:43,240
+Presenter: relatively quickly, but some copywriting strategies that are going to be really great for you to understand is the first one is the value equation,
+
+174
+00:19:43,700 --> 00:19:46,360
+Presenter: right? What do people actually value? Well, first off,
+
+175
+00:19:46,640 --> 00:19:54,940
+Presenter: what is their dream outcome, right? Like where am I getting them where am I what am I offering them? Like what is it that they actually want? A lot of you guys will know this as their desire, okay?
+
+176
+00:19:55,560 --> 00:20:00,080
+Presenter: How likely are they to get it, right? That's the perceived likelihood of achievement, okay?
+
+177
+00:20:00,760 --> 00:20:07,180
+Presenter: How long does it take them to get it? These two, I love for copywriting specifically: time delay, effort, and sacrifice,
+
+178
+00:20:07,780 --> 00:20:13,860
+Presenter: right? If you can help someone get something faster, and if you can help someone get something easier,
+
+179
+00:20:14,700 --> 00:20:19,560
+Presenter: and overall just with less sacrifice, like they don't have to give up the things that they like,
+
+180
+00:20:19,800 --> 00:20:29,400
+Presenter: you'll see that in some of the ads where it's like, you know, lose weight without, you know, without, you know, while still being able to cheat like cheat meals and stuff like that, Huel runs ads like that, it's like why does that work? Well,
+
+181
+00:20:29,920 --> 00:20:37,760
+Presenter: they get what they want super easy, and they don't have to sacrifice what they like, okay? And so, this is the first thing that if you guys like don't take anything away from this or like a lot of this stuff maybe gets
+
+182
+00:20:37,760 --> 00:20:45,700
+Presenter: too complex down below, like this is a great thing for you guys to just keep in the back of your mind. Like what do people actually value? Well, they value effort, they value sacrifice, they value their time,
+
+183
+00:20:45,700 --> 00:20:50,640
+Presenter: and they value knowing that it's safe, right? And that the perceived likelihood of achievement is high.
+
+184
+00:20:50,640 --> 00:20:58,580
+Presenter: Okay, a lot of these things are going to say the same things, but these are just different ways of me communicating it to you. So like this is what humans value. So when writing copy,
+
+185
+00:20:58,580 --> 00:21:02,780
+Presenter: ask this, like hey, did I remove the time delay? Did I say that it's easy?
+
+186
+00:21:02,780 --> 00:21:14,800
+Presenter: You know, did I mention that they don't have to sacrifice specific things? Like these are things that will build value not only in your ads, but also in your landing pages, okay? Understanding frames that you can use, I call them frames
+
+187
+00:21:14,800 --> 00:21:19,140
+Presenter: just for the sake of keeping things simple with you guys around what we've been through in the avatar training,
+
+188
+00:21:19,480 --> 00:21:28,780
+Presenter: but there's new and only, easy and anybody, safe and predictable, big and fast, okay? This is something they've never seen before, it's different from everything else.
+
+189
+00:21:28,780 --> 00:21:36,300
+Presenter: Here's what the person then thinks as a result of you using words like new and only. Is this new? Or is this the same old stuff I've already tried,
+
+190
+00:21:36,900 --> 00:21:41,960
+Presenter: right? If you're writing copy that makes them think it's the same stuff that they've already tried, do you think they're going to buy?
+
+191
+00:21:43,200 --> 00:21:45,800
+Presenter: No. Easy and anybody.
+
+192
+00:21:46,220 --> 00:21:50,180
+Presenter: "This is simple to do. It doesn't take a lot of work. Anyone can do this," right?
+
+193
+00:21:50,580 --> 00:21:52,120
+Presenter: What is the person thinking? "Can I actually do this?
+
+194
+00:21:52,800 --> 00:21:56,380
+Presenter: Like, is this going to be hard," right? Look at this. Effort and sacrifice,
+
+195
+00:21:57,240 --> 00:21:58,520
+Presenter: right? Safe and predictable.
+
+196
+00:21:58,980 --> 00:22:03,460
+Presenter: "This is safe. Other people have tried it, and it worked. You won't lose money if it doesn't work," okay?
+
+197
+00:22:03,960 --> 00:22:07,480
+Presenter: "What if I try this, and it doesn't work for me," right? That goes into perceived likelihood of achievement,
+
+198
+00:22:08,480 --> 00:22:12,000
+Presenter: right? And so, again, when we tell people that it's safe,
+
+199
+00:22:12,660 --> 00:22:15,140
+Presenter: "Don't worry. We have a guarantee," or like, "It's all right."
+
+200
+00:22:16,740 --> 00:22:18,900
+Presenter: It's going to make them feel safe. Big and fast.
+
+201
+00:22:19,220 --> 00:22:23,060
+Presenter: "You'll see big results, and it'll happen fast. You won't have to wait forever."
+
+202
+00:22:23,720 --> 00:22:28,520
+Presenter: What the person's thinking, like, "Will this actually change my life," right? Or is this just, you know, a small little thing?
+
+203
+00:22:28,720 --> 00:22:32,380
+Presenter: If it's small enough, it's probably not a big enough motivation to get someone to purchase,
+
+204
+00:22:33,000 --> 00:22:38,340
+Presenter: right? Like, I mean, I don't know, like, for example, my my nails are, as a random example, they're they're kind of
+
+205
+00:22:38,340 --> 00:22:41,960
+Presenter: long right now. Like not crazy, but, for me, it's like
+
+206
+00:22:41,960 --> 00:22:47,720
+Presenter: not cutting my nails tonight is not going to It's not a big difference. You know what I mean?
+
+207
+00:22:48,100 --> 00:22:52,980
+Presenter: But like if If I had like a serious infection, or like somebody told me like if my nails reach out past a certain point, and it's like,
+
+208
+00:22:52,980 --> 00:22:59,040
+Presenter: "Then you're going to get chronically ill," or something, it's like, well, bro, I'd be going on Amazon, or I'd be going to the store right
+
+209
+00:22:59,040 --> 00:23:01,820
+Presenter: now to go and buy some damn nail clippers. I mean, they're somewhere in the house.
+
+210
+00:23:01,820 --> 00:23:06,560
+Presenter: But my point is, it's like it needs to be of importance. A lot of times we write ads, it's just like
+
+211
+00:23:06,700 --> 00:23:10,860
+Presenter: it's not that big. Like nobody really cares. There's not a lot of urgency there, and there's not really
+
+212
+00:23:11,100 --> 00:23:15,040
+Presenter: there's not a big impact that comes from it, so think about the impact. It needs to be big.
+
+213
+00:23:15,600 --> 00:23:19,620
+Presenter: Okay? So, these are frames that you guys can use. Now, getting into examples, right? "Lose weight
+
+214
+00:23:19,620 --> 00:23:23,600
+Presenter: fast," right? It has big, but not even I wouldn't even say this is big
+
+215
+00:23:23,600 --> 00:23:28,860
+Presenter: because we're just saying lose weight. We only have fast, right? It's missing this new, this easy, this safe,
+
+216
+00:23:29,200 --> 00:23:34,220
+Presenter: right? So, "12,000 women block the enzyme destroying their appetite hormone and ate 24%
+
+217
+00:23:34,640 --> 00:23:37,180
+Presenter: less in week one without trying."
+
+218
+00:23:39,000 --> 00:23:43,300
+Presenter: Pretty wordy. And we're going to talk about this and how to cut this down, all that kind of stuff, but it's like,
+
+219
+00:23:43,780 --> 00:23:47,880
+Presenter: you know, this actually is probably going to be a lot more
+
+220
+00:23:47,940 --> 00:23:51,560
+Presenter: enticing for someone that wants to lose weight fast,
+
+221
+00:23:51,800 --> 00:23:57,440
+Presenter: right? "12,000 women block the enzyme destroying their appetite hormone and ate 24% less in week one."
+
+222
+00:23:58,820 --> 00:24:02,980
+Presenter: Pretty specific, and we're going to talk about that as well. "Sleep better with our blackout curtains."
+
+223
+00:24:04,160 --> 00:24:07,880
+Presenter: You know, like sleep better is kind of Like, yeah, sleeping better is is pretty big.
+
+224
+00:24:08,420 --> 00:24:12,380
+Presenter: But here we have, you know, "The first blackout blind that blocks 100% of light using military-grade
+
+225
+00:24:12,380 --> 00:24:18,280
+Presenter: fabric. Install in under 5 minutes without drilling. 15,000 parents got their toddlers sleeping through the night in the first week."
+
+226
+00:24:18,620 --> 00:24:23,420
+Presenter: Right? We've got speed here, right? We've got the fact that it's safe, right? It's military-grade fabric,
+
+227
+00:24:23,860 --> 00:24:26,900
+Presenter: right? It's new, right? The first, you know?
+
+228
+00:24:28,020 --> 00:24:32,900
+Presenter: So, there's ways to do this, and we're going to talk about this, and you guys are going to see this in the prompt, stuff like that, but I'm just helping you guys to understand, like,
+
+229
+00:24:32,900 --> 00:24:36,500
+Presenter: the difference between boring copy and copy that actually has
+
+230
+00:24:36,500 --> 00:24:41,640
+Presenter: these specific frames in it that can elevate it. Now, you don't have to use all four. In this instance, I'm using all four.
+
+231
+00:24:42,140 --> 00:24:47,500
+Presenter: My point is, it's like you don't have to all the time, and you'll see that, but this is just giving you an idea of like, "Hey, how can we add
+
+232
+00:24:47,500 --> 00:24:51,660
+Presenter: some more to this," right? How can we maybe be more specific
+
+233
+00:24:51,660 --> 00:24:56,320
+Presenter: than fast, right? Or how can we be more specific with the fact that it's easy,
+
+234
+00:24:56,320 --> 00:24:59,620
+Presenter: or that it's safe? Okay? Like "without trying".
+
+235
+00:24:59,960 --> 00:25:02,980
+Presenter: That's easy, okay? We didn't say easy, but we're saying
+
+236
+00:25:02,980 --> 00:25:06,920
+Presenter: that it was easy because they didn't even have to try. Avoid categorizing yourself with
+
+237
+00:25:06,920 --> 00:25:10,200
+Presenter: others and blending in. Now, this is a trap that the moment you compare yourself into an existing
+
+238
+00:25:10,200 --> 00:25:14,300
+Presenter: category, you lose the new and only positioning, and you
+
+239
+00:25:14,300 --> 00:25:19,140
+Presenter: have specific headlines, and sometimes these can work, but most of the time, if you're saying,
+
+240
+00:25:19,400 --> 00:25:22,660
+Presenter: "We're like X, but Y," this categorizes you as an alternative,
+
+241
+00:25:23,060 --> 00:25:27,040
+Presenter: and you've now entered a competitive comparison instead of owning this new
+
+242
+00:25:27,040 --> 00:25:31,220
+Presenter: category, right? And so the fix is don't say what you're like,
+
+243
+00:25:31,480 --> 00:25:35,660
+Presenter: don't use market-category language, don't say that you're better than another competitor
+
+244
+00:25:35,660 --> 00:25:40,280
+Presenter: unless you truly are, and, again, us-versus-them have, at times,
+
+245
+00:25:40,280 --> 00:25:45,340
+Presenter: done really, really well, and I have given you guys those templates, but it's usually because of a new mechanism.
+
+246
+00:25:45,820 --> 00:25:48,780
+Presenter: It's the new mechanism that makes it, you know, appealing, even though we are relatively,
+
+247
+00:25:48,780 --> 00:25:53,760
+Presenter: you know, we are essentially comparing. The point with this is when you want to say like
+
+248
+00:25:54,100 --> 00:26:00,000
+Presenter: things, "Hey, we're better than other collagens. It's not like other collagens," it's like, well, now you've just bundled yourself as another collagen.
+
+249
+00:26:00,360 --> 00:26:07,300
+Presenter: Of course you're going to be better than the other one. You know what I'm saying? Like, so when you guys think about the copy that you're writing, and you read stuff like this,
+
+250
+00:26:07,400 --> 00:26:09,040
+Presenter: it's like, "Oh, we're not like other collagens."
+
+251
+00:26:09,040 --> 00:26:13,260
+Presenter: Of course you're going to say that because you're trying to sell me something,
+
+252
+00:26:13,680 --> 00:26:17,780
+Presenter: right? But if I say, "We're the first supplement that blocks the enzyme destroying your appetite
+
+253
+00:26:17,780 --> 00:26:21,380
+Presenter: hormone," this creates this whole new thing that they've never heard of.
+
+254
+00:26:21,940 --> 00:26:25,960
+Presenter: Holy shit. This isn't This And guess what? You know what they do?
+
+255
+00:26:26,140 --> 00:26:28,480
+Presenter: "This isn't like other collagens. This is new."
+
+256
+00:26:28,480 --> 00:26:32,200
+Presenter: And guess what? They're more likely to buy. "Like whey protein,
+
+257
+00:26:32,200 --> 00:26:37,860
+Presenter: but vegan." Again, we're categorizing this as like a whey alternative. Now, could this work potentially for people who are vegan,
+
+258
+00:26:37,860 --> 00:26:43,380
+Presenter: right, and know that whey protein is good, but, you know, we could say something like, "This is the first complete protein
+
+259
+00:26:43,380 --> 00:26:48,940
+Presenter: that digests in 23 minutes and builds muscle 40% faster than whey from a banned Icelandic
+
+260
+00:26:48,940 --> 00:26:53,880
+Presenter: algae," right? New category, fast-digesting complete protein from algae,
+
+261
+00:26:53,880 --> 00:26:58,680
+Presenter: right? So, you're kind of, again, creating this new category, right? "Like Dyson,
+
+262
+00:26:58,680 --> 00:27:03,060
+Presenter: but affordable," right? This is something that we used to say all the time, and guess what? It never worked,
+
+263
+00:27:03,720 --> 00:27:06,800
+Presenter: okay? "This is the first device that adds moisture without making your room
+
+264
+00:27:06,800 --> 00:27:10,500
+Presenter: feel like a rainforest by releasing particles 90% smaller than traditional
+
+265
+00:27:10,640 --> 00:27:15,520
+Presenter: humidifiers." Now, this is obviously talking about the Dyson humidifier, not the Dyson hair dryer for anyone that's wondering, but
+
+266
+00:27:15,520 --> 00:27:19,500
+Presenter: new category, micro-particle moisture, okay? And so you're just tying
+
+267
+00:27:19,500 --> 00:27:23,020
+Presenter: in these new mechanisms to separate yourself and make it sound new,
+
+268
+00:27:23,020 --> 00:27:25,820
+Presenter: and not just saying like, "Oh, we're better than other ones."
+
+269
+00:27:25,820 --> 00:27:28,160
+Presenter: K?
+
+270
+00:27:28,160 --> 00:27:32,480
+Presenter: Number four: you need to show, not tell, even with words.
+
+271
+00:27:32,620 --> 00:27:37,140
+Presenter: You guys have probably heard me say multiple times like you need to show, not tell, like, show that your product works, right?
+
+272
+00:27:37,300 --> 00:27:42,420
+Presenter: And the best example of this is again like if I have a phone—I don't know where my phone is—
+
+273
+00:27:42,500 --> 00:27:46,740
+Presenter: this is the common example that I give everybody and I know this example is getting a little bit carried away, but it's like I'm like, "Hey,
+
+274
+00:27:47,280 --> 00:27:49,320
+Presenter: this phone case will protect your phone."
+
+275
+00:27:50,320 --> 00:27:54,900
+Presenter: Will you believe me? Maybe. Maybe not, I don't know, like, depends on how much you like me.
+
+276
+00:27:54,900 --> 00:28:01,620
+Presenter: But what if I said, "This phone case protects your phone," and I just fully dropped it from like 50 ft away,
+
+277
+00:28:01,620 --> 00:28:04,300
+Presenter: and then I went down and I picked it up and I was like, "See?"
+
+278
+00:28:04,300 --> 00:28:11,440
+Presenter: I just loo- like, you're going to believe me, like, "All right, yeah! Definitely does, K?"
+
+279
+00:28:11,880 --> 00:28:16,080
+Presenter: And so that's one of those things where visually if you can show, always show,
+
+280
+00:28:16,080 --> 00:28:19,960
+Presenter: right? Like we have a brand right now that is absolutely murdering it. It's because guess what?
+
+281
+00:28:19,960 --> 00:28:23,240
+Presenter: The mechanism that we're using, we can show.
+
+282
+00:28:23,240 --> 00:28:26,960
+Presenter: And so we just show it. It's like, look at this. Whoop! Problem solved.
+
+283
+00:28:28,040 --> 00:28:31,460
+Presenter: You know? So we're we're crushing it for them. But it's not always that simple.
+
+284
+00:28:31,460 --> 00:28:36,060
+Presenter: Supplements, I don't I don't take a supplement and all of a sudden lose 20 lb. It's not how it happens. So,
+
+285
+00:28:36,060 --> 00:28:41,860
+Presenter: how do we show when we can't use visuals? And this was something that I used to always struggle with, but guess what? There's a way to do it. So,
+
+286
+00:28:42,920 --> 00:28:46,520
+Presenter: most copywriters tell benefits: this will make you feel energized, right?
+
+287
+00:28:46,520 --> 00:28:53,780
+Presenter: This telling triggers the logical brain, K? Which then creates skepticism.
+
+288
+00:28:55,820 --> 00:29:01,120
+Presenter: The solution is show the transformation through story, imagery, and behavioral change.
+
+289
+00:29:02,080 --> 00:29:05,400
+Presenter: Showing triggers the emotional brain, K?
+
+290
+00:29:06,820 --> 00:29:11,560
+Presenter: So examples of this, telling: "You'll have more energy and feel great." Sure I will, right?
+
+291
+00:29:12,500 --> 00:29:20,520
+Presenter: "Imagine waking up without hitting snooze three times, walking past the vending machine at 3:00 p.m. without even thinking about it, and going to bed without the nightly pantry raid."
+
+292
+00:29:22,300 --> 00:29:26,060
+Presenter: Like, damn, K? And guess what? Where do where do you get this stuff from, guys?
+
+293
+00:29:26,460 --> 00:29:29,260
+Presenter: You get this from your research and from understanding your customer, K?
+
+294
+00:29:29,920 --> 00:29:33,360
+Presenter: And so this is why that works, is because you're showing
+
+295
+00:29:33,360 --> 00:29:39,260
+Presenter: them that it helps you have more energy and feel great, you're not telling them.
+
+296
+00:29:40,280 --> 00:29:45,500
+Presenter: You're showing them through words. I know it sounds like it might be a some of you guys might be a little bit stuck there,
+
+297
+00:29:45,560 --> 00:29:51,740
+Presenter: but you're showing them by communicating. Here's another one: ergonomic mouse, right? Your wrist pain will disappear. This one's not my favorite, but
+
+298
+00:29:52,300 --> 00:29:59,340
+Presenter: show- remember that shooting pain you used to get around 2:00 p.m., the one that made you shake your hand out every few minutes? It's gone.
+
+299
+00:29:59,760 --> 00:30:04,620
+Presenter: Now you're on your third Zoom call and you haven't even thought about your wrist. You're clicking without even wincing.
+
+300
+00:30:05,820 --> 00:30:11,260
+Presenter: I am showing that their pain will disappear. I'm not telling them their pain is going to disappear, I'm showing them.
+
+301
+00:30:13,340 --> 00:30:17,380
+Presenter: K? This is sauce. I wish I knew this way earlier.
+
+302
+00:30:17,380 --> 00:30:22,560
+Presenter: You guys are getting it at a stage that, I don't even know, most a lot of advanced copywriters don't even know this shit.
+
+303
+00:30:23,240 --> 00:30:27,200
+Presenter: Another one here, number five, is how to write body copy that isn't fluff,
+
+304
+00:30:27,540 --> 00:30:33,120
+Presenter: K? And this is a really good formula, it's very like again, you'll see with the creations below, it's a it's a very common formula,
+
+305
+00:30:33,120 --> 00:30:36,580
+Presenter: but I love this because a lot of people just have objections.
+
+306
+00:30:37,320 --> 00:30:41,160
+Presenter: There have been so many products that they've tried and so many things that they've done
+
+307
+00:30:41,690 --> 00:30:47,940
+Presenter: that everybody has made these claims and so, guess what? There is going to be more objections in the market than there is going to be belief, K?
+
+308
+00:30:49,380 --> 00:30:54,980
+Presenter: And so if we follow this process of objection, claim, proof, benefit,
+
+309
+00:30:54,980 --> 00:31:01,000
+Presenter: and we kind of rotate through that, it it helps you make a claim
+
+310
+00:31:02,500 --> 00:31:05,520
+Presenter: or it helps you address the objection before the claim is even made,
+
+311
+00:31:06,320 --> 00:31:09,800
+Presenter: right? It's like, think about when you're on a sales call, it's like, I know what you're thinking.
+
+312
+00:31:10,520 --> 00:31:14,180
+Presenter: You're thinking, sure, Spencer, this copywriting strategy is going to work for me,
+
+313
+00:31:14,780 --> 00:31:18,860
+Presenter: right? Like maybe a lot of somebody's thinking that right now, right? It's like,
+
+314
+00:31:19,740 --> 00:31:23,380
+Presenter: well, here's here's the claim, right? The claim is your counter statement. Well, it's like,
+
+315
+00:31:23,380 --> 00:31:26,260
+Presenter: nobody has ever taught you about market awareness levels,
+
+316
+00:31:26,860 --> 00:31:31,140
+Presenter: right? And market awareness levels work because, look at this, these three guys right here
+
+317
+00:31:31,140 --> 00:31:34,240
+Presenter: just scaled to 100k per day by running problem-aware ads.
+
+318
+00:31:34,920 --> 00:31:38,660
+Presenter: And now, as a result of them making 100k per day, they just bought two Lamborghinis.
+
+319
+00:31:40,200 --> 00:31:42,800
+Presenter: K? That's objection, claim, proof, benefit. I just made that up on the spot.
+
+320
+00:31:42,880 --> 00:31:47,340
+Presenter: My point is, is objection is, and it's a terrible example, what they're thinking about,
+
+321
+00:31:47,340 --> 00:31:53,000
+Presenter: and what they're doubting, you address it head on, like, "I already know what you're thinking," cause guess what? You've done the research, right?
+
+322
+00:31:53,540 --> 00:31:56,040
+Presenter: Claim: your counter statement, what's actually true.
+
+323
+00:31:57,120 --> 00:31:59,140
+Presenter: usually some kind of new mechanism as well. Proof,
+
+324
+00:31:59,140 --> 00:32:01,140
+Presenter: evidence that validates your claim,
+
+325
+00:32:02,600 --> 00:32:05,540
+Presenter: and then benefit, the emotional payoff, what their life looks like after.
+
+326
+00:32:06,220 --> 00:32:10,840
+Presenter: Okay? So cycle through this pattern multiple times in your body copy for different objections. For example, objection:
+
+327
+00:32:11,420 --> 00:32:15,040
+Presenter: "I've tried supplements before. They didn't work." Or, "I've- Listen, I've tried-
+
+328
+00:32:15,600 --> 00:32:18,620
+Presenter: I've tried collagen before. Didn't work- It didn't work." Claim:
+
+329
+00:32:18,880 --> 00:32:20,900
+Presenter: "Well, this isn't another collagen.
+
+330
+00:32:21,600 --> 00:32:25,380
+Presenter: It's the first collagen that blocks the enzyme destroying your appetite hormone.
+
+331
+00:32:26,280 --> 00:32:31,160
+Presenter: In a 12-week study, women ate 25% fewer calories in- in a week without trying.
+
+332
+00:32:32,080 --> 00:32:35,060
+Presenter: Imagine only eating 1200 calories and feeling satisfied, not-
+
+333
+00:32:35,160 --> 00:32:38,200
+Presenter: not deprived, just done eating. No more food noise."
+
+334
+00:32:38,760 --> 00:32:41,540
+Presenter: Right? Now, is this the best example? Eh, it's- it's- it's okay.
+
+335
+00:32:42,040 --> 00:32:45,440
+Presenter: My point is is like, you handled the objection, you get into the claim--
+
+336
+00:32:45,760 --> 00:32:49,420
+Presenter: and I know I added words there that weren't on the screen, but you handle the objection, you
+
+337
+00:32:49,420 --> 00:32:53,480
+Presenter: state the claim, you then show proof, and then you explain why
+
+338
+00:32:53,940 --> 00:32:56,200
+Presenter: that actually matters. What- What do they actually get?
+
+339
+00:32:56,980 --> 00:32:58,360
+Presenter: And now, again, their guard comes down.
+
+340
+00:32:58,920 --> 00:32:59,220
+Presenter: Okay?
+
+341
+00:33:00,460 --> 00:33:03,700
+Presenter: Number six is the roles of market awareness levels, and now for you guys,
+
+342
+00:33:04,160 --> 00:33:09,520
+Presenter: market awareness is something that right now is important to understand, like you definitely need to know this, and I used to get
+
+343
+00:33:09,520 --> 00:33:14,040
+Presenter: like so overwhelmed by this, I'd be like, "Oh, no, like, what awareness level is this?"
+
+344
+00:33:14,160 --> 00:33:18,240
+Presenter: And I know when you're first learning it, it is hard. Trust me. You might be like, "Product-aware, problem-aware..."
+
+345
+00:33:18,280 --> 00:33:21,760
+Presenter: And I wasn't sure about keeping this in here, but I wanted to, just for the sake of
+
+346
+00:33:21,760 --> 00:33:26,340
+Presenter: a lot of you guys have heard of this, because it's become more common knowledge, guess what? It's got more sophisticated, people know more about it.
+
+347
+00:33:26,780 --> 00:33:28,440
+Presenter: However, you should only be focusing
+
+348
+00:33:28,440 --> 00:33:31,980
+Presenter: from the levels of most-aware to problem-aware. I want you
+
+349
+00:33:31,980 --> 00:33:35,380
+Presenter: to fully ignore this.
+
+350
+00:33:35,820 --> 00:33:38,860
+Presenter: This right here, unaware, just ignore it, okay?
+
+351
+00:33:39,680 --> 00:33:40,220
+Presenter: You don't need it.
+
+352
+00:33:41,060 --> 00:33:44,400
+Presenter: It's not for you right now. Past 100k per month we can talk about it, okay?
+
+353
+00:33:45,080 --> 00:33:48,100
+Presenter: For now, just understand that when you write--
+
+354
+00:33:48,780 --> 00:33:53,720
+Presenter: Proofread your work. But your ad must go through each stage, okay? So, if you're running a problem-aware ad,
+
+355
+00:33:54,700 --> 00:33:59,700
+Presenter: ideally, you go from problem, to solution, to product, to most-aware.
+
+356
+00:34:00,780 --> 00:34:06,180
+Presenter: And then if you're running solution-aware, you go from solution-aware to product-aware to most-aware.
+
+357
+00:34:06,640 --> 00:34:10,840
+Presenter: And then if you're running product-aware, you go from product-aware straight to most-aware.
+
+358
+00:34:10,840 --> 00:34:15,100
+Presenter: All right, "Here's this product, blah, blah, blah, blah, blah, and here's ours and here's why it's better," okay?
+
+359
+00:34:15,940 --> 00:34:18,140
+Presenter: So just understand that when you're writing copy,
+
+360
+00:34:18,960 --> 00:34:22,440
+Presenter: usually, the higher awareness level you go, the longer your copy will be.
+
+361
+00:34:23,440 --> 00:34:27,500
+Presenter: Why? Well, you need to communicate a problem,
+
+362
+00:34:27,500 --> 00:34:31,600
+Presenter: and you need to communicate your solution, and you need to- a lot of times, educate people on this stuff.
+
+363
+00:34:32,460 --> 00:34:37,000
+Presenter: Solution, they need education on your solution, specifically, and why it's better than the other ones, right?
+
+364
+00:34:37,000 --> 00:34:41,760
+Presenter: For example, people who struggle with cravings, which is the ad that I'm writing, there's so many different solutions,
+
+365
+00:34:42,520 --> 00:34:46,700
+Presenter: right? You can just, I don't know, go on a water fast or you could just
+
+366
+00:34:46,700 --> 00:34:52,900
+Presenter: eat like lots of vegetables instead or whatever it is, right? Or just eat one meal a day,
+
+367
+00:34:52,900 --> 00:34:59,260
+Presenter: or you could try this supplement, or you could try this fat bur- Whatever, there's so many different things. But my point is is that the
+
+368
+00:34:59,260 --> 00:35:04,340
+Presenter: further up you go in awareness levels, the more that you have to justify what you're saying.
+
+369
+00:35:04,340 --> 00:35:12,600
+Presenter: Now, if you guys don't know what this is, it's very, very simple. I'm going to pull up a graphic, 'cause I thought there was actually an explanation here, but let me pull up a graphic to explain market awareness levels to you guys
+
+370
+00:35:12,600 --> 00:35:14,280
+Presenter: very, very quickly, and trust me, guys,
+
+371
+00:35:14,760 --> 00:35:22,760
+Presenter: when I was first learning this, like I- Oh, my gosh, I- I've read so many things, and I- and I just- and I just tried to understand it, and everybody was getting upsold. Um,
+
+372
+00:35:22,760 --> 00:35:26,280
+Presenter: I tried so hard to understand, but I'm going to try to make this as simple as possible for you guys.
+
+373
+00:35:26,280 --> 00:35:28,060
+Presenter: Okay?
+
+374
+00:35:28,060 --> 00:35:28,640
+Presenter: Most-aware
+
+375
+00:35:28,640 --> 00:35:36,100
+Presenter: means that they know of your product and what it does, but they haven't gotten around to purchasing yet.
+
+376
+00:35:36,880 --> 00:35:37,180
+Presenter: Okay?
+
+377
+00:35:38,240 --> 00:35:46,540
+Presenter: So, they just know what your product is. And I know, because a lot of you guys are going to want examples, I'm going to go ahead and pull up an example, as well. All right, so here's the example of a most-aware ad,
+
+378
+00:35:47,040 --> 00:35:49,720
+Presenter: okay? It says, "Everyday Dose, I want my money back,"
+
+379
+00:35:50,240 --> 00:35:52,680
+Presenter: right? They're calling out the brand, Everyday Dose.
+
+380
+00:35:53,060 --> 00:35:57,260
+Presenter: Now, just for the sake of simplicity, I want you to understand that it's like,
+
+381
+00:35:57,260 --> 00:36:00,340
+Presenter: usually, when you're starting with your brand, it's like that's most-aware.
+
+382
+00:36:00,760 --> 00:36:06,100
+Presenter: You're just saying like, "Hey, this is our brand." Like, straightaway you're just starting with it. And I've had this question before, as well, market awareness
+
+383
+00:36:06,860 --> 00:36:11,520
+Presenter: really applies to kind of where the hook starts and leading in to everything else,
+
+384
+00:36:11,520 --> 00:36:16,840
+Presenter: okay? And you can just see it. It's like, "I want my money back," and then it's just getting into like this product that they bought,
+
+385
+00:36:16,840 --> 00:36:19,990
+Presenter: right? And it's all about the brand. They're not really going much further than that.
+
+386
+00:36:19,990 --> 00:36:21,670
+Presenter: Then we have product-aware,
+
+387
+00:36:22,190 --> 00:36:26,130
+Presenter: right? Now here's an example of product-aware for the same brand, okay? I think
+
+388
+00:36:26,130 --> 00:36:29,490
+Played audio: I think I just got scammed. I ordered a bag
+
+389
+00:36:29,490 --> 00:36:32,870
+Played audio: of this coffee, but they sent me this entire box. I didn't
+
+390
+00:36:32,870 --> 00:36:35,190
+Played audio: realize you get five free gifts when you order the coffee
+
+391
+00:36:35,190 --> 00:36:37,550
+Played audio: completely free from this video only. This viral
+
+392
+00:36:37,550 --> 00:36:38,730
+Presenter: copy is top rated,
+
+393
+00:36:39,190 --> 00:36:43,830
+Presenter: and so what I want you to notice here is they didn't say Everyday Dose. They just said, "I ordered this
+
+394
+00:36:43,830 --> 00:36:48,570
+Presenter: coffee," okay? And so we're at this product-aware level. And to show you guys another
+
+395
+00:36:48,570 --> 00:36:51,190
+Presenter: product-aware ad, here's another one here where it says,
+
+396
+00:36:51,190 --> 00:36:57,730
+Presenter: "The hollow-fiber revolution that's making cardiologists trash their own compression socks happened completely by accident."
+
+397
+00:36:57,730 --> 00:37:02,570
+Presenter: You know, so, "Why do most compression socks...?" So here, they're basically talking about their
+
+398
+00:37:02,570 --> 00:37:07,730
+Presenter: product, which are compression socks. They're not talking about all kind of socks in general, but they're
+
+399
+00:37:07,730 --> 00:37:11,770
+Presenter: talking about this new mechanism for this specific product. So the hollow-fiber
+
+400
+00:37:11,770 --> 00:37:17,070
+Presenter: revolution that's making cardiologists trash their own compression socks. Now, this is kind of getting into,
+
+401
+00:37:17,070 --> 00:37:22,090
+Presenter: like, some education and a little bit of unaware, cuz people might not know what the hollow-fiber is,
+
+402
+00:37:22,090 --> 00:37:26,710
+Presenter: but I don't want to confuse you guys. I just want you guys to know that they're talking about compression socks here,
+
+403
+00:37:26,710 --> 00:37:31,890
+Presenter: which is what they sell. It's in their category, right? They're talking about the compression
+
+404
+00:37:31,890 --> 00:37:38,170
+Presenter: socks, okay? Another one here as well is, again, "Five reasons why you need these shirts," okay? They didn't say, "Five reasons
+
+405
+00:37:38,170 --> 00:37:43,970
+Presenter: why you need True Classic," although this is a True Classic ad. They just said, "Five reasons why you need these shirts: they're designed to be tighter
+
+406
+00:37:43,970 --> 00:37:48,570
+Presenter: around your arms, chest, and shoulders," right? So this is product-aware. We're talking about shirts, okay?
+
+407
+00:37:49,370 --> 00:37:54,130
+Presenter: Solution-aware. Now, for solution-aware, I don't even know if I actually have an example of solution-aware
+
+408
+00:37:54,170 --> 00:37:59,710
+Presenter: in here, because I think, for a lot of people, when we get— Yeah, I don't even have an example in here. Let me Let me just pull one up for you guys.
+
+409
+00:37:59,910 --> 00:38:03,230
+Presenter: All right, this is a really gross video, but this basically just says like,
+
+410
+00:38:03,230 --> 00:38:09,910
+Presenter: "Ever wonder why tick preventatives don't work anymore? Like, don't seem to work anymore? It's like my vet's shocking revelation."
+
+411
+00:38:09,910 --> 00:38:14,010
+Presenter: Basically, we're talking about tick preventatives, so we didn't actually say
+
+412
+00:38:14,010 --> 00:38:19,910
+Presenter: a specific mechanism. Like, we didn't say— You know, we We are kind of getting into a mechanism
+
+413
+00:38:19,910 --> 00:38:24,290
+Presenter: around tick preventatives, but there's a lot of different type of tick preventatives. There's sprays,
+
+414
+00:38:24,290 --> 00:38:28,930
+Presenter: right? There's, you know, shots that you can get. There's, apparently, those tools that you can pull out,
+
+415
+00:38:28,930 --> 00:38:33,110
+Presenter: all that kind of stuff. So we kind of named a category. Just know, when you're talking about solutions,
+
+416
+00:38:33,270 --> 00:38:37,290
+Presenter: it's kind of like a category, more or less. But, you know, they know there's a solution
+
+417
+00:38:37,290 --> 00:38:41,690
+Presenter: to their problem, but they don't know any specific products to solve it, right? So that specific
+
+418
+00:38:41,690 --> 00:38:47,150
+Presenter: ad would be kind of targeting people who know their dog has ticks, but like they just like, you know, they're not really sure
+
+419
+00:38:47,150 --> 00:38:52,830
+Presenter: which solution, cuz they just don't really work— none of them are really working, sort of thing. So we're kind of starting at the solution. The problem
+
+420
+00:38:52,830 --> 00:38:58,490
+Presenter: is— And this is where a lot of you guys get confused, cuz it's like, "Well, isn't that the problem, like the solutions don't work? Isn't that a problem?"
+
+421
+00:38:58,990 --> 00:39:03,510
+Presenter: Yeah, like don't overcomplicate it. But here, for example, this is a true problem-aware,
+
+422
+00:39:03,510 --> 00:39:09,290
+Presenter: where it says like, "What if I told you everything you know about dandruff is wrong?" Or this one over here, where I believe they say,
+
+423
+00:39:10,170 --> 00:39:15,790
+Presenter: "Here's the easiest way," using "easiest," "to get rid of dandruff," right? And so we're talking about the problem.
+
+424
+00:39:15,790 --> 00:39:19,850
+Presenter: Dandruff is not a product; dandruff is a problem, right? And so
+
+425
+00:39:19,850 --> 00:39:24,830
+Presenter: hopefully that makes sense. If you guys are confused on the solution-aware, don't just don't worry about it, okay?
+
+426
+00:39:25,170 --> 00:39:28,270
+Presenter: Most people make problem-aware ads, product-aware ads, and most-aware ads.
+
+427
+00:39:28,270 --> 00:39:33,450
+Presenter: The important thing to know is that when you're creating problem-aware ads, you ideally want to go through
+
+428
+00:39:33,450 --> 00:39:39,250
+Presenter: the funnel, okay? And so here, again, when we're starting a problem-aware, ideally we want to talk about the problem,
+
+429
+00:39:39,250 --> 00:39:44,470
+Presenter: and then we want to talk about those other solutions that are out there and why they suck, and then we want to talk about why this solution
+
+430
+00:39:44,470 --> 00:39:47,610
+Presenter: specifically is better, and then how ours is the best.
+
+431
+00:39:48,670 --> 00:39:54,150
+Presenter: Now, I'm actually watching this ad right here, and and I love this ad because it's actually a great example where it talks about the problem
+
+432
+00:39:54,150 --> 00:39:58,230
+Presenter: and this guy's clearly an authority, and he's saying like a lot of people use oils. Again,
+
+433
+00:39:58,470 --> 00:40:03,130
+Presenter: now we're getting into solution, right? People use oils to basically try to fix
+
+434
+00:40:03,130 --> 00:40:07,870
+Presenter: their problem, and then they get into the product, or it's actually it's it's not a— Well, this ad does a good job, but
+
+435
+00:40:07,870 --> 00:40:13,090
+Presenter: it's this ad here, right? Where it's talking about here, it's like, oh, people lose oils and that's not the solution
+
+436
+00:40:13,090 --> 00:40:17,030
+Presenter: that you need to use because dandruff is actually caused by this. And then it says like,
+
+437
+00:40:17,030 --> 00:40:21,110
+Presenter: "That's why you need to use this shampoo, and Flakes is the best shampoo, because it has this and that,"
+
+438
+00:40:21,270 --> 00:40:25,610
+Presenter: and then it gets into, you know, the social proof, the anti, you know, dandruff shampoo, all that kind of stuff,
+
+439
+00:40:25,810 --> 00:40:30,190
+Presenter: okay? And so that is where we kind of go from problem-aware, solution-aware, product-aware, and then obviously most-aware. And sometimes,
+
+440
+00:40:30,190 --> 00:40:33,830
+Presenter: product and most-aware can be blended. I just want you guys to understand that you
+
+441
+00:40:33,830 --> 00:40:38,670
+Presenter: do need to be aware of this, but don't let this confuse you. Don't be like, "Oh shoot, I need to do problem-aware ads,"
+
+442
+00:40:38,670 --> 00:40:43,050
+Presenter: or, "Oh, I need to do solution-aware." Like, just write whatever feels natural to you,
+
+443
+00:40:43,050 --> 00:40:47,090
+Presenter: and then again, be aware of what you're writing, okay? So if you have a product-aware
+
+444
+00:40:47,090 --> 00:40:51,890
+Presenter: ad that's working really well, maybe be like, "Okay, how could I turn this into more of a problem-aware ad? How could
+
+445
+00:40:51,890 --> 00:40:56,430
+Presenter: I maybe add more to this to sit in the problem and like resonate with more
+
+446
+00:40:56,430 --> 00:41:00,750
+Presenter: people who potentially aren't fully aware of our product or who are just kind of immune to like product ads,
+
+447
+00:41:00,750 --> 00:41:04,750
+Presenter: and we need to speak to them directly about their problem," okay? So that is that.
+
+448
+00:41:04,750 --> 00:41:08,750
+Presenter: That is everything that you guys need to know around copywriting for now.
+
+449
+00:41:09,310 --> 00:41:13,490
+Presenter: Big credits to Alex Hormozi, big credits to Kyle Milligan, and big credits,
+
+450
+00:41:13,790 --> 00:41:18,970
+Presenter: of course, the goat, Eugene. There's a few other copywriting specialists. I think there's some copywriting greats.
+
+451
+00:41:18,970 --> 00:41:23,350
+Presenter: I can't think cuz it's it's getting late. But my point is is that these guys
+
+452
+00:41:23,350 --> 00:41:28,030
+Presenter: are incredible. They are the ones that came with this information. Big shout-out to Kyle as well, and actually Adam—
+
+453
+00:41:28,030 --> 00:41:32,750
+Presenter: I don't know if, Adam, you would ever be watching this, but gave me kind of shed the light on this guy, and
+
+454
+00:41:32,750 --> 00:41:37,350
+Presenter: at the end of the day, I want you guys to know that this skill is, again,
+
+455
+00:41:37,350 --> 00:41:41,290
+Presenter: one of the best skills that you can have. And although I know that
+
+456
+00:41:41,290 --> 00:41:46,090
+Presenter: some of you are just going to want to get straight in and just use the prompt and be brainless, and I I know some of you will do that,
+
+457
+00:41:46,090 --> 00:41:52,450
+Presenter: really committing to this and really being like, "Okay, I'm going to try to get as good as I can at copy, I'm going to use this
+
+458
+00:41:52,450 --> 00:41:57,410
+Presenter: tracker, and I'm going to, you know, go in here and and write copy, and read copy, and and think of new
+
+459
+00:41:57,410 --> 00:42:02,230
+Presenter: ideas every single day and get better." I promise you, like if you actually do
+
+460
+00:42:02,230 --> 00:42:06,810
+Presenter: that, you will— you are going to get to where you want to go, okay? That's all I'll say. But
+
+461
+00:42:06,930 --> 00:42:11,930
+Presenter: with that said, I hope you guys enjoyed this video. I can't wait to upload, again for those of you that are watching this straight away,
+
+462
+00:42:11,930 --> 00:42:17,510
+Presenter: the videos tomorrow about the script that I wrote, and then we're going to talk about how to edit the videos, and I promise it'll all be done by the end of the week.
+
+463
+00:42:17,510 --> 00:42:23,050
+Presenter: And I again, I just hope this is helpful for you guys to get psyched up, get ready to go, and, most importantly, take action.
+
+464
+00:42:23,050 --> 00:42:25,710
+Presenter: All right, I will see you guys in the next module below.

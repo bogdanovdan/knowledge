@@ -1,0 +1,435 @@
+{
+  "lesson": {
+    "num": 76,
+    "id": "076-set-up-fb-pixel-dataset",
+    "title": "Set Up FB Pixel/Dataset",
+    "section": "🛡️ How To Set Up FB Assets",
+    "video": "76. Set Up FB Pixel Dataset Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 160.171,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=bacbc5ec5bc64aa0adb066333628a664"
+  },
+  "generated_at": "2026-10-06T20:24:09-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (86% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 482,
+    "matched_tokens": 413,
+    "match_ratio": 0.857,
+    "segments_aligned": 39,
+    "segments_partly_aligned": 1,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Played audio",
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 160.171,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 231.3,
+      "issues": [],
+      "notes": "Auphonic post-production watermark played at the end of the clip."
+    }
+  ],
+  "issues": [
+    {
+      "type": "transcriber_note",
+      "start": 0.0,
+      "end": 160.171,
+      "chunk": 0,
+      "detail": "Auphonic post-production watermark played at the end of the clip."
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.28,
+      "speaker": "Presenter",
+      "text": "Hey, guys. So, here's how to set up your Facebook pixel.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 3.98,
+      "end": 7.54,
+      "speaker": "Presenter",
+      "text": "So, interesting one. We're on Shopify instead of Facebook Ads, and",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 7.54,
+      "end": 10.72,
+      "speaker": "Presenter",
+      "text": "I'm making this video assuming most of you guys are on Shopify.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 11.54,
+      "end": 16.14,
+      "speaker": "Presenter",
+      "text": "So, some people would ask, what tools do I need to use to create my pixel? Should I use",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 16.14,
+      "end": 19.04,
+      "speaker": "Presenter",
+      "text": "a third party tracking? Whatever these terms are,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 19.74,
+      "end": 24.58,
+      "speaker": "Presenter",
+      "text": "keep it very simple. In Shopify, download the Facebook and Instagram channel. It's free.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 24.7,
+      "end": 26.42,
+      "speaker": "Presenter",
+      "text": "After you download it, install it in the App Store,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 26.94,
+      "end": 29.68,
+      "speaker": "Presenter",
+      "text": "which if you guys don't know where it is, just search up Shopify App Store,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 29.68,
+      "end": 33.14,
+      "speaker": "Presenter",
+      "text": "and then it shows up. You can download your apps, etc.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 34.24,
+      "end": 36.76,
+      "speaker": "Presenter",
+      "text": "Shows up here, Face- Facebook and Instagram. It shows up.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 38.18,
+      "end": 40.66,
+      "speaker": "Presenter",
+      "text": "You get a page like this, then click on Get Started.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 41.54,
+      "end": 45.12,
+      "speaker": "Presenter",
+      "text": "This is whatever. Make sure you're on admin access to your Business Manager,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 46.02,
+      "end": 50.56,
+      "speaker": "Presenter",
+      "text": "Facebook page, and ad account, which we have done so already, and created, and warmed up.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 50.88,
+      "end": 51.46,
+      "speaker": "Presenter",
+      "text": "Click Next.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 52.0,
+      "end": 56.72,
+      "speaker": "Presenter",
+      "text": "Facebook account, of course, connect the ones that has your Business Manager.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 58.18,
+      "end": 61.82,
+      "speaker": "Presenter",
+      "text": "Business assets, choose the Business Manager.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 62.06,
+      "end": 64.88,
+      "speaker": "Presenter",
+      "text": "Let's say this one over here, ECA Media.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 66.54,
+      "end": 68.18,
+      "speaker": "Presenter",
+      "text": "Then, for the pixel here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 68.18,
+      "end": 73.8,
+      "speaker": "Presenter",
+      "text": "click on Maximum, which is already the default. If it's not the default, click on Change, and it shows you",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 73.8,
+      "end": 78.32,
+      "speaker": "Presenter",
+      "text": "conservative, enhanced, maximum. The default should be maximum. Just leave it as is.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 78.86,
+      "end": 81.74,
+      "speaker": "Presenter",
+      "text": "Then, you shouldn't see any pixels at the moment. Just click Create new,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 82.28,
+      "end": 83.28,
+      "speaker": "Presenter",
+      "text": "then",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 83.28,
+      "end": 89.06,
+      "speaker": "Presenter",
+      "text": "click Confirm. In this case, I'm going to disconnect it for now.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 90.5,
+      "end": 93.96,
+      "speaker": "Presenter",
+      "text": "Let's click Confirm, then you get to the next step. Let's say I use an existing one,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 94.68,
+      "end": 96.8,
+      "speaker": "Presenter",
+      "text": "it's going to ask you to choose the ad account, just choose the ad account,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 97.62,
+      "end": 100.52,
+      "speaker": "Presenter",
+      "text": "and then click Confirm. And then,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 101.1,
+      "end": 104.06,
+      "speaker": "Presenter",
+      "text": "contact info, just put your own business one. Resend Windows for your own one.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 105.92,
+      "end": 107.56,
+      "speaker": "Presenter",
+      "text": "T&C, just agree to it.",
+      "chunk": 0,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 29,
+      "start": 107.56,
+      "end": 110.2,
+      "speaker": "Presenter",
+      "text": "And that is pretty much it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 111.48,
+      "end": 115.34,
+      "speaker": "Presenter",
+      "text": "All right. So, if you set it up via Shopify, it actually gets autocreated",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 115.8,
+      "end": 121.94,
+      "speaker": "Presenter",
+      "text": "within your Facebook Business Manager anymore. So you don't actually need to create a new one over here. It's going to",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 121.94,
+      "end": 122.72,
+      "speaker": "Presenter",
+      "text": "show up here already.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 123.54,
+      "end": 128.02,
+      "speaker": "Presenter",
+      "text": "So go to your Business Manager through business.facebook.com, select your Business Manager on the",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 128.02,
+      "end": 131.16,
+      "speaker": "Presenter",
+      "text": "left side here. Just choose Data sets and Pixels under Data sources.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 133.04,
+      "end": 137.92,
+      "speaker": "Presenter",
+      "text": "Data sources, Data sets and Pixels, you should already have it connected. It should already be connected to the",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 138.28,
+      "end": 141.34,
+      "speaker": "Presenter",
+      "text": "to the Facebook ad account that you chose earlier. If not, click Connect assets,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 142.5,
+      "end": 145.16,
+      "speaker": "Presenter",
+      "text": "then you can choose the Facebook ad account you want to connect it to.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 145.84,
+      "end": 149.06,
+      "speaker": "Presenter",
+      "text": "That's pretty much all you need to do for the pixel. It's very straightforward.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 149.52,
+      "end": 152.98,
+      "speaker": "Presenter",
+      "text": "Nothing else you need to do. Conversion API is connected to Shopify already.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 154.94,
+      "end": 158.94,
+      "speaker": "Played audio",
+      "text": "Free audio post production by auphonic.com.",
+      "chunk": 0,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 154.0,
+      "end": 160.17,
+      "label": "audio watermark jingle"
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+{
+  "lesson": {
+    "num": 53,
+    "id": "053-every-ad-format-that-you-can-use",
+    "title": "Every Ad Format That You Can Use",
+    "section": "📢 How To Create Ads",
+    "video": "53. Every Ad Format That You Can Use Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 606.485,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=cf15b9b20439416ea153b70ed8185b9a"
+  },
+  "generated_at": "2026-10-06T20:24:08-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (95% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 2463,
+    "matched_tokens": 2344,
+    "match_ratio": 0.952,
+    "segments_aligned": 83,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 308.01,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.907,
+      "wpm": 239.1,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 308.01,
+      "end": 606.485,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.964,
+      "wpm": 233.3,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.82,
+      "speaker": "Presenter",
+      "text": "All right. So, in this video, we're going to be talking about formats, which is everybody's favorite, apparently. And so,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 4.82,
+      "end": 12.26,
+      "speaker": "Presenter",
+      "text": "this is going to be as unbiased as possible. You'll notice these formats are truly formats. They don't have any assumed angle to them,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 12.26,
+      "end": 18.54,
+      "speaker": "Presenter",
+      "text": "like us versus them, that's not a format that I'm going to give you. What I'm going to give you is just literally the actual, like, what it is,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 18.54,
+      "end": 25.42,
+      "speaker": "Presenter",
+      "text": "like, if you look at it structurally, what is this? Okay? And so the first one here, which is one of our most common ones, is voiceover with B-roll.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 25.84,
+      "end": 31.38,
+      "speaker": "Presenter",
+      "text": "Okay. So, this is voiceover footage with product shots, B-roll, A-roll, stock, all that kind of stuff.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 31.7,
+      "end": 36.0,
+      "speaker": "Presenter",
+      "text": "It usually has background music. And again, the voiceover can be real, or it can be AI. Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 36.06,
+      "end": 41.88,
+      "speaker": "Presenter",
+      "text": "Very, very simply here, you're going to see this is an example of that. So, I don't know if you guys are going to be able to hear it, but here we go.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 41.96,
+      "end": 49.0,
+      "speaker": "Presenter",
+      "text": "It's parenting must-haves, stainless steel humidifier, and then you can see there's like this script that's being said or being voiceovered in the background. Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 49.34,
+      "end": 54.68,
+      "speaker": "Presenter",
+      "text": "That is an example of the ad. And again, because I love you guys, every single one of these things has an example.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 54.68,
+      "end": 59.3,
+      "speaker": "Presenter",
+      "text": "Format number two is subtitles with B-roll, generator subtitles over footage and product shots.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 59.72,
+      "end": 63.54,
+      "speaker": "Presenter",
+      "text": "What I love about this, again, big shout-out to Carlo, is that it allows",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 63.54,
+      "end": 70.24,
+      "speaker": "Presenter",
+      "text": "the reader to read it in their own head. So, it taps into what Carlo has defined as like this internal voice that everyone has for themself.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 71.04,
+      "end": 78.0,
+      "speaker": "Presenter",
+      "text": "And again, this usually has background music that really flows with the ad and like sets the mood and sets the tone. So, music selection is very important.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 78.5,
+      "end": 83.44,
+      "speaker": "Presenter",
+      "text": "But these are heavily edited with multiple clips. So, again, here's a really great example of that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 83.44,
+      "end": 88.32,
+      "speaker": "Presenter",
+      "text": "This is, you know, an ad, uh as you can see here. Again, it's just these subtitles on screen.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 88.52,
+      "end": 93.8,
+      "speaker": "Presenter",
+      "text": "There's actually nothing but music. It's like this violin music that's being played. Again, you guys can watch these for yourself.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 93.8,
+      "end": 100.1,
+      "speaker": "Presenter",
+      "text": "When When you pop it in, you know, nicotine hits your bloodstream instantly, your heart rate rises. So, it starts like educating people,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 100.1,
+      "end": 106.46,
+      "speaker": "Presenter",
+      "text": "and it's using their old their own internal voice. Next one here is slideshow with with uh video, or slideshow video with text.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 106.74,
+      "end": 112.86,
+      "speaker": "Presenter",
+      "text": "So, this is static images with transition, so it's like heavy text overlay with movement and text reveals. So, at the end of the day, like, again,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 112.86,
+      "end": 120.38,
+      "speaker": "Presenter",
+      "text": "you can add a voiceover to this if you want. Um this obviously has video clips right in the beginning, um but you'll notice here with the images that we actually add",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 120.38,
+      "end": 127.36,
+      "speaker": "Presenter",
+      "text": "is just like, you know, there's some I forget what the effect is called, but uh there's some kind of effect where it's like zooming in slowly or zooming out slowly,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 127.36,
+      "end": 132.64,
+      "speaker": "Presenter",
+      "text": "and it's just using the images in like this slideshow to kind of tell a story. So, if you don't have videos,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 132.64,
+      "end": 139.48,
+      "speaker": "Presenter",
+      "text": "well, you can just use images as well. Again, obviously, we spliced it together, but the point is is to look at how we use the images here",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 139.48,
+      "end": 146.44,
+      "speaker": "Presenter",
+      "text": "to edit that video. Next one here is authentic UGC and talking head only. So, this is a person speaking directly to the camera.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 146.46,
+      "end": 152.7,
+      "speaker": "Presenter",
+      "text": "Again, it can be real, or AI. Just use AI at your own risk. We don't actually use AI people. So, at the end of the day, you can do what you want.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 152.72,
+      "end": 159.14,
+      "speaker": "Presenter",
+      "text": "Um at least we don't use them anymore. And so here, if we take a look at this, you can see this is the actual ad where like this girl is just talking",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 159.14,
+      "end": 165.06,
+      "speaker": "Presenter",
+      "text": "straight to straight to camera. There's no like extra edits or anything like that. She's just kind of like going in,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 165.06,
+      "end": 170.72,
+      "speaker": "Presenter",
+      "text": "talking about this. I'd really listen to what she's saying, okay? It's like It's very, very good, and that's",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 170.72,
+      "end": 177.88,
+      "speaker": "Presenter",
+      "text": "one of the winning ads that we have in our, you know, Valvoline ad stalk for those of you that know that. Professional video, okay? So, this is a example of like a professional video",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 177.88,
+      "end": 185.34,
+      "speaker": "Presenter",
+      "text": "that we shot. Most of you guys may not be at this level, but these are all professional clips that we shot and put together,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 185.34,
+      "end": 190.68,
+      "speaker": "Presenter",
+      "text": "and then we just added text over. You can see this is very polished, very professional, heavy,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 190.68,
+      "end": 197.34,
+      "speaker": "Presenter",
+      "text": "you know, massive cameras, all that kind of stuff, right? Like, studio style, okay? We've noticed that most of the time,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 197.66,
+      "end": 201.42,
+      "speaker": "Presenter",
+      "text": "these honestly don't work. So, the amount of like headache and effort",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 201.42,
+      "end": 206.88,
+      "speaker": "Presenter",
+      "text": "that go into this and like the time it takes to do this is a lot, but they just don't really convert.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 207.18,
+      "end": 213.76,
+      "speaker": "Presenter",
+      "text": "So, we don't really do these as much anymore, but it is a a style that I just want to make you aware of. So, if you have someone that's like really murdering, and you'll notice like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 213.76,
+      "end": 220.8,
+      "speaker": "Presenter",
+      "text": "brands like True Classic will go and work with like a Harmon Brothers or some kind of like, you know, those funny comedy twin dudes, I think they're twins, I don't know,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 221.02,
+      "end": 225.82,
+      "speaker": "Presenter",
+      "text": "and they'll do very professional video shoots. Those can work if you're at a higher scale, so definitely something that you can explore.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 225.82,
+      "end": 231.98,
+      "speaker": "Presenter",
+      "text": "And then we have animation. So, these are just like animated characters and graphics and stuff like that. So, here's a really funny example of that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 231.98,
+      "end": 236.66,
+      "speaker": "Presenter",
+      "text": "So, it's like hormonal gaslighting explained by ducks, and it's like we've got these ducks, you know,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 236.66,
+      "end": 242.68,
+      "speaker": "Presenter",
+      "text": "ducks lay eggs like clockwork, sun comes up, eggs come out, all smooth. Then one day, everything changes, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 243.02,
+      "end": 249.62,
+      "speaker": "Presenter",
+      "text": "It's like duck's belly gets rounder, pond feels smaller, right? So, it's just really funny. It's like, you know, we're explaining basically hormonal gaslighting",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 250.22,
+      "end": 256.78,
+      "speaker": "Presenter",
+      "text": "with ducks. So, that's like what an animation style looks like. Now, there's people that do way crazier animation, but just so you guys can see that, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 257.02,
+      "end": 262.94,
+      "speaker": "Presenter",
+      "text": "And those are the video formats. Now, am I missing one? Probably. But at the end of the day, you'll notice that I didn't just say like,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 263.16,
+      "end": 267.98,
+      "speaker": "Presenter",
+      "text": "you know, this is a UGC format or this is a VSL format. I'm just literally saying like, hey, voiceover with B-roll,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 267.98,
+      "end": 275.48,
+      "speaker": "Presenter",
+      "text": "subtitles with B-roll, slideshow, authentic UGC, so this is someone just talking to the camera, there's professional, and then there's animation, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 275.76,
+      "end": 281.58,
+      "speaker": "Presenter",
+      "text": "That's more than enough formats for you guys to be aware of, okay? The next one is image formats, okay? So, separating from video",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 281.58,
+      "end": 285.94,
+      "speaker": "Presenter",
+      "text": "to image. So, image formats, we have static and graphic design. So, these are usually colorfully color colorfully",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 286.78,
+      "end": 293.06,
+      "speaker": "Presenter",
+      "text": "designed uh graphics with text overlays, like Canva templates, okay? Has a visual of the product in it, can be without,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 293.06,
+      "end": 299.34,
+      "speaker": "Presenter",
+      "text": "but that's for more advanced marketers, and you'll see that kind of down below. And think bold headlines on branded backgrounds. So, again, us versus thems",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 299.56,
+      "end": 304.44,
+      "speaker": "Presenter",
+      "text": "kind of fall in this category. We've never done this before offer ads kind of fall in this category. So, you can kind of see",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 304.44,
+      "end": 307.46,
+      "speaker": "Presenter",
+      "text": "what's happening there. They're just heavily designed ads, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 308.4,
+      "end": 318.12,
+      "speaker": "Presenter",
+      "text": "Next one here is product photography and headline. So, again, clean, professional photos of the product. Can be on white or neutral backgrounds, but could be lifestyle, as well. I've kind of grouped this as, like, product photography, so as you can see here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 318.28,
+      "end": 325.2,
+      "speaker": "Presenter",
+      "text": "product photo, boom, headline. This one here, literally just a product photo with text above, right? Very, very simple. Product photography and headline.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 325.58,
+      "end": 334.04,
+      "speaker": "Presenter",
+      "text": "Next one we have here is, like, infographic design. So I've separated this slightly from, like, the static and graphic design. I would say this kind of falls under static and graphic design, as well,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 334.24,
+      "end": 343.78,
+      "speaker": "Presenter",
+      "text": "but the reason why I wanted to mention infographic specifically is because these are, like, visual charts, graphs, step-by-step processes, basically, like, showing kind of, like, data with visual design.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 344.08,
+      "end": 353.94,
+      "speaker": "Presenter",
+      "text": "So I did kind of give it its own category, cuz I think these infographics are, like, their own kind of breed. But, you know, that this is just, like, two examples of what you can see for those types of infographics.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 354.38,
+      "end": 365.96,
+      "speaker": "Presenter",
+      "text": "We probably use these the least right now. We definitely use this a lot, and we use this a lot. And then we get into native style, so designed to look like a like not really user generated content, but this is gonna be it's native to the platform",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 365.96,
+      "end": 378.76,
+      "speaker": "Presenter",
+      "text": "slash organic, okay? So it mimics, again, organic social media posts. Kind of the same point here. Often looks unbranded or casual. Again, very, very important here: do not make fake press release ads.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 378.96,
+      "end": 387.2,
+      "speaker": "Presenter",
+      "text": "Like, don't be an idiot. That's false advertising, and you can get sued, okay? So because I'm showing a USA Today here, this brand was actually in USA Today, okay? We didn't fake this.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 387.58,
+      "end": 394.0,
+      "speaker": "Presenter",
+      "text": "So most of you, if you're not in USA Today, don't do it. Now this, for example, this is just a format. So Pubity is a format.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 394.22,
+      "end": 402.62,
+      "speaker": "Presenter",
+      "text": "So if you wanna do something here like this, that's fine. This is not a news article. This is a news article, okay? So it better be real if you're going to use it, all right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 403.14,
+      "end": 412.44,
+      "speaker": "Presenter",
+      "text": "Next one over here, the Pubity is, like, the main one here. Next one over here is quote text or heavy text image. Now I kind of gave this its own category, cuz I think a lot of these, like,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 412.44,
+      "end": 423.02,
+      "speaker": "Presenter",
+      "text": "should have I mean, a lot of ads, again, this this can be graphic design, and, again, this is kind of like heavy text, as well. But the point is, it's like, you're kind of leading with text here. So it's mostly text with minimal design,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 423.02,
+      "end": 432.84,
+      "speaker": "Presenter",
+      "text": "quote style kind of layouts. Text is the main focus, not visuals, okay? So here's an example: eat this one vitamin for immediate sciatic nerve pain relief. It's literally just a text ad, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 432.84,
+      "end": 440.0,
+      "speaker": "Presenter",
+      "text": "Here's another one that obviously has a product photo in it, as you guys can see, but it's mainly leading with the text, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 440.0,
+      "end": 449.06,
+      "speaker": "Presenter",
+      "text": "Next one on here is collage style. I think these are great, as well, for those of you that, you know, kind of want to show multiple things. So multiple images combined, grid layouts or scattered,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 449.06,
+      "end": 459.38,
+      "speaker": "Presenter",
+      "text": "right? Shows multiple angles in use. Sometimes, it can show multiple angles. Do I recommend doing that? Eh. But at the end of the day here, you can see this is a winning ad from Gruns, and then there's another winning ad here from Ruggable, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 459.38,
+      "end": 466.28,
+      "speaker": "Presenter",
+      "text": "Shows the dog on the rug, shows the up-close, and then shows it kind of in, you know, a natural area, okay? Very, very simple.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 466.98,
+      "end": 477.18,
+      "speaker": "Presenter",
+      "text": "Next one here is user-generated content image, okay? So UGC images. So actual customer photos or selfies, real people using your product, authentic, unpolished look.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 477.18,
+      "end": 487.26,
+      "speaker": "Presenter",
+      "text": "Now obviously this is polished, but my point is is like you're just using photos of people, right? So there are times where we will use AI avatars to do photos,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 487.26,
+      "end": 496.36,
+      "speaker": "Presenter",
+      "text": "cuz the AI avatars aren't saying anything. And if you're a fashion brand, I think using AI and putting your clothing on AI is like a really good thing to do. Now, again, legal compliance wise,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 496.36,
+      "end": 505.8,
+      "speaker": "Presenter",
+      "text": "double-check. You sometimes, I'm pretty sure, have to claim that you're doing that, so just be careful. But at the end of the day, this is UGC, again. So UGC images, just real people in the image.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 506.1,
+      "end": 515.94,
+      "speaker": "Presenter",
+      "text": "And then we have meme-style ads. So these are really, really great if you have super-high CPMs, especially early on. Sometimes, these meme style or like hyper-relatable image ads can do a really good job of just getting a lot of engagement",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 516.46,
+      "end": 527.0,
+      "speaker": "Presenter",
+      "text": "on Meta and just getting a lot of people to click through. We notice these usually have really good cost per clicks, but the overall conversion rate is not as good, but we have seen some ads, you know, produce sales for us",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 527.0,
+      "end": 534.38,
+      "speaker": "Presenter",
+      "text": "that are a meme version, okay? So these are just popular meme templates. If you guys want some sauce, you guys can go to this website called Imgflip, okay? So /memegenerator,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 535.02,
+      "end": 546.06,
+      "speaker": "Presenter",
+      "text": "and this Imgflip website basically just gives you, like, a massive list of, you know, different memes that you can use. So, for example, this one here, you know what I mean, like, change my mind.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 546.06,
+      "end": 555.94,
+      "speaker": "Presenter",
+      "text": "You obviously wanna see the original one, as well. And so you can just click make a meme, and then you can choose whatever meme that you want. Let's choose a a random meme, right? So there you go. You got this guy here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 555.94,
+      "end": 566.86,
+      "speaker": "Presenter",
+      "text": "And you can just add your text. So you could be like, you know, this is John. He uses Hidden Valley. Lives in the valley, uses Hidden Valley. There you go. There's a there's an ad for Hidden Valley ranch.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 567.36,
+      "end": 575.18,
+      "speaker": "Presenter",
+      "text": "Terrible ad, but you get the idea. So this is actually a cool little tool. I will copy this and pop it in here for you guys, as well. So extra sauce here for your meme ads.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 575.22,
+      "end": 586.22,
+      "speaker": "Presenter",
+      "text": "This is it's just a funny tool to use, and you guys can obviously make it relatable. So, again, here's some examples of how we've done that. So quitting nic cold turkey, using nic gum to quit, depending on nic pouches,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 586.46,
+      "end": 593.58,
+      "speaker": "Presenter",
+      "text": "switching to Flow pouches, right? Pretty funny there. And then here we have when your coffee still tastes perfect six hours later, right? We just put the product right in there.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 593.78,
+      "end": 602.22,
+      "speaker": "Presenter",
+      "text": "These are kind of ugly ads, but they're funny. They make people laugh, and they can sometimes convert, as well. So there you go. Those are the different formats. I would definitely recommend starting with images first, and then getting into videos,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 602.22,
+      "end": 606.42,
+      "speaker": "Presenter",
+      "text": "but hopefully this helps you guys with trying to figure out what format should I use? Well, there you go.",
+      "chunk": 1,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 3.2,
+      "end": 4.2,
+      "label": "laughter"
+    },
+    {
+      "start": 39.5,
+      "end": 43.0,
+      "label": "video playback"
+    },
+    {
+      "start": 81.0,
+      "end": 85.5,
+      "label": "music"
+    },
+    {
+      "start": 278.8,
+      "end": 308.0,
+      "label": "silence"
+    }
+  ]
+}

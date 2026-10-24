@@ -1,0 +1,4791 @@
+{
+  "lesson": {
+    "num": 33,
+    "id": "033-how-to-find-desires-part-3",
+    "title": "How To Find Desires - Part 3",
+    "section": "🧍How To Create Avatars",
+    "video": "33. How To Find Desires - Part 3 Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 2578.987,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=dc57c21ffc4848cfaf53e40624169140"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (93% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 9675,
+    "matched_tokens": 9027,
+    "match_ratio": 0.933,
+    "segments_aligned": 498,
+    "segments_partly_aligned": 1,
+    "segments_interpolated": 4,
+    "whisper_fills": 1,
+    "whisper_fill_words": 14,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Played audio",
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 312.663,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 239.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 312.663,
+      "end": 612.764,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.865,
+      "wpm": 225.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 612.764,
+      "end": 892.494,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.996,
+      "wpm": 243.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 892.494,
+      "end": 1182.436,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.995,
+      "wpm": 241.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1182.436,
+      "end": 1446.253,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.984,
+      "wpm": 228.6,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 5,
+      "start": 1446.253,
+      "end": 1758.593,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.995,
+      "wpm": 249.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 6,
+      "start": 1758.593,
+      "end": 2106.103,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.994,
+      "wpm": 234.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 7,
+      "start": 2106.103,
+      "end": 2419.932,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.953,
+      "wpm": 228.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 8,
+      "start": 2419.932,
+      "end": 2578.987,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.98,
+      "wpm": 257.9,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [
+    {
+      "type": "filled_omission",
+      "start": 1441.4,
+      "end": 1449.8,
+      "chunk": 4,
+      "detail": "14 word(s) heard by local Whisper but missing from the Gemini text were inserted, marked [+ ...]: \"instead of enduring it. Wow. Super, super powerful, right? I want to enjoy my\""
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.8,
+      "speaker": "Presenter",
+      "text": "All right. In this video, we are going to go desire hunting.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 3.4,
+      "end": 10.96,
+      "speaker": "Presenter",
+      "text": "And what that essentially means is that we are going to scour the internet to find what the hell people want.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 11.32,
+      "end": 14.3,
+      "speaker": "Presenter",
+      "text": "Very simple. What problems they have, what is going on out there, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 14.46,
+      "end": 16.34,
+      "speaker": "Presenter",
+      "text": "And this is the number one most important thing.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 16.5,
+      "end": 20.86,
+      "speaker": "Presenter",
+      "text": "And if you are someone that has done research before, and you've like, \"Oh, I already know the desires,\" and that kind of stuff,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 21.2,
+      "end": 26.62,
+      "speaker": "Presenter",
+      "text": "I have some stuff in here for prompts specifically that you can run that will help you get some even more information.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 26.72,
+      "end": 31.08,
+      "speaker": "Presenter",
+      "text": "And, to be honest, I am doing this completely blind. I haven't even checked the deep research prompts that we've used.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 31.08,
+      "end": 32.28,
+      "speaker": "Presenter",
+      "text": "And again, I'm going to show you how to do all this.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 32.74,
+      "end": 41.44,
+      "speaker": "Presenter",
+      "text": "At the end of the day, I want you to use this process to obviously jot down any of the research and things that you find, but more importantly, to",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 41.44,
+      "end": 46.34,
+      "speaker": "Presenter",
+      "text": "have a sole focus of: what do people want, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 46.84,
+      "end": 55.14,
+      "speaker": "Presenter",
+      "text": "What are the problems out there, what are the desires that people have, and just go out there and just hunt for, yeah, honestly, hours.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 55.38,
+      "end": 60.9,
+      "speaker": "Presenter",
+      "text": "I'm probably going to try to do this for about thirty minutes or so, and show you guys some examples and find a couple, and then we're going to get into the deep research side.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 61.2,
+      "end": 68.2,
+      "speaker": "Presenter",
+      "text": "But it's very important that you don't just fully automate this with AI, because the little golden nuggets that you find deep, deep, deep in Reddit threads,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 68.48,
+      "end": 77.8,
+      "speaker": "Presenter",
+      "text": "deep, deep, deep in reviews, and deep, deep, deep inside of all the other platforms, YouTube, I'm going to show you all the different ways that you can find desires, is where a lot of the winning ads are found, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 78.1,
+      "end": 80.52,
+      "speaker": "Presenter",
+      "text": "So my screen was frozen, so I had to reset it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 80.52,
+      "end": 84.14,
+      "speaker": "Presenter",
+      "text": "But this is all we're going to have on this sheet, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 84.14,
+      "end": 87.18,
+      "speaker": "Presenter",
+      "text": "There's a sheet here called \"Desire Hunting\", and again this could be broken up for you guys.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 87.18,
+      "end": 93.88,
+      "speaker": "Presenter",
+      "text": "And inside of here you're simply going to put the brand, or whatever it is that you're going after. Okay, I'm doing this for a collagen brand.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 93.88,
+      "end": 99.86,
+      "speaker": "Presenter",
+      "text": "And inside of here, we're going to have one single title here, it's called \"Desires\", okay? Wants and needs.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 99.86,
+      "end": 106.7,
+      "speaker": "Presenter",
+      "text": "And then, from there, we're going to add review snippets. So while we're finding these, and I honestly want to even change it,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 106.84,
+      "end": 109.58,
+      "speaker": "Presenter",
+      "text": "I'm just going to call it customer language snippets.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 110.1,
+      "end": 117.48,
+      "speaker": "Presenter",
+      "text": "I love putting customer language inside of here, so I can know what specific language they use, and it's not restricted to Shopify and Amazon.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 118.1,
+      "end": 119.72,
+      "speaker": "Presenter",
+      "text": "And then here I'm just going to have ad ideas.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 119.98,
+      "end": 126.72,
+      "speaker": "Presenter",
+      "text": "And so the goal of this is, we're going to go through, we're going to do some research, and we're going to find what people want, as I mentioned.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 127.0,
+      "end": 130.7,
+      "speaker": "Presenter",
+      "text": "But the way that we do that is going to be guided by what we have here, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 130.98,
+      "end": 136.26,
+      "speaker": "Presenter",
+      "text": "And for those of you that obviously are in Evolve, we have the entire market research section there.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 136.26,
+      "end": 142.24,
+      "speaker": "Presenter",
+      "text": "And at the end of the day, the goal of this is just to give, anybody can use this document to find things.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 142.36,
+      "end": 146.06,
+      "speaker": "Presenter",
+      "text": "Reddit is my favorite place to go, review section is another great place to go.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 146.32,
+      "end": 152.32,
+      "speaker": "Presenter",
+      "text": "And then one of my favorite areas is, honestly, YouTube, and their comments, TikTok and their comments, and their content as well.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 152.8,
+      "end": 160.22,
+      "speaker": "Presenter",
+      "text": "And then I also love going through Amazon, and AnswerThePublic's okay, but I would say TikTok, Amazon, YouTube, and Reddit are my favorite places to go, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 160.58,
+      "end": 161.86,
+      "speaker": "Presenter",
+      "text": "So I have a collagen brand.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 161.86,
+      "end": 167.24,
+      "speaker": "Presenter",
+      "text": "And what I'm going to do, and we're going to get into the desire prompts in a second, I promise, is we're just going to go to Google.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 167.24,
+      "end": 173.02,
+      "speaker": "Presenter",
+      "text": "And we're going to say, \"What does collagen do? Reddit.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 174.62,
+      "end": 178.4,
+      "speaker": "Presenter",
+      "text": "\"What are the benefits of collagen? r/nutrition.\" This is from six years ago. This is from nine months ago.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 178.46,
+      "end": 179.64,
+      "speaker": "Presenter",
+      "text": "So this one's relatively new.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 179.82,
+      "end": 183.4,
+      "speaker": "Presenter",
+      "text": "This one's from one year ago: \"Does collagen actually do anything?\" A hundred ninety-four plus comments.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 183.98,
+      "end": 185.8,
+      "speaker": "Presenter",
+      "text": "\"Has anyone taken collagen supplements?\" Two hundred ten plus.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 185.8,
+      "end": 190.08,
+      "speaker": "Presenter",
+      "text": "And look at the, like, threads. So this is r/supplements. So let's go ahead and take a look at this, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 190.08,
+      "end": 195.76,
+      "speaker": "Presenter",
+      "text": "\"I'm in the market for a new protein shake, and I stumbled across a collagen coffee creamer.\" Kind of interesting, right? This guy got side-quested.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 196.56,
+      "end": 202.94,
+      "speaker": "Presenter",
+      "text": "\"Does ingesting collagen actually do anything, or is it a marketing ploy? It never goes outside your GI tract.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 202.98,
+      "end": 205.58,
+      "speaker": "Presenter",
+      "text": "Okay? Let's see what people have to say.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 206.64,
+      "end": 213.56,
+      "speaker": "Presenter",
+      "text": "\"Anecdotal, but I was tired of my skin looking dry no matter my skincare routine.\" Forty-year-old female, that's what \"40 F\" means. You've got to learn the Reddit lingo.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 214.1,
+      "end": 217.54,
+      "speaker": "Presenter",
+      "text": "\"Took about two months, but I started to notice a difference. My skin looked smoother",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 217.54,
+      "end": 222.1,
+      "speaker": "Presenter",
+      "text": "and less dry. My hair is growing crazy fast too, and my nails, which I trimmed",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 222.1,
+      "end": 229.64,
+      "speaker": "Presenter",
+      "text": "every three weeks, now get trimmed once a week. My assumption is if my hair and nails are growing that fast, my skin is probably turning over more often, so",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 229.64,
+      "end": 235.58,
+      "speaker": "Presenter",
+      "text": "it's looking better.\" And this has twenty-eight upvotes. Now upvotes are really great, because, as you see here, this has thirty-four upvotes, twenty-three upvotes.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 235.78,
+      "end": 237.22,
+      "speaker": "Presenter",
+      "text": "It kind of tells you what people are liking.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 237.22,
+      "end": 240.34,
+      "speaker": "Presenter",
+      "text": "So let's just take a second and take a look at this, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 241.0,
+      "end": 244.4,
+      "speaker": "Presenter",
+      "text": "\"I was tired of my skin looking dry no matter my skincare routine.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 245.26,
+      "end": 246.92,
+      "speaker": "Presenter",
+      "text": "Well, there you go.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 247.98,
+      "end": 249.88,
+      "speaker": "Presenter",
+      "text": "Probably something we should jot down.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 250.12,
+      "end": 252.22,
+      "speaker": "Presenter",
+      "text": "And I'm going to put that in kind of the customer language snippet.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 252.84,
+      "end": 257.24,
+      "speaker": "Presenter",
+      "text": "\"But I was tired of my skin looking dry no matter my skincare routine.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 257.56,
+      "end": 263.24,
+      "speaker": "Presenter",
+      "text": "So the desire here is they want hydrated-looking skin.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 264.46,
+      "end": 272.58,
+      "speaker": "Presenter",
+      "text": "Cool. For, and you could even expand this further if you wanted for like people that already run a skincare routine, but that's essentially the desire that someone would want.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 273.12,
+      "end": 276.04,
+      "speaker": "Presenter",
+      "text": "All right, let's keep going. Whoopsie, I'm cheating. I'm cheating. I've got to go back.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 276.64,
+      "end": 280.74,
+      "speaker": "Presenter",
+      "text": "Let me pull this up, so when I fill this, we're actually good to go. Beautiful, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 281.62,
+      "end": 288.02,
+      "speaker": "Presenter",
+      "text": "And so, then, inside of here, said, \"I noticed a difference, my skin looked smoother and less dry.\" So smoother, actually, so \"smoother\" is the better word.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 288.2,
+      "end": 293.84,
+      "speaker": "Presenter",
+      "text": "So \"smoother and less dry\" is actually the word that they use. So this is a great opportunity to correct myself. So I said, \"hydrated\", right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 294.26,
+      "end": 295.26,
+      "speaker": "Presenter",
+      "text": "That's not the word anybody used.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 295.74,
+      "end": 299.62,
+      "speaker": "Presenter",
+      "text": "And you can even check this as well. You could do Command+F, \"hydrated\", and see if you find anything.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 299.92,
+      "end": 301.92,
+      "speaker": "Presenter",
+      "text": "Not a single person said hydrated.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 303.22,
+      "end": 307.22,
+      "speaker": "Presenter",
+      "text": "That's where like, \"Oh, why isn't this work? Why didn't that angle-?\" Well, no one's using the word hydrated.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 307.6,
+      "end": 311.78,
+      "speaker": "Presenter",
+      "text": "They want smoother, or I want smoother and less dry skin.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 311.78,
+      "end": 314.7,
+      "speaker": "Presenter",
+      "text": "K.",
+      "chunk": 1,
+      "timing": "interpolated"
+    },
+    {
+      "id": 66,
+      "start": 314.7,
+      "end": 314.94,
+      "speaker": "Presenter",
+      "text": "Beautiful.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 316.08,
+      "end": 321.96,
+      "speaker": "Presenter",
+      "text": "Let's keep going. \"My hair is growing crazy too fast. My skin is probably turning over more often.\" So this is also really interesting.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 322.72,
+      "end": 334.68,
+      "speaker": "Presenter",
+      "text": "I love that they're explaining that \"My hair is growing crazy fast too, and my nails, which I trimmed every three weeks, now get trimmed once a week.\" So my assumption is if my hair and nails are going that fast, my skin is probably turning over more often.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 334.86,
+      "end": 339.86,
+      "speaker": "Presenter",
+      "text": "So this is an assumption, but what I like about this is this also gives me an insight for different ad ideas, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 339.98,
+      "end": 347.64,
+      "speaker": "Presenter",
+      "text": "So my hair and nails are growing that fast, okay? So this is interesting, because I'm going to jot this down as a specific thing.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 347.64,
+      "end": 354.12,
+      "speaker": "Presenter",
+      "text": "It's like this is kind of proof and this is a belief that if people see that their skin and nails are growing fast,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 354.64,
+      "end": 363.02,
+      "speaker": "Presenter",
+      "text": "that could be really interesting. So an ad idea I could have is like, if your hair- or even this, I love this idea, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 363.98,
+      "end": 367.94,
+      "speaker": "Presenter",
+      "text": "From trimming my nails every 3 weeks to once a week or something like that.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 368.18,
+      "end": 374.6,
+      "speaker": "Presenter",
+      "text": "Or, you know, \"If you're taking collagen and you're not trimming your nails every week,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 376.08,
+      "end": 378.08,
+      "speaker": "Presenter",
+      "text": "like, you need to see this, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 379.68,
+      "end": 387.48,
+      "speaker": "Presenter",
+      "text": "And this can be an educational angle where we explain that collagen",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 387.48,
+      "end": 395.74,
+      "speaker": "Presenter",
+      "text": "companies, you know, have watered down their ingredients for more of a profit,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 396.14,
+      "end": 400.9,
+      "speaker": "Presenter",
+      "text": "right, and therefore make collagen",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 400.9,
+      "end": 403.56,
+      "speaker": "Presenter",
+      "text": "less powerful.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 409.26,
+      "end": 413.72,
+      "speaker": "Presenter",
+      "text": "So if you're taking collagen and you don't notice",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 81,
+      "start": 414.06,
+      "end": 418.24,
+      "speaker": "Presenter",
+      "text": "enhanced nail growth or whatever, then it's likely not working",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 418.24,
+      "end": 422.16,
+      "speaker": "Presenter",
+      "text": "and you need some real collagen.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 423.7,
+      "end": 424.86,
+      "speaker": "Presenter",
+      "text": "Enter our brand.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 426.22,
+      "end": 427.54,
+      "speaker": "Presenter",
+      "text": "How did I come up with that idea?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 428.32,
+      "end": 435.74,
+      "speaker": "Presenter",
+      "text": "That is just a lot of knowledge that I have, tribal knowledge that I have stored in my brain. But I want you guys to think through this, and I'm going to try to help you understand how I wrote this.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 435.96,
+      "end": 439.82,
+      "speaker": "Presenter",
+      "text": "So when I saw this, I said, \"Okay, my hair and nails are growing fast.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 439.82,
+      "end": 444.36,
+      "speaker": "Presenter",
+      "text": "And just by the way, guys, like we haven't even made it past the first thread here. So you can understand if you actually",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 444.36,
+      "end": 453.28,
+      "speaker": "Presenter",
+      "text": "took time to go through some of these threads. And we're just on Reddit, right? We have- and some people are like, \"I don't know where to research. I don't know what to do.\" Like you just need to look more closely, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 453.78,
+      "end": 461.82,
+      "speaker": "Presenter",
+      "text": "So here this person said that the way that they saw it worked- if I go back without- how do I expand this? Okay.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 461.98,
+      "end": 469.48,
+      "speaker": "Presenter",
+      "text": "The way that they saw this working was by how much their nails and hair were growing, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 469.96,
+      "end": 472.8,
+      "speaker": "Presenter",
+      "text": "So if this person has noticed that,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 473.4,
+      "end": 476.68,
+      "speaker": "Presenter",
+      "text": "right, there's likely other people who have, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 477.58,
+      "end": 480.78,
+      "speaker": "Presenter",
+      "text": "And on top of that, there's also people who likely haven't.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 481.86,
+      "end": 485.44,
+      "speaker": "Presenter",
+      "text": "And so if- since I can't really show",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 485.44,
+      "end": 494.68,
+      "speaker": "Presenter",
+      "text": "collagen work- like it's not like, you know, I take a scoop of collagen and my nails grow instantly, right? So it's very hard for me to",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 494.68,
+      "end": 501.16,
+      "speaker": "Presenter",
+      "text": "prove to people that my supplement works by showing them. I can't really show them.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 501.78,
+      "end": 508.08,
+      "speaker": "Presenter",
+      "text": "But in this instance right here- this is why like, dude, customers are just- they're the best marketers. But",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 508.08,
+      "end": 516.04,
+      "speaker": "Presenter",
+      "text": "in this instance here, I'm able to help someone visualize and be relatable",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 516.04,
+      "end": 528.36,
+      "speaker": "Presenter",
+      "text": "by explaining that, \"Okay, if your nails are growing-\" so someone who's already taking collagen, or maybe if someone notices that like they- their nails- if they if they only cut their nails 3 times a week,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 528.36,
+      "end": 535.96,
+      "speaker": "Presenter",
+      "text": "like they might have low, I don't know if it's cortisol, I'd have to do more research. Like what does it mean if you if you, you know, your nails aren't growing fast or whatever? Does that mean that, um,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 535.96,
+      "end": 546.64,
+      "speaker": "Presenter",
+      "text": "you know, your body's not producing a specific hormone that collagen can help with? But the point is is I can now show proof that if someone's nails are not working- and again, you need to validate this.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 546.66,
+      "end": 551.96,
+      "speaker": "Presenter",
+      "text": "Obviously, it's going to be different for every single person. But you have to understand like in marketing what we're trying to do here is we're trying to find customer",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 553.64,
+      "end": 559.8,
+      "speaker": "Presenter",
+      "text": "customer phrases and things that customers experience to show that we understand them and then also help them build believability,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 559.92,
+      "end": 568.88,
+      "speaker": "Presenter",
+      "text": "right? So for example, we could potentially say, \"Collagen so good, you might be cutting your nails every day.\" And notice I said \"might\", right? You need to do it in a way that is compliant. Don't be",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 568.88,
+      "end": 575.44,
+      "speaker": "Presenter",
+      "text": "a piece of shit. That's my number one rule. But the point of this is is so now I can help someone see",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 575.88,
+      "end": 582.38,
+      "speaker": "Presenter",
+      "text": "if the product is working. And then on top of that, I can help someone see that their product doesn't work. So let's compare this",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 582.38,
+      "end": 591.2,
+      "speaker": "Presenter",
+      "text": "to other collagen- like, you know, a a typical us versus them. Other collagen brands, it's like, you know, \"Doesn't work, like low low-quality ingredients,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 591.74,
+      "end": 601.58,
+      "speaker": "Presenter",
+      "text": "and you know, bleh.\" Like what- whatever, right? Whatever you'd write in us versus them. And then ours are like, \"We're the best, and we have high quality ingredients, and we're, you know, we were backed by whatever, the FDA.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 602.02,
+      "end": 612.0,
+      "speaker": "Presenter",
+      "text": "Right? No, let's compare that ad, which is what everybody does, to an ad that says, \"If your nails-\" or a video ad that says like, \"If your nails are not- if you're not cutting your nails once a week, your collagen your- you know, your collagen is fake.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 613.04,
+      "end": 619.88,
+      "speaker": "Presenter",
+      "text": "if someone sees that and they're like they think like, \"Oh, shit! Like, actually, my- yeah, my nails don't actually grow that fast.\" Like, \"Oh, shoot.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 619.88,
+      "end": 630.44,
+      "speaker": "Presenter",
+      "text": "that's going to open up an entire market of people who potentially felt like maybe collagen wasn't working for them. Even then that might build belief and be like, \"Hey, keep taking your collagen.\" We're helping other brands as well. But",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 630.44,
+      "end": 643.6,
+      "speaker": "Presenter",
+      "text": "you think about that, it's like, that is an ad that is relatable, makes them think like, \"How often do I cut my nails, right?\" Stops the scroll, and then helps them see whether or not the product is working, and creates, guess what? New hope",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 643.6,
+      "end": 654.4,
+      "speaker": "Presenter",
+      "text": "of like, \"Oh, well, when I was on collagen before, yeah, my nails weren't working. So, it must have just been bad collagen. I must- I got to get some better collagen then, right?\" And, in this instance for this brand specifically,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 654.82,
+      "end": 665.04,
+      "speaker": "Presenter",
+      "text": "they do have an incredible product. So, if you have an incredible product, that's what it's all about. But my digression here, that is- that is how customer research is so powerful. Okay? And so,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 665.04,
+      "end": 677.7,
+      "speaker": "Presenter",
+      "text": "we we didn't even really make it that far. But like this is this is stuff that it's just it's so good. Like I have to stop to explain this to you guys because this is marketing. Okay? This is what it's all about, but thinking about, how can I build belief",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 677.7,
+      "end": 689.84,
+      "speaker": "Presenter",
+      "text": "to someone and show them that my product works? Anytime you can just physically show, that's why a lot of these like random products just go viral and sell out like crazy. Like, for example, um,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 691.02,
+      "end": 701.68,
+      "speaker": "Presenter",
+      "text": "you know, I'm trying to think of something that doesn't give it away. Some Some of the guys in Evolve who have very visual-first products, but you know, even, for example, in our our our our harness product here, right, that we that we did in the other videos,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 702.28,
+      "end": 709.72,
+      "speaker": "Presenter",
+      "text": "we can clearly show the product working. We just show a dog trying to run forward and then the harness spinning it around, right? We can show that.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 709.72,
+      "end": 714.16,
+      "speaker": "Presenter",
+      "text": "Guess what? It stopped the dog from pulling. It spun him around, right? And so,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 714.74,
+      "end": 719.48,
+      "speaker": "Presenter",
+      "text": "that makes it a lot easier [laughter] to prove [/laughter] that the product works cuz you see it with your own eyes, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 720.18,
+      "end": 729.56,
+      "speaker": "Presenter",
+      "text": "Collagen can't really show you that it's working like that. It's not like someone- like I said, not like someone takes collagen, it's like boom! Their nails grow or their their skin goes completely clear, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 729.82,
+      "end": 735.36,
+      "speaker": "Presenter",
+      "text": "I'm sure crazy people are going to do that with AI and you're going to get in a lot of trouble for that. But my point is, is that is how",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 735.36,
+      "end": 742.78,
+      "speaker": "Presenter",
+      "text": "like in in specific niches where you can't build as much belief, it's very important to do that. Just understand belief is an important thing. Okay? So,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 742.78,
+      "end": 754.1,
+      "speaker": "Presenter",
+      "text": "look at this person. They even said, \"Which brand?\" Okay? \"I cut mine once a week now and just started eating collagen powder. I'll probably give it 2 months. Which product did you get? Updates, do you still take it?\" Uh okay, so here we go. So,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 754.1,
+      "end": 773.68,
+      "speaker": "Presenter",
+      "text": "\"I had joint pain from pull-ups and knee pains from squats. Tried using collagen and I don't get any pain anymore. Try good-quality collagen that also uh that includes also MSM, uh glue- glucosamine. I don't even know how to pronounce this, whatever that is, and vitamin C. For me, it helped. Best way to find out, to try it for yourself.\" Okay, so now this is also something",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 773.68,
+      "end": 782.04,
+      "speaker": "Presenter",
+      "text": "where I'm looking, okay, so what is good-quality collagen? So, according to this guy and 34 upvotes, it's important that it has these things, right? So,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 782.38,
+      "end": 788.78,
+      "speaker": "Presenter",
+      "text": "MSM, glucosamine, vitamin C, these are all ingredients that clearly consumers are educated on, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 789.66,
+      "end": 794.38,
+      "speaker": "Presenter",
+      "text": "And this person had joint pain from pull-ups and knee pains from squats, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 794.94,
+      "end": 800.02,
+      "speaker": "Presenter",
+      "text": "And so, what they want is they want- okay, so again, this is another one that they had.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 800.66,
+      "end": 806.86,
+      "speaker": "Presenter",
+      "text": "I had joint pain from pull-ups, knee pain from squats. I want, likely, less pain, or I don't want-",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 807.16,
+      "end": 813.9,
+      "speaker": "Presenter",
+      "text": "and I don't know why uh there we go. This is This is a different font. [laughter] [snicker] [chuckle] I [/laughter] [/snicker] [/chuckle] want",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 813.9,
+      "end": 821.94,
+      "speaker": "Presenter",
+      "text": "smoother and less dry skin. I've got to start pasting properly. And then, here, for example,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 822.76,
+      "end": 835.3,
+      "speaker": "Presenter",
+      "text": "what I'm likely going to put in now is, \"I want to work out, or I want to-\" you know, you could say pull-ups, um you know, \"I want to work out without joint pain,\" right? So,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 836.36,
+      "end": 838.98,
+      "speaker": "Presenter",
+      "text": "want to work out without joint pain.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 839.66,
+      "end": 850.96,
+      "speaker": "Presenter",
+      "text": "Right? And a deeper desire might be status here, so a status of this could be, you know, like, \"I want to kind of hit PRs at the gym\" sort of thing, right? Now I would need to go deeper",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 850.96,
+      "end": 857.52,
+      "speaker": "Presenter",
+      "text": "on this specific customer, but that's, for example, a desire that you can pull from this. Okay? So, whenever you see an issue,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 857.86,
+      "end": 868.64,
+      "speaker": "Presenter",
+      "text": "just think of like, okay, so this person had joint pain from pull-ups and knee pain from squats. Why is that a problem? Right? Well, it's because they want to work out without joint pain, right? So, and then from there, it's like, well, why do they want to work out with joint pain?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 868.78,
+      "end": 877.02,
+      "speaker": "Presenter",
+      "text": "It's well, probably cuz they just want to enjoy the workout and they want to be healthy, right? So, another one for this is definitely health. So, health. Um but if someone's getting pain",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 877.02,
+      "end": 886.74,
+      "speaker": "Presenter",
+      "text": "while working out, it's likely because they're lifting weights. So, status is another potential desire here as well, where \"I want to hit-\" uh you know, PRs, which just stands for personal records.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 886.94,
+      "end": 891.86,
+      "speaker": "Presenter",
+      "text": "So, \"I want to hit or I want to lift big weights or I want to lift big weights at the gym.\" Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 892.9,
+      "end": 895.44,
+      "speaker": "Presenter",
+      "text": "health angles, well, we could dive into, but I'll digress.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 896.16,
+      "end": 900.12,
+      "speaker": "Presenter",
+      "text": "This is this is where all the gold is. Whenever you see really long ones, that's how you know you're dialed in.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 900.22,
+      "end": 903.58,
+      "speaker": "Presenter",
+      "text": "So, \"Agreed. I have a bad knee, and it's helped a lot.\" So there's another thing, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 903.74,
+      "end": 905.08,
+      "speaker": "Presenter",
+      "text": "So, bad knees, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 905.28,
+      "end": 908.42,
+      "speaker": "Presenter",
+      "text": "\"So, I had joint pain from pull-ups and knee pain from squats.\" So again, bad knees,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 909.26,
+      "end": 909.62,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 910.92,
+      "end": 913.34,
+      "speaker": "Presenter",
+      "text": "\"I use the combo of Doctor's Best, NOW, and Vital.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 913.54,
+      "end": 918.22,
+      "speaker": "Presenter",
+      "text": "And again, there we go, I just got three competitors that I can go look at, 'cause clearly these guys converted something.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 918.48,
+      "end": 924.86,
+      "speaker": "Presenter",
+      "text": "So what I might also do is I might go check out Doctor's Best, I might go try out NOW. I don't even know if NOW is, I might just say like NOW collagen.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 925.42,
+      "end": 926.08,
+      "speaker": "Presenter",
+      "text": "Let's just see.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 926.4,
+      "end": 930.88,
+      "speaker": "Presenter",
+      "text": "There you go, found it, right? It's like a I see this in the grocery stores all the time.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 930.88,
+      "end": 934.22,
+      "speaker": "Presenter",
+      "text": "And so here, \"I also have seen a big improvement with my hair and skin.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 934.64,
+      "end": 937.48,
+      "speaker": "Presenter",
+      "text": "Just don't expect it to work miracles overnight.\" Love this, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 937.74,
+      "end": 938.84,
+      "speaker": "Presenter",
+      "text": "\"Don't expect it to work miracles overnight.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 939.2,
+      "end": 944.2,
+      "speaker": "Presenter",
+      "text": "You might see a little difference in the first month or two, but it's going to take four to six for it to be more pronounced.\" Very interesting,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 944.2,
+      "end": 945.16,
+      "speaker": "Presenter",
+      "text": "k?",
+      "chunk": 3,
+      "timing": "interpolated"
+    },
+    {
+      "id": 157,
+      "start": 945.16,
+      "end": 948.02,
+      "speaker": "Presenter",
+      "text": "So this is also another belief that we can find, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 948.04,
+      "end": 951.04,
+      "speaker": "Presenter",
+      "text": "So it's going to take four to six for it to be more pronounced.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 951.36,
+      "end": 958.24,
+      "speaker": "Presenter",
+      "text": "Now this is something that we can lean into or this is something that we could say like, you know, our collagen is more effective. And if you have studies that show that",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 958.24,
+      "end": 962.82,
+      "speaker": "Presenter",
+      "text": "your collagen actually is more effective and people are getting results faster, well, enter Nourse Organics.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 962.88,
+      "end": 964.16,
+      "speaker": "Presenter",
+      "text": "That's essentially what they do.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 964.32,
+      "end": 968.4,
+      "speaker": "Presenter",
+      "text": "Their number one selling point is speed. It cleans skin skin in a week,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 968.64,
+      "end": 971.46,
+      "speaker": "Presenter",
+      "text": "right? Their skincare is that effective. He saw results in two weeks,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 971.92,
+      "end": 973.0,
+      "speaker": "Presenter",
+      "text": "two-week acne transformations,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 973.9,
+      "end": 975.46,
+      "speaker": "Presenter",
+      "text": "right? Acne gone in four days,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 976.12,
+      "end": 979.96,
+      "speaker": "Presenter",
+      "text": "right? Got rid of, tried everything, but this did it in days, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 980.2,
+      "end": 983.56,
+      "speaker": "Presenter",
+      "text": "Eight days, few days, not even a week, right? That is their main selling point.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 983.72,
+      "end": 987.42,
+      "speaker": "Presenter",
+      "text": "So speed is very, very important, and everybody should know that from Alex Hormozi offers, but",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 988.3,
+      "end": 994.12,
+      "speaker": "Presenter",
+      "text": "\"OP, there have been a number of clinical studies that have confirmed that collagen does help as you get older, probably won't make a difference for young adults.\" Very",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 994.12,
+      "end": 995.46,
+      "speaker": "Presenter",
+      "text": "interesting as well, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 995.88,
+      "end": 1001.38,
+      "speaker": "Presenter",
+      "text": "So if you're trying to do specific ads for younger people or trying to sell collagen to younger people, well, there you go.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 1001.38,
+      "end": 1007.0,
+      "speaker": "Presenter",
+      "text": "It might be a bad belief or like a bad market to go after just based off this. And the only other thing I want to say is like",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 1007.46,
+      "end": 1011.44,
+      "speaker": "Presenter",
+      "text": "don't take what some random person on Reddit says as like the almighty truth.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 1011.88,
+      "end": 1013.76,
+      "speaker": "Presenter",
+      "text": "Just edit as an insight for you to test,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1014.24,
+      "end": 1015.16,
+      "speaker": "Presenter",
+      "text": "that's it, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1015.78,
+      "end": 1022.34,
+      "speaker": "Presenter",
+      "text": "At the end of the day, \"Collagen supplements are basically a complex set of amino acids that provide the quantity of type of nutrients your body needs to create collagen for itself.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 1022.88,
+      "end": 1023.08,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 1023.6,
+      "end": 1029.06,
+      "speaker": "Presenter",
+      "text": "\"Like everything else, as we get older, our bodies are not as efficient converting the essential amino acids into the types of quantities needed for collagen production,\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 1029.06,
+      "end": 1031.74,
+      "speaker": "Presenter",
+      "text": "right? So this guy is literally an expert in this, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1031.86,
+      "end": 1036.9,
+      "speaker": "Presenter",
+      "text": "So we can leverage some of this, even if we want to write more educational scripts of like, what is collagen, how does it work, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1037.76,
+      "end": 1042.1,
+      "speaker": "Presenter",
+      "text": "This guy's just kind of more talking about things, okay? So he's more talking about studies. \"PS, topical collagen",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1042.1,
+      "end": 1044.78,
+      "speaker": "Presenter",
+      "text": "is the one that is marketing hoopla.\" Okay.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1045.14,
+      "end": 1049.46,
+      "speaker": "Presenter",
+      "text": "\"Collagen's molecular weight is much too high to be absorbed through the skin.\" So there you go,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1049.5,
+      "end": 1051.14,
+      "speaker": "Presenter",
+      "text": "super interesting thing there as well.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1051.14,
+      "end": 1056.3,
+      "speaker": "Presenter",
+      "text": "\"What brand do you use? Do you remember how long you had to wait? Okay, somewhat anecdotally, I played squash my whole life,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1056.66,
+      "end": 1058.98,
+      "speaker": "Presenter",
+      "text": "would have massive pain in my Achilles tendons,\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 1059.22,
+      "end": 1062.54,
+      "speaker": "Presenter",
+      "text": "okay? \"So pain in my Achilles tendons by the end of every season",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1062.54,
+      "end": 1066.14,
+      "speaker": "Presenter",
+      "text": "until I started taking collagen. And then since then, no pain at all in that area.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1066.9,
+      "end": 1071.3,
+      "speaker": "Presenter",
+      "text": "I didn't really change anything else, so I strongly suggest it or suspect it worked for me.\" So",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 1071.3,
+      "end": 1078.62,
+      "speaker": "Presenter",
+      "text": "Achilles ten- Right, this is, for example, like people don't even know if it's working, 'cause you can't, like, can't clearly tell, right? So that's why it's so hard to sometimes tell.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1078.78,
+      "end": 1080.9,
+      "speaker": "Presenter",
+      "text": "And you can see how many people are like, \"Which brand? What did you take?\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1081.72,
+      "end": 1084.18,
+      "speaker": "Presenter",
+      "text": "\"Glycine.\" Okay, it's been proven that collagen, okay, cool. So,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 1084.18,
+      "end": 1087.66,
+      "speaker": "Presenter",
+      "text": "I've I mean, I could keep going on this thread, but I'm going to just go to a different one.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 1088.56,
+      "end": 1091.78,
+      "speaker": "Presenter",
+      "text": "So let's go ahead and jump over to YouTube. I'm just going to search it in so my",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 1091.78,
+      "end": 1097.68,
+      "speaker": "Presenter",
+      "text": "entire uh recommended isn't, you know, doxed here. And let me maybe drag the screen up a little bit so",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 1097.68,
+      "end": 1102.16,
+      "speaker": "Presenter",
+      "text": "you guys can uh see everything clearly as well. Beautiful, and let's go over to YouTube.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 1102.9,
+      "end": 1104.1,
+      "speaker": "Presenter",
+      "text": "All right, cool. So",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 1104.1,
+      "end": 1107.08,
+      "speaker": "Presenter",
+      "text": "over here, I have just gone into YouTube,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 1107.08,
+      "end": 1110.46,
+      "speaker": "Presenter",
+      "text": "and I've searched up Menopause, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 1110.66,
+      "end": 1117.44,
+      "speaker": "Presenter",
+      "text": "Now, why have I done that? Well, for this collagen man brand specifically, they help a lot with women who are menopausal, basically,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 1117.76,
+      "end": 1119.78,
+      "speaker": "Presenter",
+      "text": "okay? And so what you can do here",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 1119.78,
+      "end": 1124.26,
+      "speaker": "Presenter",
+      "text": "is you can essentially take a look at different Shorts,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 1124.76,
+      "end": 1128.6,
+      "speaker": "Presenter",
+      "text": "you can watch long-term, er er long-term, short-form videos,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 1128.6,
+      "end": 1131.84,
+      "speaker": "Presenter",
+      "text": "right? Like look at these videos that are getting tons",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 1131.84,
+      "end": 1133.94,
+      "speaker": "Presenter",
+      "text": "of views, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 1134.28,
+      "end": 1137.44,
+      "speaker": "Presenter",
+      "text": "Show more. Look at this, 816,000, 840,000,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 1137.66,
+      "end": 1141.54,
+      "speaker": "Presenter",
+      "text": "right? 57, meh, \"6 Signs of Menopause,\" 208,000, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1142.06,
+      "end": 1147.92,
+      "speaker": "Presenter",
+      "text": "And so we can get so much information from this, and we can, a lot of the times, find desires, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1148.1,
+      "end": 1151.24,
+      "speaker": "Presenter",
+      "text": "So \"Menopause Explained Clearly: Includes HRT &",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1152.72,
+      "end": 1157.32,
+      "speaker": "Presenter",
+      "text": "I I should be able to know this, my brain's just too tired. But this has 174,000 views, guys,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1157.64,
+      "end": 1159.68,
+      "speaker": "Presenter",
+      "text": "okay? So let's go ahead and,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1160.18,
+      "end": 1164.64,
+      "speaker": "Presenter",
+      "text": "before we even watch the video, which I would highly recommend watch the video, but I'm not going to film myself watching a video,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1164.64,
+      "end": 1168.48,
+      "speaker": "Presenter",
+      "text": "I'm going to watch some of it and let you know if I find anything, okay? I'm going to scroll down,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1168.54,
+      "end": 1171.84,
+      "speaker": "Presenter",
+      "text": "and I'm going to look at these 98 comments, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 215,
+      "start": 1172.0,
+      "end": 1178.2,
+      "speaker": "Presenter",
+      "text": "\"I've always taken care of myself, going to the gym, eating right, and choosing natural remedies over Big Pharma. Unfortunately,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 216,
+      "start": 1178.42,
+      "end": 1181.82,
+      "speaker": "Presenter",
+      "text": "it is almost impossible to exercise when you're exhausted all the time though.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1182.74,
+      "end": 1187.0,
+      "speaker": "Presenter",
+      "text": "Wow, really interesting there, okay? So,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1187.0,
+      "end": 1194.38,
+      "speaker": "Presenter",
+      "text": "this person is in a state of just like they have purely accepted menopause for what it is, right? And",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1194.38,
+      "end": 1199.9,
+      "speaker": "Presenter",
+      "text": "they're just like, yeah, I've done everything and it is impossible for me to work out. Look how many likes this has, right? Like so many people",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1199.9,
+      "end": 1201.94,
+      "speaker": "Presenter",
+      "text": "just feel defeated, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1202.76,
+      "end": 1212.52,
+      "speaker": "Presenter",
+      "text": "\"I'm doing this hormone, they make it at a compounding pharmacy, and it's all-natural. I'm very sensitive, I was never able to use BC pills, but I'm doing well on this. If your doc doesn't know, find one who does. You can choose",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1212.52,
+      "end": 1213.88,
+      "speaker": "Presenter",
+      "text": "pellets or whatever that is.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1214.14,
+      "end": 1227.1,
+      "speaker": "Presenter",
+      "text": "Here we have, \"I am learning to embrace a sleep schedule. I hate to admit it because I have to run off of 5 hours sleep for much of my life, but getting good sleep helps. The fatigue is no joke, but getting better sleep is helping.\" So, there you go, better sleep",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1227.1,
+      "end": 1229.88,
+      "speaker": "Presenter",
+      "text": "is interesting, so three people liked that as well.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1229.88,
+      "end": 1235.04,
+      "speaker": "Presenter",
+      "text": "\"It's not for the weak or faint of heart. You can still take meds and hormones and eat healthy and exercise.\" So,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1235.04,
+      "end": 1240.1,
+      "speaker": "Presenter",
+      "text": "again, \"I used to say when I was younger I can't wait till this is over, now I wish I could go back. This is way worse.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1240.7,
+      "end": 1247.18,
+      "speaker": "Presenter",
+      "text": "Very interesting, right? And so you have to understand like where these people are at. I'm actually going to jot this down here cuz I think it's super fire. Um,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 228,
+      "start": 1248.26,
+      "end": 1251.36,
+      "speaker": "Presenter",
+      "text": "you can just kind of see how these women feel,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1251.7,
+      "end": 1260.8,
+      "speaker": "Presenter",
+      "text": "right? \"I've been going through perimenopause since I was 43, I'm now 48, it's so annoying. My hair is thinning, I'm moody, emotionally drained, and sometimes depressed. It's a tough situation,\" right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1261.52,
+      "end": 1266.9,
+      "speaker": "Presenter",
+      "text": "These are all things, okay? And if you're really struggling to turn these into desires, what you can do",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1266.9,
+      "end": 1270.42,
+      "speaker": "Presenter",
+      "text": "is you can also just go into ChatGPT and say, \"Hey Chat,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1271.82,
+      "end": 1273.12,
+      "speaker": "Presenter",
+      "text": "based off",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1273.12,
+      "end": 1273.54,
+      "speaker": "Presenter",
+      "text": "of",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1273.54,
+      "end": 1274.14,
+      "speaker": "Presenter",
+      "text": "these",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1274.14,
+      "end": 1274.82,
+      "speaker": "Presenter",
+      "text": "comments,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1275.58,
+      "end": 1277.52,
+      "speaker": "Presenter",
+      "text": "what would be the desire",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1277.52,
+      "end": 1278.92,
+      "speaker": "Presenter",
+      "text": "that",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1278.92,
+      "end": 1279.46,
+      "speaker": "Presenter",
+      "text": "people",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1279.46,
+      "end": 1280.72,
+      "speaker": "Presenter",
+      "text": "actually have?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1282.56,
+      "end": 1283.4,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1284.4,
+      "end": 1284.68,
+      "speaker": "Presenter",
+      "text": "And for",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1284.68,
+      "end": 1285.24,
+      "speaker": "Presenter",
+      "text": "context,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1285.82,
+      "end": 1288.84,
+      "speaker": "Presenter",
+      "text": "here is the definition of desire.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1291.96,
+      "end": 1292.8,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1293.36,
+      "end": 1295.84,
+      "speaker": "Presenter",
+      "text": "And what you can do is you can go to our doc. We have desires,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1296.52,
+      "end": 1304.62,
+      "speaker": "Presenter",
+      "text": "blo͞op. This is Command+A for those of you guys who aren't shortcut nerds, Command+A, Command+C, bada boom. Go over here.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1306.82,
+      "end": 1309.86,
+      "speaker": "Presenter",
+      "text": "And this is where I'm going to put in comments, so, comments.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1311.84,
+      "end": 1313.94,
+      "speaker": "Presenter",
+      "text": "Now, let's drop this in, see what else we got.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1315.36,
+      "end": 1316.3,
+      "speaker": "Presenter",
+      "text": "\"This is way worse.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1319.32,
+      "end": 1320.62,
+      "speaker": "Presenter",
+      "text": "Let's see what else we got here.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1322.9,
+      "end": 1336.04,
+      "speaker": "Presenter",
+      "text": "\"I've been going through\" we already read that. \"This was so much better than my one-hour lecture.\" \"I'm 45, been perimenopausal for 9 years. These last 2 years have been the worst. I hope when I do go into menopause, I've already dealt with the worst symptoms and sail through it. I don't know who I am anymore.\" Wow,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1336.04,
+      "end": 1341.18,
+      "speaker": "Presenter",
+      "text": "very, \"and I'm on HRT.\" Very, very, very powerful, like",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1341.8,
+      "end": 1343.9,
+      "speaker": "Presenter",
+      "text": "these people are in a lot of pain, you know what I mean?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 254,
+      "start": 1343.9,
+      "end": 1346.12,
+      "speaker": "Presenter",
+      "text": "Um,",
+      "chunk": 4,
+      "timing": "interpolated"
+    },
+    {
+      "id": 255,
+      "start": 1346.12,
+      "end": 1356.34,
+      "speaker": "Presenter",
+      "text": "\"Going through it at 65.\" \"I went through it at 48, but did not experience symptoms until 58. My body rages 6 times a day. I want out. I feel like a car when you rev up the engine until, I want it to end.\" Brutal.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1358.44,
+      "end": 1359.78,
+      "speaker": "Presenter",
+      "text": "So, let's paste this in,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1359.78,
+      "end": 1367.3,
+      "speaker": "Presenter",
+      "text": "and let's just see what what Chat cooks up. You can use Claude, you can use ChatGPT, it doesn't matter what they're actually saying. So, from the comments, loss of identity:",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1367.3,
+      "end": 1377.14,
+      "speaker": "Presenter",
+      "text": "\"I don't know who I am anymore,\" emotional struggle: moody, physical suffering: hair is thinning, wishing for relief: \"I want out,\" regret and nostalgia: \"I used to say this,\" right? So, underlying desire, the",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1377.16,
+      "end": 1380.02,
+      "speaker": "Presenter",
+      "text": "the core mass desire here is to feel like themselves again, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 260,
+      "start": 1380.22,
+      "end": 1383.56,
+      "speaker": "Presenter",
+      "text": "To regain health, stability, and control over their body and emotions. If we run",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1383.56,
+      "end": 1396.08,
+      "speaker": "Presenter",
+      "text": "through the permanent forces lens, or permanent forces lens, so health and survival, so stop symptoms, regain energy, control, not being at the mercy of hot flashes, mood swings, or depression, comfort, belonging, okay? How it channels into desire: When you",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 262,
+      "start": 1396.08,
+      "end": 1409.44,
+      "speaker": "Presenter",
+      "text": "zoom out, the desire isn't just fix hot flashes or grow hair back. The deeper want is \"I want to feel normal again, in control of my body, and emotionally balanced, so I can enjoy the life instead of enduring it.\" That's desire you channel into any product, offer, or positioning, okay? So,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 263,
+      "start": 1409.44,
+      "end": 1412.2,
+      "speaker": "Presenter",
+      "text": "this is really like they want to feel normal again.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 264,
+      "start": 1413.32,
+      "end": 1414.04,
+      "speaker": "Presenter",
+      "text": "Huge desire,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 265,
+      "start": 1414.78,
+      "end": 1416.24,
+      "speaker": "Presenter",
+      "text": "okay? Ah, we're cheating again.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 266,
+      "start": 1416.72,
+      "end": 1420.32,
+      "speaker": "Presenter",
+      "text": "So, we're going to go back into our desire hunting, and we're going to pop this here, so",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 267,
+      "start": 1420.32,
+      "end": 1422.06,
+      "speaker": "Presenter",
+      "text": "this is probably the most powerful one,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 268,
+      "start": 1422.06,
+      "end": 1424.04,
+      "speaker": "Presenter",
+      "text": "right? \"I want to feel normal again.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 269,
+      "start": 1425.06,
+      "end": 1425.8,
+      "speaker": "Presenter",
+      "text": "Let's go into",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 270,
+      "start": 1425.8,
+      "end": 1428.1,
+      "speaker": "Presenter",
+      "text": "\"I want to be in control of my body,\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 271,
+      "start": 1429.02,
+      "end": 1429.38,
+      "speaker": "Presenter",
+      "text": "okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 272,
+      "start": 1431.58,
+      "end": 1435.12,
+      "speaker": "Presenter",
+      "text": "We're just we're just touching the surface, guys. We've got we've got a lot of work to do.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 273,
+      "start": 1435.12,
+      "end": 1438.86,
+      "speaker": "Presenter",
+      "text": "But this is where a lot of the gold is is found, right? We're in the trenches, we're we're deep.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 274,
+      "start": 1438.86,
+      "end": 1441.4,
+      "speaker": "Presenter",
+      "text": "Um, \"I want to enjoy my life",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 275,
+      "start": 1441.4,
+      "end": 1447.48,
+      "speaker": "Presenter",
+      "text": "instead of enduring it. Wow. Super, super powerful, right? I want to enjoy my",
+      "chunk": 4,
+      "timing": "whisper",
+      "source": "local_whisper_fill"
+    },
+    {
+      "id": 276,
+      "start": 1447.48,
+      "end": 1450.84,
+      "speaker": "Presenter",
+      "text": "I want to enjoy my life, so if I'm doing it.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 277,
+      "start": 1451.28,
+      "end": 1454.34,
+      "speaker": "Presenter",
+      "text": "Okay, and so now what I'm going to do as well is I'm going to go up,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 278,
+      "start": 1455.0,
+      "end": 1456.4,
+      "speaker": "Presenter",
+      "text": "I'm going to watch this 10-minute video.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 279,
+      "start": 1456.58,
+      "end": 1457.86,
+      "speaker": "Presenter",
+      "text": "Okay, I'm going to pause this, obviously,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 280,
+      "start": 1458.26,
+      "end": 1461.24,
+      "speaker": "Presenter",
+      "text": "but I want you guys to understand that also a part of this goal",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 281,
+      "start": 1461.24,
+      "end": 1465.36,
+      "speaker": "Presenter",
+      "text": "is just become an expert on this.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 282,
+      "start": 1465.78,
+      "end": 1468.16,
+      "speaker": "Presenter",
+      "text": "Like the, we're about to watch someone talk about this.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 283,
+      "start": 1469.2,
+      "end": 1471.58,
+      "speaker": "Presenter",
+      "text": "And so, we need to understand all this stuff, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 284,
+      "start": 1471.58,
+      "end": 1476.34,
+      "speaker": "Presenter",
+      "text": "A lot of you guys are like marketing to these women who are, you know, going through menopause as an example,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 285,
+      "start": 1476.34,
+      "end": 1478.16,
+      "speaker": "Presenter",
+      "text": "and you're like, why won't they buy my gadget?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 286,
+      "start": 1478.52,
+      "end": 1480.18,
+      "speaker": "Presenter",
+      "text": "Or like, why won't they buy my freaking supplement?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 287,
+      "start": 1480.22,
+      "end": 1483.04,
+      "speaker": "Presenter",
+      "text": "And it's like, you don't understand them. You don't even know what they're going through,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 288,
+      "start": 1483.04,
+      "end": 1483.76,
+      "speaker": "Presenter",
+      "text": "okay?",
+      "chunk": 5,
+      "timing": "interpolated"
+    },
+    {
+      "id": 289,
+      "start": 1483.76,
+      "end": 1484.98,
+      "speaker": "Presenter",
+      "text": "So, I'm going to go ahead and watch this video.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 290,
+      "start": 1485.24,
+      "end": 1489.18,
+      "speaker": "Presenter",
+      "text": "I'm going to pause if I get some sauce, and then we can talk about it.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 291,
+      "start": 1489.3,
+      "end": 1491.3,
+      "speaker": "Presenter",
+      "text": "But I'm going to go ahead and click through.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 292,
+      "start": 1492.14,
+      "end": 1493.92,
+      "speaker": "Presenter",
+      "text": "All right, and we're back. So, I watched the video.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 293,
+      "start": 1494.14,
+      "end": 1496.74,
+      "speaker": "Presenter",
+      "text": "I didn't pause it because there wasn't, I mean, it was just more new information,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 294,
+      "start": 1497.32,
+      "end": 1500.16,
+      "speaker": "Presenter",
+      "text": "wasn't really getting desires from this. We might be getting a little bit carried away",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 295,
+      "start": 1500.16,
+      "end": 1502.42,
+      "speaker": "Presenter",
+      "text": "on just like information, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 296,
+      "start": 1502.44,
+      "end": 1505.86,
+      "speaker": "Presenter",
+      "text": "But I did learn some really, some really good things, right? So, it's like,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 297,
+      "start": 1505.86,
+      "end": 1508.92,
+      "speaker": "Presenter",
+      "text": "something I didn't know about this, and this is why it's important for you guys to know this, is",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 298,
+      "start": 1508.92,
+      "end": 1511.02,
+      "speaker": "Presenter",
+      "text": "the average duration of this is seven years.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 299,
+      "start": 1511.16,
+      "end": 1514.68,
+      "speaker": "Presenter",
+      "text": "Seven years! Like that is, that's crazy, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 300,
+      "start": 1514.76,
+      "end": 1519.34,
+      "speaker": "Presenter",
+      "text": "Hot flashes and night sweats, science literally said, science doesn't even know why this happens, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 301,
+      "start": 1519.5,
+      "end": 1521.76,
+      "speaker": "Presenter",
+      "text": "So, that's something that you can lean into as well, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 302,
+      "start": 1521.96,
+      "end": 1524.8,
+      "speaker": "Presenter",
+      "text": "And so, also understanding this is very, very important,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 303,
+      "start": 1524.8,
+      "end": 1530.96,
+      "speaker": "Presenter",
+      "text": "but again, if you're really wanting to find strong wants and desires, you're going to want to look at where your customers are talking.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 304,
+      "start": 1531.62,
+      "end": 1534.06,
+      "speaker": "Presenter",
+      "text": "I do actually want to go back and watch some of those YouTube shorts,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 305,
+      "start": 1534.92,
+      "end": 1537.96,
+      "speaker": "Presenter",
+      "text": "so we're back here, and for example, we can scroll down to the shorts section,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 306,
+      "start": 1537.96,
+      "end": 1541.18,
+      "speaker": "Presenter",
+      "text": "and look at this, you know, 1.9 million views, so let's go ahead",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 307,
+      "start": 1541.18,
+      "end": 1544.72,
+      "speaker": "Presenter",
+      "text": "and watch this video. I don't know if you guys could be able to hear it, but let's just watch it, because it should be short.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 308,
+      "start": 1544.72,
+      "end": 1547.46,
+      "speaker": "Played audio",
+      "text": "Here are 10 perimenopause tips I wish I knew sooner.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 309,
+      "start": 1547.7,
+      "end": 1550.04,
+      "speaker": "Played audio",
+      "text": "I'm Dr. Mary Claire Haver, board-certified OB-GYN.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 310,
+      "start": 1550.4,
+      "end": 1555.8,
+      "speaker": "Played audio",
+      "text": "Number one: Inflammation is the root cause of so many things that are starting to ail us,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 311,
+      "start": 1555.8,
+      "end": 1559.36,
+      "speaker": "Played audio",
+      "text": "and anti-inflammatory nutrition is the best way to combat it.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 312,
+      "start": 1559.68,
+      "end": 1562.92,
+      "speaker": "Played audio",
+      "text": "Number two: Intermittent fasting is incredible at fighting inflammation.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 313,
+      "start": 1563.72,
+      "end": 1565.5,
+      "speaker": "Played audio",
+      "text": "Number three: Make sure I'm getting enough magnesium.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 314,
+      "start": 1566.3,
+      "end": 1568.46,
+      "speaker": "Played audio",
+      "text": "Number four: Make sure I'm getting enough vitamin D.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 315,
+      "start": 1568.86,
+      "end": 1572.02,
+      "speaker": "Played audio",
+      "text": "Number five: Make sure I'm getting enough omega-3 fatty acids.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 316,
+      "start": 1572.46,
+      "end": 1574.96,
+      "speaker": "Presenter",
+      "text": "All right, cool. So, I know it just went dark over here, I don't know why.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 317,
+      "start": 1575.1,
+      "end": 1578.32,
+      "speaker": "Presenter",
+      "text": "Um, but like this girl is spitting some games, got 2 million views.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 318,
+      "start": 1578.54,
+      "end": 1580.22,
+      "speaker": "Presenter",
+      "text": "Now, let's check the comments. What do the comments say, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 319,
+      "start": 1580.74,
+      "end": 1585.44,
+      "speaker": "Presenter",
+      "text": "So, she wrote everything down. Sleep hygiene, set boundaries, exercise, self-care, you're welcome.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 320,
+      "start": 1585.74,
+      "end": 1588.2,
+      "speaker": "Presenter",
+      "text": "Okay. Look at all these replies here, so, \"Thank you, thank you.\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 321,
+      "start": 1588.34,
+      "end": 1590.96,
+      "speaker": "Presenter",
+      "text": "\"Vitamin, 500 milligrams.\" \"I believe intermittent fasting caused my\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 322,
+      "start": 1592.66,
+      "end": 1592.66,
+      "speaker": "Presenter",
+      "text": "\"morning.\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 323,
+      "start": 1593.36,
+      "end": 1596.52,
+      "speaker": "Presenter",
+      "text": "Okay, cool. So, \"For menopause, it sounds like tips for life in general.\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 324,
+      "start": 1596.52,
+      "end": 1600.12,
+      "speaker": "Presenter",
+      "text": "\"Tip: Do not depend on your physician for everything that you need to know,\" right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 325,
+      "start": 1600.3,
+      "end": 1604.28,
+      "speaker": "Presenter",
+      "text": "So, very interesting. People seem to have a belief against doctors in a way, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 326,
+      "start": 1605.5,
+      "end": 1611.16,
+      "speaker": "Presenter",
+      "text": "\"Healthcare doesn't cover this.\" This is a really interesting one. \"So baffling why insurance won't cover healthcare needs,\" right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 327,
+      "start": 1611.84,
+      "end": 1617.08,
+      "speaker": "Presenter",
+      "text": "So, so interesting. Like this is clearly a very big thing.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 328,
+      "start": 1617.08,
+      "end": 1622.92,
+      "speaker": "Presenter",
+      "text": "So, it's like healthcare doesn't, you know, healthcare doesn't take care of you,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 329,
+      "start": 1622.98,
+      "end": 1623.86,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 330,
+      "start": 1624.8,
+      "end": 1629.4,
+      "speaker": "Presenter",
+      "text": "That is, that's a serious topic. That is an ad idea that we could definitely go into as well.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 331,
+      "start": 1629.4,
+      "end": 1631.6,
+      "speaker": "Presenter",
+      "text": "And again, I'm just looking for kind of like the juicy things.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 332,
+      "start": 1631.6,
+      "end": 1635.68,
+      "speaker": "Presenter",
+      "text": "But now that said, we've spent about 30 minutes or so doing this, okay,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 333,
+      "start": 1635.68,
+      "end": 1639.18,
+      "speaker": "Presenter",
+      "text": "or about 25 minutes. And so, and I actually watched a 10-minute video, so it's been about 30, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 334,
+      "start": 1639.42,
+      "end": 1645.02,
+      "speaker": "Presenter",
+      "text": "And so, you could see here, just from like 30 minutes of this, I'm able to get an idea of like, okay, I know one of the strongest desires that people have here",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 335,
+      "start": 1645.02,
+      "end": 1647.68,
+      "speaker": "Presenter",
+      "text": "is like I want to feel normal again, and I want to take control of my body.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 336,
+      "start": 1647.68,
+      "end": 1650.86,
+      "speaker": "Presenter",
+      "text": "I've got some language snippets here. I've got already two really solid ad ideas.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 337,
+      "start": 1651.46,
+      "end": 1655.86,
+      "speaker": "Presenter",
+      "text": "Honestly, could probably get a lot more just trying to focus on desires specifically.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 338,
+      "start": 1657.02,
+      "end": 1660.64,
+      "speaker": "Presenter",
+      "text": "Uh, but let's go ahead and let's AI it, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 339,
+      "start": 1660.88,
+      "end": 1663.2,
+      "speaker": "Presenter",
+      "text": "And so, if you guys could see here below, and I would recommend",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 340,
+      "start": 1663.2,
+      "end": 1668.76,
+      "speaker": "Presenter",
+      "text": "that you guys should go and do some manual research alongside this, just like I'm doing right now,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 341,
+      "start": 1668.76,
+      "end": 1672.44,
+      "speaker": "Presenter",
+      "text": "because the truth is is the, the research that you do",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 342,
+      "start": 1672.44,
+      "end": 1673.82,
+      "speaker": "Presenter",
+      "text": "works more on you than you work on it.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 343,
+      "start": 1673.94,
+      "end": 1678.56,
+      "speaker": "Presenter",
+      "text": "I've said that so many times, but when you do research, now all of a sudden, I know, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 344,
+      "start": 1678.8,
+      "end": 1683.3,
+      "speaker": "Presenter",
+      "text": "So, maybe the next time, you know, I see some women in her, some woman in her 50s",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 345,
+      "start": 1683.3,
+      "end": 1686.68,
+      "speaker": "Presenter",
+      "text": "and, you know, she snaps at me, I'm just going to be like, \"I'm sorry.\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 346,
+      "start": 1686.92,
+      "end": 1691.94,
+      "speaker": "Presenter",
+      "text": "Like, \"I don't, I don't even want to know what you're going through.\" You know what I'm saying? So, it's like it just gives you a different perspective on things.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 347,
+      "start": 1692.24,
+      "end": 1696.4,
+      "speaker": "Presenter",
+      "text": "And so, it's very, very important to make sure that you guys do this as well, because just, you know, having AI do everything,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 348,
+      "start": 1696.4,
+      "end": 1699.88,
+      "speaker": "Presenter",
+      "text": "a lot of the times doesn't really help. But what do we have here?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 349,
+      "start": 1700.0,
+      "end": 1703.58,
+      "speaker": "Presenter",
+      "text": "So, the main prompt here, if you guys click this, it's going to take you down to this tab. So, what you're going to want to do",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 350,
+      "start": 1703.58,
+      "end": 1707.58,
+      "speaker": "Presenter",
+      "text": "is you want to copy this, you're going to go in the chat, and you're, well, actually,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 351,
+      "start": 1707.58,
+      "end": 1709.52,
+      "speaker": "Presenter",
+      "text": "you should fill all this in, so,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 352,
+      "start": 1709.52,
+      "end": 1713.2,
+      "speaker": "Presenter",
+      "text": "what we need to do is we going to need to go here, we need to Command A, Command C,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 353,
+      "start": 1713.44,
+      "end": 1717.8,
+      "speaker": "Presenter",
+      "text": "we're going to paste all this in, and this is where you're going to fill in your information specifically.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 354,
+      "start": 1717.84,
+      "end": 1721.6,
+      "speaker": "Presenter",
+      "text": "So, product URL and any angles that you have, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 355,
+      "start": 1721.6,
+      "end": 1725.96,
+      "speaker": "Presenter",
+      "text": "So, if we go back into GPT here, we can see insert product URL.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 356,
+      "start": 1726.02,
+      "end": 1730.02,
+      "speaker": "Presenter",
+      "text": "I would go to my website, I would grab not a landing page, but grab my actual product URL,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 357,
+      "start": 1730.44,
+      "end": 1733.84,
+      "speaker": "Presenter",
+      "text": "and then any specific angles that we're going after. So, for this brand specifically,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 358,
+      "start": 1733.84,
+      "end": 1735.66,
+      "speaker": "Presenter",
+      "text": "we're going after menopause and postpartum,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 359,
+      "start": 1735.96,
+      "end": 1739.38,
+      "speaker": "Presenter",
+      "text": "so those are two specific things that I put in there for the prompts that I actually ran.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 360,
+      "start": 1739.9,
+      "end": 1742.76,
+      "speaker": "Presenter",
+      "text": "And then from there, what you're going to do is you're going to add context, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 361,
+      "start": 1742.78,
+      "end": 1747.5,
+      "speaker": "Presenter",
+      "text": "I would recommend doing this with a Claude project, but a lot of you guys don't have like the paid version",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 362,
+      "start": 1747.5,
+      "end": 1751.74,
+      "speaker": "Presenter",
+      "text": "of stuff, and so what we're going to do is we're just to show you how to add context. So, here what you can do",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 363,
+      "start": 1751.74,
+      "end": 1757.94,
+      "speaker": "Presenter",
+      "text": "is you can actually download this specific file, I believe. If you can't, just go ahead and Command A and Command C,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 364,
+      "start": 1758.92,
+      "end": 1763.9,
+      "speaker": "Presenter",
+      "text": "Okay? But, ideally, what we can do here is we can just go and open a new doc, so let me do that.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 365,
+      "start": 1764.52,
+      "end": 1774.28,
+      "speaker": "Presenter",
+      "text": "Cool. So, I'm just opening a dummy doc here and I'm going to go ahead and paste in what I just copied. So, this is how to find if I could spell correctly. How to find desires guide, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 366,
+      "start": 1774.54,
+      "end": 1780.96,
+      "speaker": "Presenter",
+      "text": "And then, I can just go ahead and name this and I'm going to go ahead and actually update this in here as well, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 367,
+      "start": 1781.7,
+      "end": 1786.7,
+      "speaker": "Presenter",
+      "text": "And so, now what we're going to do is we're just going to download this, it just makes it easier, so download Microsoft Word, boom, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 368,
+      "start": 1786.72,
+      "end": 1790.3,
+      "speaker": "Presenter",
+      "text": "We've got that, I've already done this, so that's why I'm just showing you guys how to do it again.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 369,
+      "start": 1790.6,
+      "end": 1795.56,
+      "speaker": "Presenter",
+      "text": "Once we have that context, you're then going to go into your product overview document that you should have already done.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 370,
+      "start": 1795.56,
+      "end": 1801.78,
+      "speaker": "Presenter",
+      "text": "So, we're going to copy this, we're going to go ahead and delete all this, paste it back in, now we're going to change the title, boom, product overview document.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 371,
+      "start": 1802.08,
+      "end": 1808.32,
+      "speaker": "Presenter",
+      "text": "And, again, we're going to download this one, Microsoft Word, fantastic, and boom, we're going to drop those in, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 372,
+      "start": 1808.36,
+      "end": 1813.54,
+      "speaker": "Presenter",
+      "text": "And then what you're going to do is you're going to click plus here, and you'll click Deep Research, and you're going to hit go, all right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 373,
+      "start": 1813.98,
+      "end": 1818.24,
+      "speaker": "Presenter",
+      "text": "I've already done this, so, you know, I don't need to do this, I mean I'll send it again just for fun.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 374,
+      "start": 1818.6,
+      "end": 1823.56,
+      "speaker": "Presenter",
+      "text": "And you'll see thanks for the detailed prompt, uh angle I didn't even I didn't even add the URL, so I need to do that.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 375,
+      "start": 1823.82,
+      "end": 1825.98,
+      "speaker": "Presenter",
+      "text": "Let's just Let me just go ahead and do that super quickly.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 376,
+      "start": 1826.66,
+      "end": 1832.1,
+      "speaker": "Presenter",
+      "text": "All right, beautiful. So, got the brand, we got the angles in there, I'm going to go ahead and pop that in there. Great, I'll do comprehensive comprehensive research.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 377,
+      "start": 1832.72,
+      "end": 1839.28,
+      "speaker": "Presenter",
+      "text": "And, ideally, you do this and then you go and do manual research. You don't go play Fortnite or Minecraft or whatever the heck people do.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 378,
+      "start": 1839.5,
+      "end": 1843.26,
+      "speaker": "Presenter",
+      "text": "You know, go check your ad account and and, you know, reset the budget and duplicate ad sets.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 379,
+      "start": 1843.5,
+      "end": 1848.36,
+      "speaker": "Presenter",
+      "text": "Um, you're going to let this cook and then you're going to do your research. Now, thankfully, I've already done this.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 380,
+      "start": 1848.58,
+      "end": 1853.18,
+      "speaker": "Presenter",
+      "text": "And so, let's take a look at what is actually going on here, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 381,
+      "start": 1853.22,
+      "end": 1859.84,
+      "speaker": "Presenter",
+      "text": "And so, consumer desires driving interest in Medaglow collagen, menopause and postpartum, okay? So, overview, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 382,
+      "start": 1860.06,
+      "end": 1867.26,
+      "speaker": "Presenter",
+      "text": "So, now, what we're going to do is again we're going to have our doc here that has our you know desire hunting in here, okay? The AI is just doing the hunting for us.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 383,
+      "start": 1867.5,
+      "end": 1875.7,
+      "speaker": "Presenter",
+      "text": "So, consumer desires driving interest Okay, so overview. Women in the US menopause and postpartum life stages share several core desires that draw them to collagen supplements like Medaglow, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 384,
+      "start": 1876.26,
+      "end": 1881.1,
+      "speaker": "Presenter",
+      "text": "These desires span uh from physical needs, so improved appearance, comfort, and health, and emotional needs, confidence and control.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 385,
+      "start": 1881.62,
+      "end": 1889.76,
+      "speaker": "Presenter",
+      "text": "Below, we detail each key desire category ranked from most powerful to least with real consumer quotes, analysis of underlying motivators, permanent forces or frustrations,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 386,
+      "start": 1890.36,
+      "end": 1900.92,
+      "speaker": "Presenter",
+      "text": "an assessment of how widespread and intense each desire is and how Medaglow collagen can fulfill each need. Supporting evidence is drawn from US women's discussions on Reddit, Amazon reviews, forums, and expert sources.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 387,
+      "start": 1901.06,
+      "end": 1910.24,
+      "speaker": "Presenter",
+      "text": "So, for those of you that don't know, essentially what chat is doing here is it's doing exactly what you or like what I just did, but it's literally just searching on the internet.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 388,
+      "start": 1910.42,
+      "end": 1921.74,
+      "speaker": "Presenter",
+      "text": "Now, for those of you have that've seen a tool, I'm not even going to mention it, but there's another tool out there that's just like it's got a computer screen doing It's just an AI that's clicking around the internet for you, okay? And it's gathering data and storing it and it's doing a pretty good job.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 389,
+      "start": 1921.74,
+      "end": 1928.76,
+      "speaker": "Presenter",
+      "text": "So, let's take a look at this one. So, regaining healthy body weight and shape. So, this is one of the biggest desires that I guess people have",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 390,
+      "start": 1928.76,
+      "end": 1937.22,
+      "speaker": "Presenter",
+      "text": "according to the AI. So, I want to feel normal again. I want to be in control of my body. Well, look at that, we already kind of had it, right? So, we can jot that there and we can maybe add a, you know, a plus one for that.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 391,
+      "start": 1937.34,
+      "end": 1945.74,
+      "speaker": "Presenter",
+      "text": "Um, but let's take a look. So, many women in both menopause and postpartum stages desperately want to lose excess weight gained due to hormonal changes and feel in shape again.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 392,
+      "start": 1946.14,
+      "end": 1951.48,
+      "speaker": "Presenter",
+      "text": "This desire is often tied to feeling healthy, attractive, and like myself once more after body transformations.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 393,
+      "start": 1951.68,
+      "end": 1956.88,
+      "speaker": "Presenter",
+      "text": "So, consumer sentiment, postpartum mothers frequently describe frustration and sadness in lingering baby weight, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 394,
+      "start": 1957.1,
+      "end": 1969.16,
+      "speaker": "Presenter",
+      "text": "For example, one new mom confessed, \"I gained 50 lb, I'm at my breaking point, I don't know how I'll ever feel like myself again, I'm a shell of a human. If I could look in the mirror and see someone even remotely close to who I was before, maybe I'd be a little bit more patient and happy.\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 395,
+      "start": 1969.98,
+      "end": 1980.84,
+      "speaker": "Presenter",
+      "text": "Right? Menopausal women similarly report unexpected weight creep despite no lifestyle changes. A common complaint amongst women entering menopause is weight gain. They haven't changed their diet or lifestyle and yet weight is slowly creeping up, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 396,
+      "start": 1981.56,
+      "end": 1996.68,
+      "speaker": "Presenter",
+      "text": "All really good things. The weight is not uh The weight gain is not just aesthetic. One woman noted that physical discomfort, \"I feel like I'm wearing a weighted suit every day, it's painful, and at the end of the day, my body and feet ache from carrying so much excess fat.\" Pretty intense, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 397,
+      "start": 1996.82,
+      "end": 2004.24,
+      "speaker": "Presenter",
+      "text": "Motivations, the real drive behind weight loss is both health-related, permanent focus or permanent force of well-being, and psychological.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 398,
+      "start": 2004.88,
+      "end": 2011.02,
+      "speaker": "Presenter",
+      "text": "Extra weight can impede uh comfort and mobility, frustration with physical limitations, and uh harm self-image or status.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 399,
+      "start": 2011.62,
+      "end": 2022.48,
+      "speaker": "Presenter",
+      "text": "Postpartum women long to get their body back as a way to regain control and confidence after pregnancy, while menopausal women see weight management as key to aging well and not letting themselves go. Really good term there, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 400,
+      "start": 2022.84,
+      "end": 2031.14,
+      "speaker": "Presenter",
+      "text": "There's also a social element, postpartum moms compare themselves to peers who bounced back, and midlife women feel pressure to remain fit to maintain self-esteem and social marital attractiveness.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 401,
+      "start": 2031.14,
+      "end": 2038.24,
+      "speaker": "Presenter",
+      "text": "Okay, so desire strength, very widespread, urgency, high urgency, and staying power, it's long-term. Losing weight and maintaining shape is recurring battle.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 402,
+      "start": 2038.52,
+      "end": 2043.84,
+      "speaker": "Presenter",
+      "text": "Um, how this satisfies it, so then it kind of adds in the product, which is great. Restoring hair volume and strength, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 403,
+      "start": 2044.18,
+      "end": 2049.68,
+      "speaker": "Presenter",
+      "text": "We've been through that. Youthful skin moisture and appearance, okay? Joint comfort and flexibility, okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 404,
+      "start": 2050.06,
+      "end": 2058.16,
+      "speaker": "Presenter",
+      "text": "And then down here, bone strength and resilience, cuz we actually just learned about that in the YouTube video that it actually decreases um bone density by like 12% or something like that.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 405,
+      "start": 2058.52,
+      "end": 2066.18,
+      "speaker": "Presenter",
+      "text": "Emotional well-being and confidence, right? Super long here. Common complaints, concerns, and preferences. In researching the concern uh consumer discussions,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 406,
+      "start": 2066.32,
+      "end": 2074.4,
+      "speaker": "Presenter",
+      "text": "a few common complaints and preferences emerged regarding collagen products. Um can pre-empt or address these to better satisfy customers. So, taste and format,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 407,
+      "start": 2074.42,
+      "end": 2082.8,
+      "speaker": "Presenter",
+      "text": "many women dislike So, now we're getting into like the tech kind of problems, right? So, around our product. So, again, just because these desires exist,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 408,
+      "start": 2082.8,
+      "end": 2090.78,
+      "speaker": "Presenter",
+      "text": "doesn't mean you've cracked the code, okay? [laughter] Congratulations, you've understood someone, but now you know, you need to figure out how to actually give it,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 409,
+      "start": 2090.78,
+      "end": 2097.96,
+      "speaker": "Presenter",
+      "text": "because just because someone wants this, doesn't mean they'll believe it, right? And so, it's important that you help them see that you can actually deliver that desire",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 410,
+      "start": 2097.96,
+      "end": 2105.6,
+      "speaker": "Presenter",
+      "text": "because people are marketing towards those desires all day long, but what we need to do is we need to understand how do people currently view our our mechanism, okay? So, it tastes yucky, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 411,
+      "start": 2106.34,
+      "end": 2111.92,
+      "speaker": "Presenter",
+      "text": "switch to baking it into foods to mask it, okay. In contrast, others praise brands that have truly no flavor,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 412,
+      "start": 2111.92,
+      "end": 2113.98,
+      "speaker": "Presenter",
+      "text": "okay, or order or odor.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 413,
+      "start": 2114.42,
+      "end": 2119.84,
+      "speaker": "Presenter",
+      "text": "This shows a preference for flavorless, easily dissolving powder. Some women who can't tolerate powder taste opt",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 414,
+      "start": 2119.84,
+      "end": 2124.5,
+      "speaker": "Presenter",
+      "text": "for capsules or gummies. However, pills can be cumbersome if too many are required, bought collagen tablets",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 415,
+      "start": 2124.88,
+      "end": 2128.52,
+      "speaker": "Presenter",
+      "text": "said to take six tablets a day, they're huge. That's a no for me. Gummies and liquids are",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 416,
+      "start": 2128.52,
+      "end": 2134.18,
+      "speaker": "Presenter",
+      "text": "liked for taste, so convenient pleasant delivery, okay. Digestive issues, notable complaint from a subset of users",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 417,
+      "start": 2134.18,
+      "end": 2136.68,
+      "speaker": "Presenter",
+      "text": "is side effects on their gastrointestinal,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 418,
+      "start": 2139.0,
+      "end": 2142.52,
+      "speaker": "Presenter",
+      "text": "there we go, for everybody who knows how much I love English.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 419,
+      "start": 2142.52,
+      "end": 2150.48,
+      "speaker": "Presenter",
+      "text": "Some report collagen causes bloating or gas, makes me fart so badly I had to leave the room. I actually find that kind of funny.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 420,
+      "start": 2151.34,
+      "end": 2155.6,
+      "speaker": "Presenter",
+      "text": "You know, a side effect of that like Imagine just running an ad where it's like",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 421,
+      "start": 2156.34,
+      "end": 2161.48,
+      "speaker": "Presenter",
+      "text": "collagen that doesn't make you fart, like people people would be like Like, no one's running that, I haven't seen that ad, but",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 422,
+      "start": 2161.48,
+      "end": 2167.5,
+      "speaker": "Presenter",
+      "text": "that would be kind of funny. One menopausal user admitted bluntly with others chiming in and humorously that even their dogs",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 423,
+      "start": 2167.5,
+      "end": 2173.44,
+      "speaker": "Presenter",
+      "text": "fled the room. Others said it gives me really bad gut issues, and there's a mention that it can cause constipation in some cases.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 424,
+      "start": 2173.44,
+      "end": 2176.98,
+      "speaker": "Presenter",
+      "text": "This issue may depend on the source, okay. Additionally,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 425,
+      "start": 2177.4,
+      "end": 2180.42,
+      "speaker": "Presenter",
+      "text": "having graduation or gradual introduction to avoid too much.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 426,
+      "start": 2180.96,
+      "end": 2183.48,
+      "speaker": "Presenter",
+      "text": "Oh, this is so much sauce here. Price sensitivity",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 427,
+      "start": 2183.48,
+      "end": 2190.42,
+      "speaker": "Presenter",
+      "text": "came up frequently. A Reddit user noted cost that's going to add up when adding or considering a daily collagen habit.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 428,
+      "start": 2191.16,
+      "end": 2191.64,
+      "speaker": "Presenter",
+      "text": "Cool.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 429,
+      "start": 2192.56,
+      "end": 2197.22,
+      "speaker": "Presenter",
+      "text": "Three products in one. Results and evidence, a quiet concern some have, especially on skeptical forums,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 430,
+      "start": 2197.68,
+      "end": 2202.94,
+      "speaker": "Presenter",
+      "text": "is whether collagen really works or is it just hype. For example, Redditors pointed to news that studies say these supplements don't work,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 431,
+      "start": 2202.94,
+      "end": 2208.7,
+      "speaker": "Presenter",
+      "text": "or that collagen is just protein that gets broken down into planes no different than food, while many consumers are swayed by anecdotes,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 432,
+      "start": 2209.02,
+      "end": 2214.7,
+      "speaker": "Presenter",
+      "text": "a segment wants proof or at least plausible explanations, okay, cool. So, strategic recommendations,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 433,
+      "start": 2214.86,
+      "end": 2220.96,
+      "speaker": "Presenter",
+      "text": "so now it's giving us so focus on top desires, emotional connections, addresses complaints proactively. You see there's a lot of stuff here, and",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 434,
+      "start": 2220.96,
+      "end": 2227.02,
+      "speaker": "Presenter",
+      "text": "this is something that you're going to want to dive deep into and not just like skim it like I am. I'm just trying to show you guys all the things",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 435,
+      "start": 2227.02,
+      "end": 2232.42,
+      "speaker": "Presenter",
+      "text": "that this is giving us, okay. And then positioning, okay, a holistic solution for the challenges of hormonal transitions,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 436,
+      "start": 2233.18,
+      "end": 2235.94,
+      "speaker": "Presenter",
+      "text": "it's not just collagen, it's your daily ritual to thrive through menopause, postpartum, by acknowledging,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 437,
+      "start": 2235.94,
+      "end": 2240.18,
+      "speaker": "Presenter",
+      "text": "you know, the permanent forces, okay, cool, in your brain. Awesome. So,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 438,
+      "start": 2240.18,
+      "end": 2246.74,
+      "speaker": "Presenter",
+      "text": "again, I've skimmed through this, and the reason why is just to kind of show you the information that it gives you. Some of this stuff, if it resonates with you, great,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 439,
+      "start": 2246.74,
+      "end": 2252.8,
+      "speaker": "Presenter",
+      "text": "if it doesn't, that's fine, skip over it. What I would definitely be looking at here is just that core desires that people have. But honestly,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 440,
+      "start": 2253.08,
+      "end": 2258.22,
+      "speaker": "Presenter",
+      "text": "I kind of like Claude better for deep research. So, let's go see what Claude kicked up. So, bottom line upfront,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 441,
+      "start": 2258.6,
+      "end": 2264.94,
+      "speaker": "Presenter",
+      "text": "women experience menopause and postpartum transitions have five dominant desires that Menoglow collagen is uniquely positioned to address. So, number one,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 442,
+      "start": 2265.24,
+      "end": 2272.92,
+      "speaker": "Presenter",
+      "text": "regaining control over appetite and food cravings. Number two, looking like myself again amid rapid hormonal changes. Three, stopping the accelerating of invisible",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 443,
+      "start": 2272.92,
+      "end": 2277.1,
+      "speaker": "Presenter",
+      "text": "aging, breaking the stress weight gain cycle and finding convenient solutions that actually",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 444,
+      "start": 2277.1,
+      "end": 2281.72,
+      "speaker": "Presenter",
+      "text": "work without adding complexity to overwhelming lives, right. Understand, these people are very overwhelmed, right.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 445,
+      "start": 2281.82,
+      "end": 2287.0,
+      "speaker": "Presenter",
+      "text": "So, research, it's explaining the research. And then it is now starting to break down the desires. Again, regaining control",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 446,
+      "start": 2287.0,
+      "end": 2293.78,
+      "speaker": "Presenter",
+      "text": "over appetite and food cravings, you know, this here, you've been there in the midst of life's transition, noticing changes in your body",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 447,
+      "start": 2293.78,
+      "end": 2297.9,
+      "speaker": "Presenter",
+      "text": "that seem out of control. So, this is like just showing the evidence here, permanent force connection,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 448,
+      "start": 2298.98,
+      "end": 2304.34,
+      "speaker": "Presenter",
+      "text": "how Menoglow addresses. So, this specific ingredient ingredient here increases GLP-1 by 56%,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 449,
+      "start": 2304.34,
+      "end": 2307.94,
+      "speaker": "Presenter",
+      "text": "which directly restores natural appetite control and satiates,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 450,
+      "start": 2307.94,
+      "end": 2312.16,
+      "speaker": "Presenter",
+      "text": "you know, signaling that This is just It's a lot of language. So,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 451,
+      "start": 2312.16,
+      "end": 2316.82,
+      "speaker": "Presenter",
+      "text": "just to understand here, as we're kind of walking through this, this is like drinking out of a fire hose.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 452,
+      "start": 2318.4,
+      "end": 2319.78,
+      "speaker": "Presenter",
+      "text": "What you're looking at here",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 453,
+      "start": 2319.78,
+      "end": 2320.74,
+      "speaker": "Presenter",
+      "text": "is just",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 454,
+      "start": 2321.92,
+      "end": 2325.68,
+      "speaker": "Presenter",
+      "text": "to just consume as much of this as you can, okay? This is going to sound weird, but",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 455,
+      "start": 2325.68,
+      "end": 2331.3,
+      "speaker": "Presenter",
+      "text": "just by consuming this and actually taking a second to go through this and read this and actually sit down and",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 456,
+      "start": 2331.3,
+      "end": 2337.08,
+      "speaker": "Presenter",
+      "text": "like just absorb it all, try to digest as much as you can. If you go through all this and you're like,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 457,
+      "start": 2337.1,
+      "end": 2342.8,
+      "speaker": "Presenter",
+      "text": "\"I don't know what to put here,\" then what I would do is I would just go through this looking for specific ad ideas,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 458,
+      "start": 2343.92,
+      "end": 2344.28,
+      "speaker": "Presenter",
+      "text": "okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 459,
+      "start": 2344.28,
+      "end": 2349.88,
+      "speaker": "Presenter",
+      "text": "But more importantly, all this information is being stored in your brain, okay? And this is something where",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 460,
+      "start": 2349.88,
+      "end": 2356.36,
+      "speaker": "Presenter",
+      "text": "you're going to do this, like I'm You know, I might be pretty burnt out cuz I've already been doing this for about an hour now, and I probably need a bit of a brain break, but",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 461,
+      "start": 2356.36,
+      "end": 2360.22,
+      "speaker": "Presenter",
+      "text": "you take a break, okay? Take five, 10, 15 minutes,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 462,
+      "start": 2360.72,
+      "end": 2364.64,
+      "speaker": "Presenter",
+      "text": "come back, or even better, if you come back the next day, guess what? You're You're going to be looking",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 463,
+      "start": 2364.64,
+      "end": 2370.74,
+      "speaker": "Presenter",
+      "text": "at this completely differently, and you're going to see things that you didn't see. And so, that is the goal of this. This research is not just this thing that you do",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 464,
+      "start": 2370.74,
+      "end": 2372.72,
+      "speaker": "Presenter",
+      "text": "once, and then you're done, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 465,
+      "start": 2373.36,
+      "end": 2379.7,
+      "speaker": "Presenter",
+      "text": "Obviously, you need to do it before you make ads, and the process is like, okay, we're going to understand our product, we're going to understand desires, and then we're going to go through the rest of the things down here,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 466,
+      "start": 2381.26,
+      "end": 2385.82,
+      "speaker": "Presenter",
+      "text": "but it's important for you to understand that we also need to constantly",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 467,
+      "start": 2385.82,
+      "end": 2390.88,
+      "speaker": "Presenter",
+      "text": "do this, okay? Research specifically, always be looking for desires, always check in with the market and see what's going on,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 468,
+      "start": 2391.28,
+      "end": 2396.68,
+      "speaker": "Presenter",
+      "text": "okay? And so, with this, one of the things that I really like is this this regaining control over appetite and food cravings,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 469,
+      "start": 2397.1,
+      "end": 2403.78,
+      "speaker": "Presenter",
+      "text": "okay? So, \"I want to feel normal again.\" Again, \"I want to be in control, regaining healthy body weight and shape,\" right? And then another one here is, \"I want to be in control,\"",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 470,
+      "start": 2403.78,
+      "end": 2406.38,
+      "speaker": "Presenter",
+      "text": "and this is kind of regaining",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 471,
+      "start": 2407.06,
+      "end": 2412.04,
+      "speaker": "Presenter",
+      "text": "control over appetite and food cravings, okay? So, you can see control, control, control, control, control. This",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 472,
+      "start": 2412.04,
+      "end": 2414.36,
+      "speaker": "Presenter",
+      "text": "is what this consumer wants. And if we go to desires,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 473,
+      "start": 2414.36,
+      "end": 2415.34,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 474,
+      "start": 2416.02,
+      "end": 2417.14,
+      "speaker": "Presenter",
+      "text": "Control's down here,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 475,
+      "start": 2417.64,
+      "end": 2419.18,
+      "speaker": "Presenter",
+      "text": "but just to understand that for this",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 476,
+      "start": 2420.38,
+      "end": 2422.98,
+      "speaker": "Presenter",
+      "text": "remember for this avatar, for these people specifically,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 477,
+      "start": 2423.56,
+      "end": 2428.42,
+      "speaker": "Presenter",
+      "text": "okay, we actually ignore what you what you heard there about avatars. For this one here,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 478,
+      "start": 2429.1,
+      "end": 2431.56,
+      "speaker": "Presenter",
+      "text": "okay, we're seeing that control is a big thing,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 479,
+      "start": 2432.16,
+      "end": 2437.8,
+      "speaker": "Presenter",
+      "text": "okay? And again, control is having power, predict what happens, be in charge. These people feel like they have zero control over their bodies,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 480,
+      "start": 2437.8,
+      "end": 2442.14,
+      "speaker": "Presenter",
+      "text": "and to an extent, they do, okay? They, I mean, sorry, to an extent, they don't, right?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 481,
+      "start": 2442.74,
+      "end": 2448.96,
+      "speaker": "Presenter",
+      "text": "These women are in a place where like they just literally have no control. Their body is just doing whatever the hell their body wants, and so,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 482,
+      "start": 2448.96,
+      "end": 2458.38,
+      "speaker": "Presenter",
+      "text": "understanding that as well is also important, because if you go to the market saying, \"Take control,\" right? Do you know how many times someone during menopause has probably heard that?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 483,
+      "start": 2458.38,
+      "end": 2458.82,
+      "speaker": "Presenter",
+      "text": "Like,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 484,
+      "start": 2458.82,
+      "end": 2466.18,
+      "speaker": "Presenter",
+      "text": "a zillion, okay? And so that's why it's important to understand market sophistication, which we're going to get to next, but the point is, is you want to lay all these out,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 485,
+      "start": 2466.18,
+      "end": 2469.48,
+      "speaker": "Presenter",
+      "text": "and you want to have an understanding, okay, what do people really want?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 486,
+      "start": 2470.38,
+      "end": 2474.28,
+      "speaker": "Presenter",
+      "text": "What do they want, okay? And then from there, looking at language snippets,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 487,
+      "start": 2474.64,
+      "end": 2480.18,
+      "speaker": "Presenter",
+      "text": "already getting some ideas, and educating yourself. That is the goal of this, okay? And I feel like as a result of doing this video,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 488,
+      "start": 2480.18,
+      "end": 2485.48,
+      "speaker": "Presenter",
+      "text": "by doing some desire hunting with you and showing me doing it live, I've realized like this is what people want.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 489,
+      "start": 2485.48,
+      "end": 2491.88,
+      "speaker": "Presenter",
+      "text": "They want to feel normal again. They want to be in control of their body, and again, we can go level level deeper, which means regaining healthy body weight, right?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 490,
+      "start": 2491.98,
+      "end": 2496.98,
+      "speaker": "Presenter",
+      "text": "Or regaining control over their appetite and food cravings, right? Some of them, just for collagen specifically,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 491,
+      "start": 2496.98,
+      "end": 2503.44,
+      "speaker": "Presenter",
+      "text": "this is this is more menopause, right? And you can see like that's just one angle that we're kind of going deeper. I'm going to talk about angles, and I might actually change my",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 492,
+      "start": 2503.44,
+      "end": 2506.56,
+      "speaker": "Presenter",
+      "text": "language on that, because I actually going to have a",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 493,
+      "start": 2506.56,
+      "end": 2515.48,
+      "speaker": "Presenter",
+      "text": "description for each concept for for each word that we use, so you guys can understand, like, okay, what is a desire? What is a product? What is market sophistication?",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 494,
+      "start": 2515.88,
+      "end": 2521.1,
+      "speaker": "Presenter",
+      "text": "What is avatar? What is angle, okay? And we're going to get into all this stuff, I promise. And just so you guys know, like a lot of stuff is already filled out,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 495,
+      "start": 2521.22,
+      "end": 2527.58,
+      "speaker": "Presenter",
+      "text": "okay? So, it's coming. Uh, but just know that in this instance here, I'm trying to figure out what do people want,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 496,
+      "start": 2527.58,
+      "end": 2534.82,
+      "speaker": "Presenter",
+      "text": "what do people need, right? This is more menopausal wants and needs, but understand like, again, we're going after someone that feels like they have no control over their life,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 497,
+      "start": 2535.06,
+      "end": 2539.64,
+      "speaker": "Presenter",
+      "text": "right? We sell collagen, we can sell to other people, right? We can sell to people that",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 498,
+      "start": 2539.64,
+      "end": 2543.72,
+      "speaker": "Presenter",
+      "text": "maybe want more skin, or again, this is where competitor research is going to come in,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 499,
+      "start": 2543.72,
+      "end": 2549.7,
+      "speaker": "Presenter",
+      "text": "to see how sophisticated it is, to be able to analyze and be like, \"Okay, wow, everybody's going after skincare.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 500,
+      "start": 2550.56,
+      "end": 2554.9,
+      "speaker": "Presenter",
+      "text": "Everybody over here is going after menopause. Like, oh, look at this, collagen helps with hair growth.",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 501,
+      "start": 2555.4,
+      "end": 2558.24,
+      "speaker": "Presenter",
+      "text": "No one's talking about hair growth. Well, there you go,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 502,
+      "start": 2558.66,
+      "end": 2566.02,
+      "speaker": "Presenter",
+      "text": "right? New opportunity.\" And we're going to talk about that, so that is it. I don't want to get too far ahead of myself. That is desire hunting. That's how you can do it manually, that's how you can leverage AI to do it. Again,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 503,
+      "start": 2566.38,
+      "end": 2571.52,
+      "speaker": "Presenter",
+      "text": "the point of this is consume information, let your brain cook, right? Don't cook your brain,",
+      "chunk": 8,
+      "timing": "aligned"
+    },
+    {
+      "id": 504,
+      "start": 2571.52,
+      "end": 2578.74,
+      "speaker": "Presenter",
+      "text": "and jot some ideas down, figure out what people want, that is the entire goal, so hope you enjoy and get on your desire hunt.",
+      "chunk": 8,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 10.9,
+      "end": 12.0,
+      "label": "laughter"
+    },
+    {
+      "start": 169.0,
+      "end": 170.0,
+      "label": "sigh"
+    },
+    {
+      "start": 302.3,
+      "end": 303.5,
+      "label": "buzzer sound"
+    },
+    {
+      "start": 416.86,
+      "end": 419.06,
+      "label": "laughter"
+    },
+    {
+      "start": 434.36,
+      "end": 436.06,
+      "label": "chuckle"
+    },
+    {
+      "start": 583.06,
+      "end": 584.56,
+      "label": "laughter"
+    },
+    {
+      "start": 716.06,
+      "end": 717.56,
+      "label": "laughter"
+    },
+    {
+      "start": 812.16,
+      "end": 814.56,
+      "label": "laughter"
+    },
+    {
+      "start": 1544.95,
+      "end": 1572.25,
+      "label": "music"
+    },
+    {
+      "start": 2085.09,
+      "end": 2085.99,
+      "label": "laughter"
+    },
+    {
+      "start": 2146.8,
+      "end": 2148.6,
+      "label": "laughter"
+    },
+    {
+      "start": 2157.9,
+      "end": 2159.7,
+      "label": "laughter"
+    },
+    {
+      "start": 2167.3,
+      "end": 2168.9,
+      "label": "laughter"
+    },
+    {
+      "start": 2426.93,
+      "end": 2427.93,
+      "label": "laughter"
+    },
+    {
+      "start": 2521.93,
+      "end": 2522.93,
+      "label": "laughter"
+    },
+    {
+      "start": 2570.93,
+      "end": 2571.93,
+      "label": "chuckle"
+    }
+  ]
+}

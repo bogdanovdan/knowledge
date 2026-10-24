@@ -1,0 +1,1319 @@
+{
+  "lesson": {
+    "num": 59,
+    "id": "059-13-winning-static-ads-breakdown-templates",
+    "title": "13 winning static ads breakdown + templates",
+    "section": "📢 How To Create Ads",
+    "video": "59. 13 winning static ads breakdown + templates Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 844.885,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=e995d83c89a34b26aa79a3816dcda5d8"
+  },
+  "generated_at": "2026-10-06T20:24:08-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (97% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 3387,
+    "matched_tokens": 3296,
+    "match_ratio": 0.973,
+    "segments_aligned": 137,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 267.871,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.999,
+      "wpm": 223.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 267.871,
+      "end": 647.481,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.896,
+      "wpm": 240.6,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 647.481,
+      "end": 844.885,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.864,
+      "wpm": 233.6,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.9,
+      "speaker": "Presenter",
+      "text": "All right. Welcome to the winning ads breakdown and templates.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 4.26,
+      "end": 13.84,
+      "speaker": "Presenter",
+      "text": "Now, the first thing that I want you to understand is this is going to differ from a lot of the templates that you've maybe downloaded before for one specific reason, and that's one,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 14.02,
+      "end": 19.36,
+      "speaker": "Presenter",
+      "text": "it's going to actually be winning ads have been validated, and I'll explain how I validated those to the best of my ability.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 19.92,
+      "end": 24.26,
+      "speaker": "Presenter",
+      "text": "And then number two, it's actually going to help you understand why these templates work, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 24.64,
+      "end": 28.3,
+      "speaker": "Presenter",
+      "text": "Because the problem with most swipe files and templates that you get",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 28.3,
+      "end": 35.28,
+      "speaker": "Presenter",
+      "text": "is you upload your random copy that ChatGPT or Claude gives you. You put it in there, or sometimes you write your own copy, whatever it is.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 35.54,
+      "end": 40.1,
+      "speaker": "Presenter",
+      "text": "And then when you try the template, it doesn't work, and you don't understand why, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 40.54,
+      "end": 48.84,
+      "speaker": "Presenter",
+      "text": "My goal with this is to help you actually understand why these ads are working not only from a template perspective, but also from a messaging perspective.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 49.04,
+      "end": 54.84,
+      "speaker": "Presenter",
+      "text": "Because the truth is, is that even if you just blindly copy and paste these templates,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 54.84,
+      "end": 61.6,
+      "speaker": "Presenter",
+      "text": "you download them, you put some Claude copywriting in there, and you launch it in Facebook and it works, the problem is",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 61.6,
+      "end": 63.56,
+      "speaker": "Presenter",
+      "text": "is you don't know why.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 63.98,
+      "end": 70.02,
+      "speaker": "Presenter",
+      "text": "And that is the number one thing that holds people back from actually building a real, sustainable e-commerce brand,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 70.02,
+      "end": 75.36,
+      "speaker": "Presenter",
+      "text": "is understanding why and how to create ads that can actually scale.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 75.9,
+      "end": 81.9,
+      "speaker": "Presenter",
+      "text": "A lot of people just get lucky. They go and download some templates. They go and rip some content, whatever the heck that you do,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 82.36,
+      "end": 87.66,
+      "speaker": "Presenter",
+      "text": "and then all of a sudden, you know, you're scaling and it's working, but then it crashes and you have no idea how to get back, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 87.8,
+      "end": 96.4,
+      "speaker": "Presenter",
+      "text": "I'm going to try to help you understand why these ads are working, which is why I've consolidated it down to less than 15 and haven't given you like 60-plus",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 96.4,
+      "end": 100.12,
+      "speaker": "Presenter",
+      "text": "swipe files of creative, because the truth is it's not the format that makes it work.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 100.5,
+      "end": 105.18,
+      "speaker": "Presenter",
+      "text": "It's what the ad is saying with the format that actually makes it convert.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 105.42,
+      "end": 112.78,
+      "speaker": "Presenter",
+      "text": "Okay? So I'm going to try to help you guys actually understand. And so, if you ask me, the most valuable part of this is actually understanding why these ads work,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 113.28,
+      "end": 117.2,
+      "speaker": "Presenter",
+      "text": "rather than just, you know, blindly downloading the templates, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 117.48,
+      "end": 120.82,
+      "speaker": "Presenter",
+      "text": "So, with that out of the way, let's go ahead and actually jump in.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 121.0,
+      "end": 127.82,
+      "speaker": "Presenter",
+      "text": "So, the first thing I want to say is, a lot of these ads are actually validated as winning ads because either one, they are from our own brands,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 127.82,
+      "end": 136.36,
+      "speaker": "Presenter",
+      "text": "or two, they are actually validated through a tool called AdSpy, which is not like a screenshot of someone's ad account. I don't do that shit. I think that's that's just dumb.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 136.92,
+      "end": 144.44,
+      "speaker": "Presenter",
+      "text": "Um, but it is using a tool called AdSpy which essentially allows you to see what ads are getting a lot of shares and a lot of engagement on Facebook.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 144.98,
+      "end": 152.96,
+      "speaker": "Presenter",
+      "text": "And we have noticed that that correlates with winning ads a lot higher than just ads that are active and running in the account, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 153.0,
+      "end": 156.58,
+      "speaker": "Presenter",
+      "text": "We have ads that are active for some of our brands for over a year, but they're not our best performers, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 156.88,
+      "end": 164.66,
+      "speaker": "Presenter",
+      "text": "And so, when we look at shares, and we look at engagement, and these are all ads that over the last 90 days have actually been winning ads, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 164.78,
+      "end": 170.08,
+      "speaker": "Presenter",
+      "text": "And so, these are ads that are actively winning right now based off of the knowledge that we can see,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 170.08,
+      "end": 179.28,
+      "speaker": "Presenter",
+      "text": "and also our previous brand and our brands that we work with, in order for you guys to actually have confidence that these are great ads and they're not just ads that look cool, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 179.54,
+      "end": 186.16,
+      "speaker": "Presenter",
+      "text": "Because that is the other problem, and I promise we're actually going to get into the ads, is that a lot of you guys just look at ads and you're like, \"Oh, this is a cool looking ad. I want to remake this.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 186.16,
+      "end": 192.74,
+      "speaker": "Presenter",
+      "text": "But just because it looks good doesn't mean it's converting. And that's the problem with so many people is they make ads that they like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 192.74,
+      "end": 199.84,
+      "speaker": "Presenter",
+      "text": "rather than ads that your customer is actually going to buy from, okay? I don't really care what the ad looks like. I care if it actually makes me money, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 199.84,
+      "end": 201.7,
+      "speaker": "Presenter",
+      "text": "So, let's go ahead and jump in.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 201.88,
+      "end": 208.56,
+      "speaker": "Presenter",
+      "text": "So, in this first doc here, you're going to see that we have all the specific ads laid out, and they do have just names that we've",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 208.56,
+      "end": 212.06,
+      "speaker": "Presenter",
+      "text": "added to them. These are not like official names or anything like that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 212.16,
+      "end": 221.74,
+      "speaker": "Presenter",
+      "text": "Um, but if you can see here, each and every single ad has a, um, actual link to it. So, for example, if I clicked the avatar call-out ad, it is going to take me to that ad,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 222.06,
+      "end": 225.46,
+      "speaker": "Presenter",
+      "text": "okay? And now, starting with this ad, let's go ahead and take a look at this ad.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 225.56,
+      "end": 233.24,
+      "speaker": "Presenter",
+      "text": "So, this is called the avatar call-out ad, and as you can see here, each and every single template is going to have the exact same breakdown, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 233.28,
+      "end": 242.14,
+      "speaker": "Presenter",
+      "text": "It's going to say why this ad works. It's going to show you the completed ad, and then it's actually going to have a link to take you to the document where you can actually optimize the ad.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 242.34,
+      "end": 246.94,
+      "speaker": "Presenter",
+      "text": "And so, just for the sake of those of you that want to actually just start using this right away,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 246.94,
+      "end": 256.0,
+      "speaker": "Presenter",
+      "text": "you would basically look at this ad and say, \"Okay, let's see why this works. Well, number one, it's a clear and direct avatar call-out to moms of 15-year-olds,\" okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 256.38,
+      "end": 262.8,
+      "speaker": "Presenter",
+      "text": "Then from there, we have the supporting claim with a real review mentioning a 15-year-old, so we have some congruency there,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 262.8,
+      "end": 267.14,
+      "speaker": "Presenter",
+      "text": "okay? And then from there, this is a double typo here so I can remove that, we then clearly",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 267.92,
+      "end": 272.46,
+      "speaker": "Presenter",
+      "text": "have a family photo with kids, right? So, it's like this is clearly a real review,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 272.46,
+      "end": 276.38,
+      "speaker": "Presenter",
+      "text": "and it clearly makes sense for what we're talking about. And then, we have a very good",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 276.38,
+      "end": 280.66,
+      "speaker": "Presenter",
+      "text": "social-proof LP, which I'm actually going to attach for you guys, because one of the biggest",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 280.66,
+      "end": 285.98,
+      "speaker": "Presenter",
+      "text": "things with static ads is, a lot of the times, you guys just send them to basic product pages, and you don't really tell the rest",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 285.98,
+      "end": 291.66,
+      "speaker": "Presenter",
+      "text": "of the story. Now, I'm not trying to tell you to go and do more work right now, because you can have these static ads work",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 291.66,
+      "end": 296.92,
+      "speaker": "Presenter",
+      "text": "to a basic product page, but a lot of the times, if you optimize a customer journey with a landing page,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 296.92,
+      "end": 301.66,
+      "speaker": "Presenter",
+      "text": "which is something that we have for those of you who are in Origins watching this, you can actually",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 301.66,
+      "end": 305.06,
+      "speaker": "Presenter",
+      "text": "optimize landing page that will likely make this static convert better.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 305.06,
+      "end": 311.26,
+      "speaker": "Presenter",
+      "text": "Okay, so each and every single ad is going to look like this, and then if you click this link over here, it is then going to take",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 311.26,
+      "end": 318.14,
+      "speaker": "Presenter",
+      "text": "you to the actual template where you can fully edit this, okay? Now, one thing I want to call out right away is don't",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 318.14,
+      "end": 324.4,
+      "speaker": "Presenter",
+      "text": "fake these reviews, okay? Because the problem is is when you fake reviews, they're just they're not going to land,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 324.92,
+      "end": 330.8,
+      "speaker": "Presenter",
+      "text": "right? Because they're coming from you. They're not coming from your customer. And if you're not your customer,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 331.06,
+      "end": 337.38,
+      "speaker": "Presenter",
+      "text": "well, you're probably not going to be relating to them, okay? And so, it's very important that you guys understand that all of this is editable,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 337.38,
+      "end": 341.7,
+      "speaker": "Presenter",
+      "text": "but I would rather you actually pull a real Facebook ad comment and put this in here",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 341.96,
+      "end": 346.66,
+      "speaker": "Presenter",
+      "text": "so that way you actually have a real review, okay? And so, here's an example of the template,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 346.66,
+      "end": 351.62,
+      "speaker": "Presenter",
+      "text": "and then you'll be able to see that if we go over here, there is another template over here as well, and very simply,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 351.62,
+      "end": 357.68,
+      "speaker": "Presenter",
+      "text": "you can just download this specific creative. So, you will basically come in here, you're going to make a copy of this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 357.9,
+      "end": 363.42,
+      "speaker": "Presenter",
+      "text": "and then once you actually optimize the creative and just so you know you can drag and drop images in here, so just to show",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 363.42,
+      "end": 369.62,
+      "speaker": "Presenter",
+      "text": "you how this works, let me go ahead and just optimize this one here. All right, so as you can see, over here in Canva, you can go",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 369.62,
+      "end": 374.06,
+      "speaker": "Presenter",
+      "text": "to uploads, and you can upload any images that you want. And then you very simply",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 374.06,
+      "end": 379.9,
+      "speaker": "Presenter",
+      "text": "just drag and drop them into the section. And then again, you can move it around however you want. So, for example, here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 379.9,
+      "end": 385.4,
+      "speaker": "Presenter",
+      "text": "I've just added Pepe holding money and a jar of Shilajit. And then I can change this text whatever I want.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 385.54,
+      "end": 390.34,
+      "speaker": "Presenter",
+      "text": "You guys can also change the fonts and all that kind of stuff, as well. Now again, it's important that you understand that you're going to make",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 390.34,
+      "end": 396.54,
+      "speaker": "Presenter",
+      "text": "a copy of this first. So again, you're going to go, \"File, make a copy,\" so you actually have an editable version, cuz you won't be able to edit this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 396.54,
+      "end": 401.12,
+      "speaker": "Presenter",
+      "text": "cuz this is obviously the template. And then once you have the Canva template here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 401.12,
+      "end": 405.84,
+      "speaker": "Presenter",
+      "text": "then you can go in and start editing it, and making copies, and all that kind of stuff, okay? And so that",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 405.84,
+      "end": 410.7,
+      "speaker": "Presenter",
+      "text": "is how you use the templates, and that is how you upload. It's very, very easy. It's very, very simple. All this stuff is editable.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 410.7,
+      "end": 415.98,
+      "speaker": "Presenter",
+      "text": "And again, use the fonts that are native to your brand. I would not recommend just using the exact same fonts,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 415.98,
+      "end": 420.8,
+      "speaker": "Presenter",
+      "text": "and that goes even with the colors, right? If your brand doesn't really have this as a color palette,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 420.8,
+      "end": 426.28,
+      "speaker": "Presenter",
+      "text": "or if you don't even have a color palette, which a lot of you might, make sure you optimize this to one that actually makes sense, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 426.54,
+      "end": 432.24,
+      "speaker": "Presenter",
+      "text": "Same thing with the fonts. Same thing with all of this, okay? This is supposed to this is meant to be fully custom, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 432.44,
+      "end": 438.8,
+      "speaker": "Presenter",
+      "text": "We're giving you guys the templates of how the ads look, so you have the structure to make it easy, because a lot of you are probably not",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 438.8,
+      "end": 443.6,
+      "speaker": "Presenter",
+      "text": "designers. And so we're giving you this to have a well designed template, but it's important",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 443.6,
+      "end": 449.38,
+      "speaker": "Presenter",
+      "text": "that you then optimize it a little bit further for your brand specifically, okay? If you just one-to-one this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 449.38,
+      "end": 455.72,
+      "speaker": "Presenter",
+      "text": "again, you just you're not really thinking, okay? I want you guys to actually think through this process, and that's why I'm, a lot of times, hesitant",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 455.72,
+      "end": 461.08,
+      "speaker": "Presenter",
+      "text": "to give templates, cuz they cause people to not think, but I'm telling you guys to please think about what you're doing,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 461.42,
+      "end": 466.62,
+      "speaker": "Presenter",
+      "text": "okay? And so, this is an example of the avatar call-out ad, okay? Here's the solution exaggeration ad,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 466.62,
+      "end": 471.06,
+      "speaker": "Presenter",
+      "text": "this is actually an ad that I recently I recently broke down on one of my videos. But you can see here, bold",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 471.06,
+      "end": 475.48,
+      "speaker": "Presenter",
+      "text": "numbers call-out that stops the scroll, okay, emphasizes the effectiveness of the solution,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 475.74,
+      "end": 480.2,
+      "speaker": "Presenter",
+      "text": "14-plus hours, for the problem of swelling, okay? And so, I'm trying to help you guys",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 480.2,
+      "end": 486.52,
+      "speaker": "Presenter",
+      "text": "piece this in with your brand specifically. So, if you sell some kind of I don't know, this sells compression",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 486.52,
+      "end": 493.14,
+      "speaker": "Presenter",
+      "text": "socks. Maybe you sell some kind of t-shirt that, you know, it's like True Classic, it hides your belly, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 493.52,
+      "end": 498.66,
+      "speaker": "Presenter",
+      "text": "So, it's like or maybe it stops with sweating, or something like that, right? So, you could say it's 14-plus hours,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 498.66,
+      "end": 503.8,
+      "speaker": "Presenter",
+      "text": "you know, in the heat, no sweating, right? Like 14-plus hours in the sun, or 14-plus hours outside,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 504.3,
+      "end": 509.62,
+      "speaker": "Presenter",
+      "text": "no sweating, right? That could be an example of how you leverage this template and kind of make the connection",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 509.62,
+      "end": 516.08,
+      "speaker": "Presenter",
+      "text": "in your head to then write headlines for this. And again, you can actually copy this as well into AI",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 516.08,
+      "end": 521.6,
+      "speaker": "Presenter",
+      "text": "with your brand, and I'm going to show you guys, essentially, how to do that, too. But the point is is that if you",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 521.6,
+      "end": 526.84,
+      "speaker": "Presenter",
+      "text": "have this ad as context, you can literally take a copy of this, so you can actually take this image,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 526.84,
+      "end": 532.26,
+      "speaker": "Presenter",
+      "text": "and you can give it to a Claude, you can give it to a ChatGPT, and then you can give it information",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 532.26,
+      "end": 538.16,
+      "speaker": "Presenter",
+      "text": "on your brand to then say, \"Hey, here is this ad. Here is my brand. Can you rewrite this",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 538.16,
+      "end": 543.68,
+      "speaker": "Presenter",
+      "text": "for me specifically and for my avatar specifically based on the context of my brand?\" Now,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 543.86,
+      "end": 549.76,
+      "speaker": "Presenter",
+      "text": "there is a lot more that we do on the AI side, I don't have time to explain that all today, but the point is is that is going",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 549.76,
+      "end": 555.36,
+      "speaker": "Presenter",
+      "text": "to help you actually come up with really good headlines as well. And again, even if you include these learnings",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 555.36,
+      "end": 561.36,
+      "speaker": "Presenter",
+      "text": "in it, so if you were to just take a screenshot of this entire thing and give this to Claude and then have it with information around your brand,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 561.96,
+      "end": 567.24,
+      "speaker": "Presenter",
+      "text": "now Claude or ChatGPT has context, and then they can actually rewrite the ad for you. But again, but again, it's",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 567.24,
+      "end": 572.86,
+      "speaker": "Presenter",
+      "text": "it's very important that you understand why it's doing that and how it's doing that, so you actually get the skill set yourself,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 573.08,
+      "end": 578.44,
+      "speaker": "Presenter",
+      "text": "because again, AI is not going to be able to save you if you don't know what a good headline is. At the end of the day, that is a way that we",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 578.44,
+      "end": 583.92,
+      "speaker": "Presenter",
+      "text": "use it as well at the agency. We have stealing credibility here. So, the reason why this works really well is because it's stealing",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 583.92,
+      "end": 588.22,
+      "speaker": "Presenter",
+      "text": "credibility from a familiar and effective mechanism. So, think about all the other mechanisms",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 588.22,
+      "end": 593.86,
+      "speaker": "Presenter",
+      "text": "that other people may be using, right? Curiosity and scroll-stop effect from the from the army of",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 593.86,
+      "end": 599.6,
+      "speaker": "Presenter",
+      "text": "gummy bears, right? It's very weird, like what is that? And then you kind of get clarity over here, and then the body copy connects",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 599.6,
+      "end": 604.62,
+      "speaker": "Presenter",
+      "text": "and completes the static ad while providing clarity. The body copy is something that you guys will also",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 604.62,
+      "end": 610.3,
+      "speaker": "Presenter",
+      "text": "see on here, because body copy is very, very important. I'm going to go ahead and make sure I add that after this video,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 610.3,
+      "end": 616.7,
+      "speaker": "Presenter",
+      "text": "but just understand that you will see the body copy here as well. This is not the product, again, it's a very, very great",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 616.7,
+      "end": 623.1,
+      "speaker": "Presenter",
+      "text": "way to kind of do a little bit of wordplay, and kind of stop the scroll. Again, this is not a protein shake when it clearly looks like a protein shake,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 623.36,
+      "end": 628.64,
+      "speaker": "Presenter",
+      "text": "and then you're saying it's a meal, which is the actual outcome. But again, you'll notice I have little notes on here, as well,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 628.64,
+      "end": 634.94,
+      "speaker": "Presenter",
+      "text": "that says like this has to make sense, right? You can't overstretch it. It has to be connected, or again, the ad will flop.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 635.34,
+      "end": 640.82,
+      "speaker": "Presenter",
+      "text": "Specific ad pain point, this is something that I love, as well, cuz, again, rather than saying losing weight, or rather than saying trim belly fat,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 641.04,
+      "end": 644.38,
+      "speaker": "Presenter",
+      "text": "you're saying, \"Lose the muffin top for good,\" right? Something that is very, very specific,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 644.62,
+      "end": 647.0,
+      "speaker": "Presenter",
+      "text": "and something that people are aware of, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 647.8,
+      "end": 655.34,
+      "speaker": "Presenter",
+      "text": "Accidental ideal outcome. Another very interesting one here. You know why this works again: the ad uses a clever wordplay with one simple word, \"accidentally\".",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 655.6,
+      "end": 665.06,
+      "speaker": "Presenter",
+      "text": "So again, you can leverage this for yourself. Or it's like, \"I accidentally got the outcome that I'm looking for.\" Or, \"I accidentally experienced this benefit.\" Right? These are all things that you guys can learn from.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 665.18,
+      "end": 670.74,
+      "speaker": "Presenter",
+      "text": "Okay? And again, I really break this down here for you. Relatable hook ad: this is another one where you can see I've actually included",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 670.74,
+      "end": 679.52,
+      "speaker": "Presenter",
+      "text": "the advertorial as well. And something that I love about this product specifically, for those of you that have very visual products, is this just looks comfortable. Right? And so this emphasizes",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 679.52,
+      "end": 688.54,
+      "speaker": "Presenter",
+      "text": "those of you that actually have very visual first products, this is a great thing for you guys to do. Right? A lot of times you overcomplicate or try to hide the product, and it just doesn't make sense.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 688.54,
+      "end": 695.36,
+      "speaker": "Presenter",
+      "text": "Right? Here's an indirect avatar ad again. \"Teen always grumpy?\" This is obviously not calling out teens; this is calling out the parents.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 695.36,
+      "end": 702.94,
+      "speaker": "Presenter",
+      "text": "Right? And so understanding how to indirectly call your avatar is a great thing to do for moms and for dads. We then have the free ad down here.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 703.08,
+      "end": 711.0,
+      "speaker": "Presenter",
+      "text": "I absolutely love this ad, and for a lot of you guys that are struggling to get up off the ground, these offer ads are fantastic because they go after, you know, a smaller market of people that are",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 711.0,
+      "end": 718.14,
+      "speaker": "Presenter",
+      "text": "very, very product-aware and ready to buy. But at the end of the day, people love a great offer and so it's a great way to get someone in the door. We then have this classy offer ad.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 718.22,
+      "end": 726.1,
+      "speaker": "Presenter",
+      "text": "I love this one as well. It's just a very, very clean way to emphasize an offer, and again, this kind of goes alongside this free ad. So if you're doing buy one get one free,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 726.48,
+      "end": 733.8,
+      "speaker": "Presenter",
+      "text": "it's a great way to kind of elevate things as well. One of my favorite ads of all time from Nutella, which is the simplified us versus them,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 734.0,
+      "end": 742.52,
+      "speaker": "Presenter",
+      "text": "where you really, really focus on trying to explain the claim in a very few words. Right? \"This is bread. This is breakfast.\" Right? \"Turning bread into breakfast since 1964.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 742.94,
+      "end": 750.52,
+      "speaker": "Presenter",
+      "text": "We've seen this ad work as well for our brands. Pubity-style ad: this is a very, very common ad that we've seen scale up to a few thousand dollars a day",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 750.52,
+      "end": 758.88,
+      "speaker": "Presenter",
+      "text": "in spend for some of our brands as well. Works really great for trending things as well. So if you keep an eye on trends and things that are happening in the world, it's a very, very great ad",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 758.88,
+      "end": 767.56,
+      "speaker": "Presenter",
+      "text": "to leverage for some kind of like news-style article that, again, relays back to your product. And then this is the minimum us, minimal us versus them ad",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 767.56,
+      "end": 776.12,
+      "speaker": "Presenter",
+      "text": "that absolutely crushed for one of our brands over here at Carepod. And I wanted to share this one with you guys as well, because, again, it's a very familiar format, but it's a it's a twist",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 776.12,
+      "end": 786.56,
+      "speaker": "Presenter",
+      "text": "on the traditional us versus them style where you're kind of throwing, not throwing shade, but you're talking about the things that your product doesn't have. Right? Sometimes simplicity is better.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 786.78,
+      "end": 794.58,
+      "speaker": "Presenter",
+      "text": "So when you can remove stuff, it really helps people see and understand, you know, how simple and easy your product is to use, which makes it less scary",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 794.58,
+      "end": 801.88,
+      "speaker": "Presenter",
+      "text": "for people to try. So those are the 13 ads that we have there with a brief high-level overview of why they work and how they work. But again,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 801.88,
+      "end": 811.36,
+      "speaker": "Presenter",
+      "text": "it's important for you guys to double down on this stuff as well and really dig deep to understanding how this is optimizing, or how this is actually scaling, and how we're optimizing these ads.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 811.88,
+      "end": 820.8,
+      "speaker": "Presenter",
+      "text": "Again, obviously in the Origins community, we break this stuff down a lot further and we're there to kind of answer questions and help you guys with this stuff. But for the most part, this is the overall",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 820.8,
+      "end": 830.02,
+      "speaker": "Presenter",
+      "text": "winning ads template, and this is where you can actually customize and optimize the templates yourself. I hope that you guys enjoy. I hope this leads to winning ads, but most importantly,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 830.02,
+      "end": 838.4,
+      "speaker": "Presenter",
+      "text": "I hope this helps you understand why these specific ads are working and helps you apply it to your brand specifically. So that is it. That is my document.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 838.4,
+      "end": 843.72,
+      "speaker": "Presenter",
+      "text": "That is the template, and again, I hope you guys enjoy and I hope it leads to some absolute bangers for you.",
+      "chunk": 2,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": []
+}

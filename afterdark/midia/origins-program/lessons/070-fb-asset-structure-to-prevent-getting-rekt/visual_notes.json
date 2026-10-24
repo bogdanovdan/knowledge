@@ -1,0 +1,27 @@
+{
+  "lesson": {
+    "num": 70,
+    "id": "070-fb-asset-structure-to-prevent-getting-rekt",
+    "title": "FB Asset Structure to Prevent Getting Rekt",
+    "video": "70. FB Asset Structure to Prevent Getting Rekt Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T19:24:55-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "1276x720 (native)",
+  "candidates_reviewed": 1,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 94.967,
+      "time": "00:01:35",
+      "frame": "frames/070_00-01-35.png",
+      "category": "diagram",
+      "title": "FB Asset Structure with 3 Business Managers",
+      "on_screen": "FB Asset Structure\n\nThree boxes side by side:\n- Box 1: \"BM 1\" (handwritten above), \"Pixel Only\", \"3+ Real Profiles\"\n- Box 2: \"BM 2\" (handwritten above), \"Holding BM (Optional)\", \"3+ Real Profiles\"\n- Box 3: \"BM 3\" (handwritten above), \"Ad Account BM\", \"3+ Real Profiles\"",
+      "not_in_transcript": "Box 3 label: \"Ad Account BM\"",
+      "legibility": "clear",
+      "candidate_id": "F001",
+      "drive_url": "https://drive.google.com/file/d/1lj5aT_PDE6d5orb9d6ViV3oejwME0wdr/view?usp=drivesdk"
+    }
+  ]
+}

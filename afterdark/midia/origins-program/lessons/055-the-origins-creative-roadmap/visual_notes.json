@@ -1,0 +1,135 @@
+{
+  "lesson": {
+    "num": 55,
+    "id": "055-the-origins-creative-roadmap",
+    "title": "The Origins creative roadmap",
+    "video": "55. The Origins creative roadmap Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T18:45:20-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "854x480 (native)",
+  "candidates_reviewed": 22,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 5.005,
+      "time": "00:00:05",
+      "frame": "frames/055_00-00-05.png",
+      "category": "spreadsheet",
+      "title": "Ad Hit Rate Percentage Dashboard",
+      "on_screen": "Spreadsheet tab showing:\n- 'Ad Hit Rate Percentage' box displaying '0.00%'\n- Header area: 'Brand Name'\n- Spreadsheet title: 'Origins | BRAND - Growth Guide '25'\n- Formula bar: '=sum('Creative Roadmap'!K2)/('Creative Roadmap'!K2+'Creative Roadmap'!L2)'",
+      "not_in_transcript": "Formula used for hit rate calculation: '=sum('Creative Roadmap'!K2)/('Creative Roadmap'!K2+'Creative Roadmap'!L2)'.",
+      "legibility": "clear",
+      "candidate_id": "F001",
+      "drive_url": "https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk"
+    },
+    {
+      "t": 45.012,
+      "time": "00:00:45",
+      "frame": "frames/055_00-00-45.png",
+      "category": "spreadsheet",
+      "title": "Creative Roadmap Spreadsheet Columns",
+      "on_screen": "Columns: Status | BATCH # | Author | Ad Concept | Mass Desire | Angle | What are you creating / testing and what gives you confidence that this test will improve overall performance? | Ad Format | Link To...\nRow 3 example:\n- Status: Done\n- BATCH #: BATCH #1\n- Author: Spencer\n- Ad Concept: Pullet Mist Static\n- Mass Desire: Safety For Their Family\n- Angle: Parents\n- Description: 'we believe educating users on how humidifiers are actually adding mold and toxins into your air compared to clean air because of how hard they are to clean will help them understand Carepod'\n- Ad Format: Static",
+      "not_in_transcript": "Carepod humidifier example details: 'Pullet Mist Static', 'Safety For Their Family', specific text rationale.",
+      "legibility": "clear",
+      "candidate_id": "F002",
+      "drive_url": "https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk"
+    },
+    {
+      "t": 50.017,
+      "time": "00:00:50",
+      "frame": "frames/055_00-00-50.png",
+      "category": "spreadsheet",
+      "title": "Creative Roadmap Results and Learnings Columns",
+      "on_screen": "Columns: Angle | What are you creating / testing... | Ad Format | Link To Brief | Link To Ad | Results | Learnings\nRow 3 example continuation:\n- Results: Losing Ad\n- Learnings: 'this ad is too product aware. For the current season making product aware ads is just not the best approach based on desires in the market'",
+      "not_in_transcript": "Exact learnings text for row 3: 'this ad is too product aware / For the current season making product aware ads is just not the best approach based on desires in the market'.",
+      "legibility": "clear",
+      "candidate_id": "F003",
+      "drive_url": "https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk"
+    },
+    {
+      "t": 70.003,
+      "time": "00:01:10",
+      "frame": "frames/055_00-01-10.png",
+      "category": "webpage",
+      "title": "Origins Program Course Navigation",
+      "on_screen": "Origins Classroom navigation:\n- Origins Mindset\n- How To Find Products\n- How To Create Avatars\n- How To Create Ads (selected: 'The Origins creative roadmap (pending)')\n- Link visible: 'https://docs.google.com/spreadsheets/d/1cylIKRUWuEyebK65XDZCrx-C0F6mI-EARZTYPDkVS_I/edit?usp=sharing'",
+      "not_in_transcript": "Full Google Sheets URL for the creative roadmap template: 'https://docs.google.com/spreadsheets/d/1cylIKRUWuEyebK65XDZCrx-C0F6mI-EARZTYPDkVS_I/edit?usp=sharing'\n\n*Exact link from the course page:* <https://docs.google.com/spreadsheets/d/1cyllKRUWuEyebK65XDZCrx-C0F6ml-EARZ7YPDKvS_I/edit?usp=sharing>",
+      "legibility": "clear",
+      "candidate_id": "F004",
+      "drive_url": "https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk"
+    },
+    {
+      "t": 75.008,
+      "time": "00:01:15",
+      "frame": "frames/055_00-01-15.png",
+      "category": "ad_example",
+      "title": "Direct Avatar Callout Ad Template",
+      "on_screen": "Ad creative mockup in Canva:\n- Headline: '🤱 MOMS OF 15 YEAR OLDS'\n- Social review card: 'Kristina Hickok Daheim: I've never seen something work this well before. My 15 year old son's skin is 90% clear in one week. Crazy when even he \"buys in\" to the benefits of the product.'",
+      "not_in_transcript": "Specific review copy, reviewer name ('Kristina Hickok Daheim'), and visual composition.",
+      "legibility": "clear",
+      "candidate_id": "F005",
+      "drive_url": "https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk"
+    },
+    {
+      "t": 120.02,
+      "time": "00:02:00",
+      "frame": "frames/055_00-02-00.png",
+      "category": "webpage",
+      "title": "The 3 Testing Methods Overview",
+      "on_screen": "Lesson page: 'The 3 Testing Methods - Part 1 (Origins Version)'\nText visible:\n'If you have skipped to this section, you need to go back and watch the How To Create Avatars training\nKeep It Simple.\nImage Tests = Marksman\nVideo Tests = Sniper'",
+      "not_in_transcript": "'Image Tests = Marksman', 'Video Tests = Sniper' rule summary text.",
+      "legibility": "clear",
+      "candidate_id": "F007",
+      "drive_url": "https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk"
+    },
+    {
+      "t": 185.018,
+      "time": "00:03:05",
+      "frame": "frames/055_00-03-05.png",
+      "category": "spreadsheet",
+      "title": "Entering Ad Concept and Angles in Roadmap",
+      "on_screen": "Row 4 data entry:\n- Ad Concept: Avatar CallOut\n- Desire: I want restorative Sleep\n- Angle: Don't waste discipline / complete your sleep protocol / protect your melatonin",
+      "not_in_transcript": "",
+      "legibility": "clear",
+      "candidate_id": "F009",
+      "drive_url": "https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk"
+    },
+    {
+      "t": 240.006,
+      "time": "00:04:00",
+      "frame": "frames/055_00-04-00.png",
+      "category": "spreadsheet",
+      "title": "Testing Rationale and Hooks in Creative Roadmap",
+      "on_screen": "Row 4 data entry:\n- Cell G4 (What are you creating / testing...):\n'i believe this is going to work because of the no screener avatar specifically\nREDDIT LINK -> Proof\nHook 1:\nHook 2:\nHook 3:'",
+      "not_in_transcript": "Specific notes template entered in cell G4.",
+      "legibility": "clear",
+      "candidate_id": "F010",
+      "drive_url": "https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk"
+    },
+    {
+      "t": 280.013,
+      "time": "00:04:40",
+      "frame": "frames/055_00-04-40.png",
+      "category": "spreadsheet",
+      "title": "Creative Roadmap with Results Logged",
+      "on_screen": "Creative Roadmap row 4:\n- Results column shows 'Winning Ad' selected in green dropdown\n- Header row shows counts: 'Results 1' (green) | 'Learnings 1' (green)",
+      "not_in_transcript": "Dropdown UI showing green styling for 'Winning Ad' in column K.",
+      "legibility": "clear",
+      "candidate_id": "F012",
+      "drive_url": "https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk"
+    },
+    {
+      "t": 380.013,
+      "time": "00:06:20",
+      "frame": "frames/055_00-06-20.png",
+      "category": "spreadsheet",
+      "title": "Defining Winning and Superwinning Ads in Roadmap",
+      "on_screen": "Google Sheet tooltip/note under Results column:\n\"days or less, due to less than 10% of total spend or below KPI performance.\nWinning Ad:\nAd that gets more than 10% of spend and is hitting KPI\nSuperwinning Ad:\nAd that allow\"\nColumn K header: \"Results\", Column L header: \"Learnings\"",
+      "not_in_transcript": "Partial text visible in the note above Winning Ad definition: \"days or less, due to less than 10% of total spend or below KPI performance.\"",
+      "legibility": "clear",
+      "candidate_id": "F013",
+      "drive_url": "https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk"
+    }
+  ]
+}

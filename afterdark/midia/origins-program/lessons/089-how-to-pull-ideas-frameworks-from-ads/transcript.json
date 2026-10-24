@@ -1,0 +1,1659 @@
+{
+  "lesson": {
+    "num": 89,
+    "id": "089-how-to-pull-ideas-frameworks-from-ads",
+    "title": "🆕 How to pull ideas & frameworks from ads",
+    "section": "🧠 How To Do Learnings",
+    "video": "89. 🆕 How to pull ideas & frameworks from ads Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 913.707,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=1c39a25dbd17468aa4daf419e8ed86f1"
+  },
+  "generated_at": "2026-10-06T20:24:11-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (96% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 4008,
+    "matched_tokens": 3835,
+    "match_ratio": 0.957,
+    "segments_aligned": 174,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Played audio",
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 245.793,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 260.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 245.793,
+      "end": 557.931,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 253.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 557.931,
+      "end": 913.707,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.827,
+      "wpm": 252.5,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.86,
+      "speaker": "Presenter",
+      "text": "All right, we're back and today we're going to be doing another ad review. This is going to be on a very product aware ad for those of you that are in very large markets, and I'm going to kind of explain a little bit of that as well.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 9.22,
+      "end": 22.16,
+      "speaker": "Presenter",
+      "text": "On top of that, I'm going to dive a little bit deeper into offer as well, and how, if you have a really great offer, you can leverage it and basically just, again, go through the process to break down the ad to help you guys better understand what it takes to make winning ads.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 22.66,
+      "end": 35.08,
+      "speaker": "Presenter",
+      "text": "And even on like a very surface level, on an ad that doesn't really get into like a whole lot of like emotional stuff, although it kind of does, but like, you know, not a lot of problem-solution. It's just very kind of to the point, but it's an ad that still has done very well.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 35.22,
+      "end": 45.14,
+      "speaker": "Presenter",
+      "text": "So let's go ahead and jump in to make sure that we are ready to go here. And, again, as always, you guys are probably going to stare at the top of my head for a little bit here, but let's go ahead and jump into the hook.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 45.46,
+      "end": 47.4,
+      "speaker": "Played audio",
+      "text": "I think I just got scammed. I ordered a bag of this",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 47.88,
+      "end": 55.02,
+      "speaker": "Presenter",
+      "text": "All right. I know that was super quick, but again, that's kind of this this idea of just getting straight straight into the point, really.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 55.46,
+      "end": 60.76,
+      "speaker": "Presenter",
+      "text": "And if we go back to the beginning, you guys can see that here she says, \"I think I just got scammed,\" okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 60.92,
+      "end": 68.6,
+      "speaker": "Presenter",
+      "text": "It's kind of just like, whoa, the stakes are raised, okay? And again, we talked about that in the previous video, but basically like we're we're we're using power words here, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 68.6,
+      "end": 76.06,
+      "speaker": "Presenter",
+      "text": "We're not We're not saying like, \"Somebody like did something bad to me.\" Like we're not using soft language. Like \"scammed\" is a very",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 76.06,
+      "end": 81.82,
+      "speaker": "Presenter",
+      "text": "hardcore word, right? It's like when you get scammed, that's a serious thing. Although, it's starting to become",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 81.82,
+      "end": 92.94,
+      "speaker": "Presenter",
+      "text": "less of a serious thing, because of how many people, actually, it happens to. But my point is, it's like here, it's like, \"I think I just got scammed.\" It's like, oh, wow. Like what's about to happen? Like this person got scammed. She's spitting out her coffee. Hooks and visuals are congruent.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 92.98,
+      "end": 95.54,
+      "speaker": "Presenter",
+      "text": "But let's go ahead and continue watching through to talk about the next points.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 95.54,
+      "end": 99.18,
+      "speaker": "Played audio",
+      "text": "I ordered a bag of this coffee, but they sent me this entire box.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 99.76,
+      "end": 105.32,
+      "speaker": "Presenter",
+      "text": "And then, again, here you could see we're kind of like jumping into this like play on words here, right? And so here",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 105.96,
+      "end": 113.8,
+      "speaker": "Presenter",
+      "text": "we kind of go from, \"Oh, I ordered just this bag of coffee,\" and I'm trying to move back, but I'm getting dominated. You know, \"I ordered this bag of coffee.\" And again, it's like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 113.8,
+      "end": 125.42,
+      "speaker": "Presenter",
+      "text": "the clips are kind of just interesting, right? Like they could easily be doing this in a kitchen, right? But But where are they? Like they're literally outside in a parking lot. Like [laughter] Why Why would you be outside?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 125.42,
+      "end": 126.72,
+      "speaker": "Presenter",
+      "text": "And even if I play it further.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 127.12,
+      "end": 127.7,
+      "speaker": "Played audio",
+      "text": "bag of this coffee",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 128.12,
+      "end": 135.8,
+      "speaker": "Presenter",
+      "text": "That little transition there, like why would you be making a coffee outside? Like it it doesn't really make a lot of sense, if you ask me.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 135.94,
+      "end": 146.04,
+      "speaker": "Presenter",
+      "text": "It's a different environment. So it's like, it just doesn't make sense to be making a coffee in your parking lot. So it's like, why you know, like why is this person here? So it's like it's kind of creating some curiosity.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 146.04,
+      "end": 156.5,
+      "speaker": "Presenter",
+      "text": "But at the same time, again, it's kind of going through this play on words and we're kind of like confirming how this person got scammed right away, where it's like, \"I ordered a bag of this coffee,\" and if we continue to play.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 156.5,
+      "end": 157.92,
+      "speaker": "Played audio",
+      "text": "but they sent me this entire",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 157.92,
+      "end": 166.56,
+      "speaker": "Presenter",
+      "text": "\"But they sent me this entire box.\" And so, again, we're we still haven't We We've kind of given away what the product is, but we still haven't explained how they got scammed,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 166.56,
+      "end": 179.78,
+      "speaker": "Presenter",
+      "text": "right? And again, this is kind of where you're like pushing and pulling, where it's like, \"Hey, I think I got scammed.\" And then it's like, \"Oh, it's like it's just a joke, like I didn't actually get scammed. I got more than I thought.\" And so it's just kind of like, \"Oh, that's fun.\" But you have to understand that they do that",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 179.78,
+      "end": 185.86,
+      "speaker": "Presenter",
+      "text": "instantly. And I have a feeling that if you were to extend this and say, \"Oh, I got scammed,\" and you start making up this story",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 185.86,
+      "end": 199.72,
+      "speaker": "Presenter",
+      "text": "where it's like, \"Oh, I went on this website, and I, you know, saw this Facebook ad, and then I went to their website, and I ordered it.\" And like you kind of draw basically drew out the story, and then you said like, \"And I got way more than I wanted.\" It's like you kind of just wasted someone's time.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 199.72,
+      "end": 208.68,
+      "speaker": "Presenter",
+      "text": "Now, that would be interesting to test, but the end of the day is like you've kind of like got someone emotionally invested into the story about how, you know, you got scammed, but you didn't actually get scammed.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 208.68,
+      "end": 214.16,
+      "speaker": "Presenter",
+      "text": "And so like you can piss people off if you carry a joke on, or like carry a bit on for too long, you know what I mean?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 214.58,
+      "end": 223.5,
+      "speaker": "Presenter",
+      "text": "Whereas here, we just kind of get straight to it, where it's like, \"I ordered this bag of coffee, but I got the entire box.\" And then, as you can see, we're going to kind of reveal what the scamming actually is in the next clip here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 223.78,
+      "end": 228.98,
+      "speaker": "Played audio",
+      "text": "entire box. I didn't realize you get five free gifts when you order the coffee, completely free from this video only.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 228.98,
+      "end": 241.52,
+      "speaker": "Presenter",
+      "text": "Cool. So, again, and then as we're talking about this here, you can see like, \"I didn't realize you get five free gifts.\" And so, what I love about this too is, again, like look at the congruency on the visuals, right? We have free, free, free, free.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 241.52,
+      "end": 245.34,
+      "speaker": "Presenter",
+      "text": "Now, there's only four frees. I think this is supposed to be one that got cropped out.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 245.84,
+      "end": 249.86,
+      "speaker": "Presenter",
+      "text": "But my point is, is like the images are also congruent here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 249.86,
+      "end": 253.68,
+      "speaker": "Presenter",
+      "text": "As you can see, we're saying we got five free gifts, but we're also then showing it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 253.68,
+      "end": 255.86,
+      "speaker": "Presenter",
+      "text": "And it's kind of funny that they're like giving a sticker as a free gift.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 255.86,
+      "end": 258.8,
+      "speaker": "Presenter",
+      "text": "But the point is, we're saying, got way more than I bargained for, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 258.8,
+      "end": 261.38,
+      "speaker": "Presenter",
+      "text": "Now I'm going to mute this because we've already heard this, so I can.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 261.38,
+      "end": 265.46,
+      "speaker": "Presenter",
+      "text": "I didn't realize I got five free gifts when you order this coffee, completely free, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 265.46,
+      "end": 267.72,
+      "speaker": "Presenter",
+      "text": "And again, you'll notice that they've said free twice.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 267.72,
+      "end": 270.9,
+      "speaker": "Presenter",
+      "text": "Like, why have they said free? Well, it's because people love free.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 270.9,
+      "end": 278.24,
+      "speaker": "Presenter",
+      "text": "And again, even if you look over here, and it's funny, like I realized in the last video my ad idea was actually like written in the headline copy, which I didn't really notice.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 278.24,
+      "end": 283.1,
+      "speaker": "Presenter",
+      "text": "But here it says like, try risk-free 45 days plus free gifts, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 283.2,
+      "end": 286.12,
+      "speaker": "Presenter",
+      "text": "It's like, free, free, free, free. Like people love getting free stuff.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 286.28,
+      "end": 292.0,
+      "speaker": "Presenter",
+      "text": "Now I will say that sometimes when you attract customers that want free free stuff, they're not the best customers, that's an LTV thing.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 292.18,
+      "end": 294.6,
+      "speaker": "Presenter",
+      "text": "But my point is, is like this ad was working for them. It got them sales.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 294.82,
+      "end": 297.72,
+      "speaker": "Presenter",
+      "text": "And so here, again, we're saying, you get five free gifts, completely free.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 297.86,
+      "end": 301.82,
+      "speaker": "Presenter",
+      "text": "It's like, well, why would you say that? It's because it's just reinforcement that again, it's free, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 302.18,
+      "end": 307.36,
+      "speaker": "Presenter",
+      "text": "And then here what I love, again, it's a lot of the times like these very subtle things, but from this video only.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 307.36,
+      "end": 313.26,
+      "speaker": "Presenter",
+      "text": "A lot of a lot of you guys have probably used this kind of urgency or this kind of scarcity before, but the point is, is like you have to buy it from this video.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 313.26,
+      "end": 315.28,
+      "speaker": "Presenter",
+      "text": "You can't get it anywhere else. It's only from here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 315.28,
+      "end": 321.4,
+      "speaker": "Presenter",
+      "text": "And again, that also sets up your landing page for higher conversions as well, because you're telling the person that, don't like come back later",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 321.4,
+      "end": 325.46,
+      "speaker": "Presenter",
+      "text": "and search this up, because you're not going to be able to find it, even though for most of the- most of- most of you guys, that's true.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 325.94,
+      "end": 329.64,
+      "speaker": "Presenter",
+      "text": "It just gives the thought that like, oh, I have to buy it from this page right now, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 330.04,
+      "end": 336.66,
+      "speaker": "Presenter",
+      "text": "Let's go ahead and continue through with the rest of the ad if my mouse wants to work, which it doesn't seem it does.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 337.12,
+      "end": 341.78,
+      "speaker": "Played audio",
+      "text": "video only. This viral coffee is top-rated with over 100,000 five-star reviews.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 342.36,
+      "end": 345.64,
+      "speaker": "Presenter",
+      "text": "Cool. Now again, just very simple social proof, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 345.84,
+      "end": 349.14,
+      "speaker": "Presenter",
+      "text": "This coffee- this viral coffee, and again, just look at the word choice, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 349.28,
+      "end": 352.6,
+      "speaker": "Presenter",
+      "text": "They could just say this coffee, but they're saying this viral coffee, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 353.02,
+      "end": 356.46,
+      "speaker": "Presenter",
+      "text": "It's a viral coffee that is loved by hundreds of thousands of people.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 356.78,
+      "end": 358.98,
+      "speaker": "Played audio",
+      "text": "with over 100,000 five-star reviews.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 359.44,
+      "end": 361.86,
+      "speaker": "Presenter",
+      "text": "And again, they're showing proof of that as well, which is always great.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 361.86,
+      "end": 368.0,
+      "speaker": "Presenter",
+      "text": "This is very, you know, common stuff here, just using social proof to help people actually believe that it's a good coffee, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 368.44,
+      "end": 373.36,
+      "speaker": "Played audio",
+      "text": "And now you can try it for yourself with a bunch of gifts valued at $100 plus for completely free.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 373.68,
+      "end": 377.84,
+      "speaker": "Presenter",
+      "text": "Again, back to that completely free. We're just reinforcing the offer here, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 377.98,
+      "end": 381.26,
+      "speaker": "Presenter",
+      "text": "It's like these are valued at over a $100 plus, and then we tie back to-",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 381.44,
+      "end": 385.16,
+      "speaker": "Presenter",
+      "text": "It's kind of like when when you're kind of creating direct-to-wear ads, it's almost like a sales pitch. It's like,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 385.3,
+      "end": 389.86,
+      "speaker": "Presenter",
+      "text": "if anybody's ever heard of like the straight-line sales strategy where it's like you don't want to get too far off the beaten path, it's like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 389.86,
+      "end": 394.26,
+      "speaker": "Presenter",
+      "text": "there, they did a quick little pivot where it's like, you know, it's loved by hundreds of people,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 394.26,
+      "end": 398.48,
+      "speaker": "Presenter",
+      "text": "social proof, right? Then we kind of talk about, it's like it's worth a $100 worth of,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 398.48,
+      "end": 401.52,
+      "speaker": "Presenter",
+      "text": "you know, free gifts, but it's like, boom, back to the pitch, back to the offer.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 401.52,
+      "end": 404.48,
+      "speaker": "Presenter",
+      "text": "You get all of this completely free, right? Let's go ahead and continue.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 404.48,
+      "end": 412.48,
+      "speaker": "Played audio",
+      "text": "So if you're looking for the best tasting functional coffee that delivers benefits like gut health, mood enhancement, and focus, then this is the coffee for you. It take-",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 412.48,
+      "end": 416.52,
+      "speaker": "Presenter",
+      "text": "Again, very simple. Now we're just talking about the benefits because we're",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 416.52,
+      "end": 420.46,
+      "speaker": "Presenter",
+      "text": "having to like remind people like, hey, this is going to do more than just be coffee. But again, a lot of people",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 420.46,
+      "end": 425.42,
+      "speaker": "Presenter",
+      "text": "are also just looking for coffee. And again, if we just kind of get through the rest of the video here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 425.42,
+      "end": 428.84,
+      "speaker": "Presenter",
+      "text": "we'll wrap back to the original hook as well, cuz I want to talk about that.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 429.26,
+      "end": 430.76,
+      "speaker": "Played audio",
+      "text": "takes only 30 seconds to make",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 431.04,
+      "end": 435.34,
+      "speaker": "Presenter",
+      "text": "Again here, now we're just talking about, again, effort and sacrifice. It takes 30 seconds to make.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 435.5,
+      "end": 437.64,
+      "speaker": "Presenter",
+      "text": "It's so simple. You just drop in your coffee and you're done, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 437.64,
+      "end": 442.46,
+      "speaker": "Played audio",
+      "text": "and taste like a delicious coffee. Hurry up. It's first come, first served, and this deal won't last forever.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 442.94,
+      "end": 444.4,
+      "speaker": "Presenter",
+      "text": "Deal won't last forever, very common urgency.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 445.0,
+      "end": 445.32,
+      "speaker": "Played audio",
+      "text": "Good luck.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 446.04,
+      "end": 449.68,
+      "speaker": "Presenter",
+      "text": "I even like that little like, good luck at the end, because it's like, okay, you know what, like,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 449.68,
+      "end": 452.5,
+      "speaker": "Presenter",
+      "text": "other people are buying this right now, but good luck getting this.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 452.88,
+      "end": 455.98,
+      "speaker": "Presenter",
+      "text": "Now again, more urgency, more scarcity, and that's kind of the goal",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 455.98,
+      "end": 460.34,
+      "speaker": "Presenter",
+      "text": "when you're doing these videos is to really create a lot of this urgency and scarcity scarcity.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 460.42,
+      "end": 465.8,
+      "speaker": "Presenter",
+      "text": "Uh, but let's go back to the hook, because again, I think what I want to comment on here is like, all right, we kind of did like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 465.8,
+      "end": 470.9,
+      "speaker": "Presenter",
+      "text": "a push and pull, where like we push for this thing that it was like, oh, I got scammed, and it's like, okay, then we pull back.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 470.9,
+      "end": 474.3,
+      "speaker": "Presenter",
+      "text": "It's like, all right, you clearly didn't get scammed, because obviously you wouldn't be running an ad",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 474.3,
+      "end": 478.96,
+      "speaker": "Presenter",
+      "text": "if somebody got scammed. But again, that's where it's like, understand this language that",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 478.96,
+      "end": 482.4,
+      "speaker": "Presenter",
+      "text": "especially with these specific hook patterns, these types of languages",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 482.4,
+      "end": 484.9,
+      "speaker": "Presenter",
+      "text": "can get used up, right? So I'll play this one more time.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 484.9,
+      "end": 486.34,
+      "speaker": "Played audio",
+      "text": "I think I just got scammed. I ordered",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 486.8,
+      "end": 488.72,
+      "speaker": "Presenter",
+      "text": "Right? So, I think I just got scammed",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 488.72,
+      "end": 492.64,
+      "speaker": "Presenter",
+      "text": "is something that a lot of people have probably used and heard by now,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 492.64,
+      "end": 497.54,
+      "speaker": "Presenter",
+      "text": "but it's like, what is happening in this hook that we can then take away to try to apply in a different way,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 497.84,
+      "end": 499.5,
+      "speaker": "Presenter",
+      "text": "right? So again, if we just-",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 499.78,
+      "end": 504.76,
+      "speaker": "Presenter",
+      "text": "And this is where I want you guys to think in frameworks, rather than just copying and pasting, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 505.0,
+      "end": 510.1,
+      "speaker": "Presenter",
+      "text": "And so if we mute this, and we just try to break this down, and we say, I think I just got scammed, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 510.44,
+      "end": 513.94,
+      "speaker": "Presenter",
+      "text": "How can we take this framework? Because like, what happens",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 513.94,
+      "end": 517.16,
+      "speaker": "Presenter",
+      "text": "to the person when they hear this? Well, they're going to",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 517.16,
+      "end": 522.26,
+      "speaker": "Presenter",
+      "text": "associate some kind of negative feeling, there's going to be drama involved, cuz somebody got scammed,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 522.26,
+      "end": 525.3,
+      "speaker": "Presenter",
+      "text": "and it's kind of like setting up this story, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 525.82,
+      "end": 530.16,
+      "speaker": "Presenter",
+      "text": "And so if we think about like, okay, well if this is something that has been abused,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 530.4,
+      "end": 534.28,
+      "speaker": "Presenter",
+      "text": "a lot of people have said like, I think I just got scammed, or like, you're getting scammed if you do this, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 534.28,
+      "end": 537.94,
+      "speaker": "Presenter",
+      "text": "Scam, scam, scam. Everybody's saying that. It's like, okay, well, how can we take a step back",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 537.94,
+      "end": 543.28,
+      "speaker": "Presenter",
+      "text": "to the framework level to just try to apply this in a different way that is net-new, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 543.44,
+      "end": 549.46,
+      "speaker": "Presenter",
+      "text": "Because you don't have to come up with a whole new like, you know, I think I just got scammed. You just kind of have to leverage the framework",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 549.46,
+      "end": 554.6,
+      "speaker": "Presenter",
+      "text": "to say it differently. So how could we say this differently? How could we use this framework to say differently? Well, it's like, okay,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 554.62,
+      "end": 557.24,
+      "speaker": "Presenter",
+      "text": "well, I think [negative thing] just happened.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 557.78,
+      "end": 563.02,
+      "speaker": "Presenter",
+      "text": "right, or \"I think negative thing just happened to me\", right? So, how",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 563.02,
+      "end": 568.08,
+      "speaker": "Presenter",
+      "text": "can we use that framework to potentially steal what it's communicating, right? Because what this is communicating",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 568.48,
+      "end": 572.6,
+      "speaker": "Presenter",
+      "text": "is that something negative just happened to me or to to this person",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 572.6,
+      "end": 577.92,
+      "speaker": "Presenter",
+      "text": "and there's like, obviously, this reaction of someone spitting out their coffee, right? And how can",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 577.92,
+      "end": 581.18,
+      "speaker": "Presenter",
+      "text": "we apply that to our brand? Well, what we can think of is like, okay, well, I think, coming up with these off the top of my head so",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 581.18,
+      "end": 586.82,
+      "speaker": "Presenter",
+      "text": "most of them are going to be trash, but it's like, you know, \"I just realized that most companies are lying to you\",",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 586.86,
+      "end": 593.78,
+      "speaker": "Presenter",
+      "text": "right? And it's like, woah, okay, drama, negative thing, right? That's a completely And, and people have probably said that before,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 593.98,
+      "end": 598.72,
+      "speaker": "Presenter",
+      "text": "um rather than saying like, you know, \"Most companies are lying to you\" because that's coming from my perspective,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 598.72,
+      "end": 605.1,
+      "speaker": "Presenter",
+      "text": "or that's coming from like a company's perspective, you could say like, \"I just found out that most of these companies are lying to you.\" It's like now it's coming",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 605.1,
+      "end": 610.02,
+      "speaker": "Presenter",
+      "text": "again using this same kind of framework whe- where of \"I think I just got scammed\", or like \"I",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 610.02,
+      "end": 614.74,
+      "speaker": "Presenter",
+      "text": "think I just figured out why companies are lying to us\" or something like that, right? Like it's again, it's this",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 614.74,
+      "end": 620.6,
+      "speaker": "Presenter",
+      "text": "negative feeling, this low-valence feeling that we kind of want to create, but, again, we can say it different ways. And now, is",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 620.6,
+      "end": 626.22,
+      "speaker": "Presenter",
+      "text": "\"lying\" the word to use? Potentially, but maybe there are some more powerful words, you know, \"chronically",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 626.22,
+      "end": 632.66,
+      "speaker": "Presenter",
+      "text": "lying\". You can add some of those words that just make it like pop a little bit more, um but again, my, my point with this is like how",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 632.66,
+      "end": 638.58,
+      "speaker": "Presenter",
+      "text": "can we take this, how can we chunk up one level to a framework to, to use this same kind of idea without using",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 638.58,
+      "end": 643.86,
+      "speaker": "Presenter",
+      "text": "it one-to-one? And it's like, okay, well the idea, what this headline communicates, is \"I think this negative thing happened,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 643.86,
+      "end": 648.98,
+      "speaker": "Presenter",
+      "text": "that clearly there is some drama in. How can I use that in my ads without using this",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 648.98,
+      "end": 653.64,
+      "speaker": "Presenter",
+      "text": "one-to-one to essentially create something that appears new, although the framework is",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 653.64,
+      "end": 658.5,
+      "speaker": "Presenter",
+      "text": "the exact same, and the feeling that the person gets is the exact same, but the words that you're using are different?\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 658.8,
+      "end": 663.48,
+      "speaker": "Presenter",
+      "text": "And so, that's how you can get that same effect without ripping this one-to-one,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 663.8,
+      "end": 669.34,
+      "speaker": "Presenter",
+      "text": "okay? So hopefully that makes sense. That was kind of like the whole reason why I wanted to do this video specifically because, again, this video is muted",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 669.34,
+      "end": 674.74,
+      "speaker": "Presenter",
+      "text": "so we can play it. It's like there's nothing really unique about this video, right? And again, it's like rather than just saying like, \"I",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 674.74,
+      "end": 679.1,
+      "speaker": "Presenter",
+      "text": "ordered this supplement and I got all of these other supplements for free\" again, that would be copying",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 679.1,
+      "end": 684.82,
+      "speaker": "Presenter",
+      "text": "the exact same thing that this brand did. How could we do this in a different way? What is the framework here,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 685.24,
+      "end": 689.82,
+      "speaker": "Presenter",
+      "text": "where \"I ordered X product, and they sent me this entire thing\"? So it's like, okay, well, how can we",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 689.82,
+      "end": 696.8,
+      "speaker": "Presenter",
+      "text": "frame this in a way that works for your brand? Well, maybe you can change it in a way where it's like, \"I thought I was getting this\", cuz that's",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 696.8,
+      "end": 703.02,
+      "speaker": "Presenter",
+      "text": "the framework, right? \"I thought I was getting this, I got that instead\", right? So how can we use that differently, where it's like, \"I thought I was buying this product to,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 703.32,
+      "end": 707.7,
+      "speaker": "Presenter",
+      "text": "you know, fix my skin, um but I started losing all of this weight",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 707.7,
+      "end": 712.84,
+      "speaker": "Presenter",
+      "text": "instead\", right? And again, if you wanted to add emphasis on the final part there,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 712.84,
+      "end": 720.16,
+      "speaker": "Presenter",
+      "text": "right, now you can say Now it's like, okay, well, \"I was buying this product to, you know, fix my skin and all of a sudden, I lost like 10 lb\" or \"or I started losing this weight.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 720.16,
+      "end": 727.26,
+      "speaker": "Presenter",
+      "text": "Now that amplifies, right, all of this weight. And you could have a funny play on words where it's like, \"I started losing all this weight, and like I had to stop",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 727.26,
+      "end": 732.32,
+      "speaker": "Presenter",
+      "text": "taking it\", right? And that could be this thing of like, you know, again, \"I was I got lied to\", right? \"This brand lied to me.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 732.32,
+      "end": 738.54,
+      "speaker": "Presenter",
+      "text": "They said it was only going to help my skin, and now it's helping me lose all this weight.\" And that's an example around Xan or the ads that I made",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 738.54,
+      "end": 742.96,
+      "speaker": "Presenter",
+      "text": "for Xan. Like that's a potential angle of how I could take this. And again, I can use the framework, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 742.96,
+      "end": 747.6,
+      "speaker": "Presenter",
+      "text": "I didn't copy it same same for thing uh or word-for-word and say, \"I think I just got scammed\".",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 747.92,
+      "end": 752.58,
+      "speaker": "Presenter",
+      "text": "I copied it by the understanding the feeling that it creates and the framework that exists where I could say,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 752.74,
+      "end": 758.82,
+      "speaker": "Presenter",
+      "text": "\"I just got lied to by a company\", right? Or I could say um you know, \"I just figured out this company is lying\",",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 759.1,
+      "end": 764.08,
+      "speaker": "Presenter",
+      "text": "right? It's like, \"They're telling everyone\", right, let's play it forward, um again, we can frame this differently",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 764.56,
+      "end": 771.06,
+      "speaker": "Presenter",
+      "text": "rather than saying first-person, we can kind of go like Well, it kind of still is first-person, but we can say like we're telling like a narrator more or less, but it's like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 771.2,
+      "end": 774.42,
+      "speaker": "Presenter",
+      "text": "\"They're telling everyone that it's good for their skin, right? I ordered a bag of this coffee.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 774.42,
+      "end": 781.38,
+      "speaker": "Presenter",
+      "text": "I ordered a bag of this, and they're telling everyone it's good for the skin\", we kind of im- implement the benefits, \"but it's making me lose all this weight instead\",",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 781.86,
+      "end": 786.24,
+      "speaker": "Presenter",
+      "text": "right? And so, again, we can take this same framework without stealing this concept one-to-one.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 786.4,
+      "end": 792.46,
+      "speaker": "Presenter",
+      "text": "Again, you can do what you want. If you want to take this concept and apply it to your brand, you can, because say, for example, if you sell,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 792.46,
+      "end": 798.0,
+      "speaker": "Presenter",
+      "text": "I don't know, something in the pet niche, like PetLab Co. could try this as well because it's in a completely different niche.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 798.36,
+      "end": 804.8,
+      "speaker": "Presenter",
+      "text": "And so, I think if you're going to steal, you know, scripts or frameworks, like steal them from other niches, although I don't recommend it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 805.02,
+      "end": 810.5,
+      "speaker": "Presenter",
+      "text": "But again, if you are in the same niche of this, which, technically we're not in coffee, but we're kind of in like supplement in a way, but it's like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 810.72,
+      "end": 814.84,
+      "speaker": "Presenter",
+      "text": "again, it's a powder, we sell powders for Xan, we can take this in a way",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 814.84,
+      "end": 821.08,
+      "speaker": "Presenter",
+      "text": "that, again, like we take the framework of it, like how is it making the person feel? And then, how can we use different words",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 821.08,
+      "end": 826.28,
+      "speaker": "Presenter",
+      "text": "and say it differently? Now, sometimes, because a lot of you guys might not be great at copywriting,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 826.54,
+      "end": 832.44,
+      "speaker": "Presenter",
+      "text": "you might actually make it worse. And so again, even just going back to the hook here, where \"I think I just got scammed\",",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 832.44,
+      "end": 837.24,
+      "speaker": "Presenter",
+      "text": "by me saying like, \"This company is lying to you\", that might actually be",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 837.24,
+      "end": 843.26,
+      "speaker": "Presenter",
+      "text": "a worse headline. I don't know, but that's why we have three different cracks, right? So if I want to say like, \"I think I just got scammed\",",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 843.46,
+      "end": 848.56,
+      "speaker": "Presenter",
+      "text": "we could try one control if we just want to take this one-to-one, but the other two, you should be trying differently,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 848.56,
+      "end": 854.96,
+      "speaker": "Presenter",
+      "text": "right? You should be trying to understand like, what is the emotion that's coming from this? What is this actually communicating? What is this doing?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 855.48,
+      "end": 861.18,
+      "speaker": "Presenter",
+      "text": "And how can I say it differently in a way that's unique to me? Because, now it's like you're just copying what someone else has copied,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 861.18,
+      "end": 867.62,
+      "speaker": "Presenter",
+      "text": "and that usually doesn't lead to like massive breakthroughs. Sometimes it can, again, if you took if you take this and put it into a completely different niche,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 867.9,
+      "end": 874.38,
+      "speaker": "Presenter",
+      "text": "it could potentially work, but my point is is like I want you guys to start thinking from a framework level, and thinking about like what the words are actually",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 874.38,
+      "end": 878.86,
+      "speaker": "Presenter",
+      "text": "saying, so that way, you can ideally even use better words to say it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 879.04,
+      "end": 885.14,
+      "speaker": "Presenter",
+      "text": "Now, that's kind of all I want to say on this video cuz obviously, like this is a very It's very simple, it's very straightforward video, but a lot of you guys",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 885.14,
+      "end": 890.96,
+      "speaker": "Presenter",
+      "text": "probably would see this and just like not understand how to break it down, or how to try to apply it to your brand. So I hope even just on like the hook",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 890.96,
+      "end": 895.86,
+      "speaker": "Presenter",
+      "text": "and the bridge, you could see how I'm starting to think um to apply it to my brand specifically,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 895.86,
+      "end": 901.76,
+      "speaker": "Presenter",
+      "text": "right? Very common ad, very simple ad, very Facebook-style ad, but the prod- product aware market is massive,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 901.76,
+      "end": 906.64,
+      "speaker": "Presenter",
+      "text": "and they have a great offer, so it's like makes sense as to why this is doing well, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 907.08,
+      "end": 913.52,
+      "speaker": "Presenter",
+      "text": "And so, again, that's all I have to comment on this one. Uh I hope you guys are enjoying these breakdowns. Got a few more coming as well, uh but we'll leave it there.",
+      "chunk": 2,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 123.0,
+      "end": 124.2,
+      "label": "laughter"
+    }
+  ]
+}

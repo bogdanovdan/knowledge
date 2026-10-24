@@ -1,0 +1,1327 @@
+1
+00:00:00,000 --> 00:00:05,160
+All right. So, welcome back to part two, where we are now going to go in, and we're going to optimize the heck out of the script.
+
+2
+00:00:05,360 --> 00:00:16,840
+Now, just for the sake of me, you know, just kind of wanting to be in the zone, because I think it's very important for you to be in a zone when you're trying to write and just kind of get lost in the sauce, and what I would recommend, by the way, like, this is very, very serious, like, your phone,
+
+3
+00:00:16,840 --> 00:00:23,460
+wherever your phone is, like, it sends everywhere, like, just throw that shit outside, okay? Like,
+
+4
+00:00:23,460 --> 00:00:35,280
+make sure you just get rid of it. Because I'm telling you, it's going to be so hard for you to concentrate if you have all this other stuff going on, if you've got notifications on on your, whatever it is. Like, just turn everything away for you to write.
+
+5
+00:00:35,720 --> 00:00:44,580
+You need to sit down and like lock yourself in. Eugene Schwartz used to have a great saying where he would say, he sits down at a desk, and if you need to even dedicate another area for your writing, like say,
+
+6
+00:00:44,960 --> 00:00:53,280
+"I don't know, I need to go sit over in the corner to do my writing", have a dedicated writing spot where all you can do for 30 minutes is just write, because I'm telling you,
+
+7
+00:00:53,280 --> 00:01:04,080
+this will make a big difference. You are going to sit there for the first 5 minutes and be like, "Gosh, like, I don't know what to do", or you might, you know, just prolong or, you know, procrastinate and spend two hours thinking about writing it.
+
+8
+00:01:04,260 --> 00:01:15,120
+But once you just sit down and once you just give yourself nothing to do but write, within a matter of minutes, I honestly say within 5 to 10 minutes, you're going to start writing. It's just like your brain, you're going to get bored, and so you're going to do that.
+
+9
+00:01:15,300 --> 00:01:20,760
+And as long as all of your distractions are outside of reach, then you're good, okay? And that's very, very important, okay?
+
+10
+00:01:20,840 --> 00:01:27,480
+Because it's very hard for you to actually write good copy if you have always distractions around you, okay? It requires 100% absolute focus.
+
+11
+00:01:28,140 --> 00:01:33,180
+Now, let's go ahead and jump in to what what have I done, okay? Cuz I've actually been working on this for, I don't know, probably about 20 minutes.
+
+12
+00:01:33,600 --> 00:01:43,900
+And so what I actually did is, I, when I was looking at this across the hooks, I saw there was a hook there that I I I really wanted to, and this is a learning that I've had recently, and I'm sharing it with you guys,
+
+13
+00:01:43,940 --> 00:01:55,260
+where I wanted to optimize for something called slightly lower valence, which just means like it's a little bit more, I don't want to say fear driven, but it's essentially just like tapping into some of that, you know, rather than like,
+
+14
+00:01:55,260 --> 00:02:02,320
+"You're going to lose weight", it's like, "Hey, like this might be a problem", okay? And so that's called lower valence. We talked about that at a higher level later on in Evolve.
+
+15
+00:02:02,380 --> 00:02:13,180
+But I'm giving basically people a reason to watch to make sure that they're not doing something wrong with their diet. And I really like this idea, because when you can hook someone in to make sure that something is not wrong with them,
+
+16
+00:02:13,180 --> 00:02:16,540
+it really holds attention well to ensure that they aren't at risk.
+
+17
+00:02:16,940 --> 00:02:27,780
+So can we optimize a hook for the script using this idea? And so this is something where Claude came back, said, "Three signs your body is working against your diet", "Warning signs about your appetite", or "Warning signs your appetite hormone is broken",
+
+18
+00:02:28,380 --> 00:02:35,680
+"The diet mistake making you hungrier and why you can't stop thinking about food." I really love this as like, "Three signs your body is working against your diet".
+
+19
+00:02:35,680 --> 00:02:45,720
+But the problem is, is like this isn't actually a concept that I can work with based off of what I what what we have so far, okay?
+
+20
+00:02:45,720 --> 00:02:51,340
+But what you can do, and I actually forgot to do this, is you can come in here, and guess what? We can add that as a new concept,
+
+21
+00:02:51,340 --> 00:02:53,120
+okay? I'm actually going to give this Claude,
+
+22
+00:02:54,080 --> 00:03:04,880
+right? So, "Three signs your body's working against your diet." This could be really interesting to get people who are on a diet to be like, "Well, I wonder if my body is actually working against me", right?
+
+23
+00:03:04,880 --> 00:03:11,580
+Really good way to keep attention. Again, curiosity, holding attention, giving people, giving people a reason to keep watching,
+
+24
+00:03:11,580 --> 00:03:20,500
+okay? And so, I'm drawing that down as an idea for later. But I came back and I said, "I like the idea of if you're dieting, then you might have this broken hormone, but this just doesn't sound right."
+
+25
+00:03:20,600 --> 00:03:28,640
+And so, I basically like saw what Claude wrote and I was like, "I really like this. You know, I just want to say like, 'Hey, if you're doing this on a diet, you might have this issue.'"
+
+26
+00:03:28,640 --> 00:03:36,900
+And so, Claude came back and said, "If you think about food all day, your appetite hormone might be broken", "If you're always hungry on 1200 calories, your body might be fighting you." And I was like, "Ooh, I like that."
+
+27
+00:03:37,200 --> 00:03:46,580
+And so, I came back to Claude, I said, "I really like, you know, 'If 1200 calories is impossible, you're missing this hormone', but isn't DDP-4 not a hormone?" Again, it's an enzyme, right?
+
+28
+00:03:47,040 --> 00:03:56,700
+And Claude's saying, "Shit, Spencer, you're right. I know." This is, again, why you guys can't blindly trust AI, cuz AI is, again, it fills in a lot of gaps for you, but it's not always right.
+
+29
+00:03:57,160 --> 00:04:02,380
+And so, then it came back and it said, "If 1200 calories feels impossible, your appetite hormone is being destroyed."
+
+30
+00:04:02,840 --> 00:04:12,760
+And I love this, because most people are going to say, "Yeah, that is impossible." But now, there's this thing where it's like, "Well, what appetite hormone is being destroyed? I'm interested", right?
+
+31
+00:04:13,080 --> 00:04:18,060
+I am hooked in. I'm going to bet money that that hook is going to perform the best, but I just want to
+
+32
+00:04:18,060 --> 00:04:23,020
+say that sometimes I am wrong with that. But, here are the actual hooks
+
+33
+00:04:23,020 --> 00:04:26,960
+and the bridges that I have put together here, okay? And so,
+
+34
+00:04:26,960 --> 00:04:31,260
+this is after me kind of going through and optimizing things off of the original script. So, hook
+
+35
+00:04:31,260 --> 00:04:37,280
+number one is, "After 40, your body makes three times more of this one enzyme that makes calorie deficits impossible."
+
+36
+00:04:37,920 --> 00:04:43,220
+Now, you might be looking at this, say, "Spencer, why why are you writing after 40? You don't What What do you Wait, where's
+
+37
+00:04:43,220 --> 00:04:47,120
+where's the demograph- I don't see 40 here." And again, guys,
+
+38
+00:04:47,300 --> 00:04:51,660
+this is where you know your customer and know who you're going after. A lot of
+
+39
+00:04:51,660 --> 00:04:55,580
+these customers are going to have implied demographics, okay? And I also
+
+40
+00:04:55,580 --> 00:04:59,740
+know, just from the ad account, based on what we're spending, that 40+ is really a lot of our age.
+
+41
+00:04:59,740 --> 00:05:05,560
+Now, I might drop this, and you'll notice that I don't actually Well, I do mention this in the bridge. I might change this,
+
+42
+00:05:05,620 --> 00:05:10,360
+but I'm going to kind of go after more of a of an older demographic here, okay? So, 40+
+
+43
+00:05:10,640 --> 00:05:15,480
+because I just know that that is where a lot of our customer is, specifically for this brand. So,
+
+44
+00:05:15,480 --> 00:05:23,880
+digressing on that point, the first hook is, "After 40, your body makes three times more of this one enzyme that makes calorie deficits impossible." Quite interesting, right?
+
+45
+00:05:24,320 --> 00:05:30,840
+"My doctor told me it's called DPP-4, and it's literally breaking down your 'I'm full' hormone every two minutes.
+
+46
+00:05:31,360 --> 00:05:37,900
+Basically, this one enzyme is what is why you have to avoid walking past the kitchen pantry even after you just ate."
+
+47
+00:05:38,260 --> 00:05:41,880
+And so, how did I optimize this from what it was before? Cuz I want to go
+
+48
+00:05:41,880 --> 00:05:46,000
+up and show you guys what this what the bridge was before, where it says, uh, "It destroys your appetite hormone
+
+49
+00:05:46,000 --> 00:05:49,840
+every two minutes, so your brain never gets a signal to stop eating. That's why every diet feels impossible."
+
+50
+00:05:50,400 --> 00:05:54,560
+And so, what you'll notice here is I kind of blended some of this stuff into the hook. And again, this is not the final version,
+
+51
+00:05:54,560 --> 00:05:59,520
+this is just a check-in to show you guys of like where I'm going, because I don't want to get to the final version without showing you guys
+
+52
+00:05:59,520 --> 00:06:05,180
+kind of through the progression. Um and so here I'm I I'm probably going to clean this up because it's a little bit wordy, and all that kind of stuff,
+
+53
+00:06:05,180 --> 00:06:09,300
+but my idea is now, I'm What am I doing? I'm going back into the research,
+
+54
+00:06:09,300 --> 00:06:14,380
+and I want to start reading about some of these things that people are doing, right?
+
+55
+00:06:14,380 --> 00:06:19,320
+Now, here if I'm taking a look at this, it's like continuing continuously, uh, restricting yourself,
+
+56
+00:06:19,820 --> 00:06:23,780
+um you know, being mindful of everything that goes in the mouth, all th- all these kinds of things. And then,
+
+57
+00:06:23,780 --> 00:06:28,760
+you know, I was jumping into Reddit and I was watching some of the stuff and people say like they have to avoid the kitchen
+
+58
+00:06:28,760 --> 00:06:33,440
+and stuff like that. And I was like, "Okay. Well, that is, again, showing not telling. I'm explaining to them
+
+59
+00:06:33,440 --> 00:06:39,120
+that I you know like I understand this pain point, like, 'I have to avoid walking past the kitchen pantry.'" And so, I said kitchen pantry,
+
+60
+00:06:39,120 --> 00:06:43,440
+a little bit more specific than just avoiding the kitchen. But that's where I'm pulling that research and
+
+61
+00:06:43,440 --> 00:06:47,620
+putting this in because Claude is not always going to do that, and so that's where you have to come in and
+
+62
+00:06:47,620 --> 00:06:52,520
+and do research while you're writing this, okay? And so, you can see here, I was looking at,
+
+63
+00:06:52,620 --> 00:06:57,620
+you know, like anyone having benefited from weight loss supplements. So, I was doing some more research on supplements and stuff like that as well.
+
+64
+00:06:57,620 --> 00:07:03,220
+But my point is, is here's the first hook that I wrote, and then here is the bridge. The next one I have is the one that I just showed you guys,
+
+65
+00:07:03,220 --> 00:07:08,040
+which is the, "If 1,200 calories feels impossible, your appetite hormone is likely being destroyed."
+
+66
+00:07:08,040 --> 00:07:13,760
+Now, if I'm someone where it's like, "Yeah, this is impossible. What What does this mean? Like, what do you mean it's being destroyed?" Don't
+
+67
+00:07:13,760 --> 00:07:18,440
+know this, right? New information. Okay. "After 40, your body makes three times more of one enzyme
+
+68
+00:07:18,440 --> 00:07:24,580
+that makes calorie deficits impossible." Now, am I shooting myself in the foot by saying, "After 40," here and potentially could dishooking people
+
+69
+00:07:24,580 --> 00:07:28,640
+who aren't 40? 100%. But this is just the data that I
+
+70
+00:07:28,640 --> 00:07:33,780
+have from the information. I'm not going to lie to people and say, "Well, this happens when you're 30." At the end of the day, I have information
+
+71
+00:07:33,780 --> 00:07:39,740
+that says this, okay? And so, then you'll notice it's very similar to this. This is literally the exact same hook.
+
+72
+00:07:40,780 --> 00:07:46,020
+And so, you might be like, "Well, Spencer, why Why are you using this bridge in the hook?" Well, it's cuz I also liked this as a hook.
+
+73
+00:07:46,020 --> 00:07:51,400
+And there's actually a strategy that we will talk about later on, which is Well, not later on in this program, but
+
+74
+00:07:51,400 --> 00:07:56,520
+it's called in medias res, and basically what that means is like you're just kind of starting right in the middle. Um and so at the end
+
+75
+00:07:56,520 --> 00:08:01,000
+of the day, you're not really like leading or hooking someone in. You're just saying like, "Hey, after 40" Like, you just get straight to the point.
+
+76
+00:08:01,000 --> 00:08:05,200
+That's It's basically what that means, okay? "And it's slowly breaking down your 'I'm full' hormone.
+
+77
+00:08:05,200 --> 00:08:10,040
+Basically, this one hormone," and you'll notice I've basically made these two bridges essentially the same,
+
+78
+00:08:10,200 --> 00:08:13,480
+I've just kind of put a hook in front of this one, okay? And then next one I have
+
+79
+00:08:13,480 --> 00:08:18,200
+over here is very similar. I don't think I changed this one yet, but it says, "Can't stop thinking about food? It's not your fault,"
+
+80
+00:08:18,720 --> 00:08:23,140
+okay? "After 40" And this is just a super relatable hook that I'm trying to go into, right?
+
+81
+00:08:23,480 --> 00:08:28,760
+"After 40, your body starts making three times more of blah blah blah blah blah. And this one thing
+
+82
+00:08:28,760 --> 00:08:32,180
+destroys your appetite hormone every two minutes," and I love this as well. Um
+
+83
+00:08:32,500 --> 00:08:38,080
+again, you'll see this in all of them. And then here I changed it just slightly where I say, "And exactly why food noise never stops,
+
+84
+00:08:38,080 --> 00:08:43,400
+and why staying below your calorie limit is literally impossible," right? Or, "feels impossible,"
+
+85
+00:08:43,400 --> 00:08:47,680
+okay? I again, I'm going to clean this up as well, but you'll notice taking a little bit of a different swing here,
+
+86
+00:08:47,860 --> 00:08:52,780
+but at the end of the day, you can kind of see how I am working with these hooks to get them to where they want to go.
+
+87
+00:08:53,120 --> 00:08:57,680
+Now, where I've done the most amount of work is actually in the hold, because I was really not a fan
+
+88
+00:08:57,680 --> 00:09:02,900
+of how this came out, and I mentioned this in the first video, where it says, "I know what you're thinking. You've tried supplements before and they didn't work." That to me
+
+89
+00:09:02,900 --> 00:09:06,660
+is just not specific enough. And so, what I started doing is when I was writing this,
+
+90
+00:09:06,740 --> 00:09:11,800
+I said, "All right. Well, you've probably seen" cuz what are we? I mean, I don't want to categorize myself, and just FYI,
+
+91
+00:09:11,900 --> 00:09:16,980
+I'm actually going to put this back into the AI and say, "Here's the script that I wrote. Let me know where it has issues
+
+92
+00:09:16,980 --> 00:09:21,460
+based off of the prompt," because I'm likely going to change this, because I've kind of categorized myself here
+
+93
+00:09:21,460 --> 00:09:27,160
+with natural weight loss strategies, which I don't want to do. So, we'll see what that looks like in the next version and the next check-in,
+
+94
+00:09:27,340 --> 00:09:32,300
+but this is just what I wrote. And I kind of came in, and I just rewrote a lot of this. And so, I'm going to try to help you guys understand what I'm thinking,
+
+95
+00:09:32,600 --> 00:09:36,800
+but I basically said, "Okay, you know, you've probably seen all the natural weight loss
+
+96
+00:09:36,800 --> 00:09:41,980
+strategies, but the problem is is none of them work long-term," right? So, I'm kind of Here's Here's this objection,
+
+97
+00:09:41,980 --> 00:09:47,220
+right? And I know a lot of people say it doesn't work long term. "And they don't work because they only fix half
+
+98
+00:09:47,220 --> 00:09:52,780
+of the problem." Now, again, I'm providing new information. I say, "They only boost
+
+99
+00:09:52,780 --> 00:09:57,760
+your satiety horr- horns- I can I don't know what is wrong with me. English is just not my strength.
+
+100
+00:09:58,360 --> 00:10:02,680
+They only boost Basically, I want I might change this to GLP-1 as well, but I might just say, "They only boost,
+
+101
+00:10:02,960 --> 00:10:06,980
+you know, your fullness hormone. None of them protect it." And this to me
+
+102
+00:10:06,980 --> 00:10:13,960
+is the unique mechanism that I've now identified and you know this is obviously something that was probably in here. I think this is
+
+103
+00:10:13,960 --> 00:10:16,800
+medical mechanisms. So, they have um
+
+104
+00:10:16,800 --> 00:10:21,460
+Where is it? Finding the mechanism. The natural GLP-1 protective Literally, the first one. I'm an idiot.
+
+105
+00:10:22,180 --> 00:10:24,140
+So, it was right there, okay?
+
+106
+00:10:24,140 --> 00:10:29,300
+Everyone knows this, but nobody's ever mentioned this enzyme that destroys GLP-1.
+
+107
+00:10:29,740 --> 00:10:35,280
+And so, Dyglofit basically, what this allows you to do is essentially protect your hormone.
+
+108
+00:10:35,880 --> 00:10:38,800
+And so, when I saw that, I was like, that is genius, okay?
+
+109
+00:10:39,780 --> 00:10:41,360
+And so, here, okay, none of them protect it.
+
+110
+00:10:41,500 --> 00:10:50,280
+Well, your body may see some improvements for the first couple of days, but then your body catches up, produces more DPP-4, and all of a sudden This should be on one line.
+
+111
+00:10:51,000 --> 00:10:54,820
+you're back to cravings, right? And now it's like, oh, that kind of makes sense, right?
+
+112
+00:10:55,240 --> 00:11:00,620
+None of these, and I might I don't want to say natural weight loss strategies again, 'cause I was trying to avoid categorizing myself, but,
+
+113
+00:11:00,620 --> 00:11:05,120
+"None of these fixes actually fix the real source that is destroying it,"
+
+114
+00:11:05,560 --> 00:11:08,940
+right? Now that needs to be cleaned up a little bit. Then I say, "except for Metaglow,"
+
+115
+00:11:09,300 --> 00:11:12,960
+right? "Metaglow is the first collagen to have Dyglofit inside,
+
+116
+00:11:13,560 --> 00:11:17,880
+and this rare African fruit," which is actually Dyglofit is. I've got to do a little bit more research on that, just to confirm,
+
+117
+00:11:18,200 --> 00:11:22,220
+"is the only ingredient that has been clinically proven to block DPP-4."
+
+118
+00:11:22,220 --> 00:11:27,820
+Again, I need to validate these claims, but I'm I was just in the flow. I was just writing. I'm going to come back and clean this stuff up later, right?
+
+119
+00:11:28,100 --> 00:11:36,320
+Meaning it tells your body to finally stop destroying your satiety hormone I'm Really, I am so sorry for anybody who is an English major. so you can stay full.
+
+120
+00:11:36,800 --> 00:11:37,960
+And then I go into proof,
+
+121
+00:11:38,400 --> 00:11:46,360
+right? In a 12-week study with 90 women, they saw an increased GLP-1 an increase of GLP-1 by 58%.
+
+122
+00:11:46,360 --> 00:11:55,960
+Again, this is not reading properly. I'm going to clean it up. And on average, they 25% fewer calories in the first, okay, in the first seven days.
+
+123
+00:11:56,500 --> 00:12:02,680
+Not by white-knuckling their way through or filling themselves with synthetic hormones. Now I'm really kind of
+
+124
+00:12:02,680 --> 00:12:05,360
+digging in the knife for those Ozempic takers, right?
+
+125
+00:12:05,800 --> 00:12:08,240
+"but by simply protecting their hormones,"
+
+126
+00:12:08,540 --> 00:12:12,280
+and I might add more, you know, "with Dyglofit,"
+
+127
+00:12:13,700 --> 00:12:14,040
+right?
+
+128
+00:12:14,960 --> 00:12:17,480
+Or I might just say, Metaglow. I might I might figure that out.
+
+129
+00:12:17,480 --> 00:12:21,440
+Now, "and as a result, their brain finally got the signal to stop
+
+130
+00:12:21,440 --> 00:12:26,960
+eating. And now, thanks to Metaglow, thousands of other women with intense cravings are seeing the same."
+
+131
+00:12:27,120 --> 00:12:34,840
+Now, I might not say intense here. I might change this, but again, I'm just saying again, I'm going after that sub-avatar of women who have cravings. "Imagine actually being satisfied
+
+132
+00:12:34,840 --> 00:12:40,320
+while in a deficit, or no longer having to stay busy just so you can stop thinking about food.
+
+133
+00:12:40,920 --> 00:12:47,020
+That's what happens when your appetite hormone" Again, I'm going to have to make sure all of the language is the same here. "appetite hormone is protected."
+
+134
+00:12:47,800 --> 00:12:55,080
+And what I mean by that is when I keep saying appetite hormone, satiety hormone, all that kind of stuff, I've got to make sure it's all aligned. is actually protected. Plus,
+
+135
+00:12:55,360 --> 00:13:02,740
+it has marine collagen for your skin and joints. And if you're over 40, you know your skin and joints need all the love they can get. This company is so confident"
+
+136
+00:13:02,960 --> 00:13:08,500
+You'll notice I'm kind of saying this from like third person. Why am I doing that? Because I don't want to make it sound like it's coming
+
+137
+00:13:08,500 --> 00:13:13,740
+from the company. I want to make it sound like I'm kind of a reporter on this. "This company is so confident
+
+138
+00:13:13,740 --> 00:13:17,500
+you'll love Metaglow that you can try it for 60 days risk-free.
+
+139
+00:13:17,900 --> 00:13:25,520
+And if it doesn't work, they'll they'll refund you. Your body has been fighting against your diet. Metaglow helps you fight back. Try it for less than $2 a day,"
+
+140
+00:13:25,860 --> 00:13:34,160
+okay? And so there we go. And so now I've kind of gotten this script in a way where it's like it's kind of Spencer-ified, and I and I really like it. I like how it flows. I like how it feels. But
+
+141
+00:13:34,160 --> 00:13:39,520
+I need 'cause everybody has their own style of writing. And so I have a very specific way of writing. But now what I'm going to do
+
+142
+00:13:39,520 --> 00:13:45,260
+is I'm going to take this, and I'm going to run it back through the prompt. I'm like, okay, where where did I mess up here? Because just like how AI can mess up,
+
+143
+00:13:45,540 --> 00:13:47,040
+I can mess up,
+
+144
+00:13:47,380 --> 00:13:54,440
+okay? And so, I'm going to take these scripts that I have, I'm going to run them back through, I'm going to get some more feedback, complete some more feedback loops.
+
+145
+00:13:54,680 --> 00:14:00,460
+I'm going to confirm this, and confirm that. I might do a little bit more research as well. But I wanted to show you guys how I took that initial script.
+
+146
+00:14:00,900 --> 00:14:05,860
+And honestly, a lot of it, I I kind of just rewrote it, but I was following this idea of protecting your hormone,
+
+147
+00:14:05,860 --> 00:14:13,400
+'cause I I I really loved it. I'm still using a lot of this great, great poll here. I'm also using this kind of benefit
+
+148
+00:14:14,420 --> 00:14:21,620
+scenario here, using the secondary benefit, you know, kind of talking about how these other things don't have Dyglofit. I did kind of extend the objection
+
+149
+00:14:21,620 --> 00:14:29,780
+a little bit longer, right? "You've probably seen another natural weight loss strategy, blah, blah, blah, blah, blah, none of them protect it," right? That I'm kind of talking now into the claim here
+
+150
+00:14:29,780 --> 00:14:37,200
+where I'm saying they only fix half the problem. That's why they didn't work, which makes sense. And so now, you know, we're going to get into the final
+
+151
+00:14:37,200 --> 00:14:41,960
+part of this, which is going to be piecing this all together. So, just wanted to share this with you guys, wanted to help you guys understand, and again,
+
+152
+00:14:42,120 --> 00:14:49,440
+we're going to get into like how to fill this in with content, and all that kind of stuff, as well. But it's important that, again, you guys are take the time to go deep on this stuff
+
+153
+00:14:49,440 --> 00:14:58,280
+and making sure that you are writing and then coming back, checking with AI, and just going back and forth, right? So, I would rather see you guys spend a whole day
+
+154
+00:14:58,280 --> 00:15:05,440
+on one brief, making it as good as you possibly can, versus trying to do five a day, okay? You don't need to worry about volume right now. You just need to worry
+
+155
+00:15:05,440 --> 00:15:12,300
+about one to two really good briefs per day and Or, sorry, one brief, I would say, even, per day. And especially if they're videos,
+
+156
+00:15:12,300 --> 00:15:20,880
+that is going to get you to the point where you're actually really going deep and you know that you're putting your best foot forward and putting your best work out there, okay? So, I'm going to go ahead,
+
+157
+00:15:20,880 --> 00:15:23,880
+work on this brief a little bit more, and then we're going to tap back in.
+
+158
+00:15:24,060 --> 00:15:30,380
+Alrighty, guys. We are now back, and not sure how long it took. I don't know, maybe it was like 45 minutes or something like that. Did a lot more research
+
+159
+00:15:30,380 --> 00:15:36,380
+and basically just got to the point where like As you guys can see, like just the level of depth, and I want you guys to know like once you get in the flow of doing
+
+160
+00:15:36,380 --> 00:15:42,580
+this stuff every day, like it's pretty easy to kind of get in the flow. I'm obviously having to stop, having to record, having to like,
+
+161
+00:15:42,580 --> 00:15:51,020
+you know, deal with other business stuff because I'm obviously not a dedicated copywriter at the company. But once you're kind of in the flow, I just want to show you guys that it's like, you know, you don't really have an excuse
+
+162
+00:15:51,020 --> 00:15:54,100
+to not get an ad done per day. But here is the final ad
+
+163
+00:15:54,780 --> 00:15:57,780
+that I came up with, and so might be a little bit different than what you saw before.
+
+164
+00:15:58,300 --> 00:16:04,860
+But I'm going to try to scroll through the actual process here of what I did while using Claude as well,
+
+165
+00:16:05,340 --> 00:16:08,260
+and some of the research that I did. But here we go, this is actually still the same.
+
+166
+00:16:08,480 --> 00:16:12,220
+And then, as you can see, I actually adjusted this to saying, "Scientists call it DPP4."
+
+167
+00:16:12,540 --> 00:16:16,980
+And the reason why I did that is because I like how this still keeps the authority frame.
+
+168
+00:16:16,980 --> 00:16:20,580
+Rather than saying "a doctor," we just say "a scientist." And it still has authority,
+
+169
+00:16:20,580 --> 00:16:24,840
+but it doesn't make this first-person. Cuz this is not a first-person video that we're shooting here;
+
+170
+00:16:25,040 --> 00:16:28,200
+this is kind of more of like a third-person AI voiceover thing, okay?
+
+171
+00:16:28,620 --> 00:16:32,080
+Now, "Scientists call it DPP4, and it's literally breaking down your fullness hormone."
+
+172
+00:16:32,400 --> 00:16:36,500
+And now you'll notice that I did some extra research with Claude. So, I'll try to scroll back up
+
+173
+00:16:36,500 --> 00:16:40,560
+as well and kind of give you guys an inside look on what I was doing. I had Claude
+
+174
+00:16:40,560 --> 00:16:44,520
+do a little bit of research. I was pasting in some Reddit threads here.
+
+175
+00:16:45,580 --> 00:16:51,620
+I'm going to keep going and and try to find some of the stuff that I think is important. But basically, I asked Claude to do some research to say,
+
+176
+00:16:51,680 --> 00:16:57,200
+"Hey, what do people actually call this thing?" And a lot of people said, "Hey, they call it the fullness hormone." And so, that's what I'm calling it, okay?
+
+177
+00:16:57,360 --> 00:17:01,040
+Using my customer's data to actually do it. "This one enzyme," and I should probably
+
+178
+00:17:01,040 --> 00:17:03,620
+correct this to being straightforward,
+
+179
+00:17:04,320 --> 00:17:09,440
+"This one enzyme is why you have to avoid walking past the kitchen pantry even after you just ate."
+
+180
+00:17:09,940 --> 00:17:12,060
+And now again, we'll have to see how this does.
+
+181
+00:17:12,460 --> 00:17:17,300
+I'm not too sure how I feel about this bridge specifically, but we'll see how it goes. And then you'll notice over here,
+
+182
+00:17:17,300 --> 00:17:23,540
+I actually adjusted this hook to saying, "If 1200 calories feel like torture, your your fullness hormone is likely being destroyed."
+
+183
+00:17:23,960 --> 00:17:26,920
+And now, this is again me just using proper customer language.
+
+184
+00:17:27,120 --> 00:17:31,380
+A lot of people said it feels like torture when you're eating this low, and so again, I'm tapping into that.
+
+185
+00:17:31,480 --> 00:17:35,600
+I'm not saying, "If 1200 calories feels impossible," like how I had before.
+
+186
+00:17:35,620 --> 00:17:39,000
+I've transitioned it into "torture" because that's what my customers actually use, right?
+
+187
+00:17:39,260 --> 00:17:42,900
+Using the data from this. And I'll show you another example where I actually use this
+
+188
+00:17:42,900 --> 00:17:47,060
+as well. You could see I searched up "slut" to find a specific thing.
+
+189
+00:17:47,060 --> 00:17:50,800
+And then I ended up changing this one to "Here's why you can't stop thinking about food all day."
+
+190
+00:17:51,480 --> 00:17:56,020
+And so, I felt this would be kind of an interesting educational one as well for people who are obviously problem aware.
+
+191
+00:17:56,020 --> 00:17:58,960
+You'll notice most of these are all problem aware, okay?
+
+192
+00:17:59,720 --> 00:18:03,840
+This is a little bit more around calorie deficits feeling impossible, again problem aware.
+
+193
+00:18:04,000 --> 00:18:08,840
+"1200 calories feeling like torture," problem aware. "Here's why you can't stop thinking about food all day," problem aware, okay?
+
+194
+00:18:09,200 --> 00:18:14,520
+And then you'll see how I kind of go through this process here. I educate them on the problem, and then we transition to what I feel like
+
+195
+00:18:14,520 --> 00:18:17,900
+is a much stronger hold. So now, I I mentioned with Claude before,
+
+196
+00:18:17,900 --> 00:18:22,120
+and I want to try to go back up and explain how, you know, I basically,
+
+197
+00:18:22,380 --> 00:18:27,260
+I got some feedback from Claude. I'm going to see if I can find this one here. I was like, "Hey, does this categorize us?"
+
+198
+00:18:27,580 --> 00:18:32,040
+And then it said, "Yes, this does kind of categorize us," whatever it is. And now, there are going to be times where,
+
+199
+00:18:32,040 --> 00:18:39,680
+you know, I I wanted to say that like, "Yes, these principles and these copywriting things are important to follow, but sometimes
+
+200
+00:18:39,680 --> 00:18:43,920
+it's hard to follow them to a T, okay?" But you want to try to do your best to make sure
+
+201
+00:18:43,920 --> 00:18:51,300
+that you're, you know, going through it, right? And and following it to an extent, okay? And so, what I'm trying to find here
+
+202
+00:18:51,300 --> 00:18:53,620
+is essentially the area where I asked,
+
+203
+00:18:53,680 --> 00:18:58,620
+you know, Claude to basically re-explain this because I didn't feel like supplements
+
+204
+00:18:58,620 --> 00:19:04,420
+in general was specific enough. And so, here I am slightly categorizing myself, but I'm doing so in a way
+
+205
+00:19:04,420 --> 00:19:08,880
+that is hopefully going to be worth the trade-off because I'm building more trust.
+
+206
+00:19:09,160 --> 00:19:13,400
+So my objection here is, "You've tried GLP-1 supplements, appetite-"
+
+207
+00:19:13,400 --> 00:19:17,600
+and I might switch this to "natural," but I have "natural alternatives" over here, so I've kind of left this.
+
+208
+00:19:17,660 --> 00:19:21,100
+I'm actually not going to change this script anymore cuz it's it's it's done to the point, okay?
+
+209
+00:19:21,140 --> 00:19:26,780
+So, "You've tried GLP-1 supplements, appetite suppressants, and natural alternatives. Now, the one thing that I want to talk about here
+
+210
+00:19:26,780 --> 00:19:32,380
+is just GLP, I might change this to "GLP-1 boosters," but I didn't want people to think of that as like the injection.
+
+211
+00:19:33,280 --> 00:19:40,360
+And I said basically, "The problem is none of these work long term. The reason why they don't work is that they only fix half
+
+212
+00:19:40,360 --> 00:19:45,100
+of the problem. They only boost your fullness hormone, none of them protect it.
+
+213
+00:19:45,340 --> 00:19:50,040
+So, your body may see some improvement for the first couple of days, but as soon as it catches up,
+
+214
+00:19:50,040 --> 00:19:54,680
+it produces more DPP4. And the next thing you know, you're elbow-deep in a bag of something crunchy."
+
+215
+00:19:54,680 --> 00:20:00,000
+And how did I get that, "something crunchy"? Well, because I found that even though this is a different sub-avatar,
+
+216
+00:20:00,000 --> 00:20:05,800
+I mean, this is all kind of going around people who are struggling, again, with the main desire, "I want to be in control of my cravings."
+
+217
+00:20:05,800 --> 00:20:10,040
+And so, here you'll notice I'm pulling some things from some from this entire doc in general.
+
+218
+00:20:10,040 --> 00:20:13,360
+So, "I'm a slut for crunch" was then used. So I was like, "Well, next thing you know,
+
+219
+00:20:13,360 --> 00:20:17,480
+you're deep in a bag of something crunchy." I didn't say "deep in a bag of chips," although that could be more specific and good.
+
+220
+00:20:17,660 --> 00:20:22,920
+I just wanted to leave it more broad for people who just want to eat something crunchy, which a lot of people seem to want.
+
+221
+00:20:23,220 --> 00:20:29,600
+"None of these 'fixes' actually fixes the real source of your cravings except for MetaGlow."
+
+222
+00:20:29,740 --> 00:20:33,900
+And now we transition into this, and you'll notice here that I was I actually took some lines,
+
+223
+00:20:33,980 --> 00:20:37,660
+and this is what I was trying to show you guys, is you know, I took specific lines here
+
+224
+00:20:37,660 --> 00:20:43,360
+and I was like, you know, "Here here is the one where I I was trying to show you guys before." I was like, "I feel like 'You've tried
+
+225
+00:20:43,360 --> 00:20:47,500
+other supplements for appetite control' is just so broad and not specific enough." I was like, "I like this one better."
+
+226
+00:20:47,940 --> 00:20:52,920
+I'm like, "Boom, here's a bunch of information from a Reddit thread." What did I do? I went into Reddit and I just copied a bunch of this stuff.
+
+227
+00:20:53,320 --> 00:20:57,840
+I went to specific threads, and I copied all the way down, and I just pasted it in here. Now, should I read this?
+
+228
+00:20:58,040 --> 00:21:03,500
+Yes, but I'm trying to focus on getting the script done, and so I'm trying to support Claude with getting specific information,
+
+229
+00:21:03,960 --> 00:21:07,240
+right? So, "100% right, that line is the most specific and powerful. Here it goes,
+
+230
+00:21:07,440 --> 00:21:12,200
+it's like my take, go with your gut, go with this." I added some other optimizations, like, "Okay, great."
+
+231
+00:21:12,720 --> 00:21:17,200
+And I said, "What about adding something the line that says, you know, you don't want to inject yourself with synthetics?"
+
+232
+00:21:17,740 --> 00:21:21,980
+And it said, "Hey, you know, you could do this, but I'm not really sure." End of the day, I was just having conversations
+
+233
+00:21:21,980 --> 00:21:26,520
+with Claude line by line while I'm writing this. And that's why it's important to go through line by line.
+
+234
+00:21:26,980 --> 00:21:27,760
+And so, here
+
+235
+00:21:27,760 --> 00:21:35,280
+if we scroll down to this line specifically, I was like, hey, is this true, this is an African rare fruit? It's like, well, there's nothing that shows that it's rare.
+
+236
+00:21:35,480 --> 00:21:39,080
+I was like, you know, is daigla- daiglomera actually a rare African fruit extract?
+
+237
+00:21:39,360 --> 00:21:43,020
+Let me check. It is, but it doesn't say it's unclear if it's rare. Might not be the best to say rare.
+
+238
+00:21:43,540 --> 00:21:50,180
+I'm fine with saying it. Some claims you can push, some claims you don't want to push. If we scroll down a little bit further, I think I wanted to get to the point where
+
+239
+00:21:50,180 --> 00:21:57,220
+I was showing you guys about a specific line where I wanted some, you know, comedic relief, so let me jump into that.
+
+240
+00:21:57,520 --> 00:22:04,720
+Here's actually the example where I'm saying, what about the "I'm full" hormone? Can you do some deep research around what customers actually say? "I'm full" hormone doesn't exist, right?
+
+241
+00:22:04,840 --> 00:22:11,760
+So, like, that was something I just want to call it, but, like, this doesn't exist in natural language, right? Search health articles, Reddit forums, customer reviews.
+
+242
+00:22:11,900 --> 00:22:17,360
+Didn't search the entire, you know, internet, but what people actually say, the hormone that keeps you feeling full, fullness hormone,
+
+243
+00:22:17,640 --> 00:22:24,320
+satiety hormone, right? So, appears in some articles. So, customers describe the function, feeling full, keeps you full longer, tells your brain
+
+244
+00:22:24,520 --> 00:22:33,580
+you're satisfied, the hormones that tells you when you're full. When researching supplements, they search GLP-1 supplements and GLP-1 booster. My recommendation stands: use the dual approach,
+
+245
+00:22:33,580 --> 00:22:40,040
+fullness hormone for emotional and GLP-1 for clinical, okay? So, why "I'm full" doesn't work. It's just giving me some final information.
+
+246
+00:22:40,680 --> 00:22:48,020
+I said, hey, can I get your final thoughts on my other two hooks and bridges? So, I had it scan through these as well, and it gave me some information. That's how I optimized a little bit better.
+
+247
+00:22:48,140 --> 00:22:56,700
+I said that I went with this. I wanted to exclude the demographic, and so that's what we did. I said, I like this, blah, blah, blah, blah, blah. You guys can see the point. I'm just showing you this
+
+248
+00:22:56,700 --> 00:23:05,060
+quickly so you guys can understand how I'm communicating. And I said, here's a line that I'm looking for. I want to add some comedic relief with this line, but I need a specific pain point that's mentioned
+
+249
+00:23:05,060 --> 00:23:14,080
+from one of the threads and data that my customers would say. I go, here's the line, and then I said, hey, so you have context, here's the before and here's the after. And said, love the idea of comedic relief.
+
+250
+00:23:14,080 --> 00:23:22,980
+And it came in and started giving me some recommendations. And I said, how about this? You know, you're knee-deep in a bag of something crunchy and Claude obviously hyping me up, as it always does,
+
+251
+00:23:22,980 --> 00:23:32,020
+says this was great. And so that's how I got that line. And then again going through the rest of the script. DygloGmera is a natural African fruit extract that is clinically proven to block DPP-4,
+
+252
+00:23:32,580 --> 00:23:39,680
+meaning it tells your body to stop destroying your fullness hormone so you can stay full, right? And so I might even add stay full longer
+
+253
+00:23:39,680 --> 00:23:47,220
+on this because the thing here is that, again, I I just want to be clear that I'm calling out this
+
+254
+00:23:47,220 --> 00:23:57,640
+mechanism, right, this this villain, the DPP-4, but I'm then explaining it again. Even though I've already explained it, I'm explaining it again and clarifying. Anytime I use like scientific knowledge,
+
+255
+00:23:58,180 --> 00:24:07,160
+DygloGmera is a natural African fruit extract that is clinically proven to block DPP-4. If I took this into Hemingway, Hemingway would probably not be the biggest fan of me, you know what I mean? So,
+
+256
+00:24:07,160 --> 00:24:14,200
+if I just go here and I'm just going to open up a tab that doesn't break things, so Hemingway, Hemingway is probably not going to be happy. This is grade nine, it's not terrible.
+
+257
+00:24:14,340 --> 00:24:21,940
+"Clinically proven" is apparently not the right word, but "that is proven to block DPP-4." I'm fine with using "clinically," it's not the end of the world.
+
+258
+00:24:21,940 --> 00:24:30,420
+And this is what I'm saying. Sometimes you bend it based on what you, you know, want to do, but again, it's always good to run through it. Meaning, so again, it tells your body to stop destroying, we already talked about that.
+
+259
+00:24:30,420 --> 00:24:38,540
+And then I add the proof here. They didn't white knuckle their way through or fill themselves with synthetic hormones. They just protected the hormone that their body was destroying.
+
+260
+00:24:39,180 --> 00:24:47,460
+Thanks to MetaGlo, thousands of women are finally getting proper fullness signals again. Imagine going hours without food crossing your mind or actually staying full after you eat.
+
+261
+00:24:47,760 --> 00:24:54,480
+That's what happens when you protect your hormone and not just boost it. This company is so confident you'll love MetaGlo that you can try it for 60 days, 100% risk-free.
+
+262
+00:24:54,820 --> 00:25:01,080
+If it doesn't work, they'll refund you, and your body- and we kind of pause it there. And then I just say your body's been fighting you. MetaGlo helps you fight back.
+
+263
+00:25:01,220 --> 00:25:09,200
+Try risk-free for less than $2 a day. Now, is is this extra point needed? Probably not, but I added it in there, and, you know, we can cut it later if we don't like it. But,
+
+264
+00:25:09,200 --> 00:25:18,860
+that's it, right? And so then what I did, I said, all right, Claude, just got the final- by the way, I had to correct it because it was It had wrong information, but that was just because of what was on the website, but it got cleaned up now.
+
+265
+00:25:19,300 --> 00:25:27,500
+And so, again, now I asked it to basically go through. I said, hey, I took a screenshot of my hooks. I I pasted in my hold, so I just copied everything over.
+
+266
+00:25:27,500 --> 00:25:33,680
+And I said, I need you to now give me the visuals, and then it gave me all the visuals, which is great, okay? So, obviously, if you have an editor,
+
+267
+00:25:34,140 --> 00:25:42,760
+now you can paste all of these visuals in here just like how I have. I've also added my growth guide notes over here. And as you can see, there we go. We have now done a full,
+
+268
+00:25:42,760 --> 00:25:51,580
+you know, video script, right? It's It's ready to go. And now this is obviously where I'm going to pause here. I already talked a little bit about like how to find these clips and stuff like that, but I'm going to talk about that a lot more
+
+269
+00:25:51,580 --> 00:25:52,260
+on-
+
+270
+00:25:52,260 --> 00:25:53,020
+in the next module.
+
+271
+00:25:53,340 --> 00:25:57,280
+But this is my script. This is kind of like the dieter video, I guess you could say.
+
+272
+00:25:57,580 --> 00:26:01,680
+And what's really cool about this, guys, just because again your mind should always be running, I had two other ideas here.
+
+273
+00:26:01,840 --> 00:26:05,600
+So I had, "Three signs your body is working against you." That's one that I had a really good idea of.
+
+274
+00:26:05,780 --> 00:26:07,960
+And then another one here is like, "Protect your hormones mechanism."
+
+275
+00:26:08,700 --> 00:26:13,840
+And so this was another- these are two new ad angles that, again, I can likely go deeper on, right?
+
+276
+00:26:14,280 --> 00:26:18,880
+And so this is something where I hope- I hope you guys can understand where it's like it's really exciting to test these angles.
+
+277
+00:26:18,880 --> 00:26:22,560
+And even though like, again, we're only focusing on one desire here, guys.
+
+278
+00:26:22,720 --> 00:26:25,080
+And obviously this product can go after multiple desires. It's also a collagen.
+
+279
+00:26:25,080 --> 00:26:28,140
+It can go after the desire of wanting your skin tighter, right?
+
+280
+00:26:28,140 --> 00:26:36,500
+But when I understand the product, go deeper on the product, and I have just some guidance on what is kind of working in the account and, you know, how big the market is with GLP-1, and all that kind of stuff,
+
+281
+00:26:36,500 --> 00:26:41,620
+I'm going after this desire because I think there's a lot of scalability with it. And that's my goal. My job is to scale brands.
+
+282
+00:26:41,620 --> 00:26:46,000
+And so these are all just based off of one desire. And hopefully this shows you how deep you can go.
+
+283
+00:26:46,000 --> 00:26:49,640
+And this is only one execution of this, right?
+
+284
+00:26:49,640 --> 00:26:55,120
+This is the 1,200 calorie iteration, basically. And so I don't know why I called it the dieter video,
+
+285
+00:26:55,120 --> 00:26:58,360
+but we'll just call this the- yeah, dieter video works, that's fine.
+
+286
+00:26:58,900 --> 00:27:06,820
+But I- this is almost kind of turned into, you know, the protecting your hormones mechanism. But this hormone- or hormones, if you spell like Spencer,
+
+287
+00:27:07,240 --> 00:27:12,740
+is an angle that I'm really excited about, because we might actually just be able to dive deeper on that, although I'm kind of already diving deeper on that. Again,
+
+288
+00:27:12,960 --> 00:27:19,200
+you can use kind of like a double-sniper approach. So let's just say this one here works really well about, you know-
+
+289
+00:27:19,400 --> 00:27:23,520
+We actually don't even mention anything about protecting your hormone, but let's just say this gets a little bit of buzz.
+
+290
+00:27:23,520 --> 00:27:27,600
+Well, what if we just start with the mechanism first? What if we just say like, "Here's how to protect your hormones"
+
+291
+00:27:27,600 --> 00:27:30,460
+or like, "Here's how to protect your GLP-1 levels," right?
+
+292
+00:27:30,560 --> 00:27:34,500
+We start to go in with- everybody's trying to boost, boost, boost, boost their GLP-1.
+
+293
+00:27:34,620 --> 00:27:40,680
+And so I like this as an idea of saying like, "Hey, just protect it. Like you don't need to boost more, you can just protect it."
+
+294
+00:27:40,800 --> 00:27:44,780
+And this is stuff that I should be writing down inside of my sheet, but I want you guys to know like,
+
+295
+00:27:45,060 --> 00:27:50,280
+as you get immersed in this- I'm going to go full-screen because it's really cool. Like just so you guys understand, like we've been working with this brand for about 2 months,
+
+296
+00:27:50,280 --> 00:27:56,540
+and I don't- I don't really get this deep anymore into the brands that we work with simply because like I'm doing a lot of consulting.
+
+297
+00:27:56,540 --> 00:28:01,040
+I'm talking all the time. I'm going here, I'm going there, and like I'm reviewing people's brands, and giving like high-level strategy.
+
+298
+00:28:01,640 --> 00:28:06,600
+And I really spend my time reviewing the things that work, and trying to extract the patterns and put them together
+
+299
+00:28:06,600 --> 00:28:11,560
+so I can guide my team when it comes to specific execution strategies of like, "Hey guys, we should try this," right?
+
+300
+00:28:11,920 --> 00:28:15,500
+So to give you an example, I actually, you know, saw that there was something that was working,
+
+301
+00:28:16,000 --> 00:28:20,780
+and I told the team. I was like, "Hey, just- just imitate this ad." And I was like, "And focus on these two or three angles."
+
+302
+00:28:20,780 --> 00:28:25,840
+And next thing you know, the first day that we launched it, it was the second top spender in the account, right?
+
+303
+00:28:25,840 --> 00:28:29,720
+Or another thing, when I was with my team, I was on a call, I was like, "Hey, what if we tried this angle?
+
+304
+00:28:30,180 --> 00:28:36,040
+What if we try to, you know, position it in a way that it was like it just amplified how easy it was to get the thing that they want?"
+
+305
+00:28:36,040 --> 00:28:38,020
+And boom, right away it was the top spender in the account.
+
+306
+00:28:38,020 --> 00:28:42,280
+And so for me, my highest leverage is kind of observing and spotting patterns,
+
+307
+00:28:42,280 --> 00:28:45,860
+and then sharing that with the team. I don't really do much of the script writing stuff anymore,
+
+308
+00:28:45,860 --> 00:28:49,820
+but I'm showing you guys that like as a business owner, if for whatever reason I need to step in
+
+309
+00:28:49,820 --> 00:28:52,500
+and turn shit around, I have the ability to go in and do that.
+
+310
+00:28:52,500 --> 00:28:57,840
+And so you having this ability, in the most important part of your business, which is creating winning ads so you can scale,
+
+311
+00:28:58,220 --> 00:29:00,620
+this is a skill set that you want to develop, okay?
+
+312
+00:29:00,940 --> 00:29:06,760
+So hopefully this makes sense. I know this is just one example for a supplement brand, but for a lot of people supplement brands are like the hardest brands to crack,
+
+313
+00:29:06,760 --> 00:29:10,880
+and so I wanted to do that for a supplement brand specifically. But it's the same thing for beauty.
+
+314
+00:29:10,880 --> 00:29:16,860
+For fashion, you can kind of obviously, you know, tailor it towards you. You might not be as mechanism focus-heavy.
+
+315
+00:29:17,240 --> 00:29:21,900
+You might be focused just more on some of the other copywriting strategies, or if you have a tech product,
+
+316
+00:29:22,100 --> 00:29:26,040
+or you have some kind of, you know, gadget, whatever it is, like this stuff all applies, okay?
+
+317
+00:29:26,260 --> 00:29:30,620
+We are working on trying to write in different niches to show you guys the diversity. It's just
+
+318
+00:29:30,880 --> 00:29:35,000
+I only have so many clients that allow me to write stuff for them.
+
+319
+00:29:35,080 --> 00:29:38,220
+And so we're going to play around with this a little bit more, and I just hope that this
+
+320
+00:29:38,220 --> 00:29:43,460
+script writing video is what you guys were looking for and shows you how I'm kind of spending a day writing a script.
+
+321
+00:29:43,680 --> 00:29:46,260
+And, you know, I'm very confident in this script. Now I'm going to send this to the editor,
+
+322
+00:29:46,680 --> 00:29:50,040
+and I'm going to show you guys how to, you know, edit this and give you guys some examples,
+
+323
+00:29:50,040 --> 00:29:55,500
+because there's another skill set that I just don't possess that you might want to go and possess,
+
+324
+00:29:56,060 --> 00:30:00,720
+because at the end of the day, I'm at a position where I don't need to do this. But I will show you guys what you can do,
+
+325
+00:30:00,720 --> 00:30:06,520
+and then give you some recommendations on how to bring this video to life, because the execution of the video is just as important as the script. But I'm telling you,
+
+326
+00:30:06,700 --> 00:30:11,100
+having all the research done and writing the copy very, very strong sometimes
+
+327
+00:30:11,100 --> 00:30:15,500
+can carry bad video execution. But it has to be really, really strong. And again,
+
+328
+00:30:15,500 --> 00:30:19,620
+that doesn't mean you should get away with bad video execution. So we're going to help you guys there as well.
+
+329
+00:30:19,860 --> 00:30:23,380
+But with that said, I hope you enjoy this video. I hope it was valuable. I hope you got to
+
+330
+00:30:23,380 --> 00:30:27,080
+see this script kind of transform from what it was that Claude gave me
+
+331
+00:30:27,080 --> 00:30:30,120
+to working with Claude to optimize for V1, optimize for V2,
+
+332
+00:30:30,300 --> 00:30:32,060
+and now send this off to the team. So

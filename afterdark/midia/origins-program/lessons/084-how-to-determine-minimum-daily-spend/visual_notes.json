@@ -1,0 +1,27 @@
+{
+  "lesson": {
+    "num": 84,
+    "id": "084-how-to-determine-minimum-daily-spend",
+    "title": "How to determine minimum daily spend",
+    "video": "84. How to determine minimum daily spend Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T20:14:05-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "1116x720 (native)",
+  "candidates_reviewed": 1,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 94.9,
+      "time": "00:01:35",
+      "frame": "frames/084_00-01-35.png",
+      "category": "diagram",
+      "title": "Scaling protocol decision tree: minimum daily spend branch",
+      "on_screen": "A Figma diagram titled 'Scaling Protocol - Easy A Media' showing a flowchart decision node: 'Are we at the minimum daily spend?' branching downwards into 'YES' and 'NO'. A previous node flows from above into it, and a 'YES' decision box feeds into it from the upper right. Nearby visible blocks include 'NO', 'Wait Another', and '[a]nother 24 Hours'.",
+      "not_in_transcript": "Figma project title 'Scaling Protocol - Easy A Media', surrounding flowchart nodes: 'YES', 'NO', 'Wait Another', '[a]nother 24 Hours'.",
+      "legibility": "clear",
+      "candidate_id": "F001",
+      "drive_url": "https://drive.google.com/file/d/1Wsctt5JYBMI1Nkh9bDyISUB5Xv1KqPVR/view?usp=drivesdk"
+    }
+  ]
+}

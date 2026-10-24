@@ -1,0 +1,527 @@
+1
+00:00:00,000 --> 00:00:05,880
+All right. So, in this video, we're going to be talking about what types of offers that you can actually run. And I'm just going to jump straight in
+
+2
+00:00:05,880 --> 00:00:12,240
+because this is something that, again, is it's it's very simple, and you don't need to overcomplicate it. Okay? I'm going to walk through
+
+3
+00:00:12,240 --> 00:00:20,820
+how to actually create an offer as well using the offer sheet that we have. But I need to make sure that it's very clear that you understand what you're about to get into
+
+4
+00:00:20,820 --> 00:00:29,940
+and that when you're optimizing an offer around your product, okay, that you make it, you know, as as best as you can make it or make it in a
+
+5
+00:00:29,940 --> 00:00:38,740
+in a way that's like, okay, it's good value, but you also still have, you know, good margins, okay? Now, the first note that I always tell everyone when it comes to offer building is offers are kind of like drugs,
+
+6
+00:00:39,400 --> 00:00:46,480
+okay? They're very addicting, and they can definitely take your ROAS from like a 2x to a 4x overnight like very quickly.
+
+7
+00:00:47,120 --> 00:00:52,280
+And they can pump your conversion rate, and you can basically find a way to just start making way more money, okay?
+
+8
+00:00:52,800 --> 00:01:02,080
+But it can often times become impossible to get off of, and, you know, you can be overly reliant on offers specifically. Now, if you ask me,
+
+9
+00:01:02,080 --> 00:01:09,640
+because a lot of you you're probably not building the next Rolex, or you're probably not building, you know, the next David's Protein, okay?
+
+10
+00:01:10,260 --> 00:01:19,040
+This is probably just going to be, for a lot of you, a brand where you just kind of make your first money, you make your first brand, right? And then your first brand doesn't have
+
+11
+00:01:19,040 --> 00:01:27,600
+to be, you know, this this massive mega brand. And it still can be, I want you guys to understand that, that this is not me trying to, like, create a limiting belief for you. But you have to understand that
+
+12
+00:01:27,600 --> 00:01:37,260
+you guys don't have the skill set yet to go build a world-class brand, and so be a- like, just it's okay that if you're just trying to make a great offer and provide a lot of value, okay? There's still
+
+13
+00:01:37,260 --> 00:01:43,380
+massive brands that run offers all the time. You just have to understand that if you're wanting this approach of like,
+
+14
+00:01:43,380 --> 00:01:50,880
+"Oh, I'm going to be this very sophisticated brand that doesn't run offers," it's like, okay, unless you have an insanely unique product, like you
+
+15
+00:01:50,880 --> 00:02:00,520
+R&D'd the hell out of it, and like, you know, the the example that I give is, you know, one of our brands that we work with called Carepod. Like, they have an incredibly world-class product, okay?
+
+16
+00:02:00,880 --> 00:02:09,500
+You know, this is a stainless steel humidifier, and they are literally innovating and leading kind of the humidifier space, okay? And so,
+
+17
+00:02:09,500 --> 00:02:15,320
+they kind of have the ability to just like sit on a bit of a high horse and say, "We're not running offers." But even then,
+
+18
+00:02:16,020 --> 00:02:26,780
+they're still running some kind of an offer here, okay? You can save $126 on this product, right? And so, at the end of the day, offers, this is not to scare you, I'm just letting you know
+
+19
+00:02:26,980 --> 00:02:37,120
+that they can be they can be very addictive, okay? So, you need to make sure that when you create offers, you think through them. And most importantly, as we get into note number two here, that you really
+
+20
+00:02:37,120 --> 00:02:43,580
+understand your margins at the new offer that you create, okay?
+
+21
+00:02:43,620 --> 00:02:54,460
+Now, I do not want to lose you guys, and so I've made this ridiculously simple, and this will also help a lot of you actually set your target ROAS, which we're going to get into in like how to like scale your ads.
+
+22
+00:02:54,460 --> 00:03:02,180
+But you guys should know this already, and if you don't know what ROAS is, again, it's return on ad spend. So, break-even ROAS essentially just means like
+
+23
+00:03:02,180 --> 00:03:12,220
+how what your ROAS like if you are below this ROAS, you are losing money, or most of the time if you're at this ROAS, you're probably still losing money when you consider things like processing fees
+
+24
+00:03:12,220 --> 00:03:21,240
+and, you know, other little fees, and maybe operational costs and all that kind of stuff. And and not saying you include operational costs at by any means into your break-even ROAS, that's dumb,
+
+25
+00:03:21,460 --> 00:03:30,100
+but processing fees, for sure. And at the end of the day, I just want you guys to know that like we always try to round this number up a little bit. And so, for example,
+
+26
+00:03:30,940 --> 00:03:40,020
+if your currently, you know, if your ROAS that you're at right now, let's say you're spending $200 a day, and you're at a 2x ROAS, and your break-even is a 1.43,
+
+27
+00:03:40,480 --> 00:03:49,160
+which just means that you have 70% gross profit, okay? And if you're like, "Spencer, slow the hell down," okay, I have this calculator here for you, and before you guys say it's broken,
+
+28
+00:03:49,480 --> 00:04:00,200
+sometimes you just have to like re-punch in the numbers, okay? So, if you change this to 0.7, sometimes it won't update properly. So, again, you have to delete the number, punch it back in, and then you'll notice it'll kind of like
+
+29
+00:04:00,280 --> 00:04:09,620
+re-correct itself. So, if I change this to $10,000 in spend, you'll notice that it might not be accurate. So, again, delete the ROAS number, punch it back in. Okay, now we're good.
+
+30
+00:04:09,980 --> 00:04:21,820
+We also are including service fees and performance fees over here, because obviously we're an agency. So here, when you delete it, if you don't put a 0 back in here, it's not going to work. Again, if you don't put a 0, if you delete performance fee
+
+31
+00:04:21,820 --> 00:04:32,760
+and don't put a 0, it's not going to work. And so, when you're doing this stuff, you just sometimes need to re-jig the numbers to make sure it's 100% accurate, okay? And so, as you can see here, I just changed my profit
+
+32
+00:04:32,760 --> 00:04:42,540
+margin to 80%, and this number didn't change, so what are we going to do? We're going to go in and we're going to update this, and now you can see now it's 30,000 rather than 25. And if you want to be 100% sure,
+
+33
+00:04:42,700 --> 00:04:52,240
+clear this number out as well, and then now you there you go, now you can see the profit that's coming in, okay? And so, this is a completely side tangent here, but I just want you guys I I know this calculator
+
+34
+00:04:52,240 --> 00:05:01,920
+is a little bit glitchy, but we have different ways of finding our target ROAS now, so we don't really use this as much. But this is just a nice little bonus for you guys to understand your numbers, because I know a lot of you
+
+35
+00:05:01,920 --> 00:05:10,560
+might not even know what a break-even ROAS is or know how to calculate your break-even ROAS, okay? And so, how you calculate your break-even ROAS is you go here, and you take your gross profit,
+
+36
+00:05:11,100 --> 00:05:18,200
+okay? "Spencer, I don't know what my gross profit is." Okay, amazing. Well, let's figure that out, okay? So, if the price of your product is $50,
+
+37
+00:05:18,820 --> 00:05:19,620
+Okay?
+
+38
+00:05:19,860 --> 00:05:25,300
+What you want to do here is you want the cost of your product plus your cost of shipping,
+
+39
+00:05:25,300 --> 00:05:34,220
+and I would even add in processing fees as well if you can, but if that's too much for you, just don't worry about it. If your cost of product and shipping, let's say, is $15,
+
+40
+00:05:35,040 --> 00:05:39,060
+okay? And again, sometimes you have to punch the numbers in twice, okay, so we'll reset it.
+
+41
+00:05:39,060 --> 00:05:48,960
+Now we can see, okay, our product is 50, our cost of product and shipping is 70 or sorry, is 15, that means our gross profit margin is 70%,
+
+42
+00:05:48,960 --> 00:05:49,800
+okay?
+
+43
+00:05:50,240 --> 00:05:54,900
+And so, in this instance as well, if you guys are charging for shipping, so say you charge $5 for shipping,
+
+44
+00:05:55,360 --> 00:06:00,260
+say your product on the site is 50, your product or your shipping is also another $5,
+
+45
+00:06:00,840 --> 00:06:06,200
+well, then you need to add that in, and again, reset the numbers here just so you can confirm this number is 100% accurate.
+
+46
+00:06:06,620 --> 00:06:10,880
+Now you can see that your gross profit margin is 0.73%.
+
+47
+00:06:10,880 --> 00:06:15,700
+Okay, so now what do we do with this? Well, we take this and we put this number up here,
+
+48
+00:06:15,840 --> 00:06:22,980
+and again, sometimes you just need to reset it, just I always recommend delete a number and put it back. It's a little bit glitchy, but, you know, just hang in there with me.
+
+49
+00:06:23,300 --> 00:06:28,960
+And now we can see that our breakeven ROAS is 1.37. What we'll always do is we'll usually just round up,
+
+50
+00:06:29,200 --> 00:06:32,540
+so in this instance, we would just say that our breakeven ROAS is 1.4,
+
+51
+00:06:32,800 --> 00:06:33,260
+okay?
+
+52
+00:06:33,600 --> 00:06:43,220
+And so, now we know that at this price point and at this cost of product and shipping, or at this product price point plus shipping and this cost of product plus shipping,
+
+53
+00:06:43,220 --> 00:06:50,640
+this is our gross profit margin, which means our breakeven ROAS, this calculator will show us, is 1.37. We're going to round that up to 1.4,
+
+54
+00:06:51,220 --> 00:06:51,660
+okay?
+
+55
+00:06:52,140 --> 00:06:55,740
+And so, the reason why this is important, we haven't even gone to offers yet, like, Spencer, just get into the offers,
+
+56
+00:06:55,740 --> 00:07:00,360
+but I'm telling you guys, a lot of you guys are very early on in your journey, okay?
+
+57
+00:07:00,720 --> 00:07:07,860
+And you're probably going to be like, "Okay, I'm going to run this crazy offer." You're not going to look at your numbers, and guess what? Your revenue is going to go up, right?
+
+58
+00:07:07,860 --> 00:07:10,900
+Your ROAS is going to go up and you're going to be like, "Bro, I'm cooking!"
+
+59
+00:07:10,900 --> 00:07:16,280
+And then at the end of the month, you'll check your, you know, your actual bank account and you're like, "Wait, how did I lose money?"
+
+60
+00:07:16,740 --> 00:07:21,920
+It's because you didn't know your numbers, okay? And so, like, I wish somebody told me this earlier because I didn't understand this.
+
+61
+00:07:21,920 --> 00:07:29,320
+We had brands where we thought we were ripping and ROAS went up, but at the end of the day, we were actually making less money, and I'm going to show you an example of this as well, okay?
+
+62
+00:07:29,780 --> 00:07:33,900
+And so, we've conquered a few things here. So, we have, you know, what your ROAS is currently at,
+
+63
+00:07:34,200 --> 00:07:40,540
+we have breakeven ROAS, which is 1.43, again, breakeven ROAS is based off of gross profit, okay?
+
+64
+00:07:41,000 --> 00:07:47,200
+And you're spending 100k per month, I know these are bigger numbers, but at the end of the day, this means if you're spending 100k
+
+65
+00:07:47,200 --> 00:07:51,560
+and you're getting a 2x ROAS, you're generating 200k in total,
+
+66
+00:07:52,100 --> 00:07:54,920
+okay? If that doesn't make sense to you, I don't know how else to explain it.
+
+67
+00:07:55,080 --> 00:08:03,420
+You're spending 100,000, you're getting a 2x return on ad spend, which means you ever- every dollar you spend you're getting two back, which means you're getting 200,000 in total revenue,
+
+68
+00:08:04,040 --> 00:08:04,340
+okay?
+
+69
+00:08:04,840 --> 00:08:15,940
+Now, your gross profit from this is $40,000 because, again, you have 70% of this is, or sorry, 70% of this is profit minus $100,000 in ad spend, right?
+
+70
+00:08:16,100 --> 00:08:22,880
+So, 200k in top-line revenue times our gross profit gives us how much just total profit we have, because again, we're not selling air.
+
+71
+00:08:23,860 --> 00:08:31,160
+We have to sell a product, and then we have 100k in ad spend that we have to account for, so 140 - 100 = $40,000,
+
+72
+00:08:31,160 --> 00:08:40,940
+and this is gross profit. Now, some of you guys might consider this net profit because you don't really have any other fees in your business, like you don't maybe you don't pay agencies or you don't have team members, whatever it may be,
+
+73
+00:08:41,300 --> 00:08:48,980
+but this is your gross profit. Net profit would basically be minus all those other fees, but we're going to focus just for the sake of this on gross profit,
+
+74
+00:08:49,300 --> 00:08:49,600
+okay?
+
+75
+00:08:49,920 --> 00:08:57,240
+But let's say you guys get all excited after watching this training and you decide to launch, I'm just going to say an offer, okay, so a new offer, example.
+
+76
+00:08:57,660 --> 00:09:05,700
+Okay, so I just went through a a bit of example here, but I'm going to I'm going to try to keep this short because that one got a little bit confusing, so if there was a rough edit there, that's why. Just understand that, okay,
+
+77
+00:09:05,980 --> 00:09:11,100
+now if we go ahead and we launch a new offer, okay, let's say we launch a 30% off offer,
+
+78
+00:09:11,500 --> 00:09:11,900
+right?
+
+79
+00:09:12,380 --> 00:09:19,780
+And we still stay at a 2x ROAS, you might be like, "Well, that's kind of dumb," but we have to consider elements of scale, okay?
+
+80
+00:09:20,260 --> 00:09:28,160
+And so, let's say that this 30% off offer allowed us to basically spend an extra $50,000 a month.
+
+81
+00:09:28,700 --> 00:09:33,320
+That's pretty good, right? We were spending 100 at and getting a 2x, right?
+
+82
+00:09:33,700 --> 00:09:41,460
+And now we're spending 150 at a 2x with this 30% off offer because it's a better offer. So, we were able to keep the ROAS the same, but we were able to scale more.
+
+83
+00:09:41,860 --> 00:09:45,820
+Now we're doing 300k total. That's pretty awesome, right?
+
+84
+00:09:46,360 --> 00:09:54,220
+But the thing is is we have to factor in the discount, right? So, if you remember up here, we had 70% gross profit,
+
+85
+00:09:54,720 --> 00:09:55,020
+right?
+
+86
+00:09:55,400 --> 00:10:03,720
+If we do 50 * 0.3, which is $15, so $50 - 15 for math majors is 35,
+
+87
+00:10:04,380 --> 00:10:10,940
+we can see, again, the cost of goods doesn't change, so this stays the same. Our price of product, though, did change,
+
+88
+00:10:11,380 --> 00:10:26,340
+and so now if we put this in here, you can see it's 1.75 and what I did is I essentially just rounded up here, like I mentioned you guys to do, which is how if you guys are wondering, how did I get 1.822, I just kind of rounded up to the 55% cuz I actually considered processing fees and whatnot.
+
+89
+00:10:27,300 --> 00:10:35,740
+And so here, as you can see, we now have 55% gross profit, and now we're spending, again, a 150k at a 2x ROAS, generating 300.
+
+90
+00:10:36,220 --> 00:10:42,280
+But the problem is, is as you can see here, even though we're doing 300k in total revenue now,
+
+91
+00:10:42,320 --> 00:10:50,940
+so we're doing a 100k more, we had a 50% increase in revenue, our gross profit actually went down by $25,000.
+
+92
+00:10:51,720 --> 00:10:59,600
+We went from making $40,000 a month here to now making $15,000 a month here even though we're making more revenue.
+
+93
+00:11:00,180 --> 00:11:08,820
+How does that happen? Well, it happens because of gross profit. 300k in revenue times 0.55 is 165k
+
+94
+00:11:08,820 --> 00:11:14,920
+in GP, which means gross profit, okay? And now, again, we're spending $150,000 on ads,
+
+95
+00:11:14,920 --> 00:11:23,140
+so if we subtract 150,000 from this, guess what? We get 15,000. And so this is why it's very important for you guys to know your numbers,
+
+96
+00:11:23,180 --> 00:11:34,680
+and you guys can also play around with this in here, because let's say, again, for example, we're spending $10,000 at a 2x ROAS and we have 70% margins, well, we're making $4,000 a month.
+
+97
+00:11:35,060 --> 00:11:47,120
+But if our if our margins go down to 55%, and let's say even then we get to a 3x, well, in this instance, look, we're actually making more, right? So that then the offer is smart, right?
+
+98
+00:11:47,540 --> 00:12:00,180
+So we go from 70% profit margins, right, $10,000 at a 2x, we're making $4,000 in total profit. What happens if we drop our margins to 55%, but as a result we're able to increase our ROAS?
+
+99
+00:12:00,580 --> 00:12:09,460
+Well, now we're spend Now we're making $6,500 a month, right? So this is awesome. And so this is where you guys can play around with with your numbers and with offers, just to try to see
+
+100
+00:12:09,760 --> 00:12:20,380
+which your new targets need to be. My My My main focus here for you guys is to make sure that you know your numbers. This is This can seem like it's advanced, and I didn't want to turn this into like
+
+101
+00:12:20,380 --> 00:12:32,080
+the importance of knowing your numbers, which now it might actually be its own video, because this video has gone pretty long, it's just important that you guys know your numbers and you know what kind of revenue and profit that you're actually getting at.
+
+102
+00:12:32,220 --> 00:12:41,880
+This calculator is here to be your friend. Because, again, if say we just decide to scale, because this is what will happen, guys. You're going to you're going to launch a new offer, your margins get worse, and look,
+
+103
+00:12:42,040 --> 00:12:53,640
+you're spending the same amount as you were at 2x, but now your ROAS got better, and you're like, "All right. Well, let's scale." And let's say say you you double your ad spend to 20,000 a month, but then your ROAS comes back down to a 2x,
+
+104
+00:12:53,940 --> 00:13:04,200
+well, look at this. Now you're making less money, okay? You're driving more revenue, but you're making less profit. And so that's why it's important to make sure that, as you scale,
+
+105
+00:13:04,840 --> 00:13:17,780
+you keep an eye on your numbers, because, ideally, you shouldn't really be going down, you, you know, you should be going past really a 2.2x. Because as soon as you get to around a 2.2 at this kind of scale, based on your margin, you're making less money,
+
+106
+00:13:18,220 --> 00:13:27,780
+okay? You're making more revenue, but you're making less profit, which, for a lot of you guys, you need to make profit upfront, especially when you're early stages in your business, okay? And so I'm actually just going to leave this one here.
+
+107
+00:13:27,780 --> 00:13:39,780
+Again, we're going to get deeper into how to create an offer, the types of offer that you're going to run. We're actually going to I'm going to put this in the next section, this is going to be how to make sure you don't ruin your yourself. But it's very important that you guys know your numbers, okay?
+
+108
+00:13:39,880 --> 00:13:51,120
+So make sure that you're running your numbers, you know, don't do it on a daily basis, but you can do it on a weekly basis, just make sure you're trying to calculate your profit, because there's going to be other expenses that come up, which is why it's important to actually look at your bank account profit
+
+109
+00:13:51,120 --> 00:14:03,320
+and not just what this calculator says. But hopefully this just gives you guys the awareness to understand your numbers, because I didn't know this, and so there was times where I thought, you know, "Oh, we're making our clients so much more money,"
+
+110
+00:14:03,320 --> 00:14:14,940
+but at at the end of it all, he was actually making less because we were scaling at a lower target, or we were we were scaling at the same target despite having lower margins. So you need to basically reset your targets.
+
+111
+00:14:15,100 --> 00:14:26,560
+And so my point here is, is you just want to make sure you re-analyze, you know, what your breakeven is here. So let's just say, for example, here our one we we have a 2x target is what we're running at
+
+112
+00:14:26,560 --> 00:14:37,400
+despite only being at a 1.43x, well, we should probably find the delta between this, right? So 2 - 1.43 is 0.57, didn't mean to click calendar,
+
+113
+00:14:37,400 --> 00:14:40,700
+and so if we just take this 1.82
+
+114
+00:14:42,100 --> 00:14:49,700
+plus 0.57. That means that we should ideally just not go below a 2.39, and that probably checks out.
+
+115
+00:14:49,700 --> 00:14:53,300
+As you can see here, right? 2.39. Well, look at that.
+
+116
+00:14:53,300 --> 00:15:01,740
+No matter how much more that we spend here, 40,000, you know, a 100,000, as long as we're not going below this, as you can see, 10,000,
+
+117
+00:15:01,740 --> 00:15:05,660
+0.7, at a 2x, is going to make us 4,000,
+
+118
+00:15:05,860 --> 00:15:09,840
+but if we reset kind of like our bare minimum target to 2.39
+
+119
+00:15:09,840 --> 00:15:16,460
+at that 0.55 new offer margin, as you can see, we should be safe, no matter how much that we spent, okay?
+
+120
+00:15:16,480 --> 00:15:19,640
+We're still going to make more money, no matter how much we spent, okay?
+
+121
+00:15:19,860 --> 00:15:27,000
+And so, that's kind of a little cheat code for you if you want to just calculate the delta of which you're currently scaling at. And now, as one final thing,
+
+122
+00:15:27,000 --> 00:15:33,220
+we're going to talk about this later in the how to kind of set your targets. I'll just mention it now, but usually what we would do
+
+123
+00:15:33,220 --> 00:15:40,840
+is whatever our 1. what- so, break-even ROAS here is 1.82. As long as we're usually one point above this,
+
+124
+00:15:40,840 --> 00:15:48,500
+is what I would say is like healthy to kind of target at, okay? Um, so, this is kind of like our true like, hey, don't really go below this,
+
+125
+00:15:48,860 --> 00:15:58,320
+um, with a 0.5, um, but ideally, you know, anything above, um, or anything one, so, let's just say our target is 1. or break-even is 1.82,
+
+126
+00:15:58,460 --> 00:16:03,980
+we're just going to add one, so 2.82 becomes our target. If our break-even ROAS is 1.4,
+
+127
+00:16:03,980 --> 00:16:08,860
+if we add one, you can see 2.4 is kind of our target, okay? Now, it doesn't have to be add one.
+
+128
+00:16:08,860 --> 00:16:13,500
+I usually just tell people to add one as your target, because you'll likely be below your target,
+
+129
+00:16:13,500 --> 00:16:16,960
+but if you are ever above it, then you should be scaling, and we're going to get into that,
+
+130
+00:16:16,960 --> 00:16:21,000
+but I just wanted to try to cover as much ground on this about knowing your numbers. If you got confused,
+
+131
+00:16:21,000 --> 00:16:26,760
+just take a second, take a breather, come back and watch it again, because if you slow it down, you should be able to make sense of it.
+
+132
+00:16:26,980 --> 00:16:30,840
+The most important thing is just know the profit that you're making, not just the revenue.

@@ -1,0 +1,412 @@
+{
+  "lesson": {
+    "num": 78,
+    "id": "078-overview-of-media-buying-section",
+    "title": "Overview of media buying section",
+    "section": "👨‍💻 How To Run Ads",
+    "video": "78. Overview of media buying section Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 165.653,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=28f5f7ebad434a96bffd08f1fff926a4"
+  },
+  "generated_at": "2026-10-06T20:24:09-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (96% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 736,
+    "matched_tokens": 706,
+    "match_ratio": 0.959,
+    "segments_aligned": 37,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 165.653,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 269.1,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [
+    {
+      "type": "unclear_words",
+      "start": 140.28,
+      "end": 146.84,
+      "chunk": 0,
+      "detail": "So that's why this module does have YouTube videos. Like, \"I paid for [inaudible],\" it's like, listen, the YouTube videos are they're I don't need to refilm the"
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.6,
+      "speaker": "Presenter",
+      "text": "All right guys, so I just want to film this video super quick because you guys have heard me yap a lot about, you know, media buying and stuff like that in general.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 6.72,
+      "end": 16.08,
+      "speaker": "Presenter",
+      "text": "And so, I am actually going to include another video underneath this that you guys should definitely watch to fix your perspective and change your mindset on why you just need to think way bigger.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 16.58,
+      "end": 21.9,
+      "speaker": "Presenter",
+      "text": "It's a It's a It's a YouTube video, but it's something that if you haven't seen it, you should watch it. If you have seen seen it, you can skip it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 22.02,
+      "end": 27.12,
+      "speaker": "Presenter",
+      "text": "But, I wanted to film this video just to show you, like, how short the how to run ads section is.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 27.12,
+      "end": 30.28,
+      "speaker": "Presenter",
+      "text": "It It It's very, very simple, guys, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 30.3,
+      "end": 33.74,
+      "speaker": "Presenter",
+      "text": "So we're going to show you how to set your ROAS targets for scaling.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 34.5,
+      "end": 40.68,
+      "speaker": "Presenter",
+      "text": "We're going to show you how to basically determine your minimum daily budget. At the end of the day, it's just start with like $50 to $100 per day. That's it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 40.96,
+      "end": 43.84,
+      "speaker": "Presenter",
+      "text": "We then have our entire video with FAQs.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 44.0,
+      "end": 48.16,
+      "speaker": "Presenter",
+      "text": "So, if I see anybody ask these questions, I'm going to be very annoyed, because they're right here, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 48.16,
+      "end": 51.28,
+      "speaker": "Presenter",
+      "text": "And then as you guys add more questions, we're probably going to add them to the FAQ.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 51.74,
+      "end": 54.88,
+      "speaker": "Presenter",
+      "text": "And then from there, this will show you exactly how to set up a 3:2:2 campaign.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 55.34,
+      "end": 55.9,
+      "speaker": "Presenter",
+      "text": "All right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 55.9,
+      "end": 63.88,
+      "speaker": "Presenter",
+      "text": "And then at that point, what you If you want to basically figure out how to scale your ad account, I have a video that shows you exactly how to do that. It's from YouTube.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 64.38,
+      "end": 71.6,
+      "speaker": "Presenter",
+      "text": "And I have another video here for those who are saying like, \"Why are my bad ads getting spend?\" Or, \"Why are the ads that are getting a lot of spend having bad performance?\" This also explains it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 71.94,
+      "end": 77.6,
+      "speaker": "Presenter",
+      "text": "And then if you just want, like, a full, end-all, be-all, like, Facebook ad media buying strategy, you can watch this as well.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 77.92,
+      "end": 83.68,
+      "speaker": "Presenter",
+      "text": "My point is is the reason why three of these videos in here are YouTube videos is because media buying doesn't matter.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 83.68,
+      "end": 91.62,
+      "speaker": "Presenter",
+      "text": "And that's why, like, a lot of the times I make videos about YouTube, or make videos on YouTube, about media buying, because it's what gets clicks.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 91.62,
+      "end": 95.86,
+      "speaker": "Presenter",
+      "text": "And then, by you guys clicking on that video, I'm like, \"Okay, here's what you actually need to focus on now.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 95.86,
+      "end": 101.86,
+      "speaker": "Presenter",
+      "text": "And so, you'll notice that here, there is a lot of context about like just how to create avatars,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 101.86,
+      "end": 103.9,
+      "speaker": "Presenter",
+      "text": "which is the most important thing.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 103.9,
+      "end": 108.32,
+      "speaker": "Presenter",
+      "text": "There's like I don't even know, like three times as many modules, okay? Or two times as many modules.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 108.32,
+      "end": 112.4,
+      "speaker": "Presenter",
+      "text": "And that doesn't even get into the how to create ads, which is going to be a lot more as well, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 112.4,
+      "end": 114.4,
+      "speaker": "Presenter",
+      "text": "Look how many more how to create ads modules, and these are all done.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 114.4,
+      "end": 115.62,
+      "speaker": "Presenter",
+      "text": "You guys are about to get them.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 115.62,
+      "end": 118.96,
+      "speaker": "Presenter",
+      "text": "My point is is like media buying is not as important.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 118.96,
+      "end": 128.1,
+      "speaker": "Presenter",
+      "text": "Once you follow this section, once you see how to set your ROAS, how to set up your campaign, and how to very easily scale up and down, that's all you need to do,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 128.46,
+      "end": 129.48,
+      "speaker": "Presenter",
+      "text": "okay? That's it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 130.7,
+      "end": 131.98,
+      "speaker": "Presenter",
+      "text": "There's There's literally nothing else.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 131.98,
+      "end": 134.76,
+      "speaker": "Presenter",
+      "text": "Until you get to the point where you're past 100k per month,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 135.28,
+      "end": 139.1,
+      "speaker": "Presenter",
+      "text": "then when you get involved, we can talk about some other strategies. But for right now, that's all you guys need to focus on.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 139.3,
+      "end": 139.94,
+      "speaker": "Presenter",
+      "text": "Okay, so that's it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 140.28,
+      "end": 146.84,
+      "speaker": "Presenter",
+      "text": "So that's why this module does have YouTube videos. Like, \"I paid for [inaudible],\" it's like, listen, the YouTube videos are they're I don't need to refilm them, they're there.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 147.3,
+      "end": 150.78,
+      "speaker": "Presenter",
+      "text": "So just watch them if you need them. Otherwise, you guys don't need to focus on media buying.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 150.78,
+      "end": 153.46,
+      "speaker": "Presenter",
+      "text": "What you guys need to focus on is everything that I'm teaching you here, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 153.86,
+      "end": 155.74,
+      "speaker": "Presenter",
+      "text": "You'll notice, again, this is a one of one final thing.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 155.74,
+      "end": 164.36,
+      "speaker": "Presenter",
+      "text": "Module for avatars, module for ads, module for offers, and only And then a module for learning, all things that matter, one for how to run the ads, because it's not that important.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 164.78,
+      "end": 165.48,
+      "speaker": "Presenter",
+      "text": "Hopefully that makes sense.",
+      "chunk": 0,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 47.8,
+      "end": 48.8,
+      "label": "laughter"
+    },
+    {
+      "start": 146.7,
+      "end": 147.7,
+      "label": "laughter"
+    }
+  ]
+}

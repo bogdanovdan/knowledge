@@ -1,0 +1,3074 @@
+{
+  "lesson": {
+    "num": 35,
+    "id": "035-understanding-market-sophistication-part-1",
+    "title": "Understanding Market Sophistication - Part 1",
+    "section": "🧍How To Create Avatars",
+    "video": "35. Understanding Market Sophistication - Part 1 Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 2286.123,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=7e258d4e2b14440ca5e9afc3f9db5fec"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (94% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 8557,
+    "matched_tokens": 8083,
+    "match_ratio": 0.945,
+    "segments_aligned": 323,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 358.51,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 231.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 358.51,
+      "end": 668.128,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.992,
+      "wpm": 221.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 668.128,
+      "end": 956.66,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 233.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 956.66,
+      "end": 1294.079,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.957,
+      "wpm": 213.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1294.079,
+      "end": 1560.925,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.892,
+      "wpm": 219.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 5,
+      "start": 1560.925,
+      "end": 1878.37,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.995,
+      "wpm": 209.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 6,
+      "start": 1878.37,
+      "end": 2163.115,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 228.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 7,
+      "start": 2163.115,
+      "end": 2286.123,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 220.3,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.14,
+      "speaker": "Presenter",
+      "text": "All right, so in this video, we're going to be talking about market sophistication.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 2.76,
+      "end": 10.12,
+      "speaker": "Presenter",
+      "text": "Now, I want to be 100% clear that I'm going to try to make this as simple and as easy as possible to understand for you,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 10.12,
+      "end": 15.54,
+      "speaker": "Presenter",
+      "text": "because I know that a lot of people, when they first underst- or they first hear market sophistication, they're like, \"What is this?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 15.78,
+      "end": 21.74,
+      "speaker": "Presenter",
+      "text": "But this is essentially going to help you understand why e-commerce is so hard, okay, or why creating winning ads is really hard.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 21.86,
+      "end": 27.18,
+      "speaker": "Presenter",
+      "text": "Like if you don't understand this, it is extremely hard to compete in sophisticated markets, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 27.18,
+      "end": 31.82,
+      "speaker": "Presenter",
+      "text": "And if you've ever heard the word \"saturated\", that's essentially what market sophistication is.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 31.94,
+      "end": 34.98,
+      "speaker": "Presenter",
+      "text": "But we're going to break it down today. I'm going to make it very easy and very simple for you to understand.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 35.4,
+      "end": 40.82,
+      "speaker": "Presenter",
+      "text": "And ultimately, again, remember that we're understanding these things piece by piece: product, desire, market sophistication.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 41.68,
+      "end": 45.84,
+      "speaker": "Presenter",
+      "text": "We're going to understand avatars, we're going to understand angles, and then again, I'm going to put all of this together.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 45.98,
+      "end": 54.22,
+      "speaker": "Presenter",
+      "text": "But let's go ahead and jump in the screen to get started with helping you clearly understand, and even if you've seen the other training on market sophistication, you should 100% watch this,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 54.22,
+      "end": 64.42,
+      "speaker": "Presenter",
+      "text": "because it is going to make it so much easier for you to process and know how to actually apply this to your ads, or better yet, how to actually just be aware of it when writing your ads.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 64.86,
+      "end": 68.46,
+      "speaker": "Presenter",
+      "text": "All right, so as you can see here, \"Why you need to understand market sophistication before creating an avatar\".",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 68.6,
+      "end": 73.86,
+      "speaker": "Presenter",
+      "text": "Well, again, if you don't know, this is Eugene Schwartz's uh, you know, shocker, uh it's his theory.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 73.86,
+      "end": 80.66,
+      "speaker": "Presenter",
+      "text": "Uh and he actually created this theory, as you can see here, in 1966, and it's actually still relevant today.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 80.94,
+      "end": 88.04,
+      "speaker": "Presenter",
+      "text": "That's what I love so much about marketing is if you actually get to the fundamentals and to the core of marketing, a lot of this stuff still applies,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 88.32,
+      "end": 94.7,
+      "speaker": "Presenter",
+      "text": "right? You have the product, you have the desires of what people want, you have the sophistication levels, you have the specific people that you're going after,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 94.84,
+      "end": 96.84,
+      "speaker": "Presenter",
+      "text": "you have the angle essentially how you're going after them, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 96.84,
+      "end": 101.88,
+      "speaker": "Presenter",
+      "text": "So there- all of this stuff still applies. It's just the vehicle in which we apply it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 101.88,
+      "end": 109.06,
+      "speaker": "Presenter",
+      "text": "Maybe back 50 years ago, it was newspapers or it was, you know, magazines, or it was direct mail, where now it's on social media, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 109.08,
+      "end": 110.54,
+      "speaker": "Presenter",
+      "text": "But it still applies, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 110.66,
+      "end": 119.22,
+      "speaker": "Presenter",
+      "text": "And so, the one thing that's important for everybody to understand is that the rate at which these markets are sophisticating is now faster than ever.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 119.36,
+      "end": 131.2,
+      "speaker": "Presenter",
+      "text": "And the reason why is because, you know, 50 years ago, it would take word of mouth to essentially reach others, you know, and tell others that the product just wasn't that great, or that, you know, you had a bad experience with it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 131.2,
+      "end": 134.62,
+      "speaker": "Presenter",
+      "text": "And even then, that would just require you actually telling someone about it, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 134.84,
+      "end": 143.2,
+      "speaker": "Presenter",
+      "text": "So, for example, you know, if I buy these, you know, this gum, I I don't know I can't even remember where I got this, but it's plant-based gum, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 143.56,
+      "end": 148.68,
+      "speaker": "Presenter",
+      "text": "And if I had a bad experience with this gum, and I just didn't like it, I'm probably not going to go like tell people,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 148.68,
+      "end": 155.86,
+      "speaker": "Presenter",
+      "text": "like, \"Oh, make sure you don't get, you know, Refresh Gum.\" It was actually good gum, so I don't know whose brand this is, but at the end of the day,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 155.86,
+      "end": 160.04,
+      "speaker": "Presenter",
+      "text": "I'm not going to go out really and tell people, like, \"Oh yeah, I had this gum the other day and it was terrible.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 160.04,
+      "end": 167.94,
+      "speaker": "Presenter",
+      "text": "It's not really something that I'm going to like bring up and tell a lot of people, especially go to a stranger on the street and be like, \"Yeah, don't buy this gum,\" right? You're just not going to do that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 167.94,
+      "end": 172.52,
+      "speaker": "Presenter",
+      "text": "And 50 years ago, that's kind of what it was like, right? So if people had a bad experience with a product, they're just like \"meh\".",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 172.52,
+      "end": 179.7,
+      "speaker": "Presenter",
+      "text": "I mean, obviously, if someone asked me like, \"Hey, have you tried this gum?\" and I might be like, \"Yeah, it's not that good.\" Then obviously, word of mouth gets around that way.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 179.72,
+      "end": 187.76,
+      "speaker": "Presenter",
+      "text": "But nowadays, you have to understand that as global commerce, e-commerce, has essentially, you know, grown and blown up,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 187.94,
+      "end": 196.96,
+      "speaker": "Presenter",
+      "text": "the, you know- the opportunity to scale what you can sell and sell globally has been, you know, it's it's the biggest it's ever been and it's the easiest it's ever been.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 197.22,
+      "end": 202.32,
+      "speaker": "Presenter",
+      "text": "But you have to understand so, and thankfully, so has customer feedback and word of mouth, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 202.66,
+      "end": 209.86,
+      "speaker": "Presenter",
+      "text": "Nowadays, people can make a TikTok and make an Instagram Reel saying like, you know, \"This is literally the worst gum I've ever had in my life,\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 209.92,
+      "end": 216.88,
+      "speaker": "Presenter",
+      "text": "right? And as a result, now everybody is just posting and it like millions of people can see it, right, like millions.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 217.52,
+      "end": 221.16,
+      "speaker": "Presenter",
+      "text": "And so, you markets get sophisticated extremely, extremely fast.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 221.16,
+      "end": 228.96,
+      "speaker": "Presenter",
+      "text": "And there's also platforms like Reddit, where people can Google, \"Hey, what is this product like?\" And everybody's saying, \"Oh, don't buy. It's terrible. It's horrible. You know, don't get it,\" right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 229.26,
+      "end": 236.52,
+      "speaker": "Presenter",
+      "text": "So you have to understand that markets are sophisticating at a rate that they never have before, which is why a lot of people are very secretive with what they're doing in e-commerce.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 237.08,
+      "end": 245.8,
+      "speaker": "Presenter",
+      "text": "And on top of that, it's the reason why we see people, you know, start an e-commerce brand and they scale to, you know, a couple hundred thousand dollars a month,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 246.38,
+      "end": 249.94,
+      "speaker": "Presenter",
+      "text": "right, during, you know, maybe November to December, or maybe they they get a product early.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 249.94,
+      "end": 257.48,
+      "speaker": "Presenter",
+      "text": "And this is also just as a quick side tangent, why like you want to be a good marketer more than you want to be good at finding products.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 257.48,
+      "end": 265.56,
+      "speaker": "Presenter",
+      "text": "But digressing here, coming back to the straight line, it's all the reason why people like they boom, they they like they grow like crazy. They get to a couple hundred thousand dollars a month,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 265.56,
+      "end": 270.76,
+      "speaker": "Presenter",
+      "text": "and then 6 months later, all of a sudden they're like, \"My ads aren't working. Like my Facebook account sucks. Like what's going on?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 270.82,
+      "end": 278.26,
+      "speaker": "Presenter",
+      "text": "It's like, well, you just found a product, which you're which we're going to get into, that had low sophistication, and so people weren't as educated on it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 278.34,
+      "end": 287.32,
+      "speaker": "Presenter",
+      "text": "But nowadays, you know, what may have taken 6 years, or at least, you know, 3 years, now is happening in 3 months or 6 months,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 287.32,
+      "end": 295.86,
+      "speaker": "Presenter",
+      "text": "right, as a result of like how fast information spreads online. And so there, now your product is been- like it's been exposed, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 295.86,
+      "end": 303.28,
+      "speaker": "Presenter",
+      "text": "People have been aware to it. The market has started to get more sophisticated, and they've realized, like, either one, there's a better mechanism that they can go and get, which we will talk about,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 303.72,
+      "end": 312.58,
+      "speaker": "Presenter",
+      "text": "and more importantly, that, you know, your your ads are just going to start to fail because it's become more sophisticated, other people are selling it, there's now options, and the market has grown, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 312.62,
+      "end": 320.4,
+      "speaker": "Presenter",
+      "text": "So hopefully, just like- I know we're not on the doc here, but just trying to maybe tap into a few um a few of you who have experienced this first-hand.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 320.4,
+      "end": 327.04,
+      "speaker": "Presenter",
+      "text": "And then also for those of you who are trying to find that the best secret winning product, is a is a great product help you scale? Of course it does,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 327.4,
+      "end": 335.8,
+      "speaker": "Presenter",
+      "text": "but at some point, because of market sophistication, it's going to become harder to sell, and if you don't have an actual skillset on how to market it,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 336.08,
+      "end": 343.62,
+      "speaker": "Presenter",
+      "text": "you're just going to be back where you are right now with, you know, maybe not making any money, or just stuck where you are, okay? So hopefully, this makes sense.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 343.62,
+      "end": 348.64,
+      "speaker": "Presenter",
+      "text": "But let's go ahead and dump and and jump into the 5 stages of market sophistication, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 348.66,
+      "end": 358.02,
+      "speaker": "Presenter",
+      "text": "So the first one here is First to Market, okay? This is like for- I mean I'm trying to think and give a give you guys examples for modern times, but essentially right now,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 358.02,
+      "end": 365.52,
+      "speaker": "Presenter",
+      "text": "like AI is is pretty first to market, right? Like it's a very, very new market. There's obviously a like more competition",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 365.52,
+      "end": 376.2,
+      "speaker": "Presenter",
+      "text": "emerging, but essentially just for the sake of this video, you most of you guys do not need to worry about a stage one or stage two market. Like most of you guys are not in those markets,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 376.2,
+      "end": 385.66,
+      "speaker": "Presenter",
+      "text": "okay? And a lot of you might think you are because you have this really cool product, and you and you launch a product image and it's absolutely ripping. Okay, great. Most of the time, that just means you found a new mechanism,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 386.08,
+      "end": 392.28,
+      "speaker": "Presenter",
+      "text": "which we're going to talk about in a second, but more importantly, just know that most markets are not Like most of you guys in e-commerce are not in stage one",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 392.28,
+      "end": 399.04,
+      "speaker": "Presenter",
+      "text": "and you're not in stage two, okay? So, you can kind of just ignore these, but just understand that if you are in a stage one market, which again you're not,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 399.3,
+      "end": 408.74,
+      "speaker": "Presenter",
+      "text": "you're going to basically just say like, \"Here's the product,\" and people are like, \"Holy gosh, like this is insane,\" right? And because they've never seen it before. Second is like competition starts to emerge, so you're just saying like,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 408.74,
+      "end": 413.86,
+      "speaker": "Presenter",
+      "text": "\"Hey, my product's better than Bob's,\" right? So, think of it this way, like, you know, if you're the first gas station in a town,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 413.86,
+      "end": 417.6,
+      "speaker": "Presenter",
+      "text": "you're first-to-market. Like it doesn't matter, like you could charge $20 for",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 417.6,
+      "end": 425.38,
+      "speaker": "Presenter",
+      "text": "uh, you know, a a gallon for gas, people are going to buy it, because it's like you're the only one there, right? And then, you know, Jerry opens up his gas station across the street,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 425.38,
+      "end": 435.38,
+      "speaker": "Presenter",
+      "text": "and now some competition emerges, and you're like, \"Well, mine's cheaper,\" right? Or you're like, \"Oh hey, my gas is better. It You know, it has this,\" whatever it is, right? So, you start talking about the benefits. And then stage three, and I don't know why I'm using the gas station model,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 435.78,
+      "end": 441.82,
+      "speaker": "Presenter",
+      "text": "but stage three is realistic to where most of e-commerce marketing happens, okay? So stage three, stage four, and stage five",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 441.82,
+      "end": 445.88,
+      "speaker": "Presenter",
+      "text": "is like this is e-com, okay? And I'm going to put, you know, little stars here",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 446.14,
+      "end": 454.52,
+      "speaker": "Presenter",
+      "text": "just so you guys can understand like this is where all of the markets are for 99.9% of people in e-commerce, okay? And so stage three",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 454.52,
+      "end": 457.76,
+      "speaker": "Presenter",
+      "text": "market sophistication, and just understand like what this means is",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 457.88,
+      "end": 464.74,
+      "speaker": "Presenter",
+      "text": "people are being exposed to claims, being exposed to products,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 465.54,
+      "end": 472.46,
+      "speaker": "Presenter",
+      "text": "and being exposed to your marketing, and they become more educated and more more sophisticated, hence market sophistication,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 473.5,
+      "end": 483.0,
+      "speaker": "Presenter",
+      "text": "the more that they see, okay? So stage three market sophistication is essentially where customers are skeptical after hearing a lot of claims, a lot of promises, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 483.68,
+      "end": 493.14,
+      "speaker": "Presenter",
+      "text": "And for you to be successful, you essentially need a unique mechanism or better yet a new mechanism um explaining how your product is different,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 493.48,
+      "end": 499.9,
+      "speaker": "Presenter",
+      "text": "right? And so an example of this, we're going to get into them down below, but uh I mean, and for the sake of this video, maybe I'll just save it for that point, but",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 499.9,
+      "end": 505.16,
+      "speaker": "Presenter",
+      "text": "just to understand that new mechanisms are what really dominate stage three markets because",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 505.16,
+      "end": 512.62,
+      "speaker": "Presenter",
+      "text": "it's new, it's exciting. And a lot of the times, I want you to understand like zone three is like a really important zone to understand because even as",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 512.62,
+      "end": 521.14,
+      "speaker": "Presenter",
+      "text": "markets get into stage four and stage five, if a new mechanism comes out that actually does work, essentially markets will circle back into stage three where, again, new",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 521.14,
+      "end": 526.26,
+      "speaker": "Presenter",
+      "text": "mechanisms are running running the show, right? So, again, an example of this is Ozempic, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 526.9,
+      "end": 534.44,
+      "speaker": "Presenter",
+      "text": "Weight loss is a very, very sophisticated like probably stage five. Like, everybody's heard every single claim imaginable uh for weight loss, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 535.02,
+      "end": 540.24,
+      "speaker": "Presenter",
+      "text": "But when Ozempic came out with this new way to get weight loss, again that same old desire,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 541.3,
+      "end": 546.74,
+      "speaker": "Presenter",
+      "text": "that kind of put itself Like it was just a new mechanism that allowed it to do so well, and it actually worked. So",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 546.74,
+      "end": 556.06,
+      "speaker": "Presenter",
+      "text": "it really does help when the mechanism works, and that's why you're also seeing people in some of their ads saying, \"It's like Ozempic,\" or, \"Nature's Ozempic,\" or you you see people like, \"Goes great",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 556.06,
+      "end": 562.92,
+      "speaker": "Presenter",
+      "text": "with Ozempic,\" because they're leveraging the credibility, which we we can talk about at another time, but they're leveraging the credibility that that",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 562.92,
+      "end": 569.96,
+      "speaker": "Presenter",
+      "text": "mechanism has, okay? Stage four is essentially when you start claiming that you you like your mechanism",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 569.96,
+      "end": 576.64,
+      "speaker": "Presenter",
+      "text": "is is better, is faster, is easier, right? And so that's when you start If you If you think here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 577.3,
+      "end": 585.62,
+      "speaker": "Presenter",
+      "text": "you know, going from stage one to stage two is essentially you start talking about benefits. Well, you then in stage four, or stage three to stage four, is essentially saying like,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 585.84,
+      "end": 594.28,
+      "speaker": "Presenter",
+      "text": "\"Hey, like, my mechanism is better in this sense,\" right? So it's a faster mechanism than traditional mechanisms like mine, okay? So you just",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 594.28,
+      "end": 599.9,
+      "speaker": "Presenter",
+      "text": "basically one-up people, okay? Um and then here we have stage five, which is like complete sophistication,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 599.9,
+      "end": 607.34,
+      "speaker": "Presenter",
+      "text": "just meaning that this is where you really have to get into identity marketing. Fashion is a really great example of this, right? Like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 607.34,
+      "end": 618.34,
+      "speaker": "Presenter",
+      "text": "people don't really like You know, shirts are shirts, right? We have There's so many fashion brands that you're really selling to a specific identity unless you make, for example, maybe a new",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 618.34,
+      "end": 627.42,
+      "speaker": "Presenter",
+      "text": "mechanism where, I don't know, this shirt cleans itself. That's a new mechanism, and now all of a sudden like that's a really interesting shirt that maybe people want, right? So hopefully you can start to see what's going on.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 627.9,
+      "end": 637.2,
+      "speaker": "Presenter",
+      "text": "To help you guys not get confused on this, cuz when I first mentioned this to people, you're like, \"What the hell's a new mechanism? How do I make a better mechanism? What is what's happening?\" right? \"What's a new identity?\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 637.46,
+      "end": 644.7,
+      "speaker": "Presenter",
+      "text": "We're going to talk about that down below, but I just want you to understand that just know you are in a sophisticated market, and so that is the reason why a lot of times you get kicked in the nuts or",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 644.7,
+      "end": 653.66,
+      "speaker": "Presenter",
+      "text": "you don't do so well, uh because you're competing in a market that is very competitive, okay? And so people have heard the claims before. People have heard that like, \"Lose",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 653.66,
+      "end": 659.48,
+      "speaker": "Presenter",
+      "text": "weight in 20 days.\" They've heard that tons of times, okay? And so we need to find ways to be more creative",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 659.93,
+      "end": 667.5,
+      "speaker": "Presenter",
+      "text": "when marketing to these people, all right? So just understand you are likely in stage three, four, or five. It doesn't If you ask me honestly,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 668.08,
+      "end": 674.52,
+      "speaker": "Presenter",
+      "text": "it doesn't really matter, just know that you're in a sophisticated market and at the end of the day you just need to be aware of this.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 674.84,
+      "end": 684.72,
+      "speaker": "Presenter",
+      "text": "You don't need to be thinking, \"Oh, did I make this a stage three?\" Like, you know, don't over-complicate it. Just know you're in a sophisticated market, and that's the TLDR, okay? And so, now as a result of that,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 685.2,
+      "end": 696.06,
+      "speaker": "Presenter",
+      "text": "right, market sophistication just to help you guys understand, I already kind of mentioned this, like this is why most people say like, \"E-commerce is too saturated. E-commerce is too hard.\" It's just a skill issue, okay? But understand that, you know, more than three-",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 696.32,
+      "end": 703.04,
+      "speaker": "Presenter",
+      "text": "So, 75%, so three-quarters, 75% of your potential customers are actually researching products before they purchase, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 703.48,
+      "end": 712.7,
+      "speaker": "Presenter",
+      "text": "And so, at the end of the day, you have to know that as the opportunity to sell products online expands and people make oodles and oodles of money, right,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 713.38,
+      "end": 721.4,
+      "speaker": "Presenter",
+      "text": "more people are going to run to that opportunity, which is why there's more direct competition and which is why people are making crazy claims to make money because money's involved, so people",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 721.4,
+      "end": 729.76,
+      "speaker": "Presenter",
+      "text": "sacrifice their ethics to just make money, and as a result consumers are now having to say, like, \"Hey, I've got I better do my research before I actually buy this.\", okay? The The old",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 729.76,
+      "end": 738.5,
+      "speaker": "Presenter",
+      "text": "the old days of just, like, impulse buying something off the internet aren't really They don't really exist anymore. They definitely still do, but it's not like how it used to be in 2015 or 2016 where it's like",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 738.8,
+      "end": 745.94,
+      "speaker": "Presenter",
+      "text": "you could just run, you know, like a photo of a water bottle and be like, \"I sell water.\" and everyone's like, \"Oh my gosh, like I can get water online. Like, oh my gosh.\", right? Like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 745.94,
+      "end": 748.5,
+      "speaker": "Presenter",
+      "text": "that's first to market. That's like true first to market, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 749.48,
+      "end": 759.9,
+      "speaker": "Presenter",
+      "text": "The traditional, like, bigger, better, faster claims, they don't really resonate like they used to anymore, and just understand that, like, success requires you to understand like your market is sophisticated,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 760.32,
+      "end": 766.06,
+      "speaker": "Presenter",
+      "text": "and so you making basic claims that anybody can make You're like, \"Oh, I read this book, and like, Spencer told me to like talk about desires",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 766.06,
+      "end": 773.58,
+      "speaker": "Presenter",
+      "text": "and I now I know all about desires, I'm going to I'm going to make some claims, and I'm going to cook.\" Like, that's You're going to be ahead of some people, but you have to understand market sophistication",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 773.58,
+      "end": 781.28,
+      "speaker": "Presenter",
+      "text": "as well to be able to like double check, like, okay, what are the claims that are being made out there, okay? Now, again, as I mentioned,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 781.66,
+      "end": 792.1,
+      "speaker": "Presenter",
+      "text": "e-com is all stage three to stage five. I mean, maybe there's some of you that they're like, \"Oh, no. I'm in I'm a stage one, stage two.\" Cool, but if you ask me, I'm focusing on stage three, stage five, okay? Again, the internet has lowered the entry",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 792.1,
+      "end": 800.02,
+      "speaker": "Presenter",
+      "text": "barrier for brands to sell things, and it's also, um, you know, provided an abundance of information online for people to learn new things and find new things, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 800.26,
+      "end": 808.86,
+      "speaker": "Presenter",
+      "text": "Consumers are more educated than ever, and reports actually show, this is deep research that we did here, that 67% of purchase decisions are now influenced by brand story and values",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 808.86,
+      "end": 818.32,
+      "speaker": "Presenter",
+      "text": "rather than features. So, what this basically means is like people want to buy from, like, a brand that is aligned with their values and, you know, has a good story, which is why storytelling is so powerful and we're going to get",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 818.32,
+      "end": 824.28,
+      "speaker": "Presenter",
+      "text": "into that, but that's just again confirms that most of these markets are in stage four or five, and again stage three,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 824.56,
+      "end": 831.9,
+      "speaker": "Presenter",
+      "text": "okay? So, as a result of this and understanding market sophistication, you get something called the avatar market sophistication",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 831.9,
+      "end": 840.14,
+      "speaker": "Presenter",
+      "text": "gap, and that's what I mentioned in the beginning where even though your avatar is perfectly defined, you know exactly who this person is, and we haven't even defined avatars yet, we're going to get there,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 840.14,
+      "end": 848.06,
+      "speaker": "Presenter",
+      "text": "your desires are crystal-clear, right, and your product actually delivers the claim. Like, I know some of you guys have products where it's like, this literally helps you lose weight",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 848.06,
+      "end": 858.0,
+      "speaker": "Presenter",
+      "text": "or, like, this literally helps you, you know, grow back your hair. Yet, when you go and make ads and you you're telling people, you're like, \"Guys, like my product works. Like, come and get it.\", no one believes you,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 858.52,
+      "end": 865.82,
+      "speaker": "Presenter",
+      "text": "right? And the problem is is it's because you failed to communicate with your avatars the right way. Now, if you do have an incredible product,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 866.26,
+      "end": 875.94,
+      "speaker": "Presenter",
+      "text": "word-of-mouth will start to spread. It's exactly like how I mentioned at the beginning with Ozempic. People realize this was actually working, and so what happens? It, you know, goes Everybody tells everyone about it because it's like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 876.1,
+      "end": 884.82,
+      "speaker": "Presenter",
+      "text": "\"Oh my gosh, this actually works. This is huge problem that people have losing weight, and this thing actually is helping me lose weight. Oh, my goodness. This is a crazy new mechanism. You guys, you know, you guys need to go and try it.\", right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 884.82,
+      "end": 893.52,
+      "speaker": "Presenter",
+      "text": "And so, at the end of the day, if you fail to communicate with avatars the right way, right, if you if you fail or, better yet, if you fail to understand that, hey,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 893.52,
+      "end": 902.84,
+      "speaker": "Presenter",
+      "text": "your potential customers have heard these claims not just once, not just twice, but like a hundred times and they see these claims every single day and the market is very sophisticated,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 902.84,
+      "end": 915.12,
+      "speaker": "Presenter",
+      "text": "if you don't understand that, you're just going to be scratching your head saying like, \"Well, I'm going after desires. I I know my person, and, you know, for whatever reason I just can't I can't scale. Like, what's going on?\" This is the reason,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 915.12,
+      "end": 921.1,
+      "speaker": "Presenter",
+      "text": "okay? So, some final important things before we get into the three strategic responses, which I've got to hide from you guys, is",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 921.96,
+      "end": 931.0,
+      "speaker": "Presenter",
+      "text": "this is what makes Facebook advertising extremely hard, okay? Especially if you do not have any true USPs, which means unique selling propositions,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 931.84,
+      "end": 938.24,
+      "speaker": "Presenter",
+      "text": "okay? If you just have the same, like just a basic product that everybody is selling,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 938.72,
+      "end": 944.24,
+      "speaker": "Presenter",
+      "text": "it makes it harder for you as a beginner marketer to actually say like, \"Hey,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 944.68,
+      "end": 955.38,
+      "speaker": "Presenter",
+      "text": "my product can can do your thing.\" because there's there's so many beliefs around your product not working or just potentially not being able to deliver the claims that people say they can,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 955.94,
+      "end": 956.12,
+      "speaker": "Presenter",
+      "text": "okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 956.12,
+      "end": 962.22,
+      "speaker": "Presenter",
+      "text": "And so, this is where it takes a world-class marketer to market very sophisticated products, but it's also why",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 962.22,
+      "end": 969.22,
+      "speaker": "Presenter",
+      "text": "world-class marketers go and market sophisticated products, because a product is sophisticated for a reason, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 969.58,
+      "end": 974.66,
+      "speaker": "Presenter",
+      "text": "It's because a lot of people want it. But if you know how to market it the right way, you can make a ton of money.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 974.98,
+      "end": 981.94,
+      "speaker": "Presenter",
+      "text": "This is why it's important for you in the beginning to potentially not go after super sophisticated products",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 981.94,
+      "end": 989.94,
+      "speaker": "Presenter",
+      "text": "because your skill set is not quite there yet. But at the same time, you will become a better marketer by trying to sell products in sophisticated markets.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 989.94,
+      "end": 995.0,
+      "speaker": "Presenter",
+      "text": "Okay? So just understand this, okay, and we have solutions where, even if you have a sophisticated product,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 995.46,
+      "end": 1000.82,
+      "speaker": "Presenter",
+      "text": "we're going to get we're going to get into the three things here that can help you actually market it, but just understand, this is what makes Facebook really hard.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 1000.94,
+      "end": 1004.96,
+      "speaker": "Presenter",
+      "text": "It's market sophistication, okay? That is what makes it hard. So, now you're aware of it, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 1005.62,
+      "end": 1011.74,
+      "speaker": "Presenter",
+      "text": "This is the reason why bad marketers can get rich quickly when they find a product with a new mechanism or in early stage one-to-two markets.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 1011.96,
+      "end": 1016.98,
+      "speaker": "Presenter",
+      "text": "Like I said, it's usually not in stage one-to-two markets, but a lot of bad marketers will find a new product,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 1016.98,
+      "end": 1023.08,
+      "speaker": "Presenter",
+      "text": "it's it's a new mechanism, right, and they start marketing it, and boom, all of a sudden they're off and ripping.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 1023.3,
+      "end": 1027.36,
+      "speaker": "Presenter",
+      "text": "They're doing 5k days, 10k days, 15k days, and they have zero skill set, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 1028.24,
+      "end": 1034.04,
+      "speaker": "Presenter",
+      "text": "And this market sophistication again is a reason why that happens, because it's a brand new mechanism",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 1034.04,
+      "end": 1041.04,
+      "speaker": "Presenter",
+      "text": "that is giving people hope again, and word has not spread out enough yet that, hey, this mechanism does or doesn't work,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 1041.46,
+      "end": 1048.92,
+      "speaker": "Presenter",
+      "text": "okay? Or if there's, you know, trends like, for example, you know, there's a Dubai chocolate is like going crazy right now.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 1049.12,
+      "end": 1055.08,
+      "speaker": "Presenter",
+      "text": "If you look at Google trends it's like Dubai chocolate's going nuts. And doesn't mean to sell Dubai chocolate, but just to help you guys understand, it's like that's an example of a trend",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 1055.08,
+      "end": 1060.74,
+      "speaker": "Presenter",
+      "text": "that everybody's saying like, \"Oh my gosh, it's so good. Oh my gosh, it's so good,\" right? That's an example of not really a new mechanism,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 1060.74,
+      "end": 1065.88,
+      "speaker": "Presenter",
+      "text": "but essentially a a product that is new to the market that has really good word-of-mouth,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 1066.36,
+      "end": 1070.62,
+      "speaker": "Presenter",
+      "text": "and so a lot of people are jumping in on it, okay? And so that's also how bad marketers, right,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 1071.02,
+      "end": 1075.86,
+      "speaker": "Presenter",
+      "text": "who have a great product in a great market can make a lot of money. But again, I would rather be a great marketer than",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 1075.86,
+      "end": 1080.14,
+      "speaker": "Presenter",
+      "text": "than anything else, because if you're a great marketer, you can sell anything.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 1080.52,
+      "end": 1085.68,
+      "speaker": "Presenter",
+      "text": "And then if you're a great marketer that can sell anything, and then you also happen to find a product that is going crazy,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 1086.26,
+      "end": 1091.36,
+      "speaker": "Presenter",
+      "text": "that's where you see massive, massive, massive brands explode like crazy, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 1092.2,
+      "end": 1097.72,
+      "speaker": "Presenter",
+      "text": "This is not something you test on your ads. You do not test different levels of sophistication. Your sophistication just exists.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 1098.06,
+      "end": 1102.68,
+      "speaker": "Presenter",
+      "text": "Again, this is not market awareness. So, just some points to reinforce here, just understand that market sophistication",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 1103.38,
+      "end": 1107.52,
+      "speaker": "Presenter",
+      "text": "is what exists, okay? It's what is happening in the market.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 1107.88,
+      "end": 1114.62,
+      "speaker": "Presenter",
+      "text": "You don't test whether or not your ad is in stage three or stage four, okay? You just need to be aware that your market is sophisticated,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 1114.62,
+      "end": 1122.54,
+      "speaker": "Presenter",
+      "text": "and you likely need to use one of the three things that we're about to jump into right now. All right, so the three strategic responses",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 1123.04,
+      "end": 1130.38,
+      "speaker": "Presenter",
+      "text": "for sophisticated markets. First one here is new mechanisms, and as you can imagine, as, you know, Eugene stated up here,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 1130.38,
+      "end": 1138.84,
+      "speaker": "Presenter",
+      "text": "if you introduce a new mechanism into a stage three market or really I think into any market, or you have a mechanism that is bigger or better,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 1139.22,
+      "end": 1145.14,
+      "speaker": "Presenter",
+      "text": "especially stage three and stage four, you're going to be able to scale, okay? Now, the the the thing is is why?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 1145.14,
+      "end": 1153.16,
+      "speaker": "Presenter",
+      "text": "Why does why do new mechanisms work, and what are new mechanisms? Well, new mechanisms are essentially where you introduce new processes,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 1153.16,
+      "end": 1161.64,
+      "speaker": "Presenter",
+      "text": "new technology, or some kind of new something, okay? Something has to be new that most consumers have not seen,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 1162.94,
+      "end": 1167.94,
+      "speaker": "Presenter",
+      "text": "okay? And this makes familiar promises fresh and believable.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 1168.58,
+      "end": 1174.64,
+      "speaker": "Presenter",
+      "text": "Basically it it revives products or revives, you know, I don't want to say markets,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 1174.98,
+      "end": 1182.38,
+      "speaker": "Presenter",
+      "text": "but revives brands because they have a new way of doing things. And the thing is, is that whenever you introduce something new,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 1182.8,
+      "end": 1189.36,
+      "speaker": "Presenter",
+      "text": "it does one thing: it gives people hope, okay? And so, rather than claiming like big benefits,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 1189.36,
+      "end": 1196.38,
+      "speaker": "Presenter",
+      "text": "and, you know, this, \"Hey, we're so much better than these guys,\" it's like, \"Hey, this one thing is what's actually going to make this work for you.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 1196.4,
+      "end": 1202.08,
+      "speaker": "Presenter",
+      "text": "Okay? Again, it's a sophisticated market. So, when you introduce something new, this is the secret thing that you've been missing,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 1202.08,
+      "end": 1208.76,
+      "speaker": "Presenter",
+      "text": "or like if you've tried these things and they didn't work, this, you know, this is the thing that will make it work, that is a new mechanism, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 1208.78,
+      "end": 1215.16,
+      "speaker": "Presenter",
+      "text": "So, again, to understand some of the psychology behind this, sophisticated and and educated customers want a clear understanding",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 1215.16,
+      "end": 1221.06,
+      "speaker": "Presenter",
+      "text": "of how products work, okay? Now, the point the big big emphasis here is like this can be over-complicated,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 1221.14,
+      "end": 1226.98,
+      "speaker": "Presenter",
+      "text": "and we're going to talk about this in a second, but you don't want to be overly technical. You you you don't want to alienate people",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 1226.98,
+      "end": 1235.88,
+      "speaker": "Presenter",
+      "text": "with information that is just like, you know, I can't think of the word of it because, of course, I'm um my English is top tier, but essentially you don't want to make people feel dumb,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1235.88,
+      "end": 1242.36,
+      "speaker": "Presenter",
+      "text": "and you don't want to, you know, use massive words where people are just like, \"Okay, what does this even do?\" right? People aren't scientists.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1242.8,
+      "end": 1249.3,
+      "speaker": "Presenter",
+      "text": "You know, they're not tech, you know, they're not engineers. So you need to find a way to communicate with people your new mechanism in a clear way,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 1249.7,
+      "end": 1255.58,
+      "speaker": "Presenter",
+      "text": "okay? So some examples of this is Purple. If you guys don't know Purple mattress, they literally just ditched traditional foam,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 1256.22,
+      "end": 1265.4,
+      "speaker": "Presenter",
+      "text": "right? And then they just came up with this new like purple like grid, kind of flex like mattress that is completely different",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 1265.4,
+      "end": 1270.98,
+      "speaker": "Presenter",
+      "text": "that nobody's ever seen before. That's a new mechanism. Pretty sure they're like a hundred plus million dollar company, okay? Seed,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1271.88,
+      "end": 1278.16,
+      "speaker": "Presenter",
+      "text": "this is a a supplement company, right? They have a dual capsule system. So, what this means is it ensures 95%",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1278.82,
+      "end": 1283.92,
+      "speaker": "Presenter",
+      "text": "of probiotic survival versus competitors' 20%. Now, they tied in a bit of new information here,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1284.02,
+      "end": 1288.48,
+      "speaker": "Presenter",
+      "text": "which we're going to get to in a second, but this is an example of a new mechanism. This specific capsule",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1288.48,
+      "end": 1293.4,
+      "speaker": "Presenter",
+      "text": "is what allows you to get more from your specific multivitamin that you're taking.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1294.44,
+      "end": 1294.98,
+      "speaker": "Presenter",
+      "text": "Oura Ring.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1295.32,
+      "end": 1302.82,
+      "speaker": "Presenter",
+      "text": "This is a very, very simple one as well. These are all product generation, so we're going to get to in a second, but or like product product development, developed a new way for users to achieve their fitness goals,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1303.3,
+      "end": 1306.78,
+      "speaker": "Presenter",
+      "text": "right? Another great example, HexClad, pretty sure they're worth over $500 million.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 1307.38,
+      "end": 1315.44,
+      "speaker": "Presenter",
+      "text": "What did they do? Well, they introduced this hex hex, I don't even know what it is, it's like hexagonal technology, whatever. People are probably wondering",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1315.44,
+      "end": 1321.28,
+      "speaker": "Presenter",
+      "text": "if I even graduated high school at this point, but the point is it's like they developed a new technology. Another great example,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1321.46,
+      "end": 1325.9,
+      "speaker": "Presenter",
+      "text": "Ridge wallets, right? They looked at the traditional wallet, and they made it completely different,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 1325.9,
+      "end": 1331.46,
+      "speaker": "Presenter",
+      "text": "right? They were the first to kind of develop that product. So these are new mechanisms to deliver on",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1331.46,
+      "end": 1336.36,
+      "speaker": "Presenter",
+      "text": "things that is existing products you know used to do, but theirs does better,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1336.78,
+      "end": 1339.36,
+      "speaker": "Presenter",
+      "text": "okay? The biggest one of this is Netflix, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 1339.88,
+      "end": 1343.9,
+      "speaker": "Presenter",
+      "text": "Netflix came out with a new way to watch movies. That's why Blockbuster went bankrupt,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 1344.24,
+      "end": 1350.18,
+      "speaker": "Presenter",
+      "text": "okay? And so, just understand that these are examples of e-commerce specific mechanisms, of other specific mechanisms. Just know",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 1350.18,
+      "end": 1356.46,
+      "speaker": "Presenter",
+      "text": "that the biggest mistake that people can make when they are trying to communicate their new mechanisms, and for a lot of you guys,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 1356.78,
+      "end": 1363.24,
+      "speaker": "Presenter",
+      "text": "it might not actually be something as a new product. It might just be something as a specific ingredient.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 1363.76,
+      "end": 1371.08,
+      "speaker": "Presenter",
+      "text": "It might be a specific way that you do things, right? And we're going to get to examples of new mechanisms. We're going to talk about these new mechanisms",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 1371.8,
+      "end": 1377.42,
+      "speaker": "Presenter",
+      "text": "in the product or in the new mechanism section below, so this is going to be, again, three more modules that that follow this.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 1377.7,
+      "end": 1384.62,
+      "speaker": "Presenter",
+      "text": "But just understand that there may be new mechanisms in your product that you're just not talking about, and well, actually give you guys an example",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 1384.62,
+      "end": 1392.9,
+      "speaker": "Presenter",
+      "text": "of this for one of our brands where we found a new mechanism that we just didn't see, and we were able to actually identify it and communicate it.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 1392.92,
+      "end": 1400.9,
+      "speaker": "Presenter",
+      "text": "At the end of the day, new mechanisms are extremely powerful. And to kind of hit this home, I want to tell you the Apple iPod story. And so, for those of you that don't know,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 1400.98,
+      "end": 1407.32,
+      "speaker": "Presenter",
+      "text": "there's actually a Korean company that originally invented an MP3 player or essentially MP3 in general, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 1407.76,
+      "end": 1415.24,
+      "speaker": "Presenter",
+      "text": "And they were telling everyone like, \"Hey, the, you know, the, um, this new MP3 is, you know, like, revolutionary technology.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 1416.78,
+      "end": 1424.3,
+      "speaker": "Presenter",
+      "text": "Essentially, you can download all of these, you know, MP3 files that are up to 5 GB, and then you can store them, and,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 1424.3,
+      "end": 1431.88,
+      "speaker": "Presenter",
+      "text": "you know, archive them in your device, and then you can download them.\" And like, they were just using all this technical language that nobody",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 1431.88,
+      "end": 1439.54,
+      "speaker": "Presenter",
+      "text": "understood. They would They were like, \"Download what? Like, what is a download? What in what device?\" You have to remember, this was like early 2000s,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 1439.74,
+      "end": 1447.14,
+      "speaker": "Presenter",
+      "text": "um, it's like, \"What device? What's an MP3?\" People are like, they don't know what this is, right? And then what Apple did is it came out with a very, very simple camp-",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1447.36,
+      "end": 1455.02,
+      "speaker": "Presenter",
+      "text": "And for those of you that remember this, or for those of you that, I mean, mostly you probably aren't even born. Um, pretty sure I was like five or something like that, but that literally said verbatim,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1455.62,
+      "end": 1457.78,
+      "speaker": "Presenter",
+      "text": "\"A thousand songs in your pocket.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1459.02,
+      "end": 1462.6,
+      "speaker": "Presenter",
+      "text": "Clear as day. All of a sudden, boom, everybody gets it.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1463.12,
+      "end": 1470.88,
+      "speaker": "Presenter",
+      "text": "\"Oh my gosh! That's a thousand songs in my pocket? How is that? You know, usually with my Walkman, I can only carry like maybe maybe 20 or 30, but like",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1470.88,
+      "end": 1474.78,
+      "speaker": "Presenter",
+      "text": "a thousand? Like how Oh my gosh!\" And now everybody gets it, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1474.9,
+      "end": 1480.74,
+      "speaker": "Presenter",
+      "text": "And so, that's an example of using new mechanisms, and and understanding how to communicate clearly",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1481.54,
+      "end": 1488.98,
+      "speaker": "Presenter",
+      "text": "to the audience, rather than like using tech jargon. And we see a lot of brands that actually do have great new mechanisms, not understand how to actually communicate it.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 215,
+      "start": 1488.98,
+      "end": 1494.88,
+      "speaker": "Presenter",
+      "text": "And so, I wanted to share this story, uh, is actually one of that a client shared with us, actually one of our clients who is Korean, who shared this with us.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 216,
+      "start": 1495.04,
+      "end": 1502.92,
+      "speaker": "Presenter",
+      "text": "And it's a great example of how to use new mechanisms, and how to clarify or how to communicate them clearly. All right, now the next one here",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1502.92,
+      "end": 1509.92,
+      "speaker": "Presenter",
+      "text": "is going to be new information. And again, I'm going to get into examples of new mechanisms in the new mechanism tab, so again, just bear with me here to go through",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1509.92,
+      "end": 1515.9,
+      "speaker": "Presenter",
+      "text": "the final two that we have here, and then we're going to get into, uh, breaking these down individually in the next modules. I want to go through all of them first.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1516.0,
+      "end": 1523.14,
+      "speaker": "Presenter",
+      "text": "Um, now let's talk about new information, okay? So new information is one that, uh, or for a lot of you, maybe you're looking at new mechanisms and",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1523.14,
+      "end": 1529.78,
+      "speaker": "Presenter",
+      "text": "you're like, \"Listen, I'm not doing any product R&D anytime soon or I'm not really sure how to find a mechanism.\" Even though I'm going to show you how to do it,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1529.78,
+      "end": 1534.82,
+      "speaker": "Presenter",
+      "text": "um, at the end of the day, one of the best things that you can do is you can use something called new information,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1535.5,
+      "end": 1540.56,
+      "speaker": "Presenter",
+      "text": "okay? And this is something that literally anybody can do because education is powerful,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1540.8,
+      "end": 1549.24,
+      "speaker": "Presenter",
+      "text": "okay? And the more education, or the more educated you are around your specific product, around your specific niche, around whatever",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1549.24,
+      "end": 1553.36,
+      "speaker": "Presenter",
+      "text": "market you are in, you can use that as a competitive advantage, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1553.98,
+      "end": 1560.38,
+      "speaker": "Presenter",
+      "text": "So this new information strategy basically helps customers understand, so like you are",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1560.38,
+      "end": 1569.34,
+      "speaker": "Presenter",
+      "text": "essentially providing customers more information and educating them, and positioning yourself as a result of doing that as an authority,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1570.4,
+      "end": 1576.92,
+      "speaker": "Presenter",
+      "text": "okay? And so now, all of a sudden, people aren't buying from some random guy saying \"Buy my stuff,\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 228,
+      "start": 1577.28,
+      "end": 1584.1,
+      "speaker": "Presenter",
+      "text": "or some random gal saying \"Buy my stuff.\" They're buying from an authority that clearly knows a lot about this specific topic, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1584.86,
+      "end": 1593.42,
+      "speaker": "Presenter",
+      "text": "And so this approach specifically can help people understand their problems. So not just reveal problems from an unaware perspective,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1594.02,
+      "end": 1602.96,
+      "speaker": "Presenter",
+      "text": "but also help them better understand the solutions and why they failed, or their problems and why they're happening and the root cause of these things.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1603.3,
+      "end": 1614.84,
+      "speaker": "Presenter",
+      "text": "So just essentially providing them a deeper understanding of what is going on before they actually position their product or position the claim as something to actually support that problem.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1615.2,
+      "end": 1622.28,
+      "speaker": "Presenter",
+      "text": "They're essentially showing their understanding and providing these customers with new information that they did not know, right,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1622.74,
+      "end": 1629.44,
+      "speaker": "Presenter",
+      "text": "around the product or around the claim. So that way, when they make the claim, they believe them a lot more.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1629.62,
+      "end": 1634.22,
+      "speaker": "Presenter",
+      "text": "So what this does is this essentially builds belief in potential customers, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1634.22,
+      "end": 1642.3,
+      "speaker": "Presenter",
+      "text": "And so just understand, as it says here, education builds authority and it builds trust with skeptical audiences and sophisticated audiences, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1642.3,
+      "end": 1650.26,
+      "speaker": "Presenter",
+      "text": "And this idea is actually a reciprocity principle, meaning that like when we do something for someone or someone you know For example, if I just bought you a Ferrari,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1650.26,
+      "end": 1656.14,
+      "speaker": "Presenter",
+      "text": "you might feel like you owe me something. Not everybody's like that, but you know there's the idea of reciprocity in a lot of people.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1656.38,
+      "end": 1667.92,
+      "speaker": "Presenter",
+      "text": "And so here, when someone when you are able to give someone value and help someone with something, a lot of times people feel like they can trust you, and like, \"Wow, this person's actually trying to help me.\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1668.16,
+      "end": 1674.14,
+      "speaker": "Presenter",
+      "text": "\"Well, if that's true, then I guess, you know, the claim that they're making must also be true,\" okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1674.52,
+      "end": 1683.28,
+      "speaker": "Presenter",
+      "text": "And so, again, problem awareness creation So this is where we go after unaware avatars, can help very sophisticated buyers recognize, you know, unmet needs that they hadn't actually, you know,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1683.72,
+      "end": 1695.1,
+      "speaker": "Presenter",
+      "text": "they they weren't aware of. Um, or again, like I said, when you make people or when you help people understand a problem that they were having on another level, right, or you help people understand the solutions and why they failed,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1695.5,
+      "end": 1704.3,
+      "speaker": "Presenter",
+      "text": "right, or if you just help people understand products in general Like you provide education around these things through your ads, usually video ads, and again I'll show you examples of this,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1704.62,
+      "end": 1714.26,
+      "speaker": "Presenter",
+      "text": "this is where you can start to essentially break through in sophisticated markets, because you're educating these people and you're giving them something new, it's new information, right? So not a new mechanism,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1714.36,
+      "end": 1721.92,
+      "speaker": "Presenter",
+      "text": "it's just new information. And so some examples of this is AG1, okay? They invested $5 million into clinical studies, and basically created",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1721.92,
+      "end": 1728.64,
+      "speaker": "Presenter",
+      "text": "all this comprehensive educational content about these 75 ingredients that they put in, as a result have a $600 million business.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1728.8,
+      "end": 1734.08,
+      "speaker": "Presenter",
+      "text": "Now, I don't know about you, but most of you probably don't have $5 million to go spend on clinical studies. So, with that in sense,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1734.08,
+      "end": 1744.54,
+      "speaker": "Presenter",
+      "text": "just understand that again if you do research, deep research, not with Claude, not with ChatGPT Sure, that can help you, but you actually go and spend time to like deeply understand your customers,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1744.54,
+      "end": 1752.8,
+      "speaker": "Presenter",
+      "text": "and you deeply understand the thing that you're selling, and you deeply understand why a lot of these solutions are failing, or why these problems come from, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1752.94,
+      "end": 1763.42,
+      "speaker": "Presenter",
+      "text": "Um, you're going to actually understand You're going to be able to communicate this information, and now that's one of the harder things, is being able to take all of this boring information and all of this abundance of information,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1763.87,
+      "end": 1770.1,
+      "speaker": "Presenter",
+      "text": "and communicate it in a simple, clear, and comprehensive way. That takes a skill set, which hopefully you can develop.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1770.78,
+      "end": 1780.12,
+      "speaker": "Presenter",
+      "text": "Well, that is usually how new information is shared through your ads, okay? The Ordinary did this as well. Ritual vitamins did this as well. Three supplement brands because these are essentially the most competitive.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1780.36,
+      "end": 1787.24,
+      "speaker": "Presenter",
+      "text": "I'm going to remove these sources, but these are old sources here um that explain this stuff. Now, just understand that when you use this strategy,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1788.02,
+      "end": 1798.4,
+      "speaker": "Presenter",
+      "text": "you cannot use like surface-level education. You can't be like, \"Oh, you know, your shoulder hurts because you're old.\" It's like, duh. You know what I mean? Like you really have to go deep and understand this, and again we're going to show you",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 254,
+      "start": 1798.4,
+      "end": 1806.08,
+      "speaker": "Presenter",
+      "text": "some examples of that as well. And then, again, just remember that your potential customers are not dumb. They are educated, but just because they're educated doesn't mean",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 255,
+      "start": 1806.08,
+      "end": 1814.26,
+      "speaker": "Presenter",
+      "text": "that you can't be an expert, right? And this is what I love about this is because the more knowledgeable you are in your space, the more that you can use that in your marketing,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1814.7,
+      "end": 1823.96,
+      "speaker": "Presenter",
+      "text": "okay? A lot of people think they know everything. The There's guys that we see it all the time, and maybe you're one of them, and you ended up buying Evolve anyways, but like they're doing $200k a month and they think they know everything,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1824.48,
+      "end": 1833.24,
+      "speaker": "Presenter",
+      "text": "right? And then they come into Evolve and they're like, \"Oh jeez, like, wow, I actually I actually didn't know that.\" And now, all of a sudden, you know, they see me as an expert.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1833.24,
+      "end": 1844.7,
+      "speaker": "Presenter",
+      "text": "And so when I tell people something the next time, a lot of times they listen, right? So if I if if I've built trust in you from even you just going through this, that is how that can essentially work.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1844.7,
+      "end": 1854.74,
+      "speaker": "Presenter",
+      "text": "Now, that can be used very I don't want to say maliciously, but essentially when you provide people new information, it helps people understand things on another level, and that can build trust,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 260,
+      "start": 1854.74,
+      "end": 1860.4,
+      "speaker": "Presenter",
+      "text": "and, again, can build authority and help you actually position your claims as something that actually works, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1861.3,
+      "end": 1870.84,
+      "speaker": "Presenter",
+      "text": "New identity. Now, this is a big one, and we're going to talk about this, and this is really simplifying this down into avatars. But for those of you who are really good with brand, if that happens to be any of you,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 262,
+      "start": 1870.84,
+      "end": 1877.8,
+      "speaker": "Presenter",
+      "text": "just know that you can basically influence people to buy things just because of what they get as a result like",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 263,
+      "start": 1877.8,
+      "end": 1881.74,
+      "speaker": "Presenter",
+      "text": "because of who they become as a result of using your product. Okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 264,
+      "start": 1882.4,
+      "end": 1887.86,
+      "speaker": "Presenter",
+      "text": "Now, a lot of times we think this is only branding. This can also be associated with products, okay? So,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 265,
+      "start": 1887.86,
+      "end": 1894.0,
+      "speaker": "Presenter",
+      "text": "I don't really want to, you know, doxx this person's product, but I'll think of, like, for example, like Ray-Ban glasses, right? Like,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 266,
+      "start": 1894.0,
+      "end": 1899.7,
+      "speaker": "Presenter",
+      "text": "I have the Ray-Ban glasses, and as much as I bought them because, like, they're they're nice glasses,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 267,
+      "start": 1900.16,
+      "end": 1906.92,
+      "speaker": "Presenter",
+      "text": "I mainly bought them because I want people to be like, \"Oh, wow. Like, this guy is, like, on the the leading edge of technology.\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 268,
+      "start": 1906.92,
+      "end": 1911.94,
+      "speaker": "Presenter",
+      "text": "Like as much as, like, you know, that's a crazy self-thought, but the idea is that",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 269,
+      "start": 1911.94,
+      "end": 1916.1,
+      "speaker": "Presenter",
+      "text": "people are going to be like, \"Damn, those are cool. Like, most people don't have those.\" So, all of a sudden, now,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 270,
+      "start": 1916.1,
+      "end": 1922.62,
+      "speaker": "Presenter",
+      "text": "I am perceived, right? So, this basically, new identities massively influence status. So, how other people perceived perceive",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 271,
+      "start": 1922.62,
+      "end": 1928.96,
+      "speaker": "Presenter",
+      "text": "your customer, or, in this instance of my Ray-Bans, of how people perceive me. People now look at me and they're like,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 272,
+      "start": 1929.28,
+      "end": 1934.08,
+      "speaker": "Presenter",
+      "text": "\"Damn, this guy's got like these AI glasses. Like, that's really cool, right?\" And so, that was,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 273,
+      "start": 1934.36,
+      "end": 1939.88,
+      "speaker": "Presenter",
+      "text": "you know, was it part of the reason why I bought it? Not really. I actually wanted to take photos and videos, and I just thought that they were cool. But, a lot of the times, people",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 274,
+      "start": 1939.88,
+      "end": 1947.0,
+      "speaker": "Presenter",
+      "text": "buy things because of what it represents, and not just the product itself, but what the product represents, okay? And so, for example,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 275,
+      "start": 1947.54,
+      "end": 1952.68,
+      "speaker": "Presenter",
+      "text": "it's the same way, I'll use an example that really hits home, for a lot of you guys, I'm sorry, Android users, but a lot of you guys, like,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 276,
+      "start": 1952.68,
+      "end": 1959.44,
+      "speaker": "Presenter",
+      "text": "you know, you probably have iPhones, and then if you look at someone who has an Android, like, I don't know about you, but I kind of think I'm like, why is that guy using an Android? Like,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 277,
+      "start": 1959.44,
+      "end": 1966.28,
+      "speaker": "Presenter",
+      "text": "why wouldn't you use an iPhone? But, then it's funny, because like Android users kind of see the same thing in us, right? Or Mac versus Windows, right? So,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 278,
+      "start": 1966.28,
+      "end": 1974.76,
+      "speaker": "Presenter",
+      "text": "it's like, I'm an Apple product person. It's why I wear AirPods, it's why I use the Apple mouse, it's why I use a MacBook, right? And so, that kind of is this business bro,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 279,
+      "start": 1975.28,
+      "end": 1984.02,
+      "speaker": "Presenter",
+      "text": "or like this business like entrepreneur kind of vibe has always like been MacBook stuff, right? Same thing with Nike, right? People buy Nike shoes because they want to feel like Michael Jordan.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 280,
+      "start": 1984.18,
+      "end": 1989.94,
+      "speaker": "Presenter",
+      "text": "So, hopefully, these examples are hitting home, but just understand that people maintaining their identity is really important,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 281,
+      "start": 1990.42,
+      "end": 1995.28,
+      "speaker": "Presenter",
+      "text": "and people, you know, having a cool identity is is something that matters, and so when you can sell identity,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 282,
+      "start": 1995.28,
+      "end": 1999.94,
+      "speaker": "Presenter",
+      "text": "or a new identity, you can make a ton of money. Liquid Death did this. They did this punk rock,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 283,
+      "start": 2000.18,
+      "end": 2005.98,
+      "speaker": "Presenter",
+      "text": "you know, environmental activism kind of brand, where it's like, at the end of the day, they're selling water in a can,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 284,
+      "start": 2006.38,
+      "end": 2013.32,
+      "speaker": "Presenter",
+      "text": "but it's so much more than that. When you drink Liquid Death, you're not just drinking water in a can. You're basically, like, going through this identity of, like,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 285,
+      "start": 2013.32,
+      "end": 2018.62,
+      "speaker": "Presenter",
+      "text": "yeah, I'm, you know, I I look cool while I'm drinking it, and I'm also helping the environment, okay? Glossier,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 286,
+      "start": 2020.12,
+      "end": 2025.74,
+      "speaker": "Presenter",
+      "text": "really good example of this, as well. Skin first, make up second. And then, Peloton, you know, like they're they're just bikes,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 287,
+      "start": 2025.76,
+      "end": 2031.94,
+      "speaker": "Presenter",
+      "text": "but they attached on screens and new mechanism, and then got celebrity instructors, and we're going to talk about this, as well,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 288,
+      "start": 2031.94,
+      "end": 2039.2,
+      "speaker": "Presenter",
+      "text": "in a second, about how all of these work together. But then, got celebrity instructors and all of these influencers to go and use it. Now, all of a sudden, it's like this status symbol.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 289,
+      "start": 2039.2,
+      "end": 2044.0,
+      "speaker": "Presenter",
+      "text": "If you have a Peloton, you're like, \"Oh, damn. You have a Peloton? Like, wow, right?\" So, identity strategies",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 290,
+      "start": 2044.0,
+      "end": 2051.96,
+      "speaker": "Presenter",
+      "text": "are very, very powerful, and, to be honest, like this is selling air, when you sell this sense of belonging or you sell status,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 291,
+      "start": 2052.54,
+      "end": 2057.64,
+      "speaker": "Presenter",
+      "text": "like Rolex. You know what I mean? Like, people spend $50,000, $60,000 on Rolexes.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 292,
+      "start": 2058.38,
+      "end": 2063.04,
+      "speaker": "Presenter",
+      "text": "Why? The identity, okay? Now, just recapping",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 293,
+      "start": 2063.04,
+      "end": 2068.14,
+      "speaker": "Presenter",
+      "text": "the big three here: new mechanisms provide new hope to users. That's simplest way. Like,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 294,
+      "start": 2068.14,
+      "end": 2074.94,
+      "speaker": "Presenter",
+      "text": "if you have a new mechanism, or if you find a new mechanism in your product, and you position it and you market it, that will give new hope to people.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 295,
+      "start": 2075.24,
+      "end": 2081.74,
+      "speaker": "Presenter",
+      "text": "They believe that this will actually work. New information makes people aware of things that they didn't previously know,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 296,
+      "start": 2082.12,
+      "end": 2088.04,
+      "speaker": "Presenter",
+      "text": "okay? Whether that's problems, whether that's things about solutions, things about products, right, whatever it may be.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 297,
+      "start": 2088.84,
+      "end": 2094.32,
+      "speaker": "Presenter",
+      "text": "This gives people new information, and that helps them trust you, right, and then helps with buying",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 298,
+      "start": 2094.32,
+      "end": 2101.54,
+      "speaker": "Presenter",
+      "text": "from you in sophisticated markets. They see you as an authority in a sophisticated market. And then, new identity builds relatability",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 299,
+      "start": 2101.54,
+      "end": 2108.46,
+      "speaker": "Presenter",
+      "text": "in sophisticated markets. And when markets are very, very sophisticated, if we go all the way back up to the top, this is where customers are not really looking.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 300,
+      "start": 2108.8,
+      "end": 2115.06,
+      "speaker": "Presenter",
+      "text": "I mean, they still are looking for claims, and they are looking for new mechanisms, but more importantly, they're buying based off of their identity,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 301,
+      "start": 2115.56,
+      "end": 2120.94,
+      "speaker": "Presenter",
+      "text": "right? Like, I bought this shirt because I think it's a nice shirt. I also, on the same side,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 302,
+      "start": 2121.26,
+      "end": 2126.2,
+      "speaker": "Presenter",
+      "text": "don't have any suits, because I don't really have that identity of being, like, a suit guy,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 303,
+      "start": 2126.48,
+      "end": 2131.58,
+      "speaker": "Presenter",
+      "text": "right? So, that's why I don't really buy suits, but a lot of people do. So, just understand that identity",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 304,
+      "start": 2131.58,
+      "end": 2139.98,
+      "speaker": "Presenter",
+      "text": "is essentially selling more than what the product actually represents, and then from there, or sorry, selling more than what the product actually is, it's what the product represents.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 305,
+      "start": 2139.98,
+      "end": 2145.18,
+      "speaker": "Presenter",
+      "text": "And then, from here, just understand that if you're doing new mechanisms, sometimes this does take some R&D,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 306,
+      "start": 2145.18,
+      "end": 2152.78,
+      "speaker": "Presenter",
+      "text": "it takes some kind of, you know, maybe you have something specific about your product, and I would highly recommend again watching Sean's product research module to understand how he does this,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 307,
+      "start": 2152.78,
+      "end": 2160.44,
+      "speaker": "Presenter",
+      "text": "but new information and new identity are things new identity is probably the hardest one out of all of these, outside of depending on how crazy your mechanism is,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 308,
+      "start": 2160.8,
+      "end": 2162.56,
+      "speaker": "Presenter",
+      "text": "but new information is something that all of you",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 309,
+      "start": 2162.56,
+      "end": 2171.48,
+      "speaker": "Presenter",
+      "text": "have the abilities to do. And then when I say new identity, as much as I'm talking about selling more than the product, you can actually use this strategy as well",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 310,
+      "start": 2171.48,
+      "end": 2180.84,
+      "speaker": "Presenter",
+      "text": "when it comes to avatars. So that's why avatars are such a big thing because you can actually basically build relatability and resonate with specific identities by having",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 311,
+      "start": 2180.84,
+      "end": 2189.24,
+      "speaker": "Presenter",
+      "text": "a clear avatar and understanding your avatar on another level rather than just, you know, having a bunch of influencers influence people or, you know, doing a lot of storytelling",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 312,
+      "start": 2189.24,
+      "end": 2196.02,
+      "speaker": "Presenter",
+      "text": "or building a lot of brand, which brand building is like, you know, that is god-tier of marketing when you know how to build real brands.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 313,
+      "start": 2196.46,
+      "end": 2202.96,
+      "speaker": "Presenter",
+      "text": "You can do some serious damage and make a ton of money. And like I said, a lot of these brands here like Liquid Death, not only do they have a new mechanism",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 314,
+      "start": 2202.96,
+      "end": 2209.92,
+      "speaker": "Presenter",
+      "text": "in water in a can, they also have new information, which is saying like, \"Hey, this can essentially like we're destroying our our world",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 315,
+      "start": 2209.92,
+      "end": 2217.64,
+      "speaker": "Presenter",
+      "text": "by using plastic bottles.\" And then number three, they also build this identity with this, you know, idea that it looks like you're you're hardcore drinking like beer",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 316,
+      "start": 2217.64,
+      "end": 2227.42,
+      "speaker": "Presenter",
+      "text": "or something like that when it's just water, right? So that's an example of a brand that applies all three and makes a ton of money in a very, very, very, very sophisticated market.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 317,
+      "start": 2227.9,
+      "end": 2234.9,
+      "speaker": "Presenter",
+      "text": "Same thing with Purple, same thing with same thing with HexClad, right? HexClad new- new mechanism. And a lot of times new mechanisms have new information, right?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 318,
+      "start": 2234.9,
+      "end": 2243.2,
+      "speaker": "Presenter",
+      "text": "So when new mecha- mechanisms are made, you a lot of times need to explain why they're made, right? So the MP3 was invented, that's a new mechanism.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 319,
+      "start": 2243.76,
+      "end": 2251.9,
+      "speaker": "Presenter",
+      "text": "The information that follows is here's why, and then the identity again gets built through association or again by speaking to specific",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 320,
+      "start": 2251.9,
+      "end": 2260.38,
+      "speaker": "Presenter",
+      "text": "avatars, just like how Liquid Death did with punk rock, and so on. So hopefully this all makes sense. I know this is a bit of a long one. We're going to get into new mechanisms, new information, new identity.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 321,
+      "start": 2260.64,
+      "end": 2269.7,
+      "speaker": "Presenter",
+      "text": "We're going to have examples in there. We're going to go through actual examples that we did for our brand, and we're going to show you guys how to find mechanisms and ultimately find the information,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 322,
+      "start": 2270.38,
+      "end": 2278.92,
+      "speaker": "Presenter",
+      "text": "you know, and with the identity section, essentially go through the avatar side, which we're going to cover in step four. But excited for you guys to learn more about those three,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 323,
+      "start": 2279.28,
+      "end": 2285.88,
+      "speaker": "Presenter",
+      "text": "and hopefully this helps you understand a lot more about what is going on in your market, and helps you make some more winning ads.",
+      "chunk": 7,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 642.41,
+      "end": 644.91,
+      "label": "laughter"
+    },
+    {
+      "start": 921.23,
+      "end": 922.43,
+      "label": "laughter"
+    },
+    {
+      "start": 1907.27,
+      "end": 1908.67,
+      "label": "laughter"
+    }
+  ]
+}

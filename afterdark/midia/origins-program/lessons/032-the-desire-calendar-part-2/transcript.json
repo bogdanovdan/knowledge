@@ -1,0 +1,1538 @@
+{
+  "lesson": {
+    "num": 32,
+    "id": "032-the-desire-calendar-part-2",
+    "title": "The Desire Calendar - Part 2",
+    "section": "🧍How To Create Avatars",
+    "video": "32. The Desire Calendar - Part 2 Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1007.488,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=c0504e0dedec418eb68fba6192cd2982"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (94% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 3715,
+    "matched_tokens": 3499,
+    "match_ratio": 0.942,
+    "segments_aligned": 157,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 251.851,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 206.1,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 251.851,
+      "end": 580.797,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 236.1,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 580.797,
+      "end": 866.05,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.971,
+      "wpm": 213.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 866.05,
+      "end": 1007.488,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 231.7,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.94,
+      "speaker": "Presenter",
+      "text": "All right. We are going to be talking about the desire calendar.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 4.58,
+      "end": 9.7,
+      "speaker": "Presenter",
+      "text": "And this is something that I don't think a lot of people have ever seen. I don't even know if this actually exists.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 9.7,
+      "end": 21.5,
+      "speaker": "Presenter",
+      "text": "Um, but this is pretty cool uh because what this actually does is it tells you essentially what desires are peaking and what people are feeling during the year.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 21.82,
+      "end": 29.46,
+      "speaker": "Presenter",
+      "text": "And this is why so many brands struggle. And, you know, for example, do really, really, really well in December",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 30.0,
+      "end": 34.64,
+      "speaker": "Presenter",
+      "text": "and can absolutely crush during December. And then January comes and it absolutely sucks.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 35.06,
+      "end": 42.84,
+      "speaker": "Presenter",
+      "text": "And then, you know, February they're getting wrecked. Or for example in months like July and August, they're just getting totally destroyed because they don't really know what to do.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 43.08,
+      "end": 51.56,
+      "speaker": "Presenter",
+      "text": "And so, that's why we created this calendar. And this is something that we have started using to be able to just know,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 52.12,
+      "end": 59.62,
+      "speaker": "Presenter",
+      "text": "\"Hey, this is based off of literal biology of like what, for example, even the sun does to people, right? Like during the year.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 59.62,
+      "end": 68.26,
+      "speaker": "Presenter",
+      "text": "And this is a study that actually big credit to Allen Sultanic I think his name is. Um, he did a study on this to see like, okay, people",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 68.26,
+      "end": 72.54,
+      "speaker": "Presenter",
+      "text": "shop and behave way differently during the summer because they get essentially more dopamine.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 72.54,
+      "end": 79.4,
+      "speaker": "Presenter",
+      "text": "Um, and compared to the winter when there's less dopamine because we're not in the sun all day and we're not happy, we crave dopamine.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 79.4,
+      "end": 85.28,
+      "speaker": "Presenter",
+      "text": "And so we make a lot of smaller purchases during the winter months, and obviously have to buy gifts and stuff like that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 85.38,
+      "end": 90.6,
+      "speaker": "Presenter",
+      "text": "But during the summer months, we tend to make bigger purchases, like going on vacation or buying new cars.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 91.28,
+      "end": 95.86,
+      "speaker": "Presenter",
+      "text": "And so it's very interesting, at least for you to be aware of this.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 96.22,
+      "end": 106.5,
+      "speaker": "Presenter",
+      "text": "Um, if you're kind of just starting out, don't let this overcomplicate you. This is obviously more for those of you that are trying to understand, hey, maybe you have bad months, how can you break through them?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 106.5,
+      "end": 112.74,
+      "speaker": "Presenter",
+      "text": "So I'm not going to really go through each and every single one, but I do just want to call across a few.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 112.94,
+      "end": 118.38,
+      "speaker": "Presenter",
+      "text": "Uh, and also start with, you know, what we're where we're at right now and where we're about to go into, I would say.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 118.48,
+      "end": 121.46,
+      "speaker": "Presenter",
+      "text": "Um, because this is really, really important to understand for Q4.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 121.7,
+      "end": 129.02,
+      "speaker": "Presenter",
+      "text": "Um, and then also kind of take a look at, you know, some other months as well for you guys who maybe have been struggling in July and August and maybe help you figure out why.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 129.54,
+      "end": 134.5,
+      "speaker": "Presenter",
+      "text": "So just know that right now, I mean it's September. So, what does September look like? Well,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 135.28,
+      "end": 140.02,
+      "speaker": "Presenter",
+      "text": "September, from a desire standpoint, is really about achievement and structure desires, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 140.46,
+      "end": 146.1,
+      "speaker": "Presenter",
+      "text": "And so I want you guys to understand like this is a deep research that we did through AI. I put together a very",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 146.1,
+      "end": 151.86,
+      "speaker": "Presenter",
+      "text": "I don't actually think it was that crazy, but I put together pretty intensive prompts and gave it guidelines and corrected it and all that kind of stuff.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 151.86,
+      "end": 158.28,
+      "speaker": "Presenter",
+      "text": "But just know for this specifically, if we're talking about the month of September, it's going to show, and each every each and every single month is structured the same way,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 158.28,
+      "end": 164.84,
+      "speaker": "Presenter",
+      "text": "what the top three desires are based off of the specific season or the month that we're in.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 164.84,
+      "end": 171.98,
+      "speaker": "Presenter",
+      "text": "So this is kind of power rankings essentially for the period that we're that is happening.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 172.62,
+      "end": 180.24,
+      "speaker": "Presenter",
+      "text": "And then from here, we kind of talk about some of the core desires that people actually have. So structure and routine, learning and growing.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 180.48,
+      "end": 189.54,
+      "speaker": "Presenter",
+      "text": "So you can start to basically optimize your ads towards those kind of core desires that people just have during this period, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 190.0,
+      "end": 194.44,
+      "speaker": "Presenter",
+      "text": "And so the opportunity here, and you'll see this kind of on each one, and some of them are more optimized than others,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 194.44,
+      "end": 202.04,
+      "speaker": "Presenter",
+      "text": "but essentially we want to lead with control in September. Again, take charge of your fall routine. And then layer in some status.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 202.42,
+      "end": 209.8,
+      "speaker": "Presenter",
+      "text": "So, be the parent/professional that everyone admires. Um, due to, you know, September's $127 billion spending that people, you know,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 210.26,
+      "end": 217.84,
+      "speaker": "Presenter",
+      "text": "people spend that much in September, that proves people will pay premium for structure and success during this secondary kind of fresh start period.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 217.84,
+      "end": 223.6,
+      "speaker": "Presenter",
+      "text": "Uh, and again, this is based off of data down here, which I've made a little bit smaller, but this is kind of the data for nerd section.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 223.84,
+      "end": 229.2,
+      "speaker": "Presenter",
+      "text": "But back-to-school shoppers, okay? So every, all kids are going back to school, summer's over, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 229.2,
+      "end": 234.74,
+      "speaker": "Presenter",
+      "text": "Back to college spending, right? So 88 billion with 43% saying they need more new items, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 235.08,
+      "end": 238.94,
+      "speaker": "Presenter",
+      "text": "Coffee and tea sellers have increased sales because temperatures start to cool.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 239.22,
+      "end": 247.08,
+      "speaker": "Presenter",
+      "text": "And again, people go very much back into routine because they were just, you know, side questing and doing whatever people do in the summer.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 247.28,
+      "end": 251.28,
+      "speaker": "Presenter",
+      "text": "You know, spending time with their family, being outside, and living the life, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 252.2,
+      "end": 257.72,
+      "speaker": "Presenter",
+      "text": "And now it's back to school. We've got to get back We've got to get back in our routines. We've got to get the kids back going here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 257.96,
+      "end": 264.28,
+      "speaker": "Presenter",
+      "text": "We've got to get this organized, that optimized. Kids are going to be at school for the day, so now I can potentially get more work done, whatever it may be.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 264.7,
+      "end": 272.16,
+      "speaker": "Presenter",
+      "text": "And so, just understand that with things that are happening in the world Like, we're talking about things that are not even in your market, just things that are happening in the world, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 272.64,
+      "end": 279.68,
+      "speaker": "Presenter",
+      "text": "And so, here, one of the biggest desires and biggest things that you can tap into is going to be control and then status, and then belonging, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 279.72,
+      "end": 282.18,
+      "speaker": "Presenter",
+      "text": "And you'll see that there's explanations here as well.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 282.56,
+      "end": 288.54,
+      "speaker": "Presenter",
+      "text": "And just so I can be fully clear, this does not mean that you stop going after all the other desires as well.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 288.88,
+      "end": 296.34,
+      "speaker": "Presenter",
+      "text": "This just means that if your performance is kind of shitty, then come to this and be like, \"Okay, what what's going on with people?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 296.8,
+      "end": 300.12,
+      "speaker": "Presenter",
+      "text": "What is happening?\" right? And then, from there, you can start to",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 300.12,
+      "end": 302.68,
+      "speaker": "Presenter",
+      "text": "test some ads going after these, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 303.28,
+      "end": 307.1,
+      "speaker": "Presenter",
+      "text": "Oh, you know, it seems like one of the strongest core desires right now is structure and routine.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 307.1,
+      "end": 312.78,
+      "speaker": "Presenter",
+      "text": "What did I just say, right? Reestablishing school year rhythms, getting the kids back in, all that kind of stuff, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 313.06,
+      "end": 315.56,
+      "speaker": "Presenter",
+      "text": "Having power over the environment, this control thing, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 315.78,
+      "end": 319.14,
+      "speaker": "Presenter",
+      "text": "September is the new January. Fresh start effect with structure and routine and reestablishment.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 319.58,
+      "end": 325.36,
+      "speaker": "Presenter",
+      "text": "So again, what we can try in our messaging here is messaging that makes people feel more structured, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 325.72,
+      "end": 331.34,
+      "speaker": "Presenter",
+      "text": "A part of your routine. I would be hammering routine messaging because that's what people are looking for, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 331.94,
+      "end": 335.84,
+      "speaker": "Presenter",
+      "text": "Restart your routine, or it's like, you know, the back-to-school kind of routine, or, you know,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 336.16,
+      "end": 341.5,
+      "speaker": "Presenter",
+      "text": "when when the kids are gone, you know, you now have time to focus on this, right? Whatever that may be.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 341.92,
+      "end": 349.4,
+      "speaker": "Presenter",
+      "text": "Try to get into that, right? People were kind of out of their routine, going here and there and travelling and outside, and all that kind of stuff.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 349.84,
+      "end": 354.36,
+      "speaker": "Presenter",
+      "text": "Now, they're coming back to routine, but yet also understand how that makes people feel.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 354.7,
+      "end": 360.54,
+      "speaker": "Presenter",
+      "text": "People might not want to go back to their routine, right? They want to stay in summer, and they want to stay, you know, enjoying life.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 360.76,
+      "end": 367.04,
+      "speaker": "Presenter",
+      "text": "And that's what happens actually. A lot of the times near the end of August, people are just not really excited about",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 367.04,
+      "end": 370.98,
+      "speaker": "Presenter",
+      "text": "going back to, you know, back to the routine, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 371.64,
+      "end": 377.94,
+      "speaker": "Presenter",
+      "text": "And on top of that, as I just mentioned, a lot of people spend a lot of money during the summer, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 378.0,
+      "end": 384.58,
+      "speaker": "Presenter",
+      "text": "They're doing lake trips. They're doing, you know, flights or, you know, vacations over here, and, you know, next thing you know,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 384.98,
+      "end": 389.38,
+      "speaker": "Presenter",
+      "text": "late August, right, or late September, you know, Dad puts his glasses on,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 389.38,
+      "end": 394.74,
+      "speaker": "Presenter",
+      "text": "and he, you know, jumps on, and he's typing with one finger like this, and he's looking at, you know, his bank statements.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 394.94,
+      "end": 399.62,
+      "speaker": "Presenter",
+      "text": "He's like, \"Holy shit! We spent $10,000 last month. Like, how am I going to pay my mortgage?\" right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 399.92,
+      "end": 404.56,
+      "speaker": "Presenter",
+      "text": "\"Hey, honey, you've got to stop shopping here,\" and, \"Hey, you, I can't You don't get an allowance this month.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 404.56,
+      "end": 410.46,
+      "speaker": "Presenter",
+      "text": "And so, all of a sudden, right, spending tightens up, and I get DMs and DMs and DMs,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 410.46,
+      "end": 414.98,
+      "speaker": "Presenter",
+      "text": "and it's like, \"Spencer, what's going on with my performance? Why does my performance suck? August is tanked, blah, blah, blah, blah, blah.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 416.34,
+      "end": 423.52,
+      "speaker": "Presenter",
+      "text": "That's what's happening, okay? That's just real life, okay? You have to understand that not everybody is making, you know, 50k a month, all right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 423.88,
+      "end": 428.42,
+      "speaker": "Presenter",
+      "text": "People have money problems, right? And so, when you're spending these big expenses,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 428.42,
+      "end": 433.76,
+      "speaker": "Presenter",
+      "text": "it's so fun for these people to go on these big trips and, \"You know what, honey, it's summer time, like summer makes people feel happy.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 434.1,
+      "end": 437.46,
+      "speaker": "Presenter",
+      "text": "You know, buy the buy Get everybody ice cream. You know, ice cream is on me,\" right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 437.94,
+      "end": 443.64,
+      "speaker": "Presenter",
+      "text": "And then, they go back and get they get their state their statements in August and early September, and like I said, spending starts to tighten up.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 443.64,
+      "end": 445.92,
+      "speaker": "Presenter",
+      "text": "Not for everyone, but just be aware of that, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 446.28,
+      "end": 451.26,
+      "speaker": "Presenter",
+      "text": "And so, when we're getting into September, just understand, people are getting back to their structure, back to routine, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 451.64,
+      "end": 456.62,
+      "speaker": "Presenter",
+      "text": "Learning and growing, right? Again, a lot of people just spent a ton of money, and you have to understand that back to school,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 456.82,
+      "end": 461.16,
+      "speaker": "Presenter",
+      "text": "that like back to school spending doesn't really start in September. If we take a look at",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 461.16,
+      "end": 469.24,
+      "speaker": "Presenter",
+      "text": "July and August, you could see here based off of the data that 67% of back-to-school shoppers start purchasing by early July,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 469.94,
+      "end": 473.42,
+      "speaker": "Presenter",
+      "text": "okay? And so, if you're running back-to-school September 1st,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 475.18,
+      "end": 481.5,
+      "speaker": "Presenter",
+      "text": "like, you you've missed it, bro. They're already in school, you know what I mean? I mean, are are some people still doing back-to-school shopping?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 481.72,
+      "end": 485.7,
+      "speaker": "Presenter",
+      "text": "Sure. But just trying to help you guys understand that like having this information is crucial.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 486.62,
+      "end": 489.48,
+      "speaker": "Presenter",
+      "text": "67% of people are doing back-to-school shopping in July, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 489.82,
+      "end": 495.84,
+      "speaker": "Presenter",
+      "text": "So, if July comes and you're ahead of the curve, it's like, \"Hey, back-to-school's coming.\" Some people might not want to see that messaging,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 496.22,
+      "end": 500.16,
+      "speaker": "Presenter",
+      "text": "but there might be people that are, you know, the prepared kind of moms, moms that like to be ahead, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 500.16,
+      "end": 507.38,
+      "speaker": "Presenter",
+      "text": "Families that, you know, like to And they're in this spending phase as well. Like, \"Ah, you know what? We You know, we're we're on our trips, like let's keep spending money,\" right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 507.74,
+      "end": 512.22,
+      "speaker": "Presenter",
+      "text": "And so, you can leverage that, right? You can use that to your advantage, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 512.36,
+      "end": 518.9,
+      "speaker": "Presenter",
+      "text": "And so, I know we're going duh duh duh duh all over the place, but bringing things back, you need to understand what is happening in the market,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 519.04,
+      "end": 523.06,
+      "speaker": "Presenter",
+      "text": "and then you need to understand what people are looking for. So, structure and routine, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 523.44,
+      "end": 529.86,
+      "speaker": "Presenter",
+      "text": "And also, again, look at the inverse of this as well. So, it's like, okay, well, people are looking for more structure, looking for more routine,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 530.26,
+      "end": 534.92,
+      "speaker": "Presenter",
+      "text": "but if they're looking for more structure and also looking more for more routine, that might not be something that people want to do.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 535.12,
+      "end": 540.5,
+      "speaker": "Presenter",
+      "text": "So, it's like even trying messaging where it's like, you know, \"Back to this,\" or it's like although, you know, it's like,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 540.6,
+      "end": 543.96,
+      "speaker": "Presenter",
+      "text": "\"We miss summer too,\" sort of thing. Like, you could try messaging like that,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 544.16,
+      "end": 547.02,
+      "speaker": "Presenter",
+      "text": "um, but again, this is all based off of desires that people have.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 547.32,
+      "end": 551.22,
+      "speaker": "Presenter",
+      "text": "Next one here is learning and growth, right? Education, skill building, productivity focus, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 551.62,
+      "end": 559.52,
+      "speaker": "Presenter",
+      "text": "This is a great opportunity for people that talk about, \"Hey, like, now's the time to get back in, um, and and, you know, invest in yourself,\" sort of thing,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 559.76,
+      "end": 565.3,
+      "speaker": "Presenter",
+      "text": "right? That's messaging that if I'm selling an Evolve, I probably should be doing, it's like, \"Hey, now's the time to get ready. You're getting back into routine.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 565.36,
+      "end": 569.28,
+      "speaker": "Presenter",
+      "text": "You were just side questing the last two months, but now it's time to lock in for Q4.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 569.58,
+      "end": 573.38,
+      "speaker": "Presenter",
+      "text": "That would be a great ad for Evolve, okay? For your brand specifically, again, depending on what you sell,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 573.6,
+      "end": 578.7,
+      "speaker": "Presenter",
+      "text": "maybe an opportunity for you to leverage that as well. Fresh start, again, September is the new January mentality,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 578.7,
+      "end": 580.12,
+      "speaker": "Presenter",
+      "text": "right? So, control,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 581.32,
+      "end": 587.72,
+      "speaker": "Presenter",
+      "text": "having power over what happens, right? Like take back the year or like, you know, get the year back on track, whatever it is. You know, be careful with that messaging, but",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 587.72,
+      "end": 597.34,
+      "speaker": "Presenter",
+      "text": "just be aware of these desires. And then, for example, parental success: ensuring children are prepared and successful, right? Being seen as a good person. And so, this is another thing as well, where it's like, prepare them for success,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 597.5,
+      "end": 605.64,
+      "speaker": "Presenter",
+      "text": "you know, send them on their way. A lot of moms are very emotional right now because now maybe they're empty nesting because their kid is now going to college,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 606.44,
+      "end": 613.68,
+      "speaker": "Presenter",
+      "text": "right? Their kid is gone, and so they're maybe more emotional, right? It's like now it's time for you, right? If you sell to maybe a 40 to 55",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 613.68,
+      "end": 620.62,
+      "speaker": "Presenter",
+      "text": "range, you know, woman. Like maybe their kid just went to college sort of thing, right? Understand that. And so, again,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 620.92,
+      "end": 629.96,
+      "speaker": "Presenter",
+      "text": "understanding these desires helps you understand how people feel, and when you understand how people feel, it helps you market to them better because you're able to like, \"Hey, I understand what you're going through. I understand you,\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 630.04,
+      "end": 635.48,
+      "speaker": "Presenter",
+      "text": "right? Best marketing shows that you understand people. Now, getting into October, again, status, belonging, control.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 635.8,
+      "end": 646.98,
+      "speaker": "Presenter",
+      "text": "Halloween costumes, 3.8 billion, you know, spent on costumes, right? So, essentially, this gives you the opportunity, even if you don't sell costumes,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 647.58,
+      "end": 654.6,
+      "speaker": "Presenter",
+      "text": "right? To just kind of help people be Like there's parties going on, so there's an opportunity for you to like kind of for people that want to really show out,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 654.6,
+      "end": 662.1,
+      "speaker": "Presenter",
+      "text": "right? Be a part of what they're doing. Maybe you sell jewelry, maybe you sell health. You can also position it on that way as well. It's like, look good",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 662.1,
+      "end": 669.26,
+      "speaker": "Presenter",
+      "text": "for this specific event sort of thing, right? Belonging and control. Again, identity expression is huge there. Social belongings, so",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 669.26,
+      "end": 675.52,
+      "speaker": "Presenter",
+      "text": "participating in parties and traditions, what I just mentioned. Seasonal transformation. So again, like home and yard decorating starts.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 675.52,
+      "end": 680.24,
+      "speaker": "Presenter",
+      "text": "It's a really, really big thing as well. And then controlled fear. So safe scares and controlled excitement.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 680.62,
+      "end": 686.82,
+      "speaker": "Presenter",
+      "text": "This is comfort, right? So, again, Halloween has become essentially a whole season, so you can start this messaging in",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 686.82,
+      "end": 691.46,
+      "speaker": "Presenter",
+      "text": "kind of late September, but all of October you can kind of leverage this stuff. Okay, so again the data,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 691.46,
+      "end": 697.78,
+      "speaker": "Presenter",
+      "text": "Halloween spending reached 12.2 billion in 2023. 77% have purchased decorations: 3.8 billion.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 698.32,
+      "end": 702.84,
+      "speaker": "Presenter",
+      "text": "69% of people buy costumes, and 47% of people started shopping before October.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 702.84,
+      "end": 707.1,
+      "speaker": "Presenter",
+      "text": "Halloween decoration spending increased by 42% from 2019 to 2024.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 707.1,
+      "end": 714.08,
+      "speaker": "Presenter",
+      "text": "This is obviously like if you, for some reason, sell Halloween decorations, which is probably nobody, maybe that's helpful, but again it just helps you show that, again,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 714.44,
+      "end": 721.26,
+      "speaker": "Presenter",
+      "text": "all right, why aren't people spending money on my stuff? Why aren't they buying my things? Well, it's like, well, money is going to other things, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 721.76,
+      "end": 726.22,
+      "speaker": "Presenter",
+      "text": "It's not a small amount. 12.2 billion people are spending on Halloween stuff, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 726.58,
+      "end": 732.64,
+      "speaker": "Presenter",
+      "text": "But if you can leverage that identity expression, the idea of social belonging, right? Making the home look good, right? Maybe",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 732.64,
+      "end": 739.72,
+      "speaker": "Presenter",
+      "text": "being presentable, right? That's what we're trying to go after in October. November: gratitude and preparation desires.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 740.06,
+      "end": 749.22,
+      "speaker": "Presenter",
+      "text": "So, again, top three priorities: belonging, comfort, control. Again, family, huge thing here, right? Families getting together. Everybody wants to look their best for their family,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 749.44,
+      "end": 755.2,
+      "speaker": "Presenter",
+      "text": "right? Or look like they're on top of their things, right? So, potentially some status there as well, but also just bringing things that bring the family closer together.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 755.66,
+      "end": 762.06,
+      "speaker": "Presenter",
+      "text": "Value and savings: obviously Black Friday deal hunting starts into November, as you guys should have seen in the Q4 call, for those of you in Evolve.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 762.06,
+      "end": 768.92,
+      "speaker": "Presenter",
+      "text": "Obviously we talked a lot about the values and savings and the things that people are looking for during Black Friday, the deal hunting, gifting preparation.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 769.42,
+      "end": 775.48,
+      "speaker": "Presenter",
+      "text": "People are building their gifting lists for Black Friday, so get in front of people. Gratitude expression, right? You could even, on this, like run ads",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 775.48,
+      "end": 782.74,
+      "speaker": "Presenter",
+      "text": "where it's like, \"You're going to want to add this to your list,\" sort of thing, right? Again, not saying I would recommend that as a specific ad,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 782.9,
+      "end": 789.86,
+      "speaker": "Presenter",
+      "text": "but it's, you know, trying to get out in front of colder audiences too. And then gratitude expression, right? So, giving thanks, counting blessings, all that kind of stuff,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 790.38,
+      "end": 797.28,
+      "speaker": "Presenter",
+      "text": "okay? And then here, December is all about connection and celebration, right? Kind of year-end, \"Wow, look how far we've came.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 797.28,
+      "end": 803.2,
+      "speaker": "Presenter",
+      "text": "Again, peak emotional spending period, 240 billion dollars, right? Basically spending money on other people.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 803.2,
+      "end": 809.28,
+      "speaker": "Presenter",
+      "text": "This is huge gifting season, okay? We obviously know that with Black Friday and December. Some of these things are obvious for you guys as well.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 809.62,
+      "end": 815.38,
+      "speaker": "Presenter",
+      "text": "But if we go into some other months here as well, January: control, health, status, right? Fresh start effect.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 816.28,
+      "end": 822.88,
+      "speaker": "Presenter",
+      "text": "Winter's harshest month trigger ancestral, you know, conservation instincts, so driving 35 to 40% increase",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 822.88,
+      "end": 829.82,
+      "speaker": "Presenter",
+      "text": "in health spending, right? Vitamins, supplements, prevention care. So, those of you that are supplement brands or in the health niche, like January should be one of your biggest months,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 830.34,
+      "end": 836.12,
+      "speaker": "Presenter",
+      "text": "so don't take your foot off the pedal in December. So, physical transformation, organization and control, financial discipline.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 836.46,
+      "end": 846.18,
+      "speaker": "Presenter",
+      "text": "A lot of people obviously spent a ton of money in December and November, so if you, you know, are selling the things that people are actually looking for, which is their health and to take control of their life,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 846.18,
+      "end": 852.38,
+      "speaker": "Presenter",
+      "text": "and take control of this new year, fresh start sort of thing, obviously gives people, you know, more of an incentive to shop with you.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 853.08,
+      "end": 860.04,
+      "speaker": "Presenter",
+      "text": "February is all about, you know, Valentine's Day and belonging, right? Anytime you can help someone, you know, try to facilitate romantic connection,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 860.54,
+      "end": 864.86,
+      "speaker": "Presenter",
+      "text": "right? And again, February, this kind of starts earlier, right? So, 56%",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 865.06,
+      "end": 872.12,
+      "speaker": "Presenter",
+      "text": "half of consumers plan to celebrate Valentine's Day with average of $188 per person, super interesting data.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 872.74,
+      "end": 880.16,
+      "speaker": "Presenter",
+      "text": "Valentine's Day spending reached a record of 27.5 billion in 2025 up from 25.8 billion in That doesn't make sense.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 880.16,
+      "end": 888.38,
+      "speaker": "Presenter",
+      "text": "Valentine's Day spending reached a record of 27.5. I believe, yeah, 25.8, I read those numbers backwards. So it was up 2 billion last year, or this year.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 888.38,
+      "end": 897.38,
+      "speaker": "Presenter",
+      "text": "And 32% planned to purchase gifts for friends, right? Highest in survey history. 19% for coworkers, also a record. So Valentine's Day is a huge event, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 897.58,
+      "end": 907.88,
+      "speaker": "Presenter",
+      "text": "So again, if you don't sell something romantic, you can also go into other forms of self-appreciation or, you know, Galentine's Day is a big thing. You know, sell into your friends, and again, this can start mid-January as well, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 908.08,
+      "end": 918.84,
+      "speaker": "Presenter",
+      "text": "Valentine's Day is on the 14th, and you have to understand people are buying things a month ahead of time usually because things have to ship, they've got to get here, they've got to make sure that they're good, right? So people don't buy gifts on Valentine's Day.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 919.04,
+      "end": 925.16,
+      "speaker": "Presenter",
+      "text": "They buy gifts for Valentine's Day. So keep that in mind as well. March and April, action renewal desires, I'm going to skip over this one.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 925.32,
+      "end": 931.86,
+      "speaker": "Presenter",
+      "text": "May, you know, appreciation and memorial, June, achievement and paternal. So you guys can read through some of this. Hopefully this video gives you an understanding of the",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 931.86,
+      "end": 943.34,
+      "speaker": "Presenter",
+      "text": "Desire Calendar and how it essentially works. This is something that I am very very very excited about for us to actually like really put into effect for the remaining months because again, in September,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 943.54,
+      "end": 948.88,
+      "speaker": "Presenter",
+      "text": "us being aware of what's going on, you better believe we're going to be talking more about control and status messaging during this period.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 948.88,
+      "end": 955.46,
+      "speaker": "Presenter",
+      "text": "You better believe we're going to be talking about structures and routines, and growth opportunities, and fresh starts, and being a great parent. These are the things",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 955.46,
+      "end": 964.84,
+      "speaker": "Presenter",
+      "text": "that we're going to be doing. You know, the drama starts to pick up at the schools, right? So all that kind of stuff. If you guys understand what is happening to the people in real life, that allows you to market to them better.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 964.98,
+      "end": 973.86,
+      "speaker": "Presenter",
+      "text": "So that is the Desire Calendar. Use it if you wish. I'm sure this will make a lot of people a lot of money. If you want to validate some of these sources you can check this out as well.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 974.16,
+      "end": 988.0,
+      "speaker": "Presenter",
+      "text": "But pretty cool calendar. Again, does this mean that in September if you create an ad that says like, you know, \"Back to school sale. You know, buy my, I don't know, buy my water bottles,\" like does that mean you're going to cook? No, it doesn't.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 988.0,
+      "end": 998.42,
+      "speaker": "Presenter",
+      "text": "But it just means be aware of where desires are shifting, okay? So hopefully that makes sense. Hopefully you guys can leverage this in your ads and look at your ads through this lens as well, to see how you can optimize some ads for this.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 998.6,
+      "end": 1007.38,
+      "speaker": "Presenter",
+      "text": "Maybe create variations of your current winning ads. Maybe ads that died out, how can you optimize towards these specific types of messaging around control and around status, and see how it works for you.",
+      "chunk": 3,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 296.35,
+      "end": 297.65,
+      "label": "laughter"
+    },
+    {
+      "start": 405.85,
+      "end": 406.75,
+      "label": "snicker"
+    },
+    {
+      "start": 417.15,
+      "end": 418.25,
+      "label": "laughter"
+    },
+    {
+      "start": 422.85,
+      "end": 423.85,
+      "label": "laughter"
+    },
+    {
+      "start": 476.85,
+      "end": 478.05,
+      "label": "laughter"
+    }
+  ]
+}

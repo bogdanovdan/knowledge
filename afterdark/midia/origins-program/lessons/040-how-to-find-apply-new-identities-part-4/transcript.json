@@ -1,0 +1,607 @@
+{
+  "lesson": {
+    "num": 40,
+    "id": "040-how-to-find-apply-new-identities-part-4",
+    "title": "How To Find & Apply New Identities* - Part 4",
+    "section": "🧍How To Create Avatars",
+    "video": "40. How To Find & Apply New Identities - Part 4 Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 428.565,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=912c26c73ab54dfc9648e0420e971cde"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (93% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 1469,
+    "matched_tokens": 1365,
+    "match_ratio": 0.929,
+    "segments_aligned": 55,
+    "segments_partly_aligned": 2,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 355.135,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 203.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 355.135,
+      "end": 428.565,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 209.6,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 10.18,
+      "speaker": "Presenter",
+      "text": "All right. Now, in this video, we're going to be talking about the third and final piece of the market sophistication document and way to scale through market sophistication, which is going to be New Identity.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 10.9,
+      "end": 15.46,
+      "speaker": "Presenter",
+      "text": "And this one might not be what you're expecting, but let's go ahead and dive in.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 15.68,
+      "end": 20.94,
+      "speaker": "Presenter",
+      "text": "All right. So, as you see on screen, the document says, \"How to find new identities and apply them to your ads.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 20.94,
+      "end": 27.2,
+      "speaker": "Presenter",
+      "text": "Well, for the sake of this training, actually, maybe you can tell by the time in the video, this is less of a yap session, but",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 27.2,
+      "end": 35.56,
+      "speaker": "Presenter",
+      "text": "99% of you should only be focusing on New Information and/or, just to keep the capitalization correct, New Mechanisms.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 36.46,
+      "end": 49.0,
+      "speaker": "Presenter",
+      "text": "Because the truth is, building a true brand that is actually driven by a new identity takes a skillset that I personally haven't even developed yet myself, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 49.58,
+      "end": 57.06,
+      "speaker": "Presenter",
+      "text": "And if I haven't personally developed this skillset, that makes me pretty unqualified to teach it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 57.06,
+      "end": 64.2,
+      "speaker": "Presenter",
+      "text": "And so, just to show you guys here, because I want to go back into what I talked about here around Liquid Death, Glossier, Peloton,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 64.8,
+      "end": 71.2,
+      "speaker": "Presenter",
+      "text": "another great example of this is actually Comfrt, as well. They essentially developed a brand around mental health, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 72.72,
+      "end": 81.0,
+      "speaker": "Presenter",
+      "text": "This identity that if you wear Comfrt, you support mental health and you feel comfortable and you're, you know, kind of, you know, aware of the anxiety that exists in the world, all that kind of stuff.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 81.14,
+      "end": 89.2,
+      "speaker": "Presenter",
+      "text": "And so I want you to understand that, just to kick things off. So Glossier, actually, according to Google—this is just very simple Google research here—",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 89.86,
+      "end": 97.38,
+      "speaker": "Presenter",
+      "text": "Glossier was not actually Emily Weiss', who is—or Weiss or Weiss, whatever her name is, she's a savage, clearly—this was not her first business, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 98.0,
+      "end": 103.02,
+      "speaker": "Presenter",
+      "text": "She had a beauty blog, which she launched in 2010 while working at Vogue, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 104.32,
+      "end": 111.88,
+      "speaker": "Presenter",
+      "text": "So, this girl had a pretty insane track record before she went and built a billion dollar business, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 112.32,
+      "end": 117.48,
+      "speaker": "Presenter",
+      "text": "Another guy over here, as well: Mike Cessario, who is actually the founder of Liquid Death, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 117.9,
+      "end": 125.3,
+      "speaker": "Presenter",
+      "text": "He literally asked himself, which I actually find hilarious, he said, \"What's the dumbest possible idea we could have? Let's sell water.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 125.88,
+      "end": 134.28,
+      "speaker": "Presenter",
+      "text": "Just to prove that he was world-class at branding. But he played a significant role in shaping—you know, or sorry,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 134.48,
+      "end": 145.72,
+      "speaker": "Presenter",
+      "text": "basically graphic design, skateboard music, all this kind of stuff, played a significant role in shaping his entrepreneurial journey. But he worked on very massive advertising campaigns previously, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 146.42,
+      "end": 154.66,
+      "speaker": "Presenter",
+      "text": "And so, before building a billion dollar company, he had years, probably decades of experience doing advertising campaigns and being a world-class marketer.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 154.84,
+      "end": 164.68,
+      "speaker": "Presenter",
+      "text": "And same thing with John Foley. John Foley was not—or sorry, Peloton was not his first venture, okay? He had already been a CEO of three other com—or two other companies, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 165.74,
+      "end": 171.66,
+      "speaker": "Presenter",
+      "text": "And so, he was also a president of e-commerce at Barnes & Noble, which is crazy, all right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 172.16,
+      "end": 176.86,
+      "speaker": "Presenter",
+      "text": "And so, you know, obviously his company is apparently crashing right now, but at the end of the day,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 177.16,
+      "end": 186.24,
+      "speaker": "Presenter",
+      "text": "I want you guys to understand that this new identity strategy is—is a—like is very, very powerful. It essentially allows you to sell air.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 186.5,
+      "end": 195.96,
+      "speaker": "Presenter",
+      "text": "And for some of you guys, if this is the journey that you want to go down to learn how to do this, I honestly, like I—I commend you because it takes a lot of skill to do that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 196.0,
+      "end": 202.38,
+      "speaker": "Presenter",
+      "text": "Um, but I wouldn't recommend, like, taking your first stab at trying to build a—a billion dollar brand or trying to build a world-class brand.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 202.54,
+      "end": 210.88,
+      "speaker": "Presenter",
+      "text": "And even for, you know, Hudson from Comfrt, right? He did not start Comfrt. Comfrt wasn't his first brand. He actually had another brand before that called Purely White Deluxe, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 210.92,
+      "end": 216.06,
+      "speaker": "Presenter",
+      "text": "Where he spent five years learning about this stuff before he was actually able to build the brand that he has today, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 216.42,
+      "end": 227.46,
+      "speaker": "Presenter",
+      "text": "And so, again, as I work on developing the skillset, and as information becomes more available about how we're building brand and finding and building, you know, communities and identities, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 227.46,
+      "end": 237.02,
+      "speaker": "Presenter",
+      "text": "And as information becomes more available to me, I will definitely share that with you guys. Um, but I'm not going to be in a place where I can educate you on how to build a billion dollar brand right now, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 237.06,
+      "end": 245.36,
+      "speaker": "Presenter",
+      "text": "I can educate you on the things that we've done, because these are obviously our clients that we've worked for, that we've helped by doing this stuff, by finding new information, by finding new mechanisms,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 245.82,
+      "end": 247.92,
+      "speaker": "Presenter",
+      "text": "but we have not essentially built a brand.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 248.42,
+      "end": 257.8,
+      "speaker": "Presenter",
+      "text": "And so, for now, what I want you guys to do is I want you to see New Identity Strategy, okay? So this is kind of New Identity with a apostrophe here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 258.18,
+      "end": 267.6,
+      "speaker": "Presenter",
+      "text": "I want you guys to—actually, I don't even know if that's apostrophe, I don't even know what that's called, it's like a little—a little star symbol. Gosh, again, did Spencer graduate high school? I don't know, maybe—maybe you guys will never know.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 267.8,
+      "end": 270.62,
+      "speaker": "Presenter",
+      "text": "Uh, but for now—my English teachers would be so sad.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 271.24,
+      "end": 281.68,
+      "speaker": "Presenter",
+      "text": "New identity strategy for you guys, and at your stage in your journey, and for 99% of people watching this, should be the idea of finding an underserved new identity that you can market to,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 282.24,
+      "end": 288.36,
+      "speaker": "Presenter",
+      "text": "also known as developing a winning avatar, okay? Finding an avatar, or finding an identity that you can market to, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 288.68,
+      "end": 294.34,
+      "speaker": "Presenter",
+      "text": "And that's exactly what we're going to talk about in step four, which is finally getting down to avatars, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 294.38,
+      "end": 303.12,
+      "speaker": "Presenter",
+      "text": "So I wanted to make this module just so it's like not up in the air and you guys aren't like, \"What's going on? Like, how do we—how do we use New Identity, Spencer? Like I got new mechanisms, I got new information, what about new identities?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 303.58,
+      "end": 311.86,
+      "speaker": "Presenter",
+      "text": "This is something that, again, it just takes a—a whole different skill set to be able to do this. And it is something that I'm learning, because it is one of the most powerful things, because",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 311.86,
+      "end": 322.6,
+      "speaker": "Presenter",
+      "text": "unlike new information, or unlike new mechanisms, New Identity essentially allows you to sell things at a premium, because you are, you know, selling more than the product, which is selling air.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 322.84,
+      "end": 330.38,
+      "speaker": "Presenter",
+      "text": "And so, we're going to get to that one day. Today is not that day. But for those of you watching this, I hope this just gives you context of what, like, what we have to look forward to",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 330.38,
+      "end": 338.86,
+      "speaker": "Presenter",
+      "text": "with building billion dollar brands if you stay dialed in, you stay locked in on doing what you're doing. And that is what we're going to talk about, hopefully, in the future in a couple of years.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 339.1,
+      "end": 348.12,
+      "speaker": "Presenter",
+      "text": "So, that is New Identity, but like I said, I want you guys to switch your focus on this, because, again, to deal with market sophistication, we need new mechanisms, we need new information,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 348.66,
+      "end": 354.34,
+      "speaker": "Presenter",
+      "text": "and we can also find new avatars, because in market sophistication, if we have, essentially,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 354.98,
+      "end": 360.14,
+      "speaker": "Presenter",
+      "text": "like, the market is way too competitive, way too sophisticated, as you could see here, right,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 360.6,
+      "end": 366.04,
+      "speaker": "Presenter",
+      "text": "customers resist claims, and they look for emotional connection, and identity, and brand experience, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 366.78,
+      "end": 369.92,
+      "speaker": "Presenter",
+      "text": "So that's why new identity is a is a counter to it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 370.34,
+      "end": 379.04,
+      "speaker": "Presenter",
+      "text": "But you can also essentially find new identities by just being more specific about who you are selling to and understanding more about that person,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 379.4,
+      "end": 385.08,
+      "speaker": "Presenter",
+      "text": "and so that is our version of new identity strategy. Rather than building brand, new identity strategy for us, again,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 385.08,
+      "end": 388.18,
+      "speaker": "Presenter",
+      "text": "with the little with the little star here,",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 51,
+      "start": 388.78,
+      "end": 392.12,
+      "speaker": "Presenter",
+      "text": "I think it's called asterisk. I think that's what it's called. Congratulations,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 392.12,
+      "end": 395.36,
+      "speaker": "Presenter",
+      "text": "congratulations, Spencer, you you passed English. English I think that's Grade 9 English.",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 53,
+      "start": 396.64,
+      "end": 405.0,
+      "speaker": "Presenter",
+      "text": "This asterisk here basically says that, you know, we're focusing on finding and innovating avatars to market to because that,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 405.36,
+      "end": 410.62,
+      "speaker": "Presenter",
+      "text": "when we show that we understand the person, that can essentially allow us to, you know, market and scale further.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 410.82,
+      "end": 420.16,
+      "speaker": "Presenter",
+      "text": "And technically, build a brand. It does still build a brand, but not in the way that these guys have done it, and not the way that I have envisioned for myself and for, you know, the brands that we are building in the future. But not to confuse you guys,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 420.58,
+      "end": 424.92,
+      "speaker": "Presenter",
+      "text": "again, this is new identities. Hopefully this makes sense with the examples of these Savage founders.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 425.66,
+      "end": 428.28,
+      "speaker": "Presenter",
+      "text": "We're going to talk about avatars now, so let's go ahead and jump into it.",
+      "chunk": 1,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 50.4,
+      "end": 51.9,
+      "label": "laughter"
+    },
+    {
+      "start": 120.0,
+      "end": 121.4,
+      "label": "laughter"
+    },
+    {
+      "start": 258.5,
+      "end": 260.1,
+      "label": "laughter"
+    },
+    {
+      "start": 386.33,
+      "end": 387.44,
+      "label": "laughter"
+    }
+  ]
+}

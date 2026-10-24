@@ -1,0 +1,1669 @@
+{
+  "lesson": {
+    "num": 38,
+    "id": "038-how-to-find-apply-new-information-part-3",
+    "title": "How To Find & Apply New Information - Part 3",
+    "section": "🧍How To Create Avatars",
+    "video": "38. How To Find & Apply New Information - Part 3 Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1297.643,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=6efbf013d2b647559877ce27f7e668cf"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (95% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 4815,
+    "matched_tokens": 4554,
+    "match_ratio": 0.946,
+    "segments_aligned": 166,
+    "segments_partly_aligned": 1,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 3,
+    "removed_words": 64,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 322.124,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 238.4,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 322.124,
+      "end": 635.312,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 214.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 635.312,
+      "end": 911.222,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.859,
+      "wpm": 214.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 911.222,
+      "end": 1211.897,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.989,
+      "wpm": 198.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1211.897,
+      "end": 1297.643,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 233.6,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [
+    {
+      "type": "removed_unspoken_text",
+      "start": 313.7,
+      "end": 321.5,
+      "chunk": 0,
+      "detail": "64 word(s) in the Gemini text are not in the audio and were removed (kept in transcript.json \"removed_segments\"): \"uh, you know, in the cheeks. So it dissolves in the cheeks. So we use other, you know, examples in medicine to validate the mechanism, right? So we're using new information about medicine, how it's, y\""
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.62,
+      "speaker": "Presenter",
+      "text": "All right. So, in this video, we are going to be jumping into new information, how to find new information, and how to apply to your ads.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 8.06,
+      "end": 14.96,
+      "speaker": "Presenter",
+      "text": "This one is very, very powerful, because it doesn't require you to actually really have anything crazy unique about your product.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 14.96,
+      "end": 25.3,
+      "speaker": "Presenter",
+      "text": "With that said, when this is combined with new mechanisms, that's where you're going to get the biggest lift from this, but I'm going to show you guys how essentially just kind of standard products,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 25.3,
+      "end": 34.04,
+      "speaker": "Presenter",
+      "text": "so there's one slightly unique product, and then there's one just very kind of standard product that we're going to talk about, that helps you guys understand how we can find new information",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 34.04,
+      "end": 44.04,
+      "speaker": "Presenter",
+      "text": "and how we can use it to make winning ads. So, let's go ahead and jump into the screen. All right, so as you can see on screen, we are now in the How to Find New Information and Apply It to Your Ads section.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 44.82,
+      "end": 49.76,
+      "speaker": "Presenter",
+      "text": "As like the new mechanism section, there is going to be a prompt for you guys to use. I'm going to show you what that prompt looks like.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 49.76,
+      "end": 58.26,
+      "speaker": "Presenter",
+      "text": "Just know that the key point here with how to find new information and how to apply it to your ads, this can really be done manually as well.",
+      "chunk": 0,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 8,
+      "start": 58.72,
+      "end": 68.84,
+      "speaker": "Presenter",
+      "text": "So, don't just use this prompt to do it blindly. This is where all of your research comes into play as well. So, when you're hunting desires, and when you're learning more about your product, what it does,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 68.84,
+      "end": 79.36,
+      "speaker": "Presenter",
+      "text": "and you're just essentially doing, you know, market research, you're going to be looking for any bits of new information that you can find as well. Okay, so the main focus of this exercise, and what you're trying to accomplish here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 79.36,
+      "end": 87.18,
+      "speaker": "Presenter",
+      "text": "is you're trying to find new information that you can then use to educate your customers to position yourself as an authority that can be trusted,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 87.18,
+      "end": 96.24,
+      "speaker": "Presenter",
+      "text": "and ultimately create ads that help people understand how your product can actually help them, because you know something that they don't.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 96.24,
+      "end": 105.2,
+      "speaker": "Presenter",
+      "text": "And just because, maybe they're familiar with this product before, the reason why maybe those other mechanisms didn't work, or the reason why your product in particular is actually going to work for them,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 105.2,
+      "end": 113.68,
+      "speaker": "Presenter",
+      "text": "is because you know information that they weren't aware of, okay? And so, it's very important here to understand that you can use new information in a ton of different ways,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 113.68,
+      "end": 120.92,
+      "speaker": "Presenter",
+      "text": "but it's very important that, number one, that you do this ethically, and number two, that you actually don't you don't just make things up, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 121.04,
+      "end": 130.66,
+      "speaker": "Presenter",
+      "text": "Like and this is very important, that even when you're using a prompt and you're having AI go and do this research for you, it needs you need to fact-check it. You need to double-check it, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 130.88,
+      "end": 138.78,
+      "speaker": "Presenter",
+      "text": "Because it's very important to understand that there are consumers that are hyper-educated. And so you can make yourself look like a real ass if you make an ad saying, \"Oh, this is true,\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 138.78,
+      "end": 149.32,
+      "speaker": "Presenter",
+      "text": "yet there's, you know, more evidence that shows that it's not, okay? And so you really need to make sure that, again, you are becoming an expert when you are doing this. You are positioning yourself as an expert,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 149.6,
+      "end": 159.02,
+      "speaker": "Presenter",
+      "text": "so educate yourself. Don't just run this prompt and be like, \"Yeah, that's good, I'm going to use it.\" The idea of the prompt is to give you direction that you can then go and do deeper research on.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 159.24,
+      "end": 166.2,
+      "speaker": "Presenter",
+      "text": "And this is what our team does to actually be able to find new information that we can go deeper into. So, the first example I'm going to show you,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 166.26,
+      "end": 173.32,
+      "speaker": "Presenter",
+      "text": "and there's literally uh videos here for you guys to actually check. I'm going to and open this in a incognito window so you guys can actually see.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 173.32,
+      "end": 179.98,
+      "speaker": "Presenter",
+      "text": "It's going to pull up and you're going to be able to watch the video. Um but I want to show you here that this is essentially a video that we created",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 179.98,
+      "end": 189.16,
+      "speaker": "Presenter",
+      "text": "um that leveraged a new mechanism, so buccal mechanism, but also leveraged new information. And so we actually started this ad by sharing new information.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 189.48,
+      "end": 197.56,
+      "speaker": "Presenter",
+      "text": "And so what we said in this ad was, you know, \"Big shroom companies are hiding this uh from you,\" and what that does is that piques your curiosity, okay, or piques the the user's curiosity.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 197.56,
+      "end": 205.14,
+      "speaker": "Presenter",
+      "text": "They're like, \"Well, what are they hiding?\" Uh and then we bring them in, and we help them understand new information about how traditional digestion kills",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 205.14,
+      "end": 214.42,
+      "speaker": "Presenter",
+      "text": "a percentage of the actual benefits that a lot of these companies are claiming, which is validated research, okay? And of course, you know, our new mechanism then says like,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 214.42,
+      "end": 223.74,
+      "speaker": "Presenter",
+      "text": "\"Hey, like we can't make a claim like that and then not really say and not really have a mechanism that's different, right?\" So, if you're selling mushroom powders and then you say, \"Oh, yeah mushroom powders,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 223.74,
+      "end": 234.02,
+      "speaker": "Presenter",
+      "text": "you know, get digested, and and they and they the percentage of the benefits get killed,\" yet you sell mushroom powders, it it doesn't really make sense, okay? So the information that you're finding",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 234.02,
+      "end": 242.3,
+      "speaker": "Presenter",
+      "text": "has to actually make sense for you specifically. Um, but in this instance, you know, you guys could check out this ad, and you can see this is a two-minute ad, but understand that like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 242.3,
+      "end": 252.76,
+      "speaker": "Presenter",
+      "text": "these are higher-level ads that we're making, and so I have a more simple one, but I wanted to share this one for you guys, because I know a lot of you guys have asked like, \"Oh, what do our, you know, unaware-style ads look like?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 252.8,
+      "end": 262.78,
+      "speaker": "Presenter",
+      "text": "Well, this is an example of that, and this basically goes through, and this is a editing masterclass, and so if you're brand new, you know, you're probably not going to be able to make ads like this.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 262.78,
+      "end": 270.04,
+      "speaker": "Presenter",
+      "text": "But if you're someone who is trying to scale a little bit further, you're getting more familiar with your video editing, like, this is an example of, you know, world-class",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 270.36,
+      "end": 277.96,
+      "speaker": "Presenter",
+      "text": "not I'm not going to say world-class, like, our team is pretty good. Maybe we're not world-class yet, they they might like to think they are, but we got a lot of work to do. But this just kind of explains like, \"Hey, listen,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 277.96,
+      "end": 287.6,
+      "speaker": "Presenter",
+      "text": "your these compounds are being destroyed before they reach your brain. Your stomach acid is breaking it down and just destroying all the compounds that you're, you know, and all the benefits that you think that you're getting,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 287.82,
+      "end": 295.0,
+      "speaker": "Presenter",
+      "text": "right? And so at the end of the day, that's an example of where we are sharing new information, and we are positioning ourselves as an authority, saying like,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 295.0,
+      "end": 304.34,
+      "speaker": "Presenter",
+      "text": "\"Hey, by the way, this is what's happening and that's why, as a result\" and you can see about a little bit later into the video, we bridge it towards our product,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 304.34,
+      "end": 313.34,
+      "speaker": "Presenter",
+      "text": "which talks about like, you know, \"Scientists have known for decades that certain medications are better, you know, being absorbed through your mouth or whatever it is, then through your digestive tract,\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 313.72,
+      "end": 321.54,
+      "speaker": "Presenter",
+      "text": "and it talks about, you know, we're leveraging information from other specific medicines that are taken in the same mechanism. So buccal just means like it's taken",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 321.54,
+      "end": 326.16,
+      "speaker": "Presenter",
+      "text": "directly into your bloodstream like through your your gums essentially. And so",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 326.16,
+      "end": 332.48,
+      "speaker": "Presenter",
+      "text": "this is where, you know, it kind of talks about, here's how we put, you know, functional mushrooms into pouches and we explain",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 332.48,
+      "end": 335.94,
+      "speaker": "Presenter",
+      "text": "and provide new information for these people. Okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 336.02,
+      "end": 341.84,
+      "speaker": "Presenter",
+      "text": "Now, one that is way more simple and this is one that I want you guys to actually take inspiration from is",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 341.84,
+      "end": 347.54,
+      "speaker": "Presenter",
+      "text": "the ad here that talks about how this soup actually helps stomach issues, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 347.9,
+      "end": 357.54,
+      "speaker": "Presenter",
+      "text": "And so, to the point of hey, is there any kind of crazy like you know, did we put soup in in lip packets? Like no, we didn't do that. So this is not a crazy new mechanism,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 358.0,
+      "end": 361.92,
+      "speaker": "Presenter",
+      "text": "they're soups, okay, right? And so a lot of when we first started working with this brand,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 362.18,
+      "end": 371.72,
+      "speaker": "Presenter",
+      "text": "they were trying to just market this as like oh you know, soup soup that tastes good, or you know, soup that's good for you, all that kind of stuff. But what we ended up doing is we ended up giving people new information",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 371.72,
+      "end": 379.76,
+      "speaker": "Presenter",
+      "text": "around how like hey, there's a soup that can fix your stomach issues, okay, or that can help your stomach issues, okay? So in this example,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 380.16,
+      "end": 387.5,
+      "speaker": "Presenter",
+      "text": "we share new information about how this soup can heal the gut, and this is not entirely again a new mechanism, although the soup does have ingredients that",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 387.5,
+      "end": 394.56,
+      "speaker": "Presenter",
+      "text": "are actually good for the gut. At the end of the day, everyone knows what soup is. We just happen to share new information saying like, hey, this soup",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 394.56,
+      "end": 402.52,
+      "speaker": "Presenter",
+      "text": "can actually can actually help you, okay? So stomach issues, there's a soup for that, and then goes into it's plant-based and gluten-free with local ingredients,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 402.82,
+      "end": 410.1,
+      "speaker": "Presenter",
+      "text": "and then it promotes gut health and eases digestion, and then ready in minutes, you know, this a very standard Facebook ad,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 410.1,
+      "end": 415.74,
+      "speaker": "Presenter",
+      "text": "featured in all these social proof areas, and at the time honestly, our team had no idea what they were doing when we were making these ads.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 415.74,
+      "end": 423.24,
+      "speaker": "Presenter",
+      "text": "Um, but whe- when you actually understand this now, it's like, oh, I get why this is making sense because again, we're providing new information that",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 423.24,
+      "end": 433.12,
+      "speaker": "Presenter",
+      "text": "if you have stomach issues, there's a soup, and now not only is that new information in the sense where we're saying like hey, it has these ingredients, like all things that are good for sensitive stomachs,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 433.24,
+      "end": 441.9,
+      "speaker": "Presenter",
+      "text": "so things that are plant-based, easy on the stomach, gluten-free, gluten is like just ruins people's stomach, so we mentioned that it's gluten-free, and then we say local ingredients, whole",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 441.9,
+      "end": 448.0,
+      "speaker": "Presenter",
+      "text": "foods, right? Those are things that people know like when they have stomach issues they're told, like eat eat less gluten,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 448.5,
+      "end": 454.12,
+      "speaker": "Presenter",
+      "text": "eat local, eat whole foods, eat plant-based, right? And we call those three things out. So even though it's so simple,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 454.12,
+      "end": 459.62,
+      "speaker": "Presenter",
+      "text": "we're actually able to communicate everything that we need to communicate to the user in just this one scene.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 460.02,
+      "end": 468.4,
+      "speaker": "Presenter",
+      "text": "So this is all aligning with hey, stomach issues, there's a soup, and then it's like boom, 1 2 3, we're plant-based, we're gluten-free, and we have local ingredients, and on top of that, this promotes",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 468.4,
+      "end": 475.84,
+      "speaker": "Presenter",
+      "text": "gut health and eases digestion, boom. The person has everything they need to know in 10 seconds. So as much as this cinema over here of a two-minute ad is cool,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 476.7,
+      "end": 483.88,
+      "speaker": "Presenter",
+      "text": "this a very simple way to show you guys how we can take new information, which is hey, this soup can actually help you with gut health,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 484.3,
+      "end": 492.26,
+      "speaker": "Presenter",
+      "text": "right? Now now we're able to communicate that in a very simple way, and that new information actually led to this ad being a winning ad that scaled this brand, you know, to",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 492.26,
+      "end": 500.4,
+      "speaker": "Presenter",
+      "text": "100k per month, and that's all I could say, I can't I won't say much more how much further it went, but that's what it did, okay? And so hopefully this makes sense to you guys.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 500.4,
+      "end": 510.12,
+      "speaker": "Presenter",
+      "text": "Now jumping into the prompt, as always what you guys are going to do is you're going to go into Claude and you're going to say, hey, I have attached my prompt as a new information prompt,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 510.34,
+      "end": 517.1,
+      "speaker": "Presenter",
+      "text": "so I will copy this inside the Skool program down below and I will say here's the product URL and here's the product name, and then you're going to simply",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 517.1,
+      "end": 523.4,
+      "speaker": "Presenter",
+      "text": "upload these two documents. So you're going to go to the market sophistication doc, which you should already have downloaded and you're going to throw that into",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 523.4,
+      "end": 531.36,
+      "speaker": "Presenter",
+      "text": "the Claude section here, which is the market sophistication doc here, and then you're just very simply going to command a, command c,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 531.66,
+      "end": 536.44,
+      "speaker": "Presenter",
+      "text": "so you're going to copy this, and you can delete this if you want. I've just left it in there in case AI reads it, but",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 536.44,
+      "end": 542.98,
+      "speaker": "Presenter",
+      "text": "you can copy this and you can put it into the actual prompt itself. This is your prompt that you're going to paste,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 543.64,
+      "end": 550.92,
+      "speaker": "Presenter",
+      "text": "and then very simply from there you're going to let it do its thing, and so here we go. So based on my comprehensive research of recent 2024-25",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 550.92,
+      "end": 559.04,
+      "speaker": "Presenter",
+      "text": "scientific breakthroughs, I've uncovered several genuinely new discoveries that competitors in the blackout blind market haven't exploited yet, so here are the breakthrough findings.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 559.04,
+      "end": 564.1,
+      "speaker": "Presenter",
+      "text": "So new information research findings, so MT1 melatonin receptor breakthrough for REM sleep control.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 564.42,
+      "end": 569.7,
+      "speaker": "Presenter",
+      "text": "So this is from McGill University, okay? It was published in July 17th. So why it's new:",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 569.7,
+      "end": 577.06,
+      "speaker": "Presenter",
+      "text": "scientists just discovered the specific melatonin receptor MT1 that controls REM sleep, the crucial sleep stage for memory consolidation",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 577.06,
+      "end": 585.74,
+      "speaker": "Presenter",
+      "text": "and emotional regulation. This cutting-edge 2024 science showing that melatonin doesn't just help you fall asleep, but actually controls the specific brain",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 585.74,
+      "end": 591.06,
+      "speaker": "Presenter",
+      "text": "mechanisms that regulate your most restorative sleep phase. No blackout blind company is talking about MT1 receptors.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 591.76,
+      "end": 598.02,
+      "speaker": "Presenter",
+      "text": "Look at that. Now we've got a brand new, untapped angle that we can talk about, because I guess nobody's talking about MT1, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 598.3,
+      "end": 608.06,
+      "speaker": "Presenter",
+      "text": "So here's how to use this ethically. Again, use this ethically, I've told Claude to use this ethically because I like I want you guys to use this in a way that actually builds a brand and doesn't destroy your brand,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 608.06,
+      "end": 616.3,
+      "speaker": "Presenter",
+      "text": "okay? So we're going to educate customers that complete darkness doesn't just improve sleep qu- quantity, it activates newly discovered",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 616.3,
+      "end": 624.72,
+      "speaker": "Presenter",
+      "text": "MT1 receptors that control REM sleep quality. So perfect darkness optimizes natural melatonin's ability to trigger these specific receptors for deeper,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 624.72,
+      "end": 633.26,
+      "speaker": "Presenter",
+      "text": "more restorative sleep, okay? So marketing hook samples: scientists just discovered the brain receptor that controls your deepest sleep, and it only works in complete darkness.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 633.66,
+      "end": 634.7,
+      "speaker": "Presenter",
+      "text": "That is like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 636.56,
+      "end": 642.64,
+      "speaker": "Presenter",
+      "text": "Bro, like I'm laughing out loud right now, like genuinely laughing out loud, cause like that is, this is a sick hook, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 642.92,
+      "end": 648.94,
+      "speaker": "Presenter",
+      "text": "So, scientists just discovered the brain receptor that controls your deepest sleep. I'm hooked in. I'm like damn. Okay. So, science, this new thing,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 649.08,
+      "end": 658.22,
+      "speaker": "Presenter",
+      "text": "maybe some people care, maybe some people don't, but what I love about this is it it dangles the carrot, right? It says, hey, science just discovered that like this brain receptor",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 658.22,
+      "end": 664.52,
+      "speaker": "Presenter",
+      "text": "that helps you just be a top performer to get your deepest sleep or like recover your best,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 666.02,
+      "end": 677.22,
+      "speaker": "Presenter",
+      "text": "we just discovered this new this is this new discovery, right? New hope, new information, new discovery, and then we bridge it, we create this gap that says, and it only works in complete darkness.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 677.74,
+      "end": 686.24,
+      "speaker": "Presenter",
+      "text": "And so, unless you have our product, you can't achieve it. And so, I absolutely love this. Just as a side note, to break down this hook, like this is a banger hook.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 686.38,
+      "end": 696.22,
+      "speaker": "Presenter",
+      "text": "This is why Claude is kind of better than GPT, if you ask me. But there's an example of how we took this information. We didn't even mention MT1, but you'll see there's other ones down here. So, new 2024 breakthrough,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 696.68,
+      "end": 703.38,
+      "speaker": "Presenter",
+      "text": "why your bedroom needs to be pitch black to activate MT1 sleep receptors, right? Some people might be, what's what's MT1, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 703.7,
+      "end": 711.12,
+      "speaker": "Presenter",
+      "text": "They might be curious enough to go and learn more about that, and again, you need to avoid the technical jargon that confusions people confuses confuses people, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 711.76,
+      "end": 721.46,
+      "speaker": "Presenter",
+      "text": "Remember the Apple to Creative comparison, right? We said a thousand songs in your pocket. We don't want to talk about MP3 devices and, you know, downloads and all that kind of, you know, technical jargon.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 721.96,
+      "end": 728.96,
+      "speaker": "Presenter",
+      "text": "You want to use things that are clear. So, you got you want to be careful with the amount of like, you know, new words that you use, although MT1",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 728.96,
+      "end": 735.84,
+      "speaker": "Presenter",
+      "text": "might be a good kind of like, what's MT1, right? It's a new discovery. So, again, the sleep secret your brain has been hiding,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 736.02,
+      "end": 746.2,
+      "speaker": "Presenter",
+      "text": "MT1 receptors need total darkness to unlock REM sleep, right? And you could also position this MT1, again, this new information, as like, hey, I've never heard of that before,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 746.58,
+      "end": 754.86,
+      "speaker": "Presenter",
+      "text": "right? And so, you have to understand what new information does for people, okay? And so, when you, for example, even make an ad that says something along the lines of like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 754.86,
+      "end": 762.22,
+      "speaker": "Presenter",
+      "text": "the the secret to better sleep is all in MT1 or is all in improving your MT1, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 762.82,
+      "end": 768.54,
+      "speaker": "Presenter",
+      "text": "And so, now people are like, well, what's MT1, right? New information. Well,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 769.02,
+      "end": 777.84,
+      "speaker": "Presenter",
+      "text": "I'm so glad that you asked. Well, MT1 is actually the receptor that controls the melatonin release in your brain, and new studies have shown from McGill University Health Centre,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 778.44,
+      "end": 787.34,
+      "speaker": "Presenter",
+      "text": "Journal of Neuroscience, right? Kind of showcase credibility. And, guys, this could be done on your landing page as well, or it could be done in your videos, whatever you're capable of doing.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 787.72,
+      "end": 798.72,
+      "speaker": "Presenter",
+      "text": "And then from there, you can actually say, hey, this is what actually allows you to, you know, increase it is by sleeping in total darkness, okay? Now, I know you guys can see this one down here,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 798.72,
+      "end": 806.68,
+      "speaker": "Presenter",
+      "text": "which is like light pollution accelerates Alzheimer's disease risk by 149%. This is where you guys need to be careful, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 807.12,
+      "end": 817.94,
+      "speaker": "Presenter",
+      "text": "And so, this is a, and I'm glad that this is showing here, because this is an example of something that is very low valence and something that is just very high risk and very high intensity,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 818.02,
+      "end": 827.8,
+      "speaker": "Presenter",
+      "text": "and even though Claude is saying like, yeah, this is ethical, this is an example of where, you know, you're saying why scientists now consider bedroom light pollution a brain health emergency?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 828.58,
+      "end": 834.3,
+      "speaker": "Presenter",
+      "text": "Like, that is very low valence, that is very high intensity, and you're going to scare people, and you're going to fearmonger,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 835.18,
+      "end": 843.46,
+      "speaker": "Presenter",
+      "text": "okay? I do not want you guys to do this, okay? And we do not And, and, and there's a scale of like how much fear you want to instill in people.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 843.8,
+      "end": 853.98,
+      "speaker": "Presenter",
+      "text": "This is an example of like where you're scaring people into buying it, and it's extremely unethical. And so, although Claude thinks he's being ethical, and you'll notice that in my prompts I've also tried to ask Claude to be as",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 853.98,
+      "end": 865.52,
+      "speaker": "Presenter",
+      "text": "ethical as possible, you need to understand, like, for example, this would be a better way to say that, this is like new research or like, hey, complete darkness doesn't just improve sleep, it also protects against memory loss,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 865.92,
+      "end": 875.26,
+      "speaker": "Presenter",
+      "text": "that's fine. Like, there's levels to the I don't want to just say compliance, because not only could you guys get banned by scaring the shit out of people and saying like, this is a brain health emergency, like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 875.26,
+      "end": 884.12,
+      "speaker": "Presenter",
+      "text": "like ask Claude to tone things down if it does this. So, if you're not a great copywriter, you need to be aware that if you're saying something that kind of scares you, right,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 884.4,
+      "end": 893.74,
+      "speaker": "Presenter",
+      "text": "you probably shouldn't be saying it to other people, okay? So, don't be a piece of shit. That's rule number one of everything that I try to talk about in Evolve and in Origins is do not be a piece of shit, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 893.74,
+      "end": 901.06,
+      "speaker": "Presenter",
+      "text": "And so, again, here's another one where it says like, I I won't even use this word, cause I can't even pronounce it, but the neurodegeneration crisis hiding in your bedroom,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 901.06,
+      "end": 908.68,
+      "speaker": "Presenter",
+      "text": "how light pollution damages your brain while you sleep, this is extremely low valence, extremely high intensity. And so, what I like to do in these instances,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 908.68,
+      "end": 910.56,
+      "speaker": "Presenter",
+      "text": "is I like to say, hey, Claude,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 911.46,
+      "end": 918.12,
+      "speaker": "Presenter",
+      "text": "And I'm showing you guys this live so you can actually get headlines that don't make you a piece of shit, that actually build brand, because here's the truth, guys, and",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 918.12,
+      "end": 929.12,
+      "speaker": "Presenter",
+      "text": "if you've tuned out, tune back in, because if you try to fearmonger and you try to do this, this will cripple your brand harder than anything else, because you're being a piece of shit and people will catch on.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 929.12,
+      "end": 938.0,
+      "speaker": "Presenter",
+      "text": "And guess what? Not only will Meta ban you, not only will they ban your ad account, they'll ban your Business Manager, they'll ban your profile, they'll literally Shopify will take you down from your store, because",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 938.0,
+      "end": 944.02,
+      "speaker": "Presenter",
+      "text": "when you're being a piece of shit, that's what you deserve, okay? And so do this ethically. And so here is how I recommend doing it. We're going to say, \"Hey, Claude,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 944.38,
+      "end": 953.44,
+      "speaker": "Presenter",
+      "text": "these headlines are very low valence.\" And for those of you that don't know what low valence means, it basically means they make people scared, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 953.5,
+      "end": 962.66,
+      "speaker": "Presenter",
+      "text": "So, there's a valence and intensity scale. This is not something I'm going to talk about in Origins, but just understand that valence means how how what is the emotional scale? So, high valence, low",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 962.98,
+      "end": 970.76,
+      "speaker": "Presenter",
+      "text": "low valence. So, high valence means positive, low valence means negative, okay? And then intensity is how positive or how negative, okay? So, \"Hey, Claude,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 971.04,
+      "end": 973.54,
+      "speaker": "Presenter",
+      "text": "these headlines are very low valence and are fearmongering",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 974.3,
+      "end": 978.38,
+      "speaker": "Presenter",
+      "text": "potential customers, okay? We",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 978.38,
+      "end": 985.82,
+      "speaker": "Presenter",
+      "text": "need to optimize these headlines to be less focused on scaring people and",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 985.82,
+      "end": 993.3,
+      "speaker": "Presenter",
+      "text": "spreading information that may not be 100% true and more focused on",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 993.3,
+      "end": 1000.24,
+      "speaker": "Presenter",
+      "text": "lower intensity around this new information, okay?\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 1000.76,
+      "end": 1004.76,
+      "speaker": "Presenter",
+      "text": "And so, here what you're going to do is you're going to say this one here, \"So, for example,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 1006.2,
+      "end": 1013.18,
+      "speaker": "Presenter",
+      "text": "'Brain Health Emergency' is way too intense,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 1014.02,
+      "end": 1020.98,
+      "speaker": "Presenter",
+      "text": "and then you can also say 'crisis hiding in your bedroom and light damaging",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 1021.98,
+      "end": 1027.78,
+      "speaker": "Presenter",
+      "text": "your brain' is also way too intense. Please correct",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 1027.78,
+      "end": 1035.14,
+      "speaker": "Presenter",
+      "text": "yourself and rewrite the headlines below. That said,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 1035.58,
+      "end": 1042.06,
+      "speaker": "Presenter",
+      "text": "you did a good job with 'how sleep can protect against memory loss.'",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 1042.84,
+      "end": 1052.42,
+      "speaker": "Presenter",
+      "text": "That is as far as I would like to go in regards to lower levels of valence, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 1052.9,
+      "end": 1061.94,
+      "speaker": "Presenter",
+      "text": "And so, if I'm using words that you guys don't understand, again, valence just means it makes it makes people feel scared, okay? And it makes people It's a negative feeling, okay? And so, when you do this,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 1062.2,
+      "end": 1072.06,
+      "speaker": "Presenter",
+      "text": "this is what Claude is going to do. It's going to actually And if if this applies to the other ones, obviously, we kind of skip skip past the other new information pieces, because for the sake of this video, we don't need to deep dive into all of it. But this is going to help you guys",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 1072.06,
+      "end": 1082.18,
+      "speaker": "Presenter",
+      "text": "actually write hooks that do educate consumers and do not scare them, okay? You don't want to scare people. There's just There's just no positive outcome with that. So, \"You're absolutely right. Those",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 1082.18,
+      "end": 1089.94,
+      "speaker": "Presenter",
+      "text": "headlines are way too fearmongering and intense. I need to focus on education and positive benefits rather than creating anxiety, okay? Here are the corrected lower-intensity versions.\" So,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 1090.54,
+      "end": 1098.72,
+      "speaker": "Presenter",
+      "text": "you know, \"New research shows complete darkness may support long-term memory health, okay? New research: complete darkness doesn't just improve your sleep, it protects against memory loss, okay?\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 1099.06,
+      "end": 1106.96,
+      "speaker": "Presenter",
+      "text": "And then, \"Scientists discover how quality darkness contributes to cognitive wellness.\" Now, what you can see here is it's definitely gone a lot more positive. Now, I'm not saying",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 1106.96,
+      "end": 1117.74,
+      "speaker": "Presenter",
+      "text": "that you can't do low valence, because low valence can be effective. But when you go too high intensity in the low valence quadrant, you just become a piece of shit. And I want you guys to be",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 1118.32,
+      "end": 1125.72,
+      "speaker": "Presenter",
+      "text": "marketers that actually build a brand, because here's the thing: if you're scaring people into buying something, they're not going to be good customers, and you guys",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 1125.72,
+      "end": 1133.22,
+      "speaker": "Presenter",
+      "text": "should be focusing on getting customers that are going to rave about your product, about your business. So, this is, you know, a prompt that",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 1133.22,
+      "end": 1143.3,
+      "speaker": "Presenter",
+      "text": "is very powerful and that you guys need to go and do more research on, but you need to I just ask you, it's my one ask from you guys, is to just be ethical with this stuff, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 1143.72,
+      "end": 1151.26,
+      "speaker": "Presenter",
+      "text": "And make sure that you're thinking through and you're thinking about, hey, how would I want to be marketed to? Because actually, I'm going to I'm going to give you one even better.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 1151.74,
+      "end": 1159.64,
+      "speaker": "Presenter",
+      "text": "Would you run this message to your mom, or would you run this to your sister? Would you Would you run this ad to somebody that you genuinely care about? Because",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 1159.64,
+      "end": 1168.28,
+      "speaker": "Presenter",
+      "text": "if the answer to it is no, like if you would scare one of your family members into buying a product, I don't know, you shouldn't be in this program. But at the end of the day,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 1168.4,
+      "end": 1178.06,
+      "speaker": "Presenter",
+      "text": "I want you to understand that this is just giving you information more than anything to go and dive deeper on. Now, this is something where, like, okay, if it is serious, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 1178.44,
+      "end": 1186.58,
+      "speaker": "Presenter",
+      "text": "So, light pollution accelerates Alzheimer's disease. So, what I would be doing is I would just be going and doing more research on this, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 1186.96,
+      "end": 1195.12,
+      "speaker": "Presenter",
+      "text": "Like, you know, this mechanism involves disrupted melatonin production, interfering with, you know, whatever this is, the neurotransmitter depleted in Alzheimer's patients. So,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 1195.12,
+      "end": 1204.76,
+      "speaker": "Presenter",
+      "text": "this angle is completely unexploited in And again, exploitation is a key word there in the blackout market. So, what I would be doing here, I would be looking at how",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 1205.4,
+      "end": 1211.28,
+      "speaker": "Presenter",
+      "text": "essentially that when you have light pollution in your room, it disrupts melatonin production.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 1212.0,
+      "end": 1216.06,
+      "speaker": "Presenter",
+      "text": "Okay. So like that's kind of what I would be taking from this, and people can associate",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 1216.06,
+      "end": 1221.4,
+      "speaker": "Presenter",
+      "text": "that melatonin helps them sleep better, right? And so when you have light pollution, it disrupts that,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 1221.84,
+      "end": 1226.72,
+      "speaker": "Presenter",
+      "text": "and that is why you're not able to sleep as well compared to if you're, you know, sleeping in a blackout room, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 1226.92,
+      "end": 1230.6,
+      "speaker": "Presenter",
+      "text": "So hopefully, this is coming together for you guys. And so this is the prompt",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 1230.6,
+      "end": 1236.22,
+      "speaker": "Presenter",
+      "text": "that you have here to use. Again, I'm going to have to keep an eye on this stuff because",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 1236.24,
+      "end": 1240.92,
+      "speaker": "Presenter",
+      "text": "it's very, very powerful stuff here guys, like this is no joke. And you need to",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 1240.92,
+      "end": 1244.9,
+      "speaker": "Presenter",
+      "text": "use this the right way. And I- I'm honestly a believer that, you know, for",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 1244.9,
+      "end": 1250.26,
+      "speaker": "Presenter",
+      "text": "those of you trying to build a real business and trying to do e-commerce the right way, which is the message that I'm trying to spread here, you will use this the right way.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 1250.26,
+      "end": 1256.56,
+      "speaker": "Presenter",
+      "text": "But if I start seeing, you know, specific angles and things coming up that I'm just not happy with, I will remove this. So use this ethically,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 1256.56,
+      "end": 1261.92,
+      "speaker": "Presenter",
+      "text": "do this the right way. And again, new information is a very, very powerful thing, as you can see how we've used it, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 1261.92,
+      "end": 1266.7,
+      "speaker": "Presenter",
+      "text": "Stomach issues, there's a soup for that, what big shrimp companies are hiding. We're not going crazy here, but again,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 1266.9,
+      "end": 1271.56,
+      "speaker": "Presenter",
+      "text": "this is a great, great way to inform people about real information. Final thing,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 1272.04,
+      "end": 1278.74,
+      "speaker": "Presenter",
+      "text": "it has to be factual, and go and double check that Claude did not hallucinate. Go do more research on this,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 1279.14,
+      "end": 1282.1,
+      "speaker": "Presenter",
+      "text": "okay? Don't just take Claude's word for it, all right? There you go.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 1282.42,
+      "end": 1288.34,
+      "speaker": "Presenter",
+      "text": "That is the new information section here on how to find information, how to apply to your ads.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 1288.76,
+      "end": 1292.24,
+      "speaker": "Presenter",
+      "text": "I hope this helps you guys find new information to be able to educate yourselves,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 1292.24,
+      "end": 1297.4,
+      "speaker": "Presenter",
+      "text": "and then share this information with your consu- with your customers to make more winning ads.",
+      "chunk": 4,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [
+    {
+      "speaker": "Presenter",
+      "text": "uh, you know, in the cheeks. So it dissolves in the cheeks. So we use other, you know, examples in medicine to validate the mechanism, right?",
+      "chunk": 0,
+      "gemini_start": 303.0,
+      "gemini_end": 310.5,
+      "removed_reason": "not heard by local Whisper base.en nor by a small.en re-check of the window, and no time to have been spoken between the neighbouring aligned segments"
+    },
+    {
+      "speaker": "Presenter",
+      "text": "So we're using new information about medicine, how it's, you know, how it's consumed, and we bridge it to validate our mechanism,",
+      "chunk": 0,
+      "gemini_start": 310.5,
+      "gemini_end": 317.3,
+      "removed_reason": "not heard by local Whisper base.en nor by a small.en re-check of the window, and no time to have been spoken between the neighbouring aligned segments"
+    },
+    {
+      "speaker": "Presenter",
+      "text": "and that validates why our product is the right solution for them, right?",
+      "chunk": 0,
+      "gemini_start": 317.3,
+      "gemini_end": 322.0,
+      "removed_reason": "not heard by local Whisper base.en nor by a small.en re-check of the window, and no time to have been spoken between the neighbouring aligned segments"
+    }
+  ],
+  "non_speech": [
+    {
+      "start": 394.62,
+      "end": 396.42,
+      "label": "music"
+    },
+    {
+      "start": 635.91,
+      "end": 637.41,
+      "label": "laughter"
+    },
+    {
+      "start": 973.72,
+      "end": 1001.02,
+      "label": "typing"
+    },
+    {
+      "start": 1005.62,
+      "end": 1034.02,
+      "label": "typing"
+    }
+  ]
+}

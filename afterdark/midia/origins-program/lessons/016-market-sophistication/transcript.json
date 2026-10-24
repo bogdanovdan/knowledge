@@ -1,0 +1,1614 @@
+{
+  "lesson": {
+    "num": 16,
+    "id": "016-market-sophistication",
+    "title": "Market Sophistication",
+    "section": "🔍 How To Find Products",
+    "video": "16. Market Sophistication Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1147.115,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=1bb520e2793f4a99ac0a54c358debf97"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (94% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 4078,
+    "matched_tokens": 3854,
+    "match_ratio": 0.945,
+    "segments_aligned": 164,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 247.446,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 242.7,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 247.446,
+      "end": 583.824,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.997,
+      "wpm": 209.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 583.824,
+      "end": 827.732,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.996,
+      "wpm": 198.5,
+      "issues": [],
+      "notes": "During 02:11 - 02:36, the presenter plays an embedded video clip of a Rolex commercial which has no audible sound on the recording."
+    },
+    {
+      "idx": 3,
+      "start": 827.732,
+      "end": 1147.115,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 213.4,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [
+    {
+      "type": "transcriber_note",
+      "start": 583.824,
+      "end": 827.732,
+      "chunk": 2,
+      "detail": "During 02:11 - 02:36, the presenter plays an embedded video clip of a Rolex commercial which has no audible sound on the recording."
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.42,
+      "speaker": "Presenter",
+      "text": "All right. So, welcome to the next module here of market sophistication.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 4.42,
+      "end": 12.08,
+      "speaker": "Presenter",
+      "text": "Now, I'm going to set the expectation here that if you go through this video and you're like, \"I don't get it,\" that is completely normal, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 12.3,
+      "end": 22.9,
+      "speaker": "Presenter",
+      "text": "This has taken me months and months, and to be honest, I'm still learning more about market sophistication and just trying to explain it better. But at the end of the day, this is probably one of the hardest things to understand,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 22.9,
+      "end": 35.02,
+      "speaker": "Presenter",
+      "text": "but it's one of the most important things to understand, and it can be an absolute game changer for you when you start to master, when you start to learn how market sophistication plays a role in the success of your ads and in the success of your business.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 35.22,
+      "end": 44.5,
+      "speaker": "Presenter",
+      "text": "Now, I'm going to try to break this down as simple as possible for you to understand, but with that said, again, I will have some more resources for you to better understand it yourself. And this is just something that's going to take practice.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 44.52,
+      "end": 54.84,
+      "speaker": "Presenter",
+      "text": "So, this is the first time that you're seeing this. It's okay if you don't fully understand it, but as we continue to go through this, and I would definitely recommend that you come back and watch this video again, this is going to be a game changer for you.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 54.84,
+      "end": 63.1,
+      "speaker": "Presenter",
+      "text": "So, first things first, before I actually tell you what market sophistication is, even if you already know what market sophistication is, let's go ahead and just do a quick little exercise, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 63.3,
+      "end": 70.9,
+      "speaker": "Presenter",
+      "text": "So, what we're going to do is I want to see if I have some magical powers here and I'm going to actually predict which shirt that you're going to choose, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 70.9,
+      "end": 79.06,
+      "speaker": "Presenter",
+      "text": "So, I want you to go ahead and I want you to just look at all these shirts, and I'm going to give you a second here just to kind of choose the shirt that you like best.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 80.82,
+      "end": 89.52,
+      "speaker": "Presenter",
+      "text": "Got it? Okay. Cool. All right, so now, you know, I kind of have a feeling that you probably chose the shirt in the bottom left-hand corner.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 89.76,
+      "end": 93.64,
+      "speaker": "Presenter",
+      "text": "Now, if I did that, it's not actually a magic trick. That was just a random guess.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 94.2,
+      "end": 100.8,
+      "speaker": "Presenter",
+      "text": "Just like you probably randomly guessed, you probably looked at all of these and you were like, \"Well, I don't know, let's just maybe go with bottom left.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 100.98,
+      "end": 103.52,
+      "speaker": "Presenter",
+      "text": "And if I did, obviously, you know, make sure you let me know in the group channel.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 104.14,
+      "end": 110.48,
+      "speaker": "Presenter",
+      "text": "But for the most part, you probably chose any one of these shirts, and why did you make that decision? Well, it was just kind of at random, you know, they all look the same.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 110.48,
+      "end": 118.44,
+      "speaker": "Presenter",
+      "text": "Well, let's go ahead and jump in to the next level here, and again, I want you to choose a shirt. So, I'm going to go ahead and give you a second here to choose a shirt.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 119.8,
+      "end": 127.0,
+      "speaker": "Presenter",
+      "text": "Cool. Got it? Now, because you probably think I'm playing some kind of a game with you, you probably didn't choose the one here with the white Nike swoosh on it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 127.42,
+      "end": 135.46,
+      "speaker": "Presenter",
+      "text": "But one thing that I do know for a fact is that your eyes directly went to that, even though you were like, \"Ah, no, I'm not going to pick that one because that's the one Spencer wants me to pick.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 135.92,
+      "end": 149.28,
+      "speaker": "Presenter",
+      "text": "But obviously, I'm not playing any tricks or any games on you, but I can guarantee that your eyes were definitely attracted to this one, and depending on what kind of psychology you were playing there, you probably chose that one or maybe again you just chose a random one.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 149.28,
+      "end": 155.8,
+      "speaker": "Presenter",
+      "text": "But for the sake of this exercise, one thing that I do know is that you 100% looked at this shirt and you're like, \"Oh, that is different.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 155.8,
+      "end": 162.9,
+      "speaker": "Presenter",
+      "text": "Okay? So now, let's go into the next level here, and again, I want you to choose a shirt. So, I'll go ahead and give you a second here to choose a shirt.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 164.6,
+      "end": 173.92,
+      "speaker": "Presenter",
+      "text": "Great. And now, again, just like on the previous one, you probably have no idea. Maybe you went bottom left-hand corner again. For me, I personally chose this one here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 174.04,
+      "end": 180.76,
+      "speaker": "Presenter",
+      "text": "Why did I choose it? I mean, I don't know, it just kind of felt like it was a good one to choose, but again, there's no real purpose behind choosing the shirt.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 181.04,
+      "end": 187.74,
+      "speaker": "Presenter",
+      "text": "But let's go ahead and let's finish the final round here of choose the shirt, and now I want you to again go ahead and choose a shirt.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 187.74,
+      "end": 197.76,
+      "speaker": "Presenter",
+      "text": "And now obviously you know I'm trying to emphasize a point here, but my eyes automatically went towards the black shirt, and right away that was the one that I chose.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 197.76,
+      "end": 202.52,
+      "speaker": "Presenter",
+      "text": "And if you did the same thing, well, that is what market sophistication is, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 202.7,
+      "end": 211.68,
+      "speaker": "Presenter",
+      "text": "So, the lesson that you can take from this and again, what you just went through is what your consumers go through on a daily, on a weekly basis, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 211.68,
+      "end": 216.56,
+      "speaker": "Presenter",
+      "text": "These shirts represent what your potential customer sees in the market.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 217.0,
+      "end": 227.34,
+      "speaker": "Presenter",
+      "text": "And when all of the shirts look the same, it's very hard to choose. There's no clear, obvious choice. They all seem to be the same, so you just pick one at random, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 227.68,
+      "end": 233.28,
+      "speaker": "Presenter",
+      "text": "Now, when you are well-branded, okay, for example, in this scenario, when you're well-branded,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 233.54,
+      "end": 247.0,
+      "speaker": "Presenter",
+      "text": "or you provide a new mechanism or you have a product and you introduce it in a way that that is different from what everybody else is doing, you automatically grab the attention and you automatically look more attractive",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 247.0,
+      "end": 251.28,
+      "speaker": "Presenter",
+      "text": "on the market, and you become the clear and the obvious choice, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 251.74,
+      "end": 254.04,
+      "speaker": "Presenter",
+      "text": "That is market sophistication, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 254.32,
+      "end": 262.5,
+      "speaker": "Presenter",
+      "text": "And to explain that deeper, understanding how many products and solutions have been presented to the level of market awareness before is what market sophistication means.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 262.7,
+      "end": 270.86,
+      "speaker": "Presenter",
+      "text": "So, again, market sophistication is the level of knowledge that your market actually has on your products or your services, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 271.42,
+      "end": 281.84,
+      "speaker": "Presenter",
+      "text": "And, basically, what you're what you're looking at here is how many similar products has the market been told about before? How many claims have they been told, and how many of them have actually tried those products, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 281.9,
+      "end": 287.38,
+      "speaker": "Presenter",
+      "text": "A lot of people have, obviously, for example, just to give you a a very simple and easy scenario here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 287.38,
+      "end": 297.08,
+      "speaker": "Presenter",
+      "text": "you know, if you're an agency or if you're an e-commerce brand and you've interviewed some agencies, a lot of the agencies that There's a lot of people that have tried agencies and not had a good experience, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 297.08,
+      "end": 305.18,
+      "speaker": "Presenter",
+      "text": "So it's very, very hard for myself, as an agency owner, to try to explain to you that, \"Oh, no, my agency's different,\" when we have the same claims, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 305.74,
+      "end": 317.56,
+      "speaker": "Presenter",
+      "text": "And so, basically, what happens is, is the level of sophistication will increase as more time and the amount and and and experiences actually occur in the market, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 317.96,
+      "end": 324.44,
+      "speaker": "Presenter",
+      "text": "And as it says here, this is why I love this graphic in in particular, typically, skepticism will increase, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 324.74,
+      "end": 332.98,
+      "speaker": "Presenter",
+      "text": "So we're actually going to go through and break down each and every single one of these levels, but just know that market sophistication comes with time in the market.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 333.5,
+      "end": 343.62,
+      "speaker": "Presenter",
+      "text": "And typically, the longer that the market is around and the and the more that people are in the market with a specific product, the more skepticism essentially increases.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 343.62,
+      "end": 350.12,
+      "speaker": "Presenter",
+      "text": "And the more saturated, is what I'm sure a lot of people have heard of before, the market becomes, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 350.56,
+      "end": 355.22,
+      "speaker": "Presenter",
+      "text": "So first thing that I want to talk about is market sophistication stage one, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 355.36,
+      "end": 360.92,
+      "speaker": "Presenter",
+      "text": "And in this market sophistication stage, as you can see down here, you are brand new to the market.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 361.1,
+      "end": 365.28,
+      "speaker": "Presenter",
+      "text": "So you can, basically, make any claim, as long as it's simple and direct.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 365.66,
+      "end": 374.36,
+      "speaker": "Presenter",
+      "text": "So a great example of this, and if you have not watched the BlackBerry documentary, I 100% recommend add this as an action item after you watch this video",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 374.36,
+      "end": 379.36,
+      "speaker": "Presenter",
+      "text": "to watch the BlackBerry documentary. I can actually go ahead and pull it up so you know which one I'm talking about.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 379.84,
+      "end": 391.56,
+      "speaker": "Presenter",
+      "text": "Okay? This movie right here, it actually just came out in 2023. It's an incredible incredible documentary/movie to watch, and it basically explains a little bit more about what I'm talking about with market sophistication here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 391.68,
+      "end": 396.96,
+      "speaker": "Presenter",
+      "text": "So, let's go ahead and jump back in. So market sophistication stage one, BlackBerry invented, basically,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 396.96,
+      "end": 404.38,
+      "speaker": "Presenter",
+      "text": "the first two-way pager that could receive email and, you know, both ways, essentially. It was It was groundbreaking technology, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 404.38,
+      "end": 414.44,
+      "speaker": "Presenter",
+      "text": "So they were first to the market. So this is an example of what their ad could look like, because the market has never seen this before. This is a brand new product in the market, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 414.52,
+      "end": 420.14,
+      "speaker": "Presenter",
+      "text": "So all you need to do is be simple, be direct, and name the claim and prove it works, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 420.6,
+      "end": 423.38,
+      "speaker": "Presenter",
+      "text": "The claim here is that it's a two-way pager that can receive email, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 423.38,
+      "end": 434.3,
+      "speaker": "Presenter",
+      "text": "And this actually isn't I don't think this is an exact ad, but this just Imagine this is an ad, right? You're scrolling through, you know, back then, you're not scrolling through anything, because I social media didn't didn't Actually, I don't know if social media existed yet. Anyway,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 434.54,
+      "end": 441.84,
+      "speaker": "Presenter",
+      "text": "long story short, you see a billboard that's like, \"This pager can send and receive email.\" It's like, \"Holy gosh, that's that's amazing,\" right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 442.56,
+      "end": 446.26,
+      "speaker": "Presenter",
+      "text": "So when you're first to market, you can just state whatever it is that your product does.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 446.38,
+      "end": 452.26,
+      "speaker": "Presenter",
+      "text": "Now this is very, very, very rare. It is very uncommon that you are in a stage one market sophistication,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 452.38,
+      "end": 456.68,
+      "speaker": "Presenter",
+      "text": "but just so you understand this, if you innovate some like groundbreaking technology,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 457.48,
+      "end": 461.88,
+      "speaker": "Presenter",
+      "text": "most of the time, all you need to do is just state the claim, okay? That's it. Just state what it does, and you're done, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 462.36,
+      "end": 468.52,
+      "speaker": "Presenter",
+      "text": "Let's go ahead and move in to market sophistication stage two, which is where sometimes, for for most people, like advertising,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 468.76,
+      "end": 473.96,
+      "speaker": "Presenter",
+      "text": "most like this You're kind of early. You're still early to market, and so a lot of people are kind of in this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 474.1,
+      "end": 480.78,
+      "speaker": "Presenter",
+      "text": "or not a lot of people, but I would say some newer brands or some newer products are in this stage. For example, we're actually working with a client right now that sells shilajit,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 481.4,
+      "end": 489.62,
+      "speaker": "Presenter",
+      "text": "and so, essentially, what we're doing right now is we're just enlarging the claim. So to stay with And shilajit is a is a supplement, by the way. It's kind of like a super supplement. But",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 489.62,
+      "end": 498.6,
+      "speaker": "Presenter",
+      "text": "long story short, we're kind of in stage two with them, because shilajit was like first to the market. We weren't first, but we were, essentially, you know, second to the market. People were starting to to see a little bit more about it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 498.6,
+      "end": 504.32,
+      "speaker": "Presenter",
+      "text": "And now, all you're doing in this market sophistication stage two, if we keep it on track of, you know, the cell phone,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 504.32,
+      "end": 509.06,
+      "speaker": "Presenter",
+      "text": "this is where Nokia came out with their phone, and they basically said, \"Connecting people,\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 509.06,
+      "end": 518.54,
+      "speaker": "Presenter",
+      "text": "okay? So rather than just saying, \"Hey, this is, you know This can help you send and receive emails,\" they enlarged the claim, and they were like, \"Hey, we can actually connect people,\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 518.84,
+      "end": 524.08,
+      "speaker": "Presenter",
+      "text": "right? So it sounds better. So you're enlarging the claim, and you're essentially one-upping your competitors, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 524.24,
+      "end": 528.38,
+      "speaker": "Presenter",
+      "text": "So this is where you make bigger and stronger claims in a stage two market sophistication.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 529.0,
+      "end": 535.9,
+      "speaker": "Presenter",
+      "text": "Now stage three market sophistication is essentially where a lot Like, some of the bigger brands will start to come in with new tech,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 535.9,
+      "end": 542.18,
+      "speaker": "Presenter",
+      "text": "right? And new ways to solve old problems. And this is where a lot of marketing is done, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 542.3,
+      "end": 546.8,
+      "speaker": "Presenter",
+      "text": "Stage three and stage four and stage five, the next three stages, is where a majority of the marketing is done.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 547.16,
+      "end": 553.08,
+      "speaker": "Presenter",
+      "text": "But stage three, for example, is where you provide a new mechanism of how to actually achieve the claim.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 553.38,
+      "end": 562.0,
+      "speaker": "Presenter",
+      "text": "So the market has, at this stage, heard all of the claims before, right? We understand that we can send and receive emails. We understand that, you know, we can connect with people.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 562.0,
+      "end": 568.0,
+      "speaker": "Presenter",
+      "text": "But now, the goal is to introduce a new mechanism and a new way to achieve that same old claim.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 568.0,
+      "end": 573.04,
+      "speaker": "Presenter",
+      "text": "So when Apple came out with the iPhone and the touchscreen, it was revolutionary,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 573.48,
+      "end": 583.38,
+      "speaker": "Presenter",
+      "text": "right? This completely exploded on the market, and it was the same old claim, but it was a new mechanism and a new way to do it, which led to just",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 583.98,
+      "end": 587.76,
+      "speaker": "Presenter",
+      "text": "monumental success, and now obviously Apple's a $3 trillion company. But",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 587.76,
+      "end": 596.28,
+      "speaker": "Presenter",
+      "text": "that is how Apple introduced a new mechanism into the market to really stand out. Now if we jump into stage four,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 596.58,
+      "end": 603.32,
+      "speaker": "Presenter",
+      "text": "this is very, very similar to stage two, but rather than enlarging the claim, so just so you guys understand this,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 603.54,
+      "end": 613.42,
+      "speaker": "Presenter",
+      "text": "the claim here is basically connecting people, and we're enlarging the the original claim of being able to, you know, send emails, but in stage four,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 613.66,
+      "end": 620.42,
+      "speaker": "Presenter",
+      "text": "you're enlarging the mechanism, okay? So you're enlarging what the mechanism actually does. So now that the market",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 620.42,
+      "end": 626.68,
+      "speaker": "Presenter",
+      "text": "knows of this touchscreen technology, it's not new anymore, what you need to do is then enlarge it. So as you can see,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 626.68,
+      "end": 633.58,
+      "speaker": "Presenter",
+      "text": "this was the iPhone 3G that came out that was twice as fast and half the price. So you're just enlarging",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 633.58,
+      "end": 638.12,
+      "speaker": "Presenter",
+      "text": "the mechanism and saying how it's actually better, okay? So make it easier,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 638.12,
+      "end": 644.84,
+      "speaker": "Presenter",
+      "text": "faster, solve it better, and overcome any limitations that are introduced by this new mechanism. So,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 644.84,
+      "end": 650.5,
+      "speaker": "Presenter",
+      "text": "again, introduce a new mechanism, stage four, enlarge the mechanism, make the mechanism sound better.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 650.5,
+      "end": 659.26,
+      "speaker": "Presenter",
+      "text": "And then once we get to stage five, this is what is called identification marketing, and I actually have another presentation on this so you guys can better understand it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 659.26,
+      "end": 666.76,
+      "speaker": "Presenter",
+      "text": "But just know at stage five, like, the market doesn't believe you anymore, okay? Like, they've heard it all, they've seen all the, you know, all the claims, all that kind of stuff,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 666.76,
+      "end": 671.88,
+      "speaker": "Presenter",
+      "text": "and so what you need to do in this instance is just focus your advertising on identification, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 672.18,
+      "end": 679.98,
+      "speaker": "Presenter",
+      "text": "Especially with, you know, visuals and painting an ideal reality or that dream reality of what people want.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 680.38,
+      "end": 688.74,
+      "speaker": "Presenter",
+      "text": "And two of my favorite brands that do this are Nike and Rolex. If you've never seen a Rolex commercial, they like barely even show the products in some of their commercials,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 688.74,
+      "end": 697.18,
+      "speaker": "Presenter",
+      "text": "and they just build this identity of like what a Rolex represents, or with Nike, the Find Your Greatness commercial is one of the most iconic commercials of all time. But",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 697.18,
+      "end": 706.92,
+      "speaker": "Presenter",
+      "text": "basically in this market sophistication stage, you're showing the market the versions of themselves that they want to become and you're selling the persona of using your product.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 707.1,
+      "end": 714.3,
+      "speaker": "Presenter",
+      "text": "So I'm going to go ahead and actually click this video here so you can see it because it's an incredible, incredible commercial. I'm going to go ahead and just let this play.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 740.18,
+      "end": 749.32,
+      "speaker": "Presenter",
+      "text": "So in this commercial, obviously you can't hear the sound, but this the music is like super intense and it's like, I actually get like, if you get goosebumps or chills like watching a commercial,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 749.86,
+      "end": 757.58,
+      "speaker": "Presenter",
+      "text": "that is basically what identification marketing is. It paints this reality and it paints this like when we were watching this video here, right? Like these these mountains",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 757.58,
+      "end": 766.98,
+      "speaker": "Presenter",
+      "text": "and like how, you know, obviously they showed the product, but like how gruesome the conditions are and like these people achieving and going out and conquering amazing things. Like these guys,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 766.98,
+      "end": 774.26,
+      "speaker": "Presenter",
+      "text": "I believe they were like climbing Everest in this video and they were the first people in the world to climb Everest, and like that's what Rolex represents. So obviously",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 774.68,
+      "end": 785.28,
+      "speaker": "Presenter",
+      "text": "that is extremely powerful and regardless of, you know, whether or not you even wanted a watch or a Rolex, it's just like it's something that resonates with you and you automatically just associate",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 785.28,
+      "end": 793.82,
+      "speaker": "Presenter",
+      "text": "this feeling and this identification with who you want to be with this product. So very, very powerful stuff and this is essentially market sophistication stage",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 793.82,
+      "end": 801.6,
+      "speaker": "Presenter",
+      "text": "five where all of the, you know, claims and all that kind of stuff are kind of overdone. But one thing that I will say is once you reach this stage,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 801.82,
+      "end": 810.9,
+      "speaker": "Presenter",
+      "text": "one the one thing that the best brands do and then this is what typically happens is the sophistication sophistication stage will repeat itself. So people will essentially come back",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 810.9,
+      "end": 818.9,
+      "speaker": "Presenter",
+      "text": "and then introduce a new mechanism again, right? So you can basically when you reach stage four, you can go to stage five and start doing identification marketing,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 818.9,
+      "end": 827.12,
+      "speaker": "Presenter",
+      "text": "or you can go back to stage three and introduce another new mechanism. Or, of course, go back to stage one and in- introduce a brand-new claim and a brand-new product, okay? So",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 827.3,
+      "end": 834.08,
+      "speaker": "Presenter",
+      "text": "That is market sp- market sophistication from stages one all the way through five.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 834.56,
+      "end": 837.56,
+      "speaker": "Presenter",
+      "text": "And now basically for you, how do you determine market sophistication, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 837.84,
+      "end": 842.56,
+      "speaker": "Presenter",
+      "text": "How how do I figure out how many products or solutions have have actually been seen before?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 843.02,
+      "end": 846.36,
+      "speaker": "Presenter",
+      "text": "Number one you obviously need to analyze your product and the problems it solves, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 846.46,
+      "end": 851.58,
+      "speaker": "Presenter",
+      "text": "So take a look at your product and think about all the things that it does that is unique, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 851.72,
+      "end": 856.42,
+      "speaker": "Presenter",
+      "text": "Any new mechanisms that you have. So look at all the mechanisms that you have on your product,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 856.92,
+      "end": 859.56,
+      "speaker": "Presenter",
+      "text": "and then from there look at all the problems that it solves.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 859.94,
+      "end": 863.1,
+      "speaker": "Presenter",
+      "text": "So, for example, for one of our clients that sells a hair dryer,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 863.58,
+      "end": 869.62,
+      "speaker": "Presenter",
+      "text": "it has a a few different mechanisms of, you know, qu- like low sound. So it's a it's a very quiet blow dryer.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 869.82,
+      "end": 872.62,
+      "speaker": "Presenter",
+      "text": "It has a light ring on it that tells you what the heat is.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 872.76,
+      "end": 876.52,
+      "speaker": "Presenter",
+      "text": "It has ion technology, which helps solve frizz.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 876.82,
+      "end": 881.94,
+      "speaker": "Presenter",
+      "text": "So there's a few different mechanisms there, and it solves a few different problems of, you know, having frizzy hair,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 881.94,
+      "end": 887.82,
+      "speaker": "Presenter",
+      "text": "or, you know, taking forever to drive your hair or your or dry your hair, or having a hair dryer that's just like screeching loud.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 888.0,
+      "end": 891.12,
+      "speaker": "Presenter",
+      "text": "So there's a few different problems that it solves, but the most important thing is,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 891.22,
+      "end": 896.58,
+      "speaker": "Presenter",
+      "text": "is you need to then look at the market and identify what all of the competitors are selling.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 896.82,
+      "end": 900.04,
+      "speaker": "Presenter",
+      "text": "So look at all the different competitors that are selling similar products to you,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 900.38,
+      "end": 905.48,
+      "speaker": "Presenter",
+      "text": "and then on top of that, look at all of the other solutions that are available, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 905.56,
+      "end": 910.04,
+      "speaker": "Presenter",
+      "text": "So you want to identify all the other businesses solving the same problem.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 910.34,
+      "end": 914.06,
+      "speaker": "Presenter",
+      "text": "So to give you an example, cuz the fitness industry is just very easy for everyone to understand,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 914.48,
+      "end": 919.84,
+      "speaker": "Presenter",
+      "text": "if I wanted to lose weight, I could go get, you know, a a gym membership and start working out.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 920.1,
+      "end": 925.12,
+      "speaker": "Presenter",
+      "text": "Or I could go and hire a personal trainer and start working out, or I could just go get lipo surgery, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 925.28,
+      "end": 933.44,
+      "speaker": "Presenter",
+      "text": "There's a variety. They They all solve the same problems, but they're different vehicles and different ways to actually different solutions for those problems, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 933.68,
+      "end": 941.0,
+      "speaker": "Presenter",
+      "text": "But the key point here is, is that when you go through the research modules, which are coming up, you will experience market sophistication firsthand, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 941.7,
+      "end": 948.2,
+      "speaker": "Presenter",
+      "text": "So as you do research, one of the main goals as it says here, is to identify market sophistication and be in the seat of your potential customer.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 948.2,
+      "end": 955.86,
+      "speaker": "Presenter",
+      "text": "When we go in through When we go through and do research, our whole goal is to better understand market sophistication,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 956.52,
+      "end": 960.5,
+      "speaker": "Presenter",
+      "text": "market awareness levels and the desires and everything else that we're talking about here.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 960.66,
+      "end": 967.18,
+      "speaker": "Presenter",
+      "text": "But it's important that you know to look for this first before you go and do all the research, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 967.52,
+      "end": 976.4,
+      "speaker": "Presenter",
+      "text": "So now another really, really great way, and this is part of the research process as well, but one of my favorite new ways to actually understand your market sophistication,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 976.4,
+      "end": 985.38,
+      "speaker": "Presenter",
+      "text": "and most importantly, fancy, you know, language aside, it's just to understand what your potential customers are seeing, okay, is create a Foreplay board",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 985.38,
+      "end": 988.88,
+      "speaker": "Presenter",
+      "text": "of all your competitors and of all the different solutions.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 988.98,
+      "end": 996.1,
+      "speaker": "Presenter",
+      "text": "And while you're doing that research, you can take a look at essentially what all of your competitors are showing, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 996.4,
+      "end": 1000.24,
+      "speaker": "Presenter",
+      "text": "And this will give you that that t-shirt or that box analogy, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 1000.58,
+      "end": 1006.46,
+      "speaker": "Presenter",
+      "text": "And you're going to be able to see which one stands out to you. So which brands are actually doing a great job of separating themselves from the market,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 1006.46,
+      "end": 1009.74,
+      "speaker": "Presenter",
+      "text": "and what brands are just, you know, what what everybody's doing just to blend in.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 1009.74,
+      "end": 1014.0,
+      "speaker": "Presenter",
+      "text": "One of my favorite things to do is understand what all of my competitors are doing,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 1014.0,
+      "end": 1019.68,
+      "speaker": "Presenter",
+      "text": "and then basically go back through all of this and insert the black t-shirt into the market, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 1019.98,
+      "end": 1025.02,
+      "speaker": "Presenter",
+      "text": "That is my goal, and Foreplay is an incredibly visual way to actually go and do that,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 1025.02,
+      "end": 1031.16,
+      "speaker": "Presenter",
+      "text": "because you're going to have a board of all of your competitors' ads and all of your, you know, quote-unquote competitors that are solving similar problems,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 1031.16,
+      "end": 1036.68,
+      "speaker": "Presenter",
+      "text": "and you're going to be able to see what your potential customer sees on the ad level, which is extremely powerful.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 1036.68,
+      "end": 1039.9,
+      "speaker": "Presenter",
+      "text": "So that way you actually know how to stand out.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 1040.26,
+      "end": 1044.68,
+      "speaker": "Presenter",
+      "text": "So again, if you want to learn more about market sophistication, I end every single video with this.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 1044.68,
+      "end": 1049.98,
+      "speaker": "Presenter",
+      "text": "You know, if you want to figure out and dive deeper into it, you could purchase Breakthrough Advertising.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 1050.46,
+      "end": 1057.72,
+      "speaker": "Presenter",
+      "text": "Again, just to reinforce this, this book helped triple my business. So $150 to triple your business is really not that big of an investment.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 1058.18,
+      "end": 1062.26,
+      "speaker": "Presenter",
+      "text": "So again, if I haven't convinced you in the first two videos, definitely consider purchasing this book.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 1062.6,
+      "end": 1068.88,
+      "speaker": "Presenter",
+      "text": "The TL;DR is market sophistication is the market's overall experience and exposure to other solutions and products before you, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 1068.88,
+      "end": 1074.56,
+      "speaker": "Presenter",
+      "text": "You need to understand what your market is seeing in order for you to actually be successful.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 1074.58,
+      "end": 1081.9,
+      "speaker": "Presenter",
+      "text": "There are so many times where clients are like, \"Hey, I have this great ad idea!\" But they do zero research, and they launch their ad,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 1081.9,
+      "end": 1088.26,
+      "speaker": "Presenter",
+      "text": "and it doesn't work, and they don't understand why, and that's because they don't they they they haven't paid attention to the market.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 1088.26,
+      "end": 1092.36,
+      "speaker": "Presenter",
+      "text": "One of my favorite things to wrap this and bring this together and wrap this wrap this up here",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 1092.36,
+      "end": 1101.78,
+      "speaker": "Presenter",
+      "text": "is when one of our main selling props for our clients selling the hair dryer was fat-, you know, fast hair drying without heat damage. That was our big claim.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 1101.78,
+      "end": 1107.38,
+      "speaker": "Presenter",
+      "text": "And I went through and did research and found like seven of our competitor brands were all saying the same thing.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 1107.38,
+      "end": 1111.04,
+      "speaker": "Presenter",
+      "text": "They were all making the same claim of fast hair drying without heat damage.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 1111.04,
+      "end": 1118.04,
+      "speaker": "Presenter",
+      "text": "So when we were running ads saying fast hair drying without heat damage, we're like, \"Oh, that's great. That's a great hook. That's a great messaging, that's we're going to crush it.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 1118.04,
+      "end": 1123.54,
+      "speaker": "Presenter",
+      "text": "They just failed, and we didn't understand why. But we did the research to figure out how sophisticated the market was,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 1123.54,
+      "end": 1127.12,
+      "speaker": "Presenter",
+      "text": "and I was like, \"Oh! That's because that's what every other person is saying.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 1127.4,
+      "end": 1133.8,
+      "speaker": "Presenter",
+      "text": "Okay? So you need to be on top of this, and this is something that's constantly ongoing. And it it does take a lot of skill to master.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 1133.8,
+      "end": 1142.74,
+      "speaker": "Presenter",
+      "text": "But again, if you need to go back and watch this video, I definitely would re- recommend it. And then of course, couldn't recommend any more getting Breakthrough Advertising to dive deeper into this yourself.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 1142.74,
+      "end": 1146.8,
+      "speaker": "Presenter",
+      "text": "But that is market sophistication, and hopefully that all makes sense.",
+      "chunk": 3,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 76.8,
+      "end": 81.0,
+      "label": "pause"
+    },
+    {
+      "start": 90.3,
+      "end": 91.9,
+      "label": "laughter"
+    },
+    {
+      "start": 117.6,
+      "end": 119.8,
+      "label": "pause"
+    },
+    {
+      "start": 161.8,
+      "end": 164.6,
+      "label": "pause"
+    },
+    {
+      "start": 187.4,
+      "end": 190.2,
+      "label": "pause"
+    },
+    {
+      "start": 715.02,
+      "end": 740.42,
+      "label": "video playback (Rolex commercial without audible sound)"
+    }
+  ]
+}

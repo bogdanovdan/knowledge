@@ -1,0 +1,63 @@
+{
+  "lesson": {
+    "num": 27,
+    "id": "027-understanding-your-product-part-1",
+    "title": "Understanding Your Product - Part 1",
+    "video": "27. Understanding Your Product - Part 1 Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T17:31:38-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "854x480 (native)",
+  "candidates_reviewed": 11,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 55.022,
+      "time": "00:00:55",
+      "frame": "frames/027_00-00-55.png",
+      "category": "document",
+      "title": "Understanding Your Product and The Two-Product Reality",
+      "on_screen": "Avatar Mastery for Shopify Brands: The Meta-First Framework\n\nUnderstanding Your Product:\nWhy You Need to Understand Your Product Before Channeling Desires & Creating Avatars\n\nSimple Truth: You can't sell what you don't understand.\nThe Problem: Most people think they know their product. They don't.\nThe Foundation: Every product is actually TWO products - what you deliver vs. what it DOES for people.\nKey Rule: People don't buy your physical product. They buy what your product DOES for them.\nMost Common Mistake: People try to target desires that their product can NOT live up to. And therefore target people who will NOT believe their claims. This leads to confusion on why their ads aren't working, ALTHOUGH the desire clearly exists.\n9 Figure Tip: A lot of the biggest brands start with the customer and the desire they have. Then optimize a product around that. (Hexclad, Ridge, Grüns, etc.)\n\nThe Two-Product Reality\nPhysical Product\n• The materials, ingredients, and components you deliver\n• Size, weight, construction, specifications\n• What you can touch, measure, and manufacture\n\nFunctional Product\n• What your product DOES for people\n• The series of benefits that solve problems or fulfill desires\n• The performances, results, and experiences it creates\n\nProduct Mechanisms",
+      "not_in_transcript": "Document title: \"Avatar Mastery for Shopify Brands: The Meta-First Framework\". Exact phrasing of bullet points under Physical Product and Functional Product.",
+      "legibility": "clear",
+      "candidate_id": "F003",
+      "drive_url": "https://drive.google.com/file/d/1-R91wsuCjRqEqZHTENI6st1p5uBbdDdU/view?usp=drivesdk"
+    },
+    {
+      "t": 855.021,
+      "time": "00:14:15",
+      "frame": "frames/027_00-14-15.png",
+      "category": "document",
+      "title": "Product Mechanisms and Why This Matters for Avatar Creation",
+      "on_screen": "Product Mechanisms\nWhat is a Product Mechanism? The specific WAY your product creates its results. Not what it does, but HOW it does it.\n\nWhy Mechanisms Matter:\n• Mechanisms create believability in sophisticated markets\n• New mechanisms give people NEW hope (even in saturated categories)\n• Mechanisms differentiate you from \"everything else they've tried\"\n\nExample:\n• Bad: \"Our supplement helps you lose weight.\"\n• Good: \"Peptide 47d blocks sugar absorption so your body burns fat instead.\"\nThe mechanism (blocks sugar absorption) makes it believable.\n\nEugene would say: \"Mechanisms make people believe THIS will work when everything else failed.\"\n\nWhy This Matters for Avatar Creation\nWithout clear performances: You channel desires that your product can NOT live up to\nRemember: Every performance your product delivers is a potential avenue to a different avatar within your market. The key is choosing which performance (and therefore which avatar) to focus on first.\n\nThe Bottom Line\nBefore you worry about:\n• Who to target\n• What to say\n• How to scale",
+      "not_in_transcript": "Eugene Schwartz quote reference: \"Eugene would say: 'Mechanisms make people believe THIS will work when everything else failed.'\"",
+      "legibility": "clear",
+      "candidate_id": "F008",
+      "drive_url": "https://drive.google.com/file/d/1-R91wsuCjRqEqZHTENI6st1p5uBbdDdU/view?usp=drivesdk"
+    },
+    {
+      "t": 905.004,
+      "time": "00:15:05",
+      "frame": "frames/027_00-15-05.png",
+      "category": "document",
+      "title": "The Bottom Line for Avatar Creation",
+      "on_screen": "Why This Matters for Avatar Creation\nWithout clear performances: You channel desires that your product can NOT live up to\nRemember: Every performance your product delivers is a potential avenue to a different avatar within your market. The key is choosing which performance (and therefore which avatar) to focus on first.\n\nThe Bottom Line\nBefore you worry about:\n• Who to target\n• What to say\n• How to scale\n[Highlighted green] Master what your product is and what it does.\nEverything else becomes easier when you nail this foundation.",
+      "not_in_transcript": "\"Everything else becomes easier when you nail this foundation.\"",
+      "legibility": "clear",
+      "candidate_id": "F009",
+      "drive_url": "https://drive.google.com/file/d/1-R91wsuCjRqEqZHTENI6st1p5uBbdDdU/view?usp=drivesdk"
+    },
+    {
+      "t": 935.001,
+      "time": "00:15:35",
+      "frame": "frames/027_00-15-35.png",
+      "category": "software_demo",
+      "title": "Document Outline Tabs for Avatar Mastery Framework",
+      "on_screen": "Left sidebar (Document tabs):\n• Step 1: Product [expanded]\n  - Template\n  - Example 1 - Blin...\n  - Example 2 - Collagen (...\n  - Example 3 - Dog (Man...\n• Step 2: Desires\n• Step 3: Market Sophistic...\n• Step 4: Avatars\n• Step 5: Angle\n• AI Prompts",
+      "not_in_transcript": "Document tabs structure and upcoming module steps: \"Step 1: Product (Template, Example 1 - Blin..., Example 2 - Collagen, Example 3 - Dog)\", \"Step 2: Desires\", \"Step 3: Market Sophistic...\", \"Step 4: Avatars\", \"Step 5: Angle\", \"AI Prompts\".",
+      "legibility": "clear",
+      "candidate_id": "F011",
+      "drive_url": "https://drive.google.com/file/d/1-R91wsuCjRqEqZHTENI6st1p5uBbdDdU/view?usp=drivesdk"
+    }
+  ]
+}

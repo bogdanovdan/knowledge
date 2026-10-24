@@ -1,0 +1,653 @@
+{
+  "lesson": {
+    "num": 11,
+    "id": "011-why-you-actually-never-fail",
+    "title": "Why you actually never fail",
+    "section": "🧘 Origins Mindset",
+    "video": "11. Why you actually never fail Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 310.336,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=f106c2729c8a44209be46affcc67b386"
+  },
+  "generated_at": "2026-10-06T20:24:06-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (93% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 1420,
+    "matched_tokens": 1318,
+    "match_ratio": 0.928,
+    "segments_aligned": 64,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Played audio",
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 310.336,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 273.4,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.74,
+      "speaker": "Presenter",
+      "text": "All right. In this video, we're going to be talking about why you actually never fail,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 4.84,
+      "end": 7.58,
+      "speaker": "Presenter",
+      "text": "kay? And to show you an example of this,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 7.96,
+      "end": 14.8,
+      "speaker": "Presenter",
+      "text": "I'm going to play a video. And I want you guys just to watch this. This is actually by a guy in Skool, which is pretty cool. This guy is School of Hard Knocks. I believe he has a Skool community.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 15.12,
+      "end": 19.66,
+      "speaker": "Presenter",
+      "text": "I'm going to play this video. I want you guys to listen to it, and then we're going to talk about this after.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 19.66,
+      "end": 22.78,
+      "speaker": "Played audio",
+      "text": "today. Michael Rubin, for those that don't know, how did you make your billions?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 23.04,
+      "end": 26.78,
+      "speaker": "Played audio",
+      "text": "Fanatics, man. I started Fanatics back in 2011, been building, grinding every day.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 26.88,
+      "end": 28.7,
+      "speaker": "Played audio",
+      "text": "How much is your company worth today? $25 billion.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 29.16,
+      "end": 32.88,
+      "speaker": "Played audio",
+      "text": "If you lost everything tomorrow and had to rebuild a billion-dollar company with three moves, what would they be?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 32.96,
+      "end": 38.52,
+      "speaker": "Played audio",
+      "text": "First of all, I would love that. That would be so fun, and people are going to say, \"He's full of shit. I don't fucking believe him.\" I'm telling you,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 38.66,
+      "end": 41.56,
+      "speaker": "Played audio",
+      "text": "that's light work for me. I would absolutely love it. So, what would you do? Give me the game.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 41.56,
+      "end": 49.24,
+      "speaker": "Played audio",
+      "text": "So, so first of all, I'll tell you right now. I asked this question to people all the time. I say, this is people that are really well off. If you could give up everything you had,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 49.24,
+      "end": 55.44,
+      "speaker": "Played audio",
+      "text": "100% of your money, everything to get 10 years back in your life, what would you do? And more people told me they would never do it. I think they're all idiots,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 55.56,
+      "end": 60.82,
+      "speaker": "Played audio",
+      "text": "and I don't know why they think that way. I would give up everything I had right now to be 10 years younger, to be 42 versus 52.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 61.06,
+      "end": 65.0,
+      "speaker": "Played audio",
+      "text": "I'm fucking in. What would I do? I'd be a non-stop studier. I'd find a void in the market,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 65.0,
+      "end": 70.76,
+      "speaker": "Played audio",
+      "text": "and then as soon as I found that void, I would sprint at it. And what I would make sure I did is got the right people with me. Don't be scared to ask for help, like so many people",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 70.76,
+      "end": 77.9,
+      "speaker": "Played audio",
+      "text": "are scared to ask for help. I'm not. Why do you think so many people are terrified to ask for help? My belief is most people are actually scared to fail.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 77.9,
+      "end": 81.26,
+      "speaker": "Played audio",
+      "text": "I like to fail because each failure leads to the next success.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 81.26,
+      "end": 86.92,
+      "speaker": "Played audio",
+      "text": "And that's not like bullshit. That is factually the way it works. I can go through and think about when I ran out of money at 15 years old, I had",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 86.92,
+      "end": 93.46,
+      "speaker": "Played audio",
+      "text": "creditors knocking at my door every day before I'd go to high school. And then, 6 months later, I get myself in the closeout business, and a few years later, I'm doing $100 million,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 93.8,
+      "end": 99.42,
+      "speaker": "Played audio",
+      "text": "making $10 million a year as a 21-year-old. So, like if you're scared to fail, you have no chance of ever being successful.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 99.42,
+      "end": 108.0,
+      "speaker": "Played audio",
+      "text": "If you died tomorrow, and you had one more guiding principle to leave with the younger generation, what would that be? Love doing what you do. You can see how passionate I am, how much I love this. I'm the same way",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 108.0,
+      "end": 112.54,
+      "speaker": "Played audio",
+      "text": "I've been since when I was that eight-year-old little kid selling trading cards. Like, you get to live one life,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 112.72,
+      "end": 117.16,
+      "speaker": "Played audio",
+      "text": "got to love every fucking minute. You've got incredible advice, my friend. Thank you so much for your time. Appreciate you, man. Absolutely.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 117.94,
+      "end": 120.48,
+      "speaker": "Presenter",
+      "text": "All right, guys. So, I got chills watching that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 120.88,
+      "end": 125.88,
+      "speaker": "Presenter",
+      "text": "That's Michael Rubin. This guy is is literally a billionaire, okay? And",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 125.88,
+      "end": 129.1,
+      "speaker": "Presenter",
+      "text": "obviously, I want to I want to break that down and talk about that in a second, but",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 129.1,
+      "end": 132.62,
+      "speaker": "Presenter",
+      "text": "the big thing that he talked about is like failing is just actually getting you closer to success.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 133.68,
+      "end": 141.72,
+      "speaker": "Presenter",
+      "text": "And obviously, like, let's be real, that guy's a bit of a psycho. Like, he's like, \"I'd give up billions of dollars to, to be 10 years younger.\" That's",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 141.94,
+      "end": 148.56,
+      "speaker": "Presenter",
+      "text": "I mean, he is he is an animal. But here's the thing, guys. Like, even if you can just learn from someone like that who's literally willing to give up billions of dollars",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 148.56,
+      "end": 150.22,
+      "speaker": "Presenter",
+      "text": "to start again tomorrow, like, like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 150.72,
+      "end": 155.22,
+      "speaker": "Presenter",
+      "text": "that's crazy. Like, he just loves it, and you can tell that he's passionate about it, he loves it. And so",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 155.22,
+      "end": 159.56,
+      "speaker": "Presenter",
+      "text": "there's obviously a lot to take away from that video, but the one thing that I want you guys to focus on",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 159.56,
+      "end": 163.18,
+      "speaker": "Presenter",
+      "text": "is just what he said there, is that he loves to fail.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 163.64,
+      "end": 165.54,
+      "speaker": "Presenter",
+      "text": "Because every single time that he fails,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 166.38,
+      "end": 172.68,
+      "speaker": "Presenter",
+      "text": "he's like, \"Okay. Check that off. I screwed that\" or like, \"I screwed that up,\" or, you know, \"All right, that one's out of the way. I'm one step closer now,\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 172.68,
+      "end": 178.82,
+      "speaker": "Presenter",
+      "text": "right? And this mindset is something that I I wish I saw that video when I was a lot younger. And",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 178.82,
+      "end": 182.48,
+      "speaker": "Presenter",
+      "text": "again, I understand it's like, \"Oh, yeah, easy for him to say. He's a billionaire, right?\" But it's like, at the end of the day,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 182.72,
+      "end": 190.08,
+      "speaker": "Presenter",
+      "text": "you know, I know most people weren't selling trading cards at eight years eight years old, or doing $100 million when they're 21. You guys have to understand, this guy's like an old-school entrepreneur, which is",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 190.08,
+      "end": 194.12,
+      "speaker": "Presenter",
+      "text": "crazy, what he was able to do. But my point is is like, even if, guys,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 194.74,
+      "end": 198.28,
+      "speaker": "Presenter",
+      "text": "you're 10% of my you're you're 10% of Mr. Rubin,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 198.78,
+      "end": 202.68,
+      "speaker": "Presenter",
+      "text": "you can make $10 million a year, like just being 10% as intense.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 203.02,
+      "end": 205.6,
+      "speaker": "Presenter",
+      "text": "So, like if he's, you know, 100 out of 100, and just like psycho,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 206.72,
+      "end": 211.44,
+      "speaker": "Presenter",
+      "text": "like, guy is just built and wired different, if you can just embrace 10% of that,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 211.8,
+      "end": 215.8,
+      "speaker": "Presenter",
+      "text": "I mean, you know what I mean? Like, you don't need to be as hardcore as him, but",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 215.8,
+      "end": 222.54,
+      "speaker": "Presenter",
+      "text": "you need to listen to what he's saying. Like, this guy is a literal billionaire telling you he loves to fail.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 223.48,
+      "end": 226.92,
+      "speaker": "Presenter",
+      "text": "So, what does that tell you? So, next time you guys make a losing ad,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 227.32,
+      "end": 231.7,
+      "speaker": "Presenter",
+      "text": "next time you guys test an offer and it flops, next time you guys test a product and it doesn't work,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 231.78,
+      "end": 235.62,
+      "speaker": "Presenter",
+      "text": "next time you build a a landing page and it does absolutely nothing, guess what?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 236.14,
+      "end": 237.8,
+      "speaker": "Presenter",
+      "text": "You're one step closer. That's all it is,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 238.1,
+      "end": 241.72,
+      "speaker": "Presenter",
+      "text": "right? And you just have to be willing. I feel like the most successful people",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 241.72,
+      "end": 245.8,
+      "speaker": "Presenter",
+      "text": "are just willing to eat shit and fail for like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 245.8,
+      "end": 251.28,
+      "speaker": "Presenter",
+      "text": "way longer than most people. Now, that doesn't mean you should expect that. It doesn't mean you should be you should expect to fail,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 251.66,
+      "end": 254.46,
+      "speaker": "Presenter",
+      "text": "but it just means as long as you're completing feedback loops, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 254.72,
+      "end": 262.0,
+      "speaker": "Presenter",
+      "text": "And you're like, \"Okay, I've got it. Like, I I think I know why. Now, I'm a step closer. Now, I'm going to go a step in this direction,\" you will get closer,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 262.48,
+      "end": 266.58,
+      "speaker": "Presenter",
+      "text": "okay? So, embrace it. I hope you guys enjoyed that video. It's just a quick little video to kind of talk about",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 266.58,
+      "end": 274.8,
+      "speaker": "Presenter",
+      "text": "the importance of like failing is not really a thing. Failing is only failing if you don't do anything about it, right? If you make a losing ad and then you don't do anything about it,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 275.0,
+      "end": 277.94,
+      "speaker": "Presenter",
+      "text": "yeah, you failed, right? Or if you try this e-com thing,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 277.94,
+      "end": 282.38,
+      "speaker": "Presenter",
+      "text": "and you push, and then you just give up, yeah, you failed. But if you just keep going, it's",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 282.38,
+      "end": 290.48,
+      "speaker": "Presenter",
+      "text": "you can't fail, you know what I mean? It's not like a It's not like an assessment from, you know, your English class, or, you know, a math quiz, or something like that. Like, you can't fail it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 290.48,
+      "end": 291.56,
+      "speaker": "Presenter",
+      "text": "Like, you just keep going,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 292.28,
+      "end": 297.16,
+      "speaker": "Presenter",
+      "text": "right? And so, I loved that video. It's a very powerful video, and I just had to sit back and watch it all.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 297.16,
+      "end": 299.9,
+      "speaker": "Presenter",
+      "text": "And there's It's obviously linked there for you guys if you want to watch it on your own. But,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 299.9,
+      "end": 306.54,
+      "speaker": "Presenter",
+      "text": "um you know, just incredible stuff, and uh just very important that I think you guys embrace this mindset as well of like you just",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 306.54,
+      "end": 310.24,
+      "speaker": "Presenter",
+      "text": "you actually can't fail. You just get one step closer to where you want to go.",
+      "chunk": 0,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 123.9,
+      "end": 125.4,
+      "label": "chuckle"
+    },
+    {
+      "start": 138.7,
+      "end": 140.9,
+      "label": "laughter"
+    },
+    {
+      "start": 206.0,
+      "end": 207.7,
+      "label": "laughter"
+    }
+  ]
+}

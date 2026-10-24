@@ -1,0 +1,402 @@
+{
+  "lesson": {
+    "num": 61,
+    "id": "061-what-winning-video-ads-look-like-9-examples",
+    "title": "What winning video ads look like (9 examples)",
+    "section": "📢 How To Create Ads",
+    "video": "61. What winning video ads look like (9 examples) Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 251.157,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=415ab6c362df44efb4376647e1d966c3"
+  },
+  "generated_at": "2026-10-06T20:24:08-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (96% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 1049,
+    "matched_tokens": 1009,
+    "match_ratio": 0.962,
+    "segments_aligned": 38,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 251.157,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 245.1,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.08,
+      "speaker": "Presenter",
+      "text": "All right Origins crew, we are back. And as you can see by the title of this video, we're going to talk about what winning video ads actually look like. And so",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 7.42,
+      "end": 13.7,
+      "speaker": "Presenter",
+      "text": "jumping into the screen here, this is actually going to be part of the feedback loops modules that you guys are going to see down below.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 14.04,
+      "end": 20.7,
+      "speaker": "Presenter",
+      "text": "Um but I wanted to get this over to you as soon as possible to help you guys understand what winning video ads look like, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 20.88,
+      "end": 26.68,
+      "speaker": "Presenter",
+      "text": "And so, these are all ads that have been validated by me. Um I do have the strategies of how we actually do this",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 26.68,
+      "end": 33.48,
+      "speaker": "Presenter",
+      "text": "and how I find these ads and how I know that they're winning ads um that is down below. I'm not going to talk too much about that. But the most important thing is",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 33.48,
+      "end": 40.48,
+      "speaker": "Presenter",
+      "text": "you as a marketer that right now, you know, most of you guys aren't doing above 100k per month, and so you need to understand",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 40.48,
+      "end": 46.82,
+      "speaker": "Presenter",
+      "text": "what ads look like that are actual winners, cuz most of you don't even have winning ads in your account. You might be looking at an ad",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 46.82,
+      "end": 53.92,
+      "speaker": "Presenter",
+      "text": "that is spending $100 a day or $200 a day, and it's like barely profitable for you. And so in order for you to get to the next stage and actually to start scaling,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 54.34,
+      "end": 58.78,
+      "speaker": "Presenter",
+      "text": "you need to understand what good ads look like. And so you should be studying",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 58.78,
+      "end": 64.8,
+      "speaker": "Presenter",
+      "text": "and trying to complete your own learnings on this ad, not from like, \"Oh, they use the hook of",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 64.8,
+      "end": 72.58,
+      "speaker": "Presenter",
+      "text": "dental powder cleans dog teeth fast, right? They use emojis,\" or \"I need to cut some kind of powder,\" whatever it like. You need to go deeper, and",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 72.58,
+      "end": 79.82,
+      "speaker": "Presenter",
+      "text": "this is where, in the upcoming modules, I'm going to talk about how we're going to process learnings, so you guys are going to watch me do this live. But the most important thing for you to understand",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 79.82,
+      "end": 87.02,
+      "speaker": "Presenter",
+      "text": "is basically the strategies, and there's also copy here as well that you can click into. And if you actually click this link right here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 87.02,
+      "end": 93.76,
+      "speaker": "Presenter",
+      "text": "it will take you directly to the ad as well where you can read comments, you can see the full thing, you can click \"Learn More\" and",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 93.76,
+      "end": 98.82,
+      "speaker": "Presenter",
+      "text": "go to their landing pages and check out what their landing page looks like, right? Look at this, \"If your dog's breath makes your eyes water,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 98.82,
+      "end": 105.92,
+      "speaker": "Presenter",
+      "text": "try this for 30 seconds daily and start enjoying loving kisses and licks again. No toothbrush needed.\" Very interesting,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 106.32,
+      "end": 112.1,
+      "speaker": "Presenter",
+      "text": "right? Um so new mechanism going in, you start to learn, and you can see what a high-level funnel looks like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 112.1,
+      "end": 117.46,
+      "speaker": "Presenter",
+      "text": "from a brand that is crushing it on Facebook Ads, okay? There's another one here, selling with negative",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 117.46,
+      "end": 125.6,
+      "speaker": "Presenter",
+      "text": "curiosity. Uh another one over here using ease to sell. Uh I love this one with a specific avatar pain point. You guys will be able to watch this as well",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 125.78,
+      "end": 131.46,
+      "speaker": "Presenter",
+      "text": "uh where it talks about your toes will never be cold again. Uh we get into le- leading with new mechanisms,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 132.1,
+      "end": 138.56,
+      "speaker": "Presenter",
+      "text": "uh stopped using common mechanisms. Uh here we have selling with negative curiosity again, five reasons for desire",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 138.56,
+      "end": 144.94,
+      "speaker": "Presenter",
+      "text": "visual, very subtle thing that a lot of you guys wouldn't know, but big part of why this hook works. Well, there's a girl that comes",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 144.94,
+      "end": 150.92,
+      "speaker": "Presenter",
+      "text": "up to this guy and grabs, you know, grabs her arm, right? It's like, \"Oh, what the hell? Like this girl just hit on him,\" right? That",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 150.92,
+      "end": 158.02,
+      "speaker": "Presenter",
+      "text": "is a desire that obviously a lot of guys have. Another one here as well, which is again using authority to shift beliefs. Now what I want you to notice here, and we're going to get",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 158.02,
+      "end": 164.52,
+      "speaker": "Presenter",
+      "text": "into this in the modules down below where I explain market awareness levels, is these are all- are all labeled correctly where we have product aware,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 164.92,
+      "end": 171.16,
+      "speaker": "Presenter",
+      "text": "okay? So dental powder cleans dog teeth fast, although dental- dental powder might not be something that a lot of people are aware of.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 171.16,
+      "end": 177.06,
+      "speaker": "Presenter",
+      "text": "Um some people might be just aware of like solutions in general, so we could potentially say this is more solution aware",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 177.06,
+      "end": 184.44,
+      "speaker": "Presenter",
+      "text": "uh cuz this might be a bit of a newer mechanism, but the end of the day, you'll be able to see the awareness levels that are associated with this as well,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 184.44,
+      "end": 190.62,
+      "speaker": "Presenter",
+      "text": "okay? So from problem, to product aware, to most aware. Um at the end of the day, I'm basically going to be",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 190.62,
+      "end": 197.22,
+      "speaker": "Presenter",
+      "text": "walking you guys through what market awareness levels mean, and for those of you that already know it, then great. Um but this is something where you guys",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 197.22,
+      "end": 203.36,
+      "speaker": "Presenter",
+      "text": "will actually have a list of video ads. I think for video ads, it's even more important because everybody can find image ads all over the place, but",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 203.48,
+      "end": 210.6,
+      "speaker": "Presenter",
+      "text": "finding winning video ads is very hard, and so that's why I have this document. I believe there's about nine videos in here for you guys to be able to study,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 210.84,
+      "end": 217.08,
+      "speaker": "Presenter",
+      "text": "and again, these are all validated ads that I've gone through, looking at a few different brands. There's tons of other winning video ads out there, but I felt like these have",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 217.08,
+      "end": 222.82,
+      "speaker": "Presenter",
+      "text": "uh pretty solid diversity to help correct your lens cuz a lot of you guys might be looking at it like, \"Wow, this is a really ugly ad.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 222.82,
+      "end": 230.3,
+      "speaker": "Presenter",
+      "text": "Like why would someone make this ad?\" It's like, \"Well, guess what? This is what works.\" And so you're going to have to change your lens of what you think a winning ad is. So,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 230.3,
+      "end": 237.56,
+      "speaker": "Presenter",
+      "text": "this is winning video ads doc for you guys. Please, please, please study these, and then again, you can use this to come back and, again, process",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 237.56,
+      "end": 243.64,
+      "speaker": "Presenter",
+      "text": "your own learnings as well. I will process learnings on these live for you guys to see what it actually looks like, but I want you guys to understand",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 243.64,
+      "end": 251.0,
+      "speaker": "Presenter",
+      "text": "that in order for you to write great video ads, you have to know what a great video ad looks like. And so that is step one before actually getting into and writing a video ad.",
+      "chunk": 0,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": []
+}

@@ -1,0 +1,39 @@
+{
+  "lesson": {
+    "num": 71,
+    "id": "071-set-up-warm-up-your-fb-profile",
+    "title": "Set Up & Warm Up Your FB Profile",
+    "video": "71. Set Up & Warm Up Your FB Profile Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T19:25:01-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "724x480 (native)",
+  "candidates_reviewed": 4,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 19.967,
+      "time": "00:00:20",
+      "frame": "frames/071_00-00-20.png",
+      "category": "software_demo",
+      "title": "Facebook feed browsing during profile warmup demo",
+      "on_screen": "Facebook news feed view showing standard navigation and a post from HBO Max with photos and text '#Task force to task fam.'",
+      "not_in_transcript": "Left sidebar shortcuts: 'BM Backup for origins', 'Professional dashboard', 'Ads Manager', 'Ad Center', 'Barestep', 'Guard Blinds', 'ProductiFix', 'Serenity Fan'. Sponsored sidebar ads visible.",
+      "legibility": "clear",
+      "candidate_id": "F001",
+      "drive_url": "https://drive.google.com/file/d/1Bo83QwiOwFVMQ2_WmQ35Y32KiWoY4-tG/view?usp=drivesdk"
+    },
+    {
+      "t": 24.967,
+      "time": "00:00:25",
+      "frame": "frames/071_00-00-25.png",
+      "category": "software_demo",
+      "title": "Engaging and commenting on a Facebook post",
+      "on_screen": "Pop-up modal titled 'HBO Max's Post' with a comments section showing user commenting 'Nice' under 'BM Backup for origins' account.",
+      "not_in_transcript": "Modal interface elements, comment input field 'Comment as BM Backup for origins', other user comments visible.",
+      "legibility": "clear",
+      "candidate_id": "F002",
+      "drive_url": "https://drive.google.com/file/d/1Bo83QwiOwFVMQ2_WmQ35Y32KiWoY4-tG/view?usp=drivesdk"
+    }
+  ]
+}

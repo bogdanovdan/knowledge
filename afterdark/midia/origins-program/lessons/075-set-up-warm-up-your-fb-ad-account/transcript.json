@@ -1,0 +1,1255 @@
+{
+  "lesson": {
+    "num": 75,
+    "id": "075-set-up-warm-up-your-fb-ad-account",
+    "title": "Set Up & Warm Up Your FB Ad Account",
+    "section": "🛡️ How To Set Up FB Assets",
+    "video": "75. Set Up & Warm Up Your FB Ad Account Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 685.909,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=007799d9eb934ae18b7c1387733be458"
+  },
+  "generated_at": "2026-10-06T20:24:09-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (78% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 2244,
+    "matched_tokens": 1743,
+    "match_ratio": 0.777,
+    "segments_aligned": 116,
+    "segments_partly_aligned": 10,
+    "segments_interpolated": 1,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 264.075,
+      "end_boundary": "quiet",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.976,
+      "wpm": 206.1,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 264.075,
+      "end": 519.2,
+      "end_boundary": "quiet",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.927,
+      "wpm": 153.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 519.2,
+      "end": 685.909,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.977,
+      "wpm": 203.3,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.04,
+      "end": 3.78,
+      "speaker": "Presenter",
+      "text": "All right. So, now we're getting into how to set up and warm up the ad accounts.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 4.58,
+      "end": 8.16,
+      "speaker": "Presenter",
+      "text": "So, once you get into the Business Manager side, on ad accounts on the left here, you'll see this.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 8.88,
+      "end": 9.92,
+      "speaker": "Presenter",
+      "text": "You can just click on Add,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 10.2,
+      "end": 12.64,
+      "speaker": "Presenter",
+      "text": "click on Create a new ad account.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 13.1,
+      "end": 18.32,
+      "speaker": "Presenter",
+      "text": "So, with the time zone, ad account name, it doesn't matter. You can put whatever you want. Some people like to put funny names, Chat Scary Larry.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 18.32,
+      "end": 24.6,
+      "speaker": "Presenter",
+      "text": "Time zone, what you should do here is you should put the time zone that you mainly plan to sell to.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 24.6,
+      "end": 31.06,
+      "speaker": "Presenter",
+      "text": "If you're planning to sell to the US, or worldwide, then put it to that time zone, not your local time zone.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 31.38,
+      "end": 36.98,
+      "speaker": "Presenter",
+      "text": "Me, for example, I'm in Malaysia. I'm not going to put it to my local time zone. I'm going to put it to wherever I'm going to sell to, it's the US.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 37.44,
+      "end": 43.34,
+      "speaker": "Presenter",
+      "text": "Let's say, US has a lot of time zones, right? So, pick either one, doesn't really matter too much. I'm going to put PST, Los Angeles.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 44.14,
+      "end": 50.0,
+      "speaker": "Presenter",
+      "text": "Currency, make sure it's the currency that you're mainly going to transact in, as in, pay your bills with.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 50.72,
+      "end": 59.6,
+      "speaker": "Presenter",
+      "text": "The reason why this is important: if let's say you are doing USD in ad account, but you're paying in let's say Canadian dollars,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 60.04,
+      "end": 66.62,
+      "speaker": "Presenter",
+      "text": "Facebook actually charges you a transaction fee for it. They don't tell you, but I think it's maybe one to two percent.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 66.62,
+      "end": 75.46,
+      "speaker": "Presenter",
+      "text": "So, if you want to save on that, whatever your bank account is going to sell in, let's say your bank is set up in Canada, you can set it to Canadian dollars instead of just USD.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 76.12,
+      "end": 81.34,
+      "speaker": "Presenter",
+      "text": "Of course, some people like to keep it to USD, they're still going to pay that one to two percent just to keep everything more simple.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 81.66,
+      "end": 88.56,
+      "speaker": "Presenter",
+      "text": "For me, if I use my Malaysian bank account, it's a bit hard to know whether USD or Malaysia, what's the actual number behind it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 89.26,
+      "end": 92.24,
+      "speaker": "Presenter",
+      "text": "So, USD could make sense. Just something for you to bear in mind.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 92.88,
+      "end": 101.44,
+      "speaker": "Presenter",
+      "text": "And the thing with this is you're going to set it up now because after you set up an ad account with this time zone, currency, and name, you can't change it after.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 102.1,
+      "end": 108.3,
+      "speaker": "Presenter",
+      "text": "So, let's say I'm going to put this. You can just put it, account will be used for my business, then just confirm this.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 109.18,
+      "end": 112.12,
+      "speaker": "Presenter",
+      "text": "So, this is set up. I'm going to teach how to warm, warm it up afterwards.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 113.84,
+      "end": 124.04,
+      "speaker": "Presenter",
+      "text": "So, after it's created, it's going to ask you to add payment info. You don't need to do that right now. Usually, it's best for you to create, to, to put in the payment info within the Business Manager instead of straight to the ad account.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 125.0,
+      "end": 131.06,
+      "speaker": "Presenter",
+      "text": "Usually, it causes less bans, I can't tell you why exactly. In the Business Manager, over here, just click on Billing and payments.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 133.52,
+      "end": 135.76,
+      "speaker": "Presenter",
+      "text": "And then, you'll see",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 135.76,
+      "end": 139.2,
+      "speaker": "Presenter",
+      "text": "you can, under payment methods,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 140.32,
+      "end": 146.72,
+      "speaker": "Presenter",
+      "text": "let's say mine's empty right now, that's where you can add your business payment method, you know, putting your card details, whatever it may be, assigned to myself.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 149.58,
+      "end": 157.3,
+      "speaker": "Presenter",
+      "text": "All right. Then, you can put in the card details. Obviously, put it in, let's say, if my company is set up in US, I'm going to put it in the US.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 158.82,
+      "end": 165.34,
+      "speaker": "Presenter",
+      "text": "Let's see, United States. Then, click Next. Then, of course, set up your card number and everything.",
+      "chunk": 0,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 27,
+      "start": 165.7,
+      "end": 172.24,
+      "speaker": "Presenter",
+      "text": "After it has been added already, now we go back to the ad account setup. So, you can just click on Ads Manager now.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 174.96,
+      "end": 177.5,
+      "speaker": "Presenter",
+      "text": "Okay, great. Now you're in the ad account, there's a few things you need to do.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 178.14,
+      "end": 183.54,
+      "speaker": "Presenter",
+      "text": "So, now ad can I set up, get set up to run ads, there's a few things you need to confirm. Needs to go to account overview. It's going to ask you to,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 183.54,
+      "end": 191.34,
+      "speaker": "Presenter",
+      "text": "where is it? Add the payment method and add a, create a Facebook page.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 192.14,
+      "end": 199.62,
+      "speaker": "Presenter",
+      "text": "So, the only thing you need to do here is add a payment method. Facebook page, since you created it on a profile level, it's going to show up here regardless of not adding it to your Business Manager.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 199.8,
+      "end": 205.02,
+      "speaker": "Presenter",
+      "text": "Phone number, doesn't matter. Just the payment method. When it asks you for it, instead of putting it the card details again,",
+      "chunk": 0,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 33,
+      "start": 206.04,
+      "end": 211.38,
+      "speaker": "Presenter",
+      "text": "location, of course, set to wherever your company is set up, where you are, are set up to take payments.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 214.02,
+      "end": 219.54,
+      "speaker": "Presenter",
+      "text": "So, when the payment detail itself, you should make sure that the country and region matches your actual card you're paying in.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 219.92,
+      "end": 226.74,
+      "speaker": "Presenter",
+      "text": "If the address on the card and address on the Business Manager doesn't match up, or address on the ad account doesn't match up, you can get banned also.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 227.82,
+      "end": 231.16,
+      "speaker": "Presenter",
+      "text": "Then, it's going to ask you where you want to add your business payment info.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 231.98,
+      "end": 242.92,
+      "speaker": "Presenter",
+      "text": "Instead of putting in your new information over here to the card, click on Business payment method, since, and add in the one that you added in previously. Just click on Set as default and you can set it up.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 244.84,
+      "end": 249.16,
+      "speaker": "Presenter",
+      "text": "Okay, so let's say you set it up already, the next step is just to create a page-like campaign first.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 249.64,
+      "end": 254.48,
+      "speaker": "Presenter",
+      "text": "Go ahead, click on Create. You're not, you're not running sales right away, you need to right, warm it out first.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 255.38,
+      "end": 266.18,
+      "speaker": "Presenter",
+      "text": "So, let's see. I believe it is under, where is it? Engagement now. They change it up a bit quite recently.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 266.18,
+      "end": 268.42,
+      "speaker": "Presenter",
+      "text": "All right, so engagement, click continue.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 268.84,
+      "end": 268.84,
+      "speaker": "Presenter",
+      "text": "should be under engagement.",
+      "chunk": 1,
+      "timing": "interpolated"
+    },
+    {
+      "id": 43,
+      "start": 269.8,
+      "end": 271.7,
+      "speaker": "Presenter",
+      "text": "Let's get manual engagement campaign.",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 44,
+      "start": 275.2,
+      "end": 282.36,
+      "speaker": "Presenter",
+      "text": "So we're not launching a sales campaign first because we want to warm up the account with another campaign to get ads launched, to make sure ads are live first.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 282.36,
+      "end": 286.32,
+      "speaker": "Presenter",
+      "text": "If not, there's a high chance you launch sales ad right away and it just gets banned.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 287.18,
+      "end": 289.06,
+      "speaker": "Presenter",
+      "text": "So set the daily budget to $5 a day.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 291.26,
+      "end": 293.26,
+      "speaker": "Presenter",
+      "text": "No this- disregard this. Just put it to five.",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 48,
+      "start": 295.54,
+      "end": 297.92,
+      "speaker": "Presenter",
+      "text": "Okay, then go to the ad set level.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 303.26,
+      "end": 306.5,
+      "speaker": "Presenter",
+      "text": "So for this type of engagement,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 307.22,
+      "end": 310.2,
+      "speaker": "Presenter",
+      "text": "so you can put get people to engage with your IG profile, Facebook page, or both.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 313.1,
+      "end": 316.16,
+      "speaker": "Presenter",
+      "text": "I like to do page likes. It's similar to what you want to do.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 316.16,
+      "end": 325.5,
+      "speaker": "Presenter",
+      "text": "For me, if if I'm I might if I need to spend like $5 a day, I might as well just spend it on warming up my prof- my page to make it look a little more legit, same time.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 325.5,
+      "end": 330.06,
+      "speaker": "Presenter",
+      "text": "So this is set up to run your page likes campaign, choose a the page you plan to run ads on.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 330.06,
+      "end": 333.38,
+      "speaker": "Presenter",
+      "text": "Let's say, you should have it here. Search for whatever you want.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 333.38,
+      "end": 338.66,
+      "speaker": "Presenter",
+      "text": "The the schedule to run the ads for this campaign specifically doesn't really matter.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 338.66,
+      "end": 343.04,
+      "speaker": "Presenter",
+      "text": "So leave all these default. For the locations, I usually put worldwide.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 343.04,
+      "end": 346.1,
+      "speaker": "Presenter",
+      "text": "You shouldn't do this if your for your sales campaign.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 346.54,
+      "end": 350.5,
+      "speaker": "Presenter",
+      "text": "It's just for the sake of the engagement campaign.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 350.5,
+      "end": 360.46,
+      "speaker": "Presenter",
+      "text": "Like you don't really care about the type of people who follow you. You just want as many followers as possible, even if it's cheap people from India. I don't really care, so put worldwide.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 360.46,
+      "end": 369.7,
+      "speaker": "Presenter",
+      "text": "No, you don't have this. Everything else, you can just leave default over here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 369.7,
+      "end": 376.16,
+      "speaker": "Presenter",
+      "text": "They ask you to choose the beneficiary and payer. You can just put a new verification if you don't have already.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 376.84,
+      "end": 377.98,
+      "speaker": "Presenter",
+      "text": "Then it's going to ask you to do some things.",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 63,
+      "start": 378.38,
+      "end": 380.94,
+      "speaker": "Presenter",
+      "text": "It's it's pretty straightforward process.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 382.06,
+      "end": 386.52,
+      "speaker": "Presenter",
+      "text": "If you don't want to do this as well, you're too bored with it, you can't be bothered,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 386.52,
+      "end": 388.06,
+      "speaker": "Presenter",
+      "text": "you can exclude the countries that ask you.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 388.42,
+      "end": 391.3,
+      "speaker": "Presenter",
+      "text": "So then, if you exclude, let's say, Taiwan, Singapore, India.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 393.62,
+      "end": 393.62,
+      "speaker": "Presenter",
+      "text": "Singapore.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 394.08,
+      "end": 398.24,
+      "speaker": "Presenter",
+      "text": "India, I will recommend you to have just because it's it's cheap impressions.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 399.12,
+      "end": 400.66,
+      "speaker": "Presenter",
+      "text": "Then you shouldn't have these issues anymore.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 401.6,
+      "end": 404.84,
+      "speaker": "Presenter",
+      "text": "You need to declare. You don't have this, so just do as default.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 405.62,
+      "end": 408.94,
+      "speaker": "Presenter",
+      "text": "Nothing here, don't need to fill this in, this is default.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 411.6,
+      "end": 413.82,
+      "speaker": "Presenter",
+      "text": "Then everything else, you can just leave pretty much default.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 414.76,
+      "end": 415.68,
+      "speaker": "Presenter",
+      "text": "Then, click on next.",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 74,
+      "start": 416.32,
+      "end": 417.38,
+      "speaker": "Presenter",
+      "text": "So for the ad,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 418.86,
+      "end": 420.68,
+      "speaker": "Presenter",
+      "text": "so, what's the word for it?",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 76,
+      "start": 421.72,
+      "end": 424.64,
+      "speaker": "Presenter",
+      "text": "For for the ad, for page likes,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 424.88,
+      "end": 429.28,
+      "speaker": "Presenter",
+      "text": "so same thing like warming up your page, what's the best style creatives to run?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 430.44,
+      "end": 432.98,
+      "speaker": "Presenter",
+      "text": "Literally just search up nature landscape.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 435.58,
+      "end": 436.9,
+      "speaker": "Presenter",
+      "text": "Take any image here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 437.64,
+      "end": 441.24,
+      "speaker": "Presenter",
+      "text": "Then, give me a quote of the day.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 442.02,
+      "end": 444.98,
+      "speaker": "Presenter",
+      "text": "Put like a random quote, \"The future starts today, not tomorrow.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 446.42,
+      "end": 451.42,
+      "speaker": "Presenter",
+      "text": "Then put like some serene image of landscape. We'll just put one right now.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 452.26,
+      "end": 453.52,
+      "speaker": "Presenter",
+      "text": "Save this image over here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 456.48,
+      "end": 456.88,
+      "speaker": "Presenter",
+      "text": "Okay.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 460.24,
+      "end": 461.28,
+      "speaker": "Presenter",
+      "text": "Click upload, click on this.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 462.66,
+      "end": 466.8,
+      "speaker": "Presenter",
+      "text": "Like this this campaign over here won't affect your sales in any way,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 466.8,
+      "end": 470.12,
+      "speaker": "Presenter",
+      "text": "so it doesn't really matter what you set up, the whole point is just getting ads approved.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 471.04,
+      "end": 472.68,
+      "speaker": "Presenter",
+      "text": "So I'm not sure why it's not showing up yet.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 472.68,
+      "end": 474.68,
+      "speaker": "Presenter",
+      "text": "Let me try again.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 479.2,
+      "end": 485.26,
+      "speaker": "Presenter",
+      "text": "Okay, I had I had to choose a different different nature landscape photo, the previous one had issues uploading.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 485.26,
+      "end": 487.44,
+      "speaker": "Presenter",
+      "text": "So I choose this one over here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 488.0,
+      "end": 491.4,
+      "speaker": "Presenter",
+      "text": "Text, what should you put inside? Literally the same thing as the give a quote one.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 492.94,
+      "end": 494.36,
+      "speaker": "Presenter",
+      "text": "Let's put this.",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 94,
+      "start": 494.36,
+      "end": 495.82,
+      "speaker": "Presenter",
+      "text": "Image gen, no one really care.",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 95,
+      "start": 497.38,
+      "end": 498.98,
+      "speaker": "Presenter",
+      "text": "Literally this this is your ad.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 499.4,
+      "end": 502.72,
+      "speaker": "Presenter",
+      "text": "You can just click publish, everything else doesn't matter.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 504.08,
+      "end": 504.9,
+      "speaker": "Presenter",
+      "text": "That's really it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 506.0,
+      "end": 507.62,
+      "speaker": "Presenter",
+      "text": "So let me go ahead, click publish.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 512.08,
+      "end": 519.34,
+      "speaker": "Presenter",
+      "text": "Business Manager payment method, same thing, what I mentioned to you earlier. Put this one, 5331, is this one I put as for the BM method.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 519.46,
+      "end": 521.18,
+      "speaker": "Presenter",
+      "text": "Then, you will also publish it afterwards.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 522.6,
+      "end": 530.38,
+      "speaker": "Presenter",
+      "text": "So, after you publish it, it's not going to go live right away. If you click on performance, the column over here, column performance, you'll see the delivery that says processing.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 530.7,
+      "end": 537.58,
+      "speaker": "Presenter",
+      "text": "Basically, it just means the ad is processing. If it's a new ad account, a new ad, it might take a day, a few hours, two days",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 538.14,
+      "end": 544.3,
+      "speaker": "Presenter",
+      "text": "for it to actually finish processing and go live, which is why this is like a page like, not even for for conversions.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 544.82,
+      "end": 547.5,
+      "speaker": "Presenter",
+      "text": "So, if you run straight to conversions, higher chance of getting banned.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 548.24,
+      "end": 552.66,
+      "speaker": "Presenter",
+      "text": "So, it's going to say processing. After it's done processing, you may receive an email that says your ad is approved.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 553.24,
+      "end": 558.06,
+      "speaker": "Presenter",
+      "text": "If not, just check performance, delivery, refresh it over here, it might say approved already or active.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 559.62,
+      "end": 562.74,
+      "speaker": "Presenter",
+      "text": "For context, when an ad is approved, it's going to say active like this.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 563.42,
+      "end": 571.12,
+      "speaker": "Presenter",
+      "text": "So, let's say your first ad, you only launched one ad set, one ad. The name of the ad set doesn't really matter. The name of the campaign ad doesn't matter at all.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 571.12,
+      "end": 578.38,
+      "speaker": "Presenter",
+      "text": "So, what you need to do here is you want to get as many instances of active ads running, all approved.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 579.1,
+      "end": 585.12,
+      "speaker": "Presenter",
+      "text": "Let's say you have 50 ads approved, when you launch your sales ad, it's going to go through without much issue.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 585.78,
+      "end": 589.02,
+      "speaker": "Presenter",
+      "text": "Once your first ad is approved, all you need to do, click duplicate.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 589.32,
+      "end": 597.78,
+      "speaker": "Presenter",
+      "text": "Let's say I duplicate number of copies, I click four, duplicate it, then it's going to have four of the same ads, then you click publish.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 598.64,
+      "end": 607.04,
+      "speaker": "Presenter",
+      "text": "So, after the same thing, it goes in draft to processing to active. Now, you have five ads active at the same time, same exact five ads, keep duplicating it again.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 607.04,
+      "end": 612.0,
+      "speaker": "Presenter",
+      "text": "Let's say five, double it, 10, 20, 40, eventually it's 50.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 612.52,
+      "end": 619.3,
+      "speaker": "Presenter",
+      "text": "You can do this at unlimited times. Let's say it takes you an hour to approve, then you can just duplicate it right away after everything's approved.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 619.62,
+      "end": 623.24,
+      "speaker": "Presenter",
+      "text": "Takes you a few minutes to do it. Same thing, it doesn't matter how long it takes you, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 623.42,
+      "end": 629.04,
+      "speaker": "Presenter",
+      "text": "Maybe the first few times might take longer, a few hours, a day, after that, everything is getting approved much faster.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 629.62,
+      "end": 636.7,
+      "speaker": "Presenter",
+      "text": "So, I usually like to duplicate it until I get at least 50 ads. So, duplicate, duplicate until I have 50 of the same ads active.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 636.7,
+      "end": 639.0,
+      "speaker": "Presenter",
+      "text": "That's what I I aim for.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 639.0,
+      "end": 643.22,
+      "speaker": "Presenter",
+      "text": "So, after you have this 50 ads active in the page likes campaign,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 643.84,
+      "end": 648.04,
+      "speaker": "Presenter",
+      "text": "we run it at $5 a day for 3 days. It's just $15 a day.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 648.54,
+      "end": 653.54,
+      "speaker": "Presenter",
+      "text": "So, the the ad itself is going to get a bunch of engagement, which doesn't matter. It's just so things don't get banned.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 653.98,
+      "end": 659.34,
+      "speaker": "Presenter",
+      "text": "Page less likely to to go banned since now that you've you gained some followers on it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 659.34,
+      "end": 665.38,
+      "speaker": "Presenter",
+      "text": "You're going to have like super cheap cost per page like cuz it's it's worldwide, from India, Bangladesh, what not.",
+      "chunk": 2,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 125,
+      "start": 666.28,
+      "end": 669.2,
+      "speaker": "Presenter",
+      "text": "Page is is more warmed up. Ad account is more warmed up.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 669.78,
+      "end": 678.84,
+      "speaker": "Presenter",
+      "text": "The next step after this, you have your ad account set up properly already, the the the the page is warmed up, ad account warmed up with payment method,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 679.3,
+      "end": 685.1,
+      "speaker": "Presenter",
+      "text": "then you can go ahead and just create your sales campaign, which is covered in the in the later modules. This this just covers how to set it up.",
+      "chunk": 2,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 271.77,
+      "end": 275.38,
+      "label": "silence"
+    },
+    {
+      "start": 362.27,
+      "end": 366.17,
+      "label": "silence"
+    },
+    {
+      "start": 474.48,
+      "end": 481.38,
+      "label": "silence"
+    },
+    {
+      "start": 499.17,
+      "end": 500.57,
+      "label": "laughter"
+    },
+    {
+      "start": 508.17,
+      "end": 512.08,
+      "label": "silence"
+    }
+  ]
+}

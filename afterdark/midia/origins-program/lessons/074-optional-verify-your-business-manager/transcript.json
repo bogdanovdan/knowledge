@@ -1,0 +1,402 @@
+{
+  "lesson": {
+    "num": 74,
+    "id": "074-optional-verify-your-business-manager",
+    "title": "(Optional) Verify your Business Manager",
+    "section": "🛡️ How To Set Up FB Assets",
+    "video": "74. (Optional) Verify your Business Manager Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 294.379,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=3b3821effc9648aa90b25bf138533159"
+  },
+  "generated_at": "2026-10-06T20:24:09-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (94% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 1105,
+    "matched_tokens": 1040,
+    "match_ratio": 0.941,
+    "segments_aligned": 38,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 294.379,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.955,
+      "wpm": 244.0,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.78,
+      "speaker": "Presenter",
+      "text": "All right. So, who here is a super quick walk through on how to get or enable the business verification. So, depending on",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 7.78,
+      "end": 15.46,
+      "speaker": "Presenter",
+      "text": "the account there might be an option here inside of Security Center. Okay, so you just go business.facebook.com/settings. If you click into the Security Center,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 15.58,
+      "end": 24.28,
+      "speaker": "Presenter",
+      "text": "there might be an option here to start the verification process. And if you're unsure whether or not a business is verified, you just want to go ahead and take a look here. And as you can see, this business, or",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 24.28,
+      "end": 29.86,
+      "speaker": "Presenter",
+      "text": "our business right now, is not verified. So, how do you go about verifying it? Well, again, like I said, you want to go to the Security",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 29.86,
+      "end": 37.6,
+      "speaker": "Presenter",
+      "text": "Center, but that's not showing, then you need to do a little bit of a workaround. So, what you need to do is you need to head over to Apps. So, underneath Accounts, you're going to go to Apps.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 37.94,
+      "end": 44.7,
+      "speaker": "Presenter",
+      "text": "You're going to head and click Add, and then Create a New App ID. And this is going to take you to Meta for Developers.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 45.16,
+      "end": 52.32,
+      "speaker": "Presenter",
+      "text": "Then what you want to do is you want to click insta- Instant Games, click Next. And then here, you can just type whatever name. So, I usually just do",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 52.56,
+      "end": 58.8,
+      "speaker": "Presenter",
+      "text": "For Verif is the name of every game I usually make. You'll go ahead and Create app.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 59.24,
+      "end": 62.8,
+      "speaker": "Presenter",
+      "text": "Make sure that you enter in your password. So, I'm going to go ahead and do that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 65.2,
+      "end": 74.82,
+      "speaker": "Presenter",
+      "text": "Now, once that loads, it's going to take you to an option to select which product you want to set up. So, you want to go ahead and set up Instant Games, click \"I agree,\" and click Confirm.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 76.26,
+      "end": 79.86,
+      "speaker": "Presenter",
+      "text": "Once you do that, again, it will take a second just to load.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 79.86,
+      "end": 89.16,
+      "speaker": "Presenter",
+      "text": "And now, once that loads, you've just got to write out some super basic information. So, tagline, \"best game ever,\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 90.0,
+      "end": 97.98,
+      "speaker": "Presenter",
+      "text": "publisher, you're going to go ahead and just say whatever you want, short description, \"it's the greatest,\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 97.98,
+      "end": 104.58,
+      "speaker": "Presenter",
+      "text": "category, you're just going to select whatever. Let's do a sports one. And",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 104.58,
+      "end": 110.62,
+      "speaker": "Presenter",
+      "text": "app icon, we're going to go ahead and adjust this in a second. But now, you just want to go ahead and click Save Changes.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 112.68,
+      "end": 115.78,
+      "speaker": "Presenter",
+      "text": "So now that you've done that, you want to go over to Settings and click Basic.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 119.54,
+      "end": 129.76,
+      "speaker": "Presenter",
+      "text": "And, now, once you're in there, you need to go ahead and set up a privacy policy URL. So, as you can see, I just used Google. So, just go ahead and use www.google.com.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 130.66,
+      "end": 135.8,
+      "speaker": "Presenter",
+      "text": "You're going to go ahead and do the same thing here. So, go ahead and copy this, paste that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 136.38,
+      "end": 144.4,
+      "speaker": "Presenter",
+      "text": "And then, you want to make sure you you upload a image here that is 1024x1024. So, what I typically do is I just go to Google and I look up blue square",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 144.4,
+      "end": 153.34,
+      "speaker": "Presenter",
+      "text": "1080x1080. So, you can go ahead and you can save that. And then you're just going to go ahead and just drag that in. Well, actually, I guess you've got to upload it. So, let me go ahead",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 153.34,
+      "end": 159.62,
+      "speaker": "Presenter",
+      "text": "and upload it. So, choose file, go to downloads, wherever my computer downloads it. Go.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 159.62,
+      "end": 168.14,
+      "speaker": "Presenter",
+      "text": "And once you upload that, you should be good to go. Actually, if it doesn't work, then you need to go ahead and find one that's 1024x20- 1024. So let me go ahead and do that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 168.6,
+      "end": 177.22,
+      "speaker": "Presenter",
+      "text": "All right. Now I've actually got a proper blue square. I'm going to go ahead and just upload this inside of Monday for you guys, so you can go ahead and just use it. But I'm going to go ahead and upload that file.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 178.34,
+      "end": 183.18,
+      "speaker": "Presenter",
+      "text": "And now it likes me. Okay, perfect. And then, again, you're just going to go ahead and click Save Changes.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 183.76,
+      "end": 190.88,
+      "speaker": "Presenter",
+      "text": "And now, if you scroll down, you'll be able to see that it says Start verification. So, that's how you know you are completely done. So, now, what you can do",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 190.88,
+      "end": 197.62,
+      "speaker": "Presenter",
+      "text": "is you can just go ahead and you can go back to business settings. So, just leave this. And if you go down to",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 197.62,
+      "end": 205.0,
+      "speaker": "Presenter",
+      "text": "Security Center once again, down here, you'll see that Start verification is now there. So, all you need to do",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 205.0,
+      "end": 212.84,
+      "speaker": "Presenter",
+      "text": "is go ahead and click Start verification, Get started, and basically just share this information with the client. So,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 212.84,
+      "end": 219.34,
+      "speaker": "Presenter",
+      "text": "all you need to do is send them this link. Of course, make sure it's inside their Business Manager, obviously. Send them this link",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 219.34,
+      "end": 229.84,
+      "speaker": "Presenter",
+      "text": "and just take a screenshot and tell them to go through this process, and make sure that they go into the Business Info Center and make sure that they upload all of their information inside of here, if they haven't done",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 229.84,
+      "end": 239.56,
+      "speaker": "Presenter",
+      "text": "that. So, just basically, go in, tell- take a screenshot of this if it's empty, and tell the client to fill in all of this information. And then, if, once you've enabled them for verification,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 239.9,
+      "end": 247.68,
+      "speaker": "Presenter",
+      "text": "then just go ahead and take a screenshot of this, and send them this URL, and make sure that they know how to go through this process. Again, it is very straightforward. Just tell them to click Start verification.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 248.32,
+      "end": 252.54,
+      "speaker": "Presenter",
+      "text": "Okay? And then, once the client has verified their business- So, if you can come back after,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 252.54,
+      "end": 260.3,
+      "speaker": "Presenter",
+      "text": "you know, the client said they've they've filled it out, and they've got approved, and then if you go back into their Business Info and you see that they are verified, then all you're going to simply going to do",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 260.3,
+      "end": 265.56,
+      "speaker": "Presenter",
+      "text": "is go to Apps, come over here, and click Remove, and that's it. So, just make sure that you remove that app.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 266.14,
+      "end": 273.66,
+      "speaker": "Presenter",
+      "text": "Otherwise, it just looks kind of bad. So, just go ahead and remove that app once the business is fully verified. Now, note: make sure that the business",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 273.66,
+      "end": 284.94,
+      "speaker": "Presenter",
+      "text": "does get verified before you remove that app. If you remove the app before it gets verified, then there's going to be an issue. So, just make sure that once everything is fully verified and you see this \"verified\"- so, just to show you an example, let me pull up an account.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 285.38,
+      "end": 293.54,
+      "speaker": "Presenter",
+      "text": "So, here's an example of a business that is verified. Okay, as you can see, verified on that date. So, once you've seen it verified, then you can go ahead and delete that app. Okay? That is it.",
+      "chunk": 0,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": []
+}

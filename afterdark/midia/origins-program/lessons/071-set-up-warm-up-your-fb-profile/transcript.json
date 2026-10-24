@@ -1,0 +1,168 @@
+{
+  "lesson": {
+    "num": 71,
+    "id": "071-set-up-warm-up-your-fb-profile",
+    "title": "Set Up & Warm Up Your FB Profile",
+    "section": "🛡️ How To Set Up FB Assets",
+    "video": "71. Set Up & Warm Up Your FB Profile Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 41.493,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=95d5fe81793041219fcfae118c38f2b0"
+  },
+  "generated_at": "2026-10-06T20:24:09-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (82% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 145,
+    "matched_tokens": 119,
+    "match_ratio": 0.821,
+    "segments_aligned": 11,
+    "segments_partly_aligned": 1,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 41.493,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 242.4,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.62,
+      "speaker": "Presenter",
+      "text": "All right. So, how do you actually warm up your Facebook profile?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 2.94,
+      "end": 6.1,
+      "speaker": "Presenter",
+      "text": "Facebook profile is the most straightforward one, since you're using the actual real profiles.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 6.94,
+      "end": 9.16,
+      "speaker": "Presenter",
+      "text": "Facebook just wants to see engagement that it's a real thing.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 9.7,
+      "end": 14.28,
+      "speaker": "Presenter",
+      "text": "So all you do, you log in, spend maybe five to 10 minutes on each profile, these three profiles,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 14.46,
+      "end": 17.68,
+      "speaker": "Presenter",
+      "text": "uh look, for a whole week, just engaging with people.",
+      "chunk": 0,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 6,
+      "start": 17.68,
+      "end": 22.24,
+      "speaker": "Presenter",
+      "text": "Let's say, I go on my Facebook feed, I see this, click like, just comment, \"Nice.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 25.34,
+      "end": 26.62,
+      "speaker": "Presenter",
+      "text": "And just keep doing this.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 27.06,
+      "end": 29.42,
+      "speaker": "Presenter",
+      "text": "Literally that's all you need to do: like, comment, share.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 29.42,
+      "end": 33.5,
+      "speaker": "Presenter",
+      "text": "So Facebook sees that you're actually using the platform and engaging, and you're a real person.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 33.5,
+      "end": 36.5,
+      "speaker": "Presenter",
+      "text": "That's all you need to do for the Facebook profile.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 36.66,
+      "end": 37.62,
+      "speaker": "Presenter",
+      "text": "Very, very straightforward.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 37.62,
+      "end": 40.66,
+      "speaker": "Presenter",
+      "text": "There's really nothing else to warm up your profile besides this.",
+      "chunk": 0,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": []
+}

@@ -1,0 +1,1451 @@
+1
+00:00:00,000 --> 00:00:05,200
+All right, so now in this video we're going to talk about how to manually fill this out if you haven't done any research,
+
+2
+00:00:05,200 --> 00:00:09,920
+and you really are just trying to understand your product, okay? Now, obviously the module
+
+3
+00:00:09,920 --> 00:00:18,980
+below this is going to talk about how to do it with AI, but that's really for people who have already done some kind of research and have been through the process, and is trying and and are trying to come back and like really understand
+
+4
+00:00:18,980 --> 00:00:25,760
+their avatars. This is going to be for people that don't really have any information at all and are filling this out for the first time. So
+
+5
+00:00:25,760 --> 00:00:32,960
+let's go ahead and jump in. So how do we manually fill this out? Now, this is going to be painful for me, but we're going to go through and do it live
+
+6
+00:00:32,960 --> 00:00:37,580
+together, okay? So let's go ahead, let's fill out this document. I don't have any research.
+
+7
+00:00:37,980 --> 00:00:46,500
+I don't have anything but a product. You might even have a bare-bones product page here, so I kind of have a bit of advantage on you. Uh but here, let's just go ahead and fill this out for this brand called DogFriendlyCo.
+
+8
+00:00:46,980 --> 00:00:56,940
+So let's go ahead. Product name: dog harness. What is the price point? Well, if we take a look at this, the price point is $42, and I might even throw in the little slash action here as well, so 52
+
+9
+00:00:56,940 --> 00:01:00,580
+slashed out. Uh, actually it looks like it's not going to be fun,
+
+10
+00:01:00,580 --> 00:01:10,620
+but let's go ahead and do that. So $42 is the actual price point. Uh, and then over here we have our product in action. So how does your product work?
+
+11
+00:01:11,100 --> 00:01:18,400
+Describe the process and method of what it does and the outcome it provides, then provide a sixth grade reading level version. Now,
+
+12
+00:01:18,700 --> 00:01:22,780
+if you don't know why we say sixth-grade reading level, it's because
+
+13
+00:01:22,780 --> 00:01:27,980
+the Heming- or basically most people actually only can read at a sixth-grade level.
+
+14
+00:01:28,260 --> 00:01:35,480
+Um, so basically whatever you type, you want to put it inside of here just to make sure that it actually works. So this is hemingwayapp.com.
+
+15
+00:01:35,740 --> 00:01:38,980
+Uh, so over here, what we're going to say is like, "How does your product work?" Well,
+
+16
+00:01:39,500 --> 00:01:43,420
+let's go ahead and Again, these are all assumptions, right? So how does the product work? Well,
+
+17
+00:01:43,700 --> 00:01:49,100
+the product is a harness that goes on top of the dog
+
+18
+00:01:49,100 --> 00:01:56,160
+and is used for walking it more or walking it better
+
+19
+00:01:56,160 --> 00:02:00,080
+than a traditional collar.
+
+20
+00:02:02,900 --> 00:02:06,840
+The Dog Friendly harness specifically,
+
+21
+00:02:07,380 --> 00:02:18,460
+let's take a look, is the most comfortable Look at this, this is great. So here's all of the benefits, right? So, oh, this is going to suck. Is the most comfortable We're going to have to type all of this out.
+
+22
+00:02:19,120 --> 00:02:31,400
+Um, and easy-to-use dog harness backed by 60-day perfect-fit guarantee. Uh, it's very comfortable, chafe-resistant, so oh, can be put on in 2 seconds, so that's great. So the Dog Friendly harness uh is one of the fastest
+
+23
+00:02:31,400 --> 00:02:37,300
+harnesses to put on and can be put on
+
+24
+00:02:39,040 --> 00:02:41,100
+in only 2 to 3 seconds.
+
+25
+00:02:42,880 --> 00:02:47,540
+Okay? It's chafe-resistant and has lightweight straps, so it is chafe-resistant,
+
+26
+00:02:47,540 --> 00:02:52,100
+which makes it more comfortable for your dog,
+
+27
+00:02:52,100 --> 00:02:59,920
+and is lightweight. And let's see, we have personalized with custom name patch and choke-free design for comfortable walks, and so here we
+
+28
+00:02:59,920 --> 00:03:04,920
+have personalized with custom name patches, so uh it can also be personalized
+
+29
+00:03:04,920 --> 00:03:07,800
+with custom name patches
+
+30
+00:03:07,800 --> 00:03:11,780
+and has a choke-free design
+
+31
+00:03:12,080 --> 00:03:17,980
+for more comfortable walks, okay?
+
+32
+00:03:18,560 --> 00:03:28,600
+And so again, this is just me kind of throwing in, using the product page like, "Hey, what does this do? How does your product work? So describe the process, method of what it does, and the outcome it provides." So that's just me kind of explaining the product. So now if I try to like
+
+33
+00:03:28,600 --> 00:03:35,740
+just say, "Hey, what what does this actually do?" Uh, it helps owners or dog owners uh put
+
+34
+00:03:35,740 --> 00:03:43,160
+their dog's harness on easier and cute for the dog.
+
+35
+00:03:44,240 --> 00:03:49,520
+So there we go. I would say this is probably like my sixth-grade level. Let's see if we pop this into Hemingway. Ah, grade 8.
+
+36
+00:03:50,100 --> 00:03:59,580
+This is tough. Custom name patches So this says zero of four sentences are very hard to read, one of four sentences are hard to read, so, "It can be personalized with custom name-" So it can be customized,
+
+37
+00:04:00,340 --> 00:04:05,740
+what you can actually do if you use Claude, because we're going to be smart here, we're going to go to our good old friend Claude,
+
+38
+00:04:06,780 --> 00:04:08,880
+Claude AI, we're going to say, "Hey Claude,
+
+39
+00:04:09,540 --> 00:04:13,900
+rewrite this at a sixth-grade level.
+
+40
+00:04:15,020 --> 00:04:18,540
+For context, here is the original question
+
+41
+00:04:18,540 --> 00:04:20,840
+I am answering."
+
+42
+00:04:22,020 --> 00:04:23,120
+And so here,
+
+43
+00:04:23,860 --> 00:04:24,960
+we can now still use Claude,
+
+44
+00:04:26,280 --> 00:04:27,040
+so
+
+45
+00:04:28,280 --> 00:04:32,340
+Here is what I wrote.
+
+46
+00:04:33,560 --> 00:04:34,940
+And now we can just let Claude cook.
+
+47
+00:04:35,820 --> 00:04:38,000
+And now, ideally, we have a project,
+
+48
+00:04:38,020 --> 00:04:42,360
+but this is the sixth-grade version, so we can see if Claude actually cooked with this, so let's see.
+
+49
+00:04:42,980 --> 00:04:44,240
+Let's go to Hemingway.
+
+50
+00:04:45,160 --> 00:04:48,300
+Let's paste this in. Grade four! Claude, unreal!
+
+51
+00:04:49,200 --> 00:04:50,960
+Look at that, actually doing some work.
+
+52
+00:04:51,800 --> 00:04:55,900
+So, now we can actually paste this back in, so if we go back over here,
+
+53
+00:04:56,940 --> 00:04:58,780
+we can add a little, "Sixth-grade level."
+
+54
+00:04:59,700 --> 00:05:02,100
+And again, this is important for marketing, right?
+
+55
+00:05:02,100 --> 00:05:07,560
+We want to make sure that we're communicating in a way that is easy to understand, cuz sometimes, as business owners,
+
+56
+00:05:07,560 --> 00:05:13,960
+and as people who run our own product, we like to sound cool and sound fancy. Like, even for me, like, "choke-free,"
+
+57
+00:05:14,440 --> 00:05:16,700
+that makes sense to me, but it might not make sense to a lot of people.
+
+58
+00:05:17,100 --> 00:05:21,280
+So, it's important to run it through. So, for example: "The harness wraps around your dog's chest and back.
+
+59
+00:05:21,620 --> 00:05:26,060
+This spreads out the pull when your dog walks, so it doesn't hurt their neck like a collar does.
+
+60
+00:05:26,220 --> 00:05:30,620
+You can put it on super fast, just 2-3 seconds. The soft material won't rub your dog's skin the wrong way.
+
+61
+00:05:30,620 --> 00:05:33,560
+It's also really lightweight, so your dog won't feel heavy.
+
+62
+00:05:33,560 --> 00:05:35,660
+You can add your dog's name to make it special,
+
+63
+00:05:35,660 --> 00:05:39,960
+and your dog will be more comfortable and happy on walks because the harness doesn't squeeze their throat."
+
+64
+00:05:40,480 --> 00:05:41,260
+Fantastic. Now,
+
+65
+00:05:42,240 --> 00:05:45,520
+let's talk about the actual features. So, what are the product's
+
+66
+00:05:45,520 --> 00:05:51,440
+main features? So, again, we can use AI to support with this, but I'm trying to be like anti-AI on this stuff to
+
+67
+00:05:51,440 --> 00:05:56,340
+actually just be like clear on the features. So, here we have like product details. So,
+
+68
+00:05:56,340 --> 00:06:02,560
+for example, now we're going to get into some of the actual materials and stuff like that, too, and depending on
+
+69
+00:06:02,560 --> 00:06:07,060
+whether or not you know the materials. Here, we need to try to find, so this is a
+
+70
+00:06:07,060 --> 00:06:11,320
+ITW unbreakable secure buckle, so that's one of
+
+71
+00:06:11,320 --> 00:06:14,660
+the features that I'm going to pop in there right away, okay?
+
+72
+00:06:15,780 --> 00:06:18,900
+And then from here, they have premium chafe-resistant webbing.
+
+73
+00:06:19,380 --> 00:06:23,660
+That's kind of like a a a benefit kind of call-out, I would say.
+
+74
+00:06:24,160 --> 00:06:27,440
+One-click on and off, that's kind of a feature. That's kind of a benefit.
+
+75
+00:06:28,300 --> 00:06:32,580
+Let's see what else we got here for actual features. So, adjustable straps,
+
+76
+00:06:33,260 --> 00:06:38,360
+so, again, you can see this brand does a good job of saying feature and then benefit. So, why do adjustable straps matter?
+
+77
+00:06:38,640 --> 00:06:41,600
+Well, it gives you the perfect fit. And then here,
+
+78
+00:06:41,600 --> 00:06:48,260
+we have easy one-click button. We have sturdy grab handle for added control. So, again,
+
+79
+00:06:48,540 --> 00:06:52,200
+so we have sturdy grab handle, so let's just add that in.
+
+80
+00:06:53,660 --> 00:06:54,920
+Sturdy grab handle.
+
+81
+00:06:55,860 --> 00:06:58,880
+What else do we have? Heavy-duty D-ring.
+
+82
+00:06:58,880 --> 00:07:05,880
+Again, this this brand has learned a lot from Evolve about tying mechanisms or tying features into benefits.
+
+83
+00:07:05,880 --> 00:07:09,760
+And available on exclusive custom-designed colors, so customizable,
+
+84
+00:07:10,620 --> 00:07:13,300
+right? That's a feature. Customizable.
+
+85
+00:07:13,300 --> 00:07:19,500
+If I can spell it. That's, I'm terrible at spelling, so bear with me. I've probably already made 13 spelling mistakes.
+
+86
+00:07:20,060 --> 00:07:24,060
+What else do we have here? 2 seconds on and off. What material is this made with? Don't actually know.
+
+87
+00:07:24,260 --> 00:07:28,500
+So, that's one thing, as well, where it's like, okay, well, what is this made with? Because I don't know.
+
+88
+00:07:28,820 --> 00:07:30,180
+We probably should know.
+
+89
+00:07:31,020 --> 00:07:34,060
+Perfect fit, 60-day guarantee, size guide, cool.
+
+90
+00:07:35,040 --> 00:07:40,380
+Doesn't say like we have any other material. I guess it's premium chafe-resistant webbing.
+
+91
+00:07:41,780 --> 00:07:45,120
+So, we could just say like "premium webbing" might be the feature,
+
+92
+00:07:45,540 --> 00:07:47,900
+but overall that's that's good. We got five here, okay?
+
+93
+00:07:48,960 --> 00:07:52,180
+And so, let's take a look at the benefits. So, feature one,
+
+94
+00:07:52,860 --> 00:07:59,140
+we have, and sometimes what I like doing here is I actually like putting it here, so, ITW unbreakable secure buckle.
+
+95
+00:08:00,100 --> 00:08:00,540
+Okay.
+
+96
+00:08:01,820 --> 00:08:06,940
+And let's see if we can paste this in without breaking it. So, why why does this matter? Why would a ITW
+
+97
+00:08:06,940 --> 00:08:13,320
+unbreakable secure buckle matter? And honestly, I don't even know what an ITW buckle is, and so sometimes,
+
+98
+00:08:13,320 --> 00:08:18,140
+if you are like reading this stuff, and you're an idiot like me, you can also just go into Claude again,
+
+99
+00:08:18,560 --> 00:08:22,600
+and you can say, okay, "Hey Claude, what is this?"
+
+100
+00:08:24,060 --> 00:08:29,900
+And, again, you should always double-check this, but it's going to go ahead and search elsewhere,
+
+101
+00:08:30,580 --> 00:08:35,480
+so look at that, it even corrected me cuz I pasted it wrong. So, based on research, the ITW
+
+102
+00:08:35,480 --> 00:08:40,140
+unbreakable secure buckle appears to refer to heavy-duty buckles made by ITW Nexus,
+
+103
+00:08:40,640 --> 00:08:44,860
+Illinois Tool Works. ITW is a major manufacturer of high-quality plastic buckles
+
+104
+00:08:44,860 --> 00:08:48,960
+and fastening hardware. So, ITW Nexus makes various types of side-release buckles
+
+105
+00:08:48,960 --> 00:08:53,880
+that are designed for durability and reliability, including super-strong versions that are built for extreme impact resistance
+
+106
+00:08:54,420 --> 00:08:58,640
+and high-tensile loads. These buckles are commonly used in military and tactical gear,
+
+107
+00:08:58,900 --> 00:09:03,180
+outdoor equipment and backpacks, pet harnesses, medical equipment, marine applications, life-saving equipment.
+
+108
+00:09:03,800 --> 00:09:07,640
+The buckles are made in the USA. Good to know. And designed to withstand extreme
+
+109
+00:09:07,640 --> 00:09:15,360
+loads making them ideal for applications where durability is required. They feature, blah, blah, blah, blah, blah, without seeing the exact blah, blah, blah. Okay, cool. So,
+
+110
+00:09:15,360 --> 00:09:20,180
+now we know what this is, okay? So, what is the benefit of the ITW
+
+111
+00:09:20,180 --> 00:09:23,540
+secure buckle? Well, number one, the dog,
+
+112
+00:09:23,800 --> 00:09:27,800
+you know, won't get out of the harness,
+
+113
+00:09:28,440 --> 00:09:34,100
+right? Because the buckles are so secure. And sometimes, when things are also
+
+114
+00:09:34,100 --> 00:09:38,800
+like benefits, or have multiple benefits, you just copy it over like this, so,
+
+115
+00:09:38,800 --> 00:09:43,320
+and this is something that Claude won't do if you just do AI only, by the way. But ITW
+
+116
+00:09:43,320 --> 00:09:48,480
+unbreakable secure buckle, well, benefit here, let's just say another one is it's made in the USA.
+
+117
+00:09:49,760 --> 00:09:55,840
+Right? That's a actually actually a benefit, and we'll explain why why that matters as well. And then what we can also do
+
+118
+00:09:55,840 --> 00:10:01,260
+is we can also ask Claude, too. Again, use AI to your advantage, guys. What would be the benefits
+
+119
+00:10:02,860 --> 00:10:09,820
+of a dog harness that has the feature ITW secure buckle.
+
+120
+00:10:10,560 --> 00:10:11,580
+Let's just see what it says.
+
+121
+00:10:11,900 --> 00:10:19,280
+No breaking during emergencies, if your dog suddenly bolts after a squirrel, the buckle won't break, okay, so your dog won't run away. So there we go,
+
+122
+00:10:19,280 --> 00:10:21,140
+me and Claude are on the same page.
+
+123
+00:10:21,720 --> 00:10:27,480
+Right here we have reliable commitment so you can trust it won't fail if your dog pulls hard, well that's the same thing.
+
+124
+00:10:27,800 --> 00:10:32,640
+Peace of mind, strong puller, so we're we're finding a commonality here, right? Durability, so long-lasting
+
+125
+00:10:32,640 --> 00:10:36,540
+is a benefit, right? So it's it's kind of long-lasting,
+
+126
+00:10:37,180 --> 00:10:48,340
+weather-resistant, maintains strength, quick one-handed release, secure hold under tension, professional grade, for dog owners it means confidence, strength, and so here we go. Now we're starting to get into desires which we're going to see in a second,
+
+127
+00:10:48,340 --> 00:10:54,100
+but there we go. So we've got you know at least two benefits for this one. The next one we have here is adjustable straps.
+
+128
+00:10:54,100 --> 00:10:55,160
+Okay.
+
+129
+00:10:55,160 --> 00:11:06,640
+Now again why do adjustable straps matter? Well it helps make sure that it is the perfect fit for the dog.
+
+130
+00:11:08,100 --> 00:11:11,240
+Okay, and we're just going to kind of go through the rest of these. You guys can kind of get the point, but
+
+131
+00:11:11,240 --> 00:11:16,600
+allow yourself to go down rabbit holes, right, because again, these are all ad ideas right here, guys. Like these are all things that,
+
+132
+00:11:16,600 --> 00:11:22,940
+when you're just understanding your product, you're going to get new ideas. So like no breaking, no breakage during emergencies. So if your dog bolts after a squirrel,
+
+133
+00:11:22,940 --> 00:11:27,460
+it's not going to it's not going to snap because we have this mechanism, right?
+
+134
+00:11:28,220 --> 00:11:35,320
+You're You can trust your dog, if it pulls hard to get into a scuffle with another dog, it's not going to go, you know, like rip another dog's face off. That's kind of crazy, but you get the point. Okay?
+
+135
+00:11:36,060 --> 00:11:43,560
+Over here we have sturdy grab handle. I don't actually really like this feature. I don't really know why I put that down as a feature. It's kind of a weird feature. Let's go heavy-duty D-ring
+
+136
+00:11:43,560 --> 00:11:46,780
+feature, okay?
+
+137
+00:11:47,540 --> 00:12:00,520
+What does a heavy-duty D-ring do? Well it actually allows you to attach the leash to the front for less pulling.
+
+138
+00:12:01,440 --> 00:12:13,760
+And again we can actually ask Claude this as well, if you guys are struggling. What would be the benefit of a heavy-duty D-ring on a dog harness? See if Claude actually cooks.
+
+139
+00:12:14,900 --> 00:12:26,160
+Won't break under pressure, long-lasting, handles high force, can withstand the full pulling power, secure leash attachment, emergency reliability. It's really going off here. Practical advantage, better control,
+
+140
+00:12:27,400 --> 00:12:31,860
+multiple leash options, versatility, active breed, suitable for hikers, okay, so
+
+141
+00:12:31,860 --> 00:12:40,240
+the benefit is over here is like it allows you to attach your leash from the front for less pulling. And and that's just kind of the main benefit. If you wanted to pull some from these as well,
+
+142
+00:12:40,580 --> 00:12:45,000
+like you know maybe can support dog backpacks, a reliable anchor point for trainers,
+
+143
+00:12:47,700 --> 00:12:52,000
+won't break under pressure, handles high force. So this this is the main thing.
+
+144
+00:12:52,980 --> 00:12:58,640
+It's just it handles strong pullers. The benefit is can handle strong pullers or stop your dog from pulling.
+
+145
+00:12:59,260 --> 00:13:01,140
+The other feature that we have here is customizable.
+
+146
+00:13:02,620 --> 00:13:05,900
+Now why would customizable matter? Well
+
+147
+00:13:06,680 --> 00:13:14,820
+just going to pop this in. It allows people to show their personality. It's kind of the benefit.
+
+148
+00:13:15,060 --> 00:13:26,600
+Um, but we can also ask Claude again. Why would customizable feature be a benefit for a dog harness? Name tag, quick identification,
+
+149
+00:13:27,920 --> 00:13:41,740
+it's kind of funny. Faster reunions, always visible, emergency situations, no jingling, won't get caught, professional, cool, training and social benefits, helps others interact, right? So that's a good one.
+
+150
+00:13:42,580 --> 00:13:54,780
+Training reinforcement reduces anxiety, strangers use their name, peace of mind knowing your dog is always identified, right? So it allows people to show their personality, that's kind of where I went, but I'll just say it also makes it easy
+
+151
+00:13:55,060 --> 00:14:04,400
+Let's see here. One less thing to remember to replace, professional appearance for photos, better chance of quick recovery, peace of mind knowing your dog is always properly identified. Okay?
+
+152
+00:14:05,140 --> 00:14:07,300
+It's kind of like the benefit, all right?
+
+153
+00:14:07,960 --> 00:14:16,220
+And now once we have these benefits with the help of Claude and again, as I've mentioned before, I'm very over leveraged on Claude, I love using Claude to help me brainstorm things,
+
+154
+00:14:16,220 --> 00:14:24,160
+because a lot of times I know what it is, I just kind of like my brain can't really put it together. But over here, and a lot of you guys maybe in the same boat, but
+
+155
+00:14:24,160 --> 00:14:31,440
+let's take a look at the assumed desires, okay? So for each of the benefits that we just went through, what are the deeper desires that you are assuming it attends to?
+
+156
+00:14:31,600 --> 00:14:35,960
+So simply ask yourself, why does someone want that? Just and in short, it's like, why?
+
+157
+00:14:36,300 --> 00:14:44,240
+Okay? And now again these are going to be assumptions. These are not things that we've actually validated and gone out and done research and found.
+
+158
+00:14:44,280 --> 00:14:50,800
+We're just kind of going, we're just winging it right now, right? Like we're just assuming that, hey, we think this is why people would care, right?
+
+159
+00:14:51,300 --> 00:15:00,300
+And again, Claude kind of helps with that as well. So for this first desire here, if like the dog won't get out of the harness, we can kind of copy this over and we can kind of paste this in here,
+
+160
+00:15:00,920 --> 00:15:06,180
+and let's see if it if it likes us. There we go. The dog won't get out of the har- harness. Well, why? Like,
+
+161
+00:15:06,760 --> 00:15:13,740
+why is that important? Why does that matter? Because then they know their dog is safe,
+
+162
+00:15:14,920 --> 00:15:15,220
+right?
+
+163
+00:15:17,700 --> 00:15:24,380
+again better put you can go down actually a long ways on this and I just I just thought for a second of like if we should go down this rabbit hole, but I don't think we will
+
+164
+00:15:24,580 --> 00:15:30,580
+um but what you really need to be thinking is like why does someone want that? It's like well, they want their dog to be safe.
+
+165
+00:15:32,280 --> 00:15:36,840
+biggest desire that we could talk about here is like their dog actually being safe. 'kay?
+
+166
+00:15:37,560 --> 00:15:44,240
+Uh let's talk about this. Let's talk about another benefit. So, it's made in the USA. America, baby. You know, for all my Americans who love to see it.
+
+167
+00:15:44,380 --> 00:15:49,140
+Um, so now benefit it's made in the USA. Why does that matter? 'Kay?
+
+168
+00:15:50,020 --> 00:15:58,160
+Why does it matter like why why would someone want it to be made in the USA, right? They want American-made products.
+
+169
+00:16:00,040 --> 00:16:00,680
+Very simple.
+
+170
+00:16:01,380 --> 00:16:13,080
+Right, they want something that is American-made or they want to support their country, right? These are more patriotic desires that we can start to tap into and that's why when you see people say made in America, it's because they want to
+
+171
+00:16:13,080 --> 00:16:19,600
+kind of tap into that desire of of, you know, patriotism and and people wanting to, you know,
+
+172
+00:16:19,600 --> 00:16:34,560
+support their country, uh support local, essentially, and, you know, they want they they know that American Sometimes, people associate American-made with good, right? And so, America has this brand uh depending on who you ask. [laughter] It could be good or bad.
+
+173
+00:16:34,700 --> 00:16:39,740
+Um, but they want American-made products. That would be the desire. Okay, we're actually going to run this through Claude as well.
+
+174
+00:16:39,740 --> 00:16:44,420
+Uh, another benefit here is it helps make sure it's the perfect fit.
+
+175
+00:16:45,100 --> 00:16:51,720
+'Kay? So, why does that desire matter? Well, they want their dog to feel uh comfortable.
+
+176
+00:16:51,720 --> 00:17:06,060
+Right, they or maybe they want their dog to If I don't lose my headphone, uh they might want their dog to um, overall, not get hurt, right? They might not want They want their dog to stay stay safe again, but they want their dog to
+
+177
+00:17:06,060 --> 00:17:10,360
+ultimately um not be in any sort of pain, right?
+
+178
+00:17:10,640 --> 00:17:18,460
+Um so overall, they want their dog to be comfortable. So you can think of positive or negative emotions on this, but they want their dog uh to feel comfortable in the harness, 'kay?
+
+179
+00:17:19,260 --> 00:17:21,760
+Uh now we have a benefit over here from the heavy-duty D-ring,
+
+180
+00:17:22,240 --> 00:17:31,200
+right? And so now if we get over here, it allows you to attach a leash to the front for less pulling. Now, why why does someone want their dog to pull less? Well,
+
+181
+00:17:31,460 --> 00:17:37,720
+they want to um, you know, feel in more control on walks,
+
+182
+00:17:37,720 --> 00:17:44,180
+right? Or maybe if you have another desire for this as well, um, you know, again, you can do the same thing as we did last time.
+
+183
+00:17:44,180 --> 00:17:52,860
+You know, maybe they want to be less embarrassed when they go on walks in front of others.
+
+184
+00:17:55,840 --> 00:18:02,660
+Potential social thing there, right? Like, oh there's that girl who, you know, takes Her dog takes her for a walk, right?
+
+185
+00:18:03,620 --> 00:18:12,740
+Um, so let's jump over here to the final one which is like the benefit of like uh, again, peace of mind of knowing your dog is always properly identified. Let's go ahead and pop this in here.
+
+186
+00:18:13,260 --> 00:18:21,380
+And, why why would someone want that? Why would someone want their dog to be identified? Well, they want to make sure their dog is safe.
+
+187
+00:18:22,720 --> 00:18:35,420
+Very very similar to this one up here is what I would say. Um now you can go different one where it's like they want to make sure their dog never gets lost or they want to make sure uh people know their dog, in that instance, right? And you can keep asking why.
+
+188
+00:18:35,420 --> 00:18:45,760
+That was a rabbit hole again that I was going to go down. I was like you can keep asking like why does this matter and you might get down to what they actually want, but at the end of the day, we're trying to identify some of these desires here, okay? So, what I would also do
+
+189
+00:18:45,760 --> 00:18:51,840
+is I would copy this same thing here and I again, I would go into Claude. And I would say, "Hey Claude,
+
+190
+00:18:52,500 --> 00:19:04,220
+can you then turn these benefits into desires?" And I I know a lot of you guys don't even know what desires are yet. Um, so you might have to watch the desires video as well as we go through this, but just
+
+191
+00:19:04,220 --> 00:19:11,280
+I want you you don't even really need to understand desires to go through this, because this is what desires are. It's what people want, okay? Very simply put.
+
+192
+00:19:11,280 --> 00:19:27,280
+And we're going to go a lot deeper to how you guys can actually identify the desires, because that's what matters most. Um, but at the end of the day, we want to go through and we just want to assume, and so we're just going to follow this exercise uh and you'll understand why desires are important in a little bit. But, hey Claude, can you turn these benefits into desires?
+
+193
+00:19:27,920 --> 00:19:36,160
+Let's see what it does. So benefit, the dog won't get out of the harness. Desire, I want to feel confident my dog will stay safe and secure no matter how excited uh or strong they get.
+
+194
+00:19:36,780 --> 00:19:41,540
+Pretty solid one there, right? Benefits: made in the USA. I want to support American jobs and buy a quality product so I can trust. There you go.
+
+195
+00:19:42,660 --> 00:19:45,920
+Adjustable straps helps make sure that, it is the perfect fit for the dog. I want
+
+196
+00:19:45,920 --> 00:19:47,880
+my dog to be comfortable and happy on every walk,
+
+197
+00:19:48,300 --> 00:19:52,140
+right? Heavy duty D-ring. I want enjoyable, stress-free walks where I'm in control.
+
+198
+00:19:52,140 --> 00:19:55,760
+Is that what I said, right? I think I said that. I want to feel in control. Aha!
+
+199
+00:19:55,900 --> 00:19:58,480
+Look at me cooking, guys! Come on now. Told you,
+
+200
+00:19:58,720 --> 00:19:59,900
+I'm decent at this stuff.
+
+201
+00:20:00,320 --> 00:20:02,680
+I want my dog's gear-- this is crazy.
+
+202
+00:20:04,020 --> 00:20:06,320
+Customizable, it's just, and I love this stuff by the way, guys, because
+
+203
+00:20:06,320 --> 00:20:12,100
+going back through and doing this stuff is, it's just really good. Even every now and then if this is just like basic stuff for you, maybe you're
+
+204
+00:20:12,100 --> 00:20:17,280
+rewatching this and you're not, you know, someone that's in Origins, or if you are in Origins, I hope you're liking this stuff, but
+
+205
+00:20:17,280 --> 00:20:20,000
+it's good to come back and do this stuff, and go back and really
+
+206
+00:20:20,000 --> 00:20:25,640
+sit in the fundamentals because this is where a lot of growth is happened. And sometimes we just need to be reminded more than you need to be taught,
+
+207
+00:20:25,900 --> 00:20:31,900
+you know? Big Alex Hormozi saying. Customizable, it allows people to show their personality. So desire, I want my dog's gear to reflect
+
+208
+00:20:31,900 --> 00:20:33,940
+how special and unique they are to me,
+
+209
+00:20:34,480 --> 00:20:40,260
+right? And then customizable, peace of mind knowing your dog is properly identified. I want to know that if something happens, my dog will find their way back to me.
+
+210
+00:20:40,640 --> 00:20:44,100
+Okay, so there you go. Really good one, right? So now we could create this angle. My mind's
+
+211
+00:20:44,100 --> 00:20:48,100
+already running with a bunch of angles, just from doing this stuff, where it's like, okay, we've got this name tag here,
+
+212
+00:20:48,620 --> 00:20:52,800
+what if we, you know, create a story about like how this name tag saved a dog, right?
+
+213
+00:20:53,100 --> 00:20:57,940
+And we can actually go out and ask customers and find out if you have enough customers, like hey, has that ever happened? Has anybody ever like
+
+214
+00:20:57,940 --> 00:21:03,540
+returned your dog home after seeing the name, you know? Potentially people have their address on the other side, or whatever it is.
+
+215
+00:21:04,080 --> 00:21:09,100
+You know, it would be, would be pretty awesome. But obviously people aren't breaking out of this, but you know, if they're off the leash running around,
+
+216
+00:21:09,100 --> 00:21:09,860
+you get the idea.
+
+217
+00:21:10,380 --> 00:21:10,680
+Okay?
+
+218
+00:21:11,220 --> 00:21:14,040
+So there we go. Now the final part down here, but that
+
+219
+00:21:14,040 --> 00:21:16,060
+I love most is new
+
+220
+00:21:16,060 --> 00:21:19,720
+mechanisms. Okay? So these are going to be USPs. So
+
+221
+00:21:19,720 --> 00:21:23,780
+USPs are unique selling propositions, aka what makes your product unique. And again,
+
+222
+00:21:24,080 --> 00:21:27,920
+this is assumed, I need to add another assumed here. Assumed
+
+223
+00:21:27,920 --> 00:21:32,500
+new mechanisms. What do you, or what are you assuming
+
+224
+00:21:32,500 --> 00:21:37,340
+is a unique mechanism? Because a lot of you guys think you have a unique mechanism. That's actually not that unique.
+
+225
+00:21:37,360 --> 00:21:41,860
+There's a lot of people that have it. But does your product have any new mechanisms that separate it
+
+226
+00:21:41,860 --> 00:21:44,780
+from the market? I would say one thing that stands out to me is the customizable
+
+227
+00:21:46,200 --> 00:21:46,780
+name tag.
+
+228
+00:21:46,780 --> 00:21:50,500
+I haven't really seen that on a lot of harnesses before.
+
+229
+00:21:51,200 --> 00:21:56,620
+Another thing that I would say as well, just from like outside looking in of like potential new mechanisms,
+
+230
+00:21:56,620 --> 00:22:02,880
+is the D-ring as well, so like this front, not the back one, but there's this D-ring here.
+
+231
+00:22:03,380 --> 00:22:04,820
+I don't know if it's even on here.
+
+232
+00:22:04,820 --> 00:22:07,040
+I don't think it actually shows it.
+
+233
+00:22:07,040 --> 00:22:12,680
+Heavy duty D-ring, yeah, it's actually not even included, so that should be in there. But I would say like that D-ring
+
+234
+00:22:12,680 --> 00:22:16,240
+is definitely a, a new mechanism, so the front
+
+235
+00:22:16,240 --> 00:22:17,380
+D-ring.
+
+236
+00:22:17,820 --> 00:22:25,620
+It's not something that I've really seen on harnesses before. I didn't really know that was a thing, so that could also be a new mechanism. Okay? And again, you can add as many as you want,
+
+237
+00:22:25,860 --> 00:22:28,620
+but just understand that these new mechanisms, a lot of the time,
+
+238
+00:22:28,620 --> 00:22:32,860
+are going to be hard if you just have a basic product that is the same as everyone else's, okay? And so,
+
+239
+00:22:32,860 --> 00:22:37,600
+we're going to get into other ways about how you can differentiate yourself if you don't have new mechanisms, but new mechanisms are
+
+240
+00:22:37,600 --> 00:22:41,780
+literally the, the most powerful thing, so you really want to think deep. And so what you could also do
+
+241
+00:22:41,780 --> 00:22:43,400
+is now that we've done this,
+
+242
+00:22:44,320 --> 00:22:45,500
+we can customize this,
+
+243
+00:22:45,500 --> 00:22:49,540
+and, or we can just copy this and you could even in your same chat, if you've been doing this,
+
+244
+00:22:50,060 --> 00:22:53,540
+based on what you know about the dog
+
+245
+00:22:53,540 --> 00:22:54,500
+harness,
+
+246
+00:22:57,780 --> 00:22:58,160
+what,
+
+247
+00:22:58,160 --> 00:22:59,420
+how would you answer this?
+
+248
+00:23:03,080 --> 00:23:07,380
+And now what we're going to do is see if Claude can come up with any other mechanisms for us.
+
+249
+00:23:10,260 --> 00:23:18,580
+Based on what I know about the dark harness, the 1-2-3 quick-clip system, so new me- mechanism, ultra fast application. ITW military-grade unbreakable buckle,
+
+250
+00:23:19,000 --> 00:23:27,800
+uses the same buckle system trusted by military and life-saving equipment. Front-clip, anti-pull heavy duty, so new mechanism, strategic D-ring placement that redirects
+
+251
+00:23:27,800 --> 00:23:33,860
+pulling force to naturally discourage behavior. Integrated customizable ID system, built-in ID patch,
+
+252
+00:23:35,660 --> 00:23:39,300
+and chafe-resistant comfort engineering, so new mechanism, lightweight materials
+
+253
+00:23:40,200 --> 00:23:46,960
+designed to prevent rubbing and skin irritations. So those could all be potentially new mechanisms. I actually really like this chafe-resistant one as well,
+
+254
+00:23:47,980 --> 00:23:53,760
+but I also do like the military-grade. I think this is awesome, this is really great for
+
+255
+00:23:53,760 --> 00:24:01,200
+us to also put in here, so we could just say the military-grade unbreakable technology is a pretty solid
+
+256
+00:24:01,200 --> 00:24:05,140
+new mechanism for us to leverage, 100%.
+
+257
+00:24:05,140 --> 00:24:11,880
+So there we go, so there is the new mechanisms. And then the final one down here is hidden mechanism
+
+258
+00:24:12,400 --> 00:24:18,540
+analysis. And so you can use AI for this, if you've been going through this and this says step five, so this will say step seven.
+
+259
+00:24:19,200 --> 00:24:26,060
+But here is just answer these to help the AI identify mechanisms that you might be blind to. And so the most important thing here to understand--
+
+260
+00:24:26,900 --> 00:24:32,580
+Sorry, I had to take a quick drink out of my stainless steel Stanley cup there, but basically here with the
+
+261
+00:24:32,580 --> 00:24:38,760
+AI analysis, this will be something that we actually give to the AI so that the AI can actually do some research for us. But at the end of the day,
+
+262
+00:24:38,760 --> 00:24:39,060
+you
+
+263
+00:24:38,920 --> 00:24:44,180
+What does your product do that you don't advertise, okay? So this really helps
+
+264
+00:24:44,180 --> 00:24:48,280
+you think through and now you should know your advertising, if you have not really advertised
+
+265
+00:24:48,280 --> 00:24:53,620
+yet, which maybe a lot of you haven't, then you can just kind of leave this blank. But for people who have
+
+266
+00:24:53,620 --> 00:24:59,380
+really been pushing this, this is about trying to figure out like, okay, what are some angles that I haven't been advertising,
+
+267
+00:24:59,380 --> 00:25:04,520
+right? And now just to show you that Claude, and for all you guys that like rely too much
+
+268
+00:25:04,520 --> 00:25:10,400
+on AI, Claude might answer this question, and it's going to say like, "Based on what I know,
+
+269
+00:25:10,400 --> 00:25:15,860
+right? Here's things that you likely don't advertise." It doesn't know what we're advertising. It has no idea.
+
+270
+00:25:15,860 --> 00:25:20,340
+I haven't like literally shown him what we're saying, all right?
+
+271
+00:25:20,340 --> 00:25:26,240
+Um, but here's something that's kind of cool. It's it just like gave us a bunch of ad ideas anyways, and so Claude is
+
+272
+00:25:26,240 --> 00:25:30,620
+kind of good for that. But again, like Claude is giving you answers to like it could it should not
+
+273
+00:25:31,000 --> 00:25:35,780
+Like re- in reality, Claude should say, "Honestly Spencer, I don't know what you're advertising, so
+
+274
+00:25:35,800 --> 00:25:40,700
+what are you advertising and then I can tell you." And so he just says, "Here are like hidden benefits you that you're not promo-
+
+275
+00:25:40,700 --> 00:25:46,160
+promoting, which is reduces uh vet bills, saves your back and shoulders, uh improves a dog's confidence,
+
+276
+00:25:46,360 --> 00:25:50,360
+protects your investment, makes training easier, increases daily exercise, reduces escape- uh
+
+277
+00:25:50,360 --> 00:25:54,080
+related liability, and builds stronger human-dog bond,"
+
+278
+00:25:54,560 --> 00:25:54,880
+right?
+
+279
+00:25:55,700 --> 00:26:01,840
+"And so these indirect benefits that are harder to prove focus on problems, they might seem like overpromising, but they're long-term benefits rather than
+
+280
+00:26:02,460 --> 00:26:03,200
+instant gratification." Okay?
+
+281
+00:26:03,680 --> 00:26:08,060
+And so, those are some things. Now, if you want to jot them down, again, you have to really look at your marketing. Now, for this brand
+
+282
+00:26:08,060 --> 00:26:13,740
+specifically, I'm not going to go into that, um but essentially just like think about like, "What does your product do that you don't advertise?" Okay?
+
+283
+00:26:14,120 --> 00:26:18,240
+I'd say one thing that we actu- I actually know for a fact that we're not ad- advertising is this IT
+
+284
+00:26:18,780 --> 00:26:22,200
+DW uh military-grade. This is something that we're not advertising.
+
+285
+00:26:23,180 --> 00:26:29,740
+I I know that as a fact, so I'm actually going to put that there, because that's actually a good thing uh for me to chat with the team about,
+
+286
+00:26:29,740 --> 00:26:34,340
+as we are going through and managing this brand. Um, so here, "What ingredients
+
+287
+00:26:34,420 --> 00:26:41,640
+and components do you include that competitors don't?" So again, here, we're getting into some of these unique things that we do, name tags,
+
+288
+00:26:42,100 --> 00:26:47,240
+basically these these new mechanisms right here, right? Um, again, the front D-ring, some competitors
+
+289
+00:26:47,240 --> 00:26:51,620
+do this, but not as much. Um, maybe we get into the same thing here,
+
+290
+00:26:52,720 --> 00:26:56,060
+the ITDW buckle, right? So what are, again, ingredients, components,
+
+291
+00:26:56,720 --> 00:26:59,380
+what do you include that competitors don't? And then here,
+
+292
+00:27:00,360 --> 00:27:05,780
+when you get to, "If your product worked too well, what would be the problem that customers would complain about?" So it's like,
+
+293
+00:27:06,140 --> 00:27:09,040
+"Dog walks are so boring.
+
+294
+00:27:10,040 --> 00:27:10,520
+The dog
+
+295
+00:27:10,520 --> 00:27:12,140
+never pulls
+
+296
+00:27:12,140 --> 00:27:13,060
+anymore."
+
+297
+00:27:14,120 --> 00:27:21,080
+What else would uh people complain? And this is just a fun way to think about things guys, cuz like this helps get your creative juices flowing for new ad ideas and
+
+298
+00:27:21,080 --> 00:27:24,400
+trying to think of, you know, new mechanisms. Um, so what else? Um,
+
+299
+00:27:25,040 --> 00:27:30,960
+"The dog um doesn't- the dog is confused on how I put the harness on
+
+300
+00:27:33,540 --> 00:27:34,420
+so fast.
+
+301
+00:27:36,240 --> 00:27:37,260
+The dog is,
+
+302
+00:27:37,260 --> 00:27:39,300
+you know, the dog- Ugh.
+
+303
+00:27:39,300 --> 00:27:48,020
+never has to use uh, or never chafes anymore." If it worked too well it's like uh, "The dog
+
+304
+00:27:49,580 --> 00:27:53,760
+What else could- Or it's like your, "You don't get a, you know, a shoulder workout."
+
+305
+00:27:54,720 --> 00:28:00,240
+"You are You actually have to go and work out shoulders again." Something ridiculous, but you kind of get the point. Um, I'm actually going to take this cuz
+
+306
+00:28:00,240 --> 00:28:05,640
+cuz Claude's pretty creative as well, and uh again, we're going to give this to Claude, and let's just uh see what it can come up with,
+
+307
+00:28:05,640 --> 00:28:12,920
+and uh see if he gives us anything fun. Uh, "It's too easy to put on," like I just said. "It's too secure," right? "Stops pulling
+
+308
+00:28:13,200 --> 00:28:20,100
+too well, it's too durable, uh the ID feature." I don't like this, so I'm going to probably stop Claude. Uh, I'm not a fan
+
+309
+00:28:20,100 --> 00:28:22,620
+of the "too."
+
+310
+00:28:24,460 --> 00:28:27,520
+I just want you to think more creatively
+
+311
+00:28:29,740 --> 00:28:30,380
+around
+
+312
+00:28:30,380 --> 00:28:34,460
+what customers would complain about in general.
+
+313
+00:28:36,780 --> 00:28:37,440
+So let's see.
+
+314
+00:28:38,780 --> 00:28:39,840
+"My dog is addicted to walks now."
+
+315
+00:28:39,840 --> 00:28:44,800
+You know, "My dog My dog loves walks even more." That's a good one, right?
+
+316
+00:28:45,120 --> 00:28:46,220
+Uh, "My dog
+
+317
+00:28:46,220 --> 00:28:49,700
+somehow likes
+
+318
+00:28:53,280 --> 00:28:58,620
+Or, for example, this would be a funny one. It's like, now even I look forward to walks now, right?
+
+319
+00:28:58,860 --> 00:29:01,980
+And this is what I love about AI. It can also just spark ideation as well.
+
+320
+00:29:02,720 --> 00:29:08,980
+Now I even get excited for walks, or now I get as excited as my dog,
+
+321
+00:29:12,220 --> 00:29:14,220
+right? Pretty funny concept there.
+
+322
+00:29:14,760 --> 00:29:19,160
+What else do we have here? It makes other owners feel bad, everyone stops and asks me about it, right?
+
+323
+00:29:19,640 --> 00:29:24,460
+I can't have a quick walk anymore, every dog owner wants to know where I get it. Really good one there as well,
+
+324
+00:29:24,960 --> 00:29:27,560
+right, kind of like that third-party validation.
+
+325
+00:29:28,540 --> 00:29:32,020
+My dog becomes a show-off, I can't use walking as an exercise anymore.
+
+326
+00:29:32,980 --> 00:29:36,580
+There we go, that's one I kind of talked about. The nametag creates too much social interaction.
+
+327
+00:29:37,080 --> 00:29:40,220
+It spoiled my dog, I have nothing to complain about.
+
+328
+00:29:41,000 --> 00:29:45,240
+My go-to conversation starter is now gone. So, kind of some, eh, stuff, but some good stuff as well.
+
+329
+00:29:45,620 --> 00:29:50,120
+And then here: if someone was explaining this product to their friend, what would they say? And this is one that I love to use with AI as well.
+
+330
+00:29:50,740 --> 00:29:56,860
+Or even, if you want, what you guys can do as well is like text a friend and ask a friend. Be like, "Hey, can you explain this product to me?"
+
+331
+00:29:56,980 --> 00:29:59,620
+And they'd be like, "It's a dog harness that looks like it does XYZ."
+
+332
+00:30:00,260 --> 00:30:03,080
+Or have like a family member do it as well. It's kind of a fun way to go through and do it.
+
+333
+00:30:03,320 --> 00:30:05,320
+You can also use AI as well.
+
+334
+00:30:06,360 --> 00:30:11,480
+So, here's a decent one as well that we can just pop in here. It's really important that we
+
+335
+00:30:11,480 --> 00:30:13,440
+read this, obviously.
+
+336
+00:30:14,140 --> 00:30:18,620
+So, "Oh my god, you need to get this harness. So you know I was complaining about Max pulling me down the street?
+
+337
+00:30:18,860 --> 00:30:23,800
+Well, I found this harness and it's like a miracle." First of all, and I might even ask Claude to make this less salesy.
+
+338
+00:30:24,280 --> 00:30:33,340
+Can we make this less salesy and cheesy and more just focus like you're telling a friend about it?
+
+339
+00:30:33,340 --> 00:30:37,140
+And, again, this is where it takes some experience,
+
+340
+00:30:37,140 --> 00:30:43,880
+like communicat- or communicating with AI and understanding when it's like being dumb and when it's being good.
+
+341
+00:30:44,500 --> 00:30:50,100
+So, "I got it because Jake's old one broke, the plastic buckle just snapped." So, here we go. This is casual, right?
+
+342
+00:30:50,360 --> 00:30:51,020
+So, now we can paste this in.
+
+343
+00:30:51,780 --> 00:30:56,420
+"I got it because Jake's old one broke and the plastic buckle just snapped one day when he lunged after something.
+
+344
+00:30:57,280 --> 00:31:03,400
+This one has some heavy-duty buckle that's supposed to be unbreakable or whatever. You know the thing I actually like about it is how fast it goes on.
+
+345
+00:31:03,520 --> 00:31:07,720
+You know how Jake used to hate getting his harness on and would try to back away. This one clip
+
+346
+00:31:08,640 --> 00:31:14,880
+clips on super quick, so there's less drama. And it has his name on it, which is kind of nice." Again, I love this, kind of nice, like the name is cool.
+
+347
+00:31:14,880 --> 00:31:20,720
+"I was always worried about losing those little ID tags that jingle around, but honestly the biggest difference is he doesn't pull much anymore.
+
+348
+00:31:21,180 --> 00:31:26,980
+The leash clips to the front instead of the back, so when he tries to pull forward it just kind of redirects him." Love that.
+
+349
+00:31:27,360 --> 00:31:33,080
+"I don't know if it's the harness or if he's just getting older, but our walks are way less stressful now." I love this as well, cause it's like saying,
+
+350
+00:31:33,280 --> 00:31:36,460
+like, "Yeah, it could be the harness, but maybe not." Held up pretty well too.
+
+351
+00:31:36,620 --> 00:31:41,920
+"I think I've had it for like eight months, no issues so far. Why? Is Buddy giving you trouble on walks?
+
+352
+00:31:42,340 --> 00:31:47,240
+Yeah, you might want to try something like this. I think I got it online, let me see if I can find the link." Love it, right? Super casual,
+
+353
+00:31:47,540 --> 00:31:52,720
+super friendly, like this is so telling a friend about it, right? And this is like language that you guys can use as well.
+
+354
+00:31:53,240 --> 00:31:58,400
+So, there you go. That is the Product Overview. We filled this out live, in action, for you guys, and
+
+355
+00:31:58,400 --> 00:32:01,180
+it's been a while since I've done manual stuff and even then I still cheated with Claude.
+
+356
+00:32:01,940 --> 00:32:09,180
+It's very, very good to go through and fill this out, and take the time to actually do this because, again, like you're- you work work smarter not harder, and I've explained this to you guys lots of times, but
+
+357
+00:32:09,180 --> 00:32:13,620
+this is the first most important part. Step one: basics, what the heck are we selling?
+
+358
+00:32:14,520 --> 00:32:20,140
+Step two: what does the product do? Step three- and then, obviously, dumbing it down to sixth-grade version. Step three: what are the features?
+
+359
+00:32:20,900 --> 00:32:24,300
+Step four: what are those assumed benefits? What will those features do? Step five: assumed desires.
+
+360
+00:32:24,600 --> 00:32:27,820
+Again, I know you guys haven't learned fully about desires yet, but, you know, for each benefit,
+
+361
+00:32:28,140 --> 00:32:33,140
+what are those deeper desires? And then from there, step six: assumed new mechanisms, so USPs. And then step seven
+
+362
+00:32:33,140 --> 00:32:38,080
+is the hidden mechanisms. And this is where we can start thinking really creatively. So, there you go.
+
+363
+00:32:38,300 --> 00:32:43,480
+That is how to fill out the Product Overview document, and I will see you guys in the next one that talks about desires.

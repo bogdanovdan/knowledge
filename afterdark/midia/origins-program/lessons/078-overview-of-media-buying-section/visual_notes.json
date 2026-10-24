@@ -1,0 +1,75 @@
+{
+  "lesson": {
+    "num": 78,
+    "id": "078-overview-of-media-buying-section",
+    "title": "Overview of media buying section",
+    "video": "78. Overview of media buying section Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T19:31:06-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "854x480 (native)",
+  "candidates_reviewed": 11,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 30.03,
+      "time": "00:00:30",
+      "frame": "frames/078_00-00-30.png",
+      "category": "software_demo",
+      "title": "Origins Classroom: How to set ROAS targets for scaling",
+      "on_screen": "Course module page: 'How to set ROAS targets for scaling'\nLink To Calculator: https://www.easyamedia.com/profit-calculator\nREMINDER\nThat calculator can be glitchy. So if you're having issues, make sure you just remove the numbers and type them back in. And if you have any empty spaces, make sure you put a zero.\nIf you message me saying the calculator is broken, I will tell you to come back [and watch] the video again.\ntldr;\nTake your breakeven ROAS and add \"1\" to it.\nExample:\nB/E ROAS = 1.6 -> Target ROAS = 2.6",
+      "not_in_transcript": "URL: 'https://www.easyamedia.com/profit-calculator'; text: 'Take your breakeven ROAS and add \"1\" to it. Example: B/E ROAS = 1.6 -> Target ROAS = 2.6'; reminder text about calculator bugs.",
+      "legibility": "clear",
+      "candidate_id": "F005",
+      "drive_url": "https://drive.google.com/file/d/13RQfAs5b8WVgOqZppp2NI7UHywkRr1gM/view?usp=drivesdk"
+    },
+    {
+      "t": 40.007,
+      "time": "00:00:40",
+      "frame": "frames/078_00-00-40.png",
+      "category": "software_demo",
+      "title": "Origins Classroom: How to determine minimum daily spend",
+      "on_screen": "Module title: 'How to determine minimum daily spend'\nText:\n'If you're spending above $500 per day, you can ignore this'\n'If you are not, the minimum daily spend is WHATEVER you're comfortable spending per day, no matter WHAT.'\n'Ideally, we recommend a minimum of $50-$100 per day'\n'You can be less, you can be more, but $100 per day is always a great place to start [for] the machine data.'\n'Just make sure you have the budget to test for 1-2+ months.'",
+      "not_in_transcript": "Rule: 'If you're spending above $500 per day, you can ignore this'; budget requirement note: 'Just make sure you have the budget to test for 1-2+ months.'",
+      "legibility": "clear",
+      "candidate_id": "F007",
+      "drive_url": "https://drive.google.com/file/d/13RQfAs5b8WVgOqZppp2NI7UHywkRr1gM/view?usp=drivesdk"
+    },
+    {
+      "t": 50.017,
+      "time": "00:00:50",
+      "frame": "frames/078_00-00-50.png",
+      "category": "software_demo",
+      "title": "Origins Classroom: How to setup your 3:2:2 campaign",
+      "on_screen": "Module title: 'How to setup your 3:2:2 campaign'\n'To Sum Up:\n1 Campaign\n1 Champions Ad set, Multiple Creative Test Ad Sets\n3 creatives in each ad set (same concept), each with 2 headlines and 2 copies'\n'WARNING DO NOT TURN OFF YOUR EXISTING ADS IF THEY ARE WORKING. THE DUMBEST THING YOU CAN DO IS TURN OFF ADS THAT ARE WORKING. IF YOU[R] CAMPAIGNS ARE WORKING - LEAVE THEM ON - IF YOU TURN THEM OFF AND [LOSE MONEY]... THAT IS ON YOU.'\n'FAQ:\n1. How many creative ad sets can you launch at a time?\n- If you're only spending few hundred a day, I recommend keeping it to 5 [...] (including champions ad set, if it has ads inside) at a time so budget ca[n be] distributed efficiently. Focus more on intent of the ads instead of throw[ing against] the wall.'",
+      "not_in_transcript": "Setup structure breakdown: '1 Champions Ad set, Multiple Creative Test Ad Sets', '3 creatives in each ad set (same concept), each with 2 headlines and 2 copies'; warning text verbatim; FAQ detail recommending max 5 ad sets at a time.",
+      "legibility": "clear",
+      "candidate_id": "F008",
+      "drive_url": "https://drive.google.com/file/d/13RQfAs5b8WVgOqZppp2NI7UHywkRr1gM/view?usp=drivesdk"
+    },
+    {
+      "t": 70.003,
+      "time": "00:01:10",
+      "frame": "frames/078_00-01-10.png",
+      "category": "software_demo",
+      "title": "Origins Classroom: Why bad ads get spend",
+      "on_screen": "Module title: 'Why bad ads get spend'\nVideo thumbnail showing table with columns: 'Amount spent', 'Purchase ROAS (retur...', 'Cost per result', 'Purchases', highlighting Amount spent $7,516.69 and Purchase ROAS 1.58 with red arrow and 'WHY?'.\nText below video: 'How to gauge performance, when to turn ads off, how to decide if you should turn off high spending, low KPI ads.'",
+      "not_in_transcript": "Thumbnail table stats ($7,516.69 spent, 1.58 ROAS, $78.30 Cost per result, 96 Purchases); module description note.",
+      "legibility": "clear",
+      "candidate_id": "F009",
+      "drive_url": "https://drive.google.com/file/d/13RQfAs5b8WVgOqZppp2NI7UHywkRr1gM/view?usp=drivesdk"
+    },
+    {
+      "t": 95.028,
+      "time": "00:01:35",
+      "frame": "frames/078_00-01-35.png",
+      "category": "software_demo",
+      "title": "Origins Classroom: How to scale your account (up & down)",
+      "on_screen": "Module title: 'How to scale your account (up & down)'\nVideo thumbnail shows ad account table with 'Budget: $150,000.00 Daily', 'Purchase ROAS: 6.95'.\nText below video:\n'How to scale the budget up'\n'How to scale the budget down'",
+      "not_in_transcript": "Numbers in preview thumbnail: Budget $150,000.00 Daily, ROAS 6.95; bullet points listed below video.",
+      "legibility": "clear",
+      "candidate_id": "F011",
+      "drive_url": "https://drive.google.com/file/d/13RQfAs5b8WVgOqZppp2NI7UHywkRr1gM/view?usp=drivesdk"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+# 85. Why bad ads get spend - Visual notes
+
+- **Frames kept:** 11 of 100 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive as [085-why-bad-ads-get-spend-frames.zip](https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+- **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
+
+> **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
+
+## [00:02:30] Meta Ads Manager ad performance table with ROAS and spend metrics
+
+frame: 085_00-02-30.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+
+*software demo*
+
+**On screen:**
+
+Meta Ads Manager table under 'Ads for 1 Campaign' (Date range: 'Last month: Aug 1, 2025 - Aug 31, 2025'):
+Columns: Off/On | Ad | Amount spent | Results | Cost per result | Purchases | Cost per purchase | Purchases conversion... | Purchase ROAS | Reach | Impressions | Frequency
+Row 1: On | $7,516.69 | 96 Website purchases | $78.30 | 96 | $78.30 | $11,886.60 | 1.58 | 220,832 | 418,286
+Row 2: On | $3,836.52 | 59 Website purchases | $65.03 | 59 | $65.03 | $7,543.27 | 1.97 | 60,702 | 145,174
+Row 3: On | $2,403.67 | 35 Website purchases | $68.68 | 35 | $68.68 | $4,397.00 | 1.83 | 67,628 | 118,123
+Row 4: On | $2,320.30 | 50 Website purchases | $46.41 | 50 | $46.41 | $6,900.71 | 2.97 | 37,893 | 121,473
+Row 5: Off | $2,080.12 | 17 Website purchases | $122.36 | 17 | $122.36 | $1,616.64 | 0.78 | 98,711 | 145,373
+Row 6: On | $1,984.17 | 24 Website purchases | $82.67 | 24 | $82.67 | $2,650.40 | 1.34 | 38,321 | 51,468
+Row 7: On | $1,921.33 | 21 Website purchases | $91.49 | 21 | $91.49 | $2,193.91 | 1.14 | 25,848 | 91,092
+Row 8: On | $1,801.40 | 30 Website purchases | $60.05 | 30 | $60.05 | $3,528.62 | 1.96 | 33,072 | 74,642
+Row 9: On | $1,770.78 | 29 Website purchases | $61.06 | 29 | $61.06 | $3,510.84 | 1.98 | 28,591 | 62,002
+Row 10: On | $1,683.48 | 26 Website purchases | $64.75 | 26 | $64.75 | $3,736.95 | [cutoff]
+Totals: $58,942.69 Total spent | 792 Total website purchases | $74.42 Cost Per Purchase | $97,911.03 Total conversion value
+
+**Not in transcript:**
+
+Date filter: Aug 1, 2025 - Aug 31, 2025; Exact total spend: $58,942.69; Total conversion value: $97,911.03; Total purchases: 792; Specific reach and impressions values for top ads (e.g. Row 1: Reach 220,832, Impressions 418,286); Row 5 ROAS 0.78 and spend $2,080.12.
+
+## [00:09:25] Meta Ads Manager performance table scrolled to frequency, CPM, and CPC
+
+frame: 085_00-09-25.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+
+*software demo*
+
+**On screen:**
+
+Meta Ads Manager Ads table scrolled horizontally showing additional metrics:
+- Frequency: Top ad (1.89), 2nd (2.39), 3rd (1.75), 4th (3.21), 5th (1.47), 6th (1.34), 7th (3.52), 8th (2.26)
+- CPM (cost per 1,000): $17.97, $26.43, $20.35, $19.10, $14.31, $38.55, $21.09, $24.13
+- Link clicks: 4,689, 1,441, 2,043, 878, 1,212, 1,294, 764, 1,253
+- CPC (cost per link click): $1.60, $2.66, $1.18, $2.64, $1.72, $1.53, $2.51, $1.44
+
+**Not in transcript:**
+
+Detailed CPM figures ($17.97, $26.43, $20.35, etc.) and link clicks count (4,689, 1,441, 2,043, etc.) for each row.
+
+## [00:11:25] Meta Ads Manager table displaying CTR, Video Hook, and Video Hold metrics
+
+frame: 085_00-11-25.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+
+*software demo*
+
+**On screen:**
+
+Meta Ads Manager Ads table scrolled further right to show engagement/creative metrics:
+- CTR (link click-through rate): 1.12%, 0.99%, 1.73%, 0.72%, 0.83%, 2.51%, 0.84%, 1.68%, 1.36%, 0.90%, 0.85%, 1.07%
+- Video Hook: row 3 (38.49%), row 6 (52.50%), row 8 (26.70%), row 10 (0.00%)
+- Video Hold: metric column visible at far right
+
+**Not in transcript:**
+
+CTR percentages per row (1.12%, 0.99%, 1.73%, 2.51%, etc.) and specific Video Hook rates (38.49%, 52.50%, 26.70%).
+
+## [00:11:50] Meta Ads Manager sorted by low spend showing high deceptive ROAS
+
+frame: 085_00-11-50.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+
+*software demo*
+
+**On screen:**
+
+Meta Ads Manager Ads table sorted by Amount spent ascending:
+- Ad 1: Amount spent $1.77 | Results 1 | Cost per result $1.77 | Purchases 1 | Purchases conversion value $195.54 | Purchase ROAS 110.47 | Reach 116 | Impressions 126
+- Ad 2: Amount spent $1.07 | Purchases 1 | ROAS 59.47 | Reach 35 | Impressions 41
+- Ad 3: Amount spent $5.25 | Purchases 1 | ROAS 25.62 | Reach 180 | Impressions 200
+- Ad 4: Amount spent $7.57 | Purchases 1 | ROAS 18.94 | Reach 265 | Impressions 300
+- Ad 5: Amount spent $13.34 | Purchases 1 | ROAS 15.50 | Reach 498 | Impressions 718
+- Ad 6: Amount spent $7.30 | Purchases 1 | ROAS 10.14 | Reach 118 | Impressions 142
+- Ad 7: Amount spent $8.86 | Purchases 1 | ROAS 9.07 | Reach 475 | Impressions 524
+- Ad 8: Amount spent $28.15 | Purchases 1 | ROAS 5.25 | Reach 616 | Impressions 906
+
+**Not in transcript:**
+
+Precise spend amounts ($1.77, $1.07, $5.25, $7.57, $13.34), conversion values ($195.54, $63.63, $134.51), and reach/impressions counts for these low-spend ads.
+
+## [00:15:00] Meta Ads Manager ad sets view for September 1, 2025
+
+frame: 085_00-15-00.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+
+*software demo*
+
+**On screen:**
+
+Meta Ads Manager view for Ad Sets (date set to Sep 1, 2025). Key metrics by row:
+- Row 1: Purchases conversion value $14,150.44 | Purchase ROAS 2.62 | Reach 222,509 | Impressions 226,694 | Frequency 1.02 | CPM $23.87 | Link clicks 2,449 | CPC $2.21 | CTR 1.08% | Hook Rate 40.5%
+- Row 2 (highlighted): Purchases conversion value $5,920.13 | Purchase ROAS 4.01 | Reach 74,273 | Impressions 82,844 | Frequency 1.12 | CPM $17.83 | Link clicks 714 | CPC $2.07 | CTR 0.86%
+- Row 3: Purchases conversion value $1,861.10 | Purchase ROAS 3.77 | Reach 22,996 | Impressions 24,741 | Frequency 1.08 | CPM $19.93 | Link clicks 180 | CPC $2.74 | CTR 0.73% | Hook Rate 17.8%
+- Total row: Purchases conversion value $26,976.34 | Average ROAS 3.04 | Total Reach 318,378 | Total Impressions 380,445 | Frequency 1.19 | CPM $23.30
+
+**Not in transcript:**
+
+Hook rate values visible: 40.5% (Row 1), 17.8% (Row 3), 18.1% (Row 4). Total conversion value: $26,976.34 across 380,445 impressions.
+
+## [00:16:30] Meta Ads Manager ad set performance on September 4, 2025
+
+frame: 085_00-16-30.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+
+*software demo*
+
+**On screen:**
+
+Meta Ads Manager ad sets table for Sep 4, 2025:
+- Row 1: Amount spent $3,220.31 | Purchases 83 | Cost per purchase $38.80 | Purchases conversion value $8,791.83 | Purchase ROAS 2.73 | Reach 208,566 | Impressions 219,799 | Frequency 1.05 | CPM $14.65
+- Row 2: Amount spent $2,329.65 | Purchases 39 | Cost per purchase $59.73 | Purchases conversion value $4,421.27 | Purchase ROAS 1.90 | Reach 71,491 | Impressions 82,983 | Frequency 1.16 | CPM $28.07
+- Row 3: Amount spent $1,257.23 | Purchases 25 | Cost per purchase $50.29 | Purchases conversion value $3,629.89 | Purchase ROAS 2.89 | Reach 40,785 | Impressions 40,785 | Frequency 1.00
+- Total row: Amount spent $8,977.70 | Total purchases 180 | Cost per purchase $49.88 | Purchases conversion value $20,756.91 | Average ROAS 2.31 | Total Reach 344,990
+
+**Not in transcript:**
+
+Exact spent ($3,220.31 vs $2,329.65 vs $1,257.23), purchases (83, 39, 25), and total account spend of $8,977.70 generating $20,756.91 at 2.31 ROAS.
+
+## [00:17:05] Low spend and zero conversion ad sets table in Meta Ads Manager
+
+frame: 085_00-17-05.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+
+*software demo*
+
+**On screen:**
+
+Meta Ads Manager ad sets filtered by lowest spend showing ads getting almost no delivery (Date: Yesterday, Sep 4, 2025):
+- Ad created Sep 2, 2025 | Delivery: Learning | Amount spent $5.15 | Purchases - | Reach 149
+- Ad created Sep 2, 2025 | Delivery: Learning | Amount spent $4.89 | Purchases - | Reach 209
+- Ad created Sep 2, 2025 | Delivery: Learning | Amount spent $3.82 | Purchases - | Reach 68
+- Ad created Sep 2, 2025 | Delivery: Learning | Amount spent $3.88 | Purchases - | Reach 147
+- Ad created Aug 28, 2025 | Delivery: Learning | Amount spent $3.51 | Purchases - | Reach 110
+- Ad created Aug 28, 2025 | Delivery: Learning | Amount spent $2.95 | Purchases - | Reach 66
+- Ad created Sep 2, 2025 | Delivery: Learning | Amount spent $1.26 | Purchases - | Reach 42
+- Ad created Sep 2, 2025 | Delivery: Learning | Amount spent $1.60 | Purchases - | Reach 62
+- Ad created Aug 28, 2025 | Delivery: Learning | Amount spent $0.12 | Purchases - 
+- Ad sets created Sep 5, 2025 | Delivery: Learning | Amount spent $0.00
+
+**Not in transcript:**
+
+Ad creation dates (Aug 28, Sep 2, Sep 5), delivery status ('Learning'), exact micro-spends and corresponding impressions/reach counts.
+
+## [00:19:20] Meta Ads Manager multi-day ad set performance comparison
+
+frame: 085_00-19-20.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+
+*software demo*
+
+**On screen:**
+
+Date range: Sep 1, 2025 - Sep 5, 2025. Columns: EAM. Metrics table showing top ad sets:
+Row 1: Amount spent $12,882.09, Purchases 311, Cost per purchase $41.42, Purchases conv value $33,187.66, Purchase ROAS 2.58, Reach 649,648, Impressions 829,847, Frequency 1.28, CPM $15.52.
+Row 2: Amount spent $11,708.71, Purchases 219, Cost per purchase $53.46, Purchases conv value $29,669.50, Purchase ROAS 2.53, Reach 417,318, Impressions 453,322, Frequency 1.09, CPM $25.83.
+Row 3: Amount spent $4,683.29, Purchases 88, Cost per purchase $53.22, Purchases conv value $10,076.12, Purchase ROAS 2.15, Reach 116,216, Impressions 164,217, Frequency 1.41, CPM $28.52.
+Total spent: $41,373.08, Purchases 851, Cost per action $48.62, Total conv value $102,697.51, Average ROAS 2.48.
+
+**Not in transcript:**
+
+Date range Sep 1, 2025 - Sep 5, 2025; Exact amounts spent ($12,882.09, $11,708.71, $4,683.29); Total spent $41,373.08; Total conversion value $102,697.51; CPM figures ($15.52, $25.83, $28.52).
+
+## [00:21:45] Meta Ads Manager engagement and conversion metrics table
+
+frame: 085_00-21-45.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+
+*software demo*
+
+**On screen:**
+
+Date range: Sep 2, 2025. Columns: EAM (scrolled to engagement metrics).
+Selected row (turned off): ROAS 1.22, Reach 59,676, Impressions 74,354, Frequency 1.25, CPM $31.63, Link clicks 2,721, CPC $0.86, CTR 3.66%, Hook Rate 50.06%, Video Hold 14.06%.
+Top row: ROAS 2.15, Impressions 103,427, CPM $25.24, Link clicks 1,518, CPC $1.72, CTR 1.47%, Hook Rate 38.87%, Video Hold 11.08%.
+Row 2: ROAS 2.62, Impressions 161,954, CPM $15.34, Link clicks 1,357, CPC $1.83, CTR 0.84%.
+Totals row: Average ROAS 2.41, Total impressions 398,124, CPM $22.47, Link clicks 6,598, CPC $1.36.
+
+**Not in transcript:**
+
+Date Sep 2, 2025; Impressions (74,354); Frequency 1.25; CPM $31.63; Link clicks 2,721; Video Hold 14.06%; CTR 3.66%; Hook Rate 50.06%.
+
+## [00:23:35] Meta Ads Manager ad performance on Sep 2 - Sep 3
+
+frame: 085_00-23-35.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+
+*software demo*
+
+**On screen:**
+
+Date range: Sep 2, 2025 - Sep 3, 2025.
+Row 1: Amount spent $5,575.94, Purchases 139, Cost per purchase $40.11, Purchases conv value $14,628.45, Purchase ROAS 2.62, Reach 316,889, Impressions 367,862, Frequency 1.16, CPM $15.16.
+Row 2: Amount spent $4,168.49, Purchases 80, Cost per purchase $52.11, Purchases conv value $9,542.60, Purchase ROAS 2.29, Reach 151,915, Impressions 160,158, Frequency 1.05, CPM $26.03.
+Row 3 (turned off): Amount spent $3,287.90, Purchases 44, Cost per purchase $74.72, Purchases conv value $4,962.03, Purchase ROAS 1.51, Reach 75,480, Impressions 99,832, Frequency 1.32, CPM $32.93.
+Row 4: Amount spent $1,501.36, Purchases 31, Cost per purchase $48.43, Purchases conv value $3,879.97, Purchase ROAS 2.58, Reach 42,104, Impressions 51,432, Frequency 1.22, CPM $29.19.
+Totals: Amount spent $17,488.14, Purchases 353, Cost per action $49.54, Total conv value $41,843.92, Average ROAS 2.39.
+
+**Not in transcript:**
+
+Exact spent values ($5,575.94, $4,168.49, $3,287.90, $1,501.36); Purchases counts (139, 80, 44, 31); Total spent $17,488.14; Total revenue $41,843.92.
+
+## [00:27:20] Origins Skool Community Landing Page
+
+frame: 085_00-27-20.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+
+*webpage*
+
+**On screen:**
+
+A Skool community landing page for Origins (CREATORS OF EVOLVE):
+- URL/Path: skool.com/origins
+- Current Price: $47/month (and going up)
+- Description: Learn how to go from 0 to $100k/mo on Shopify with Facebook ad strategies that actually work.
+- Links: Join Evolve, Work With Our Agency
+- Stats: 558 Members, 21 Online, 7 Admins
+- Button: JOIN $47/month
+- Byline: Private, 558 members, $47 /month, By Spencer Pawliw
+- Text below: Something big is coming. ps. This is the lowest price you'll ever see for this group. pps. You'll get a free copy of Alex Hormozi's new $100M Money Models book when you join.
+
+**Not in transcript:**
+
+URL: skool.com/origins; Price: $47/month; Creator: Spencer Pawliw; 558 members, 21 online, 7 admins; bonus mention: free copy of Alex Hormozi's new $100M Money Models book when joining.

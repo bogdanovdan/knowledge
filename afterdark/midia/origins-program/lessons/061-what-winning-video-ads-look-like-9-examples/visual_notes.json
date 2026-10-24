@@ -1,0 +1,159 @@
+{
+  "lesson": {
+    "num": 61,
+    "id": "061-what-winning-video-ads-look-like-9-examples",
+    "title": "What winning video ads look like (9 examples)",
+    "video": "61. What winning video ads look like (9 examples) Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T18:59:24-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "854x480 (native)",
+  "candidates_reviewed": 23,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 15.015,
+      "time": "00:00:15",
+      "frame": "frames/061_00-00-15.png",
+      "category": "slide",
+      "title": "Origins Winning Video Ads Presentation Title Slide",
+      "on_screen": "Winning Ads\nORIGINS EDITION",
+      "not_in_transcript": "\"ORIGINS EDITION\", Canva interface details",
+      "legibility": "clear",
+      "candidate_id": "F003",
+      "drive_url": "https://drive.google.com/file/d/1g5WrYodTxkESlpOKy6f2Vog8nYmxaQhi/view?usp=drivesdk"
+    },
+    {
+      "t": 25.025,
+      "time": "00:00:25",
+      "frame": "frames/061_00-00-25.png",
+      "category": "ad_example",
+      "title": "Winning Ad Analysis - Using SPEED To Sell",
+      "on_screen": "AI VOICEOVER\nUsing SPEED To Sell\nPRODUCT AWARE\nWhy This Ad Is Great:\n#1 -\nSEE FULL VIDEO + COMMENTS\nSay goodbye to bad dog breath & yellow teeth with this NEW green powder!\nDental powder cleans dog teeth FAST! 🦷",
+      "not_in_transcript": "\"AI VOICEOVER\", \"PRODUCT AWARE\", \"Why This Ad Is Great: #1 -\", \"SEE FULL VIDEO + COMMENTS\", primary text: \"Say goodbye to bad dog breath & yellow teeth with this NEW green powder!\"",
+      "legibility": "clear",
+      "candidate_id": "F004",
+      "drive_url": "https://drive.google.com/file/d/1g5WrYodTxkESlpOKy6f2Vog8nYmxaQhi/view?usp=drivesdk"
+    },
+    {
+      "t": 90.023,
+      "time": "00:01:30",
+      "frame": "frames/061_00-01-30.png",
+      "category": "social_post",
+      "title": "Facebook Ad Post and Comments for PetLab Co.",
+      "on_screen": "PetLab Co.'s Post\nWWW.THEPETLABCO.COM\nKeep their teeth clean WITHOUT a toothbrush!\nLearn more\n45K likes | 19.3K comments | 8.2K shares\nComments:\n- Linda Neve VanDusen: It really works!! Don't put if off..your dog will love you and you willlive what it does. 🐾\n- Kyler Thomas: Seems to work good! We have used for about a year!\n- Nellie Olsen: This stuff works for bad granny dog breath!! Has changed the quality of life for the entire family.\n- Jon Pitts: I'm a believer. My 18 yr dauchound buckles girl is going for the record to the worlds oldest dackshind. 22 will be the yr she dose this...",
+      "not_in_transcript": "Brand name PetLab Co., URL WWW.THEPETLABCO.COM, ad headline \"Keep their teeth clean WITHOUT a toothbrush!\", 45K likes, 19.3K comments, 8.2K shares, specific customer comment texts and user names.",
+      "legibility": "clear",
+      "candidate_id": "F012",
+      "drive_url": "https://drive.google.com/file/d/1g5WrYodTxkESlpOKy6f2Vog8nYmxaQhi/view?usp=drivesdk"
+    },
+    {
+      "t": 110.01,
+      "time": "00:01:50",
+      "frame": "frames/061_00-01-50.png",
+      "category": "webpage",
+      "title": "PetLab Co. Landing Page Advertorial",
+      "on_screen": "PetLab Co. advertorial page:\nHeadline: \"If Your Dog's Breath Makes Your Eyes Water, Try This for 30 Seconds Daily... and Start Enjoying Loving Kisses and Licks Again - No Toothbrush Needed!\"\nBullets:\n- Clinically Tested - reduced a major bad breath compound by 40% in 28 days¹\n- Gets Results - 90-Day Clinical Study Reveals Significant Plaque Buildup Reduction with Daily Use²\n- No Toothbrushing - just a simple sprinkle at mealtimes once a day\nButtons: [Skip] [Find Out More]\n\"As seen on sponsored content: abc, CBS, Forbes, NBC\"",
+      "not_in_transcript": "Bullet text details (40% in 28 days, 90-Day Clinical Study, sprinkle at mealtimes), media logos (abc, CBS, Forbes, NBC), Skip/Find Out More buttons.",
+      "legibility": "clear",
+      "candidate_id": "F013",
+      "drive_url": "https://drive.google.com/file/d/1g5WrYodTxkESlpOKy6f2Vog8nYmxaQhi/view?usp=drivesdk"
+    },
+    {
+      "t": 120.02,
+      "time": "00:02:00",
+      "frame": "frames/061_00-02-00.png",
+      "category": "slide",
+      "title": "Ad Strategy Analysis - Using EASE To Sell",
+      "on_screen": "AI VOICEOVER\nUsing EASE To Sell\nPROBLEM AWARE\nWhy This Ad Is Great :\n#1 -\nSEE FULL VIDEO + COMMENTS\nAd text preview: \"Say goodbye to dandruff and hello to confidence. 2x more pyrithione zinc than leading brands for powerfully effective results\"\nVideo caption: \"HERE'S THE EASIEST WAY\"",
+      "not_in_transcript": "\"AI VOICEOVER\", \"PROBLEM AWARE\", Ad copy: \"Say goodbye to dandruff and hello to confidence. 2x more pyrithione zinc than leading brands for powerfully effective results\", video caption \"HERE'S THE EASIEST WAY\".",
+      "legibility": "clear",
+      "candidate_id": "F014",
+      "drive_url": "https://drive.google.com/file/d/1g5WrYodTxkESlpOKy6f2Vog8nYmxaQhi/view?usp=drivesdk"
+    },
+    {
+      "t": 130.03,
+      "time": "00:02:10",
+      "frame": "frames/061_00-02-10.png",
+      "category": "slide",
+      "title": "Ad Strategy Analysis - Leading With New Mechanism",
+      "on_screen": "AI VOICEOVER\nLeading With New Mechanism\nPRODUCT AWARE\nWhy This Ad Is Great :\n#1 -\nSEE FULL VIDEO + COMMENTS\nAd text preview: \"Compression socks aren't supposed to hurt. But most options are way too tight, overheat your feet, and start sliding down halfway through\"\nVideo caption: \"REVOLUTION THAT'S MAKING\"",
+      "not_in_transcript": "\"PRODUCT AWARE\", copy preview: \"Compression socks aren't supposed to hurt. But most options are way too tight, overheat your feet, and start sliding down halfway through\".",
+      "legibility": "clear",
+      "candidate_id": "F015",
+      "drive_url": "https://drive.google.com/file/d/1g5WrYodTxkESlpOKy6f2Vog8nYmxaQhi/view?usp=drivesdk"
+    },
+    {
+      "t": 135.002,
+      "time": "00:02:15",
+      "frame": "frames/061_00-02-15.png",
+      "category": "slide",
+      "title": "Ad Strategy Analysis - Selling With Negative Curiosity",
+      "on_screen": "AI VOICEOVER\nSelling With Negative Curiosity\nMOST AWARE\nWhy This Ad Is Great :\n#1 - Pattern Interrupt:\nMeta feeds are flooded with overly positive or salesy openings. A negative or \"angry\" line breaks the pattern and feels real or authentic.\n#2 - Curiosity Gap:\nThe viewer's brain asks: \"Wait, why does this person want their money back?\" That unanswered tension keeps them hooked until the reveal.\n#3 - Authenticity & Relatability:\nViewers trust people who seem skeptical or frustrated - it mirrors how they feel toward ads. By starting \"against\" the product, it feels like a genuine review rather than an ad.\nSEE FULL VIDEO + COMMENTS\nAd headline: \"Coffee Got An Upgrade! ☕\n🍎 No Brain Fog\n⚡ Sustained Energy\"\nVideo hook text: \"EVERYDAY DOSE, I WANT MY MONEY BACK 😡\"",
+      "not_in_transcript": "Points #1 (Pattern Interrupt), #2 (Curiosity Gap), #3 (Authenticity & Relatability) full descriptions; \"Coffee Got An Upgrade!\", \"No Brain Fog\", \"Sustained Energy\", \"EVERYDAY DOSE, I WANT MY MONEY BACK 😡\".",
+      "legibility": "clear",
+      "candidate_id": "F016",
+      "drive_url": "https://drive.google.com/file/d/1g5WrYodTxkESlpOKy6f2Vog8nYmxaQhi/view?usp=drivesdk"
+    },
+    {
+      "t": 150.017,
+      "time": "00:02:30",
+      "frame": "frames/061_00-02-30.png",
+      "category": "slide",
+      "title": "Ad Strategy Analysis - 5 Reasons For Desire Visual",
+      "on_screen": "AI VOICEOVER\n5 Reasons For Desire Visual\nPRODUCT AWARE\nWhy This Ad Is Great :\n#1 -\nSEE FULL VIDEO + COMMENTS\nAd text preview: \"Shop your new favorite shirt(s)(s)(s)(s)\nBundle our top-rated shirts... with True Classic packs.\nThe only drawback? You can't wear them all at once.\"\nVideo caption: \"1. They're designed to be tighter around your arms, chest and shoulders\"",
+      "not_in_transcript": "Ad preview text from True Classic; video hook text: \"1. They're designed to be tighter around your arms, chest and shoulders\".",
+      "legibility": "clear",
+      "candidate_id": "F017",
+      "drive_url": "https://drive.google.com/file/d/1g5WrYodTxkESlpOKy6f2Vog8nYmxaQhi/view?usp=drivesdk"
+    },
+    {
+      "t": 155.022,
+      "time": "00:02:35",
+      "frame": "frames/061_00-02-35.png",
+      "category": "slide",
+      "title": "Ad Strategy Analysis - Using Authority To Shift Beliefs",
+      "on_screen": "AI VOICEOVER\nUsing Authority To Shift Beliefs\nPROBLEM AWARE\nWhy This Ad Is Great :\n#1 -\nSEE FULL VIDEO + COMMENTS\nAd text preview: \"Say goodbye to dandruff and hello to confidence\"\nVideo clip showing split screen of scalp treatment and podcast/interview speaker.",
+      "not_in_transcript": "\"PROBLEM AWARE\", \"Say goodbye to dandruff and hello to confidence\".",
+      "legibility": "clear",
+      "candidate_id": "F018",
+      "drive_url": "https://drive.google.com/file/d/1g5WrYodTxkESlpOKy6f2Vog8nYmxaQhi/view?usp=drivesdk"
+    },
+    {
+      "t": 180.013,
+      "time": "00:03:00",
+      "frame": "frames/061_00-03-00.png",
+      "category": "slide",
+      "title": "Ad Strategy Analysis - Selling With Negative Curiosity (Gut Health)",
+      "on_screen": "AI VOICEOVER\nSelling With Negative Curiosity\nPRODUCT AWARE\nWhy This Ad Is Great :\n#1 -\nSEE FULL VIDEO + COMMENTS\nAd text preview: \"Your gut's new best friend! 🍄\n🍄 Improved Gut Health\n🧠 Mental Clarity\"\nVideo hook text: \"but they sent me this entire box\"",
+      "not_in_transcript": "Awareness level: \"PRODUCT AWARE\", copy preview: \"Your gut's new best friend! Improved Gut Health, Mental Clarity\", video subtitle: \"but they sent me this entire box\".",
+      "legibility": "clear",
+      "candidate_id": "F020",
+      "drive_url": "https://drive.google.com/file/d/1g5WrYodTxkESlpOKy6f2Vog8nYmxaQhi/view?usp=drivesdk"
+    },
+    {
+      "t": 185.018,
+      "time": "00:03:05",
+      "frame": "frames/061_00-03-05.png",
+      "category": "slide",
+      "title": "Ad Strategy Analysis - Specific Avatar Pain Point",
+      "on_screen": "AI VOICEOVER\nSpecific Avatar Pain Point\nPROBLEM AWARE\nWhy This Ad Is Great :\n#1 -\nSEE FULL VIDEO + COMMENTS\nAd text preview: \"Proudly made in the USA with over 7,423 ⭐⭐⭐⭐⭐ reviews, Hollow Alpaca Socks are the go-to for over 241,000 athletes, hikers,\"\nVideo hook text: \"Your toes will never be cold again\"",
+      "not_in_transcript": "Ad text copy: \"Proudly made in the USA with over 7,423 reviews, Hollow Alpaca Socks are the go-to for over 241,000 athletes, hikers,\", awareness level: \"PROBLEM AWARE\".",
+      "legibility": "clear",
+      "candidate_id": "F021",
+      "drive_url": "https://drive.google.com/file/d/1g5WrYodTxkESlpOKy6f2Vog8nYmxaQhi/view?usp=drivesdk"
+    },
+    {
+      "t": 215.015,
+      "time": "00:03:35",
+      "frame": "frames/061_00-03-35.png",
+      "category": "slide",
+      "title": "Ad Strategy Analysis - Stopped Common Mechanism",
+      "on_screen": "AI VOICEOVER\nStopped Common Mechanism\nPRODUCT AWARE\nWhy This Ad Is Great :\n#1 -\nSEE FULL VIDEO + COMMENTS\nAd text preview: \"Where luxury meets efficiency.\nOur seriously soft, temperature-regulating sheets offer unbeatable comfort all while preventing 99.7% of bacteria growth. That means 3x less laundry! Enjoy a cleaner, fresher, more comfortable sleep—in one...\"\nVideo hook text: \"Here's why I stopped using regular sheets\"",
+      "not_in_transcript": "Awareness level: \"PRODUCT AWARE\", copy details: \"Where luxury meets efficiency... preventing 99.7% of bacteria growth. That means 3x less laundry!\".",
+      "legibility": "clear",
+      "candidate_id": "F022",
+      "drive_url": "https://drive.google.com/file/d/1g5WrYodTxkESlpOKy6f2Vog8nYmxaQhi/view?usp=drivesdk"
+    }
+  ]
+}

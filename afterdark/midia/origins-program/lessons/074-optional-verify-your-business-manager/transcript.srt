@@ -1,0 +1,151 @@
+1
+00:00:00,000 --> 00:00:07,780
+All right. So, who here is a super quick walk through on how to get or enable the business verification. So, depending on
+
+2
+00:00:07,780 --> 00:00:15,460
+the account there might be an option here inside of Security Center. Okay, so you just go business.facebook.com/settings. If you click into the Security Center,
+
+3
+00:00:15,580 --> 00:00:24,280
+there might be an option here to start the verification process. And if you're unsure whether or not a business is verified, you just want to go ahead and take a look here. And as you can see, this business, or
+
+4
+00:00:24,280 --> 00:00:29,860
+our business right now, is not verified. So, how do you go about verifying it? Well, again, like I said, you want to go to the Security
+
+5
+00:00:29,860 --> 00:00:37,600
+Center, but that's not showing, then you need to do a little bit of a workaround. So, what you need to do is you need to head over to Apps. So, underneath Accounts, you're going to go to Apps.
+
+6
+00:00:37,940 --> 00:00:44,700
+You're going to head and click Add, and then Create a New App ID. And this is going to take you to Meta for Developers.
+
+7
+00:00:45,160 --> 00:00:52,320
+Then what you want to do is you want to click insta- Instant Games, click Next. And then here, you can just type whatever name. So, I usually just do
+
+8
+00:00:52,560 --> 00:00:58,800
+For Verif is the name of every game I usually make. You'll go ahead and Create app.
+
+9
+00:00:59,240 --> 00:01:02,800
+Make sure that you enter in your password. So, I'm going to go ahead and do that.
+
+10
+00:01:05,200 --> 00:01:14,820
+Now, once that loads, it's going to take you to an option to select which product you want to set up. So, you want to go ahead and set up Instant Games, click "I agree," and click Confirm.
+
+11
+00:01:16,260 --> 00:01:19,860
+Once you do that, again, it will take a second just to load.
+
+12
+00:01:19,860 --> 00:01:29,160
+And now, once that loads, you've just got to write out some super basic information. So, tagline, "best game ever,"
+
+13
+00:01:30,000 --> 00:01:37,980
+publisher, you're going to go ahead and just say whatever you want, short description, "it's the greatest,"
+
+14
+00:01:37,980 --> 00:01:44,580
+category, you're just going to select whatever. Let's do a sports one. And
+
+15
+00:01:44,580 --> 00:01:50,620
+app icon, we're going to go ahead and adjust this in a second. But now, you just want to go ahead and click Save Changes.
+
+16
+00:01:52,680 --> 00:01:55,780
+So now that you've done that, you want to go over to Settings and click Basic.
+
+17
+00:01:59,540 --> 00:02:09,760
+And, now, once you're in there, you need to go ahead and set up a privacy policy URL. So, as you can see, I just used Google. So, just go ahead and use www.google.com.
+
+18
+00:02:10,660 --> 00:02:15,800
+You're going to go ahead and do the same thing here. So, go ahead and copy this, paste that.
+
+19
+00:02:16,380 --> 00:02:24,400
+And then, you want to make sure you you upload a image here that is 1024x1024. So, what I typically do is I just go to Google and I look up blue square
+
+20
+00:02:24,400 --> 00:02:33,340
+1080x1080. So, you can go ahead and you can save that. And then you're just going to go ahead and just drag that in. Well, actually, I guess you've got to upload it. So, let me go ahead
+
+21
+00:02:33,340 --> 00:02:39,620
+and upload it. So, choose file, go to downloads, wherever my computer downloads it. Go.
+
+22
+00:02:39,620 --> 00:02:48,140
+And once you upload that, you should be good to go. Actually, if it doesn't work, then you need to go ahead and find one that's 1024x20- 1024. So let me go ahead and do that.
+
+23
+00:02:48,600 --> 00:02:57,220
+All right. Now I've actually got a proper blue square. I'm going to go ahead and just upload this inside of Monday for you guys, so you can go ahead and just use it. But I'm going to go ahead and upload that file.
+
+24
+00:02:58,340 --> 00:03:03,180
+And now it likes me. Okay, perfect. And then, again, you're just going to go ahead and click Save Changes.
+
+25
+00:03:03,760 --> 00:03:10,880
+And now, if you scroll down, you'll be able to see that it says Start verification. So, that's how you know you are completely done. So, now, what you can do
+
+26
+00:03:10,880 --> 00:03:17,620
+is you can just go ahead and you can go back to business settings. So, just leave this. And if you go down to
+
+27
+00:03:17,620 --> 00:03:25,000
+Security Center once again, down here, you'll see that Start verification is now there. So, all you need to do
+
+28
+00:03:25,000 --> 00:03:32,840
+is go ahead and click Start verification, Get started, and basically just share this information with the client. So,
+
+29
+00:03:32,840 --> 00:03:39,340
+all you need to do is send them this link. Of course, make sure it's inside their Business Manager, obviously. Send them this link
+
+30
+00:03:39,340 --> 00:03:49,840
+and just take a screenshot and tell them to go through this process, and make sure that they go into the Business Info Center and make sure that they upload all of their information inside of here, if they haven't done
+
+31
+00:03:49,840 --> 00:03:59,560
+that. So, just basically, go in, tell- take a screenshot of this if it's empty, and tell the client to fill in all of this information. And then, if, once you've enabled them for verification,
+
+32
+00:03:59,900 --> 00:04:07,680
+then just go ahead and take a screenshot of this, and send them this URL, and make sure that they know how to go through this process. Again, it is very straightforward. Just tell them to click Start verification.
+
+33
+00:04:08,320 --> 00:04:12,540
+Okay? And then, once the client has verified their business- So, if you can come back after,
+
+34
+00:04:12,540 --> 00:04:20,300
+you know, the client said they've they've filled it out, and they've got approved, and then if you go back into their Business Info and you see that they are verified, then all you're going to simply going to do
+
+35
+00:04:20,300 --> 00:04:25,560
+is go to Apps, come over here, and click Remove, and that's it. So, just make sure that you remove that app.
+
+36
+00:04:26,140 --> 00:04:33,660
+Otherwise, it just looks kind of bad. So, just go ahead and remove that app once the business is fully verified. Now, note: make sure that the business
+
+37
+00:04:33,660 --> 00:04:44,940
+does get verified before you remove that app. If you remove the app before it gets verified, then there's going to be an issue. So, just make sure that once everything is fully verified and you see this "verified"- so, just to show you an example, let me pull up an account.
+
+38
+00:04:45,380 --> 00:04:53,540
+So, here's an example of a business that is verified. Okay, as you can see, verified on that date. So, once you've seen it verified, then you can go ahead and delete that app. Okay? That is it.

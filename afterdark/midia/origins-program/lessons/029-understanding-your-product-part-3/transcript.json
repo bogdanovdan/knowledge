@@ -1,0 +1,570 @@
+{
+  "lesson": {
+    "num": 29,
+    "id": "029-understanding-your-product-part-3",
+    "title": "Understanding Your Product - Part 3",
+    "section": "🧍How To Create Avatars",
+    "video": "29. Understanding Your Product - Part 3 Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 337.941,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=0b4bfa33cccb4c5caf0d935cacb2ebfa"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (96% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 1301,
+    "matched_tokens": 1246,
+    "match_ratio": 0.958,
+    "segments_aligned": 56,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 337.941,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 229.7,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.72,
+      "speaker": "Presenter",
+      "text": "All right. Now, in this video, I'm going to show you how to actually fill out the product document so that way you can actually better understand your product",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 5.72,
+      "end": 10.24,
+      "speaker": "Presenter",
+      "text": "and know what the heck it does, and also use this with AI as well as manuals. So",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 10.24,
+      "end": 16.82,
+      "speaker": "Presenter",
+      "text": "it's going to be a bit of a quick one here for the AI one, and then we're going to have another video that follows up on how to do it manually. So,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 16.82,
+      "end": 23.88,
+      "speaker": "Presenter",
+      "text": "let's go ahead and jump in. So, if you do not know what Claude is, Claude AI is honestly a tool",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 23.88,
+      "end": 29.94,
+      "speaker": "Presenter",
+      "text": "that I recommend literally every single person uses. And I would even recommend getting the paid version. I think it's like 20 bucks a month.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 30.26,
+      "end": 38.3,
+      "speaker": "Presenter",
+      "text": "And the reason why is because you This thing is a lifesaver. I'm not going to lie. I am very overleveraged on Claude. I use it a lot.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 38.8,
+      "end": 44.62,
+      "speaker": "Presenter",
+      "text": "But what this can do for the sake of speed and workflow is absolutely sensational, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 45.1,
+      "end": 49.02,
+      "speaker": "Presenter",
+      "text": "With that said, keep in mind, your work works more on you than you work on it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 49.46,
+      "end": 54.12,
+      "speaker": "Presenter",
+      "text": "I might actually put this after I show the manual one, because I still think a lot of you guys should do this manually, but",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 54.12,
+      "end": 56.98,
+      "speaker": "Presenter",
+      "text": "with AI, it's a great way to expedite things.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 57.18,
+      "end": 63.58,
+      "speaker": "Presenter",
+      "text": "And so if you don't know what a Claude project is, essentially, in Claude, rather than just using the chat, and if you just have the free version,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 63.6,
+      "end": 71.5,
+      "speaker": "Presenter",
+      "text": "you can just use the chat as well. All the documents that I'm about to like upload into this, you can just drag inside of here as well, and I know I say that word funny.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 72.06,
+      "end": 76.98,
+      "speaker": "Presenter",
+      "text": "But we usually use projects, or we actually always use projects. And so when you create a new project,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 77.0,
+      "end": 84.74,
+      "speaker": "Presenter",
+      "text": "you would just say, I'm going to call this Brand Name Example, or Brand Example, uh, for Origins and Evolve.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 85.82,
+      "end": 94.78,
+      "speaker": "Presenter",
+      "text": "Okay? And then here you can describe a goal, but, I mean, this is something that I'll literally just actually copy and paste it from the one that we use, so that way you guys actually have it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 94.96,
+      "end": 101.24,
+      "speaker": "Presenter",
+      "text": "Cool. So, here is actually the prompt that we use, and this prompt will be attached below in the Skool.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 101.76,
+      "end": 107.86,
+      "speaker": "Presenter",
+      "text": "And then from there you will be able to copy and paste it in. But, essentially, you can go ahead and you can create the project.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 108.24,
+      "end": 114.22,
+      "speaker": "Presenter",
+      "text": "And inside of here is where you are going to add files. So in this file, there's essentially three things that you're going to do.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 114.66,
+      "end": 120.08,
+      "speaker": "Presenter",
+      "text": "So, number one, you are going to upload any reviews that you have whatsoever, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 120.72,
+      "end": 127.22,
+      "speaker": "Presenter",
+      "text": "And so, if you don't have reviews, you can just use your research doc for now, but you definitely are going to want to get some kind of customer reviews,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 127.22,
+      "end": 132.66,
+      "speaker": "Presenter",
+      "text": "because it will definitely help Claude with understanding more about your brand. So I'm going to go ahead and upload those.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 133.48,
+      "end": 138.98,
+      "speaker": "Presenter",
+      "text": "Actually, I'm not, because I have the file on [laughter] a different computer. Don't worry about it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 138.98,
+      "end": 143.82,
+      "speaker": "Presenter",
+      "text": "But you would upload the reviews, and then from there, and I actually already have this project made, so it doesn't matter.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 144.0,
+      "end": 148.56,
+      "speaker": "Presenter",
+      "text": "Um, but then from there, you're going to upload your research document as well as your self-onboarding document.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 148.74,
+      "end": 151.22,
+      "speaker": "Presenter",
+      "text": "So, those two documents I have, so I'm actually going to upload those now.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 151.44,
+      "end": 156.2,
+      "speaker": "Presenter",
+      "text": "So, as you can see here, I just clicked those two files. So one is the actual research document that we did,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 156.32,
+      "end": 164.2,
+      "speaker": "Presenter",
+      "text": "uh, which, again, we You guys should have also gone through, because the research process is very important. And then from there, it actually has our onboarding.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 164.26,
+      "end": 170.16,
+      "speaker": "Presenter",
+      "text": "Now, this is the onboarding that this brand actually filled out. But, more importantly, you guys have the same doc as well.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 170.34,
+      "end": 175.42,
+      "speaker": "Presenter",
+      "text": "And at the end of the day, you want this AI to essentially be trained on specific files.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 175.7,
+      "end": 185.04,
+      "speaker": "Presenter",
+      "text": "Now, at the end of the day, there's a lot more that we will likely do with Claude and that we will use Claude for, but just to understand that it needs to have some kind of context information, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 185.48,
+      "end": 191.46,
+      "speaker": "Presenter",
+      "text": "And then from there, what you can actually do is once you've provided that self-onboarding and you've provided the research document,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 191.94,
+      "end": 198.46,
+      "speaker": "Presenter",
+      "text": "you can actually go into this here, and you can copy this entire template, and you can literally just paste it here",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 198.46,
+      "end": 201.34,
+      "speaker": "Presenter",
+      "text": "and say, \"Hey Claude, can you please fill out the following?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 201.84,
+      "end": 206.84,
+      "speaker": "Presenter",
+      "text": "\"Hey Claude, can you please fill out the following?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 207.76,
+      "end": 214.66,
+      "speaker": "Presenter",
+      "text": "And by doing that, it's actually going to just fill this entire thing out for you using the information that you've given it, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 215.16,
+      "end": 219.16,
+      "speaker": "Presenter",
+      "text": "Now, sometimes, I like to say, \"Hey, if you can't fill anything out, or if you have questions, let me know.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 219.62,
+      "end": 225.18,
+      "speaker": "Presenter",
+      "text": "But as you can see, now it's giving the product overview. It says step one, here's Guard Blinds, here's the price point.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 226.06,
+      "end": 233.04,
+      "speaker": "Presenter",
+      "text": "How does the product work? This is what it does. Sixth grade version, this is what it does. Here's the features. It just fills out this entire thing, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 233.04,
+      "end": 238.16,
+      "speaker": "Presenter",
+      "text": "And there's actually an example here for you guys as well. You can see it says product in action.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 238.9,
+      "end": 244.12,
+      "speaker": "Presenter",
+      "text": "Then you can see the features. You can see the assumed benefits, which we're going to get to. Assumed desires,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 245.06,
+      "end": 253.56,
+      "speaker": "Presenter",
+      "text": "new mechanisms, hidden mechanisms, all of the stuff that you're going to need for the next steps here in regards to desires, market sophistication, and everything else.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 253.78,
+      "end": 258.8,
+      "speaker": "Presenter",
+      "text": "Uh, but with that said, that is how you can use Claude to do it very, very simple, very, very fast.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 259.08,
+      "end": 265.12,
+      "speaker": "Presenter",
+      "text": "Now, understand, you don't really learn a lot from doing this. Obviously, you should have learned a lot from doing the research, so you always need to make sure that you go through this and say,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 265.26,
+      "end": 270.08,
+      "speaker": "Presenter",
+      "text": "\"Hey, what What of this is fluff, and what of this is actually accurate and good?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 270.26,
+      "end": 272.84,
+      "speaker": "Presenter",
+      "text": "Because the one thing that you guys need to understand",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 273.26,
+      "end": 280.06,
+      "speaker": "Presenter",
+      "text": "is that Claude and AI, in general, makes educated guesses, okay? It It assumes.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 280.96,
+      "end": 284.96,
+      "speaker": "Presenter",
+      "text": "That's why this says, \"assumed benefits,\" because a lot of you guys maybe have done some research",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 284.96,
+      "end": 292.02,
+      "speaker": "Presenter",
+      "text": "on the market, but we're going to get to that after. Right now, this is just us understanding the product, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 292.1,
+      "end": 295.6,
+      "speaker": "Presenter",
+      "text": "And so we're going to go with our assumptions of what we think the product does.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 295.84,
+      "end": 300.8,
+      "speaker": "Presenter",
+      "text": "I obviously should have seen you guys or you should have done some kind of research on this,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 301.12,
+      "end": 305.54,
+      "speaker": "Presenter",
+      "text": "but at the end of the day, you need to understand what your product does, and so from that side, you need to just have your assumptions.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 305.54,
+      "end": 312.0,
+      "speaker": "Presenter",
+      "text": "It's like, okay, well, the product does this. The product is that. And that's why filling this out manually is really good to do,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 312.24,
+      "end": 318.4,
+      "speaker": "Presenter",
+      "text": "and so that's why you should have seen that in the first video. But now, I'm actually going to go ahead and fill that out myself. I'm just filming this one cuz this is a little bit quicker.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 318.66,
+      "end": 323.84,
+      "speaker": "Presenter",
+      "text": "Uh, but that's how you can use AI to essentially fill this out for you once you have the research document, all that kind of stuff,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 324.12,
+      "end": 331.9,
+      "speaker": "Presenter",
+      "text": "especially if you want to do your research, and then, for example, after this process, go back and give this to Claude and use it later on, you definitely can.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 331.9,
+      "end": 337.86,
+      "speaker": "Presenter",
+      "text": "Uh, but this is how to use Claude to get it to fill out this worksheet for you.",
+      "chunk": 0,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 135.5,
+      "end": 138.0,
+      "label": "laughter"
+    }
+  ]
+}

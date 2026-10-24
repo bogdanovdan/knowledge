@@ -1,0 +1,1002 @@
+{
+  "lesson": {
+    "num": 90,
+    "id": "090-how-to-complete-feedback-loops-12-questions",
+    "title": "How to complete feedback loops (12 questions)",
+    "section": "🧠 How To Do Learnings",
+    "video": "90. How to complete feedback loops (12 questions) Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 704.875,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=4a3ea9fa11364b0a96a41490137d8ed7"
+  },
+  "generated_at": "2026-10-06T20:24:11-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (94% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 2807,
+    "matched_tokens": 2647,
+    "match_ratio": 0.943,
+    "segments_aligned": 100,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 290.194,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.998,
+      "wpm": 242.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 290.194,
+      "end": 620.441,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.997,
+      "wpm": 245.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 620.441,
+      "end": 704.875,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.881,
+      "wpm": 250.8,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.62,
+      "end": 7.7,
+      "speaker": "Presenter",
+      "text": "All right. Now the next part of this is once you have your brief and once you have it laid out, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 8.28,
+      "end": 14.62,
+      "speaker": "Presenter",
+      "text": "This is something that, again, you can get creative with AI, but that's going to be more for the full Evolve program, if I'm being honest.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 14.84,
+      "end": 24.12,
+      "speaker": "Presenter",
+      "text": "There's a little bit that is being held back. But, with that said, something that I want you to consider here is that, one, before you submit your ad,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 24.12,
+      "end": 33.4,
+      "speaker": "Presenter",
+      "text": "or launch it, one, or, two, after after the ad has been created and say you've tested it and and it just didn't scale or or it didn't it didn't convert, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 33.9,
+      "end": 40.34,
+      "speaker": "Presenter",
+      "text": "This is a list of 14 questions that are incredible for you to ask when it comes to video ads specifically.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 40.58,
+      "end": 43.42,
+      "speaker": "Presenter",
+      "text": "Now some of these are also apply to image ads,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 43.6,
+      "end": 54.78,
+      "speaker": "Presenter",
+      "text": "but this is for video specifically. And these 14 questions have actually come from reviewing ads that have literally spent over $50,000 a day,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 55.32,
+      "end": 57.2,
+      "speaker": "Presenter",
+      "text": "okay? And I'm actually going to pull up a screenshot to show you context.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 57.86,
+      "end": 66.4,
+      "speaker": "Presenter",
+      "text": "Okay? Here it is. Here's an ad that, on November 2nd, spent $50,000 in a single day and got a 2.1x return on ad spend.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 67.94,
+      "end": 73.14,
+      "speaker": "Presenter",
+      "text": "After studying ads like this, you will learn what it takes to make ads that can scale. This is possible,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 73.62,
+      "end": 77.66,
+      "speaker": "Presenter",
+      "text": "okay? I want you to understand. Okay, this is very, very possible. This is one campaign,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 77.66,
+      "end": 85.96,
+      "speaker": "Presenter",
+      "text": "as well, for those of you that are like trying to media buy your way and test all this stuff. And obviously we haven't gotten into media buying in this program because the reason why is media buying doesn't matter, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 86.18,
+      "end": 90.52,
+      "speaker": "Presenter",
+      "text": "You can have one campaign. You can I mean, if you ask me, it does matter a little bit, but I'm not going to get into it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 90.68,
+      "end": 92.76,
+      "speaker": "Presenter",
+      "text": "This is proof that this can work,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 93.24,
+      "end": 103.82,
+      "speaker": "Presenter",
+      "text": "okay? And so after reviewing ads like that, these are the questions that we ask ourselves at the agency and, again, that we share with people at Evolve to really consider your ads.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 104.22,
+      "end": 110.74,
+      "speaker": "Presenter",
+      "text": "Okay? Does the first 1 to 2 seconds of this ad, number one, hook in the right user, but, number two, does it keep them hooked in?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 111.14,
+      "end": 120.3,
+      "speaker": "Presenter",
+      "text": "Okay? And I want you to think of a hook of imagine if I had a a a firecracker and I and I lit it on fire and then I put it in my pocket.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 121.1,
+      "end": 125.1,
+      "speaker": "Presenter",
+      "text": "You would probably keep watching and be like, \"What what's going to happen? What what's going on?\", right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 125.1,
+      "end": 133.44,
+      "speaker": "Presenter",
+      "text": "Now that's just a very exaggerated example, but that is an example of like you're hooked in and you're like, \"Wait, what's what's about to happen? Like what's going on?\", right? You're hooked in.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 134.08,
+      "end": 140.36,
+      "speaker": "Presenter",
+      "text": "That feeling that you get from even visualizing that is what a really good hook should do for your potential customer.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 141.24,
+      "end": 146.7,
+      "speaker": "Presenter",
+      "text": "Okay? Number two, is this video is this a video that your potential customer would want to see, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 146.94,
+      "end": 157.64,
+      "speaker": "Presenter",
+      "text": "Very simple. Is that something, you know, would would somebody want to see, would my potential customer want to see me put a fire a firework in my pocket? Maybe they do, maybe they don't, right? Somebody might be like, \"That's so dumb,\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 157.64,
+      "end": 166.9,
+      "speaker": "Presenter",
+      "text": "right? So it's important for you to think, does my potential customer actually want to see this video? Because I think a lot of times we make videos that we like, but we don't think about videos that our customers would want,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 167.12,
+      "end": 173.4,
+      "speaker": "Presenter",
+      "text": "okay? So ask yourself, is this a video that if this came up on my potential customer's feed, would they watch it? Would they want to see it?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 173.4,
+      "end": 179.96,
+      "speaker": "Presenter",
+      "text": "A lot of times that's going to help you figure out whether or not you actually made a good video, or be like, \"Yeah, you know what, to be honest, not really that good of a video.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 180.32,
+      "end": 187.14,
+      "speaker": "Presenter",
+      "text": "Okay? Next thing on here, does the copywriting create a clear image/visual in the user's mind,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 187.48,
+      "end": 199.54,
+      "speaker": "Presenter",
+      "text": "right? So I want to go back and maybe you were born in, I don't know, 1990-ish, and I want you to think of like, you know, for example, let's just say like, you know, I I've I've got more earwax than Shrek,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 199.54,
+      "end": 206.44,
+      "speaker": "Presenter",
+      "text": "right? A lot of people who have seen Shrek are going to be able to visualize clearly like, \"Oh, my gosh, that's so much wax.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 206.74,
+      "end": 210.94,
+      "speaker": "Presenter",
+      "text": "Because like in that video, you know, in that movie, they literally make candles out of his earwax.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 212.08,
+      "end": 218.3,
+      "speaker": "Presenter",
+      "text": "That's how much wax he has, right? So, for example, that is copywriting that creates a very clear visual",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 218.3,
+      "end": 223.14,
+      "speaker": "Presenter",
+      "text": "in the user's mind, right? So if you're selling something that helps with earwax, there you go. There's a free hook for you.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 223.78,
+      "end": 229.48,
+      "speaker": "Presenter",
+      "text": "Does this video feel native to the platform? I think this is something that is super underrated that a lot of people don't consider.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 229.9,
+      "end": 236.84,
+      "speaker": "Presenter",
+      "text": "Am I creating an ad that looks like it should be run on Netflix or on TV? If so, then it's probably not going to be that great for Facebook.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 237.06,
+      "end": 245.58,
+      "speaker": "Presenter",
+      "text": "Can it work on Facebook? Yeah, maybe it can, but if you create something that's native to the platform, you're likely going to see more results because it's what people are used to seeing,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 245.9,
+      "end": 257.62,
+      "speaker": "Presenter",
+      "text": "right? It does not mean that it has to be, you know, the very standard Facebook style. There's a lot of different videos that run on Facebook, but consider, or on Instagram, but consider is this meant for this platform? Super, super important to think through.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 258.02,
+      "end": 262.32,
+      "speaker": "Presenter",
+      "text": "The next thing on this is, does this video contain a label for for who the person is?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 262.64,
+      "end": 268.28,
+      "speaker": "Presenter",
+      "text": "Okay? If you don't know what a label is, well, a label is what people kind of associate themselves with, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 268.58,
+      "end": 276.54,
+      "speaker": "Presenter",
+      "text": "Like I would maybe associate myself as a nerd, right? Or as a marketing nerd, right? All I do is I just do marketing all day. I'm just a nerd. Like I just sit here on my computer, I do this all day long.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 276.54,
+      "end": 282.1,
+      "speaker": "Presenter",
+      "text": "Now am I actually a nerd? I don't know. That's up to for you guys to decide, but we talk about some pretty nerdy stuff here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 282.24,
+      "end": 289.72,
+      "speaker": "Presenter",
+      "text": "So that could be a label, right? So that is something where if you can apply a label, other people will be able to resonate, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 290.5,
+      "end": 295.06,
+      "speaker": "Presenter",
+      "text": "And so this is something that, you know, like dropshipper is a label, right? So",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 295.06,
+      "end": 302.24,
+      "speaker": "Presenter",
+      "text": "considering labels for who the type of person is, and those are very generic ones, right? You want to get more deeper like certain things, like, \"Oh, I'm a",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 302.32,
+      "end": 308.02,
+      "speaker": "Presenter",
+      "text": "I'm a last-minute kind of person,\" right? If If you're a last-minute person, again, that's a label that someone identifies with.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 308.2,
+      "end": 315.06,
+      "speaker": "Presenter",
+      "text": "That's also how you can build relatability, which is one of the other ones, which is: is this video relatable? There you go, it's a very important thing to do. The next thing on here is like: would this",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 315.06,
+      "end": 321.06,
+      "speaker": "Presenter",
+      "text": "video make someone smile or laugh? That's also something where, again, I want you to understand that your video does not have to pass all of these.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 321.38,
+      "end": 329.18,
+      "speaker": "Presenter",
+      "text": "There are certain things where like, you know, th- humor, for example, like would this video make someone smile or laugh? Like that's something to consider. But there's also something here",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 329.58,
+      "end": 338.08,
+      "speaker": "Presenter",
+      "text": "which is around like: does the ad educate the user in a creative way on how to achieve their core desire? That's more education. Now, can you be educational and make someone laugh? Yeah,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 338.26,
+      "end": 343.88,
+      "speaker": "Presenter",
+      "text": "you sure can, and if you can, that's probably going to make your ad even better. But I want you to think through that as well. Like, is this something that's enjoyable?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 343.88,
+      "end": 348.14,
+      "speaker": "Presenter",
+      "text": "Like some of the best ads that we all see and that we really remember are ads that are hilarious,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 348.78,
+      "end": 354.7,
+      "speaker": "Presenter",
+      "text": "right? Or ads that have a deep meaning, and we'll get to that as well. Um, but does this video actually look like an ad? Another great thing,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 354.7,
+      "end": 361.4,
+      "speaker": "Presenter",
+      "text": "right? Some of the best strategies for high-performing scaling ads are ads that are camouflaged. They just blend right in, doesn't even feel like an ad,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 361.4,
+      "end": 367.12,
+      "speaker": "Presenter",
+      "text": "right? And that's where the authenticity comes in. I call that the gut check. Like ask your gut, \"Does this feel authentic?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 367.12,
+      "end": 372.12,
+      "speaker": "Presenter",
+      "text": "Like, does someone going to watch this and be like, 'Gosh, I love this'?\" Yes or no. If you ask your gut and it's like,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 372.12,
+      "end": 378.84,
+      "speaker": "Presenter",
+      "text": "\"Not really,\" maybe you need to remake it. Um, and again, this kind of camouflage idea is a great way",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 378.84,
+      "end": 387.54,
+      "speaker": "Presenter",
+      "text": "for people to just be hooked in and and be like they're not feeling sold, right? A lot of times, they say people don't want to be sold. I think that's kind of BS. I think people do want to be sold",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 387.54,
+      "end": 395.06,
+      "speaker": "Presenter",
+      "text": "at times, but if you're trying to market to a problem-aware, unaware market, again, you should know this from your Why Do Ads Work modules,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 395.7,
+      "end": 402.36,
+      "speaker": "Presenter",
+      "text": "and you're trying to get someone to like purchase right now when they don't even know who you are, right, that's obviously not going to work. So,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 402.36,
+      "end": 408.84,
+      "speaker": "Presenter",
+      "text": "sometimes the ads that are more scalable are ones that blend in and they don't feel like an ad. It just feels like they're learning something and they're not being sold right away, so",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 408.84,
+      "end": 415.34,
+      "speaker": "Presenter",
+      "text": "consider that as well. \"What learnings of previous winning ads have we applied to this ad?\" Okay? Now, this does not mean",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 415.76,
+      "end": 423.74,
+      "speaker": "Presenter",
+      "text": "like, \"Oh, the hook, three reasons why my product does X, is a winning hook. Great!\" But that does not mean that should be your hook for every single ad moving forward,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 423.74,
+      "end": 433.0,
+      "speaker": "Presenter",
+      "text": "okay? But what you can take a learning from that is like, \"Okay, well, I guess this type of user likes when I break what likes when I break things down. Or, even better,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 433.0,
+      "end": 440.06,
+      "speaker": "Presenter",
+      "text": "I would say this benefit clearly is something that this user cares about, so how can I take that learning and apply it to this ad?\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 440.26,
+      "end": 447.98,
+      "speaker": "Presenter",
+      "text": "Okay? Now, you have to be very care- careful that you don't go into like what we call iteration overload, but it is important that if you've studied your ads and you know that certain things work,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 447.98,
+      "end": 454.06,
+      "speaker": "Presenter",
+      "text": "that doesn't mean that's the only thing that can work, but it means that there's probably some learnings from that that you can take to apply to this ad as well.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 454.98,
+      "end": 461.14,
+      "speaker": "Presenter",
+      "text": "\"Does this ad educate the user in a creative way on how to achieve their core desire?\" Again, people want their core desires, that's what they want. But",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 461.14,
+      "end": 468.64,
+      "speaker": "Presenter",
+      "text": "we have to do it creatively, right? We can't run ads that say like, \"We know you want relationships!\" Like, [laughter] nobody's like, obviously,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 468.88,
+      "end": 474.72,
+      "speaker": "Presenter",
+      "text": "but it's like that's, you know, that's terrible copy, that's terrible marketing, right? We have to do it in a creative way, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 475.12,
+      "end": 483.72,
+      "speaker": "Presenter",
+      "text": "\"Here's how to get her to never stop texting you,\" right? That's that core desire kind of tapping into that, right? That kind of stuff. So, does this ad educate a user in a creative way",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 483.72,
+      "end": 490.96,
+      "speaker": "Presenter",
+      "text": "on how to achieve their core desire? \"Does this video tell a story your ideal customer will find interesting?\" Stories are an incredible way to sell, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 491.18,
+      "end": 497.5,
+      "speaker": "Presenter",
+      "text": "If you're constantly doing like, \"Here's product, and it has this benefit, that benefit, and this benefit. Buy now!\" And that's not working for you,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 497.68,
+      "end": 503.02,
+      "speaker": "Presenter",
+      "text": "try to be more creative. Telling stories, people love stories. Netflix is a billion $100 billion company,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 503.28,
+      "end": 510.52,
+      "speaker": "Presenter",
+      "text": "there's so many stor- like, all we We love stories, we're story junkies. We love to be bought into things, and we love to like be involved",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 510.52,
+      "end": 517.88,
+      "speaker": "Presenter",
+      "text": "and be caught up in this story and, you know, we read Lots of people, maybe not so much as well, read tons of books, right? Like we love stories.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 518.42,
+      "end": 526.02,
+      "speaker": "Presenter",
+      "text": "And so it's a way to kind of like escape from like what's actually happening and we're kind of hooked into this story, and so it's an incredible way to also be",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 526.02,
+      "end": 533.52,
+      "speaker": "Presenter",
+      "text": "grabbing attention on social media, okay? \"Have you applied escalation to exaggerate your claim in a clear and relatable way?\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 533.76,
+      "end": 539.7,
+      "speaker": "Presenter",
+      "text": "Well, what is escalation? What does that mean? Well, for example, if one of our clients who has a",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 539.7,
+      "end": 548.56,
+      "speaker": "Presenter",
+      "text": "humidifier, right? And it's super easy to clean, right? We could ma- ba- basically add escalation to this by saying it's like,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 548.56,
+      "end": 555.16,
+      "speaker": "Presenter",
+      "text": "\"If Mr. Clean invented a humidifier,\" right? We're being overly exaggerated, right? If you look at some of these people like the Harmon Brothers",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 555.16,
+      "end": 561.78,
+      "speaker": "Presenter",
+      "text": "uh that make these big ads for big companies, right? They're usually really funny, they're usually really relatable,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 562.24,
+      "end": 569.36,
+      "speaker": "Presenter",
+      "text": "and they also all apply escalation. So, they take things to the highest extent, right? So, the highest highest extent for that is like,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 569.52,
+      "end": 577.54,
+      "speaker": "Presenter",
+      "text": "maybe we film an ad with Mr. Clean who's like, \"Gosh, that thing is so clean! Like how How did you even get that? That's cleaner than me!\" right? You're just you're blowing it out of proportion,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 577.54,
+      "end": 584.16,
+      "speaker": "Presenter",
+      "text": "and you're exaggerating, you're escalating that claim that you have to kind of play in a playful way,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 584.16,
+      "end": 590.92,
+      "speaker": "Presenter",
+      "text": "right? Escalation is an incredible way, so if you haven't really tried that, you definitely should, okay? Or it'd be like if you sell",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 590.92,
+      "end": 599.04,
+      "speaker": "Presenter",
+      "text": "hair or hair supplements or like things that help grow your hair or whatever it is, right? And uh it's like, you know, you take one pill, if you you take too many of them, and it's like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 599.04,
+      "end": 607.76,
+      "speaker": "Presenter",
+      "text": "you just turn into like a Wookiee, you know, or a Chewbacca, or something like that, right? You know, Chewbacca started losing his hair and so he started taking this to grow his hair back. That's how effective it is,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 607.76,
+      "end": 614.48,
+      "speaker": "Presenter",
+      "text": "right? So, that's escalation, right? And it's funny, like Chewbacca has taken, you know, hair supplements? Like what the heck, right? That that would be a hilarious ad for someone that",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 614.48,
+      "end": 619.74,
+      "speaker": "Presenter",
+      "text": "has, you know, a hair a product that helps with you know, you get the point, growing hair.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 620.62,
+      "end": 623.18,
+      "speaker": "Presenter",
+      "text": "Final one is: does this ad separate your brand from the competition?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 623.56,
+      "end": 629.44,
+      "speaker": "Presenter",
+      "text": "I think a lot of the times, people are ripping ad creatives, or copying them one by one, or just trying to like, \"What are my competitors doing? I need to do them.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 629.62,
+      "end": 636.84,
+      "speaker": "Presenter",
+      "text": "Well, the reason why your competitors are ahead of you is because they're not really looking at that. They're, I mean yeah sure, they are, but they're they're in their own what we call blue ocean.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 636.84,
+      "end": 643.36,
+      "speaker": "Presenter",
+      "text": "They're They're doing their own thing, and they're separating themselves from you. And so I'd suggest you do the same, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 643.68,
+      "end": 649.28,
+      "speaker": "Presenter",
+      "text": "When you look at an ad, ask yourself like, does this actually make me look unique? Because if you can build a moat",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 649.28,
+      "end": 656.62,
+      "speaker": "Presenter",
+      "text": "around your brand, like if your ad does that, where it feels like your product is the only thing that actually can deliver it that way,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 656.76,
+      "end": 661.48,
+      "speaker": "Presenter",
+      "text": "the way that the user wants, makes it pretty hard for your competition to compete, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 661.68,
+      "end": 668.68,
+      "speaker": "Presenter",
+      "text": "Because you clearly are the only option for them, because you've done a good job of separating yourself from the brand and showing that you understand a specific type of customer.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 668.68,
+      "end": 675.32,
+      "speaker": "Presenter",
+      "text": "Now, obviously unique USPs or things that are unique, unique mechanisms around your product going to help you do that,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 675.64,
+      "end": 683.62,
+      "speaker": "Presenter",
+      "text": "but with that said, this is something where if you can really really really dive deep into this and try to find a way to separate yourself,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 684.16,
+      "end": 689.94,
+      "speaker": "Presenter",
+      "text": "it becomes extremely hard for consumers to feel like, \"Oh well, I can just get this somewhere else.\" It's like, \"Oh no, this is This is the one for me, clearly,\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 690.54,
+      "end": 696.68,
+      "speaker": "Presenter",
+      "text": "right? So, hopefully that makes sense. These are 14 questions to ask yourself. There's more, again, in the full Evolve program,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 696.84,
+      "end": 704.64,
+      "speaker": "Presenter",
+      "text": "but these 14 are killer, and hopefully this helps you review any video ads that you make, and ultimately helps you create ads that can make over $100,000.",
+      "chunk": 2,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 149.5,
+      "end": 150.8,
+      "label": "chuckle"
+    },
+    {
+      "start": 211.2,
+      "end": 213.1,
+      "label": "laughter"
+    },
+    {
+      "start": 467.29,
+      "end": 468.39,
+      "label": "laughter"
+    }
+  ]
+}

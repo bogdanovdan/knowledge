@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:08,340
+All right. So, in my last video, I talked about scaling protocol, and as part of talking about scaling protocol, we came across something called a minimum daily spend.
+
+2
+00:00:08,340 --> 00:00:10,340
+Now, what is minimum daily spend?
+
+3
+00:00:10,340 --> 00:00:16,640
+Minimum daily spend is essentially the amount that you are willing to spend regardless of performance on Facebook, okay?
+
+4
+00:00:17,100 --> 00:00:25,080
+We've talked about this uh in in the CBO setup or in the DCT campaign setup, where you're probably going to have a budget of at least $50 a day, okay, to start with.
+
+5
+00:00:25,080 --> 00:00:36,680
+And you're most likely, if you're already running ads, probably having some kind of budget that you're, you know, you're confident in spending. For some clients, it's $100 a day. For other clients, it's $500 a day.
+
+6
+00:00:36,920 --> 00:00:45,520
+It just depends ultimately on how much cash you have in the bank and how how much you're willing to essentially invest into your business regardless of performance.
+
+7
+00:00:45,520 --> 00:00:57,820
+Because at the end of the day, as soon as you stop spending on Facebook, your opportunity of finding a winning ad or finding a um a way to basically scale, grow your business, goes to zero, okay?
+
+8
+00:00:58,100 --> 00:01:05,500
+So that's why having a minimum daily spend to at least continue to test, which is again, you're going to be focusing on testing the most important things.
+
+9
+00:01:05,500 --> 00:01:15,340
+So it's not like you're just sitting there doing nothing. If you are testing creatives every single week like you're supposed to be doing, then this minimum daily spend is going to be something that is not just, you know
+
+10
+00:01:15,340 --> 00:01:20,020
+You're not just burning money on Facebook. You're actually giving yourself an opportunity to find a winning ad.
+
+11
+00:01:20,160 --> 00:01:26,880
+So, are we at minimum daily spend? That's what minimum daily spend means. It is the amount that you're willing to spend regardless of performance.
+
+12
+00:01:26,880 --> 00:01:36,760
+For most people, it's probably going to be $50 to $100 a day. But if you are in, obviously, a higher cap, and say you're already spending a couple hundred dollars a day, potentially it's $150 or $200, okay?
+
+13
+00:01:37,000 --> 00:01:42,320
+So it just depends on how much you are willing to spend regardless of performance, okay?
+
+14
+00:01:42,580 --> 00:01:45,940
+That is what minimum daily spend is. If you have any other questions about this, please let me know.

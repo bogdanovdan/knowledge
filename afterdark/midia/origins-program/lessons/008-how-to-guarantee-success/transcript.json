@@ -1,0 +1,2711 @@
+{
+  "lesson": {
+    "num": 8,
+    "id": "008-how-to-guarantee-success",
+    "title": "How to guarantee success",
+    "section": "🧘 Origins Mindset",
+    "video": "8. How to guarantee success Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1684.544,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=e05a224930624a7fbf3e7233a7036d0c"
+  },
+  "generated_at": "2026-10-06T20:24:06-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (97% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 6309,
+    "matched_tokens": 6129,
+    "match_ratio": 0.971,
+    "segments_aligned": 286,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Played audio",
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 291.113,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 210.7,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 291.113,
+      "end": 603.274,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 247.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 603.274,
+      "end": 916.775,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.981,
+      "wpm": 231.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 916.775,
+      "end": 1261.191,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 231.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1261.191,
+      "end": 1580.541,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.998,
+      "wpm": 230.4,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 5,
+      "start": 1580.541,
+      "end": 1684.544,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 237.6,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.58,
+      "speaker": "Presenter",
+      "text": "In this video, we're going to be talking about the one thing that will actually help you be successful as long as you are consistent.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 7.34,
+      "end": 10.46,
+      "speaker": "Presenter",
+      "text": "However, as the title of this module says,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 11.0,
+      "end": 17.88,
+      "speaker": "Presenter",
+      "text": "if you are just consistent, so if you just keep doing something for a long enough time, but you don't do this one thing,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 18.42,
+      "end": 20.44,
+      "speaker": "Presenter",
+      "text": "you are still likely going to fail.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 20.44,
+      "end": 29.56,
+      "speaker": "Presenter",
+      "text": "It's why you see people who, I don't know, my best example of this is YouTube, because YouTube's a great example of what we're about to talk about today, which is feedback loops or growth loops, but",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 29.56,
+      "end": 36.14,
+      "speaker": "Presenter",
+      "text": "if people just post the same crap on YouTube year after year after year and don't change what they're doing,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 37.02,
+      "end": 39.82,
+      "speaker": "Presenter",
+      "text": "they usually never get any traction, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 40.14,
+      "end": 44.18,
+      "speaker": "Presenter",
+      "text": "Why is that? What Why Why Why is it that somebody could stay so consistent",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 44.18,
+      "end": 53.44,
+      "speaker": "Presenter",
+      "text": "and be so, you know, hustle culture and like grinding, grinding, grinding, but they don't actually get anywhere? They're They're not actually that successful. Well,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 53.88,
+      "end": 56.34,
+      "speaker": "Presenter",
+      "text": "it's because of this. It's called a feedback loop.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 57.12,
+      "end": 63.64,
+      "speaker": "Presenter",
+      "text": "And feedback loops are the exact reason why a lot of people who are consistent don't succeed.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 64.32,
+      "end": 70.72,
+      "speaker": "Presenter",
+      "text": "And it's also part of the reason why some people are able to succeed way faster than a lot of other people,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 71.28,
+      "end": 78.72,
+      "speaker": "Presenter",
+      "text": "okay? And so, they're consistent for less time, but because their feedback loops are so good, or as we sometimes like to call them growth loops, which is a better way to see them,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 78.86,
+      "end": 85.36,
+      "speaker": "Presenter",
+      "text": "they can actually grow and and become successful a lot faster versus the people who don't do this, you you just stay stuck, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 85.64,
+      "end": 89.02,
+      "speaker": "Presenter",
+      "text": "And so, the question is is what is a feedback loop? Well,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 89.4,
+      "end": 98.36,
+      "speaker": "Presenter",
+      "text": "a feedback loop is a process where the output of a system is used as input to modify or reinforce future actions within that same system.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 98.7,
+      "end": 100.88,
+      "speaker": "Presenter",
+      "text": "Now, this is the definition from Google. But,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 100.88,
+      "end": 109.6,
+      "speaker": "Presenter",
+      "text": "in simple terms, what this means is that when you do shit and you get an output, you then process that output to realize,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 109.6,
+      "end": 118.18,
+      "speaker": "Presenter",
+      "text": "\"Why did I get that output?\" and then change the shit that you put back into the machine to then get a different output,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 118.8,
+      "end": 120.14,
+      "speaker": "Presenter",
+      "text": "okay? That's the Canadian version.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 120.42,
+      "end": 125.72,
+      "speaker": "Presenter",
+      "text": "But here, if you take a look at this, here's a quote to really help this hit home by somebody who's pretty smart.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 126.18,
+      "end": 131.2,
+      "speaker": "Presenter",
+      "text": "It's called \"Insanity is doing the same thing over and over again and expecting different results.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 131.68,
+      "end": 142.36,
+      "speaker": "Presenter",
+      "text": "So, for those of you that are doing the same thing over and over and over and over again, and you're expecting something different to happen, you're going to go crazy, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 142.46,
+      "end": 153.94,
+      "speaker": "Presenter",
+      "text": "And so, my goal of this is to help you guys understand that it's about learning why the but about learning why you're getting the outputs that you are, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 154.26,
+      "end": 158.3,
+      "speaker": "Presenter",
+      "text": "And so, the problem is is most of you adopt this strategy,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 158.32,
+      "end": 167.34,
+      "speaker": "Presenter",
+      "text": "but instead of And I really, really want to call out this point here, and I almost need to make this like bigger text because of the fact of like how important it is,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 167.4,
+      "end": 174.44,
+      "speaker": "Presenter",
+      "text": "but what some of you guys do is you do complete feedback loops, but then you change the system,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 175.02,
+      "end": 176.48,
+      "speaker": "Presenter",
+      "text": "okay? So, for example,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 177.36,
+      "end": 182.2,
+      "speaker": "Presenter",
+      "text": "some of you guys will test ad creatives, and you'll get an output, and the ad creative failed.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 182.62,
+      "end": 186.46,
+      "speaker": "Presenter",
+      "text": "And then, what you'll do is you'll modify and move to a different system.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 187.02,
+      "end": 192.46,
+      "speaker": "Presenter",
+      "text": "You'll just You'll be like, \"Okay. Well, ad creatives don't work. I need to do something else. Okay, let me go do more media buying and test cost caps.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 193.46,
+      "end": 200.22,
+      "speaker": "Presenter",
+      "text": "You're not staying within the same system. There are systems and strategies that we are going to give to you guys that work,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 200.7,
+      "end": 203.8,
+      "speaker": "Presenter",
+      "text": "but you have to optimize them for yourself,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 203.84,
+      "end": 213.58,
+      "speaker": "Presenter",
+      "text": "okay? And so, the point is is that if you do not optimize within the system, so within the strategy of what we're giving to you, right? If you don't optimize it for yourself,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 213.58,
+      "end": 218.98,
+      "speaker": "Presenter",
+      "text": "or if you don't modify the inputs that you're putting in to get the output that we've been able to get, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 219.22,
+      "end": 223.68,
+      "speaker": "Presenter",
+      "text": "Although, again, we're going to try our best to make it as easy as possible for you, you will go insane,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 224.12,
+      "end": 229.0,
+      "speaker": "Presenter",
+      "text": "okay? And so, just understand that the more you complete feedback loops, the faster you will grow.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 229.52,
+      "end": 233.62,
+      "speaker": "Presenter",
+      "text": "Very, very simple. But the better that you complete feedback loops",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 233.62,
+      "end": 242.64,
+      "speaker": "Presenter",
+      "text": "will also help you grow faster. So, the key to scaling fast and maybe cutting in to some of that time of how long it takes for you to hit your goal",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 242.64,
+      "end": 249.44,
+      "speaker": "Presenter",
+      "text": "is to complete feedback loops consistently and then to get better at completing feedback loops.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 249.94,
+      "end": 253.76,
+      "speaker": "Presenter",
+      "text": "And guess what? If you actually complete a lot of feedback loops, you get better at them.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 253.98,
+      "end": 257.32,
+      "speaker": "Presenter",
+      "text": "So, it's a really, really good way to actually grow.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 257.32,
+      "end": 263.58,
+      "speaker": "Presenter",
+      "text": "Now, I want you guys to understand that every single thing that we're about to teach you, even this,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 263.86,
+      "end": 270.76,
+      "speaker": "Presenter",
+      "text": "even me telling you to completely feed feedback loops is me completing a feedback loop to then say, \"Hey guys, this works. You should do it,\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 271.04,
+      "end": 281.64,
+      "speaker": "Presenter",
+      "text": "okay? So, media buying, as an example, is something that we realized after multiple, multiple, multiple rounds of feedback loops that it just doesn't really drive performance, right? It's not going",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 281.64,
+      "end": 290.52,
+      "speaker": "Presenter",
+      "text": "to double our ad spend unless we're doing something crazy bad, which most of you guys aren't. If you've watched a YouTube video on media buying in 2025, you're probably not doing anything that crazy, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 291.18,
+      "end": 293.58,
+      "speaker": "Presenter",
+      "text": "from here, researching competitors only,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 294.16,
+      "end": 297.94,
+      "speaker": "Presenter",
+      "text": "something that we realize is not going to help us scale, and these are all",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 297.94,
+      "end": 303.02,
+      "speaker": "Presenter",
+      "text": "mini feedback loops that are happening, again, within our system. Okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 303.82,
+      "end": 305.28,
+      "speaker": "Presenter",
+      "text": "Making creatives without understanding your customer.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 305.74,
+      "end": 312.54,
+      "speaker": "Presenter",
+      "text": "That's a feedback loop that we completed, that we realize like, yep, that's not really something that's not a good way to consistently get results, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 312.88,
+      "end": 318.06,
+      "speaker": "Presenter",
+      "text": "Copying ad templates and formats, another thing that we realize is not great for getting consistent results.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 318.44,
+      "end": 323.12,
+      "speaker": "Presenter",
+      "text": "And, again, you have to understand that there is a goal to the system, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 323.26,
+      "end": 328.5,
+      "speaker": "Presenter",
+      "text": "If your goal is to scale to 100k a month or scale to 300, 400, 500k a month, whatever it is, okay,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 328.94,
+      "end": 334.72,
+      "speaker": "Presenter",
+      "text": "you have to analyze and understand the systems that we're giving you, but then you have to optimize, again, within those systems.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 334.96,
+      "end": 341.68,
+      "speaker": "Presenter",
+      "text": "So, these are all things and all the modules that you guys, depending on when you're watching this, that are coming or that you are watch or that you are about to go and watch,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 341.68,
+      "end": 344.64,
+      "speaker": "Presenter",
+      "text": "are a result of our team and myself,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 344.64,
+      "end": 354.56,
+      "speaker": "Presenter",
+      "text": "and everybody that I have known, because you can also leverage other people's feedback loops, which is what you guys are doing right now, you're borrowing my feedback loop so you can save time processing them yourselves,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 354.8,
+      "end": 357.78,
+      "speaker": "Presenter",
+      "text": "and I've applied them over the last 5 years, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 358.62,
+      "end": 365.74,
+      "speaker": "Presenter",
+      "text": "And so, one very, very, very simple thing, and I want you to know that in Origins, a huge thing that we focus on is action.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 366.2,
+      "end": 369.5,
+      "speaker": "Presenter",
+      "text": "And so, we're actually going to complete a feedback loop, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 369.64,
+      "end": 372.18,
+      "speaker": "Presenter",
+      "text": "And so, what you're going to do: click into action item.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 372.44,
+      "end": 378.46,
+      "speaker": "Presenter",
+      "text": "You're going to see that it's now time to put this into action, and you guys are going to see these modules appear after every so many modules,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 378.46,
+      "end": 387.24,
+      "speaker": "Presenter",
+      "text": "and the reason why is because we need this stuff to stick. If you just consume, consume, consume, consume, consume, consume, and you don't stop and do anything, nothing actually sticks, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 387.92,
+      "end": 390.36,
+      "speaker": "Presenter",
+      "text": "How to prepare your mind is something that helps you guys see things.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 390.36,
+      "end": 393.84,
+      "speaker": "Presenter",
+      "text": "How how long it will take you to get rich helps you guys understand things even more.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 393.84,
+      "end": 398.36,
+      "speaker": "Presenter",
+      "text": "And then, why you won't succeed by just being consistent talks about feedback loops, but now,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 398.36,
+      "end": 402.2,
+      "speaker": "Presenter",
+      "text": "let's go ahead and practice it. How do we actually complete a feedback loop so you guys can do this?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 402.3,
+      "end": 408.14,
+      "speaker": "Presenter",
+      "text": "Well, I have literally created, it's a extremely complex document, I'm a little nervous to show you guys, but",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 408.14,
+      "end": 411.9,
+      "speaker": "Presenter",
+      "text": "this is our feedback loop document, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 412.74,
+      "end": 413.96,
+      "speaker": "Presenter",
+      "text": "It is so simple.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 414.76,
+      "end": 421.08,
+      "speaker": "Presenter",
+      "text": "And the reason why is because a lot of the times, keeping things simple is the best way to make sure that they actually get done,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 421.7,
+      "end": 430.62,
+      "speaker": "Presenter",
+      "text": "right? If I told you that you had to run a marathon and do this, and do that, and, you know, sleep upside down and do a cold plunge before you can complete a feedback loop, like, you're not going to do it, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 430.88,
+      "end": 439.9,
+      "speaker": "Presenter",
+      "text": "And so, here, as you can see, I'm telling you guys: step 1, to think of 1 to 2 things that you are continuing to fail at over and over again.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 440.16,
+      "end": 445.28,
+      "speaker": "Presenter",
+      "text": "And what you'll notice is I'm using, and what you'll notice is that I'm using these magical things called document tabs,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 445.48,
+      "end": 454.58,
+      "speaker": "Presenter",
+      "text": "and every single time that you're about to complete a feedback loop on something, you can duplicate this, and now you have a new section for your feedback loop.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 454.58,
+      "end": 461.66,
+      "speaker": "Presenter",
+      "text": "So, what I'm going to say is I'm going to say this is maybe an ad creative, cuz what can you do feedback loops on, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 461.86,
+      "end": 465.98,
+      "speaker": "Presenter",
+      "text": "Well, I'm going to say this is ad creative number one, because if you want to use this for ad creatives, you can,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 465.98,
+      "end": 472.34,
+      "speaker": "Presenter",
+      "text": "or if you want to use this for offers or landing pages, you can. If you want to use this for anything, even your personal life,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 472.34,
+      "end": 477.9,
+      "speaker": "Presenter",
+      "text": "like, hey, you know, I went out and got drunk with my friends last weekend and I didn't get anything done.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 478.32,
+      "end": 483.3,
+      "speaker": "Presenter",
+      "text": "Okay, well, do I think that was a good idea? I should probably complete a feedback loop, because that didn't help me get further.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 483.3,
+      "end": 490.36,
+      "speaker": "Presenter",
+      "text": "So, again, you can use this for anything, and I think what you'll notice about the people that are most successful is they have tight feedback loops in every area of their life.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 490.5,
+      "end": 493.8,
+      "speaker": "Presenter",
+      "text": "They start to realize things that don't help them work towards the goal,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 494.22,
+      "end": 500.54,
+      "speaker": "Presenter",
+      "text": "and so they're constantly completing feedback loops on everything in their life to optimize towards accomplishing the goal that they want, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 501.02,
+      "end": 505.46,
+      "speaker": "Presenter",
+      "text": "And so, what you're going to do is you're going to think of 1 to 2 things that you are continuing to fail at over and over again, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 505.78,
+      "end": 510.84,
+      "speaker": "Presenter",
+      "text": "And then what you're going to do is you're going to put that in the \"why do you think this did not work\" section.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 510.84,
+      "end": 521.16,
+      "speaker": "Presenter",
+      "text": "However, something that is very, very important that I just realize I don't or I don't have here, but you guys should add, we can add this together as step 1.5.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 521.38,
+      "end": 526.4,
+      "speaker": "Presenter",
+      "text": "So, step 1.5 is in this other section here is you can do a positive feedback loop",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 526.4,
+      "end": 534.0,
+      "speaker": "Presenter",
+      "text": "because just like how feedback loops help you correct when things are wrong, they can also help you amplify when things are right.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 534.28,
+      "end": 543.02,
+      "speaker": "Presenter",
+      "text": "So, think of the top 1 to 2 things that you're continuing to fail at, and then think of the top, you know, this is step 1.5, 1 to 2 things that you are crushing at over and over again, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 543.38,
+      "end": 546.1,
+      "speaker": "Presenter",
+      "text": "And then, from there, make a a copy of the document",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 546.1,
+      "end": 551.72,
+      "speaker": "Presenter",
+      "text": "for each one of those things. So, again, in the tab section, you can make a copy of this item,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 552.08,
+      "end": 557.86,
+      "speaker": "Presenter",
+      "text": "and then you can name it whatever you want. Again, if we're doing an example of an ad creative here, well, I will just do an ad creative, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 558.32,
+      "end": 561.82,
+      "speaker": "Presenter",
+      "text": "And so, here, what we're then going to do is we're going to fill out the document with your hypothesis.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 562.1,
+      "end": 569.0,
+      "speaker": "Presenter",
+      "text": "Now, because I know it will be valuable for you guys to see me review an ad, I'm actually going to pull up an ad and show you an example of me completing a feedback loop on an ad.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 569.24,
+      "end": 573.2,
+      "speaker": "Presenter",
+      "text": "All right. So, here we are. I'm going to complete a feedback loop on a losing ad creative.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 573.58,
+      "end": 578.52,
+      "speaker": "Presenter",
+      "text": "So, what am I going to do? Well, the first thing I'm going to do is I'm going to leverage this in Evolve Lite, which is in the classroom,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 578.98,
+      "end": 583.82,
+      "speaker": "Presenter",
+      "text": "and this is a really great module for you guys, because I'm going to act like I have no idea how to review ads, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 584.18,
+      "end": 587.62,
+      "speaker": "Presenter",
+      "text": "Because I understand that a lot of you guys haven't reviewed thousands of ads like I have.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 587.78,
+      "end": 595.38,
+      "speaker": "Presenter",
+      "text": "So, let's go ahead and try to figure this out, okay? So, questions to ask yourself before submitting your brief for vi- for video ads, or just in general how to review ads, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 595.46,
+      "end": 601.36,
+      "speaker": "Presenter",
+      "text": "So, does the first 1 to 2 seconds of this ad hook the right user in and keep them hooked in? Well, let's go ahead and take a look at it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 604.9,
+      "end": 607.28,
+      "speaker": "Played audio",
+      "text": "If you have air conditioning in your home, you need to see this.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 607.46,
+      "end": 612.56,
+      "speaker": "Presenter",
+      "text": "Well, that's kind of good at hooking in the right person. And we're going to get to AdSpy in a second.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 612.8,
+      "end": 620.34,
+      "speaker": "Presenter",
+      "text": "You know, but it doesn't really hook in a very specific audience. Now, if we go back and take a look at the hook again, it does say \"parenting must have\".",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 620.52,
+      "end": 630.02,
+      "speaker": "Presenter",
+      "text": "So this does hook in parents. So what I might put in here is, you know, something around like, okay, well, you know what, maybe the voiceover \"do you have AC\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 630.2,
+      "end": 636.64,
+      "speaker": "Presenter",
+      "text": "doesn't really land because most people who can afford this product likely have AC.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 636.66,
+      "end": 641.4,
+      "speaker": "Presenter",
+      "text": "Okay, so that's just a hypothesis, not on why I think it worked, but more importantly,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 641.4,
+      "end": 649.1,
+      "speaker": "Presenter",
+      "text": "and if you're doing one for a losing creative, you can actually delete this. So let's just go ahead and put this under here. So why I don't think it works. So that's just one idea, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 649.1,
+      "end": 656.02,
+      "speaker": "Presenter",
+      "text": "And then if we go back over here, you know, is this video is this a video that a potential customer would want to see? Now, I would say that someone opening a humidifier,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 656.58,
+      "end": 665.12,
+      "speaker": "Presenter",
+      "text": "probably not so much, right? It's just someone like opening up a product, so not really that exciting. So maybe that's another learning. I would say, well,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 665.22,
+      "end": 673.16,
+      "speaker": "Presenter",
+      "text": "overall, the video is not really exciting in the hook. It's just showing a humidifier in a bedroom.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 673.24,
+      "end": 677.96,
+      "speaker": "Presenter",
+      "text": "Okay. And I hope hopefully this is helpful for you guys, seeing me just kind of go through this live.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 677.96,
+      "end": 686.06,
+      "speaker": "Presenter",
+      "text": "Okay. Now let's take another look. Let's go ahead and and check this. Does the copywriting create a clear image or visual in the user's mind? Let's go ahead and play it again.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 686.3,
+      "end": 690.28,
+      "speaker": "Played audio",
+      "text": "If you have air conditioning in your home, you need to see this. You know how after",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 690.6,
+      "end": 695.08,
+      "speaker": "Presenter",
+      "text": "I would say it doesn't really create a clear visual in my head.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 695.08,
+      "end": 700.56,
+      "speaker": "Presenter",
+      "text": "And something else that I would say is that it doesn't It's not really congruent, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 700.8,
+      "end": 706.56,
+      "speaker": "Presenter",
+      "text": "So I'm saying the visual and text don't really match up.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 707.28,
+      "end": 716.18,
+      "speaker": "Presenter",
+      "text": "So we're saying if you have a an AC, but we're not really showing it, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 716.82,
+      "end": 725.24,
+      "speaker": "Presenter",
+      "text": "So there's there's a there's a thought. And then another thing is like there's there is no strong visual language, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 725.4,
+      "end": 731.46,
+      "speaker": "Presenter",
+      "text": "I'm not saying like how cold the AC is, or anything overly descriptive.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 731.46,
+      "end": 740.52,
+      "speaker": "Presenter",
+      "text": "Now, that might be a good thing or a bad thing, but that's just something that again, these This is a feedback loop that we've processed on looking at ads that had spent $50,000 a day, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 740.52,
+      "end": 752.14,
+      "speaker": "Presenter",
+      "text": "Now, does this video feel native to the platform? I'd say it feels pretty native, maybe more for Instagram Reels or Stories or something like that, but overall looks pretty native. And let's take a look at, you know, does this video contain a label",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 752.14,
+      "end": 759.92,
+      "speaker": "Presenter",
+      "text": "for who the type of person is? \"Parenting must have\" - well, it kind of does contain a label because it does say \"parenting\". So I would say it does It does contain a label.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 759.92,
+      "end": 769.3,
+      "speaker": "Presenter",
+      "text": "And now if we go back here and just look at a couple more: is this video relatable? I wouldn't say it's very relatable. You know, if you have air conditioning in your home, some people might think like, yeah, that is relatable, but again,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 769.64,
+      "end": 772.88,
+      "speaker": "Presenter",
+      "text": "most people have air conditioning in their home nowadays, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 773.24,
+      "end": 780.54,
+      "speaker": "Presenter",
+      "text": "So it might be more relatable if we said like, if you don't have air conditioning, right? Now, this product doesn't help that, but like that's more specific.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 780.54,
+      "end": 788.08,
+      "speaker": "Presenter",
+      "text": "So another learning I might say is like the overall hook is pretty broad and not specific,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 788.08,
+      "end": 795.82,
+      "speaker": "Presenter",
+      "text": "okay? So I would maybe try to go more specific into a specific avatar, right? So a lot of you guys have had questions around avatar,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 796.08,
+      "end": 803.72,
+      "speaker": "Presenter",
+      "text": "so it's like this is targeting parents, right? It's saying if you have air conditioning in your home, so kind of parents that have air conditioning, but like how could I maybe go deeper?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 804.28,
+      "end": 813.0,
+      "speaker": "Presenter",
+      "text": "You know, like if you blast the AC, or like if you're a parent and, you know, maybe you're You keep your house freezing cold, or it's like, you keep your house colder than the Arctic,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 813.0,
+      "end": 817.74,
+      "speaker": "Presenter",
+      "text": "right? That could be something where, here we go, starting to make some progress here, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 818.08,
+      "end": 825.82,
+      "speaker": "Presenter",
+      "text": "That creates a clear image, colder than the Arctic, I can see that. And that also is a little bit more relatable to someone who keeps their house really cold, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 826.24,
+      "end": 837.12,
+      "speaker": "Presenter",
+      "text": "And so how am I making that connection? Well, again, I've reviewed a lot of ads, so I kind of cheated there, but the point is is I'm also trying to think of other solutions of how to make this ad better, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 837.44,
+      "end": 846.38,
+      "speaker": "Presenter",
+      "text": "So what I would say is, you know, are you a parent that has your AC, you know, colder than the Arctic, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 847.02,
+      "end": 852.84,
+      "speaker": "Presenter",
+      "text": "That might just be something, a parent, that maybe lands, like that could be an action.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 852.98,
+      "end": 859.9,
+      "speaker": "Presenter",
+      "text": "So I could say let's test a more relatable and more visual hook. There we go.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 860.26,
+      "end": 867.94,
+      "speaker": "Presenter",
+      "text": "Now we have that as an action item, which I kind of skipped over here because we're supposed to keep doing the hypothesis part, but now I have an action item.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 868.3,
+      "end": 875.08,
+      "speaker": "Presenter",
+      "text": "And if you can't tell, this is the goal of feedback loops, is to figure out what action we're going to take, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 875.36,
+      "end": 883.5,
+      "speaker": "Presenter",
+      "text": "And as you saw, I only spent a couple of minutes doing this, right? And I've only watched up to the first five seconds. I haven't even watched the rest of the ad, it's a minute-long ad, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 883.86,
+      "end": 893.2,
+      "speaker": "Presenter",
+      "text": "But I've gone through some of these things, like does this video actually look like an ad? Gut check, does it feel authentic? What learnings of previous winning ads have we applied? Does this ad educate the user in a way? This",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 893.2,
+      "end": 900.0,
+      "speaker": "Presenter",
+      "text": "doesn't really educate me in the beginning, right? That's a really, really big thing, I'm going to tell you guys right away, like educational stuff is very important. So it's like, here,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 900.34,
+      "end": 909.88,
+      "speaker": "Presenter",
+      "text": "maybe I could try something else where it says like, \"did you know if you have an air conditioner in your home what it's doing?\" right? So maybe we we position it in a way that says \"did you know?\" right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 910.08,
+      "end": 916.3,
+      "speaker": "Presenter",
+      "text": "Maybe we drive more curiosity, right? So that could be another action item. So let's say let's",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 916.3,
+      "end": 923.54,
+      "speaker": "Presenter",
+      "text": "\"Test a more educational hook: Did you know this about your AC unit?\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 924.3,
+      "end": 927.4,
+      "speaker": "Presenter",
+      "text": "Right? There we go. We're starting to make progress here,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 927.54,
+      "end": 930.58,
+      "speaker": "Presenter",
+      "text": "and this is the point of doing feedback loops.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 931.06,
+      "end": 936.96,
+      "speaker": "Presenter",
+      "text": "Now, for every single feedback that you do that is negative, right? So if you're doing something that didn't work,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 937.24,
+      "end": 942.32,
+      "speaker": "Presenter",
+      "text": "it's going to be hard to pinpoint it exactly. But what you're going to do",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 942.32,
+      "end": 948.5,
+      "speaker": "Presenter",
+      "text": "is you're going to lay out all the reasons why you don't think it didn't work, and then you can start to pick out which ones you're going to test.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 948.68,
+      "end": 956.16,
+      "speaker": "Presenter",
+      "text": "So here I'm testing something that is more relatable and has more visual text. And now here, I'm going to test something that is more educational.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 956.66,
+      "end": 961.46,
+      "speaker": "Presenter",
+      "text": "And this is why you guys can use this as a cheat sheet to actually leverage to then",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 961.46,
+      "end": 965.3,
+      "speaker": "Presenter",
+      "text": "complete your feedback loops, because it can be hard to complete feedback loops. But use",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 965.3,
+      "end": 968.98,
+      "speaker": "Presenter",
+      "text": "this as a basis, right? Another thing that you could ask yourself",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 968.98,
+      "end": 973.6,
+      "speaker": "Presenter",
+      "text": "is like, \"What market awareness level is this?\" Now if you don't know what market awareness level is, again, you can go back",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 973.6,
+      "end": 977.86,
+      "speaker": "Presenter",
+      "text": "into here, and you can learn more about market awareness levels. But the most important thing here",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 977.86,
+      "end": 983.88,
+      "speaker": "Presenter",
+      "text": "is we need to lay out all of the reasons why we don't think this thing worked. Because we've got to correct our lens.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 983.98,
+      "end": 991.04,
+      "speaker": "Presenter",
+      "text": "We've got to figure out: we created this ad and we thought it would work, and the point of this feedback loop and this exercise",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 991.04,
+      "end": 997.22,
+      "speaker": "Presenter",
+      "text": "is to figure out why it didn't work. Okay? We're not going to know exactly, but we're going to take some",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 997.22,
+      "end": 1004.24,
+      "speaker": "Presenter",
+      "text": "educated guesses. And again, it says, \"Rank most confident to least confident.\" So what I might do here is I might take a look at, okay,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 1004.32,
+      "end": 1012.14,
+      "speaker": "Presenter",
+      "text": "this is a pretty decent one. This one is actually pretty good as well. Like, I would say this is a pretty big thing. I'm pretty confident that that could be why it's not working, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 1012.26,
+      "end": 1018.38,
+      "speaker": "Presenter",
+      "text": "We're talking about AC, but we're not really showing it, right? And then on top of that, you know, we are maybe doing a decent job with this ad",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 1018.38,
+      "end": 1023.46,
+      "speaker": "Presenter",
+      "text": "by showing that it's a parent, because this kind of looks like a baby's room. But it's not fully obvious, right? This might not be",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 1023.46,
+      "end": 1030.62,
+      "speaker": "Presenter",
+      "text": "obvious that this person's a parent. So we could try different visuals on that, right? But another one thing here is like, this is not strong enough visual language.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 1030.8,
+      "end": 1036.28,
+      "speaker": "Presenter",
+      "text": "I'm pretty confident that in that as well, right? The overall hook is broad and kind of specific. And so this is",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 1036.28,
+      "end": 1041.12,
+      "speaker": "Presenter",
+      "text": "here, right? This is kind of the same point. So hook is broad and specific. This is the same kind of idea.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 1041.54,
+      "end": 1047.66,
+      "speaker": "Presenter",
+      "text": "And so now overall, we can start to rank these things, and this is what helps you organize your action items as well.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 1047.8,
+      "end": 1054.56,
+      "speaker": "Presenter",
+      "text": "So for me, this is actually in the right order where I think this would do really well, where it's like, \"Are you a parent that has your AC, you know, turned up",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 1054.56,
+      "end": 1058.9,
+      "speaker": "Presenter",
+      "text": "or turned down, you know, so cold that it feels like the Arctic?\" Very, very wordy, terrible headline. Don't use it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 1058.9,
+      "end": 1064.42,
+      "speaker": "Presenter",
+      "text": "But you guys can start to workshop this, and then you can leverage some of the writing tools like Claude and stuff like that to help you guys clean this up.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 1064.42,
+      "end": 1068.54,
+      "speaker": "Presenter",
+      "text": "But this is an example of how I would continue through this process to complete",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 1068.54,
+      "end": 1070.86,
+      "speaker": "Presenter",
+      "text": "the feedback loop. Okay? And so now",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 1070.86,
+      "end": 1075.34,
+      "speaker": "Presenter",
+      "text": "let's take a look at a brand that is absolutely crushing it, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 1075.34,
+      "end": 1081.36,
+      "speaker": "Presenter",
+      "text": "Now how did I find this brand? Just from research, okay? You guys can go and look up brands, and what I would recommend is go and check the ad libraries.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 1081.36,
+      "end": 1085.98,
+      "speaker": "Presenter",
+      "text": "Free tool, okay? Well, let's see here. This brand, Uproot Clean, has 780",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1087.92,
+      "end": 1093.5,
+      "speaker": "Presenter",
+      "text": "ads running. Now, I'm showing this to you guys because I understand that a lot of you guys do not have 780 ads running.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1093.5,
+      "end": 1097.5,
+      "speaker": "Presenter",
+      "text": "And so what I might look at here is, what is this person doing?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 1098.06,
+      "end": 1103.28,
+      "speaker": "Presenter",
+      "text": "How are they scaling? And if they are at such scale, which they are, because they have over 700 ads running,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 1103.74,
+      "end": 1108.94,
+      "speaker": "Presenter",
+      "text": "they must be doing something right. And so what I can do is I can use a tool called AdSpy. It's a little pricey.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 1109.04,
+      "end": 1116.46,
+      "speaker": "Presenter",
+      "text": "You guys might not be able to afford this, and that's okay. What you can do, at least, is go through and try to just scroll and take a look at some of their older ads.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1116.62,
+      "end": 1124.68,
+      "speaker": "Presenter",
+      "text": "Just understand, older ads don't always mean best. But at the end of the day, you can start to see what a brand that is has 700 ads running.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1124.68,
+      "end": 1129.14,
+      "speaker": "Presenter",
+      "text": "I guarantee you guys, this brand's worst ad could probably help you scale,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1129.7,
+      "end": 1137.06,
+      "speaker": "Presenter",
+      "text": "okay? And so even just reviewing any of these ads is going to help you see and understand what a winning ad looks like.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1137.06,
+      "end": 1144.92,
+      "speaker": "Presenter",
+      "text": "Okay? Now, maybe not winning for them, but pretty good guidelines on what a good ad looks like according to a brand that is at scale,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1145.26,
+      "end": 1152.46,
+      "speaker": "Presenter",
+      "text": "okay? But I'm going to use a tool called AdSpy, because what AdSpy does is this actually allows me to see their best ads. And I can see this was created on August",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1152.46,
+      "end": 1156.44,
+      "speaker": "Presenter",
+      "text": "29th, and it was last seen on July 26th, which is today. So",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1156.44,
+      "end": 1163.2,
+      "speaker": "Presenter",
+      "text": "this ad is absolutely crushing it. So let's go ahead and let's open this in a Facebook tab and take a look.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 1163.4,
+      "end": 1166.98,
+      "speaker": "Played audio",
+      "text": "We just got the new Uproot Clean 7-in-1 grooming system, and it is amazing.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1167.78,
+      "end": 1173.9,
+      "speaker": "Presenter",
+      "text": "All right. So this hook starts off with a dog's behind and clippers going into it, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1174.66,
+      "end": 1179.6,
+      "speaker": "Presenter",
+      "text": "Pretty interesting. I'm like, what is going on here? Okay? And then if I continue to play the hook,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 1179.8,
+      "end": 1182.62,
+      "speaker": "Played audio",
+      "text": "We just got the new Uproot Clean 7-in-1 grooming system, and it--",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1182.62,
+      "end": 1189.56,
+      "speaker": "Presenter",
+      "text": "it's just a pretty product-aware ad. \"We just got the new Uproot 7-in-1 grooming system",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1190.1,
+      "end": 1195.62,
+      "speaker": "Presenter",
+      "text": "and it is amazing.\" And it seems like, I'm going to go ahead and mute this so I can kind of talk over it, it's showing the product.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 1196.22,
+      "end": 1202.22,
+      "speaker": "Presenter",
+      "text": "It's showing that it's not hurting the dog, the dog's not panicking. Now vacuuming the dog, you know, specifically for my doodle,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 1202.48,
+      "end": 1207.34,
+      "speaker": "Presenter",
+      "text": "my mixed mutt, this dog that has really long, wired hair, and it's just showing",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 1207.34,
+      "end": 1213.5,
+      "speaker": "Presenter",
+      "text": "the product in action, right? It's a very simple, product-aware ad that is working really well. It's like a",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 1213.5,
+      "end": 1220.1,
+      "speaker": "Presenter",
+      "text": "montage, it's an AI voiceover. Now a lot of you guys might see that of like, \"Oh, this is just UGC. Oh, this is just product-aware,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 1220.34,
+      "end": 1225.4,
+      "speaker": "Presenter",
+      "text": "or oh, this is just, you know, a typical AI voiceover,\" and you're looking at all those structural things that I just called out.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 1225.68,
+      "end": 1230.22,
+      "speaker": "Presenter",
+      "text": "But what I would do is now go back and apply the exact same process here.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 1230.44,
+      "end": 1237.26,
+      "speaker": "Presenter",
+      "text": "So, does the first 1 to 2 seconds of this ad hook the right user in and keep them hooked in? Well, looking at this, it's someone who",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 1237.26,
+      "end": 1240.56,
+      "speaker": "Presenter",
+      "text": "is, you know, basically shaving a dog. So I would say so.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 1240.74,
+      "end": 1245.56,
+      "speaker": "Presenter",
+      "text": "It also drives curiosity because it's showing the dog's behind, right? This is not just showing someone",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 1245.56,
+      "end": 1253.02,
+      "speaker": "Presenter",
+      "text": "doing regular trimming on a dog. It's like showing it on its behind, which is kind of weird, and it's going to stop and grab your attention. So what I would do",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 1253.02,
+      "end": 1259.12,
+      "speaker": "Presenter",
+      "text": "is I would then, say, for example, go over here, and I would duplicate this down and I would call this winning",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 1261.38,
+      "end": 1261.78,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 1262.46,
+      "end": 1265.96,
+      "speaker": "Presenter",
+      "text": "And, again, this is not even your guys's own ad, which is really cool.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 1266.24,
+      "end": 1268.82,
+      "speaker": "Presenter",
+      "text": "You can analyze ads that aren't yours that are winning.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 1268.82,
+      "end": 1271.16,
+      "speaker": "Presenter",
+      "text": "And this can help you guys make better ads.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1271.54,
+      "end": 1274.28,
+      "speaker": "Presenter",
+      "text": "So, overall here, we're saying, \"Well, the hook",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1274.28,
+      "end": 1282.48,
+      "speaker": "Presenter",
+      "text": "is very curiosity-driven because it's shaving a dog's behind, right? Or dog's butt. There you go.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1283.04,
+      "end": 1287.6,
+      "speaker": "Presenter",
+      "text": "And now, if we go ahead and click into the actual ad further,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1287.84,
+      "end": 1288.82,
+      "speaker": "Presenter",
+      "text": "see the mechanism there?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1289.28,
+      "end": 1290.86,
+      "speaker": "Presenter",
+      "text": "You guys might not have seen this, but watch this.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1290.86,
+      "end": 1295.08,
+      "speaker": "Presenter",
+      "text": "It like sucked the hair back in, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1297.66,
+      "end": 1307.1,
+      "speaker": "Presenter",
+      "text": "So, it's sucking the pet hair back in, which for anybody who has actually, you know, trimmed dogs before, is like, \"Wow, that's genius.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 215,
+      "start": 1307.78,
+      "end": 1312.8,
+      "speaker": "Presenter",
+      "text": "And so, this mechanism is so good that they're that they're just showing it, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 216,
+      "start": 1313.12,
+      "end": 1316.18,
+      "speaker": "Presenter",
+      "text": "So, this is something where I would say, like, okay, \"They have",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1316.18,
+      "end": 1322.2,
+      "speaker": "Presenter",
+      "text": "a very unique mechanism that they show and don't tell.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1323.06,
+      "end": 1325.72,
+      "speaker": "Presenter",
+      "text": "And now how am I coming up with this stuff? Again, I have reviewed ads before.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1326.12,
+      "end": 1328.42,
+      "speaker": "Presenter",
+      "text": "But if I can scroll in here is again, is it relatable?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1328.66,
+      "end": 1338.44,
+      "speaker": "Presenter",
+      "text": "Well, in this instance here, it's actually not really that relatable, because maybe somebody has experienced pain with having this hair go all over the place, but this one just got sucked in, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1338.94,
+      "end": 1341.54,
+      "speaker": "Presenter",
+      "text": "And so, this for me, what I would say, it's like, \"This",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1341.54,
+      "end": 1344.06,
+      "speaker": "Presenter",
+      "text": "solves a clear pain point",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1344.06,
+      "end": 1346.96,
+      "speaker": "Presenter",
+      "text": "in the sense that there is no pain point",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1346.96,
+      "end": 1351.98,
+      "speaker": "Presenter",
+      "text": "being shown from a otherwise relatable pain point.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1352.12,
+      "end": 1355.88,
+      "speaker": "Presenter",
+      "text": "Now, if that doesn't make any sense, just understand what I'm trying to say here is like, most people,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1355.88,
+      "end": 1360.9,
+      "speaker": "Presenter",
+      "text": "if you just showed dog hair going everywhere, it would be a relatable pain point. But in this instance,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1361.18,
+      "end": 1364.4,
+      "speaker": "Presenter",
+      "text": "they're just showing like, \"Wait. Where did the hair go?\" right? And I guarantee you the hook",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 228,
+      "start": 1364.4,
+      "end": 1372.36,
+      "speaker": "Presenter",
+      "text": "rate rate on this is really, really good, and their mechanism is so good that they can just do it, right? And, look, it's just showing the product being used,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1372.48,
+      "end": 1379.02,
+      "speaker": "Presenter",
+      "text": "right? Now, and before anybody gets any crazy ideas and tries to go copy this product, or anything like that, these guys are patented it, and you guys could probably get",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1379.02,
+      "end": 1382.32,
+      "speaker": "Presenter",
+      "text": "in serious legal trouble if you try to do this stuff. But my point is, is",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1382.32,
+      "end": 1387.82,
+      "speaker": "Presenter",
+      "text": "they're just showing the product in action, and that is doing enough for them to find success. Now, that is a just a product-aware ad.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1387.82,
+      "end": 1394.2,
+      "speaker": "Presenter",
+      "text": "Now, I know that ad was very simple and straightforward, but here's another ad that is also doing really well. And if you're wondering what I did here, I just",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1394.2,
+      "end": 1401.28,
+      "speaker": "Presenter",
+      "text": "filtered by shares. That's all I did. And the reason why shares is cause shares usually mean that the ads are doing really well, and we've seen a high",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1401.58,
+      "end": 1408.2,
+      "speaker": "Presenter",
+      "text": "rel- revelance of ads that are scaling, and top performers in the account also combined with shares. And so, if we go ahead and we play this video,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1408.46,
+      "end": 1411.42,
+      "speaker": "Played audio",
+      "text": "This one trick from my grandpa made my washer smell brand new.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1411.66,
+      "end": 1416.08,
+      "speaker": "Presenter",
+      "text": "Very, very interesting. \"This one trick from my grandpa made my washer smell brand new.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1416.5,
+      "end": 1422.0,
+      "speaker": "Presenter",
+      "text": "And they're dumping this weird gunk into the actual dryer, washer, or whatever it is, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1422.38,
+      "end": 1426.78,
+      "speaker": "Presenter",
+      "text": "And so now, what I would say is like, okay, well this is maybe something I could take away from this, where it's like, \"They",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1426.78,
+      "end": 1427.88,
+      "speaker": "Presenter",
+      "text": "are showing",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1427.88,
+      "end": 1429.5,
+      "speaker": "Presenter",
+      "text": "something interesting",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1429.5,
+      "end": 1432.68,
+      "speaker": "Presenter",
+      "text": "that is also associated,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1433.24,
+      "end": 1437.2,
+      "speaker": "Presenter",
+      "text": "right? It wasn't completely random, with the product, right,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1437.56,
+      "end": 1438.38,
+      "speaker": "Presenter",
+      "text": "in the first",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1438.38,
+      "end": 1441.16,
+      "speaker": "Presenter",
+      "text": "two seconds. And now, they're about to",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1441.16,
+      "end": 1442.6,
+      "speaker": "Presenter",
+      "text": "tell a story, so they are also",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1442.6,
+      "end": 1444.24,
+      "speaker": "Presenter",
+      "text": "leveraging",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1444.24,
+      "end": 1445.0,
+      "speaker": "Presenter",
+      "text": "storytelling.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1445.54,
+      "end": 1447.86,
+      "speaker": "Presenter",
+      "text": "And just like how we did on the losing ad creative,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1448.18,
+      "end": 1454.62,
+      "speaker": "Presenter",
+      "text": "I'm going to come up with an action item here. Because say, for example, I'm, you know, this brand over here, because I looked at our losing ad and I have the humidifier,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1454.92,
+      "end": 1458.68,
+      "speaker": "Presenter",
+      "text": "I might be like, okay, \"Well, what is something that I could do to",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1458.68,
+      "end": 1463.82,
+      "speaker": "Presenter",
+      "text": "really show maybe something that is interesting, or maybe different on the timeline?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1463.82,
+      "end": 1468.8,
+      "speaker": "Presenter",
+      "text": "Could I maybe tell a story around, 'Hey, my grandma taught me this trick about humidifiers'?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1469.14,
+      "end": 1473.56,
+      "speaker": "Presenter",
+      "text": "I could literally just kind of rip, or steal this concept, one-to-one, if you want,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 254,
+      "start": 1473.56,
+      "end": 1482.08,
+      "speaker": "Presenter",
+      "text": "because they're not a direct competitor, and I'm not telling you guys to steal someone else's ad template, because, again, copying and pasting templates doesn't really do that well. But because you're early on, maybe you need to replicate",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 255,
+      "start": 1482.08,
+      "end": 1487.96,
+      "speaker": "Presenter",
+      "text": "first, before you then go on to iterate. But the point is, is I can maybe figure out, okay, what's maybe a",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1487.96,
+      "end": 1495.0,
+      "speaker": "Presenter",
+      "text": "story around a grandmother or a grandfather about a humidifier? And I could go and do research on that. Or, again, what's something super weird that I could show",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1495.0,
+      "end": 1501.0,
+      "speaker": "Presenter",
+      "text": "that's maybe associated with a humidifier? Maybe I could show me filling something up with a humidifier, just like how I did with that one,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1501.18,
+      "end": 1505.68,
+      "speaker": "Presenter",
+      "text": "right? That is something where you guys can take very, very basic-level learnings",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1505.68,
+      "end": 1512.0,
+      "speaker": "Presenter",
+      "text": "to then apply to your creative, and, most importantly, see if it actually works. Because then, again, once you test it, guess what you have to do?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 260,
+      "start": 1512.2,
+      "end": 1515.86,
+      "speaker": "Presenter",
+      "text": "You have to complete another feedback loop, okay? And so, that is the process",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1515.86,
+      "end": 1521.26,
+      "speaker": "Presenter",
+      "text": "that you guys are going to go through, where you fill out the document with your hypothesis, you fill in the action items on what you're going to do,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 262,
+      "start": 1521.52,
+      "end": 1528.26,
+      "speaker": "Presenter",
+      "text": "you actually hold yourself accountable to doing those action items, and then, again, you organize, most importantly, all of your feedback loops",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 263,
+      "start": 1528.26,
+      "end": 1533.88,
+      "speaker": "Presenter",
+      "text": "inside of here. So, guess what? If, one day, you want to download this, and you want to optimize this with Claude,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 264,
+      "start": 1534.2,
+      "end": 1541.4,
+      "speaker": "Presenter",
+      "text": "which you guys are likely going to see happen in the future here, you can then have Claude help communicate all the different feedback loops that you have completed",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 265,
+      "start": 1541.6,
+      "end": 1546.66,
+      "speaker": "Presenter",
+      "text": "and actually build a list of things that you're supposed to do, right? And, at the end of the day, this is where AI starts",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 266,
+      "start": 1546.66,
+      "end": 1555.8,
+      "speaker": "Presenter",
+      "text": "to leverage context and your human-to-human, or human-to-computer context to allow it to actually help you properly. But my point is this, guys:",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 267,
+      "start": 1556.08,
+      "end": 1561.32,
+      "speaker": "Presenter",
+      "text": "you need to focus, and I know this is a way longer video than I expected, you need to focus",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 268,
+      "start": 1561.32,
+      "end": 1566.64,
+      "speaker": "Presenter",
+      "text": "on every single thing that you do completing feedback loops. So, whether it's offers, whether it's creatives,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 269,
+      "start": 1566.64,
+      "end": 1574.04,
+      "speaker": "Presenter",
+      "text": "whether it's new campaigns that you decide to test, even though we tell every- about- everyone of you to not focus on media buying, or say, for example, you go and test a new",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 270,
+      "start": 1574.04,
+      "end": 1580.26,
+      "speaker": "Presenter",
+      "text": "landing page, or say, for example, again, in your personal life you do something, you go to a sushi restaurant, you get food poisoning, you can't work for a week,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 271,
+      "start": 1580.66,
+      "end": 1585.14,
+      "speaker": "Presenter",
+      "text": "Guess what, complete the feedback loop on this. An action item is do not go to that sushi store. Okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 272,
+      "start": 1585.46,
+      "end": 1592.34,
+      "speaker": "Presenter",
+      "text": "So, I'm making a bit of a joke with this stuff, but I'm telling you guys like you kind of subconsciously complete feedback loops, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 273,
+      "start": 1592.7,
+      "end": 1598.2,
+      "speaker": "Presenter",
+      "text": "Just how, again, using that analogy, if you went to a sushi restaurant and you got food poisoning, you're not going back there.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 274,
+      "start": 1598.46,
+      "end": 1605.26,
+      "speaker": "Presenter",
+      "text": "But the problem is that sometimes when you're doing ads, it's not painful enough for you to actually complete a feedback loop or take action around it.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 275,
+      "start": 1605.54,
+      "end": 1610.72,
+      "speaker": "Presenter",
+      "text": "And more importantly, it's kind of hard to understand this stuff, so leverage what is in here with Evolve Lite.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 276,
+      "start": 1610.8,
+      "end": 1617.76,
+      "speaker": "Presenter",
+      "text": "And leverage this video to see how my brain is kind of working on this stuff, but most importantly, complete your damn feedback loops. Okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 277,
+      "start": 1618.1,
+      "end": 1626.16,
+      "speaker": "Presenter",
+      "text": "This document is simple for a reason. You write why you think it worked, you write why you didn't think it worked, and then you mention the action items that you're actually going to take.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 278,
+      "start": 1626.16,
+      "end": 1634.46,
+      "speaker": "Presenter",
+      "text": "And you hold yourself accountable to actually doing something different as a result of the new information, again, if we go back to this point up here,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 279,
+      "start": 1634.46,
+      "end": 1638.46,
+      "speaker": "Presenter",
+      "text": "within the system, okay, within the same system.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 280,
+      "start": 1638.72,
+      "end": 1643.16,
+      "speaker": "Presenter",
+      "text": "Just because you test an ad creative and it doesn't work, doesn't mean you stop testing ad creatives, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 281,
+      "start": 1643.4,
+      "end": 1650.72,
+      "speaker": "Presenter",
+      "text": "So, I hope this video has landed for some of you guys, and I know this ended up being way longer, this kinda been like reviewing ads as well.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 282,
+      "start": 1650.72,
+      "end": 1658.4,
+      "speaker": "Presenter",
+      "text": "I might have to change the name where it's like, \"Why you won't succeed by just being consistent + ad review\". But at the end of the day, I hope you guys enjoyed, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 283,
+      "start": 1658.4,
+      "end": 1664.34,
+      "speaker": "Presenter",
+      "text": "Because this is all that I'm doing and this is all that my team is doing and this is all that anybody who's successful is doing every single day.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 284,
+      "start": 1664.34,
+      "end": 1669.74,
+      "speaker": "Presenter",
+      "text": "But sometimes you aren't good enough yet to to do it up here, so you've got to write it down, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 285,
+      "start": 1670.3,
+      "end": 1673.8,
+      "speaker": "Presenter",
+      "text": "You've got to keep track of this stuff, and even then, we still write a lot of this stuff down.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 286,
+      "start": 1673.8,
+      "end": 1684.28,
+      "speaker": "Presenter",
+      "text": "So, complete your feedback loops, and I'm telling you guys, if you stick to the process and you do this thing, you complete your feedback loops, all of a sudden, success starts to find its way to you.",
+      "chunk": 5,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 1074.47,
+      "end": 1075.88,
+      "label": "cough"
+    },
+    {
+      "start": 1193.28,
+      "end": 1216.78,
+      "label": "video playback"
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+1
+00:00:00,000 --> 00:00:08,500
+All right, guys. So, we have made it all the way to the end of putting it all together inside of the avatar training, as well as the angles and everything else. And so,
+
+2
+00:00:08,500 --> 00:00:15,960
+what we're going to do is we're just going to walk through some examples here of how to put it all together and how you can see everything come to life. Again, this is the foundation for
+
+3
+00:00:15,960 --> 00:00:25,080
+how to plan ads, and how to actually create ads that, you know, are are sought out, and not just spammed, right? That's the whole goal of this training,
+
+4
+00:00:25,080 --> 00:00:34,440
+is like you guys are actually putting a lot of intent into your ad plans so that when you create the ads, they come out so much better, okay? And so, this is an example
+
+5
+00:00:34,440 --> 00:00:41,440
+of a concept that we have which was called the Nutella ad, and again, just as a reminder for you guys, this is actually in the Origins program.
+
+6
+00:00:42,020 --> 00:00:50,240
+And so, if you guys see here, under the "How to Create Ads" section, there's 13 winning static ads and breakdown. This Nutella template is actually right here. And so, the concept
+
+7
+00:00:50,240 --> 00:00:57,640
+that was made here was very simple. It was this is bread, this is breakfast. This was the idea that we had, right? And so, we used the template here
+
+8
+00:00:57,640 --> 00:01:06,700
+to actually create these, which is awesome, and maybe the person who actually made this ad is in Origins. I don't know if they are. I think I think they might be.
+
+9
+00:01:07,600 --> 00:01:16,960
+He didn't actually have this training when he when he made these ads. But what I wanted to show you here is an example of like how this can be broken down. So,
+
+10
+00:01:16,960 --> 00:01:27,100
+for example here, this concept here is the Nutella ad, okay? And so, the angles are we just have two very very very broad angles, and so just for the sake of of of this training,
+
+11
+00:01:27,280 --> 00:01:36,040
+like, just don't don't worry about how broad this confidence versus control angle is. And, on top of that, a lot of you there was questions from some people in Evolve as well that,
+
+12
+00:01:36,040 --> 00:01:44,480
+you know, these two are very similar. They're like the same ad, but I'm going to break down and show you how they're different, okay? And so, the angles here that we're testing
+
+13
+00:01:44,480 --> 00:01:54,100
+are confidence and control, okay? And so, because you guys are doing the sub-avatar strategy and then coming up with angles where it's like, you know,
+
+14
+00:01:54,100 --> 00:02:01,020
+a harness that gives you the person confidence, like that could be the actual more specific angle. Or here,
+
+15
+00:02:01,020 --> 00:02:08,340
+you know, a harness that gives, you know, a the person control over their dog. Like that is that is the angle, right?
+
+16
+00:02:08,540 --> 00:02:16,720
+But, because you guys are starting with sub-avatars, let's just say our desire is wants to stop their dog from pulling. These two angles have the exact same core desire, right?
+
+17
+00:02:16,880 --> 00:02:23,840
+They have the exact same core desire-based avatar. And then, from here, you can see there's different product experiences. So, has tried traditional harnesses.
+
+18
+00:02:24,320 --> 00:02:31,000
+Emotion here is maybe they feel embarrassed walking their dog, and their behaviors, they avoid walking their dog in certain situations. And then, here, we have product experience.
+
+19
+00:02:31,000 --> 00:02:38,860
+It's tried multiple harnesses, and it did not stop the dog from pulling. The emotion is like they just kind of feel frustrated that harnesses don't work. And so,
+
+20
+00:02:38,860 --> 00:02:44,360
+the two variations that we have here are, "This is a harness. This is confidence." And then we have, "This is pulling. This is control."
+
+21
+00:02:44,360 --> 00:02:53,900
+And the format here is, again, static graphic design, like you guys will see inside of the formats. So, every ad format that you can use, you guys can find that in there.
+
+22
+00:02:54,240 --> 00:03:02,480
+And then the testing method here is Marksman, okay? And the reason why it's Marksman is because, again, we're testing two different angles. Whenever we're testing multiple angles in an ad, it's Marksman,
+
+23
+00:03:02,780 --> 00:03:12,360
+okay? So, very simple, right? Now, the explanation here is, in the ads above, we're actually testing two different sub-avatars here, aka angles, right? And one of them is talking about confidence and the other
+
+24
+00:03:12,360 --> 00:03:18,760
+is talking about control, okay? So, down here, referencing that traditional harnesses are basically just
+
+25
+00:03:18,760 --> 00:03:30,240
+pulling mechanisms, but this new harness is obviously the better solution, okay? And so, here, again, we are testing two different angles with one variation of each, right?
+
+26
+00:03:30,440 --> 00:03:40,360
+So, we're not testing the control angle with three different variations. We're only testing the control angle with one variation, just like how we're testing the confidence angle with one with one variation,
+
+27
+00:03:40,720 --> 00:03:47,440
+okay? Now, there is actually a third ad. I just only put two for the sake of it like fitting nicely in the doc, and you guys like being able to see it. The three just looked ugly.
+
+28
+00:03:47,440 --> 00:03:54,540
+Just know there was a third concept or third variation here, but just don't worry about it, okay? And so, again, cuz that's that's the 3-2-2, right? If we go to the definition,
+
+29
+00:03:54,920 --> 00:04:03,560
+3-2-2 is our testing structure that we use, and you guys will see that in the "How to Run Ads" section as well, okay? And so, that is just an example of using Marksman strategy,
+
+30
+00:04:03,640 --> 00:04:12,860
+and again, because we're going to keep things simple, whenever you're doing image ads, you should or initial image ads, you should always just test Marksman, and although these don't look massively different,
+
+31
+00:04:12,860 --> 00:04:20,340
+again, if you look at these ads, this is going after a completely different angle. Where we're saying, "Hey, this is a harness and this is confidence," and then, here, we're saying, "This is pulling, this is control,"
+
+32
+00:04:20,880 --> 00:04:29,240
+right? And so, again, if this ad works, let's say that, "This is pulling. This is control," is the ad that works, well, what are we going to do? We're going to double down on this idea of control,
+
+33
+00:04:29,580 --> 00:04:38,800
+and guess what? We're going to go search more about this person who wants who wants more control of their dog, right? What are some of their behaviors? Like, what are they doing to try to keep control of their dog?
+
+34
+00:04:39,000 --> 00:04:48,280
+Because I would assume, if this is working, maybe they've tried a harness to get control of the dog and it's not working, right? But this harness actually is, right? Or we're showing that it is, and so
+
+35
+00:04:48,280 --> 00:04:55,840
+that could be the reason why this is working, and then we might go and test a different format. Maybe we'll go and do a video about how this harness makes your dog pull,
+
+36
+00:04:55,960 --> 00:05:04,720
+and then this harness actually allows you to have control because of a specific new mechanism, okay? So, you guys can see how everything gets put together. Now, another example over here,
+
+37
+00:05:04,720 --> 00:05:12,160
+for number two here, is the concept of shift worker experience. So, what we were wanting to do is we were wanting to go after shift workers,
+
+38
+00:05:12,300 --> 00:05:20,660
+and so the concept explanation here is we're now optimizing individual ads for night shift workers and that sub-avatar, okay? So, I didn't break it down fully
+
+39
+00:05:20,660 --> 00:05:30,220
+like I did up here. But, again, if you have a sub-avatar that's about night shift workers, and you know their behaviors, their emotions, or whatever else you have in your sub-avatar, again, the angle here is to sleep better during the day,
+
+40
+00:05:30,220 --> 00:05:38,340
+okay, with total darkness. That's what we're going after. And so, the variations that we have here are graveyard shift, "I'm finding it impossible to sleep in the morning." This is the one hook that we had.
+
+41
+00:05:38,860 --> 00:05:46,620
+"Night shift is killing me," and then, "Night shift job, but I can't sleep all day. My life has taken a quick downturn." And so, what you'll notice about this is this is three different ways
+
+42
+00:05:46,620 --> 00:05:48,580
+of communicating this angle.
+
+43
+00:05:49,000 --> 00:05:54,140
+Right? And so the format here that you'll see is subtitles with B-roll. So there's all the three hooks, right?
+
+44
+00:05:54,480 --> 00:06:01,100
+And then the testing method is what? It's sniper method, because again we're focusing on just one angle. If there's one angle, we're going sniper method.
+
+45
+00:06:01,100 --> 00:06:06,600
+And for most of you guys in Origins, if you're going to do a video, you should go sniper method, okay? Focus on your best angle,
+
+46
+00:06:06,860 --> 00:06:11,360
+and then in the variation side of things you're going to communicate that angle in different ways, right?
+
+47
+00:06:11,360 --> 00:06:15,440
+And we're going to talk a little bit more about execution in the modules coming up. But explanation here,
+
+48
+00:06:15,460 --> 00:06:23,720
+this is an example of getting a direction from a marksman method test, and then optimizing the rest of the hold and the ad for the specific sub-avatar to make it more relatable.
+
+49
+00:06:24,040 --> 00:06:29,460
+And just so you guys know, this actually did come from a marksman test. We did a very simple marksman test where we tested a bunch of different sub-avatars,
+
+50
+00:06:29,460 --> 00:06:34,240
+and we found that night shift workers was getting direction, and so we made a ad around it.
+
+51
+00:06:34,320 --> 00:06:42,300
+If you take a look at this specifically, right, graveyard shift, I'm finding it impossible to sleep, and then it gets into this ad right here. Says fix your sleep, five-minute whatever, right?
+
+52
+00:06:42,400 --> 00:06:47,400
+And then it talks about like join 10,000-plus night shift workers. Now, you'll notice the rest of this ad is very simple.
+
+53
+00:06:47,500 --> 00:06:54,560
+What I have actually told my team to do and we completed a feedback loop is that we needed to get more into actual night shift working,
+
+54
+00:06:54,560 --> 00:06:58,980
+or night shift workers specifics rather than general things, right?
+
+55
+00:06:59,100 --> 00:07:04,340
+Cuz like this has nothing to do with night shift workers. This also has nothing to do with night shift workers, and neither's neither's this, right?
+
+56
+00:07:04,660 --> 00:07:09,980
+This is all general stuff, right? So if we wanted to make this better, what we could potentially say is like
+
+57
+00:07:09,980 --> 00:07:13,000
+"Sleep better during the day with 100% darkness," right?
+
+58
+00:07:13,300 --> 00:07:18,460
+That is really going to relate with someone who literally says, "Finding it impossible to sleep in the morning," right?
+
+59
+00:07:18,660 --> 00:07:22,140
+We can just say, "Sleep better in the morning with 100% darkness."
+
+60
+00:07:22,300 --> 00:07:29,220
+That would be much more congruent and much more relatable to the actual night shift working avatar rather than just saying "fix your sleep," right?
+
+61
+00:07:29,360 --> 00:07:34,760
+I mean, does it still work? Potentially. But there's nothing really that is relatable here except for this final one.
+
+62
+00:07:35,080 --> 00:07:41,500
+But even then, like we should have added more here to be more specific. Now, this was just like a quick little short ad that you can see,
+
+63
+00:07:41,760 --> 00:07:48,280
+but, you know, I would have I would have made this much more congruent and I would have used this hold, because what you'll see here as I play this,
+
+64
+00:07:48,280 --> 00:07:56,160
+is that all of these ads have the exact same hold, and so this is a strategy that you'll see from an execution standpoint where we take three different hooks
+
+65
+00:07:56,160 --> 00:08:03,900
+again, and we use the same hold. So here's third separate hook here, right? Night shift job, but I can't sleep all day, right? And then it's the exact same hold.
+
+66
+00:08:04,100 --> 00:08:10,140
+So this hold should have been much more optimized if you ask me, but that is an example of sniper method where we're just communicating this three different ways.
+
+67
+00:08:10,200 --> 00:08:16,920
+And my point with this is is if you're going to do sniper method, like go in on it. Make make the best ad that you can.
+
+68
+00:08:17,100 --> 00:08:24,620
+Now, if it's an initial test and you just want to make like a shorter quick ad like this, that's fine. But if you know that night shift workers are working
+
+69
+00:08:24,620 --> 00:08:29,040
+or if you know a specific sub-avatar is working, focus on making the most relatable
+
+70
+00:08:29,040 --> 00:08:35,140
+complete ads that you can rather than just trying to make the the hooks relatable, okay? Now, example one and two,
+
+71
+00:08:35,140 --> 00:08:41,040
+okay, we're going to go through this marksman method and sniper deep dive, okay? And so again, for images, it's very easy to test
+
+72
+00:08:41,040 --> 00:08:47,720
+the marksman method. You have your three different angles, you test them congruently and that's it, okay? And so with image ads, you should always be testing
+
+73
+00:08:47,720 --> 00:08:53,720
+marksman method unless you have a true winner that you want to optimize further. But as much as images are simple and easy to test,
+
+74
+00:08:54,180 --> 00:09:03,340
+most people suck at execution and can get turned off from an angle because they screwed up the execution part, okay? So just because static ads seem simple
+
+75
+00:09:03,340 --> 00:09:09,140
+to make does not mean that they're easy, okay? Now, the question here is how do you test the marksman method with videos?
+
+76
+00:09:09,140 --> 00:09:15,940
+And so for those of you that are like, you know, courageous enough or like, you know, you feel like you're smart enough to also apply marksman method to video,
+
+77
+00:09:15,940 --> 00:09:21,200
+you can, okay? I don't have an example in here for you because I don't want to confuse you guys,
+
+78
+00:09:21,200 --> 00:09:25,600
+but if you are like, "Hey, you know what, I do kind of want to do some video marksman tests,"
+
+79
+00:09:25,720 --> 00:09:30,000
+it's very simple, okay? As long as your hold is relevant to the core avatar,
+
+80
+00:09:30,740 --> 00:09:32,920
+right? So if we go back up here for this specifically,
+
+81
+00:09:32,920 --> 00:09:38,880
+the core avatar wants their dog to stop pulling. So we could have done a video ad about getting your confidence back,
+
+82
+00:09:38,880 --> 00:09:44,460
+that has a hook about getting confidence back, and another one that has a hook about getting control of your dog, and another one that has,
+
+83
+00:09:44,460 --> 00:09:50,080
+you know, a hook of, I don't know, something else. As long as it all leads back to wanting their dog to stop pulling,
+
+84
+00:09:50,460 --> 00:09:54,280
+then that's fine, right? And so again, put in terms of this avatar training,
+
+85
+00:09:54,380 --> 00:09:59,760
+as long as your hold, so everything after the first 3 to 10 seconds, and the reason why I say 10 seconds is sometimes
+
+86
+00:09:59,760 --> 00:10:05,680
+we extend the hook, and so we make the hook even more relatable for 3 to 10 seconds, and then we get into a generic hold,
+
+87
+00:10:06,060 --> 00:10:10,440
+but you guys don't need to worry about that. Just know the hook is like the first 2 to 3 seconds for majority of you.
+
+88
+00:10:10,760 --> 00:10:14,780
+And as long as the hold, so everything else after that, is relevant to the core avatar that you're targeting,
+
+89
+00:10:15,140 --> 00:10:19,180
+then you're fine, okay? Just know that when you're testing the marksman method with video,
+
+90
+00:10:19,180 --> 00:10:24,660
+focus on making the hooks more specific and the holds more generic, okay? And so I did have an example above.
+
+91
+00:10:24,960 --> 00:10:31,580
+So when we actually did a video marksman's test for this brand specifically, we tested these three different like POVs.
+
+92
+00:10:31,640 --> 00:10:38,600
+Like POV, you work the night shift. POV, you're a light sleeper. POV, you have insomnia. These are This POV strategy is an execution strategy that we're going to get into,
+
+93
+00:10:38,600 --> 00:10:44,420
+which is a really, really great way for you guys to quickly test sub-avatars and use labels to call them out,
+
+94
+00:10:44,580 --> 00:10:51,760
+okay? And then the hold here is it shows blinds closing, complete darkness, and then peaceful sleep, right? Like this applies to any of these people,
+
+95
+00:10:51,760 --> 00:10:55,740
+because again they all have the same desire, all right? And so
+
+96
+00:10:55,740 --> 00:11:01,240
+this works because the body just demonstrates the mechanism. Again, the total blackout or the hold, rather,
+
+97
+00:11:01,780 --> 00:11:11,840
+just demonstrates the mechanism, which is total blackout, that resonates with the core avatar, and then helps the sub the specific sub-avatar understand why we call them out in the original hook.
+
+98
+00:11:11,840 --> 00:11:18,360
+Okay? Again, each hook calls out who needs it, and then the hold should just show why they need it in a very simple way.
+
+99
+00:11:18,720 --> 00:11:22,460
+Okay? And again, this is for initial video concepts using the Marksman method if you want to.
+
+100
+00:11:22,580 --> 00:11:30,540
+Again, I'm telling most of you guys in Origins: Marksman method, use it for images; sniper method, use it for videos. Very, very, very simple, okay?
+
+101
+00:11:30,960 --> 00:11:41,640
+And so, just getting down here, again, this is an important note, like if your hold is too specific that talks about, you know, someone waking up at 7:00 a.m., the sun rising, kids getting ready for school and they're about to go to bed,
+
+102
+00:11:42,080 --> 00:11:47,560
+and then you have a you know, a hook that says, "POV: You're a light sleeper," right? Like it's just it's not really going to make sense, okay?
+
+103
+00:11:47,880 --> 00:11:53,840
+And so again, the goal of the Marksman method is to find direction fast, and once you do, use the sniper method to go deeper. But just understand,
+
+104
+00:11:53,840 --> 00:12:02,020
+biggest note for all of this is that your customers don't give two shits if you're running Marksman method or sniper method. Okay? They just care about what's in it for them.
+
+105
+00:12:02,160 --> 00:12:05,780
+So if you're confused by these two methods, again: Marksman means images.
+
+106
+00:12:05,780 --> 00:12:13,940
+When you're testing image ads, just make sure you take three different swings, okay? Three different angles in each ad. Make that ad as congruent as possible, okay?
+
+107
+00:12:14,180 --> 00:12:19,400
+If you're going to do videos, then use the sniper method. Focus on one angle, and just make the best video ad that you can, okay?
+
+108
+00:12:19,860 --> 00:12:29,200
+So, at the end of the day, hopefully, that all makes sense. Again, back to the examples here. Here's another example of like again, it's a meme static ad. We had this idea to to make meme ads, but like meme ads of what?
+
+109
+00:12:29,200 --> 00:12:36,820
+We're like, "Okay. Well, again, it's an image ad, so we're going to use Marksman strategy. 'Keeps your coffee hot for 6 hours' was one one angle. 'Unbreakable ceramic' was the other."
+
+110
+00:12:37,080 --> 00:12:47,200
+Again, variations. So, again, we only have one way to communicate this angle. So we said, "When your coffee still tastes perfect 6 hours later." And then, in this instance, you can see we made the image more congruent, right?
+
+111
+00:12:47,460 --> 00:12:52,860
+And then this one here says, "Me offering a caveman unbreakable ceramic," has this image here, right?
+
+112
+00:12:53,120 --> 00:12:58,300
+Now, could we have used this image and just said this differently when it's like, "When you drop your cup and it doesn't break"?
+
+113
+00:12:58,580 --> 00:13:03,480
+Like, obviously, that could still work, but we just felt like this one would be funnier. You know what I'm saying?
+
+114
+00:13:03,500 --> 00:13:13,660
+And so, at the end of the day, you get the point. Like, you can use different images. You can use You can communicate it however you want, just know with Marksman method it's like you're just focused again on making the best ads possible.
+
+115
+00:13:13,660 --> 00:13:21,260
+And you're going to notice that as a common theme. So like image ads, even though we're using Marksman method, I want you to make the best variation possible for that angle.
+
+116
+00:13:21,540 --> 00:13:29,080
+And then if you're using sniper method and you're doing video ads, again, I just want you to make the best video ad possible, because that's what you guys need to focus on more than anything, okay?
+
+117
+00:13:29,500 --> 00:13:36,440
+Hopefully, that all makes sense. Again, you guys get this, all clear. And then we have another one here as well that you guys can go and check out. It's It's very, very simple.
+
+118
+00:13:36,920 --> 00:13:44,460
+This one here, batch number 127. This is an example of us going after, again, career-ending injuries. So it says, "Don't risk a career-ending injury."
+
+119
+00:13:44,880 --> 00:13:49,140
+The other one here says, "This is the best way to prevent career-ending injuries."
+
+120
+00:13:49,720 --> 00:13:55,840
+And then the final one says, "The right skate cut protection not only prevents career-ending injuries dot dot dot, but it can also save your life."
+
+121
+00:13:56,140 --> 00:14:04,660
+And you'll notice here so this is an example of like a two-step hook, or like a bridge is what we would kind of call this, but again, it's still only 3 seconds. And then we get into the rest of the hook, okay?
+
+122
+00:14:04,880 --> 00:14:11,100
+We're focused on one angle specifically, right? We use subtitle b-roll to communicate this.
+
+123
+00:14:11,580 --> 00:14:18,400
+Here's Here's the angle that we focused on. The variations were: "Don't risk this. This is the best. This is the right." The hooks that I just read out were the variations that we did.
+
+124
+00:14:18,500 --> 00:14:29,480
+And then, again, this is an example of an older iteration that we did, because, again, when you're using sniper method a lot of times you're doing iterations. But, again, for you guys, even if you're doing initial concepts you can still use the sniper method, don't get confused.
+
+125
+00:14:30,040 --> 00:14:37,680
+And at the end of the day, this is another example where I felt like these ads were not as specific enough for career-ending injuries specifically.
+
+126
+00:14:38,200 --> 00:14:43,420
+It's just some of the more recent ads that we've made for brands, they just don't want us showing.
+
+127
+00:14:43,760 --> 00:14:51,800
+I'm actually going to write some examples for you guys like raw, and and do it myself, and actually get it edited and show you the final video. So you guys will be able to see that,
+
+128
+00:14:51,800 --> 00:15:00,340
+and it'll show you like how to execute it properly. But again, I'm just trying to show you that from a hook standpoint, how the sniper or how the Marksman method works,
+
+129
+00:15:00,340 --> 00:15:07,940
+and how the concept, angle, variation, format all come together, okay? So this is putting everything together with examples.
+
+130
+00:15:08,400 --> 00:15:18,120
+Hopefully this all makes sense to you guys. Again, if you have questions, we're here to help, but at the end of the day you guys just need to focus on the best execution possible. And now that you've gone through the whole training, again, here's my concept.
+
+131
+00:15:18,240 --> 00:15:24,780
+If it's just a format or whatever it is, it's like, okay, then what is the angle? Again, multiple angles means we're using Marksman method.
+
+132
+00:15:24,780 --> 00:15:32,480
+If we only have one angle, it means we're using sniper method. Again, variations for sniper method is different ways of saying this one angle.
+
+133
+00:15:33,300 --> 00:15:40,960
+Variations for Marksman method is one way of saying that angle. And then, again, the formats, you guys can find all of the formats
+
+134
+00:15:40,960 --> 00:15:46,400
+inside of this here. There's tons of formats, all with examples. So, I hope this makes sense, guys.
+
+135
+00:15:46,620 --> 00:15:55,800
+I hope this training has been extremely helpful for you to get you planned, and for those of you who have been watching this module by module, I have a lot of respect for you. Um, but I hope this helps you guys understand how to plan your ads properly
+
+136
+00:15:55,800 --> 00:16:04,020
+because most people do not do this. They just go and make ads, which is why their ads suck, okay? And so, when you put in way more time, if you spend 90% of your time
+
+137
+00:16:04,380 --> 00:16:13,640
+preparing the ads and getting them like ready to go and really thinking through the entire concept, it makes execution just flow way more easily, cuz a lot of you guys just try to jump straight into execution,
+
+138
+00:16:13,640 --> 00:16:23,780
+and you're like, "I don't know what I'm going to make ads about." Well, you should never have that problem. I think most of you have the problem now of like you have too many angles. You're like, "How do I test all these angles?" And like that is not usually a beginner problem,
+
+139
+00:16:24,080 --> 00:16:32,580
+so the fact that you guys have that problem is a good problem. You have too many ideas versus zero ideas at all. So, hopefully, this training is helpful, guys. I'm looking forward to seeing the wins.
+
+140
+00:16:32,900 --> 00:16:40,120
+Make sure that you guys, if you aren't posting them, you get in the community, you jump in there, you tag it as a freaking win, and you tag me,
+
+141
+00:16:40,200 --> 00:16:47,700
+you tag Mike, you tag Sean, you're like, "Guys, I just found a new winning ad. Let's go." And I know that might not happen until we get, the rest of
+
+142
+00:16:47,700 --> 00:16:57,780
+the modules in here for you guys around and if you're watching this later, they're already there, but around the how to create ad section, so look out for those if you're watching this brand new. But, again, thank you, guys, for being such a great community.
+
+143
+00:16:58,040 --> 00:17:01,300
+I hope this module was helpful for you, and I'll see you in the next ones.

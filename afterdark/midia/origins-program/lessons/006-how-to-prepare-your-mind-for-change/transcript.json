@@ -1,0 +1,928 @@
+{
+  "lesson": {
+    "num": 6,
+    "id": "006-how-to-prepare-your-mind-for-change",
+    "title": "How to prepare your mind for change",
+    "section": "🧘 Origins Mindset",
+    "video": "6. How to prepare your mind for change Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 579.691,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=d140484b2496458881e5541f975ba148"
+  },
+  "generated_at": "2026-10-06T20:24:06-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (96% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 2327,
+    "matched_tokens": 2226,
+    "match_ratio": 0.957,
+    "segments_aligned": 95,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 277.415,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 233.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 277.415,
+      "end": 579.691,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.84,
+      "wpm": 250.2,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.46,
+      "speaker": "Presenter",
+      "text": "Well, if you're watching this video, you are about to change.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 4.26,
+      "end": 10.6,
+      "speaker": "Presenter",
+      "text": "And in order for you to change, you need to understand what actually has to happen if you're going to change, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 11.02,
+      "end": 18.62,
+      "speaker": "Presenter",
+      "text": "And so, right now, you are a- in a place or you are a specific person that is not- not-",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 18.86,
+      "end": 22.7,
+      "speaker": "Presenter",
+      "text": "maybe it's not that you're not happy, but you're not where you want to be. You want to be somewhere else, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 22.86,
+      "end": 33.74,
+      "speaker": "Presenter",
+      "text": "You decided to join this program because you want to change into someone who is either earning more money, or has more skills, or is at another level, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 33.86,
+      "end": 37.9,
+      "speaker": "Presenter",
+      "text": "There's no other reason why you would be here. You're- you're trying to level yourself up,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 38.1,
+      "end": 40.54,
+      "speaker": "Presenter",
+      "text": "meaning that you're trying to change, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 40.92,
+      "end": 45.6,
+      "speaker": "Presenter",
+      "text": "And so, in order for you to change, you have to understand what is about to happen, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 45.68,
+      "end": 53.26,
+      "speaker": "Presenter",
+      "text": "You need to understand how your mind processes change, because at the end of the day, we are- we don't like change, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 53.78,
+      "end": 56.96,
+      "speaker": "Presenter",
+      "text": "Remember when the iPhone- and this is just an analogy to help you guys understand this-",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 56.96,
+      "end": 60.64,
+      "speaker": "Presenter",
+      "text": "remember when the iPhone removed the headphone jack?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 60.86,
+      "end": 65.62,
+      "speaker": "Presenter",
+      "text": "Do you remember how pissed people were? They were like, \"Why would they do this? These dongles, they're the dumbest thing!\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 65.76,
+      "end": 72.86,
+      "speaker": "Presenter",
+      "text": "Every- and there's probably still people that hate it, but at the end of the day, now all of a sudden, we don't care, cuz everybody just uses AirPods, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 73.44,
+      "end": 76.24,
+      "speaker": "Presenter",
+      "text": "But at that time, it just felt like the dumbest thing.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 76.64,
+      "end": 81.92,
+      "speaker": "Presenter",
+      "text": "It was the stupidest thing because it was change, it was something new, and people do not like change.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 82.24,
+      "end": 90.08,
+      "speaker": "Presenter",
+      "text": "We like to be comfortable, okay? And when change happens, essentially your- your mind just rejects it, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 90.44,
+      "end": 96.78,
+      "speaker": "Presenter",
+      "text": "And so, to emphasize this, I'm going to- I'm going to walk you guys through what actually happens as you're going through change",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 96.78,
+      "end": 103.42,
+      "speaker": "Presenter",
+      "text": "and what is actually about to happen to you if you actually go through this program and apply the things that we talk about.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 103.66,
+      "end": 113.44,
+      "speaker": "Presenter",
+      "text": "Because at the end of the day, I can give everything to you on a silver platter, but if you are not mentally prepared to go through this program, you are going to fail, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 113.7,
+      "end": 119.42,
+      "speaker": "Presenter",
+      "text": "And so, what I want you to try to do is place yourself on this graph where you think you are, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 119.88,
+      "end": 125.68,
+      "speaker": "Presenter",
+      "text": "Most of you who are just starting out are probably in some kind of uninformed optimism. You're really excited,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 125.88,
+      "end": 133.48,
+      "speaker": "Presenter",
+      "text": "you're just starting, maybe you watched a YouTube video of an 18-year-old hitting a 100K day, maybe you saw a screenshot of someone do a $700,000 day,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 133.88,
+      "end": 139.2,
+      "speaker": "Presenter",
+      "text": "whatever it may be, you have- you've maybe got some excitement, right? You're optimistic. You're like, \"I can do this,\" okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 139.58,
+      "end": 142.12,
+      "speaker": "Presenter",
+      "text": "And then, what ends up happening, as you start to learn things,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 142.12,
+      "end": 148.3,
+      "speaker": "Presenter",
+      "text": "and you're like, \"Okay. Well, let's just say I'm getting going. And okay, I've got to set up a Shopify store. And okay, I've got to find a product.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 148.3,
+      "end": 152.86,
+      "speaker": "Presenter",
+      "text": "And okay, I've got to validate that product. Okay, well, that didn't really work. Okay. Now I've got to do creatives.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 152.86,
+      "end": 156.42,
+      "speaker": "Presenter",
+      "text": "And then I've got to learn media buying.\" And then, all of a sudden, next thing you know, you get down to this",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 156.42,
+      "end": 163.84,
+      "speaker": "Presenter",
+      "text": "informed- you know, or informed pessimism stage, which basically just means that you're starting to realize like this is not actually going to be as easy as you thought.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 163.98,
+      "end": 166.5,
+      "speaker": "Presenter",
+      "text": "And some of you guys might actually be in this stage as well",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 166.78,
+      "end": 174.6,
+      "speaker": "Presenter",
+      "text": "because of the fact that you have joined this program, and you're like, \"Okay. Well, clearly, you know, this is- this is not going to be a walk in the park, so I probably need some help,\" okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 174.9,
+      "end": 182.48,
+      "speaker": "Presenter",
+      "text": "And so, for some of you guys, you're in this stage, but, you know, you're not completely like defeated, but you are definitely in a place where it's like, \"Okay, this is going to be hard.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 182.8,
+      "end": 188.5,
+      "speaker": "Presenter",
+      "text": "And then what ends up happening is you start learning, you know, marketing fundamentals, and then you start diving deeper into all the different types of creative strategy,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 188.76,
+      "end": 193.14,
+      "speaker": "Presenter",
+      "text": "and then you start seeing all the different types of CRO stuff you need to do, and then you figure out that you need to do offers,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 193.16,
+      "end": 197.48,
+      "speaker": "Presenter",
+      "text": "and then, you know, your product's not working, and then one day your performance is great and one day it's bad,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 197.48,
+      "end": 203.3,
+      "speaker": "Presenter",
+      "text": "and then, all of a sudden, your store is like going down to zero, and, you know, you went from 5K days to, you know, $500 a day.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 203.4,
+      "end": 206.94,
+      "speaker": "Presenter",
+      "text": "Next thing you know, you're just like, \"What am I doing?\", right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 206.94,
+      "end": 216.28,
+      "speaker": "Presenter",
+      "text": "And you get down to this point which people call the valley of despair, which basically just means that you are just like, \"This is- this is stupid. This is never going to work.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 216.28,
+      "end": 223.98,
+      "speaker": "Presenter",
+      "text": "And you start to get in this mindset because, again, you're experiencing change, right? And what ends up happening is you just don't think it's going to work.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 224.42,
+      "end": 232.24,
+      "speaker": "Presenter",
+      "text": "And the number-one mistake that everybody who is not successful- so people who just never actually get to the point where they truly are successful,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 232.4,
+      "end": 242.48,
+      "speaker": "Presenter",
+      "text": "whatever your definition of success is, which I'm not going to define for you, but saying purely financial, if you get to 100K per month, or you get to 200 or 300 or 400K a month, whatever it is,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 242.86,
+      "end": 243.8,
+      "speaker": "Presenter",
+      "text": "they just quit here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 244.46,
+      "end": 249.52,
+      "speaker": "Presenter",
+      "text": "okay? Maybe they go up a little bit and they start to climb it, and they're like, \"Yeah, this- this is just way too hard,\" and they quit.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 250.28,
+      "end": 255.56,
+      "speaker": "Presenter",
+      "text": "And what do they do? They go to the next thing. \"Oh, well, apparently TikTok Shop dropshipping is- is way better. I need to do that.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 255.88,
+      "end": 260.2,
+      "speaker": "Presenter",
+      "text": "And then you know what ends up happening? They go through the exact same stage again, and then they go back over here, and they're like,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 260.38,
+      "end": 266.72,
+      "speaker": "Presenter",
+      "text": "\"Okay, well, you know what? Maybe- maybe I should just get into real estate.\" And then they go through the exact same thing again, and then they just keep repeating this process",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 266.72,
+      "end": 272.32,
+      "speaker": "Presenter",
+      "text": "over and over and over. What ends up happening is that they just- they never get here, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 272.66,
+      "end": 276.62,
+      "speaker": "Presenter",
+      "text": "And then the other thing that happens is sometimes people",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 276.62,
+      "end": 284.48,
+      "speaker": "Presenter",
+      "text": "start here, or maybe they start here and then just out of sheer luck or pure luck, boom, they go straight to success,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 285.0,
+      "end": 289.52,
+      "speaker": "Presenter",
+      "text": "or they go straight over here where it's actually starting to work, right? This is those of you that have maybe gone on Kalodata",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 289.74,
+      "end": 295.3,
+      "speaker": "Presenter",
+      "text": "or gone on these other things and you've ripped content, you've ripped products, and you saw this stupid copy and paste strategy,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 295.74,
+      "end": 301.3,
+      "speaker": "Presenter",
+      "text": "and it actually worked, right? And then, guess what, guess what ends up happening? As as as fast as you skipped this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 301.72,
+      "end": 307.8,
+      "speaker": "Presenter",
+      "text": "all of a sudden, you start to you start to fall back down, and you start to come down into this area where it's not working,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 308.18,
+      "end": 315.0,
+      "speaker": "Presenter",
+      "text": "it's slipping, it's sliding, it's sliding, it's sliding, and then you end up here anyways. And the reason why is because you don't actually experience",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 315.0,
+      "end": 320.12,
+      "speaker": "Presenter",
+      "text": "growth. The people that go from stage three to stage four,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 320.34,
+      "end": 329.52,
+      "speaker": "Presenter",
+      "text": "this section right here is where success is actually made, and the reason why is because of what this does to you",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 329.52,
+      "end": 335.2,
+      "speaker": "Presenter",
+      "text": "as a person, and the change that you go through, and the person that you become on the other side",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 335.2,
+      "end": 342.06,
+      "speaker": "Presenter",
+      "text": "of climbing what feels like seven Mount Everests on top of each other at times, depending on how hard it is. It's different for everybody.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 342.56,
+      "end": 349.14,
+      "speaker": "Presenter",
+      "text": "But at the end of the day, this is the section where success is made, because what ends up happening here",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 349.14,
+      "end": 356.86,
+      "speaker": "Presenter",
+      "text": "is the work that you do works more on you than you work on it. And that is, for those of you that know that, an Alex Hormozi saying that I",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 356.86,
+      "end": 361.8,
+      "speaker": "Presenter",
+      "text": "strongly live by, and could not agree with anything more, because this",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 361.8,
+      "end": 368.3,
+      "speaker": "Presenter",
+      "text": "stage is where everything happens. And then once you get up through this stage and once you get through all of this shit,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 368.72,
+      "end": 377.16,
+      "speaker": "Presenter",
+      "text": "all of a sudden, you realize things are starting to work. And once you have that conviction again, and you start to see it and, more importantly, you complete",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 377.16,
+      "end": 383.68,
+      "speaker": "Presenter",
+      "text": "feedback loops, which which we're going to talk about, and you keep going, and you keep pushing, and you keep pushing, and you keep pushing, and get pushing,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 384.0,
+      "end": 389.86,
+      "speaker": "Presenter",
+      "text": "next thing you know, you are exactly where you want to be. But the truth is is nobody ever wants to do this",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 389.86,
+      "end": 398.1,
+      "speaker": "Presenter",
+      "text": "because it's hard, and because we do not like change. We don't like hard things, we don't like change, but this is where you change as",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 398.1,
+      "end": 404.38,
+      "speaker": "Presenter",
+      "text": "a person. Okay? So when you push through and you actually get to this point where you start to figure",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 404.38,
+      "end": 410.72,
+      "speaker": "Presenter",
+      "text": "things out, that is where success is. Okay? And I want you guys to understand, I'm going to go back full screen for this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 410.72,
+      "end": 418.62,
+      "speaker": "Presenter",
+      "text": "that this again is meant to be hard. I don't want to give you the belief that this is going to be hard and, you know, it's it's going to be impossible",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 418.62,
+      "end": 425.6,
+      "speaker": "Presenter",
+      "text": "for you to do, because I I I it's not impossible. It it is very very possible, and the thing is is that most of you, the time horizons that you have,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 425.6,
+      "end": 432.2,
+      "speaker": "Presenter",
+      "text": "are like 30 days or 60 days, where you really need to set yourself in and be like, \"I'm just going to figure this I'm going to figure this shit out,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 432.5,
+      "end": 439.34,
+      "speaker": "Presenter",
+      "text": "I'm not going to stop till I figure it out.\" And I'm going to show you guys how to make sure that you don't just stay flat and stay the same forever,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 439.34,
+      "end": 446.24,
+      "speaker": "Presenter",
+      "text": "because just being consistent and showing up every every single day doesn't actually get you success. Okay? We're going to talk about the most important thing, which",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 446.24,
+      "end": 451.52,
+      "speaker": "Presenter",
+      "text": "is actual feedback loops. But the point is is that this chart that you just saw, that cycle of change,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 451.52,
+      "end": 456.3,
+      "speaker": "Presenter",
+      "text": "is what you have to go through to sustainably hold",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 456.3,
+      "end": 460.94,
+      "speaker": "Presenter",
+      "text": "success, okay? You are going to change as a person. You right now",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 460.94,
+      "end": 465.38,
+      "speaker": "Presenter",
+      "text": "do not have the skill set to be at 100k per month, or if you're doing 100k per month,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 465.38,
+      "end": 471.7,
+      "speaker": "Presenter",
+      "text": "you don't have the skill set to be doing a million a month. And for some reason if you're doing a million a month and you're watching this, you don't have the skill set to get to 10 million",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 471.7,
+      "end": 477.08,
+      "speaker": "Presenter",
+      "text": "a month, whatever it may be. And if you're watching this at 10 million a month, I don't know what you're doing here. But the point is is that you need to change,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 477.54,
+      "end": 485.04,
+      "speaker": "Presenter",
+      "text": "okay? And at the end of the day, you, what you have right now in front of you is an opportunity to have a strategy",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 485.04,
+      "end": 490.82,
+      "speaker": "Presenter",
+      "text": "given to you that is validated and that works, okay? But if you don't",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 490.82,
+      "end": 496.82,
+      "speaker": "Presenter",
+      "text": "actually apply it and you don't push through the parts that are hard and you just expect this to be some kind of copy",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 496.82,
+      "end": 502.42,
+      "speaker": "Presenter",
+      "text": "and paste magical program—and even if it was, here's the thing, even if it was like click this two buttons,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 502.42,
+      "end": 508.24,
+      "speaker": "Presenter",
+      "text": "and boom, you have all the money that you ever want, you don't learn anything. You don't actually change, you don't",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 508.24,
+      "end": 513.1,
+      "speaker": "Presenter",
+      "text": "grow. And so just as fast as you got it, it you're going to lose it",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 513.1,
+      "end": 519.24,
+      "speaker": "Presenter",
+      "text": "just as fast, okay? And then all of a sudden, you're back at square one anyways. So, you have to lean",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 519.24,
+      "end": 524.3,
+      "speaker": "Presenter",
+      "text": "into the stuff, and I wish somebody would have hammered this into my head early on, because I I do have to,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 524.46,
+      "end": 531.14,
+      "speaker": "Presenter",
+      "text": "you know, be grateful for the people that have helped me with mindset along the way. But this whole program that you're about to go through, if you don't understand this, if you don't understand that you're about to change",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 531.14,
+      "end": 536.9,
+      "speaker": "Presenter",
+      "text": "and you're about to go through some things that are hard and are going to be complicated and uncomfortable and you're going to want to reject them,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 536.9,
+      "end": 543.14,
+      "speaker": "Presenter",
+      "text": "if you don't understand that you have to push through all of that, and you don't mentally prepare yourself for that, it's not going to work, okay? So,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 543.14,
+      "end": 549.42,
+      "speaker": "Presenter",
+      "text": "I wanted to start this off this way, provide you this video, because hey dude, I'm sure there are an e-com just showing you the sauce. At the end of the day,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 549.68,
+      "end": 554.4,
+      "speaker": "Presenter",
+      "text": "if you're actually trying to be someone who's successful long term, because I've never met somebody who just wants to make 100k per month once, you know? I've",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 554.4,
+      "end": 560.84,
+      "speaker": "Presenter",
+      "text": "I'm pretty sure you'd want to make 100k a month every single month, right? So if you actually want to do that, you have to change as a person.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 561.22,
+      "end": 567.16,
+      "speaker": "Presenter",
+      "text": "You can't just get lucky, right? You actually have to develop the skill set to do that, okay? So hopefully this video helps",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 567.16,
+      "end": 574.66,
+      "speaker": "Presenter",
+      "text": "you understand that, helps you understand what you're about to go through in order to become that person, and, more than anything, has you excited for actually",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 574.66,
+      "end": 579.32,
+      "speaker": "Presenter",
+      "text": "becoming that person that you want to become to accomplish the things that you want to actually accomplish.",
+      "chunk": 1,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": []
+}

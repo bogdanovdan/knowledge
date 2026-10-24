@@ -1,0 +1,1734 @@
+{
+  "lesson": {
+    "num": 47,
+    "id": "047-how-to-feel-better-about-being-overwhelmed",
+    "title": "🆕 How to feel better about being overwhelmed",
+    "section": "🫠 Watch This If Overwhelmed",
+    "video": "47. 🆕 How to feel better about being overwhelmed Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1118.208,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=4c7dcc840202435881a5e38d20199073"
+  },
+  "generated_at": "2026-10-06T20:24:08-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (96% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 4376,
+    "matched_tokens": 4183,
+    "match_ratio": 0.956,
+    "segments_aligned": 175,
+    "segments_partly_aligned": 1,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 354.97,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.979,
+      "wpm": 223.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 354.97,
+      "end": 691.436,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.985,
+      "wpm": 231.6,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 691.436,
+      "end": 1019.573,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.993,
+      "wpm": 249.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 1019.573,
+      "end": 1118.208,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.991,
+      "wpm": 268.2,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.68,
+      "speaker": "Presenter",
+      "text": "All right guys, so I'm making a video to talk about why you're feeling overwhelmed and how to actually help you through this stuff, because trust me, it is normal.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 6.72,
+      "end": 17.46,
+      "speaker": "Presenter",
+      "text": "All right, if you've gone through some of the modules, so you've probably seen stuff about our, you know, products and, most importantly, the avatars. I put this specifically after the avatars",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 17.46,
+      "end": 22.6,
+      "speaker": "Presenter",
+      "text": "just because like it's a lot of information, okay? And down below, you're going to get to like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 22.6,
+      "end": 27.72,
+      "speaker": "Presenter",
+      "text": "how to create ads and how to make offers and that kind of stuff, but what I wanted to do was just actually like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 27.72,
+      "end": 34.28,
+      "speaker": "Presenter",
+      "text": "help you understand what overwhelm is, why it's happening, give you a story of where I was extremely overwhelmed,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 34.28,
+      "end": 40.88,
+      "speaker": "Presenter",
+      "text": "and then also just give you an action plan and help you understand that this is actually a good thing and that you should be leaning into it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 40.88,
+      "end": 45.76,
+      "speaker": "Presenter",
+      "text": "And if you're like, \"Oh, well, you know, I don't want to do this, like this is too much, like I just want to quit, like I want something easy,\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 45.76,
+      "end": 52.06,
+      "speaker": "Presenter",
+      "text": "it's like you're probably not going to ever be able to accomplish what you want to accomplish specifically in business because nothing in business is easy.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 52.06,
+      "end": 59.9,
+      "speaker": "Presenter",
+      "text": "I don't really care what anybody says. Like, people say like, \"Oh, it's so easy,\" and they make these posts on their Instagram and stuff like that or on Twitter wherever, it's like it's, it's",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 59.9,
+      "end": 65.34,
+      "speaker": "Presenter",
+      "text": "not as easy as people make it out to be, because you as a person have to change in order to have a great business.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 65.34,
+      "end": 73.52,
+      "speaker": "Presenter",
+      "text": "A lot of these people who it's easy for naturally were probably just good at the thing, which is why it was easy. But most people are not naturally good",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 73.52,
+      "end": 82.02,
+      "speaker": "Presenter",
+      "text": "at business, or copywriting, or making videos, or building e-commerce stores, or building landing pages, or testing offers, or finding products. Most people are not just good at that, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 82.54,
+      "end": 89.08,
+      "speaker": "Presenter",
+      "text": "So let's go ahead and jump into the screen here because I want to help you understand, first of all, like what overwhelm actually is, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 89.28,
+      "end": 94.04,
+      "speaker": "Presenter",
+      "text": "So the definition is: or you feel buried or you're drowning beneath a huge mass.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 94.52,
+      "end": 100.14,
+      "speaker": "Presenter",
+      "text": "All right, this, especially this avatars training for some of you, is a huge mass, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 100.76,
+      "end": 104.7,
+      "speaker": "Presenter",
+      "text": "Our def- definition of it is when you just give too much of a thing to someone,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 104.94,
+      "end": 109.0,
+      "speaker": "Presenter",
+      "text": "okay? I've just given you guys a ton of information, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 109.16,
+      "end": 116.54,
+      "speaker": "Presenter",
+      "text": "You guys have gone through desires, and it's like, you've learned desires, you've learned sophistication, you've learned identities, you've learned mechanisms. Like, there's so much stuff.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 116.7,
+      "end": 121.3,
+      "speaker": "Presenter",
+      "text": "Core avatars, sub-avatars, mass desires, you know, like, so many different things.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 121.78,
+      "end": 124.22,
+      "speaker": "Presenter",
+      "text": "I've given you guys so much stuff,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 124.44,
+      "end": 128.42,
+      "speaker": "Presenter",
+      "text": "right? And that's why, like, I've kind of put a price on Origins,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 129.01,
+      "end": 136.8,
+      "speaker": "Presenter",
+      "text": "because I know if that this was even if if this was free, like people would be so overwhelmed and and because they don't have any like kind of buy-in to it, they just don't care.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 137.32,
+      "end": 145.44,
+      "speaker": "Presenter",
+      "text": "But because you guys have actually actually bought into this, like some of you guys are going to get frustrated because like you just want it to be simple, you just want it to be easy. As much as I'm doing my best to make it",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 145.44,
+      "end": 153.68,
+      "speaker": "Presenter",
+      "text": "simple and easy, and to break this stuff down to you guys, you just need to understand that it's not going to just be super simple. So, let let me give you a story from",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 153.68,
+      "end": 160.14,
+      "speaker": "Presenter",
+      "text": "AF2024. So what AF stands for is Agency Founders. I'm actually going to take you guys into my Todoist to do this, because",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 160.14,
+      "end": 164.8,
+      "speaker": "Presenter",
+      "text": "you can see here, I have nine different speakers that spoke over two days,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 165.22,
+      "end": 174.54,
+      "speaker": "Presenter",
+      "text": "okay? So I had two days to basically sit down and have a multiple seven, eight, and nine-figure people, all these people right here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 174.56,
+      "end": 181.02,
+      "speaker": "Presenter",
+      "text": "come and speak to me about how to fix and how to build a successful marketing agency.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 181.44,
+      "end": 187.58,
+      "speaker": "Presenter",
+      "text": "Okay? And I know this is not super relatable, because this is an agency versus a Shopify store, but it's the same thing, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 188.0,
+      "end": 189.0,
+      "speaker": "Presenter",
+      "text": "It's building a business.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 189.94,
+      "end": 199.38,
+      "speaker": "Presenter",
+      "text": "And, if anything, building an agency business is a lot harder than a Shopify store, because like an agency business is all about people. And so not only do you have to learn like how to get good at marketing,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 199.38,
+      "end": 206.46,
+      "speaker": "Presenter",
+      "text": "and how to find products, and all that kind of stuff, you also have to figure out like how to get a army of people",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 207.24,
+      "end": 210.4,
+      "speaker": "Presenter",
+      "text": "to get all to have all of those skills as well. It's a fun thing,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 210.4,
+      "end": 220.44,
+      "speaker": "Presenter",
+      "text": "which is why for those of you that don't know, I made Evolve in the first place, cuz I, after as a result of going and being at this event, I realized I needed to teach a lot of people a lot of things. But my point is,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 220.66,
+      "end": 223.34,
+      "speaker": "Presenter",
+      "text": "is just think about that. Think about what I just said for a second.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 223.74,
+      "end": 231.86,
+      "speaker": "Presenter",
+      "text": "Because of the sheer amount of overwhelm, okay, every single one of these speakers, I had so much action items, notes, like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 231.86,
+      "end": 237.0,
+      "speaker": "Presenter",
+      "text": "these were just the notes that I was able to get down in time while the speakers were talking live. I literally",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 237.0,
+      "end": 246.36,
+      "speaker": "Presenter",
+      "text": "have like pages of these notes that I had to go through. And like those were all like the banger points. And it happens for all of them, like all nine of these.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 246.36,
+      "end": 252.12,
+      "speaker": "Presenter",
+      "text": "You can see it says one here, some of these have two cuz there was so much sauce. Like, I literally experienced",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 252.12,
+      "end": 254.86,
+      "speaker": "Presenter",
+      "text": "probably the peak of overwhelm,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 255.68,
+      "end": 261.66,
+      "speaker": "Presenter",
+      "text": "okay? And then after that, I decided to invest $20,000, it was like $18,000,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 261.66,
+      "end": 265.52,
+      "speaker": "Presenter",
+      "text": "into another community where I learned even more.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 265.96,
+      "end": 274.14,
+      "speaker": "Presenter",
+      "text": "Okay? So, like, I just sh- Like, I was so overwhelmed with stuff. I had so many things I had to do. I I was like trying to comprehend,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 274.14,
+      "end": 281.6,
+      "speaker": "Presenter",
+      "text": "like, oh, my gosh, I've got to do marketing, I've got to do team and culture, I've got to, you know, basically optimize people systems,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 281.6,
+      "end": 289.66,
+      "speaker": "Presenter",
+      "text": "I need to find an operator, I need to figure out how to get better at scaling, I need to figure out content, I need to figure out how to improve myself as an entrepreneur. Like, th- like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 289.66,
+      "end": 298.6,
+      "speaker": "Presenter",
+      "text": "all these people talked about all these different topics, and I had like so much stuff. And so the reason why I share this story is because like I experienced so much overwhelm, but if it wasn't",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 298.6,
+      "end": 306.16,
+      "speaker": "Presenter",
+      "text": "for this overwhelm, and if it wasn't for me just like understanding, because by this point I was kind of like year two into my journey,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 307.0,
+      "end": 313.14,
+      "speaker": "Presenter",
+      "text": "that I knew that if I just leaned into the overwhelm, and that if I just leaned into the fact that it was uncomfortable,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 313.78,
+      "end": 319.64,
+      "speaker": "Presenter",
+      "text": "okay, and that's the word that I want to use, fact that it was uncomfortable, was something that was good for me, and",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 319.64,
+      "end": 329.84,
+      "speaker": "Presenter",
+      "text": "that is what I that is what I told myself over and over and over again. I'm like, \"Okay, it's it's all right that I feel uncomfortable, it's all right that I feel overwhelmed. It's because I just don't know these things yet. Once I know these things,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 329.84,
+      "end": 340.58,
+      "speaker": "Presenter",
+      "text": "I'm going to be fine,\" okay? And so, if we take a look at basically my the the TL;DR of the story is that because of this overwhelm, and because of me leaning into this",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 341.6,
+      "end": 346.02,
+      "speaker": "Presenter",
+      "text": "discomfort, I built Evolve, which has now turned into what you guys have seen it, I've now built Origins,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 346.02,
+      "end": 353.72,
+      "speaker": "Presenter",
+      "text": "which you guys are in, and, on top of that, at at the point, uh or while I was doing that, I actually scaled my agency from three people to 30 people",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 353.72,
+      "end": 354.6,
+      "speaker": "Presenter",
+      "text": "full-time.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 355.58,
+      "end": 360.6,
+      "speaker": "Presenter",
+      "text": "K, and that was that happened in a year, right? And so what the reason why I'm sharing this with you guys",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 360.6,
+      "end": 367.36,
+      "speaker": "Presenter",
+      "text": "is because of the fact that if you feel overwhelmed, it is a good thing. Okay, but to give you",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 367.36,
+      "end": 373.18,
+      "speaker": "Presenter",
+      "text": "some kind of like what are we learning here, like how do I just simplify this down because what really really helps",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 373.18,
+      "end": 380.44,
+      "speaker": "Presenter",
+      "text": "is when you simplify things. The problem is is like when I simplify stuff you guys want more detail and then when I go in super detail",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 380.82,
+      "end": 382.36,
+      "speaker": "Presenter",
+      "text": "you want you want it simplified.",
+      "chunk": 1,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 60,
+      "start": 382.84,
+      "end": 388.96,
+      "speaker": "Presenter",
+      "text": "So, it's like it's it's you the brain wants both, which is why sometimes like when I see questions I laugh, but my point is is like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 389.16,
+      "end": 395.44,
+      "speaker": "Presenter",
+      "text": "this is the system that you guys need to remember that we're following here, okay? And this applies to literally all of e-commerce.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 396.2,
+      "end": 402.7,
+      "speaker": "Presenter",
+      "text": "First thing you need to do is you study. That is what you guys are doing right now, because if you're not learning new information, you are going to fall behind.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 403.06,
+      "end": 411.36,
+      "speaker": "Presenter",
+      "text": "Okay? And that that's not to overwhelm you even more, but because you are in here, you are learning so much new information that you are going to be ahead of a lot of people,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 411.56,
+      "end": 417.82,
+      "speaker": "Presenter",
+      "text": "because you have to stay sharp, and whether you're studying a lot because right now you're studying a lot or you're studying a little,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 418.46,
+      "end": 423.76,
+      "speaker": "Presenter",
+      "text": "you need to make sure that you're studying and you need to need to make sure that you're developing yourself, which you are by being in this program.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 424.4,
+      "end": 428.34,
+      "speaker": "Presenter",
+      "text": "The next thing you need to do is you need to research. After you research, you need to create.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 428.86,
+      "end": 434.26,
+      "speaker": "Presenter",
+      "text": "After you create, you need to test. After you test, you need to complete a feedback loop and then from there you repeat,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 435.08,
+      "end": 442.16,
+      "speaker": "Presenter",
+      "text": "right? We go back. Now you might need to study a little bit more or you might need to just go straight into research or, in some cases, you go straight into create.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 442.8,
+      "end": 451.48,
+      "speaker": "Presenter",
+      "text": "But this process of create, test, feedback loop, repeat is essentially, like this one here so I can highlight it for you guys, is essentially what you guys need to be doing,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 451.96,
+      "end": 456.36,
+      "speaker": "Presenter",
+      "text": "okay? Create, test, feedback loop, repeat. Create, test, feedback loop, repeat.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 456.7,
+      "end": 465.34,
+      "speaker": "Presenter",
+      "text": "Now, if you've noticed that you're doing this create, test, feedback loop and it's not really getting you anywhere, well then what do you need to do? Well, you might need to go back and do more research, okay,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 465.52,
+      "end": 472.64,
+      "speaker": "Presenter",
+      "text": "because what I'm creating and what I'm testing is not giving me the output that I want. This is the feedback loop that you've completed, even if it's just as simple as that.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 472.64,
+      "end": 480.46,
+      "speaker": "Presenter",
+      "text": "Well, okay, if everything that I'm creating is not really working, well maybe I need to go and figure out something else to create, okay? So, let me go and do some research. Now that I've done research,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 480.76,
+      "end": 488.4,
+      "speaker": "Presenter",
+      "text": "okay, I've got some new information that I'm going to use to basically create new things, okay? Let's test that, it's like, okay, well that still didn't work.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 488.76,
+      "end": 498.0,
+      "speaker": "Presenter",
+      "text": "All right, well let's just try this new information again, so let me create, test, feedback loop. Okay, well that still didn't work. Okay, well maybe I need to go back and I'm really not getting it,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 498.0,
+      "end": 505.88,
+      "speaker": "Presenter",
+      "text": "like the research, create, test, feedback loop, like as as a result of you doing this feedback loop, you're not understanding things still, you're not finding winners, you're not progressing,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 506.36,
+      "end": 514.64,
+      "speaker": "Presenter",
+      "text": "well then maybe you need to go back and you need to study more, because I I I want to share another mini-story, but I just rewatched a call recording, because I'm in the process as you guys",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 514.64,
+      "end": 521.62,
+      "speaker": "Presenter",
+      "text": "might may have been able to see, you you probably couldn't, I'm in the process of like writing or building one of the biggest copywriting programs like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 521.62,
+      "end": 527.64,
+      "speaker": "Presenter",
+      "text": "it is it's so big, it's like a the mother of all, but I went back and I watched a call recording",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 528.72,
+      "end": 533.16,
+      "speaker": "Presenter",
+      "text": "that I had with the consultant from, take this in, like 6 months ago,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 533.86,
+      "end": 543.4,
+      "speaker": "Presenter",
+      "text": "and when I watched it back today versus 6 months ago, the information that I processed was night and day different, like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 543.4,
+      "end": 552.5,
+      "speaker": "Presenter",
+      "text": "because of how much I have learned from just creating, testing, and completing feedback loops, create and like not really studying what that mentor talked to me about,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 552.82,
+      "end": 561.7,
+      "speaker": "Presenter",
+      "text": "when I went back to go and study again, the information just hit me way different. Now, why did it hit me way different? Because I had experience",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 561.7,
+      "end": 570.44,
+      "speaker": "Presenter",
+      "text": "from creating, testing, and completing feedback loops, or experience from researching, creating, testing, and completing feedback loops. So, when you go in and first study,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 570.6,
+      "end": 577.3,
+      "speaker": "Presenter",
+      "text": "like you first study Origins, you might kind of be like, okay, I think I get it, but then when you go and actually do it,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 577.54,
+      "end": 584.08,
+      "speaker": "Presenter",
+      "text": "it doesn't really hit the same, right? You're You're like Or it's not that it doesn't really hit the same, it's just like you you are kind of",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 584.08,
+      "end": 590.52,
+      "speaker": "Presenter",
+      "text": "giving it your first go, and then once you actually do it, once you actually go through it, if you go back",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 590.52,
+      "end": 601.82,
+      "speaker": "Presenter",
+      "text": "and study again, now as a result of studying you might see like the information might be like way different to you. You might see it differently because you actually have experience",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 601.82,
+      "end": 609.4,
+      "speaker": "Presenter",
+      "text": "from doing the thing. So, now that you have hands-on, first-person experience of doing the thing, when you go back and study it's like, oh,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 610.24,
+      "end": 618.8,
+      "speaker": "Presenter",
+      "text": "now I get what Spencer meant about this, or like, oh, that makes more sense now, now I know why he's saying like, oh, this is too broad or this is too So like it it makes sense",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 618.8,
+      "end": 627.94,
+      "speaker": "Presenter",
+      "text": "to make sure that if you are in this create, test, feedback loop kind of section here and you're not getting the results that you want, take a step back further to just do some more research.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 628.16,
+      "end": 632.76,
+      "speaker": "Presenter",
+      "text": "If you're still not getting the results that you want, then you need to take the furthest step back to actually studying",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 632.76,
+      "end": 638.9,
+      "speaker": "Presenter",
+      "text": "and learning, so that you can then come back, create, test, and feedback loop again, okay? And so that",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 638.9,
+      "end": 645.46,
+      "speaker": "Presenter",
+      "text": "is the process, all right? And so I've laid this out down here as well, which is study is just learning new information, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 645.98,
+      "end": 651.0,
+      "speaker": "Presenter",
+      "text": "Research is figuring out what people want. Create is communicate how you can help those people get what they want.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 651.4,
+      "end": 660.58,
+      "speaker": "Presenter",
+      "text": "Test is launch tests in one campaign. If it gets spend, good; if it does not get spend, not good, okay? You'll notice like testing it's just like how you test matters,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 660.58,
+      "end": 669.8,
+      "speaker": "Presenter",
+      "text": "which is why we show you guys how to do things this way, but like don't over-obsess about it, okay? If you want to run ABO, if you feel like that's going to help you, then do it, I don't care, but just make that decision and commit to it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 670.28,
+      "end": 679.4,
+      "speaker": "Presenter",
+      "text": "And then here we have feedback loop, which is make educated guesses on why your ad is working or why it's not, and I try to remove any ad-specific language here because this actually applies to to offers,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 679.48,
+      "end": 688.54,
+      "speaker": "Presenter",
+      "text": "this applies to products, this applies to everything in e-com, so I'm going to remove this when I when I polish it. But then, again, repeat: go back to researching again or leverage learnings",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 688.54,
+      "end": 690.72,
+      "speaker": "Presenter",
+      "text": "from the feedback loop to make more ads.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 691.66,
+      "end": 694.48,
+      "speaker": "Presenter",
+      "text": "okay, and not just ads to make more, but that's it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 695.1,
+      "end": 699.94,
+      "speaker": "Presenter",
+      "text": "Okay? So, this is the process. Again, if you're trying to find a new product, okay, well, what do people want?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 700.56,
+      "end": 704.58,
+      "speaker": "Presenter",
+      "text": "And then through my product, how can I communicate this can help them get it?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 704.94,
+      "end": 708.42,
+      "speaker": "Presenter",
+      "text": "And then, let me test it and see if it works. Okay, it worked, great.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 708.96,
+      "end": 712.74,
+      "speaker": "Presenter",
+      "text": "Right, now what do I do? Okay, well then I go and I create ads and you do the same feedback loop for ads.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 713.12,
+      "end": 717.64,
+      "speaker": "Presenter",
+      "text": "And then okay, well now I need to create pages or offers. Okay, well then you do the same thing here, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 718.02,
+      "end": 724.08,
+      "speaker": "Presenter",
+      "text": "So, this is like an evergreen formula that applies. Now, again, if you're trying to go through this product process where it's like, okay,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 724.08,
+      "end": 731.16,
+      "speaker": "Presenter",
+      "text": "I I studied, I know that I need to find a great product, I did some research, I found a product, I tested it, it didn't work.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 731.7,
+      "end": 737.54,
+      "speaker": "Presenter",
+      "text": "Okay, well then what should you do? Well, you should probably go and find a new product, test it. Does that work?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 737.54,
+      "end": 743.76,
+      "speaker": "Presenter",
+      "text": "No, it still didn't work. Okay, well maybe I need to go back and do more research to find just like a different category of products. Let me try that.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 744.14,
+      "end": 749.12,
+      "speaker": "Presenter",
+      "text": "Okay, did that work? Oh, yes, it did. Okay, great! Well now, I can move on to phase two, which is obviously",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 749.12,
+      "end": 754.12,
+      "speaker": "Presenter",
+      "text": "creating ads, and then creating offers. Okay, or creating offers, and then creating ads, however you guys want to do it. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 754.52,
+      "end": 760.72,
+      "speaker": "Presenter",
+      "text": "And so, my my big thing here for you guys is just to make sure that you understand like this is the system.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 761.1,
+      "end": 765.46,
+      "speaker": "Presenter",
+      "text": "This is all you guys need to follow. This is all you guys need to do. And if you ever feel overwhelmed again,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 765.46,
+      "end": 769.0,
+      "speaker": "Presenter",
+      "text": "just come back and and remind yourself of this. Okay,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 769.54,
+      "end": 772.58,
+      "speaker": "Presenter",
+      "text": "where am I at right now? Am I in the create-test feedback loop section?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 773.08,
+      "end": 775.82,
+      "speaker": "Presenter",
+      "text": "Do I me- maybe need to take a step back and just do some more research?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 776.4,
+      "end": 783.0,
+      "speaker": "Presenter",
+      "text": "Or have I been doing and taking a lot of action and I'm still not getting to where I want to go? I should probably go back and study some more.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 783.0,
+      "end": 788.54,
+      "speaker": "Presenter",
+      "text": "And again, I want you guys to know that you don't just have to study Origins. Obviously, you're in Origins to get information like this,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 788.54,
+      "end": 793.48,
+      "speaker": "Presenter",
+      "text": "and we're going to continue to try to help you guys with like these kinds of videos, but from there, like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 794.22,
+      "end": 798.4,
+      "speaker": "Presenter",
+      "text": "go and watch some other YouTube videos if you need to, or like, go and read a couple tweets.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 798.4,
+      "end": 806.32,
+      "speaker": "Presenter",
+      "text": "But the the most important thing that you guys need to understand is that you can over-study, and I find a lot of people over-study and don't take enough action.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 806.32,
+      "end": 811.12,
+      "speaker": "Presenter",
+      "text": "And so, if you're just watching videos all day, that's not going to get you to where you want to go. So, some of you",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 811.12,
+      "end": 814.94,
+      "speaker": "Presenter",
+      "text": "need to just step into the arena and research, create, test, feedback loop.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 814.94,
+      "end": 820.78,
+      "speaker": "Presenter",
+      "text": "And the point, the like the- this is the biggest thing that I'm I'm going to be real with you guys, is some of you guys are scared to do this",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 821.34,
+      "end": 825.7,
+      "speaker": "Presenter",
+      "text": "because this takes effort, this takes energy, and this for some people,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 825.7,
+      "end": 829.22,
+      "speaker": "Presenter",
+      "text": "that's always a nice notification, is really hard",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 829.22,
+      "end": 833.3,
+      "speaker": "Presenter",
+      "text": "to sit into. Like me right now, I'm in the arena right now. Okay, I had to take the time",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 833.3,
+      "end": 838.98,
+      "speaker": "Presenter",
+      "text": "to sit down, I had to, you know, study what is going on in the community, right? I had to study",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 838.98,
+      "end": 845.78,
+      "speaker": "Presenter",
+      "text": "what what you guys want, you know, that's kind of like my research, I should say, cuz I'm not learning. Like, studying for me with these videos would be",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 845.78,
+      "end": 850.5,
+      "speaker": "Presenter",
+      "text": "doing research about, or like you know, learning how to make better content for my program.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 850.74,
+      "end": 856.42,
+      "speaker": "Presenter",
+      "text": "But I did some research, I went into the community, saw a lot of you guys were overwhelmed. I was like, \"Okay, well now what I need to do is I need to create",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 856.42,
+      "end": 862.54,
+      "speaker": "Presenter",
+      "text": "a module about it.\" I'm creating right now, okay? And then when I upload this, I'm going to test to see how it does.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 862.84,
+      "end": 868.42,
+      "speaker": "Presenter",
+      "text": "If I get a lot of good feedback from that, I'll be like, \"Okay, maybe I should make more videos to sim- simplify things down for people.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 868.42,
+      "end": 873.68,
+      "speaker": "Presenter",
+      "text": "And then what am I going to do? I might just go back and make some more videos like this, or I might go back and do some more research, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 873.98,
+      "end": 879.34,
+      "speaker": "Presenter",
+      "text": "My point is, is like this applies to everything, guys. And so, I I wanted to add this additional step here for study",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 879.34,
+      "end": 884.92,
+      "speaker": "Presenter",
+      "text": "to help you guys see how it fits into Origins specifically. And the final thing that I want to leave you with here",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 884.92,
+      "end": 892.86,
+      "speaker": "Presenter",
+      "text": "is I kind of said this message to this guy, shout out to I think it's Halit, Halat, I'm not sure. Um, probably mispronounced it both ways, but",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 892.86,
+      "end": 896.66,
+      "speaker": "Presenter",
+      "text": "this is the thing that I hope motivates you, because it motivates me.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 897.18,
+      "end": 901.94,
+      "speaker": "Presenter",
+      "text": "So, just remember that whenever you learn new information, you're going to feel uncomf- You're going to fell.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 903.26,
+      "end": 906.24,
+      "speaker": "Presenter",
+      "text": "Really Really lost the uh the motivational speech there.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 906.6,
+      "end": 910.86,
+      "speaker": "Presenter",
+      "text": "Let's try it again. Just remember that whenever you learn new information, you're going to feel uncomfortable.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 911.64,
+      "end": 916.26,
+      "speaker": "Presenter",
+      "text": "But that's a good thing, because the person you are right now can't hit 10k",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 916.26,
+      "end": 923.14,
+      "speaker": "Presenter",
+      "text": "per day, can't hit 20k per day, can't hit 50k per day, can't hit 100k per day, you can't do it. You are not the person that can do it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 924.48,
+      "end": 930.38,
+      "speaker": "Presenter",
+      "text": "So, you have to get uncomfortable in order to change and become the person that can actually hit",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 930.38,
+      "end": 934.1,
+      "speaker": "Presenter",
+      "text": "10k per day, 20k per day, 50k per day, or 100k per day.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 935.22,
+      "end": 941.52,
+      "speaker": "Presenter",
+      "text": "That's it. So like, this this for me just motivates the fuck I'm like, you know what?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 942.3,
+      "end": 947.14,
+      "speaker": "Presenter",
+      "text": "I I'm just not the person that can that can do a million dollars a day right now. I'm not.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 948.26,
+      "end": 953.94,
+      "speaker": "Presenter",
+      "text": "And so, I Even at my Like, again, it's just It progresses at every level. I know that sounds stupid, but like I'm trying to become",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 954.82,
+      "end": 958.16,
+      "speaker": "Presenter",
+      "text": "a a marketer that has a brand that is consistently doing a million dollars a day.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 958.6,
+      "end": 964.8,
+      "speaker": "Presenter",
+      "text": "We've hit a million dollars a day before, but like I'm not the one that has a brand doing, you know, $365 million a year plus. I'm not.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 964.8,
+      "end": 968.76,
+      "speaker": "Presenter",
+      "text": "And so, I'm trying to become the marketer that can do that, but I have to get",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 968.76,
+      "end": 971.52,
+      "speaker": "Presenter",
+      "text": "even more uncomfortable to get there.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 972.04,
+      "end": 979.9,
+      "speaker": "Presenter",
+      "text": "Okay? So, this stuff again, like it applies to me, it applies to you, it applies to even the people that you look up to, all right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 980.56,
+      "end": 985.18,
+      "speaker": "Presenter",
+      "text": "In order for you to become the person that you want to become that is that can do the thing that you want to do,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 985.62,
+      "end": 989.68,
+      "speaker": "Presenter",
+      "text": "you have to change. And the brain does not like change, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 989.96,
+      "end": 992.42,
+      "speaker": "Presenter",
+      "text": "You can literally Google it. I'll Google it for you right now, here we go.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 992.9,
+      "end": 1000.54,
+      "speaker": "Presenter",
+      "text": "\"Does the brain like change?\" \"No, the brain generally resists change because it pro- prioritizes predictability, safety, and efficiency.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 1001.88,
+      "end": 1005.92,
+      "speaker": "Presenter",
+      "text": "You are literally fighting your biology,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 1006.92,
+      "end": 1011.84,
+      "speaker": "Presenter",
+      "text": "okay? Like, your brain is wired to keep you safe.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 1011.84,
+      "end": 1018.16,
+      "speaker": "Presenter",
+      "text": "And you are basically, even though it's like you're not in danger, that's how your brain feels.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 1020.62,
+      "end": 1031.88,
+      "speaker": "Presenter",
+      "text": "So, when you're changing and you're becoming a version of yourself that can do a thing that you cannot do today, you are fighting your biology, which is why it is so goddamn hard.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 1031.88,
+      "end": 1038.96,
+      "speaker": "Presenter",
+      "text": "But because it's hard, not necessarily like, \"Oh, it's so hard.\" The fact that it's hard is the reason why you actually want to do the thing.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 1039.62,
+      "end": 1047.42,
+      "speaker": "Presenter",
+      "text": "If it wasn't hard to begin with, then everybody would do it, right? Like, okay, imagine, like do you guys feel proud of yourselves for opening up your laptop?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 1048.18,
+      "end": 1048.94,
+      "speaker": "Presenter",
+      "text": "It's like, no.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 1049.98,
+      "end": 1056.28,
+      "speaker": "Presenter",
+      "text": "And like, why don't you feel proud of yourself? Because it's fucking Literally, you could be an Like, a complete Like, a monkey can open up a laptop.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 1056.94,
+      "end": 1057.46,
+      "speaker": "Presenter",
+      "text": "You know what I mean?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 1057.94,
+      "end": 1060.06,
+      "speaker": "Presenter",
+      "text": "So, it's like we We chase hard things.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 1060.78,
+      "end": 1064.44,
+      "speaker": "Presenter",
+      "text": "It's just the brain doesn't want to be uncomfortable because that's against our biology.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 1064.44,
+      "end": 1077.06,
+      "speaker": "Presenter",
+      "text": "Your brain, it Your brain would never, 1,000 years ago, tell you to just go walk outside in the middle of the jungle and like try to go find a lion to eat you, like that's Like, there's a reason why we're wired a certain way.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 1077.06,
+      "end": 1078.96,
+      "speaker": "Presenter",
+      "text": "Okay? The brain wants to stay safe.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 1079.64,
+      "end": 1088.36,
+      "speaker": "Presenter",
+      "text": "So, I hope that Hopeful- I hope that makes sense for you guys. And I wanted to make this video because it's even coming at a time for me where it's like It's really helpful, because I want you guys to know like sometimes I'm going through stuff as well where it's like,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 1088.58,
+      "end": 1095.54,
+      "speaker": "Presenter",
+      "text": "\"Gosh, I need to like I'm not What I'm doing is not getting me the outputs that I want, right? Completing feedback loops.\" And I'm like, \"Okay. You know what? Maybe I need to go and study more.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 1096.04,
+      "end": 1105.96,
+      "speaker": "Presenter",
+      "text": "And so what I did is I actually, like I told you, watched some call recordings from six months ago, I studied them, and they hit way differently. And now, as a result, I'm able to move forward and create the thing that I was trying to create,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1106.48,
+      "end": 1113.36,
+      "speaker": "Presenter",
+      "text": "which is again, just another topic, but I'm trying to keep this focused on you guys, so I hope this helps you. And again, if you're feeling overwhelmed, embrace it, okay? It's a good thing.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1113.64,
+      "end": 1118.02,
+      "speaker": "Presenter",
+      "text": "And I hope this helps you continue moving forward, and I will see you in the modules to follow.",
+      "chunk": 3,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 94.5,
+      "end": 95.8,
+      "label": "laughter"
+    },
+    {
+      "start": 206.5,
+      "end": 208.0,
+      "label": "chuckle"
+    },
+    {
+      "start": 266.0,
+      "end": 267.0,
+      "label": "chuckle"
+    },
+    {
+      "start": 381.47,
+      "end": 382.67,
+      "label": "laughter"
+    },
+    {
+      "start": 520.97,
+      "end": 522.37,
+      "label": "laughter"
+    },
+    {
+      "start": 825.74,
+      "end": 826.94,
+      "label": "notification sound"
+    },
+    {
+      "start": 902.34,
+      "end": 903.84,
+      "label": "laughter"
+    },
+    {
+      "start": 1006.14,
+      "end": 1007.44,
+      "label": "laughter"
+    },
+    {
+      "start": 1038.97,
+      "end": 1040.07,
+      "label": "laughter"
+    },
+    {
+      "start": 1055.57,
+      "end": 1056.57,
+      "label": "laughter"
+    }
+  ]
+}

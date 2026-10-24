@@ -1,0 +1,547 @@
+1
+00:00:00,000 --> 00:00:03,900
+All right. Welcome to the winning ads breakdown and templates.
+
+2
+00:00:04,260 --> 00:00:13,840
+Now, the first thing that I want you to understand is this is going to differ from a lot of the templates that you've maybe downloaded before for one specific reason, and that's one,
+
+3
+00:00:14,020 --> 00:00:19,360
+it's going to actually be winning ads have been validated, and I'll explain how I validated those to the best of my ability.
+
+4
+00:00:19,920 --> 00:00:24,260
+And then number two, it's actually going to help you understand why these templates work, okay?
+
+5
+00:00:24,640 --> 00:00:28,300
+Because the problem with most swipe files and templates that you get
+
+6
+00:00:28,300 --> 00:00:35,280
+is you upload your random copy that ChatGPT or Claude gives you. You put it in there, or sometimes you write your own copy, whatever it is.
+
+7
+00:00:35,540 --> 00:00:40,100
+And then when you try the template, it doesn't work, and you don't understand why, okay?
+
+8
+00:00:40,540 --> 00:00:48,840
+My goal with this is to help you actually understand why these ads are working not only from a template perspective, but also from a messaging perspective.
+
+9
+00:00:49,040 --> 00:00:54,840
+Because the truth is, is that even if you just blindly copy and paste these templates,
+
+10
+00:00:54,840 --> 00:01:01,600
+you download them, you put some Claude copywriting in there, and you launch it in Facebook and it works, the problem is
+
+11
+00:01:01,600 --> 00:01:03,560
+is you don't know why.
+
+12
+00:01:03,980 --> 00:01:10,020
+And that is the number one thing that holds people back from actually building a real, sustainable e-commerce brand,
+
+13
+00:01:10,020 --> 00:01:15,360
+is understanding why and how to create ads that can actually scale.
+
+14
+00:01:15,900 --> 00:01:21,900
+A lot of people just get lucky. They go and download some templates. They go and rip some content, whatever the heck that you do,
+
+15
+00:01:22,360 --> 00:01:27,660
+and then all of a sudden, you know, you're scaling and it's working, but then it crashes and you have no idea how to get back, okay?
+
+16
+00:01:27,800 --> 00:01:36,400
+I'm going to try to help you understand why these ads are working, which is why I've consolidated it down to less than 15 and haven't given you like 60-plus
+
+17
+00:01:36,400 --> 00:01:40,120
+swipe files of creative, because the truth is it's not the format that makes it work.
+
+18
+00:01:40,500 --> 00:01:45,180
+It's what the ad is saying with the format that actually makes it convert.
+
+19
+00:01:45,420 --> 00:01:52,780
+Okay? So I'm going to try to help you guys actually understand. And so, if you ask me, the most valuable part of this is actually understanding why these ads work,
+
+20
+00:01:53,280 --> 00:01:57,200
+rather than just, you know, blindly downloading the templates, okay?
+
+21
+00:01:57,480 --> 00:02:00,820
+So, with that out of the way, let's go ahead and actually jump in.
+
+22
+00:02:01,000 --> 00:02:07,820
+So, the first thing I want to say is, a lot of these ads are actually validated as winning ads because either one, they are from our own brands,
+
+23
+00:02:07,820 --> 00:02:16,360
+or two, they are actually validated through a tool called AdSpy, which is not like a screenshot of someone's ad account. I don't do that shit. I think that's that's just dumb.
+
+24
+00:02:16,920 --> 00:02:24,440
+Um, but it is using a tool called AdSpy which essentially allows you to see what ads are getting a lot of shares and a lot of engagement on Facebook.
+
+25
+00:02:24,980 --> 00:02:32,960
+And we have noticed that that correlates with winning ads a lot higher than just ads that are active and running in the account, okay?
+
+26
+00:02:33,000 --> 00:02:36,580
+We have ads that are active for some of our brands for over a year, but they're not our best performers, right?
+
+27
+00:02:36,880 --> 00:02:44,660
+And so, when we look at shares, and we look at engagement, and these are all ads that over the last 90 days have actually been winning ads, okay?
+
+28
+00:02:44,780 --> 00:02:50,080
+And so, these are ads that are actively winning right now based off of the knowledge that we can see,
+
+29
+00:02:50,080 --> 00:02:59,280
+and also our previous brand and our brands that we work with, in order for you guys to actually have confidence that these are great ads and they're not just ads that look cool, okay?
+
+30
+00:02:59,540 --> 00:03:06,160
+Because that is the other problem, and I promise we're actually going to get into the ads, is that a lot of you guys just look at ads and you're like, "Oh, this is a cool looking ad. I want to remake this."
+
+31
+00:03:06,160 --> 00:03:12,740
+But just because it looks good doesn't mean it's converting. And that's the problem with so many people is they make ads that they like
+
+32
+00:03:12,740 --> 00:03:19,840
+rather than ads that your customer is actually going to buy from, okay? I don't really care what the ad looks like. I care if it actually makes me money, okay?
+
+33
+00:03:19,840 --> 00:03:21,700
+So, let's go ahead and jump in.
+
+34
+00:03:21,880 --> 00:03:28,560
+So, in this first doc here, you're going to see that we have all the specific ads laid out, and they do have just names that we've
+
+35
+00:03:28,560 --> 00:03:32,060
+added to them. These are not like official names or anything like that.
+
+36
+00:03:32,160 --> 00:03:41,740
+Um, but if you can see here, each and every single ad has a, um, actual link to it. So, for example, if I clicked the avatar call-out ad, it is going to take me to that ad,
+
+37
+00:03:42,060 --> 00:03:45,460
+okay? And now, starting with this ad, let's go ahead and take a look at this ad.
+
+38
+00:03:45,560 --> 00:03:53,240
+So, this is called the avatar call-out ad, and as you can see here, each and every single template is going to have the exact same breakdown, okay?
+
+39
+00:03:53,280 --> 00:04:02,140
+It's going to say why this ad works. It's going to show you the completed ad, and then it's actually going to have a link to take you to the document where you can actually optimize the ad.
+
+40
+00:04:02,340 --> 00:04:06,940
+And so, just for the sake of those of you that want to actually just start using this right away,
+
+41
+00:04:06,940 --> 00:04:16,000
+you would basically look at this ad and say, "Okay, let's see why this works. Well, number one, it's a clear and direct avatar call-out to moms of 15-year-olds," okay?
+
+42
+00:04:16,380 --> 00:04:22,800
+Then from there, we have the supporting claim with a real review mentioning a 15-year-old, so we have some congruency there,
+
+43
+00:04:22,800 --> 00:04:27,140
+okay? And then from there, this is a double typo here so I can remove that, we then clearly
+
+44
+00:04:27,920 --> 00:04:32,460
+have a family photo with kids, right? So, it's like this is clearly a real review,
+
+45
+00:04:32,460 --> 00:04:36,380
+and it clearly makes sense for what we're talking about. And then, we have a very good
+
+46
+00:04:36,380 --> 00:04:40,660
+social-proof LP, which I'm actually going to attach for you guys, because one of the biggest
+
+47
+00:04:40,660 --> 00:04:45,980
+things with static ads is, a lot of the times, you guys just send them to basic product pages, and you don't really tell the rest
+
+48
+00:04:45,980 --> 00:04:51,660
+of the story. Now, I'm not trying to tell you to go and do more work right now, because you can have these static ads work
+
+49
+00:04:51,660 --> 00:04:56,920
+to a basic product page, but a lot of the times, if you optimize a customer journey with a landing page,
+
+50
+00:04:56,920 --> 00:05:01,660
+which is something that we have for those of you who are in Origins watching this, you can actually
+
+51
+00:05:01,660 --> 00:05:05,060
+optimize landing page that will likely make this static convert better.
+
+52
+00:05:05,060 --> 00:05:11,260
+Okay, so each and every single ad is going to look like this, and then if you click this link over here, it is then going to take
+
+53
+00:05:11,260 --> 00:05:18,140
+you to the actual template where you can fully edit this, okay? Now, one thing I want to call out right away is don't
+
+54
+00:05:18,140 --> 00:05:24,400
+fake these reviews, okay? Because the problem is is when you fake reviews, they're just they're not going to land,
+
+55
+00:05:24,920 --> 00:05:30,800
+right? Because they're coming from you. They're not coming from your customer. And if you're not your customer,
+
+56
+00:05:31,060 --> 00:05:37,380
+well, you're probably not going to be relating to them, okay? And so, it's very important that you guys understand that all of this is editable,
+
+57
+00:05:37,380 --> 00:05:41,700
+but I would rather you actually pull a real Facebook ad comment and put this in here
+
+58
+00:05:41,960 --> 00:05:46,660
+so that way you actually have a real review, okay? And so, here's an example of the template,
+
+59
+00:05:46,660 --> 00:05:51,620
+and then you'll be able to see that if we go over here, there is another template over here as well, and very simply,
+
+60
+00:05:51,620 --> 00:05:57,680
+you can just download this specific creative. So, you will basically come in here, you're going to make a copy of this,
+
+61
+00:05:57,900 --> 00:06:03,420
+and then once you actually optimize the creative and just so you know you can drag and drop images in here, so just to show
+
+62
+00:06:03,420 --> 00:06:09,620
+you how this works, let me go ahead and just optimize this one here. All right, so as you can see, over here in Canva, you can go
+
+63
+00:06:09,620 --> 00:06:14,060
+to uploads, and you can upload any images that you want. And then you very simply
+
+64
+00:06:14,060 --> 00:06:19,900
+just drag and drop them into the section. And then again, you can move it around however you want. So, for example, here,
+
+65
+00:06:19,900 --> 00:06:25,400
+I've just added Pepe holding money and a jar of Shilajit. And then I can change this text whatever I want.
+
+66
+00:06:25,540 --> 00:06:30,340
+You guys can also change the fonts and all that kind of stuff, as well. Now again, it's important that you understand that you're going to make
+
+67
+00:06:30,340 --> 00:06:36,540
+a copy of this first. So again, you're going to go, "File, make a copy," so you actually have an editable version, cuz you won't be able to edit this,
+
+68
+00:06:36,540 --> 00:06:41,120
+cuz this is obviously the template. And then once you have the Canva template here,
+
+69
+00:06:41,120 --> 00:06:45,840
+then you can go in and start editing it, and making copies, and all that kind of stuff, okay? And so that
+
+70
+00:06:45,840 --> 00:06:50,700
+is how you use the templates, and that is how you upload. It's very, very easy. It's very, very simple. All this stuff is editable.
+
+71
+00:06:50,700 --> 00:06:55,980
+And again, use the fonts that are native to your brand. I would not recommend just using the exact same fonts,
+
+72
+00:06:55,980 --> 00:07:00,800
+and that goes even with the colors, right? If your brand doesn't really have this as a color palette,
+
+73
+00:07:00,800 --> 00:07:06,280
+or if you don't even have a color palette, which a lot of you might, make sure you optimize this to one that actually makes sense, okay?
+
+74
+00:07:06,540 --> 00:07:12,240
+Same thing with the fonts. Same thing with all of this, okay? This is supposed to this is meant to be fully custom, okay?
+
+75
+00:07:12,440 --> 00:07:18,800
+We're giving you guys the templates of how the ads look, so you have the structure to make it easy, because a lot of you are probably not
+
+76
+00:07:18,800 --> 00:07:23,600
+designers. And so we're giving you this to have a well designed template, but it's important
+
+77
+00:07:23,600 --> 00:07:29,380
+that you then optimize it a little bit further for your brand specifically, okay? If you just one-to-one this,
+
+78
+00:07:29,380 --> 00:07:35,720
+again, you just you're not really thinking, okay? I want you guys to actually think through this process, and that's why I'm, a lot of times, hesitant
+
+79
+00:07:35,720 --> 00:07:41,080
+to give templates, cuz they cause people to not think, but I'm telling you guys to please think about what you're doing,
+
+80
+00:07:41,420 --> 00:07:46,620
+okay? And so, this is an example of the avatar call-out ad, okay? Here's the solution exaggeration ad,
+
+81
+00:07:46,620 --> 00:07:51,060
+this is actually an ad that I recently I recently broke down on one of my videos. But you can see here, bold
+
+82
+00:07:51,060 --> 00:07:55,480
+numbers call-out that stops the scroll, okay, emphasizes the effectiveness of the solution,
+
+83
+00:07:55,740 --> 00:08:00,200
+14-plus hours, for the problem of swelling, okay? And so, I'm trying to help you guys
+
+84
+00:08:00,200 --> 00:08:06,520
+piece this in with your brand specifically. So, if you sell some kind of I don't know, this sells compression
+
+85
+00:08:06,520 --> 00:08:13,140
+socks. Maybe you sell some kind of t-shirt that, you know, it's like True Classic, it hides your belly, right?
+
+86
+00:08:13,520 --> 00:08:18,660
+So, it's like or maybe it stops with sweating, or something like that, right? So, you could say it's 14-plus hours,
+
+87
+00:08:18,660 --> 00:08:23,800
+you know, in the heat, no sweating, right? Like 14-plus hours in the sun, or 14-plus hours outside,
+
+88
+00:08:24,300 --> 00:08:29,620
+no sweating, right? That could be an example of how you leverage this template and kind of make the connection
+
+89
+00:08:29,620 --> 00:08:36,080
+in your head to then write headlines for this. And again, you can actually copy this as well into AI
+
+90
+00:08:36,080 --> 00:08:41,600
+with your brand, and I'm going to show you guys, essentially, how to do that, too. But the point is is that if you
+
+91
+00:08:41,600 --> 00:08:46,840
+have this ad as context, you can literally take a copy of this, so you can actually take this image,
+
+92
+00:08:46,840 --> 00:08:52,260
+and you can give it to a Claude, you can give it to a ChatGPT, and then you can give it information
+
+93
+00:08:52,260 --> 00:08:58,160
+on your brand to then say, "Hey, here is this ad. Here is my brand. Can you rewrite this
+
+94
+00:08:58,160 --> 00:09:03,680
+for me specifically and for my avatar specifically based on the context of my brand?" Now,
+
+95
+00:09:03,860 --> 00:09:09,760
+there is a lot more that we do on the AI side, I don't have time to explain that all today, but the point is is that is going
+
+96
+00:09:09,760 --> 00:09:15,360
+to help you actually come up with really good headlines as well. And again, even if you include these learnings
+
+97
+00:09:15,360 --> 00:09:21,360
+in it, so if you were to just take a screenshot of this entire thing and give this to Claude and then have it with information around your brand,
+
+98
+00:09:21,960 --> 00:09:27,240
+now Claude or ChatGPT has context, and then they can actually rewrite the ad for you. But again, but again, it's
+
+99
+00:09:27,240 --> 00:09:32,860
+it's very important that you understand why it's doing that and how it's doing that, so you actually get the skill set yourself,
+
+100
+00:09:33,080 --> 00:09:38,440
+because again, AI is not going to be able to save you if you don't know what a good headline is. At the end of the day, that is a way that we
+
+101
+00:09:38,440 --> 00:09:43,920
+use it as well at the agency. We have stealing credibility here. So, the reason why this works really well is because it's stealing
+
+102
+00:09:43,920 --> 00:09:48,220
+credibility from a familiar and effective mechanism. So, think about all the other mechanisms
+
+103
+00:09:48,220 --> 00:09:53,860
+that other people may be using, right? Curiosity and scroll-stop effect from the from the army of
+
+104
+00:09:53,860 --> 00:09:59,600
+gummy bears, right? It's very weird, like what is that? And then you kind of get clarity over here, and then the body copy connects
+
+105
+00:09:59,600 --> 00:10:04,620
+and completes the static ad while providing clarity. The body copy is something that you guys will also
+
+106
+00:10:04,620 --> 00:10:10,300
+see on here, because body copy is very, very important. I'm going to go ahead and make sure I add that after this video,
+
+107
+00:10:10,300 --> 00:10:16,700
+but just understand that you will see the body copy here as well. This is not the product, again, it's a very, very great
+
+108
+00:10:16,700 --> 00:10:23,100
+way to kind of do a little bit of wordplay, and kind of stop the scroll. Again, this is not a protein shake when it clearly looks like a protein shake,
+
+109
+00:10:23,360 --> 00:10:28,640
+and then you're saying it's a meal, which is the actual outcome. But again, you'll notice I have little notes on here, as well,
+
+110
+00:10:28,640 --> 00:10:34,940
+that says like this has to make sense, right? You can't overstretch it. It has to be connected, or again, the ad will flop.
+
+111
+00:10:35,340 --> 00:10:40,820
+Specific ad pain point, this is something that I love, as well, cuz, again, rather than saying losing weight, or rather than saying trim belly fat,
+
+112
+00:10:41,040 --> 00:10:44,380
+you're saying, "Lose the muffin top for good," right? Something that is very, very specific,
+
+113
+00:10:44,620 --> 00:10:47,000
+and something that people are aware of, right?
+
+114
+00:10:47,800 --> 00:10:55,340
+Accidental ideal outcome. Another very interesting one here. You know why this works again: the ad uses a clever wordplay with one simple word, "accidentally".
+
+115
+00:10:55,600 --> 00:11:05,060
+So again, you can leverage this for yourself. Or it's like, "I accidentally got the outcome that I'm looking for." Or, "I accidentally experienced this benefit." Right? These are all things that you guys can learn from.
+
+116
+00:11:05,180 --> 00:11:10,740
+Okay? And again, I really break this down here for you. Relatable hook ad: this is another one where you can see I've actually included
+
+117
+00:11:10,740 --> 00:11:19,520
+the advertorial as well. And something that I love about this product specifically, for those of you that have very visual products, is this just looks comfortable. Right? And so this emphasizes
+
+118
+00:11:19,520 --> 00:11:28,540
+those of you that actually have very visual first products, this is a great thing for you guys to do. Right? A lot of times you overcomplicate or try to hide the product, and it just doesn't make sense.
+
+119
+00:11:28,540 --> 00:11:35,360
+Right? Here's an indirect avatar ad again. "Teen always grumpy?" This is obviously not calling out teens; this is calling out the parents.
+
+120
+00:11:35,360 --> 00:11:42,940
+Right? And so understanding how to indirectly call your avatar is a great thing to do for moms and for dads. We then have the free ad down here.
+
+121
+00:11:43,080 --> 00:11:51,000
+I absolutely love this ad, and for a lot of you guys that are struggling to get up off the ground, these offer ads are fantastic because they go after, you know, a smaller market of people that are
+
+122
+00:11:51,000 --> 00:11:58,140
+very, very product-aware and ready to buy. But at the end of the day, people love a great offer and so it's a great way to get someone in the door. We then have this classy offer ad.
+
+123
+00:11:58,220 --> 00:12:06,100
+I love this one as well. It's just a very, very clean way to emphasize an offer, and again, this kind of goes alongside this free ad. So if you're doing buy one get one free,
+
+124
+00:12:06,480 --> 00:12:13,800
+it's a great way to kind of elevate things as well. One of my favorite ads of all time from Nutella, which is the simplified us versus them,
+
+125
+00:12:14,000 --> 00:12:22,520
+where you really, really focus on trying to explain the claim in a very few words. Right? "This is bread. This is breakfast." Right? "Turning bread into breakfast since 1964."
+
+126
+00:12:22,940 --> 00:12:30,520
+We've seen this ad work as well for our brands. Pubity-style ad: this is a very, very common ad that we've seen scale up to a few thousand dollars a day
+
+127
+00:12:30,520 --> 00:12:38,880
+in spend for some of our brands as well. Works really great for trending things as well. So if you keep an eye on trends and things that are happening in the world, it's a very, very great ad
+
+128
+00:12:38,880 --> 00:12:47,560
+to leverage for some kind of like news-style article that, again, relays back to your product. And then this is the minimum us, minimal us versus them ad
+
+129
+00:12:47,560 --> 00:12:56,120
+that absolutely crushed for one of our brands over here at Carepod. And I wanted to share this one with you guys as well, because, again, it's a very familiar format, but it's a it's a twist
+
+130
+00:12:56,120 --> 00:13:06,560
+on the traditional us versus them style where you're kind of throwing, not throwing shade, but you're talking about the things that your product doesn't have. Right? Sometimes simplicity is better.
+
+131
+00:13:06,780 --> 00:13:14,580
+So when you can remove stuff, it really helps people see and understand, you know, how simple and easy your product is to use, which makes it less scary
+
+132
+00:13:14,580 --> 00:13:21,880
+for people to try. So those are the 13 ads that we have there with a brief high-level overview of why they work and how they work. But again,
+
+133
+00:13:21,880 --> 00:13:31,360
+it's important for you guys to double down on this stuff as well and really dig deep to understanding how this is optimizing, or how this is actually scaling, and how we're optimizing these ads.
+
+134
+00:13:31,880 --> 00:13:40,800
+Again, obviously in the Origins community, we break this stuff down a lot further and we're there to kind of answer questions and help you guys with this stuff. But for the most part, this is the overall
+
+135
+00:13:40,800 --> 00:13:50,020
+winning ads template, and this is where you can actually customize and optimize the templates yourself. I hope that you guys enjoy. I hope this leads to winning ads, but most importantly,
+
+136
+00:13:50,020 --> 00:13:58,400
+I hope this helps you understand why these specific ads are working and helps you apply it to your brand specifically. So that is it. That is my document.
+
+137
+00:13:58,400 --> 00:14:03,720
+That is the template, and again, I hope you guys enjoy and I hope it leads to some absolute bangers for you.

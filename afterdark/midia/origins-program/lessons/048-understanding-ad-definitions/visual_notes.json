@@ -1,0 +1,99 @@
+{
+  "lesson": {
+    "num": 48,
+    "id": "048-understanding-ad-definitions",
+    "title": "Understanding ad definitions",
+    "video": "48. Understanding ad definitions Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T18:37:24-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "854x480 (native)",
+  "candidates_reviewed": 38,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 85.018,
+      "time": "00:01:25",
+      "frame": "frames/048_00-01-25.png",
+      "category": "document",
+      "title": "Ad Definitions: 3:2:2, Concept/Batch #, Concept/Swing, Angle",
+      "on_screen": "Ad Definitions:\nPlease note that the definitions that follow are the ones we have chosen to use.\nAt the end of the day, I want you to use the definitions that make the most amount of sense to you.\nBut hopefully these help guide you so we can think less about terms and philosophies and just focus on pure execution.\n\n🎬 3:2:2 ⇒ 3 creatives, 2 body copies, and 2 headlines\n12-Year-Old Definition: The testing structure we use inside of Meta.\nExample:\nThis ENTIRE thing is a Concept. \"3\" = Variations of that 1 Concept.\n\"2:2\" = 2 Headline + 2 Body copy for that Concept that you put inside of Meta.\n\n📁 Concept/Batch #: ⇒ The tracking number for this test\n12-Year-Old Definition: The number you use to keep track of which test you're on\nExamples:\nBatch #1, Batch #29, Batch #133\n\n💡 Concept/Swing ⇒ The test strategy - what you're testing in this batch\n12-Year-Old Concept Definition: The big idea behind the ads you want to test\nExamples:\n\"Test an iteration on a winning video.\"\n\"Test superlative angles.\"\n\"Test UGC format\"\n\"Test different avatars.\"\n\n🔗 Angle ⇒ The selling strategy - how you're choosing to sell the product\n12-Year-Old Angle Definition: The main reason you're giving someone to buy\nExamples:\n\"Buy It For Life\"",
+      "not_in_transcript": "Document title: \"Official - Avatar Mastery for Shopify Brands: The Meta-First Framework\". Subheading texts and full verbatim definitions for Angle, Concept, and 3:2:2 structure.",
+      "legibility": "clear",
+      "candidate_id": "F013",
+      "drive_url": "https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk"
+    },
+    {
+      "t": 215.015,
+      "time": "00:03:35",
+      "frame": "frames/048_00-03-35.png",
+      "category": "document",
+      "title": "Ad Definitions: Concept/Swing and Angle Examples",
+      "on_screen": "📁 Concept/Batch/Test #: ⇒ The tracking number for this test\n12-Year-Old Definition: The number you use to keep track of which test you're on\nExamples:\nBatch #1, Batch #29, Batch #133\n\n💡 Concept/Swing ⇒ The test strategy - what you're testing in this batch\n12-Year-Old Concept Definition: The big idea behind the ads you want to test\nExamples:\n\"Test an iteration on a winning video.\"\n\"Test superlative angles.\"\n\"Test UGC format\"\n\"Test different avatars.\"\n\n🔗 Angle ⇒ The selling strategy - how you're choosing to sell the product\n12-Year-Old Angle Definition: The main reason you're giving someone to bu[y]\nExamples:\n\"Buy It For Life\"\n\"Postpartum weight despite trying everything\"\n\"Stainless steel / Doctor-designed / Cleanest\"\n\"Stop forcing your breathing with nose strips.\"",
+      "not_in_transcript": "Angle examples not spoken yet: \"Postpartum weight despite trying everything\", \"Stainless steel / Doctor-designed / Cleanest\", \"Stop forcing your breathing with nose strips.\"",
+      "legibility": "clear",
+      "candidate_id": "F019",
+      "drive_url": "https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk"
+    },
+    {
+      "t": 610.009,
+      "time": "00:10:10",
+      "frame": "frames/048_00-10-10.png",
+      "category": "document",
+      "title": "Ad Definitions: Concept vs Angle Examples",
+      "on_screen": "Concept: \"Test us vs them\"\nAngle: Easier to put on\n\nConcept: \"Test us vs them\"\nAngle: durability\n\n🔗 Angle ⇒ The selling strategy - how you're choosing to sell the product\n12-Year-Old Angle Definition: The main reason you're giving someone to buy\nExamples:\n\"Buy It For Life\"\n\"Postpartum weight despite trying everything\"\n\"Stainless steel / Doctor-designed / Cleanest\"\n\"Stop forcing your breathing with nose strips.\"\n\nKey insight: Every ad needs an angle. Even if your concept is \"testing formats,\" you still need to define what you're selling. If your concept is \"Testing X Angle\" the concept becomes the angle. But for tracking purposes, I prefer to actually JOT DOWN the angle twice so we can be sure.",
+      "not_in_transcript": "\"Postpartum weight despite trying everything\", \"Stop forcing your breathing with nose strips.\"",
+      "legibility": "clear",
+      "candidate_id": "F028",
+      "drive_url": "https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk"
+    },
+    {
+      "t": 745.011,
+      "time": "00:12:25",
+      "frame": "frames/048_00-12-25.png",
+      "category": "document",
+      "title": "Ad Definitions: Variations and Format",
+      "on_screen": "🔀 Variations ⇒ Individual executions of the angle(s)\n12-Year-Old Variations Definition: Different ways to communicate your selling reason(s)\nExample:\nIf your angle is \"Buy It For Life,\" variations might be: \"One harness, lifetime of adventures,\" \"Buy it once, adventure for life,\" or \"End the replacement cycle\"\n\nIf testing multiple angles, variations might be different angles like \"Stainless steel,\" \"Doctor-designed,\" \"Easiest to clean.\"\n\n🖼️ Format ⇒ How you deliver the ad\n12-Year-Old Format Definition: The type of ad you're making\nExample: You could show the same message as a video of a real person talking, a slideshow of pictures, or just text on a colorful background",
+      "not_in_transcript": "",
+      "legibility": "clear",
+      "candidate_id": "F031",
+      "drive_url": "https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk"
+    },
+    {
+      "t": 755.021,
+      "time": "00:12:35",
+      "frame": "frames/048_00-12-35.png",
+      "category": "document",
+      "title": "Ad Definitions Intro and 3:2:2 Definition",
+      "on_screen": "Ad Definitions:\nPlease note that the definitions that follow are the ones we have chosen to use.\nAt the end of the day, I want you to use the definitions that make the most amount of sense to you.\nBut hopefully these help guide you so we can think less about terms and philosophies and just focus on pure execution.\n\n🏴 3:2:2 ⇒ 3 creatives, 2 body copies, and 2 headlines\n12-Year-Old Definition: The testing structure we use inside of Meta.\nExample:\nThis ENTIRE thing is a Concept. \"3\" = Variations of that 1 Concept.\n\"2:2\" = 2 Headline + 2 Body copy for that Concept that you put inside of Meta.",
+      "not_in_transcript": "Ad Definitions introductory note text",
+      "legibility": "clear",
+      "candidate_id": "F033",
+      "drive_url": "https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk"
+    },
+    {
+      "t": 845.011,
+      "time": "00:14:05",
+      "frame": "frames/048_00-14-05.png",
+      "category": "document",
+      "title": "Ad Definitions: Format updated with product image",
+      "on_screen": "🔀 Variations ⇒ Individual executions of the angle(s)\n12-Year-Old Variations Definition: Different ways to communicate your selling reason(s)\nExample:\nIf your angle is \"Buy It For Life,\" variations might be: \"One harness, lifetime of adventures,\" \"Buy it once, adventure for life,\" or \"End the replacement cycle\"\n\nIf testing multiple angles, variations might be different angles like \"Stainless steel,\" \"Doctor-designed,\" \"Easiest to clean.\"\n\n🖼️ Format ⇒ How you deliver the ad\n12-Year-Old Format Definition: The type of ad you're making\nExample: You could show the same message as a video of a real person talking, a slideshow of pictures, or just a product image",
+      "not_in_transcript": "",
+      "legibility": "clear",
+      "candidate_id": "F036",
+      "drive_url": "https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk"
+    },
+    {
+      "t": 985.017,
+      "time": "00:16:25",
+      "frame": "frames/048_00-16-25.png",
+      "category": "document",
+      "title": "Ad Definitions: Angle, Variations, and Format Overview",
+      "on_screen": "Google Doc titled \"Official - Avatar Mastery for Shopify Brands: The Meta-First Framework\":\n\n\"🔗 Angle => The selling strategy - how you're choosing to sell the product\n12-Year-Old Angle Definition: The main reason you're giving someone to buy\nExamples:\n\"Buy It For Life\"\n\"Postpartum weight despite trying everything\"\n\"Stainless steel / Doctor-designed / Cleanest\"\n\nKey insight: Every ad needs an angle. Even if your concept is \"testing formats,\" you still need to define what you're selling. If your concept is \"Testing X Angle\" the concept becomes the angle. But for tracking purposes, I prefer to actually JOT DOWN the angle twice so we can be sure.\n\n🏞️ Variations => Individual executions of the angle(s)\n12-Year-Old Variations Definition: Different ways to communicate your selling reason(s)\nExample:\nIf your angle is \"Buy It For Life,\" variations might be: \"One harness, lifetime of adventures,\" \"Buy it once, adventure for life,\" or \"End the replacement cycle\"\n\nIf testing multiple angles, variations might be different angles like \"Stainless steel,\" \"Doctor-designed,\" \"Easiest to clean.\"\n\n🌄 Format => How you deliver the ad\n12-Year-Old Format Definition: The type of ad you're making\nExample: You could show the same message as a video of a real person talking, a slideshow of pictures, or just a product image.\"",
+      "not_in_transcript": "\"Key insight: Every ad needs an angle. Even if your concept is \"testing formats,\" you still need to define what you're selling. If your concept is \"Testing X Angle\" the concept becomes the angle. But for tracking purposes, I prefer to actually JOT DOWN the angle twice so we can be sure.\"\nSpecific variations copy: \"One harness, lifetime of adventures,\" \"Buy it once, adventure for life,\" \"End the replacement cycle\".",
+      "legibility": "clear",
+      "candidate_id": "F038",
+      "drive_url": "https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk"
+    }
+  ]
+}

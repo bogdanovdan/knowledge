@@ -1,0 +1,3328 @@
+{
+  "lesson": {
+    "num": 45,
+    "id": "045-how-to-build-sub-avatars",
+    "title": "How To Build Sub Avatars",
+    "section": "🧍How To Create Avatars",
+    "video": "45. How To Build Sub Avatars Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1960.107,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=f8888a069ad64feeb05ccae5aa289b93"
+  },
+  "generated_at": "2026-10-06T20:24:08-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (95% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 6841,
+    "matched_tokens": 6498,
+    "match_ratio": 0.95,
+    "segments_aligned": 344,
+    "segments_partly_aligned": 2,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 277.983,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 208.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 277.983,
+      "end": 580.885,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.997,
+      "wpm": 217.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 580.885,
+      "end": 826.891,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 213.8,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 826.891,
+      "end": 1094.162,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.998,
+      "wpm": 219.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1094.162,
+      "end": 1405.635,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.951,
+      "wpm": 220.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 5,
+      "start": 1405.635,
+      "end": 1703.634,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.985,
+      "wpm": 226.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 6,
+      "start": 1703.634,
+      "end": 1960.107,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.996,
+      "wpm": 256.0,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.88,
+      "speaker": "Presenter",
+      "text": "We're back and today we're going to jump into sub-avatars.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 2.88,
+      "end": 9.82,
+      "speaker": "Presenter",
+      "text": "Now, it has been a little bit of time since I actually made the original core avatars video because I wanted to let things breathe a little bit,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 9.82,
+      "end": 18.56,
+      "speaker": "Presenter",
+      "text": "and I actually had to go through and define a lot of things. I've finished, I know you guys don't see this cuz you only see the videos that get uploaded week by week,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 18.56,
+      "end": 28.56,
+      "speaker": "Presenter",
+      "text": "but I have spent the last basically 2 weeks going through and working on about seven other worksheets. Like you'll notice here, like this just keeps getting bigger and bigger.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 28.56,
+      "end": 37.14,
+      "speaker": "Presenter",
+      "text": "Actually, you, I just realized you can't see it, but on my screen share, like the Docs just keep getting bigger and bigger. But, my point is is that we are going to jump into sub-avatars today.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 37.16,
+      "end": 45.08,
+      "speaker": "Presenter",
+      "text": "That is the goal. We're going to help, we're going to go deeper on that, and I'm going to show you how to actually search, thinking through the other core five categories,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 45.08,
+      "end": 52.62,
+      "speaker": "Presenter",
+      "text": "to actually build the best sub-avatars that you can. But this is actually, I'm going to share the screen here, the second sub-avatar video that I'm filming,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 52.62,
+      "end": 57.3,
+      "speaker": "Presenter",
+      "text": "because the original one, where I originally went through and did this, I felt like it wasn't clear enough and it was kind of confusing.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 57.3,
+      "end": 66.28,
+      "speaker": "Presenter",
+      "text": "Not like it wasn't confusing to me, but I felt like it would confuse some of you, and I also wanted to touch on just how to choose core avatars again. Okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 66.28,
+      "end": 70.2,
+      "speaker": "Presenter",
+      "text": "Now, one note, cuz you guys should have already watched the core avatar training,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 71.14,
+      "end": 79.6,
+      "speaker": "Presenter",
+      "text": "is that all avatars need to have desires, because that is what actually pushes them to buy. Okay? So, you guys should never have desireless avatars,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 80.24,
+      "end": 89.16,
+      "speaker": "Presenter",
+      "text": "okay? Because here, you know, for example, behavior-based core avatar is core avatar people who don't eat before bedtime, right? Like that could just be a core avatar. Now that, why don't they eat before bedtime?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 89.32,
+      "end": 97.42,
+      "speaker": "Presenter",
+      "text": "It could be a ton of different reasons, right? Maybe it's because they want better sleep, maybe it's because they want to lose weight and they think their body will just like burn all the calories if they go to bed hungry,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 97.42,
+      "end": 106.9,
+      "speaker": "Presenter",
+      "text": "right? It could be a bunch of different things, but you will need to pick at least one desire. And so again, for the sake of simplicity, I recommend you guys, when you're building your sub-avatars,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 106.9,
+      "end": 115.02,
+      "speaker": "Presenter",
+      "text": "especially if this is your first time going to this training, just start with a desire-based core avatar. Okay? So that's number one. Now, the second thing that came up is like, okay, well,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 115.32,
+      "end": 124.06,
+      "speaker": "Presenter",
+      "text": "which core, like desire-based core avatar, do I choose, right? Because the truth is, like we talked about in the core avatar training that you should have watched before this,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 124.06,
+      "end": 134.7,
+      "speaker": "Presenter",
+      "text": "each desire is going to have different urgency, different scope, right? And so at the end of the day, we need to try to pick a core avatar that is one that we can kind of work with,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 134.78,
+      "end": 143.2,
+      "speaker": "Presenter",
+      "text": "okay? And now, I was mentioning something, this is actually I think take four, I was mentioning something before about like this avatar right here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 143.26,
+      "end": 151.18,
+      "speaker": "Presenter",
+      "text": "which is someone who like wants to improve their REM and deep sleep. We can essentially create this as a sub-avatar",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 152.48,
+      "end": 162.7,
+      "speaker": "Presenter",
+      "text": "while using this. Okay? And so what I mean by that is like this desire specifically of someone who wants to improve their REM and deep sleep, I actually found in this Reddit thread,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 162.7,
+      "end": 169.96,
+      "speaker": "Presenter",
+      "text": "okay? And so we can basically use this as a desire if we want,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 170.64,
+      "end": 178.54,
+      "speaker": "Presenter",
+      "text": "but what I would rather see you guys do is be able to look at this, and again we're just looking at words here, okay,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 178.68,
+      "end": 188.42,
+      "speaker": "Presenter",
+      "text": "but I want you to be able to look at this and I want you to be able to see like, okay, this is obviously a desire. Someone wants to increase their REM",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 188.42,
+      "end": 195.74,
+      "speaker": "Presenter",
+      "text": "or deep sleep, okay? But this can also be an experience,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 196.02,
+      "end": 202.1,
+      "speaker": "Presenter",
+      "text": "right? So, someone who had a product experience with a Whoop,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 202.32,
+      "end": 212.1,
+      "speaker": "Presenter",
+      "text": "right? Or with an Oura Ring. This is actually a Whoop Band that he's looking at here cuz I've used Whoop before. And so we can almost take this slightly broader",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 212.1,
+      "end": 222.38,
+      "speaker": "Presenter",
+      "text": "core avatar here and we can build a sub-avatar based off of a product experience, okay? And so we could do sub-avatar",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 222.38,
+      "end": 229.24,
+      "speaker": "Presenter",
+      "text": "number two, the Whoop user, okay, or just like let's call it sleep tech user.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 229.82,
+      "end": 237.6,
+      "speaker": "Presenter",
+      "text": "They still want restorative sleep, but the product product experience that they had is they used a sleep tech",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 237.6,
+      "end": 241.2,
+      "speaker": "Presenter",
+      "text": "to learn about REM/deep sleep,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 242.06,
+      "end": 248.68,
+      "speaker": "Presenter",
+      "text": "okay? And maybe their behavior is they track REM and deep sleep.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 249.32,
+      "end": 257.38,
+      "speaker": "Presenter",
+      "text": "Okay? And so now, the way that we speak to this person is is likely going to be the same",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 257.38,
+      "end": 267.34,
+      "speaker": "Presenter",
+      "text": "as someone as like this core avatar of someone again, the first desire is someone who wants to improve their REM sleep. Now you could go much more specific here, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 267.48,
+      "end": 276.66,
+      "speaker": "Presenter",
+      "text": "We could still make a sub-avatar from this, right, and I'm just doing this for the sake of example, which is like someone who specifically uses an Oura, so product experience",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 278.82,
+      "end": 280.0,
+      "speaker": "Presenter",
+      "text": "uses an Oura,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 281.12,
+      "end": 285.44,
+      "speaker": "Presenter",
+      "text": "k, and maybe another behavior that they do is they cold plunge",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 285.44,
+      "end": 289.36,
+      "speaker": "Presenter",
+      "text": "in the morning, or maybe they let's just do red light therapy at night,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 291.12,
+      "end": 294.58,
+      "speaker": "Presenter",
+      "text": "k? And so at the end of the day, we can we can do this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 294.86,
+      "end": 298.46,
+      "speaker": "Presenter",
+      "text": "but think about on the scale from the avatar training, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 298.92,
+      "end": 303.84,
+      "speaker": "Presenter",
+      "text": "This is this is very specific. Not only does this person need to know what REM and deep sleep is,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 304.0,
+      "end": 305.7,
+      "speaker": "Presenter",
+      "text": "they also want to improve it,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 306.52,
+      "end": 310.6,
+      "speaker": "Presenter",
+      "text": "k? And so at the end of the day, what I what I'm what I'm talking about here is that",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 310.6,
+      "end": 315.4,
+      "speaker": "Presenter",
+      "text": "when we're choosing the core desire the core avatar, sorry, core avatar,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 315.64,
+      "end": 323.52,
+      "speaker": "Presenter",
+      "text": "very, very clearly, and I and I want to double down on this and go full screen because it's important, cuz I'm about to throw another piece of language at you, k? But the core",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 323.52,
+      "end": 324.38,
+      "speaker": "Presenter",
+      "text": "avatar,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 325.74,
+      "end": 328.16,
+      "speaker": "Presenter",
+      "text": "k, should, again, be desire-based",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 328.16,
+      "end": 330.56,
+      "speaker": "Presenter",
+      "text": "and should like likely",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 330.56,
+      "end": 332.52,
+      "speaker": "Presenter",
+      "text": "be slightly more broad,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 333.3,
+      "end": 337.9,
+      "speaker": "Presenter",
+      "text": "k, because then we can go deeper on it. But another super important thing",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 337.9,
+      "end": 342.6,
+      "speaker": "Presenter",
+      "text": "is that the desire that you're going after, your product actually has to live up to,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 343.2,
+      "end": 346.94,
+      "speaker": "Presenter",
+      "text": "k? And so we're talking about someone here that wants restorative sleep.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 347.4,
+      "end": 349.8,
+      "speaker": "Presenter",
+      "text": "If your product can't help with sleep,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 350.12,
+      "end": 353.62,
+      "speaker": "Presenter",
+      "text": "it's not going to be a good desire for you to go after, man,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 353.84,
+      "end": 356.0,
+      "speaker": "Presenter",
+      "text": "because one, or gal, because one,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 356.56,
+      "end": 360.54,
+      "speaker": "Presenter",
+      "text": "even if they believe you, and they believe that your mechanism can do it,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 361.42,
+      "end": 365.86,
+      "speaker": "Presenter",
+      "text": "when they get the product, if the product doesn't do it, k? Or if it doesn't do it for the majority,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 366.12,
+      "end": 368.96,
+      "speaker": "Presenter",
+      "text": "cuz I understand like not every single product works for every single person, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 369.24,
+      "end": 375.06,
+      "speaker": "Presenter",
+      "text": "Not every single person that even bought an iPhone had a had a great experience and got the experience that they wanted. It just happens, right? But",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 375.06,
+      "end": 381.88,
+      "speaker": "Presenter",
+      "text": "the point is, is like if majority of people are not having a good experience, then that's just going going to kill your brand, and I don't want you to kill your brand,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 382.46,
+      "end": 388.08,
+      "speaker": "Presenter",
+      "text": "k? The second thing is, is like if it's not believable enough, like if your if your mechanism is not",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 388.08,
+      "end": 394.3,
+      "speaker": "Presenter",
+      "text": "believable enough for the desire, then it's just like it doesn't matter, people aren't going to buy, right? And so, for example, would be like,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 394.74,
+      "end": 396.14,
+      "speaker": "Presenter",
+      "text": "if you wear sunglasses",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 396.14,
+      "end": 401.4,
+      "speaker": "Presenter",
+      "text": "during the day, it's actually going to help you get more restorative sleep.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 401.88,
+      "end": 408.14,
+      "speaker": "Presenter",
+      "text": "Now, I can maybe swing that a way, and I can be like, you know, yeah, because like when you're getting sun in your eyes, it's like, you know, it keeps you more awake,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 408.32,
+      "end": 414.06,
+      "speaker": "Presenter",
+      "text": "keeps you wired, and like by wearing sunglasses, it just keeps you in the in the night zone all day. Now, I just made that up completely,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 414.34,
+      "end": 419.98,
+      "speaker": "Presenter",
+      "text": "but it's like how much am I going to believe that sunglasses are going to help me sleep better versus like, for example, an Eight Sleep?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 420.12,
+      "end": 424.72,
+      "speaker": "Presenter",
+      "text": "For those of you that don't know what an Eight Sleep is, it's like a massive sleep machine that just like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 424.72,
+      "end": 426.86,
+      "speaker": "Presenter",
+      "text": "scientifically is proven to help you sleep better. But",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 426.86,
+      "end": 429.82,
+      "speaker": "Presenter",
+      "text": "the mechanism's just better over there, and it makes more sense, k?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 430.08,
+      "end": 434.14,
+      "speaker": "Presenter",
+      "text": "And so the core avatar, you essentially want it to be",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 434.14,
+      "end": 439.74,
+      "speaker": "Presenter",
+      "text": "a slightly broader desire, k, that actually makes sense, that your product can live up to,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 440.44,
+      "end": 441.96,
+      "speaker": "Presenter",
+      "text": "k? That is the most important thing.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 442.56,
+      "end": 447.74,
+      "speaker": "Presenter",
+      "text": "Now, the thing where I I had some some of you smarty pants, you were saying like, \"Hey,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 447.98,
+      "end": 454.66,
+      "speaker": "Presenter",
+      "text": "Spencer, like should the desire-based core avatar be a core desire?\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 455.54,
+      "end": 458.86,
+      "speaker": "Presenter",
+      "text": "Now we're getting This is why I I I mentioned I want to be very clear with core avatar,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 458.86,
+      "end": 465.4,
+      "speaker": "Presenter",
+      "text": "because core desires are these bad boys right here. And we've talked about this, and if you don't know what I'm talking about, go back and watch the desire modules.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 465.64,
+      "end": 468.76,
+      "speaker": "Presenter",
+      "text": "But basically, that's health, sex, status, belonging, control, and comfort.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 468.76,
+      "end": 472.64,
+      "speaker": "Presenter",
+      "text": "And so some of you smarty pants over here were saying like, \"Hey, Spencer,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 473.26,
+      "end": 478.1,
+      "speaker": "Presenter",
+      "text": "should I do, you know, just for this, for example, you know, should this just be want to be healthy?\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 479.52,
+      "end": 482.86,
+      "speaker": "Presenter",
+      "text": "Again, that is Want to be health? Want to be health. Want to be healthy.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 483.6,
+      "end": 485.04,
+      "speaker": "Presenter",
+      "text": "That is a core",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 485.04,
+      "end": 489.68,
+      "speaker": "Presenter",
+      "text": "desire, k? And, again, now, when we're thinking on the spectrum,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 489.68,
+      "end": 491.82,
+      "speaker": "Presenter",
+      "text": "this is very, very broad, guys,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 491.94,
+      "end": 497.46,
+      "speaker": "Presenter",
+      "text": "k? And so that's why what I would recommend is like don't probably don't use",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 497.46,
+      "end": 502.82,
+      "speaker": "Presenter",
+      "text": "a core desire as your desire-based core avatar.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 502.82,
+      "end": 507.78,
+      "speaker": "Presenter",
+      "text": "I know that sounds ridiculous. Um, but what I mean by that is try to use,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 507.92,
+      "end": 511.4,
+      "speaker": "Presenter",
+      "text": "you know, just like a a more specific desire,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 513.06,
+      "end": 517.06,
+      "speaker": "Presenter",
+      "text": "k? Because from there, you're going Like, more specific from",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 517.06,
+      "end": 520.06,
+      "speaker": "Presenter",
+      "text": "the core desires, okay? So and I know like this is becoming word vomit,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 520.06,
+      "end": 526.42,
+      "speaker": "Presenter",
+      "text": "and I'm and I'm going to try to slow it down, because I'm just trying to avoid you guys from being confused, and we're supposed to be talking about sub-avatars, but",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 526.42,
+      "end": 530.46,
+      "speaker": "Presenter",
+      "text": "this is very important for me to hammer home, k? So for this core-based,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 531.28,
+      "end": 537.06,
+      "speaker": "Presenter",
+      "text": "sorry, for this core avatar that is desire-based, try to choose a desire that is broad,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 537.78,
+      "end": 544.64,
+      "speaker": "Presenter",
+      "text": "k? But not like human-want-level broad. Some of you guys can do this,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 544.64,
+      "end": 547.34,
+      "speaker": "Presenter",
+      "text": "and you can start going way more specific,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 548.78,
+      "end": 553.34,
+      "speaker": "Presenter",
+      "text": "k, on sub-avatars, and if you want to do that, you can. Again, there's no right or wrong way.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 553.64,
+      "end": 561.56,
+      "speaker": "Presenter",
+      "text": "I'm just trying to guide you in the direction of like what is going to be simplest and easiest for you, k? And at the end of the day,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 561.56,
+      "end": 567.42,
+      "speaker": "Presenter",
+      "text": "this might throw some of you completely off the rails here, but if you just ask, \"Why does someone want",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 567.42,
+      "end": 572.38,
+      "speaker": "Presenter",
+      "text": "restorative sleep?\" obviously, the deep core desire behind that is they want to be healthier,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 572.38,
+      "end": 577.64,
+      "speaker": "Presenter",
+      "text": "right? Or maybe they want to have more energy, which kind of leads to health anyways, and everything else, and maybe",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 577.64,
+      "end": 579.76,
+      "speaker": "Presenter",
+      "text": "you get the point, k?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 581.22,
+      "end": 588.44,
+      "speaker": "Presenter",
+      "text": "Hopefully we're all clear on the desire-based core avatar. So just the TL;DR, so too long, didn't read 'cause I've had people ask me what that means,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 588.62,
+      "end": 593.5,
+      "speaker": "Presenter",
+      "text": "when you're listing out these, you know, surface-level desires, that's what they're called,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 593.92,
+      "end": 600.32,
+      "speaker": "Presenter",
+      "text": "and you're trying to find a core avatar, definitely go with one that is slightly more broad, okay, but not",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 600.32,
+      "end": 603.98,
+      "speaker": "Presenter",
+      "text": "too broad where it's a core desire, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 604.34,
+      "end": 612.18,
+      "speaker": "Presenter",
+      "text": "And then from there you can start to, you know, make things more specific with the sub-avatars, which is what I'm about to show you in this video, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 613.0,
+      "end": 621.02,
+      "speaker": "Presenter",
+      "text": "So with that said, how do we find different product experiences? How do we find different emotions? How do we find different behaviors?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 621.74,
+      "end": 628.26,
+      "speaker": "Presenter",
+      "text": "And to be honest, you guys are going to notice that behaviors are like my favorite. I just love behaviors 'cause I think they're so awesome and it's like it's what people do.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 628.62,
+      "end": 631.48,
+      "speaker": "Presenter",
+      "text": "And that's like there's nothing more relatable than like what we actually do.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 631.48,
+      "end": 639.9,
+      "speaker": "Presenter",
+      "text": "For example, you know, I was actually listening to or was watching some videos and this person was talking about how,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 639.9,
+      "end": 646.82,
+      "speaker": "Presenter",
+      "text": "you know, when you're giving talks on stage like not saying um or not using filler words and stuff like that. And I'm just sitting there thinking,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 646.82,
+      "end": 656.3,
+      "speaker": "Presenter",
+      "text": "\"Gosh, I wish I knew how to do that,\" right? And so my experience is I use a lot of those, or my behavior is that I use a lot of those filler words, and so it they just really cut deep. You know what I'm saying?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 656.3,
+      "end": 661.4,
+      "speaker": "Presenter",
+      "text": "But at the end of the day, my point is is when I'm looking at this stuff, how do I find these?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 661.88,
+      "end": 665.84,
+      "speaker": "Presenter",
+      "text": "Well, you just search it. Literally, you just Google it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 666.02,
+      "end": 668.62,
+      "speaker": "Presenter",
+      "text": "I'm going to go back and show you guys my actual Google here. So,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 668.62,
+      "end": 674.18,
+      "speaker": "Presenter",
+      "text": "\"I want to start sleeping bet- better, Reddit.\" There's a Reddit thread.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 675.0,
+      "end": 682.72,
+      "speaker": "Presenter",
+      "text": "Here's another one here. This one I think I actually searched like, \"Want more restorative sleep, Reddit.\" So that was the actual sub or like the the desire.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 683.16,
+      "end": 685.96,
+      "speaker": "Presenter",
+      "text": "So, \"What has helped you increase REM and deep sleep?\" There's another one.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 686.16,
+      "end": 691.46,
+      "speaker": "Presenter",
+      "text": "Here's another one. Just a straight-up Google search: \"I want to start sleeping better.\" Now I've got this to look at, and we're going to go through this.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 691.78,
+      "end": 699.26,
+      "speaker": "Presenter",
+      "text": "Another one here that I absolutely love. This is where we start digging into the other core five categories, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 699.36,
+      "end": 702.12,
+      "speaker": "Presenter",
+      "text": "So this is me just searching up the desire, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 703.12,
+      "end": 706.84,
+      "speaker": "Presenter",
+      "text": "Now, I'm searching up the emotion.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 707.66,
+      "end": 717.12,
+      "speaker": "Presenter",
+      "text": "So why did I search up lack of sleep? Well, let's just think about this guys, right? We're I I know a lot of you guys, you know, maybe you're not brainiacs, but you're not completely braindead, so",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 717.12,
+      "end": 720.06,
+      "speaker": "Presenter",
+      "text": "why would someone want more restorative sleep?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 721.14,
+      "end": 725.88,
+      "speaker": "Presenter",
+      "text": "Well, they likely have a problem that they're not getting enough sleep, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 726.38,
+      "end": 732.18,
+      "speaker": "Presenter",
+      "text": "Or they have this like core desire, again, core desire going back over here of like they just want to be healthier, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 734.2,
+      "end": 737.52,
+      "speaker": "Presenter",
+      "text": "And so that probably means like they have some kind of a problem.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 738.1,
+      "end": 746.64,
+      "speaker": "Presenter",
+      "text": "And so that's why I searched \"how lack of sleep is making me feel.\" This was actually like the dumbest like it was just true Chad, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 746.64,
+      "end": 748.54,
+      "speaker": "Presenter",
+      "text": "\"Lack of sleep is making me feel, Reddit.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 748.54,
+      "end": 756.96,
+      "speaker": "Presenter",
+      "text": "And I found this thread: \"Anyone else experience strong emotionally changes, strong emotional changes when you don't get enough sleep?\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 757.7,
+      "end": 760.62,
+      "speaker": "Presenter",
+      "text": "I'm about to go in on this to find a bunch of emotions, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 760.64,
+      "end": 764.54,
+      "speaker": "Presenter",
+      "text": "Another one over here. What did I search? I searched some demographics.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 764.54,
+      "end": 768.36,
+      "speaker": "Presenter",
+      "text": "\"At what age does sleep start getting worse?\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 769.64,
+      "end": 772.36,
+      "speaker": "Presenter",
+      "text": "Huh. Well, that's interesting. Okay.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 772.82,
+      "end": 779.68,
+      "speaker": "Presenter",
+      "text": "How about this one over here? This was a product experience 'cause I searched out \"blackout room sleep, Reddit\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 780.04,
+      "end": 786.4,
+      "speaker": "Presenter",
+      "text": "because here, again, I'm looking for people that are essentially using this product, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 787.36,
+      "end": 796.3,
+      "speaker": "Presenter",
+      "text": "And so that was just three kind of like dumbed-down searches based out of the core five categories,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 796.3,
+      "end": 803.58,
+      "speaker": "Presenter",
+      "text": "which, again, are demographics, experiences, behaviors, emotions, and desires.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 803.96,
+      "end": 811.0,
+      "speaker": "Presenter",
+      "text": "And because we went desire hunting and we found our desire-based core avatar, we can click that one out of there, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 811.52,
+      "end": 815.14,
+      "speaker": "Presenter",
+      "text": "And now we just search up behaviors, emotions, experiences, and and demographics.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 815.9,
+      "end": 821.74,
+      "speaker": "Presenter",
+      "text": "I might even start searching genders, right? So I just searched age here, right? Does sleep get worse with age?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 822.46,
+      "end": 826.22,
+      "speaker": "Presenter",
+      "text": "Let's maybe search up another one here. Let's go to our avatar sheet.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 827.5,
+      "end": 830.96,
+      "speaker": "Presenter",
+      "text": "And I wanted to come down to this as well, because, I'm I'm going to put a pin, this is a quick side quest.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 831.4,
+      "end": 834.78,
+      "speaker": "Presenter",
+      "text": "But again, for those of you, a lot of you guys were asking, \"How many core avatars should I use?\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 835.12,
+      "end": 838.74,
+      "speaker": "Presenter",
+      "text": "Well, if you're 0 to 100k per month, you should just try to find one core avatar, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 838.88,
+      "end": 842.86,
+      "speaker": "Presenter",
+      "text": "And focus on creating sub-avatars from that main desire, very, very simple.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 843.06,
+      "end": 849.96,
+      "speaker": "Presenter",
+      "text": "If you're 100k to a million per month, you could start looking at a few different core avatars, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 850.1,
+      "end": 855.84,
+      "speaker": "Presenter",
+      "text": "So maybe look at a few different desires, you know, desire-based core avatars for you to go after, because you probably",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 855.84,
+      "end": 860.42,
+      "speaker": "Presenter",
+      "text": "are at the point where you're allowed to do that because you're a better marketer. And then if you're a mil-plus a month,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 860.7,
+      "end": 868.08,
+      "speaker": "Presenter",
+      "text": "you can probably have a few more core avatars again, just a core desire-based core avatars depending on how big your",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 868.08,
+      "end": 872.08,
+      "speaker": "Presenter",
+      "text": "desire-based core avatar actually is. Again, how broad it is.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 872.78,
+      "end": 877.16,
+      "speaker": "Presenter",
+      "text": "But what we could look at here is like look at all these di- different demographics, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 877.16,
+      "end": 883.96,
+      "speaker": "Presenter",
+      "text": "How does location, how does how does employment affect sleep? Let's go ahead and search that up.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 884.18,
+      "end": 895.06,
+      "speaker": "Presenter",
+      "text": "All right. Here's another one. \"Reddit users report that their jobs negatively impact sleep due to stress, anxiety, and disruptive schedules, leading to difficulty falling or staying asleep.\" Okay.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 895.06,
+      "end": 898.2,
+      "speaker": "Presenter",
+      "text": "\"I hate my job so much.\" This this is r/AskIreland.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 899.42,
+      "end": 901.66,
+      "speaker": "Presenter",
+      "text": "I guess this person's kind of deep in Ireland.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 902.82,
+      "end": 908.84,
+      "speaker": "Presenter",
+      "text": "\"Work, stress, and impact on sleep.\" People in different, okay, what is this? \"I need so much sleep. It affects",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 908.84,
+      "end": 912.92,
+      "speaker": "Presenter",
+      "text": "my job. My job is ruined my life. My work changed my sleep schedule three times.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 913.24,
+      "end": 916.84,
+      "speaker": "Presenter",
+      "text": "I would be looking at, what I was trying to find here is like night shift workers, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 917.24,
+      "end": 922.52,
+      "speaker": "Presenter",
+      "text": "So \"night shift workers on my sleep Reddit.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 923.12,
+      "end": 926.54,
+      "speaker": "Presenter",
+      "text": "Okay? Because let's think about our product, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 927.4,
+      "end": 930.56,
+      "speaker": "Presenter",
+      "text": "\"How do you,\" or, what is this? This is This is six months ago.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 931.14,
+      "end": 935.08,
+      "speaker": "Presenter",
+      "text": "This one has 50-plus comments. \"How do people work night shifts, manage their lives?\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 935.88,
+      "end": 937.88,
+      "speaker": "Presenter",
+      "text": "Very interesting. Okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 938.5,
+      "end": 945.2,
+      "speaker": "Presenter",
+      "text": "So my point is is like look at all these different threads that we've got the opportunity to go through. Now, again,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 945.44,
+      "end": 950.34,
+      "speaker": "Presenter",
+      "text": "you can do research overload. It's important to do research and also do action. So like",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 950.62,
+      "end": 957.6,
+      "speaker": "Presenter",
+      "text": "you could maybe spend an hour going through all these threads, and I'm going to go through a few of them to show you like what I found, but my point is, is like, I want you looking",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 957.6,
+      "end": 964.18,
+      "speaker": "Presenter",
+      "text": "at all these different categories to build sub-avatars, okay? So product-based experience,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 964.52,
+      "end": 968.6,
+      "speaker": "Presenter",
+      "text": "emotion-based, behavior-based. What I'm actually going to do is I'm actually going to do",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 968.6,
+      "end": 974.32,
+      "speaker": "Presenter",
+      "text": "some demographic-based avatars, okay? As much as you guys know I hate demographics, I'm going to I'm going to get into it because,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 974.32,
+      "end": 978.74,
+      "speaker": "Presenter",
+      "text": "again, we can use some of the other marketing strategies that we have like",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 978.74,
+      "end": 980.44,
+      "speaker": "Presenter",
+      "text": "the new information",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 981.4,
+      "end": 988.4,
+      "speaker": "Presenter",
+      "text": "as well as new mechanisms to help people, you know, to educate people, help people understand things to actually buy the product, all right? So",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 988.4,
+      "end": 994.76,
+      "speaker": "Presenter",
+      "text": "let's take a look, because we did some emotional ones here, these could be good. So this person said, \"Is anyone else experiencing strong emotionally",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 994.76,
+      "end": 1000.72,
+      "speaker": "Presenter",
+      "text": "changes when you don't get enough sleep? It seems to be a recurring theme in my life that when I don't get enough sleep, even for a night or two,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1000.94,
+      "end": 1006.28,
+      "speaker": "Presenter",
+      "text": "going out with friends, tossing and turning, my emotions kind of get thrown out of whack until I'm rested again. Things like overthinking,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1006.76,
+      "end": 1011.34,
+      "speaker": "Presenter",
+      "text": "being bothered by things that wouldn't normally bother me, negative feelings like jealousy, and so forth.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 1011.78,
+      "end": 1021.14,
+      "speaker": "Presenter",
+      "text": "All things that are very unlike me. On those days I have to remind myself to relax and not to be too critical, and to get some good sleep.\" So this is someone who's actually aware, who's like aware of this problem that",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 1021.14,
+      "end": 1026.34,
+      "speaker": "Presenter",
+      "text": "not getting enough sleep is actually like making them emotionally, you know,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 1026.62,
+      "end": 1031.8,
+      "speaker": "Presenter",
+      "text": "different, right? It's making them feel not great. Making them feel jealous. It's making them feel",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1031.8,
+      "end": 1036.3,
+      "speaker": "Presenter",
+      "text": "like they're they're overthinking, right? So I didn't really see anything that I wanted to pull specifically.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1036.62,
+      "end": 1043.28,
+      "speaker": "Presenter",
+      "text": "Maybe you did, and again, just go with your flow, right? \"Yes, I can relate as well. I feel similar feelings to what you described. I feel so overwhelmed",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1043.28,
+      "end": 1050.56,
+      "speaker": "Presenter",
+      "text": "that I'm on the verge of tears for no other reason than I didn't get enough sleep. It's a bit embarrassing and difficult to get through when I need to go to work and get things done.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1050.76,
+      "end": 1054.74,
+      "speaker": "Presenter",
+      "text": "Okay? And so this is really, really good here. So someone feels",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1054.74,
+      "end": 1061.64,
+      "speaker": "Presenter",
+      "text": "overwhelmed because they're not getting enough sleep. And so now what we can do is we can go into emotion-based",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1061.64,
+      "end": 1065.8,
+      "speaker": "Presenter",
+      "text": "sub-avatar, okay? So",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1065.8,
+      "end": 1070.48,
+      "speaker": "Presenter",
+      "text": "in here, we have emotion-based, we have a sub-avatar, someone who feels",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 1070.48,
+      "end": 1072.98,
+      "speaker": "Presenter",
+      "text": "extremely overwhelmed due to a lack of sleep.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1074.74,
+      "end": 1081.72,
+      "speaker": "Presenter",
+      "text": "And even this right here, guys, just so you know, if you wanted to just turn this into a actual ad",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1082.44,
+      "end": 1088.88,
+      "speaker": "Presenter",
+      "text": "where where you just start using some of the language that the customer uses, this is going to sound really dumb. \"Write me some headlines or hooks,\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 1089.26,
+      "end": 1092.94,
+      "speaker": "Presenter",
+      "text": "and I'm going to give you guys way better prompts, I promise, by the way. \"Based off of",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1092.94,
+      "end": 1106.02,
+      "speaker": "Presenter",
+      "text": "this Reddit thread for my product which helps with improving sleep blackout blinds. Let's just see what Claude cooks up.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1106.28,
+      "end": 1112.58,
+      "speaker": "Presenter",
+      "text": "Look at this. This is so cool, guys. And Claude, by the way, Claude has zero context right now. So once you guys actually have this information,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 1113.08,
+      "end": 1117.76,
+      "speaker": "Presenter",
+      "text": "and you give it to Claude with proper context, it's going to print for you. But at the end of the day,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 1118.0,
+      "end": 1123.52,
+      "speaker": "Presenter",
+      "text": "one bad night turns you into someone you're not. Here's why light is ruining your sleep. The real reason you overthink",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 1123.52,
+      "end": 1130.96,
+      "speaker": "Presenter",
+      "text": "everything after tossing and turning all night. Really specific. Jealous, irritable, emotional, you're not broken, you're just not sleeping in total darkness.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 1130.96,
+      "end": 1141.12,
+      "speaker": "Presenter",
+      "text": "Before and after. Stop waking up as the wrong version of yourself. From overthinking mess to calm and centered just by blocking out light. Sleep in complete darkness, wake up as yourself again.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 1141.28,
+      "end": 1146.52,
+      "speaker": "Presenter",
+      "text": "The difference between, why am I like this, and, and some of these are getting more broad, I would say. I love the specifics, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 1146.76,
+      "end": 1154.8,
+      "speaker": "Presenter",
+      "text": "The real reason you overthink after tossing and turning all night. This is amazing. Because if we look at this from someone who overthinks",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 1155.26,
+      "end": 1163.62,
+      "speaker": "Presenter",
+      "text": "because they're tossing and, they don't get enough sleep because they're tossing and turning, or hanging, went out with their friends, like that headline or that hook,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 1163.62,
+      "end": 1170.8,
+      "speaker": "Presenter",
+      "text": "specifically, covers both of those. Okay, so that is just, like if you guys are like, I don't know how to turn my research into ads, like there you go. Okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 1171.1,
+      "end": 1178.24,
+      "speaker": "Presenter",
+      "text": "Now this sub-avatar is basically like a head, this headline would work for that sub-avatar, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 1179.52,
+      "end": 1187.84,
+      "speaker": "Presenter",
+      "text": "If two bad nights turn you into an overthinker, you need blackout blinds. Things that shouldn't bother you suddenly do, that's not you, that's bad sleep. Be yourself tomorrow.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 1187.96,
+      "end": 1195.0,
+      "speaker": "Presenter",
+      "text": "This is kind of like making people aware of a problem as well. Like this is going after a much larger audience too. But at the end of the day,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 1195.32,
+      "end": 1202.7,
+      "speaker": "Presenter",
+      "text": "this is what, this is what it's, like why research is so powerful. But let's take a look at some demographics, because we just did an emotional one, right? And again,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 1202.7,
+      "end": 1209.44,
+      "speaker": "Presenter",
+      "text": "you guys can see like, you can basically print these sub-avatars, right? Now let's take a look at some demographic-based, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 1209.88,
+      "end": 1214.82,
+      "speaker": "Presenter",
+      "text": "So I don't even know what sub-avatar number I'm on. I'm just going to leave it blank. But over here we have,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 1216.06,
+      "end": 1225.5,
+      "speaker": "Presenter",
+      "text": "did your sleep get worse with age? So I feel like I'm finally at the stage where I'm getting the signs of aging now. I wake up almost three to four times a night for literally no reason. The only,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1225.98,
+      "end": 1231.78,
+      "speaker": "Presenter",
+      "text": "this only just started recently and I'm wondering if anyone else experiences this as well. He literally said experience.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1232.44,
+      "end": 1238.26,
+      "speaker": "Presenter",
+      "text": "Wake up three to four times a night for no reason. That's the experience,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1239.14,
+      "end": 1243.46,
+      "speaker": "Presenter",
+      "text": "okay? We could even make an experience-based avatar. This is just general.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1244.46,
+      "end": 1250.68,
+      "speaker": "Presenter",
+      "text": "Boink. Let's paste this in. Experience, tada! Look at us. Conquering it all right now, guys.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1251.16,
+      "end": 1260.64,
+      "speaker": "Presenter",
+      "text": "Sub-avatar, the waker upper. I don't know if that works as a, as a sub-avatar name, you guys tell me.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1261.4,
+      "end": 1264.2,
+      "speaker": "Presenter",
+      "text": "This is not a product experience. This is just a regular experience.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1265.34,
+      "end": 1269.7,
+      "speaker": "Presenter",
+      "text": "Wakes up almost three to four times a night.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 215,
+      "start": 1270.66,
+      "end": 1282.18,
+      "speaker": "Presenter",
+      "text": "This is somewhat of a behavior, I would say, but we can call it experience. So this is just like, this is kind of a pattern because it happens multiple times, but they've probably had the experience of, you know, waking up",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 216,
+      "start": 1282.18,
+      "end": 1293.32,
+      "speaker": "Presenter",
+      "text": "three to four times a night for no reason. That's just an experience that they probably don't go through every night. If they go through it every night, they're probably much, you know, it's a much stronger desire for them to fix. But let's take a look. Yes, it's awful.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1293.82,
+      "end": 1301.84,
+      "speaker": "Presenter",
+      "text": "And even when I sleep through the night, for some reason I don't ever get enough deep sleep, so I consistently feel like crap. I had a sleep doctor with UCLA and an appointment with me angrily declaring,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1301.84,
+      "end": 1308.52,
+      "speaker": "Presenter",
+      "text": "everyone gets their sleep cycles, everyone, beeyotch. This person is in perimenopause, so there you go.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1309.32,
+      "end": 1320.08,
+      "speaker": "Presenter",
+      "text": "I feel this through my soul. 77, male. Over the years, my ability to sleep through the entire night utterly vanished, to be replaced by having to wake up to pee every few hours",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1320.08,
+      "end": 1331.3,
+      "speaker": "Presenter",
+      "text": "and waking up without any desire to go back to sleep first thing in the morning. I'm lucky I can manage more than six hours a night. Recently, however, I've been taking an over-the-counter supplement called L-trypt-,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1331.36,
+      "end": 1337.86,
+      "speaker": "Presenter",
+      "text": "whatever that is. You know, Major Spenser or English, Major Spenser. Okay, deep sleep numbers went up.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1338.16,
+      "end": 1346.1,
+      "speaker": "Presenter",
+      "text": "Look at that, 25 upvotes. Yes. Only about four unbroken hours a night. I've struggled on and off with insomnia since my early 20s. I'm looking for demographics here, guys.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1346.1,
+      "end": 1358.14,
+      "speaker": "Presenter",
+      "text": "I'm dead the next day. Okay, 71 Canadian here. Legal indica gummies and maybe a glass of Cab Sav. My favorite! My go-to for getting a solid, I love my sleep. That's pretty funny,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1358.52,
+      "end": 1367.36,
+      "speaker": "Presenter",
+      "text": "okay? So here's what I love about this, guys. Like this is a demographic, this guy's, this guy's a very specific avatar, but I love this, because like this is again another behavior,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1368.16,
+      "end": 1379.88,
+      "speaker": "Presenter",
+      "text": "which is why I love behavior so much, because most people mention their behaviors, and I promise we're going to get to the other sub-avatars, but let's just do, I'm going to call this the, the drug taker. Well, I kind of want something better, but",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1379.88,
+      "end": 1389.18,
+      "speaker": "Presenter",
+      "text": "basically, you know, we have a, we have a demographic of 71. It's pretty old, but we could just say 70-plus. And the behavior,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1389.46,
+      "end": 1401.78,
+      "speaker": "Presenter",
+      "text": "or this is kind of product experience, but let's just, let's just summarize it as a behavior.",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 228,
+      "start": 1401.78,
+      "end": 1403.98,
+      "speaker": "Presenter",
+      "text": "So takes weed gummies and drinks wine.",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 229,
+      "start": 1406.98,
+      "end": 1408.18,
+      "speaker": "Presenter",
+      "text": "Behavior: drinks wine.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1409.62,
+      "end": 1411.56,
+      "speaker": "Presenter",
+      "text": "He literally said Cab Sav specifically.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1412.38,
+      "end": 1413.7,
+      "speaker": "Presenter",
+      "text": "And he loves his sleep.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1414.96,
+      "end": 1415.66,
+      "speaker": "Presenter",
+      "text": "What a beauty.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1416.78,
+      "end": 1416.8,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1417.94,
+      "end": 1422.62,
+      "speaker": "Presenter",
+      "text": "And so, this is the, I don't know, we can almost call them the full, the full sender grandpa.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1423.46,
+      "end": 1428.02,
+      "speaker": "Presenter",
+      "text": "At the end of the day, this obviously doesn't, we don't need to include this demographic, but if a lot of people",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1428.02,
+      "end": 1431.44,
+      "speaker": "Presenter",
+      "text": "smoke weed to go to sleep or take like CBD to go to sleep",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1431.44,
+      "end": 1434.3,
+      "speaker": "Presenter",
+      "text": "and again, what was the outcome of this, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1434.7,
+      "end": 1435.3,
+      "speaker": "Presenter",
+      "text": "Like the product,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1435.3,
+      "end": 1437.12,
+      "speaker": "Presenter",
+      "text": "or I would just say his overall experience,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1437.98,
+      "end": 1439.34,
+      "speaker": "Presenter",
+      "text": "is he has a great sleep.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1440.12,
+      "end": 1440.42,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1441.12,
+      "end": 1444.26,
+      "speaker": "Presenter",
+      "text": "And so, this person right here,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1444.56,
+      "end": 1446.06,
+      "speaker": "Presenter",
+      "text": "let's just take a look,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1447.46,
+      "end": 1452.46,
+      "speaker": "Presenter",
+      "text": "says he has a great sleep. So, he's not really someone who says, \"Mrs. Lahey\", that's kind of funny.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1453.48,
+      "end": 1457.24,
+      "speaker": "Presenter",
+      "text": "Who wants more restorative sleep, like they have a great sleep, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1457.72,
+      "end": 1464.8,
+      "speaker": "Presenter",
+      "text": "And so, this is kind of more or less under, if we go back to the sub-avatar, like this is more or less just information that we could pull from.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1465.48,
+      "end": 1473.26,
+      "speaker": "Presenter",
+      "text": "Like maybe someone did have, you know, does take weed gummies or like does drink wine to get good sleep,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1473.86,
+      "end": 1477.8,
+      "speaker": "Presenter",
+      "text": "but potentially they know that it's not healthy for them,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1478.38,
+      "end": 1478.76,
+      "speaker": "Presenter",
+      "text": "okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1479.18,
+      "end": 1488.08,
+      "speaker": "Presenter",
+      "text": "And so, potentially, like I don't want to I don't want to start creating different avatars, but this is almost somebody who who like has the desire of like wanting to sleep better",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1488.08,
+      "end": 1493.06,
+      "speaker": "Presenter",
+      "text": "but in a but but healthier, like in a healthier way, in a way that's actually like better for their body.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1494.0,
+      "end": 1498.86,
+      "speaker": "Presenter",
+      "text": "And so, that's another thing that we could add down there if we want to, because I got all excited about this, but the truth is, is like",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1498.86,
+      "end": 1502.58,
+      "speaker": "Presenter",
+      "text": "this person clearly doesn't have a problem, right? So, it's cool to see this, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 254,
+      "start": 1502.58,
+      "end": 1507.74,
+      "speaker": "Presenter",
+      "text": "But we could potentially just use this information for writing where it's like, \"Get a better sleep",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 255,
+      "start": 1507.74,
+      "end": 1511.36,
+      "speaker": "Presenter",
+      "text": "without having to, you know, intoxicate yourself or",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1511.36,
+      "end": 1515.2,
+      "speaker": "Presenter",
+      "text": "without having to, you know, get stoned,\" you know what I mean?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1515.66,
+      "end": 1520.46,
+      "speaker": "Presenter",
+      "text": "And so, you could also potentially go through and create angles around that.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1520.68,
+      "end": 1527.9,
+      "speaker": "Presenter",
+      "text": "This is also where you could just start looking up like \"weed gummies to improve sleep Reddit\" and start reading more about this. It's like, \"Anyone tried edibles?\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1527.9,
+      "end": 1534.9,
+      "speaker": "Presenter",
+      "text": "And now you can start going down another rabbit hole, but I'm trying to stay focused here, okay? This is just a product experience that you can also, again, go deeper on, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 260,
+      "start": 1535.04,
+      "end": 1541.1,
+      "speaker": "Presenter",
+      "text": "As you guys can see, there's so much to go deeper on. I don't want that to be overwhelming for you, I just want that to be, you know, really like",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1541.1,
+      "end": 1544.36,
+      "speaker": "Presenter",
+      "text": "I want this to be exciting for you, more than anything, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 262,
+      "start": 1544.96,
+      "end": 1548.44,
+      "speaker": "Presenter",
+      "text": "\"67, I haven't slept more than 4 hours straight in 20 years,\" okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 263,
+      "start": 1548.48,
+      "end": 1551.08,
+      "speaker": "Presenter",
+      "text": "So, this is super interesting, so it seems like",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 264,
+      "start": 1551.08,
+      "end": 1553.18,
+      "speaker": "Presenter",
+      "text": "this avatar that's like 60+.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 265,
+      "start": 1553.86,
+      "end": 1560.8,
+      "speaker": "Presenter",
+      "text": "So, we're just going to call it like the 60+ 4-hour-nighter sort of thing, or like 4 to 6-hour-nighter.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 266,
+      "start": 1561.44,
+      "end": 1564.32,
+      "speaker": "Presenter",
+      "text": "So, desire: obviously wants restorative sleep.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 267,
+      "start": 1564.82,
+      "end": 1567.44,
+      "speaker": "Presenter",
+      "text": "The demographic is going to be 60+.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 268,
+      "start": 1567.88,
+      "end": 1568.74,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 269,
+      "start": 1569.82,
+      "end": 1577.82,
+      "speaker": "Presenter",
+      "text": "And so, their overall like experience, I would say, is sleeps 4 to 6 hours per night,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 270,
+      "start": 1577.82,
+      "end": 1582.72,
+      "speaker": "Presenter",
+      "text": "right? Or their behavior is they sleep 4 to 6 hours a night. At the end of the day, they're only they're only getting 4 to 6 hours per night.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 271,
+      "start": 1583.16,
+      "end": 1589.68,
+      "speaker": "Presenter",
+      "text": "So, what we can do here is we can start to base base ads around demographics as well.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 272,
+      "start": 1590.36,
+      "end": 1595.42,
+      "speaker": "Presenter",
+      "text": "Again, we're still including desire, where it's like, if you're 60+ and you haven't slept more than 6 hours",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 273,
+      "start": 1595.42,
+      "end": 1600.3,
+      "speaker": "Presenter",
+      "text": "then and and or you can't sleep more than 6 hours, it's like here's the reason why.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 274,
+      "start": 1601.02,
+      "end": 1601.34,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 275,
+      "start": 1601.94,
+      "end": 1607.24,
+      "speaker": "Presenter",
+      "text": "And so, this is a really, really good opportunity because at the end of the day, most like older people,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 276,
+      "start": 1607.56,
+      "end": 1611.66,
+      "speaker": "Presenter",
+      "text": "we could also add in a behavior here where it's like they go to bed early, huh, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 277,
+      "start": 1613.46,
+      "end": 1618.28,
+      "speaker": "Presenter",
+      "text": "Making assumptions here, not true, but I'm assuming most older people usually go to bed earlier, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 278,
+      "start": 1618.9,
+      "end": 1627.38,
+      "speaker": "Presenter",
+      "text": "And so, potentially the reason why they can't sleep for longer than 4 to 6 hours is because like their room just isn't dark enough, right? See where I'm going with this?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 279,
+      "start": 1627.84,
+      "end": 1629.86,
+      "speaker": "Presenter",
+      "text": "And so, for people who are early nighters,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 280,
+      "start": 1630.26,
+      "end": 1631.32,
+      "speaker": "Presenter",
+      "text": "so I would call this,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 281,
+      "start": 1631.7,
+      "end": 1633.02,
+      "speaker": "Presenter",
+      "text": "so early nighters,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 282,
+      "start": 1633.34,
+      "end": 1639.44,
+      "speaker": "Presenter",
+      "text": "it's just a label. So, again, we're I mentioned we're going to talk about labels later. Labels are just like what you call these types of people, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 283,
+      "start": 1639.5,
+      "end": 1642.86,
+      "speaker": "Presenter",
+      "text": "Because 60+ 4 to 6-hour-nighter doesn't really make make sense.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 284,
+      "start": 1643.12,
+      "end": 1648.4,
+      "speaker": "Presenter",
+      "text": "Um, but we could just call this the elder, elderly, older night people,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 285,
+      "start": 1649.24,
+      "end": 1652.74,
+      "speaker": "Presenter",
+      "text": "or elderly early nighters, there we go, we're we're getting names together.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 286,
+      "start": 1653.48,
+      "end": 1660.5,
+      "speaker": "Presenter",
+      "text": "What we could do here is we could call these people out, where we could use more, even like a, you know, even even like a North Star ad,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 287,
+      "start": 1660.5,
+      "end": 1664.88,
+      "speaker": "Presenter",
+      "text": "where it's like, if you're if you're 60+, if you're if you only sleep 6 hours",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 288,
+      "start": 1664.88,
+      "end": 1669.56,
+      "speaker": "Presenter",
+      "text": "and you're 60+, you know, here's why, blah blah blah blah. But at the end of the day, what I love about this angle is",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 289,
+      "start": 1669.56,
+      "end": 1675.08,
+      "speaker": "Presenter",
+      "text": "we're starting to really develop some actionable sub-avatars that we can go and target.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 290,
+      "start": 1675.52,
+      "end": 1678.42,
+      "speaker": "Presenter",
+      "text": "Okay? And this was demographic based, we went through emotion-based ones.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 291,
+      "start": 1678.5,
+      "end": 1683.94,
+      "speaker": "Presenter",
+      "text": "This is another one: \"How do people who work night shifts manage their lives when I find it difficult to wake up an hour earlier or go to bed an hour later?\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 292,
+      "start": 1684.32,
+      "end": 1688.54,
+      "speaker": "Presenter",
+      "text": "So, I'm very interested in night shifters, right? So, night shifters, there's a label right there. You see that?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 293,
+      "start": 1688.54,
+      "end": 1694.56,
+      "speaker": "Presenter",
+      "text": "When someone calls that out, speaking of labels, when someone calls that out, you got to jot that down, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 294,
+      "start": 1694.84,
+      "end": 1698.6,
+      "speaker": "Presenter",
+      "text": "So, this is also another demographic-based person because, again, it's based on their job.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 295,
+      "start": 1699.08,
+      "end": 1700.7,
+      "speaker": "Presenter",
+      "text": "And so, this would be night shift workers.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 296,
+      "start": 1700.7,
+      "end": 1701.82,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 297,
+      "start": 1704.04,
+      "end": 1707.9,
+      "speaker": "Presenter",
+      "text": "And, again, think about, go deeper. What type of night shift workers are there?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 298,
+      "start": 1708.54,
+      "end": 1712.1,
+      "speaker": "Presenter",
+      "text": "There's, they could call they could be called like graveyard shifts, right? That's another thing.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 299,
+      "start": 1712.52,
+      "end": 1717.32,
+      "speaker": "Presenter",
+      "text": "So, night shifters is a really good label. I know this is ugly, but night shifters. We could also think about graveyard.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 300,
+      "start": 1718.54,
+      "end": 1721.4,
+      "speaker": "Presenter",
+      "text": "Graveyard shift is is a common term. We're trying to use their lingo. Okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 301,
+      "start": 1722.38,
+      "end": 1727.24,
+      "speaker": "Presenter",
+      "text": "So, let's go ahead and take a look. \"I'm very interested in night shift night shifters' lifestyle outside of work.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 302,
+      "start": 1727.26,
+      "end": 1730.14,
+      "speaker": "Presenter",
+      "text": "Do you take some sleeping pills to go to sleep when you must go to sleep?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 303,
+      "start": 1730.52,
+      "end": 1735.32,
+      "speaker": "Presenter",
+      "text": "Do you go to sleep in the morning after the night shift, then what? Do you wake up in the evening, staying awake for the whole night?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 304,
+      "start": 1735.68,
+      "end": 1738.86,
+      "speaker": "Presenter",
+      "text": "It sounds like the whole regimen is is screwed up.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 305,
+      "start": 1739.1,
+      "end": 1745.86,
+      "speaker": "Presenter",
+      "text": "\"Depends on the hours that you work. I worked from 11:00 p.m. to 8:00 a.m. for a few years, that was very easy to adjust to, and live a normal life",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 306,
+      "start": 1745.86,
+      "end": 1753.16,
+      "speaker": "Presenter",
+      "text": "after work. I slept a few hours after work, woke up at at 1:00, and was good to go until 7:00 to 8:00, when I usually took a couple",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 307,
+      "start": 1753.16,
+      "end": 1757.38,
+      "speaker": "Presenter",
+      "text": "of hours nap before work. Now I work 12-hour shifts, six to six.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 308,
+      "start": 1757.76,
+      "end": 1764.32,
+      "speaker": "Presenter",
+      "text": "And sometimes I have no control over my body, I sometimes get so tired, I come home, take a shower, and sleep until 3:00 or 4:00 p.m. non-stop.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 309,
+      "start": 1764.32,
+      "end": 1768.68,
+      "speaker": "Presenter",
+      "text": "No amount of noise or alarm can wake me up, but I do live a nocturnal life, so it's okay.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 310,
+      "start": 1769.06,
+      "end": 1771.5,
+      "speaker": "Presenter",
+      "text": "If you work nights, you have to embrace the lifestyle of a vampire.\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 311,
+      "start": 1772.12,
+      "end": 1774.94,
+      "speaker": "Presenter",
+      "text": "So, there you go. Like, this is pretty interesting, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 312,
+      "start": 1775.24,
+      "end": 1781.16,
+      "speaker": "Presenter",
+      "text": "So, this is someone said, hey, I just embrace the lifestyle of a vampire, and that's just how it is.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 313,
+      "start": 1781.74,
+      "end": 1789.68,
+      "speaker": "Presenter",
+      "text": "But we can start to see like, okay, these are people that work night shift. And I'm going to try to build a sub-avatar for you guys, it's just this video's getting long, and I try to keep it short. Okay, cool.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 314,
+      "start": 1789.9,
+      "end": 1794.42,
+      "speaker": "Presenter",
+      "text": "So, here's just an example of like a night shift worker, where it's like desire: they want more restorative sleep.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 315,
+      "start": 1794.42,
+      "end": 1799.32,
+      "speaker": "Presenter",
+      "text": "Demographic: obviously works a night shift job. Even that alone could be good enough, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 316,
+      "start": 1799.5,
+      "end": 1804.38,
+      "speaker": "Presenter",
+      "text": "Because, again, I'm just looking at people who, you know, who are trying to manage their life better.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 317,
+      "start": 1804.88,
+      "end": 1807.48,
+      "speaker": "Presenter",
+      "text": "But this is super interesting to see either way, because, for example,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 318,
+      "start": 1807.94,
+      "end": 1812.14,
+      "speaker": "Presenter",
+      "text": "I spotted a few behaviors, right? I spotted people who go to bed right after work.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 319,
+      "start": 1812.38,
+      "end": 1817.12,
+      "speaker": "Presenter",
+      "text": "And then I spotted behaviors for people who, you know, go to bed a couple hours.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 320,
+      "start": 1817.14,
+      "end": 1821.84,
+      "speaker": "Presenter",
+      "text": "Like they wake up, they'll spend a couple hours after their day, in the morning, and then and then they go to bed, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 321,
+      "start": 1822.26,
+      "end": 1828.52,
+      "speaker": "Presenter",
+      "text": "And so, based on that behavior, the the behavior that I kind of like is like someone who who stays up for a bit after work,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 322,
+      "start": 1829.88,
+      "end": 1831.18,
+      "speaker": "Presenter",
+      "text": "and then goes to bed.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 323,
+      "start": 1832.12,
+      "end": 1836.92,
+      "speaker": "Presenter",
+      "text": "And what I like about this is because the angle here is like when you need to sleep",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 324,
+      "start": 1837.48,
+      "end": 1842.86,
+      "speaker": "Presenter",
+      "text": "because you have to be up, you know, at, you know, 7:00 p.m. or whatever, or at a specific time.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 325,
+      "start": 1843.22,
+      "end": 1847.56,
+      "speaker": "Presenter",
+      "text": "This is kind of the, again, the hook or the headline like that I'm running, which we're we're going to get into very shortly.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 326,
+      "start": 1848.82,
+      "end": 1850.9,
+      "speaker": "Presenter",
+      "text": "You you need total darkness.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 327,
+      "start": 1852.0,
+      "end": 1853.52,
+      "speaker": "Presenter",
+      "text": "Right? And so, my",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 328,
+      "start": 1853.52,
+      "end": 1858.2,
+      "speaker": "Presenter",
+      "text": "point of this is, is like we can start to see, okay, this is someone who works a night shift. They stay up a little bit late,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 329,
+      "start": 1858.2,
+      "end": 1863.52,
+      "speaker": "Presenter",
+      "text": "but they are basically setting an alarm, and they obviously have to be up at a certain point, but it's still bright out.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 330,
+      "start": 1863.78,
+      "end": 1869.6,
+      "speaker": "Presenter",
+      "text": "And so, what I would assume might happen is potentially these people are staying up too long, or whatever it is.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 331,
+      "start": 1869.68,
+      "end": 1874.94,
+      "speaker": "Presenter",
+      "text": "At the end of the day, I'm assuming these people are probably pretty tired because they work night shift, but a lot of them, it's just kind of their routine,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 332,
+      "start": 1874.94,
+      "end": 1879.16,
+      "speaker": "Presenter",
+      "text": "based on what I've seen. And again, I'm just doing This is just me doing one Reddit thread of research. But",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 333,
+      "start": 1879.16,
+      "end": 1885.96,
+      "speaker": "Presenter",
+      "text": "my point is, is like, okay, now I have a sub-avatar of night shift workers, which is actually a great avatar for us to target because, guess what? They sleep during the day.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 334,
+      "start": 1886.24,
+      "end": 1892.08,
+      "speaker": "Presenter",
+      "text": "And that's when it's bright out. And obviously, if you're going to sleep, it's kind of hard to sleep during the middle of the day. Okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 335,
+      "start": 1892.24,
+      "end": 1897.32,
+      "speaker": "Presenter",
+      "text": "And so that is sub-avatars. You can see I have a ton here. In the next step, we're going to get into definitions.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 336,
+      "start": 1897.9,
+      "end": 1904.34,
+      "speaker": "Presenter",
+      "text": "We're going to get into angles, which has been one of the best things, the most fun I've ever had defining it. And so, I'm very excited for that.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 337,
+      "start": 1904.34,
+      "end": 1907.4,
+      "speaker": "Presenter",
+      "text": "But this is sub-avatars. You guys have hopefully gone through the core avatars video.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 338,
+      "start": 1907.4,
+      "end": 1913.92,
+      "speaker": "Presenter",
+      "text": "And I'm going to be pumping out these angles and these execution modules coming soon because I obviously know that we're getting very close to Q4,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 339,
+      "start": 1913.92,
+      "end": 1917.66,
+      "speaker": "Presenter",
+      "text": "depending on when you're watching this. This is probably going to be a video that lasts very long time. At the end of the day,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 340,
+      "start": 1917.66,
+      "end": 1923.56,
+      "speaker": "Presenter",
+      "text": "that is everything that you need to know around sub-avatars. If you still have questions, just know there is no right or wrong answer.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 341,
+      "start": 1923.56,
+      "end": 1930.36,
+      "speaker": "Presenter",
+      "text": "You're just building these sub-avatars, and these sub-avatars are going to give you the angles for you to go and test and target in your ads. Okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 342,
+      "start": 1930.66,
+      "end": 1936.7,
+      "speaker": "Presenter",
+      "text": "So, think of And I'm going to explain this a lot more clearly in the upcoming modules. Basically, your sub-avatars create the angles. Okay?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 343,
+      "start": 1937.44,
+      "end": 1943.76,
+      "speaker": "Presenter",
+      "text": "When you're trying to figure out, \"Why why are we doing all this, Spencer? Why am I coming up with all these sub-avatars?\" Well, these sub-avatars give you angles.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 344,
+      "start": 1944.6,
+      "end": 1949.2,
+      "speaker": "Presenter",
+      "text": "And in marketing, guess what? You need angles. And so if the angles are relatable, you're going to have better angles.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 345,
+      "start": 1949.7,
+      "end": 1954.4,
+      "speaker": "Presenter",
+      "text": "And so, that's the whole reason why we're doing this in the first place, for those of you trying to understand. I'm just taking things step by step.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 346,
+      "start": 1954.54,
+      "end": 1959.72,
+      "speaker": "Presenter",
+      "text": "So, I'm very excited for this. We're going to get into now some of the execution stuff, and I will see you in those modules.",
+      "chunk": 6,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 11.7,
+      "end": 13.1,
+      "label": "laughter"
+    },
+    {
+      "start": 343.08,
+      "end": 344.48,
+      "label": "chuckle"
+    },
+    {
+      "start": 349.68,
+      "end": 351.08,
+      "label": "laughter"
+    },
+    {
+      "start": 396.68,
+      "end": 398.08,
+      "label": "chuckle"
+    },
+    {
+      "start": 454.88,
+      "end": 456.18,
+      "label": "chuckle"
+    },
+    {
+      "start": 505.18,
+      "end": 506.48,
+      "label": "sigh"
+    },
+    {
+      "start": 554.68,
+      "end": 556.18,
+      "label": "chuckle"
+    },
+    {
+      "start": 898.69,
+      "end": 899.89,
+      "label": "laughter"
+    },
+    {
+      "start": 1255.46,
+      "end": 1257.16,
+      "label": "laughter"
+    },
+    {
+      "start": 1304.56,
+      "end": 1306.26,
+      "label": "laughter"
+    },
+    {
+      "start": 1352.66,
+      "end": 1354.26,
+      "label": "laughter"
+    },
+    {
+      "start": 1375.66,
+      "end": 1377.26,
+      "label": "laughter"
+    },
+    {
+      "start": 1413.34,
+      "end": 1414.43,
+      "label": "laughter"
+    },
+    {
+      "start": 1885.73,
+      "end": 1886.83,
+      "label": "laughter"
+    },
+    {
+      "start": 1943.63,
+      "end": 1944.93,
+      "label": "laughter"
+    }
+  ]
+}

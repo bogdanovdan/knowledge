@@ -1,0 +1,3539 @@
+{
+  "lesson": {
+    "num": 28,
+    "id": "028-understanding-your-product-part-2",
+    "title": "Understanding Your Product - Part 2",
+    "section": "🧍How To Create Avatars",
+    "video": "28. Understanding Your Product - Part 2 Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1964.139,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=a326ea25ed9b431b9befc59ab1d07655"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (92% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 6758,
+    "matched_tokens": 6224,
+    "match_ratio": 0.921,
+    "segments_aligned": 359,
+    "segments_partly_aligned": 3,
+    "segments_interpolated": 1,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 269.478,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.982,
+      "wpm": 218.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 269.478,
+      "end": 602.518,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.994,
+      "wpm": 210.1,
+      "issues": [],
+      "notes": "The recording ends mid-sentence."
+    },
+    {
+      "idx": 2,
+      "start": 602.518,
+      "end": 916.61,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.984,
+      "wpm": 222.1,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 916.61,
+      "end": 1182.12,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.96,
+      "wpm": 247.2,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1182.12,
+      "end": 1479.365,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.906,
+      "wpm": 231.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 5,
+      "start": 1479.365,
+      "end": 1731.421,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.976,
+      "wpm": 224.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 6,
+      "start": 1731.421,
+      "end": 1964.139,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.985,
+      "wpm": 253.5,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [
+    {
+      "type": "transcriber_note",
+      "start": 269.478,
+      "end": 602.518,
+      "chunk": 1,
+      "detail": "The recording ends mid-sentence."
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.2,
+      "speaker": "Presenter",
+      "text": "All right, so now in this video we're going to talk about how to manually fill this out if you haven't done any research,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 5.2,
+      "end": 9.92,
+      "speaker": "Presenter",
+      "text": "and you really are just trying to understand your product, okay? Now, obviously the module",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 9.92,
+      "end": 18.98,
+      "speaker": "Presenter",
+      "text": "below this is going to talk about how to do it with AI, but that's really for people who have already done some kind of research and have been through the process, and is trying and and are trying to come back and like really understand",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 18.98,
+      "end": 25.76,
+      "speaker": "Presenter",
+      "text": "their avatars. This is going to be for people that don't really have any information at all and are filling this out for the first time. So",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 25.76,
+      "end": 32.96,
+      "speaker": "Presenter",
+      "text": "let's go ahead and jump in. So how do we manually fill this out? Now, this is going to be painful for me, but we're going to go through and do it live",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 32.96,
+      "end": 37.58,
+      "speaker": "Presenter",
+      "text": "together, okay? So let's go ahead, let's fill out this document. I don't have any research.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 37.98,
+      "end": 46.5,
+      "speaker": "Presenter",
+      "text": "I don't have anything but a product. You might even have a bare-bones product page here, so I kind of have a bit of advantage on you. Uh but here, let's just go ahead and fill this out for this brand called DogFriendlyCo.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 46.98,
+      "end": 56.94,
+      "speaker": "Presenter",
+      "text": "So let's go ahead. Product name: dog harness. What is the price point? Well, if we take a look at this, the price point is $42, and I might even throw in the little slash action here as well, so 52",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 56.94,
+      "end": 60.58,
+      "speaker": "Presenter",
+      "text": "slashed out. Uh, actually it looks like it's not going to be fun,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 60.58,
+      "end": 70.62,
+      "speaker": "Presenter",
+      "text": "but let's go ahead and do that. So $42 is the actual price point. Uh, and then over here we have our product in action. So how does your product work?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 71.1,
+      "end": 78.4,
+      "speaker": "Presenter",
+      "text": "Describe the process and method of what it does and the outcome it provides, then provide a sixth grade reading level version. Now,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 78.7,
+      "end": 82.78,
+      "speaker": "Presenter",
+      "text": "if you don't know why we say sixth-grade reading level, it's because",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 82.78,
+      "end": 87.98,
+      "speaker": "Presenter",
+      "text": "the Heming- or basically most people actually only can read at a sixth-grade level.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 88.26,
+      "end": 95.48,
+      "speaker": "Presenter",
+      "text": "Um, so basically whatever you type, you want to put it inside of here just to make sure that it actually works. So this is hemingwayapp.com.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 95.74,
+      "end": 98.98,
+      "speaker": "Presenter",
+      "text": "Uh, so over here, what we're going to say is like, \"How does your product work?\" Well,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 99.5,
+      "end": 103.42,
+      "speaker": "Presenter",
+      "text": "let's go ahead and Again, these are all assumptions, right? So how does the product work? Well,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 103.7,
+      "end": 109.1,
+      "speaker": "Presenter",
+      "text": "the product is a harness that goes on top of the dog",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 109.1,
+      "end": 116.16,
+      "speaker": "Presenter",
+      "text": "and is used for walking it more or walking it better",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 116.16,
+      "end": 120.08,
+      "speaker": "Presenter",
+      "text": "than a traditional collar.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 122.9,
+      "end": 126.84,
+      "speaker": "Presenter",
+      "text": "The Dog Friendly harness specifically,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 127.38,
+      "end": 138.46,
+      "speaker": "Presenter",
+      "text": "let's take a look, is the most comfortable Look at this, this is great. So here's all of the benefits, right? So, oh, this is going to suck. Is the most comfortable We're going to have to type all of this out.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 139.12,
+      "end": 151.4,
+      "speaker": "Presenter",
+      "text": "Um, and easy-to-use dog harness backed by 60-day perfect-fit guarantee. Uh, it's very comfortable, chafe-resistant, so oh, can be put on in 2 seconds, so that's great. So the Dog Friendly harness uh is one of the fastest",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 151.4,
+      "end": 157.3,
+      "speaker": "Presenter",
+      "text": "harnesses to put on and can be put on",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 159.04,
+      "end": 161.1,
+      "speaker": "Presenter",
+      "text": "in only 2 to 3 seconds.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 162.88,
+      "end": 167.54,
+      "speaker": "Presenter",
+      "text": "Okay? It's chafe-resistant and has lightweight straps, so it is chafe-resistant,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 167.54,
+      "end": 172.1,
+      "speaker": "Presenter",
+      "text": "which makes it more comfortable for your dog,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 172.1,
+      "end": 179.92,
+      "speaker": "Presenter",
+      "text": "and is lightweight. And let's see, we have personalized with custom name patch and choke-free design for comfortable walks, and so here we",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 179.92,
+      "end": 184.92,
+      "speaker": "Presenter",
+      "text": "have personalized with custom name patches, so uh it can also be personalized",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 184.92,
+      "end": 187.8,
+      "speaker": "Presenter",
+      "text": "with custom name patches",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 187.8,
+      "end": 191.78,
+      "speaker": "Presenter",
+      "text": "and has a choke-free design",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 192.08,
+      "end": 197.98,
+      "speaker": "Presenter",
+      "text": "for more comfortable walks, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 198.56,
+      "end": 208.6,
+      "speaker": "Presenter",
+      "text": "And so again, this is just me kind of throwing in, using the product page like, \"Hey, what does this do? How does your product work? So describe the process, method of what it does, and the outcome it provides.\" So that's just me kind of explaining the product. So now if I try to like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 208.6,
+      "end": 215.74,
+      "speaker": "Presenter",
+      "text": "just say, \"Hey, what what does this actually do?\" Uh, it helps owners or dog owners uh put",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 215.74,
+      "end": 223.16,
+      "speaker": "Presenter",
+      "text": "their dog's harness on easier and cute for the dog.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 224.24,
+      "end": 229.52,
+      "speaker": "Presenter",
+      "text": "So there we go. I would say this is probably like my sixth-grade level. Let's see if we pop this into Hemingway. Ah, grade 8.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 230.1,
+      "end": 239.58,
+      "speaker": "Presenter",
+      "text": "This is tough. Custom name patches So this says zero of four sentences are very hard to read, one of four sentences are hard to read, so, \"It can be personalized with custom name-\" So it can be customized,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 240.34,
+      "end": 245.74,
+      "speaker": "Presenter",
+      "text": "what you can actually do if you use Claude, because we're going to be smart here, we're going to go to our good old friend Claude,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 246.78,
+      "end": 248.88,
+      "speaker": "Presenter",
+      "text": "Claude AI, we're going to say, \"Hey Claude,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 249.54,
+      "end": 253.9,
+      "speaker": "Presenter",
+      "text": "rewrite this at a sixth-grade level.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 255.02,
+      "end": 258.54,
+      "speaker": "Presenter",
+      "text": "For context, here is the original question",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 258.54,
+      "end": 260.84,
+      "speaker": "Presenter",
+      "text": "I am answering.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 262.02,
+      "end": 263.12,
+      "speaker": "Presenter",
+      "text": "And so here,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 263.86,
+      "end": 264.96,
+      "speaker": "Presenter",
+      "text": "we can now still use Claude,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 266.28,
+      "end": 267.04,
+      "speaker": "Presenter",
+      "text": "so",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 268.28,
+      "end": 272.34,
+      "speaker": "Presenter",
+      "text": "Here is what I wrote.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 273.56,
+      "end": 274.94,
+      "speaker": "Presenter",
+      "text": "And now we can just let Claude cook.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 275.82,
+      "end": 278.0,
+      "speaker": "Presenter",
+      "text": "And now, ideally, we have a project,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 278.02,
+      "end": 282.36,
+      "speaker": "Presenter",
+      "text": "but this is the sixth-grade version, so we can see if Claude actually cooked with this, so let's see.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 282.98,
+      "end": 284.24,
+      "speaker": "Presenter",
+      "text": "Let's go to Hemingway.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 285.16,
+      "end": 288.3,
+      "speaker": "Presenter",
+      "text": "Let's paste this in. Grade four! Claude, unreal!",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 289.2,
+      "end": 290.96,
+      "speaker": "Presenter",
+      "text": "Look at that, actually doing some work.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 291.8,
+      "end": 295.9,
+      "speaker": "Presenter",
+      "text": "So, now we can actually paste this back in, so if we go back over here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 296.94,
+      "end": 298.78,
+      "speaker": "Presenter",
+      "text": "we can add a little, \"Sixth-grade level.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 299.7,
+      "end": 302.1,
+      "speaker": "Presenter",
+      "text": "And again, this is important for marketing, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 302.1,
+      "end": 307.56,
+      "speaker": "Presenter",
+      "text": "We want to make sure that we're communicating in a way that is easy to understand, cuz sometimes, as business owners,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 307.56,
+      "end": 313.96,
+      "speaker": "Presenter",
+      "text": "and as people who run our own product, we like to sound cool and sound fancy. Like, even for me, like, \"choke-free,\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 314.44,
+      "end": 316.7,
+      "speaker": "Presenter",
+      "text": "that makes sense to me, but it might not make sense to a lot of people.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 317.1,
+      "end": 321.28,
+      "speaker": "Presenter",
+      "text": "So, it's important to run it through. So, for example: \"The harness wraps around your dog's chest and back.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 321.62,
+      "end": 326.06,
+      "speaker": "Presenter",
+      "text": "This spreads out the pull when your dog walks, so it doesn't hurt their neck like a collar does.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 326.22,
+      "end": 330.62,
+      "speaker": "Presenter",
+      "text": "You can put it on super fast, just 2-3 seconds. The soft material won't rub your dog's skin the wrong way.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 330.62,
+      "end": 333.56,
+      "speaker": "Presenter",
+      "text": "It's also really lightweight, so your dog won't feel heavy.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 333.56,
+      "end": 335.66,
+      "speaker": "Presenter",
+      "text": "You can add your dog's name to make it special,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 335.66,
+      "end": 339.96,
+      "speaker": "Presenter",
+      "text": "and your dog will be more comfortable and happy on walks because the harness doesn't squeeze their throat.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 340.48,
+      "end": 341.26,
+      "speaker": "Presenter",
+      "text": "Fantastic. Now,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 342.24,
+      "end": 345.52,
+      "speaker": "Presenter",
+      "text": "let's talk about the actual features. So, what are the product's",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 345.52,
+      "end": 351.44,
+      "speaker": "Presenter",
+      "text": "main features? So, again, we can use AI to support with this, but I'm trying to be like anti-AI on this stuff to",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 351.44,
+      "end": 356.34,
+      "speaker": "Presenter",
+      "text": "actually just be like clear on the features. So, here we have like product details. So,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 356.34,
+      "end": 362.56,
+      "speaker": "Presenter",
+      "text": "for example, now we're going to get into some of the actual materials and stuff like that, too, and depending on",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 362.56,
+      "end": 367.06,
+      "speaker": "Presenter",
+      "text": "whether or not you know the materials. Here, we need to try to find, so this is a",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 367.06,
+      "end": 371.32,
+      "speaker": "Presenter",
+      "text": "ITW unbreakable secure buckle, so that's one of",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 371.32,
+      "end": 374.66,
+      "speaker": "Presenter",
+      "text": "the features that I'm going to pop in there right away, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 375.78,
+      "end": 378.9,
+      "speaker": "Presenter",
+      "text": "And then from here, they have premium chafe-resistant webbing.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 379.38,
+      "end": 383.66,
+      "speaker": "Presenter",
+      "text": "That's kind of like a a a benefit kind of call-out, I would say.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 384.16,
+      "end": 387.44,
+      "speaker": "Presenter",
+      "text": "One-click on and off, that's kind of a feature. That's kind of a benefit.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 388.3,
+      "end": 392.58,
+      "speaker": "Presenter",
+      "text": "Let's see what else we got here for actual features. So, adjustable straps,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 393.26,
+      "end": 398.36,
+      "speaker": "Presenter",
+      "text": "so, again, you can see this brand does a good job of saying feature and then benefit. So, why do adjustable straps matter?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 398.64,
+      "end": 401.6,
+      "speaker": "Presenter",
+      "text": "Well, it gives you the perfect fit. And then here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 401.6,
+      "end": 408.26,
+      "speaker": "Presenter",
+      "text": "we have easy one-click button. We have sturdy grab handle for added control. So, again,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 408.54,
+      "end": 412.2,
+      "speaker": "Presenter",
+      "text": "so we have sturdy grab handle, so let's just add that in.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 413.66,
+      "end": 414.92,
+      "speaker": "Presenter",
+      "text": "Sturdy grab handle.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 415.86,
+      "end": 418.88,
+      "speaker": "Presenter",
+      "text": "What else do we have? Heavy-duty D-ring.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 418.88,
+      "end": 425.88,
+      "speaker": "Presenter",
+      "text": "Again, this this brand has learned a lot from Evolve about tying mechanisms or tying features into benefits.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 425.88,
+      "end": 429.76,
+      "speaker": "Presenter",
+      "text": "And available on exclusive custom-designed colors, so customizable,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 430.62,
+      "end": 433.3,
+      "speaker": "Presenter",
+      "text": "right? That's a feature. Customizable.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 433.3,
+      "end": 439.5,
+      "speaker": "Presenter",
+      "text": "If I can spell it. That's, I'm terrible at spelling, so bear with me. I've probably already made 13 spelling mistakes.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 440.06,
+      "end": 444.06,
+      "speaker": "Presenter",
+      "text": "What else do we have here? 2 seconds on and off. What material is this made with? Don't actually know.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 444.26,
+      "end": 448.5,
+      "speaker": "Presenter",
+      "text": "So, that's one thing, as well, where it's like, okay, well, what is this made with? Because I don't know.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 448.82,
+      "end": 450.18,
+      "speaker": "Presenter",
+      "text": "We probably should know.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 451.02,
+      "end": 454.06,
+      "speaker": "Presenter",
+      "text": "Perfect fit, 60-day guarantee, size guide, cool.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 455.04,
+      "end": 460.38,
+      "speaker": "Presenter",
+      "text": "Doesn't say like we have any other material. I guess it's premium chafe-resistant webbing.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 461.78,
+      "end": 465.12,
+      "speaker": "Presenter",
+      "text": "So, we could just say like \"premium webbing\" might be the feature,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 465.54,
+      "end": 467.9,
+      "speaker": "Presenter",
+      "text": "but overall that's that's good. We got five here, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 468.96,
+      "end": 472.18,
+      "speaker": "Presenter",
+      "text": "And so, let's take a look at the benefits. So, feature one,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 472.86,
+      "end": 479.14,
+      "speaker": "Presenter",
+      "text": "we have, and sometimes what I like doing here is I actually like putting it here, so, ITW unbreakable secure buckle.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 480.1,
+      "end": 480.54,
+      "speaker": "Presenter",
+      "text": "Okay.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 481.82,
+      "end": 486.94,
+      "speaker": "Presenter",
+      "text": "And let's see if we can paste this in without breaking it. So, why why does this matter? Why would a ITW",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 486.94,
+      "end": 493.32,
+      "speaker": "Presenter",
+      "text": "unbreakable secure buckle matter? And honestly, I don't even know what an ITW buckle is, and so sometimes,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 493.32,
+      "end": 498.14,
+      "speaker": "Presenter",
+      "text": "if you are like reading this stuff, and you're an idiot like me, you can also just go into Claude again,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 498.56,
+      "end": 502.6,
+      "speaker": "Presenter",
+      "text": "and you can say, okay, \"Hey Claude, what is this?\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 504.06,
+      "end": 509.9,
+      "speaker": "Presenter",
+      "text": "And, again, you should always double-check this, but it's going to go ahead and search elsewhere,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 510.58,
+      "end": 515.48,
+      "speaker": "Presenter",
+      "text": "so look at that, it even corrected me cuz I pasted it wrong. So, based on research, the ITW",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 515.48,
+      "end": 520.14,
+      "speaker": "Presenter",
+      "text": "unbreakable secure buckle appears to refer to heavy-duty buckles made by ITW Nexus,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 520.64,
+      "end": 524.86,
+      "speaker": "Presenter",
+      "text": "Illinois Tool Works. ITW is a major manufacturer of high-quality plastic buckles",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 524.86,
+      "end": 528.96,
+      "speaker": "Presenter",
+      "text": "and fastening hardware. So, ITW Nexus makes various types of side-release buckles",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 528.96,
+      "end": 533.88,
+      "speaker": "Presenter",
+      "text": "that are designed for durability and reliability, including super-strong versions that are built for extreme impact resistance",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 534.42,
+      "end": 538.64,
+      "speaker": "Presenter",
+      "text": "and high-tensile loads. These buckles are commonly used in military and tactical gear,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 538.9,
+      "end": 543.18,
+      "speaker": "Presenter",
+      "text": "outdoor equipment and backpacks, pet harnesses, medical equipment, marine applications, life-saving equipment.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 543.8,
+      "end": 547.64,
+      "speaker": "Presenter",
+      "text": "The buckles are made in the USA. Good to know. And designed to withstand extreme",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 547.64,
+      "end": 555.36,
+      "speaker": "Presenter",
+      "text": "loads making them ideal for applications where durability is required. They feature, blah, blah, blah, blah, blah, without seeing the exact blah, blah, blah. Okay, cool. So,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 555.36,
+      "end": 560.18,
+      "speaker": "Presenter",
+      "text": "now we know what this is, okay? So, what is the benefit of the ITW",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 560.18,
+      "end": 563.54,
+      "speaker": "Presenter",
+      "text": "secure buckle? Well, number one, the dog,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 563.8,
+      "end": 567.8,
+      "speaker": "Presenter",
+      "text": "you know, won't get out of the harness,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 568.44,
+      "end": 574.1,
+      "speaker": "Presenter",
+      "text": "right? Because the buckles are so secure. And sometimes, when things are also",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 574.1,
+      "end": 578.8,
+      "speaker": "Presenter",
+      "text": "like benefits, or have multiple benefits, you just copy it over like this, so,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 578.8,
+      "end": 583.32,
+      "speaker": "Presenter",
+      "text": "and this is something that Claude won't do if you just do AI only, by the way. But ITW",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 583.32,
+      "end": 588.48,
+      "speaker": "Presenter",
+      "text": "unbreakable secure buckle, well, benefit here, let's just say another one is it's made in the USA.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 589.76,
+      "end": 595.84,
+      "speaker": "Presenter",
+      "text": "Right? That's a actually actually a benefit, and we'll explain why why that matters as well. And then what we can also do",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 595.84,
+      "end": 601.26,
+      "speaker": "Presenter",
+      "text": "is we can also ask Claude, too. Again, use AI to your advantage, guys. What would be the benefits",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 602.86,
+      "end": 609.82,
+      "speaker": "Presenter",
+      "text": "of a dog harness that has the feature ITW secure buckle.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 610.56,
+      "end": 611.58,
+      "speaker": "Presenter",
+      "text": "Let's just see what it says.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 611.9,
+      "end": 619.28,
+      "speaker": "Presenter",
+      "text": "No breaking during emergencies, if your dog suddenly bolts after a squirrel, the buckle won't break, okay, so your dog won't run away. So there we go,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 619.28,
+      "end": 621.14,
+      "speaker": "Presenter",
+      "text": "me and Claude are on the same page.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 621.72,
+      "end": 627.48,
+      "speaker": "Presenter",
+      "text": "Right here we have reliable commitment so you can trust it won't fail if your dog pulls hard, well that's the same thing.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 627.8,
+      "end": 632.64,
+      "speaker": "Presenter",
+      "text": "Peace of mind, strong puller, so we're we're finding a commonality here, right? Durability, so long-lasting",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 632.64,
+      "end": 636.54,
+      "speaker": "Presenter",
+      "text": "is a benefit, right? So it's it's kind of long-lasting,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 637.18,
+      "end": 648.34,
+      "speaker": "Presenter",
+      "text": "weather-resistant, maintains strength, quick one-handed release, secure hold under tension, professional grade, for dog owners it means confidence, strength, and so here we go. Now we're starting to get into desires which we're going to see in a second,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 648.34,
+      "end": 654.1,
+      "speaker": "Presenter",
+      "text": "but there we go. So we've got you know at least two benefits for this one. The next one we have here is adjustable straps.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 654.1,
+      "end": 655.16,
+      "speaker": "Presenter",
+      "text": "Okay.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 655.16,
+      "end": 666.64,
+      "speaker": "Presenter",
+      "text": "Now again why do adjustable straps matter? Well it helps make sure that it is the perfect fit for the dog.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 668.1,
+      "end": 671.24,
+      "speaker": "Presenter",
+      "text": "Okay, and we're just going to kind of go through the rest of these. You guys can kind of get the point, but",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 671.24,
+      "end": 676.6,
+      "speaker": "Presenter",
+      "text": "allow yourself to go down rabbit holes, right, because again, these are all ad ideas right here, guys. Like these are all things that,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 676.6,
+      "end": 682.94,
+      "speaker": "Presenter",
+      "text": "when you're just understanding your product, you're going to get new ideas. So like no breaking, no breakage during emergencies. So if your dog bolts after a squirrel,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 682.94,
+      "end": 687.46,
+      "speaker": "Presenter",
+      "text": "it's not going to it's not going to snap because we have this mechanism, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 688.22,
+      "end": 695.32,
+      "speaker": "Presenter",
+      "text": "You're You can trust your dog, if it pulls hard to get into a scuffle with another dog, it's not going to go, you know, like rip another dog's face off. That's kind of crazy, but you get the point. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 696.06,
+      "end": 703.56,
+      "speaker": "Presenter",
+      "text": "Over here we have sturdy grab handle. I don't actually really like this feature. I don't really know why I put that down as a feature. It's kind of a weird feature. Let's go heavy-duty D-ring",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 703.56,
+      "end": 706.78,
+      "speaker": "Presenter",
+      "text": "feature, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 707.54,
+      "end": 720.52,
+      "speaker": "Presenter",
+      "text": "What does a heavy-duty D-ring do? Well it actually allows you to attach the leash to the front for less pulling.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 721.44,
+      "end": 733.76,
+      "speaker": "Presenter",
+      "text": "And again we can actually ask Claude this as well, if you guys are struggling. What would be the benefit of a heavy-duty D-ring on a dog harness? See if Claude actually cooks.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 734.9,
+      "end": 746.16,
+      "speaker": "Presenter",
+      "text": "Won't break under pressure, long-lasting, handles high force, can withstand the full pulling power, secure leash attachment, emergency reliability. It's really going off here. Practical advantage, better control,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 747.4,
+      "end": 751.86,
+      "speaker": "Presenter",
+      "text": "multiple leash options, versatility, active breed, suitable for hikers, okay, so",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 751.86,
+      "end": 760.24,
+      "speaker": "Presenter",
+      "text": "the benefit is over here is like it allows you to attach your leash from the front for less pulling. And and that's just kind of the main benefit. If you wanted to pull some from these as well,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 760.58,
+      "end": 765.0,
+      "speaker": "Presenter",
+      "text": "like you know maybe can support dog backpacks, a reliable anchor point for trainers,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 767.7,
+      "end": 772.0,
+      "speaker": "Presenter",
+      "text": "won't break under pressure, handles high force. So this this is the main thing.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 772.98,
+      "end": 778.64,
+      "speaker": "Presenter",
+      "text": "It's just it handles strong pullers. The benefit is can handle strong pullers or stop your dog from pulling.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 779.26,
+      "end": 781.14,
+      "speaker": "Presenter",
+      "text": "The other feature that we have here is customizable.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 782.62,
+      "end": 785.9,
+      "speaker": "Presenter",
+      "text": "Now why would customizable matter? Well",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 786.68,
+      "end": 794.82,
+      "speaker": "Presenter",
+      "text": "just going to pop this in. It allows people to show their personality. It's kind of the benefit.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 795.06,
+      "end": 806.6,
+      "speaker": "Presenter",
+      "text": "Um, but we can also ask Claude again. Why would customizable feature be a benefit for a dog harness? Name tag, quick identification,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 807.92,
+      "end": 821.74,
+      "speaker": "Presenter",
+      "text": "it's kind of funny. Faster reunions, always visible, emergency situations, no jingling, won't get caught, professional, cool, training and social benefits, helps others interact, right? So that's a good one.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 822.58,
+      "end": 834.78,
+      "speaker": "Presenter",
+      "text": "Training reinforcement reduces anxiety, strangers use their name, peace of mind knowing your dog is always identified, right? So it allows people to show their personality, that's kind of where I went, but I'll just say it also makes it easy",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 835.06,
+      "end": 844.4,
+      "speaker": "Presenter",
+      "text": "Let's see here. One less thing to remember to replace, professional appearance for photos, better chance of quick recovery, peace of mind knowing your dog is always properly identified. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 845.14,
+      "end": 847.3,
+      "speaker": "Presenter",
+      "text": "It's kind of like the benefit, all right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 847.96,
+      "end": 856.22,
+      "speaker": "Presenter",
+      "text": "And now once we have these benefits with the help of Claude and again, as I've mentioned before, I'm very over leveraged on Claude, I love using Claude to help me brainstorm things,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 856.22,
+      "end": 864.16,
+      "speaker": "Presenter",
+      "text": "because a lot of times I know what it is, I just kind of like my brain can't really put it together. But over here, and a lot of you guys maybe in the same boat, but",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 864.16,
+      "end": 871.44,
+      "speaker": "Presenter",
+      "text": "let's take a look at the assumed desires, okay? So for each of the benefits that we just went through, what are the deeper desires that you are assuming it attends to?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 871.6,
+      "end": 875.96,
+      "speaker": "Presenter",
+      "text": "So simply ask yourself, why does someone want that? Just and in short, it's like, why?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 876.3,
+      "end": 884.24,
+      "speaker": "Presenter",
+      "text": "Okay? And now again these are going to be assumptions. These are not things that we've actually validated and gone out and done research and found.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 884.28,
+      "end": 890.8,
+      "speaker": "Presenter",
+      "text": "We're just kind of going, we're just winging it right now, right? Like we're just assuming that, hey, we think this is why people would care, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 891.3,
+      "end": 900.3,
+      "speaker": "Presenter",
+      "text": "And again, Claude kind of helps with that as well. So for this first desire here, if like the dog won't get out of the harness, we can kind of copy this over and we can kind of paste this in here,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 900.92,
+      "end": 906.18,
+      "speaker": "Presenter",
+      "text": "and let's see if it if it likes us. There we go. The dog won't get out of the har- harness. Well, why? Like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 906.76,
+      "end": 913.74,
+      "speaker": "Presenter",
+      "text": "why is that important? Why does that matter? Because then they know their dog is safe,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 914.92,
+      "end": 915.14,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 917.7,
+      "end": 924.38,
+      "speaker": "Presenter",
+      "text": "again better put you can go down actually a long ways on this and I just I just thought for a second of like if we should go down this rabbit hole, but I don't think we will",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 924.58,
+      "end": 930.58,
+      "speaker": "Presenter",
+      "text": "um but what you really need to be thinking is like why does someone want that? It's like well, they want their dog to be safe.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 932.28,
+      "end": 936.84,
+      "speaker": "Presenter",
+      "text": "biggest desire that we could talk about here is like their dog actually being safe. 'kay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 937.56,
+      "end": 944.24,
+      "speaker": "Presenter",
+      "text": "Uh let's talk about this. Let's talk about another benefit. So, it's made in the USA. America, baby. You know, for all my Americans who love to see it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 944.38,
+      "end": 949.14,
+      "speaker": "Presenter",
+      "text": "Um, so now benefit it's made in the USA. Why does that matter? 'Kay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 950.02,
+      "end": 958.16,
+      "speaker": "Presenter",
+      "text": "Why does it matter like why why would someone want it to be made in the USA, right? They want American-made products.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 960.04,
+      "end": 960.68,
+      "speaker": "Presenter",
+      "text": "Very simple.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 961.38,
+      "end": 973.08,
+      "speaker": "Presenter",
+      "text": "Right, they want something that is American-made or they want to support their country, right? These are more patriotic desires that we can start to tap into and that's why when you see people say made in America, it's because they want to",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 973.08,
+      "end": 979.6,
+      "speaker": "Presenter",
+      "text": "kind of tap into that desire of of, you know, patriotism and and people wanting to, you know,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 979.6,
+      "end": 994.56,
+      "speaker": "Presenter",
+      "text": "support their country, uh support local, essentially, and, you know, they want they they know that American Sometimes, people associate American-made with good, right? And so, America has this brand uh depending on who you ask. [laughter] It could be good or bad.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 994.7,
+      "end": 999.74,
+      "speaker": "Presenter",
+      "text": "Um, but they want American-made products. That would be the desire. Okay, we're actually going to run this through Claude as well.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 999.74,
+      "end": 1004.42,
+      "speaker": "Presenter",
+      "text": "Uh, another benefit here is it helps make sure it's the perfect fit.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1005.1,
+      "end": 1011.72,
+      "speaker": "Presenter",
+      "text": "'Kay? So, why does that desire matter? Well, they want their dog to feel uh comfortable.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1011.72,
+      "end": 1026.06,
+      "speaker": "Presenter",
+      "text": "Right, they or maybe they want their dog to If I don't lose my headphone, uh they might want their dog to um, overall, not get hurt, right? They might not want They want their dog to stay stay safe again, but they want their dog to",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 1026.06,
+      "end": 1030.36,
+      "speaker": "Presenter",
+      "text": "ultimately um not be in any sort of pain, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 1030.64,
+      "end": 1038.46,
+      "speaker": "Presenter",
+      "text": "Um so overall, they want their dog to be comfortable. So you can think of positive or negative emotions on this, but they want their dog uh to feel comfortable in the harness, 'kay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 1039.26,
+      "end": 1041.76,
+      "speaker": "Presenter",
+      "text": "Uh now we have a benefit over here from the heavy-duty D-ring,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1042.24,
+      "end": 1051.2,
+      "speaker": "Presenter",
+      "text": "right? And so now if we get over here, it allows you to attach a leash to the front for less pulling. Now, why why does someone want their dog to pull less? Well,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1051.46,
+      "end": 1057.72,
+      "speaker": "Presenter",
+      "text": "they want to um, you know, feel in more control on walks,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1057.72,
+      "end": 1064.18,
+      "speaker": "Presenter",
+      "text": "right? Or maybe if you have another desire for this as well, um, you know, again, you can do the same thing as we did last time.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1064.18,
+      "end": 1072.86,
+      "speaker": "Presenter",
+      "text": "You know, maybe they want to be less embarrassed when they go on walks in front of others.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1075.84,
+      "end": 1082.66,
+      "speaker": "Presenter",
+      "text": "Potential social thing there, right? Like, oh there's that girl who, you know, takes Her dog takes her for a walk, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1083.62,
+      "end": 1092.74,
+      "speaker": "Presenter",
+      "text": "Um, so let's jump over here to the final one which is like the benefit of like uh, again, peace of mind of knowing your dog is always properly identified. Let's go ahead and pop this in here.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1093.26,
+      "end": 1101.38,
+      "speaker": "Presenter",
+      "text": "And, why why would someone want that? Why would someone want their dog to be identified? Well, they want to make sure their dog is safe.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 1102.72,
+      "end": 1115.42,
+      "speaker": "Presenter",
+      "text": "Very very similar to this one up here is what I would say. Um now you can go different one where it's like they want to make sure their dog never gets lost or they want to make sure uh people know their dog, in that instance, right? And you can keep asking why.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1115.42,
+      "end": 1125.76,
+      "speaker": "Presenter",
+      "text": "That was a rabbit hole again that I was going to go down. I was like you can keep asking like why does this matter and you might get down to what they actually want, but at the end of the day, we're trying to identify some of these desires here, okay? So, what I would also do",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1125.76,
+      "end": 1131.84,
+      "speaker": "Presenter",
+      "text": "is I would copy this same thing here and I again, I would go into Claude. And I would say, \"Hey Claude,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 1132.5,
+      "end": 1144.22,
+      "speaker": "Presenter",
+      "text": "can you then turn these benefits into desires?\" And I I know a lot of you guys don't even know what desires are yet. Um, so you might have to watch the desires video as well as we go through this, but just",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1144.22,
+      "end": 1151.28,
+      "speaker": "Presenter",
+      "text": "I want you you don't even really need to understand desires to go through this, because this is what desires are. It's what people want, okay? Very simply put.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1151.28,
+      "end": 1167.28,
+      "speaker": "Presenter",
+      "text": "And we're going to go a lot deeper to how you guys can actually identify the desires, because that's what matters most. Um, but at the end of the day, we want to go through and we just want to assume, and so we're just going to follow this exercise uh and you'll understand why desires are important in a little bit. But, hey Claude, can you turn these benefits into desires?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 1167.92,
+      "end": 1176.16,
+      "speaker": "Presenter",
+      "text": "Let's see what it does. So benefit, the dog won't get out of the harness. Desire, I want to feel confident my dog will stay safe and secure no matter how excited uh or strong they get.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 1176.78,
+      "end": 1181.54,
+      "speaker": "Presenter",
+      "text": "Pretty solid one there, right? Benefits: made in the USA. I want to support American jobs and buy a quality product so I can trust. There you go.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 1182.66,
+      "end": 1185.92,
+      "speaker": "Presenter",
+      "text": "Adjustable straps helps make sure that, it is the perfect fit for the dog. I want",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 1185.92,
+      "end": 1187.88,
+      "speaker": "Presenter",
+      "text": "my dog to be comfortable and happy on every walk,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 1188.3,
+      "end": 1192.14,
+      "speaker": "Presenter",
+      "text": "right? Heavy duty D-ring. I want enjoyable, stress-free walks where I'm in control.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 1192.14,
+      "end": 1195.76,
+      "speaker": "Presenter",
+      "text": "Is that what I said, right? I think I said that. I want to feel in control. Aha!",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 1195.9,
+      "end": 1198.48,
+      "speaker": "Presenter",
+      "text": "Look at me cooking, guys! Come on now. Told you,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 1198.72,
+      "end": 1199.9,
+      "speaker": "Presenter",
+      "text": "I'm decent at this stuff.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 1200.32,
+      "end": 1202.68,
+      "speaker": "Presenter",
+      "text": "I want my dog's gear-- this is crazy.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 1204.02,
+      "end": 1206.32,
+      "speaker": "Presenter",
+      "text": "Customizable, it's just, and I love this stuff by the way, guys, because",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 1206.32,
+      "end": 1212.1,
+      "speaker": "Presenter",
+      "text": "going back through and doing this stuff is, it's just really good. Even every now and then if this is just like basic stuff for you, maybe you're",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 1212.1,
+      "end": 1217.28,
+      "speaker": "Presenter",
+      "text": "rewatching this and you're not, you know, someone that's in Origins, or if you are in Origins, I hope you're liking this stuff, but",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 1217.28,
+      "end": 1220.0,
+      "speaker": "Presenter",
+      "text": "it's good to come back and do this stuff, and go back and really",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 1220.0,
+      "end": 1225.64,
+      "speaker": "Presenter",
+      "text": "sit in the fundamentals because this is where a lot of growth is happened. And sometimes we just need to be reminded more than you need to be taught,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 1225.9,
+      "end": 1231.9,
+      "speaker": "Presenter",
+      "text": "you know? Big Alex Hormozi saying. Customizable, it allows people to show their personality. So desire, I want my dog's gear to reflect",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1231.9,
+      "end": 1233.94,
+      "speaker": "Presenter",
+      "text": "how special and unique they are to me,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1234.48,
+      "end": 1240.26,
+      "speaker": "Presenter",
+      "text": "right? And then customizable, peace of mind knowing your dog is properly identified. I want to know that if something happens, my dog will find their way back to me.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1240.64,
+      "end": 1244.1,
+      "speaker": "Presenter",
+      "text": "Okay, so there you go. Really good one, right? So now we could create this angle. My mind's",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1244.1,
+      "end": 1248.1,
+      "speaker": "Presenter",
+      "text": "already running with a bunch of angles, just from doing this stuff, where it's like, okay, we've got this name tag here,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1248.62,
+      "end": 1252.8,
+      "speaker": "Presenter",
+      "text": "what if we, you know, create a story about like how this name tag saved a dog, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1253.1,
+      "end": 1257.94,
+      "speaker": "Presenter",
+      "text": "And we can actually go out and ask customers and find out if you have enough customers, like hey, has that ever happened? Has anybody ever like",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1257.94,
+      "end": 1263.54,
+      "speaker": "Presenter",
+      "text": "returned your dog home after seeing the name, you know? Potentially people have their address on the other side, or whatever it is.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 215,
+      "start": 1264.08,
+      "end": 1269.1,
+      "speaker": "Presenter",
+      "text": "You know, it would be, would be pretty awesome. But obviously people aren't breaking out of this, but you know, if they're off the leash running around,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 216,
+      "start": 1269.1,
+      "end": 1269.86,
+      "speaker": "Presenter",
+      "text": "you get the idea.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1270.38,
+      "end": 1270.42,
+      "speaker": "Presenter",
+      "text": "Okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1271.22,
+      "end": 1274.04,
+      "speaker": "Presenter",
+      "text": "So there we go. Now the final part down here, but that",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1274.04,
+      "end": 1276.06,
+      "speaker": "Presenter",
+      "text": "I love most is new",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1276.06,
+      "end": 1279.72,
+      "speaker": "Presenter",
+      "text": "mechanisms. Okay? So these are going to be USPs. So",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1279.72,
+      "end": 1283.78,
+      "speaker": "Presenter",
+      "text": "USPs are unique selling propositions, aka what makes your product unique. And again,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1284.08,
+      "end": 1287.92,
+      "speaker": "Presenter",
+      "text": "this is assumed, I need to add another assumed here. Assumed",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1287.92,
+      "end": 1292.5,
+      "speaker": "Presenter",
+      "text": "new mechanisms. What do you, or what are you assuming",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1292.5,
+      "end": 1297.34,
+      "speaker": "Presenter",
+      "text": "is a unique mechanism? Because a lot of you guys think you have a unique mechanism. That's actually not that unique.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1297.36,
+      "end": 1301.86,
+      "speaker": "Presenter",
+      "text": "There's a lot of people that have it. But does your product have any new mechanisms that separate it",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1301.86,
+      "end": 1304.78,
+      "speaker": "Presenter",
+      "text": "from the market? I would say one thing that stands out to me is the customizable",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1306.2,
+      "end": 1306.78,
+      "speaker": "Presenter",
+      "text": "name tag.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 228,
+      "start": 1306.78,
+      "end": 1310.5,
+      "speaker": "Presenter",
+      "text": "I haven't really seen that on a lot of harnesses before.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1311.2,
+      "end": 1316.62,
+      "speaker": "Presenter",
+      "text": "Another thing that I would say as well, just from like outside looking in of like potential new mechanisms,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1316.62,
+      "end": 1322.88,
+      "speaker": "Presenter",
+      "text": "is the D-ring as well, so like this front, not the back one, but there's this D-ring here.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1323.38,
+      "end": 1324.82,
+      "speaker": "Presenter",
+      "text": "I don't know if it's even on here.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1324.82,
+      "end": 1327.04,
+      "speaker": "Presenter",
+      "text": "I don't think it actually shows it.",
+      "chunk": 4,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 233,
+      "start": 1327.04,
+      "end": 1332.68,
+      "speaker": "Presenter",
+      "text": "Heavy duty D-ring, yeah, it's actually not even included, so that should be in there. But I would say like that D-ring",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1332.68,
+      "end": 1336.24,
+      "speaker": "Presenter",
+      "text": "is definitely a, a new mechanism, so the front",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1336.24,
+      "end": 1337.38,
+      "speaker": "Presenter",
+      "text": "D-ring.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1337.82,
+      "end": 1345.62,
+      "speaker": "Presenter",
+      "text": "It's not something that I've really seen on harnesses before. I didn't really know that was a thing, so that could also be a new mechanism. Okay? And again, you can add as many as you want,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1345.86,
+      "end": 1348.62,
+      "speaker": "Presenter",
+      "text": "but just understand that these new mechanisms, a lot of the time,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1348.62,
+      "end": 1352.86,
+      "speaker": "Presenter",
+      "text": "are going to be hard if you just have a basic product that is the same as everyone else's, okay? And so,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1352.86,
+      "end": 1357.6,
+      "speaker": "Presenter",
+      "text": "we're going to get into other ways about how you can differentiate yourself if you don't have new mechanisms, but new mechanisms are",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1357.6,
+      "end": 1361.78,
+      "speaker": "Presenter",
+      "text": "literally the, the most powerful thing, so you really want to think deep. And so what you could also do",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1361.78,
+      "end": 1363.4,
+      "speaker": "Presenter",
+      "text": "is now that we've done this,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1364.32,
+      "end": 1365.5,
+      "speaker": "Presenter",
+      "text": "we can customize this,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1365.5,
+      "end": 1369.54,
+      "speaker": "Presenter",
+      "text": "and, or we can just copy this and you could even in your same chat, if you've been doing this,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1370.06,
+      "end": 1373.54,
+      "speaker": "Presenter",
+      "text": "based on what you know about the dog",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1373.54,
+      "end": 1374.5,
+      "speaker": "Presenter",
+      "text": "harness,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1377.78,
+      "end": 1378.16,
+      "speaker": "Presenter",
+      "text": "what,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1378.16,
+      "end": 1379.42,
+      "speaker": "Presenter",
+      "text": "how would you answer this?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1383.08,
+      "end": 1387.38,
+      "speaker": "Presenter",
+      "text": "And now what we're going to do is see if Claude can come up with any other mechanisms for us.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1390.26,
+      "end": 1398.58,
+      "speaker": "Presenter",
+      "text": "Based on what I know about the dark harness, the 1-2-3 quick-clip system, so new me- mechanism, ultra fast application. ITW military-grade unbreakable buckle,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1399.0,
+      "end": 1407.8,
+      "speaker": "Presenter",
+      "text": "uses the same buckle system trusted by military and life-saving equipment. Front-clip, anti-pull heavy duty, so new mechanism, strategic D-ring placement that redirects",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1407.8,
+      "end": 1413.86,
+      "speaker": "Presenter",
+      "text": "pulling force to naturally discourage behavior. Integrated customizable ID system, built-in ID patch,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1415.66,
+      "end": 1419.3,
+      "speaker": "Presenter",
+      "text": "and chafe-resistant comfort engineering, so new mechanism, lightweight materials",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1420.2,
+      "end": 1426.96,
+      "speaker": "Presenter",
+      "text": "designed to prevent rubbing and skin irritations. So those could all be potentially new mechanisms. I actually really like this chafe-resistant one as well,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 254,
+      "start": 1427.98,
+      "end": 1433.76,
+      "speaker": "Presenter",
+      "text": "but I also do like the military-grade. I think this is awesome, this is really great for",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 255,
+      "start": 1433.76,
+      "end": 1441.2,
+      "speaker": "Presenter",
+      "text": "us to also put in here, so we could just say the military-grade unbreakable technology is a pretty solid",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1441.2,
+      "end": 1445.14,
+      "speaker": "Presenter",
+      "text": "new mechanism for us to leverage, 100%.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1445.14,
+      "end": 1451.88,
+      "speaker": "Presenter",
+      "text": "So there we go, so there is the new mechanisms. And then the final one down here is hidden mechanism",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1452.4,
+      "end": 1458.54,
+      "speaker": "Presenter",
+      "text": "analysis. And so you can use AI for this, if you've been going through this and this says step five, so this will say step seven.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1459.2,
+      "end": 1466.06,
+      "speaker": "Presenter",
+      "text": "But here is just answer these to help the AI identify mechanisms that you might be blind to. And so the most important thing here to understand--",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 260,
+      "start": 1466.9,
+      "end": 1472.58,
+      "speaker": "Presenter",
+      "text": "Sorry, I had to take a quick drink out of my stainless steel Stanley cup there, but basically here with the",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1472.58,
+      "end": 1478.76,
+      "speaker": "Presenter",
+      "text": "AI analysis, this will be something that we actually give to the AI so that the AI can actually do some research for us. But at the end of the day,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 262,
+      "start": 1478.76,
+      "end": 1478.92,
+      "speaker": "Presenter",
+      "text": "you",
+      "chunk": 4,
+      "timing": "interpolated"
+    },
+    {
+      "id": 263,
+      "start": 1478.92,
+      "end": 1484.18,
+      "speaker": "Presenter",
+      "text": "What does your product do that you don't advertise, okay? So this really helps",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 264,
+      "start": 1484.18,
+      "end": 1488.28,
+      "speaker": "Presenter",
+      "text": "you think through and now you should know your advertising, if you have not really advertised",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 265,
+      "start": 1488.28,
+      "end": 1493.62,
+      "speaker": "Presenter",
+      "text": "yet, which maybe a lot of you haven't, then you can just kind of leave this blank. But for people who have",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 266,
+      "start": 1493.62,
+      "end": 1499.38,
+      "speaker": "Presenter",
+      "text": "really been pushing this, this is about trying to figure out like, okay, what are some angles that I haven't been advertising,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 267,
+      "start": 1499.38,
+      "end": 1504.52,
+      "speaker": "Presenter",
+      "text": "right? And now just to show you that Claude, and for all you guys that like rely too much",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 268,
+      "start": 1504.52,
+      "end": 1510.4,
+      "speaker": "Presenter",
+      "text": "on AI, Claude might answer this question, and it's going to say like, \"Based on what I know,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 269,
+      "start": 1510.4,
+      "end": 1515.86,
+      "speaker": "Presenter",
+      "text": "right? Here's things that you likely don't advertise.\" It doesn't know what we're advertising. It has no idea.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 270,
+      "start": 1515.86,
+      "end": 1520.34,
+      "speaker": "Presenter",
+      "text": "I haven't like literally shown him what we're saying, all right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 271,
+      "start": 1520.34,
+      "end": 1526.24,
+      "speaker": "Presenter",
+      "text": "Um, but here's something that's kind of cool. It's it just like gave us a bunch of ad ideas anyways, and so Claude is",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 272,
+      "start": 1526.24,
+      "end": 1530.62,
+      "speaker": "Presenter",
+      "text": "kind of good for that. But again, like Claude is giving you answers to like it could it should not",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 273,
+      "start": 1531.0,
+      "end": 1535.78,
+      "speaker": "Presenter",
+      "text": "Like re- in reality, Claude should say, \"Honestly Spencer, I don't know what you're advertising, so",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 274,
+      "start": 1535.8,
+      "end": 1540.7,
+      "speaker": "Presenter",
+      "text": "what are you advertising and then I can tell you.\" And so he just says, \"Here are like hidden benefits you that you're not promo-",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 275,
+      "start": 1540.7,
+      "end": 1546.16,
+      "speaker": "Presenter",
+      "text": "promoting, which is reduces uh vet bills, saves your back and shoulders, uh improves a dog's confidence,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 276,
+      "start": 1546.36,
+      "end": 1550.36,
+      "speaker": "Presenter",
+      "text": "protects your investment, makes training easier, increases daily exercise, reduces escape- uh",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 277,
+      "start": 1550.36,
+      "end": 1554.08,
+      "speaker": "Presenter",
+      "text": "related liability, and builds stronger human-dog bond,\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 278,
+      "start": 1554.56,
+      "end": 1554.88,
+      "speaker": "Presenter",
+      "text": "right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 279,
+      "start": 1555.7,
+      "end": 1561.84,
+      "speaker": "Presenter",
+      "text": "\"And so these indirect benefits that are harder to prove focus on problems, they might seem like overpromising, but they're long-term benefits rather than",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 280,
+      "start": 1562.46,
+      "end": 1563.2,
+      "speaker": "Presenter",
+      "text": "instant gratification.\" Okay?",
+      "chunk": 5,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 281,
+      "start": 1563.68,
+      "end": 1568.06,
+      "speaker": "Presenter",
+      "text": "And so, those are some things. Now, if you want to jot them down, again, you have to really look at your marketing. Now, for this brand",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 282,
+      "start": 1568.06,
+      "end": 1573.74,
+      "speaker": "Presenter",
+      "text": "specifically, I'm not going to go into that, um but essentially just like think about like, \"What does your product do that you don't advertise?\" Okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 283,
+      "start": 1574.12,
+      "end": 1578.24,
+      "speaker": "Presenter",
+      "text": "I'd say one thing that we actu- I actually know for a fact that we're not ad- advertising is this IT",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 284,
+      "start": 1578.78,
+      "end": 1582.2,
+      "speaker": "Presenter",
+      "text": "DW uh military-grade. This is something that we're not advertising.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 285,
+      "start": 1583.18,
+      "end": 1589.74,
+      "speaker": "Presenter",
+      "text": "I I know that as a fact, so I'm actually going to put that there, because that's actually a good thing uh for me to chat with the team about,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 286,
+      "start": 1589.74,
+      "end": 1594.34,
+      "speaker": "Presenter",
+      "text": "as we are going through and managing this brand. Um, so here, \"What ingredients",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 287,
+      "start": 1594.42,
+      "end": 1601.64,
+      "speaker": "Presenter",
+      "text": "and components do you include that competitors don't?\" So again, here, we're getting into some of these unique things that we do, name tags,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 288,
+      "start": 1602.1,
+      "end": 1607.24,
+      "speaker": "Presenter",
+      "text": "basically these these new mechanisms right here, right? Um, again, the front D-ring, some competitors",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 289,
+      "start": 1607.24,
+      "end": 1611.62,
+      "speaker": "Presenter",
+      "text": "do this, but not as much. Um, maybe we get into the same thing here,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 290,
+      "start": 1612.72,
+      "end": 1616.06,
+      "speaker": "Presenter",
+      "text": "the ITDW buckle, right? So what are, again, ingredients, components,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 291,
+      "start": 1616.72,
+      "end": 1619.38,
+      "speaker": "Presenter",
+      "text": "what do you include that competitors don't? And then here,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 292,
+      "start": 1620.36,
+      "end": 1625.78,
+      "speaker": "Presenter",
+      "text": "when you get to, \"If your product worked too well, what would be the problem that customers would complain about?\" So it's like,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 293,
+      "start": 1626.14,
+      "end": 1629.04,
+      "speaker": "Presenter",
+      "text": "\"Dog walks are so boring.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 294,
+      "start": 1630.04,
+      "end": 1630.52,
+      "speaker": "Presenter",
+      "text": "The dog",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 295,
+      "start": 1630.52,
+      "end": 1632.14,
+      "speaker": "Presenter",
+      "text": "never pulls",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 296,
+      "start": 1632.14,
+      "end": 1633.06,
+      "speaker": "Presenter",
+      "text": "anymore.\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 297,
+      "start": 1634.12,
+      "end": 1641.08,
+      "speaker": "Presenter",
+      "text": "What else would uh people complain? And this is just a fun way to think about things guys, cuz like this helps get your creative juices flowing for new ad ideas and",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 298,
+      "start": 1641.08,
+      "end": 1644.4,
+      "speaker": "Presenter",
+      "text": "trying to think of, you know, new mechanisms. Um, so what else? Um,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 299,
+      "start": 1645.04,
+      "end": 1650.96,
+      "speaker": "Presenter",
+      "text": "\"The dog um doesn't- the dog is confused on how I put the harness on",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 300,
+      "start": 1653.54,
+      "end": 1654.42,
+      "speaker": "Presenter",
+      "text": "so fast.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 301,
+      "start": 1656.24,
+      "end": 1657.26,
+      "speaker": "Presenter",
+      "text": "The dog is,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 302,
+      "start": 1657.26,
+      "end": 1659.3,
+      "speaker": "Presenter",
+      "text": "you know, the dog- Ugh.",
+      "chunk": 5,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 303,
+      "start": 1659.3,
+      "end": 1668.02,
+      "speaker": "Presenter",
+      "text": "never has to use uh, or never chafes anymore.\" If it worked too well it's like uh, \"The dog",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 304,
+      "start": 1669.58,
+      "end": 1673.76,
+      "speaker": "Presenter",
+      "text": "What else could- Or it's like your, \"You don't get a, you know, a shoulder workout.\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 305,
+      "start": 1674.72,
+      "end": 1680.24,
+      "speaker": "Presenter",
+      "text": "\"You are You actually have to go and work out shoulders again.\" Something ridiculous, but you kind of get the point. Um, I'm actually going to take this cuz",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 306,
+      "start": 1680.24,
+      "end": 1685.64,
+      "speaker": "Presenter",
+      "text": "cuz Claude's pretty creative as well, and uh again, we're going to give this to Claude, and let's just uh see what it can come up with,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 307,
+      "start": 1685.64,
+      "end": 1692.92,
+      "speaker": "Presenter",
+      "text": "and uh see if he gives us anything fun. Uh, \"It's too easy to put on,\" like I just said. \"It's too secure,\" right? \"Stops pulling",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 308,
+      "start": 1693.2,
+      "end": 1700.1,
+      "speaker": "Presenter",
+      "text": "too well, it's too durable, uh the ID feature.\" I don't like this, so I'm going to probably stop Claude. Uh, I'm not a fan",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 309,
+      "start": 1700.1,
+      "end": 1702.62,
+      "speaker": "Presenter",
+      "text": "of the \"too.\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 310,
+      "start": 1704.46,
+      "end": 1707.52,
+      "speaker": "Presenter",
+      "text": "I just want you to think more creatively",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 311,
+      "start": 1709.74,
+      "end": 1710.38,
+      "speaker": "Presenter",
+      "text": "around",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 312,
+      "start": 1710.38,
+      "end": 1714.46,
+      "speaker": "Presenter",
+      "text": "what customers would complain about in general.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 313,
+      "start": 1716.78,
+      "end": 1717.44,
+      "speaker": "Presenter",
+      "text": "So let's see.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 314,
+      "start": 1718.78,
+      "end": 1719.84,
+      "speaker": "Presenter",
+      "text": "\"My dog is addicted to walks now.\"",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 315,
+      "start": 1719.84,
+      "end": 1724.8,
+      "speaker": "Presenter",
+      "text": "You know, \"My dog My dog loves walks even more.\" That's a good one, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 316,
+      "start": 1725.12,
+      "end": 1726.22,
+      "speaker": "Presenter",
+      "text": "Uh, \"My dog",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 317,
+      "start": 1726.22,
+      "end": 1729.7,
+      "speaker": "Presenter",
+      "text": "somehow likes",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 318,
+      "start": 1733.28,
+      "end": 1738.62,
+      "speaker": "Presenter",
+      "text": "Or, for example, this would be a funny one. It's like, now even I look forward to walks now, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 319,
+      "start": 1738.86,
+      "end": 1741.98,
+      "speaker": "Presenter",
+      "text": "And this is what I love about AI. It can also just spark ideation as well.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 320,
+      "start": 1742.72,
+      "end": 1748.98,
+      "speaker": "Presenter",
+      "text": "Now I even get excited for walks, or now I get as excited as my dog,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 321,
+      "start": 1752.22,
+      "end": 1754.22,
+      "speaker": "Presenter",
+      "text": "right? Pretty funny concept there.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 322,
+      "start": 1754.76,
+      "end": 1759.16,
+      "speaker": "Presenter",
+      "text": "What else do we have here? It makes other owners feel bad, everyone stops and asks me about it, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 323,
+      "start": 1759.64,
+      "end": 1764.46,
+      "speaker": "Presenter",
+      "text": "I can't have a quick walk anymore, every dog owner wants to know where I get it. Really good one there as well,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 324,
+      "start": 1764.96,
+      "end": 1767.56,
+      "speaker": "Presenter",
+      "text": "right, kind of like that third-party validation.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 325,
+      "start": 1768.54,
+      "end": 1772.02,
+      "speaker": "Presenter",
+      "text": "My dog becomes a show-off, I can't use walking as an exercise anymore.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 326,
+      "start": 1772.98,
+      "end": 1776.58,
+      "speaker": "Presenter",
+      "text": "There we go, that's one I kind of talked about. The nametag creates too much social interaction.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 327,
+      "start": 1777.08,
+      "end": 1780.22,
+      "speaker": "Presenter",
+      "text": "It spoiled my dog, I have nothing to complain about.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 328,
+      "start": 1781.0,
+      "end": 1785.24,
+      "speaker": "Presenter",
+      "text": "My go-to conversation starter is now gone. So, kind of some, eh, stuff, but some good stuff as well.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 329,
+      "start": 1785.62,
+      "end": 1790.12,
+      "speaker": "Presenter",
+      "text": "And then here: if someone was explaining this product to their friend, what would they say? And this is one that I love to use with AI as well.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 330,
+      "start": 1790.74,
+      "end": 1796.86,
+      "speaker": "Presenter",
+      "text": "Or even, if you want, what you guys can do as well is like text a friend and ask a friend. Be like, \"Hey, can you explain this product to me?\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 331,
+      "start": 1796.98,
+      "end": 1799.62,
+      "speaker": "Presenter",
+      "text": "And they'd be like, \"It's a dog harness that looks like it does XYZ.\"",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 332,
+      "start": 1800.26,
+      "end": 1803.08,
+      "speaker": "Presenter",
+      "text": "Or have like a family member do it as well. It's kind of a fun way to go through and do it.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 333,
+      "start": 1803.32,
+      "end": 1805.32,
+      "speaker": "Presenter",
+      "text": "You can also use AI as well.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 334,
+      "start": 1806.36,
+      "end": 1811.48,
+      "speaker": "Presenter",
+      "text": "So, here's a decent one as well that we can just pop in here. It's really important that we",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 335,
+      "start": 1811.48,
+      "end": 1813.44,
+      "speaker": "Presenter",
+      "text": "read this, obviously.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 336,
+      "start": 1814.14,
+      "end": 1818.62,
+      "speaker": "Presenter",
+      "text": "So, \"Oh my god, you need to get this harness. So you know I was complaining about Max pulling me down the street?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 337,
+      "start": 1818.86,
+      "end": 1823.8,
+      "speaker": "Presenter",
+      "text": "Well, I found this harness and it's like a miracle.\" First of all, and I might even ask Claude to make this less salesy.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 338,
+      "start": 1824.28,
+      "end": 1833.34,
+      "speaker": "Presenter",
+      "text": "Can we make this less salesy and cheesy and more just focus like you're telling a friend about it?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 339,
+      "start": 1833.34,
+      "end": 1837.14,
+      "speaker": "Presenter",
+      "text": "And, again, this is where it takes some experience,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 340,
+      "start": 1837.14,
+      "end": 1843.88,
+      "speaker": "Presenter",
+      "text": "like communicat- or communicating with AI and understanding when it's like being dumb and when it's being good.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 341,
+      "start": 1844.5,
+      "end": 1850.1,
+      "speaker": "Presenter",
+      "text": "So, \"I got it because Jake's old one broke, the plastic buckle just snapped.\" So, here we go. This is casual, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 342,
+      "start": 1850.36,
+      "end": 1851.02,
+      "speaker": "Presenter",
+      "text": "So, now we can paste this in.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 343,
+      "start": 1851.78,
+      "end": 1856.42,
+      "speaker": "Presenter",
+      "text": "\"I got it because Jake's old one broke and the plastic buckle just snapped one day when he lunged after something.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 344,
+      "start": 1857.28,
+      "end": 1863.4,
+      "speaker": "Presenter",
+      "text": "This one has some heavy-duty buckle that's supposed to be unbreakable or whatever. You know the thing I actually like about it is how fast it goes on.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 345,
+      "start": 1863.52,
+      "end": 1867.72,
+      "speaker": "Presenter",
+      "text": "You know how Jake used to hate getting his harness on and would try to back away. This one clip",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 346,
+      "start": 1868.64,
+      "end": 1874.88,
+      "speaker": "Presenter",
+      "text": "clips on super quick, so there's less drama. And it has his name on it, which is kind of nice.\" Again, I love this, kind of nice, like the name is cool.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 347,
+      "start": 1874.88,
+      "end": 1880.72,
+      "speaker": "Presenter",
+      "text": "\"I was always worried about losing those little ID tags that jingle around, but honestly the biggest difference is he doesn't pull much anymore.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 348,
+      "start": 1881.18,
+      "end": 1886.98,
+      "speaker": "Presenter",
+      "text": "The leash clips to the front instead of the back, so when he tries to pull forward it just kind of redirects him.\" Love that.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 349,
+      "start": 1887.36,
+      "end": 1893.08,
+      "speaker": "Presenter",
+      "text": "\"I don't know if it's the harness or if he's just getting older, but our walks are way less stressful now.\" I love this as well, cause it's like saying,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 350,
+      "start": 1893.28,
+      "end": 1896.46,
+      "speaker": "Presenter",
+      "text": "like, \"Yeah, it could be the harness, but maybe not.\" Held up pretty well too.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 351,
+      "start": 1896.62,
+      "end": 1901.92,
+      "speaker": "Presenter",
+      "text": "\"I think I've had it for like eight months, no issues so far. Why? Is Buddy giving you trouble on walks?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 352,
+      "start": 1902.34,
+      "end": 1907.24,
+      "speaker": "Presenter",
+      "text": "Yeah, you might want to try something like this. I think I got it online, let me see if I can find the link.\" Love it, right? Super casual,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 353,
+      "start": 1907.54,
+      "end": 1912.72,
+      "speaker": "Presenter",
+      "text": "super friendly, like this is so telling a friend about it, right? And this is like language that you guys can use as well.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 354,
+      "start": 1913.24,
+      "end": 1918.4,
+      "speaker": "Presenter",
+      "text": "So, there you go. That is the Product Overview. We filled this out live, in action, for you guys, and",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 355,
+      "start": 1918.4,
+      "end": 1921.18,
+      "speaker": "Presenter",
+      "text": "it's been a while since I've done manual stuff and even then I still cheated with Claude.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 356,
+      "start": 1921.94,
+      "end": 1929.18,
+      "speaker": "Presenter",
+      "text": "It's very, very good to go through and fill this out, and take the time to actually do this because, again, like you're- you work work smarter not harder, and I've explained this to you guys lots of times, but",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 357,
+      "start": 1929.18,
+      "end": 1933.62,
+      "speaker": "Presenter",
+      "text": "this is the first most important part. Step one: basics, what the heck are we selling?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 358,
+      "start": 1934.52,
+      "end": 1940.14,
+      "speaker": "Presenter",
+      "text": "Step two: what does the product do? Step three- and then, obviously, dumbing it down to sixth-grade version. Step three: what are the features?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 359,
+      "start": 1940.9,
+      "end": 1944.3,
+      "speaker": "Presenter",
+      "text": "Step four: what are those assumed benefits? What will those features do? Step five: assumed desires.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 360,
+      "start": 1944.6,
+      "end": 1947.82,
+      "speaker": "Presenter",
+      "text": "Again, I know you guys haven't learned fully about desires yet, but, you know, for each benefit,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 361,
+      "start": 1948.14,
+      "end": 1953.14,
+      "speaker": "Presenter",
+      "text": "what are those deeper desires? And then from there, step six: assumed new mechanisms, so USPs. And then step seven",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 362,
+      "start": 1953.14,
+      "end": 1958.08,
+      "speaker": "Presenter",
+      "text": "is the hidden mechanisms. And this is where we can start thinking really creatively. So, there you go.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 363,
+      "start": 1958.3,
+      "end": 1963.48,
+      "speaker": "Presenter",
+      "text": "That is how to fill out the Product Overview document, and I will see you guys in the next one that talks about desires.",
+      "chunk": 6,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 374.48,
+      "end": 375.88,
+      "label": "typing"
+    },
+    {
+      "start": 411.98,
+      "end": 413.48,
+      "label": "typing"
+    },
+    {
+      "start": 433.48,
+      "end": 435.78,
+      "label": "typing"
+    },
+    {
+      "start": 502.38,
+      "end": 504.08,
+      "label": "typing"
+    },
+    {
+      "start": 586.78,
+      "end": 589.78,
+      "label": "typing"
+    },
+    {
+      "start": 599.78,
+      "end": 602.48,
+      "label": "typing"
+    },
+    {
+      "start": 807.22,
+      "end": 808.72,
+      "label": "laughter"
+    },
+    {
+      "start": 993.41,
+      "end": 994.61,
+      "label": "laughter"
+    },
+    {
+      "start": 1199.42,
+      "end": 1200.52,
+      "label": "laughter"
+    },
+    {
+      "start": 1300.02,
+      "end": 1302.72,
+      "label": "silence"
+    },
+    {
+      "start": 1369.62,
+      "end": 1371.32,
+      "label": "typing"
+    },
+    {
+      "start": 1372.12,
+      "end": 1375.12,
+      "label": "typing"
+    },
+    {
+      "start": 1381.52,
+      "end": 1383.12,
+      "label": "typing"
+    },
+    {
+      "start": 1442.12,
+      "end": 1444.62,
+      "label": "drinking"
+    },
+    {
+      "start": 1510.27,
+      "end": 1511.77,
+      "label": "laughter"
+    },
+    {
+      "start": 1531.46,
+      "end": 1532.66,
+      "label": "laughter"
+    },
+    {
+      "start": 1533.96,
+      "end": 1535.37,
+      "label": "laughter"
+    },
+    {
+      "start": 1616.16,
+      "end": 1620.37,
+      "label": "typing"
+    },
+    {
+      "start": 1621.37,
+      "end": 1628.27,
+      "label": "typing"
+    },
+    {
+      "start": 1644.16,
+      "end": 1652.96,
+      "label": "typing"
+    },
+    {
+      "start": 1654.07,
+      "end": 1657.66,
+      "label": "typing"
+    },
+    {
+      "start": 1685.96,
+      "end": 1698.87,
+      "label": "typing"
+    },
+    {
+      "start": 1706.46,
+      "end": 1707.66,
+      "label": "laughter"
+    },
+    {
+      "start": 1717.46,
+      "end": 1725.96,
+      "label": "typing"
+    },
+    {
+      "start": 1726.07,
+      "end": 1731.37,
+      "label": "silence"
+    }
+  ]
+}

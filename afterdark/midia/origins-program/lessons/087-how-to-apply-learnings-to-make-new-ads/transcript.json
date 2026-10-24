@@ -1,0 +1,204 @@
+{
+  "lesson": {
+    "num": 87,
+    "id": "087-how-to-apply-learnings-to-make-new-ads",
+    "title": "How to apply learnings to make new ads",
+    "section": "🧠 How To Do Learnings",
+    "video": "87. How to apply learnings to make new ads Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 131.691,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=f5932eb1a1f64bcdb42aaa5d3eafcca8"
+  },
+  "generated_at": "2026-10-06T20:24:10-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (95% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 502,
+    "matched_tokens": 477,
+    "match_ratio": 0.95,
+    "segments_aligned": 16,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 131.691,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 232.3,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.64,
+      "speaker": "Presenter",
+      "text": "All right. Now, this video talks about how to apply learnings to make new ads, and this is just going to be a super quick one because it's basically what I just did, uh, in the previous learnings video,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 7.64,
+      "end": 14.62,
+      "speaker": "Presenter",
+      "text": "plus the actual ad that I made was how I applied my learnings. And again, so just to try to recap that for you guys,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 15.08,
+      "end": 22.9,
+      "speaker": "Presenter",
+      "text": "this ad specifically that I made here was an iteration of this initial sub-avatar test, okay? So, I processed learnings",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 22.9,
+      "end": 32.42,
+      "speaker": "Presenter",
+      "text": "on this ad, and I saw that 1,200 calories, you know, that specific angle and that specific headline worked the best out of, you know, the ones that had here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 32.7,
+      "end": 42.76,
+      "speaker": "Presenter",
+      "text": "Now again, it still didn't work that great overall, but this gave me a direction for me to then create an iteration. And again, the learnings that I took was, okay, we need to explain Dyglovera even",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 42.76,
+      "end": 54.54,
+      "speaker": "Presenter",
+      "text": "more, we need to explain the mechanism even more, and we also need to make sure that we execute this in a way that really helps people who are clearly in pain with this deficit, with eating less calories. Where,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 54.7,
+      "end": 60.86,
+      "speaker": "Presenter",
+      "text": "you know, this right here, these specific ads that we did learnings on, didn't really have much. We just said like, \"Hey, this is easy.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 61.04,
+      "end": 66.66,
+      "speaker": "Presenter",
+      "text": "And then I said, \"This increases GLP-1. This improves natural fullness. This reduces cravings. This enhances the ability to say no to junk.\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 67.0,
+      "end": 73.02,
+      "speaker": "Presenter",
+      "text": "And like, these are a lot of the same claims that a lot of competitors already making, right? Which is why I then changed it",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 73.02,
+      "end": 82.24,
+      "speaker": "Presenter",
+      "text": "to the mechanism of protecting your, um, protecting your hormones, rather than trying to, like, boost your GLP-1, just protect your GLP-1.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 82.24,
+      "end": 89.62,
+      "speaker": "Presenter",
+      "text": "So, it's kind of this new, uh, mechanism, a new category that I created for myself as a product that protects GLP-1 versus just boosting it, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 90.4,
+      "end": 95.62,
+      "speaker": "Presenter",
+      "text": "And so that is how I took my learnings and applied it to make new ads, and a specific ad in general.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 95.7,
+      "end": 104.78,
+      "speaker": "Presenter",
+      "text": "Now, if you haven't watched the, uh, video ads, then you guys can go back here, and you can watch the How to Write a Video Ad Part 1, Part 2. Um, that is how I took those learnings to make that ad, and and use that ad specifically.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 105.28,
+      "end": 116.5,
+      "speaker": "Presenter",
+      "text": "You guys may remember that I had this idea of like doing an angle around shutting up your stomach, but I decided, after doing learnings, that I would rather do a video on this, cuz I felt really good about this idea specifically, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 116.78,
+      "end": 128.0,
+      "speaker": "Presenter",
+      "text": "And so, again, very short video, but that is how you take the learnings that I, maybe you just watched in the previous video, and actually apply them into your ad, is is is you watch that learnings video, and then go watch me actually write the ads, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 128.08,
+      "end": 131.42,
+      "speaker": "Presenter",
+      "text": "So, that is how you take learnings and apply them to make new ads.",
+      "chunk": 0,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": []
+}

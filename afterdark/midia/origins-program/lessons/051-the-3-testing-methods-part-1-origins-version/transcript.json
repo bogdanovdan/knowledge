@@ -1,0 +1,1849 @@
+{
+  "lesson": {
+    "num": 51,
+    "id": "051-the-3-testing-methods-part-1-origins-version",
+    "title": "The 3 Testing Methods - Part 1 (Origins Version)",
+    "section": "📢 How To Create Ads",
+    "video": "51. The 3 Testing Methods - Part 1 (Origins Version) Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 1262.741,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=1abd03e1a61c48979d1cc9debb1a99b6"
+  },
+  "generated_at": "2026-10-06T20:24:08-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (97% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 5031,
+    "matched_tokens": 4870,
+    "match_ratio": 0.968,
+    "segments_aligned": 190,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 1,
+    "whisper_fills": 1,
+    "whisper_fill_words": 7,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 244.678,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 251.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 244.678,
+      "end": 528.194,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.983,
+      "wpm": 213.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 528.194,
+      "end": 881.496,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.993,
+      "wpm": 223.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 881.496,
+      "end": 1168.99,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 242.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1168.99,
+      "end": 1262.741,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 237.3,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [
+    {
+      "type": "filled_omission",
+      "start": 1262.3,
+      "end": 1262.7,
+      "chunk": 4,
+      "detail": "7 word(s) heard by local Whisper but missing from the Gemini text were inserted, marked [+ ...]: \"rollin'. You should be rockin' and rollin'.\""
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.98,
+      "speaker": "Presenter",
+      "text": "All right. So, in this video, we're going to talk about the simplified testing methods that you can use to actually test all of these angles.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 6.98,
+      "end": 10.94,
+      "speaker": "Presenter",
+      "text": "Now, I do have a more advanced method, but that's going to be sort of saved for Evolve.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 11.38,
+      "end": 19.56,
+      "speaker": "Presenter",
+      "text": "But my point with this is that for those of you that are just starting out, or just early stages, and you maybe you're in Evolve and you're watching this and you're, you know, kind of doing less than 100k per month.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 19.64,
+      "end": 27.84,
+      "speaker": "Presenter",
+      "text": "But basically, if you're less than 100k per month, this is going to be how you use these two strategies to test, and I'm going to keep it very, very simple, so that way there's there's just no confusion",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 27.84,
+      "end": 34.28,
+      "speaker": "Presenter",
+      "text": "and you're not in a place where you're trying to, you know, figure out what is the best way to test, and you can just focus on testing, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 34.46,
+      "end": 38.76,
+      "speaker": "Presenter",
+      "text": "So, I'm going to simplify this down for you, and then once you start to get to more scale, we can start to add more complexity.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 38.76,
+      "end": 43.88,
+      "speaker": "Presenter",
+      "text": "But again, in this video, I'm going to talk about the two methods, and then we're going to get into some examples that actually break this down.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 43.88,
+      "end": 50.2,
+      "speaker": "Presenter",
+      "text": "So, let's go ahead and share the screen. So, when it comes to how you go about testing all your angles, there's basically three testing methods, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 50.2,
+      "end": 58.7,
+      "speaker": "Presenter",
+      "text": "Now, the biggest thing when it comes to how you test angles and actually turning the information and angles that you found from the avatar training into ads",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 59.06,
+      "end": 68.1,
+      "speaker": "Presenter",
+      "text": "is that no matter what, no matter how you do it, no matter you use the Marksman method, like you can see down below, or the other two methods that I'm about to teach you,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 68.44,
+      "end": 73.78,
+      "speaker": "Presenter",
+      "text": "all that matters is that you're aware. And so if something starts getting spend, and something starts working,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 74.46,
+      "end": 83.9,
+      "speaker": "Presenter",
+      "text": "just know that you're aware, oh, hey, this was this ad that came from this specific sub-avatar, I should optimize that further, because, again, you are aware, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 84.62,
+      "end": 88.18,
+      "speaker": "Presenter",
+      "text": "Now, if you're struggling to combine things, which hopefully you aren't, the main, main takeaway is that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 88.42,
+      "end": 95.22,
+      "speaker": "Presenter",
+      "text": "So, no matter what, no matter how you test, if you see something working, because you've gone through the avatar training, you're going to be able to understand why.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 95.56,
+      "end": 100.56,
+      "speaker": "Presenter",
+      "text": "And not just why the ad is working, but why somebody cares about the ad, which is the most important thing, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 100.98,
+      "end": 109.18,
+      "speaker": "Presenter",
+      "text": "So, now again, at this point of doing the avatar work that we just did, you should have a ton of angles that, you know, you are ready to basically put into concepts and go and test.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 109.46,
+      "end": 118.66,
+      "speaker": "Presenter",
+      "text": "The question is is how do we actually go about testing all these angles so that we have some kind of organized fashion, and we're not just, what is basically the third method, shotgunning things into the account?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 118.66,
+      "end": 125.74,
+      "speaker": "Presenter",
+      "text": "Which even then, it's fine. If you just want to shotgun things for the sake of simplicity, you can. Just put a bunch of things together and, again, hopefully show you a better way to do it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 125.74,
+      "end": 129.8,
+      "speaker": "Presenter",
+      "text": "But at the end of the day, I just want you guys understanding that you need to go and test these angles, okay? And so,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 129.8,
+      "end": 136.06,
+      "speaker": "Presenter",
+      "text": "that is what I want to discuss. And so the first type, or again, there's three types of ways that you can test angles or test ads in general.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 136.06,
+      "end": 140.1,
+      "speaker": "Presenter",
+      "text": "And so the first type of way that we test ads is something called the Marksman method, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 140.4,
+      "end": 144.4,
+      "speaker": "Presenter",
+      "text": "This is where you test a lot of things at once to see what sticks, but you do it in a controlled environment.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 144.98,
+      "end": 147.58,
+      "speaker": "Presenter",
+      "text": "Okay? Now, if you're wondering, why is this called Marksman? Okay.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 147.9,
+      "end": 155.3,
+      "speaker": "Presenter",
+      "text": "The reason it's called Marksman method is, for some reason, a lot of people in advertising refer to, you know, advertising strategies as like gun analogies.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 155.44,
+      "end": 159.52,
+      "speaker": "Presenter",
+      "text": "I also play Call of Duty, but it doesn't really matter, and I was not even that good at COD. But",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 159.52,
+      "end": 165.94,
+      "speaker": "Presenter",
+      "text": "most of you are probably wondering like, you know, or most of you are probably already aware of the other two, which is like shotgun and sniper.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 166.18,
+      "end": 172.16,
+      "speaker": "Presenter",
+      "text": "Sniper is like, oh, just hone in on one thing, and then shotgun is like, oh, just blast and test everything. Marksman is the best of both,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 172.66,
+      "end": 179.76,
+      "speaker": "Presenter",
+      "text": "okay? And so with this method, you're not as honed in as a sniper, but you're also not as careless as a shotgunner. Again, you are the best of both.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 180.02,
+      "end": 189.14,
+      "speaker": "Presenter",
+      "text": "So, pros of the Marksman method is you are much more fluid, okay, and you don't have this, stay within these lines, and at the end of the day, you're just really focused on making the best ads possible.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 189.54,
+      "end": 195.26,
+      "speaker": "Presenter",
+      "text": "Now, mainly, again, just to focus on like, what is the goal? Why are we doing this? Why are we using this method to test ads?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 195.72,
+      "end": 200.66,
+      "speaker": "Presenter",
+      "text": "Well, what you're looking to get is you're looking to get a direction for you to go in.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 201.16,
+      "end": 208.82,
+      "speaker": "Presenter",
+      "text": "That is all, okay? And so direction can be defined as identifying the specific angle that you should be going deeper on,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 208.82,
+      "end": 214.9,
+      "speaker": "Presenter",
+      "text": "aka doing more research and iterating on, to create more scalable ads, and there's an example coming down below.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 215.04,
+      "end": 219.26,
+      "speaker": "Presenter",
+      "text": "At the end of the day, your goal when you test with the Marksman method is, what do people care about?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 219.54,
+      "end": 224.0,
+      "speaker": "Presenter",
+      "text": "Oh, it seems like people care about this thing or this angle? Okay, great. I'm going to go deeper on it,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 224.4,
+      "end": 231.36,
+      "speaker": "Presenter",
+      "text": "okay? Now, I'm going to I'm going to show you how to go deeper, but the cons of the Marksman method is you aren't always able to test things, you know, the best way possible,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 231.36,
+      "end": 238.66,
+      "speaker": "Presenter",
+      "text": "because you're kind of restricting yourself, especially when we're putting this into the 3:2:2 method, which you will see in a second.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 239.1,
+      "end": 244.18,
+      "speaker": "Presenter",
+      "text": "You're only allowing yourself really one hook or one headline for that specific angle.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 244.74,
+      "end": 254.34,
+      "speaker": "Presenter",
+      "text": "Okay? And so you're not as gonna confi- you're not gonna be able to say as confidently like, \"Oh, this is this angle isn't working,\" because you only tried to execute it one specific way,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 254.74,
+      "end": 263.48,
+      "speaker": "Presenter",
+      "text": "okay? And at the end of the day, it's hard to figure out why an ad doesn't work and why an ad works, in general. And again, you're gonna be better at it than 99% of people from going through the avatar training,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 263.52,
+      "end": 272.36,
+      "speaker": "Presenter",
+      "text": "but overall, just know that you're not able to go as deep into a specific ad angle when you're doing the marksman method to be able to fully validate that angle, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 272.36,
+      "end": 285.46,
+      "speaker": "Presenter",
+      "text": "But what you do get as a trade-off is you can test more at once in order to ga- to gain or find a direction that you can then go deeper on. Okay, and so, an example of this, just so I can pull one up for you guys,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 285.72,
+      "end": 296.54,
+      "speaker": "Presenter",
+      "text": "these ads do have something in common. They're using superlatives, and so, when you're testing concepts, they want you need you need them to be grouped by something, right? So maybe if you're doing an us versus them, right,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 296.54,
+      "end": 309.22,
+      "speaker": "Presenter",
+      "text": "instead of doing an us versus them on one angle, and then you have three different ways of saying that same angle, you're basically gonna do three different angles, or sorry, one different angle per per variation, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 309.76,
+      "end": 319.72,
+      "speaker": "Presenter",
+      "text": "And so, just just to be crystal clear on that, first doctor-designed humidifier, the world's first stainless steel humidifier, the world's cleanest humidifier. These are three different angles that we're targeting.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 319.72,
+      "end": 328.12,
+      "speaker": "Presenter",
+      "text": "And so, for the sake of simplicity before we get into sniper method, when it comes to the marksman method, just do it on images, and that's it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 328.44,
+      "end": 333.76,
+      "speaker": "Presenter",
+      "text": "Don't worry about videos. Just say, \"Hey, whenever I'm testing images, I'm gonna do the marksman method.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 334.2,
+      "end": 342.48,
+      "speaker": "Presenter",
+      "text": "Okay? So, whether you do an us versus them, you do a meme-style ad, or like whatever it is, whatever your concept is. Say you have, you know, three sub-avatars that you want to test.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 343.0,
+      "end": 353.14,
+      "speaker": "Presenter",
+      "text": "Great. Pick the best angle for each one of those sub-avatars and put them inside of this, and then test them individ- like so that'll be one concept, right? \"Initial sub-avatar test.\"",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 353.36,
+      "end": 358.7,
+      "speaker": "Presenter",
+      "text": "That is your concept. Again, concept can be anything. What is the concept explanation? And we're gonna get into another module that shows",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 358.7,
+      "end": 367.86,
+      "speaker": "Presenter",
+      "text": "examples of all this stuff to make it even more crystal clear, but I want to focus on the the fundamentals here of understanding the strategy behind this, okay? But say you're going to, concept is testing sub-avatars,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 368.16,
+      "end": 379.38,
+      "speaker": "Presenter",
+      "text": "and then your concept explanation is, \"I'm trying to figure out what sub-avatar cares the most about this desire.\" Okay, great. Let me go ahead, and in the three, so in the 3-2-2, there's three variations, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 379.8,
+      "end": 387.54,
+      "speaker": "Presenter",
+      "text": "Those three variations are gonna be the three different angles, okay? So again, if we just go back, let me pull an example from the training.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 387.82,
+      "end": 398.84,
+      "speaker": "Presenter",
+      "text": "All right, perfect. So again, I have this no-screener avatar that I found. Angle number one that I got was your discipline is being wasted. Angle number two is complete your sleep protocol. Angle number three was protect your melatonin production. Okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 399.3,
+      "end": 407.48,
+      "speaker": "Presenter",
+      "text": "These are the three angles that I would test in this one concept, but here is where I'm gonna be very, very It's gonna be very easy for you guys to understand:",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 407.84,
+      "end": 414.28,
+      "speaker": "Presenter",
+      "text": "You're just going to pick the best one of these. You're not going to pick all three, you're just going to pick one, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 414.66,
+      "end": 422.6,
+      "speaker": "Presenter",
+      "text": "And so, when you're testing using the marksman's method, you are picking one angle for your variation, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 422.6,
+      "end": 430.28,
+      "speaker": "Presenter",
+      "text": "And so if we even go back, even one more step, going back to the definitions: 3-2-2 means three creatives, two body copies, two headlines, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 430.7,
+      "end": 442.14,
+      "speaker": "Presenter",
+      "text": "And so, in the variation side of things, rather than doing, if we go back to this angle, rather than doing one angle and three different ways of saying it—that's gonna be sniper method, which we're gonna get into—",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 442.44,
+      "end": 449.74,
+      "speaker": "Presenter",
+      "text": "in the marksman method, we're gonna pick this one angle, and then we're going to pick one hook. That is it, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 450.02,
+      "end": 455.52,
+      "speaker": "Presenter",
+      "text": "And then your second variation is gonna be angle number two, and let's say you like this hook best, great.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 455.9,
+      "end": 465.32,
+      "speaker": "Presenter",
+      "text": "And then the third variation, again from the 3-2-2, is going to be this angle, and you pick the best one here, and let's say we pick this one, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 465.66,
+      "end": 473.08,
+      "speaker": "Presenter",
+      "text": "And so, when you do things that way, you're covering a larger surface area to be able to see what do people care about.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 473.34,
+      "end": 482.82,
+      "speaker": "Presenter",
+      "text": "Do they care about protecting their melatonin? Do they do they care about completing their sleep protocol, or do they care about wasting their discipline? What angle do they care about? Okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 483.14,
+      "end": 488.5,
+      "speaker": "Presenter",
+      "text": "That is the goal. That is what you're doing with marksman method is you're, again, trying to get a direction.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 488.62,
+      "end": 496.7,
+      "speaker": "Presenter",
+      "text": "And just so it's clear, the reason why I'm telling you guys to only do this with image ads, especially if you're sub-100k per month, is because you don't need to be more complicated than that.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 496.96,
+      "end": 504.76,
+      "speaker": "Presenter",
+      "text": "Hey, you know what, image ads are gonna have one purpose for me, because, again, and I'm gonna explain them a little bit deeper down below in the examples section where I show you more examples. But",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 504.76,
+      "end": 511.66,
+      "speaker": "Presenter",
+      "text": "that is the marksman method. That is what you are going to do. You're going to test multiple angles, okay, on your one concept.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 511.94,
+      "end": 520.4,
+      "speaker": "Presenter",
+      "text": "And so your concept, just going back, could be, \"I'm going to test this no-screener avatar,\" and then I'm going to do angle one, angle two, angle three, those are my three variations.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 520.82,
+      "end": 527.8,
+      "speaker": "Presenter",
+      "text": "And because, again, we're doing with marksman method, we're only going to have one way of communicating this angle.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 527.8,
+      "end": 529.22,
+      "speaker": "Presenter",
+      "text": "K?",
+      "chunk": 2,
+      "timing": "interpolated"
+    },
+    {
+      "id": 72,
+      "start": 529.22,
+      "end": 535.48,
+      "speaker": "Presenter",
+      "text": "So that is the marksman method. That is, hopefully, as clear as I can make it for you guys, especially for those of you that are sub-100k per month,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 535.8,
+      "end": 538.48,
+      "speaker": "Presenter",
+      "text": "to just test it on images and hopefully that makes more sense.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 538.72,
+      "end": 540.58,
+      "speaker": "Presenter",
+      "text": "Again, you're taking bigger swings,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 540.58,
+      "end": 543.92,
+      "speaker": "Presenter",
+      "text": "and you're going to make those ads fully congruent like I showed you.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 543.92,
+      "end": 547.74,
+      "speaker": "Presenter",
+      "text": "You saw in the doctor design one and the world's first stainless steel,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 547.74,
+      "end": 552.86,
+      "speaker": "Presenter",
+      "text": "that I had a doctor in the doctor design one and I had the stainless steel showing in the stainless steel one. Okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 552.9,
+      "end": 558.62,
+      "speaker": "Presenter",
+      "text": "So make the ads fully congruent. That's what congruency means, is that you make things that they they they go together, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 558.94,
+      "end": 561.9,
+      "speaker": "Presenter",
+      "text": "So that is the goal with the marksman method is, again, to gain direction.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 562.5,
+      "end": 563.88,
+      "speaker": "Presenter",
+      "text": "Now, sniper method.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 563.88,
+      "end": 570.16,
+      "speaker": "Presenter",
+      "text": "This is when we test within a strict environment to get closer to significant learnings as fast as possible, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 570.42,
+      "end": 576.34,
+      "speaker": "Presenter",
+      "text": "Now, unlike the marksman method above, where you are essentially testing multiple angles at once, so multiple angles per concept,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 576.76,
+      "end": 582.4,
+      "speaker": "Presenter",
+      "text": "the sniper method is all about testing different execution styles of a specific angle, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 582.74,
+      "end": 592.6,
+      "speaker": "Presenter",
+      "text": "So once you find an angle, doing the marksman method, basically, you can leverage the sniper method to go all-in on that angle in order to create the best ads possible.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 593.02,
+      "end": 596.28,
+      "speaker": "Presenter",
+      "text": "Now the pros of this is you have a clear understanding of what works.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 596.5,
+      "end": 601.54,
+      "speaker": "Presenter",
+      "text": "You're going to be more organized, and you're going to learn how to basically communicate to your avatar, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 601.8,
+      "end": 608.1,
+      "speaker": "Presenter",
+      "text": "And on top of that, how, like you're going to be able to figure out, okay, like did I fully validate and test this angle?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 608.26,
+      "end": 617.1,
+      "speaker": "Presenter",
+      "text": "Because if we go back and take a look at this, right, this one way of communicating \"Your discipline is being wasted\" might not be the most effective way of communicating it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 617.44,
+      "end": 622.44,
+      "speaker": "Presenter",
+      "text": "But here's the beauty, okay? When you're testing with marksman method, you're just trying to get some kind of direction.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 622.7,
+      "end": 628.94,
+      "speaker": "Presenter",
+      "text": "Like, hey, are people looking, like do people like the idea of not wasting their discipline, or do they like the idea of protecting their melatonin, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 628.94,
+      "end": 632.82,
+      "speaker": "Presenter",
+      "text": "We're only communicating it one way. It might not be converting that great,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 633.04,
+      "end": 637.92,
+      "speaker": "Presenter",
+      "text": "but at the end of the day, we're seeing that more people care about melatonin production than these other two things.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 638.22,
+      "end": 640.26,
+      "speaker": "Presenter",
+      "text": "That doesn't mean that these other angles won't work,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 640.46,
+      "end": 645.14,
+      "speaker": "Presenter",
+      "text": "but now what we can do is we can apply the sniper methodology here, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 645.52,
+      "end": 652.22,
+      "speaker": "Presenter",
+      "text": "And now we can focus a concept on this angle, and then do three different ways of executing it, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 652.42,
+      "end": 654.46,
+      "speaker": "Presenter",
+      "text": "We can communicate it three different ways.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 654.64,
+      "end": 657.92,
+      "speaker": "Presenter",
+      "text": "And that's not just with like hooks or headlines. You could also do that with formats.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 657.92,
+      "end": 660.76,
+      "speaker": "Presenter",
+      "text": "You could also just do that with overall copywriting strategy.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 661.38,
+      "end": 663.84,
+      "speaker": "Presenter",
+      "text": "At the end of the day, it comes down to the execution of it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 664.16,
+      "end": 671.22,
+      "speaker": "Presenter",
+      "text": "So for sniper method specifically, let's say that that initial marksman test—and I know there's a lot of tongue twisters here. I might just call it the MM.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 671.9,
+      "end": 680.92,
+      "speaker": "Presenter",
+      "text": "Let's just say if the initial marksman method test shows you that melatonin production and protecting it is what people are clicking on, and is getting spend in the ad account, and maybe getting a couple of purchases,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 681.48,
+      "end": 684.32,
+      "speaker": "Presenter",
+      "text": "well, now you can use the sniper method to go and do a video, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 684.32,
+      "end": 693.46,
+      "speaker": "Presenter",
+      "text": "And when you do that, again, this allows you to double down on the direction that you gain, and fully start to validate specific angles, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 693.94,
+      "end": 699.84,
+      "speaker": "Presenter",
+      "text": "Now, the cons of this, and the reason why I'm not recommending you guys to, you know, do sniper method really for for images,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 699.84,
+      "end": 706.4,
+      "speaker": "Presenter",
+      "text": "is because we found that when we get direction from images and then do a video version, it just crushes way better, or just like usually scales way more.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 706.4,
+      "end": 714.42,
+      "speaker": "Presenter",
+      "text": "That doesn't mean you can't do more image ads, like doesn't mean you can't use the sniper method to like go and test other headlines on that angle that's working,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 714.84,
+      "end": 719.34,
+      "speaker": "Presenter",
+      "text": "but I'm just telling you that we found, when we go and do video versions, it usually works a lot better.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 719.62,
+      "end": 727.56,
+      "speaker": "Presenter",
+      "text": "But now, again, if you're doing this initially, like I I do not recommend using sniper method initially at all for testing images. It's just dumb.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 727.76,
+      "end": 731.34,
+      "speaker": "Presenter",
+      "text": "You're taking too small of swings, and you're taking way too long to test things.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 731.34,
+      "end": 735.88,
+      "speaker": "Presenter",
+      "text": "Just run with marksman's method, get a direction, and then use sniper method to double down.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 736.1,
+      "end": 746.36,
+      "speaker": "Presenter",
+      "text": "And now, when it comes to the initial test for videos, what I'm trying to do to simplify things down for you guys, is just use, just use the sniper method for videos, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 746.5,
+      "end": 753.92,
+      "speaker": "Presenter",
+      "text": "Even if you have, say say you get these three angles and you really want to make a video around how discipline is being wasted, or how, again,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 753.92,
+      "end": 759.4,
+      "speaker": "Presenter",
+      "text": "maybe you want to do the melatonin production angle and you want to make a video on it, then just do the sniper method.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 759.4,
+      "end": 768.14,
+      "speaker": "Presenter",
+      "text": "Just focus on this one angle, and then focus on making the best video ad that you can about this angle, because that is going to be the best thing for you guys to do, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 768.48,
+      "end": 775.8,
+      "speaker": "Presenter",
+      "text": "And again, sniper method is really, like the cons of it, is like it's less fluid, it restricts your creativity sometimes, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 776.12,
+      "end": 782.56,
+      "speaker": "Presenter",
+      "text": "I wouldn't say it can hold you back from making the best ads, but a lot of the times when you're focusing yourself to just focus on one angle,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 782.62,
+      "end": 788.68,
+      "speaker": "Presenter",
+      "text": "what can end up happening is like you might avoid, you know, trying other angles out in the beginning, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 788.7,
+      "end": 794.16,
+      "speaker": "Presenter",
+      "text": "And so now you're just like, you're, you're solely, you're overleveraged is is is what's happening, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 794.28,
+      "end": 801.12,
+      "speaker": "Presenter",
+      "text": "And you're and you're just betting on one specific angle in one specific direction, when you don't even know what is working yet, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 801.38,
+      "end": 810.1,
+      "speaker": "Presenter",
+      "text": "And so overall, just know that you're able to go much deeper on a specific ad concept to fully validate it, and so to fully be able to look at it and be like, you know what,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 810.34,
+      "end": 815.62,
+      "speaker": "Presenter",
+      "text": "this melatonin angle, I've tested three different sniper videos on this, and it just didn't work.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 815.62,
+      "end": 820.9,
+      "speaker": "Presenter",
+      "text": "Now, is my execution shit? It probably is, and we're going to talk about the execution problem in another module,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 821.06,
+      "end": 832.31,
+      "speaker": "Presenter",
+      "text": "but at the end of the day, you can probably have some kind of, you know, validation that, yeah, you know what, however I'm presenting this melatonin angle is not working, so I should probably move on, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 832.53,
+      "end": 843.31,
+      "speaker": "Presenter",
+      "text": "And so at the end of the day, these, how these two work together, like I mentioned, is marksman method, in the beginning, is used first to find direction on what angles can be winners. And again, just use that for images. Don't worry about videos.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 843.79,
+      "end": 852.93,
+      "speaker": "Presenter",
+      "text": "If you're going to do videos, just use the sniper method, regardless if it's an initial swing or regardless if it's an iteration of an image ad, or whatever it may be. Just use the sniper method for videos.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 853.33,
+      "end": 857.01,
+      "speaker": "Presenter",
+      "text": "But just so you can understand, the marksman method is a great way to just gain direction.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 857.41,
+      "end": 862.91,
+      "speaker": "Presenter",
+      "text": "Once you have direction, and you know what your target is, pull out the sniper and hone in on that target, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 863.21,
+      "end": 867.89,
+      "speaker": "Presenter",
+      "text": "So again, just to be fully clear, when you have one angle, you're taking more of a sniper approach, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 868.07,
+      "end": 870.67,
+      "speaker": "Presenter",
+      "text": "So it's the same angle, different ways to say it, or show it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 870.85,
+      "end": 877.73,
+      "speaker": "Presenter",
+      "text": "When you have multiple angles that you're testing, you're taking more of a marksman approach, which just means different angles that you're testing, and usually only one way to say it.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 878.09,
+      "end": 880.97,
+      "speaker": "Presenter",
+      "text": "Number one main takeaway, again, going back to what I said up here,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 882.49,
+      "end": 889.91,
+      "speaker": "Presenter",
+      "text": "K? Regardless of the approach. And if you're like, \"Sniper, marksman, what is happening? I I don't get it,\" just focus on making the best ads that you can,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 890.25,
+      "end": 895.31,
+      "speaker": "Presenter",
+      "text": "and then when you're processing feedback loops, be aware of the avatars that you're targeting. K? That's it.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 895.85,
+      "end": 902.75,
+      "speaker": "Presenter",
+      "text": "Now, if we go deeper down here and you guys can read this, I'm just kind of skipping over it, you just need to understand",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 902.75,
+      "end": 911.69,
+      "speaker": "Presenter",
+      "text": "that like you guys are gonna go from taking learnings of like, \"Oh, video ads work,\" or, \"This This has a good hook rate,\" or, \"We should reuse this clip,\" or, \"We should test a UGC version,\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 911.69,
+      "end": 921.37,
+      "speaker": "Presenter",
+      "text": "to completing learnings that, you know, how where you're gonna be like, \"Oh, it's this sub-avatar that's working,\" or, \"Oh, this angle specifically is getting attention. Customers care about this.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 921.37,
+      "end": 928.23,
+      "speaker": "Presenter",
+      "text": "And then being like, \"Okay. I should go and do more research on that angle. What else can I learn about melatonin? What else are these people taking, right?\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 928.59,
+      "end": 932.33,
+      "speaker": "Presenter",
+      "text": "\"What What are their experiences? What are their behaviors? How does it make them feel, right?\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 932.73,
+      "end": 936.51,
+      "speaker": "Presenter",
+      "text": "Then you go deeper on actually creating ads for that person,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 936.51,
+      "end": 945.33,
+      "speaker": "Presenter",
+      "text": "and you're like, \"Okay, well, how can I maybe execute this in a way that creates more curiosity? How can I get someone to keep watching? I know people care about melatonin, that's the angle that people want,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 945.61,
+      "end": 951.63,
+      "speaker": "Presenter",
+      "text": "but how can I create more curiosity? How can I get more attention?\" Now you can eliminate the idea of the angle being the problem,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 951.63,
+      "end": 956.33,
+      "speaker": "Presenter",
+      "text": "and focus purely on execution, which is, again, probably the hardest part.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 956.63,
+      "end": 964.07,
+      "speaker": "Presenter",
+      "text": "But you can be a bit of a moron when it comes to writing copy, and if you just have a great sub-avatar and a great angle that you've been able to build,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 964.49,
+      "end": 972.41,
+      "speaker": "Presenter",
+      "text": "you can have AI mediocre copy and still be able to find ads that can get purchases because the angle is relatable. K?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 973.09,
+      "end": 980.51,
+      "speaker": "Presenter",
+      "text": "And so, again, the faster that you can figure out why something is not winning, the faster you can scale. And the faster you figure out why something is winning, again, the faster you can scale.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 980.61,
+      "end": 986.43,
+      "speaker": "Presenter",
+      "text": "So when we use marksman method in the beginning to find our direction, and we figure out, \"Okay, these aren't really winning, but this this is getting\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 986.59,
+      "end": 996.09,
+      "speaker": "Presenter",
+      "text": "Maybe it's not winning, but it's it's getting some spend and it's getting some purchases, and it's doing okay. Let me double down on this so I can see if that is actually if that is actually why it's winning. And then, boom!",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 996.37,
+      "end": 997.71,
+      "speaker": "Presenter",
+      "text": "Next thing you know, you guys are scaling.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 998.03,
+      "end": 1005.05,
+      "speaker": "Presenter",
+      "text": "K, now the third and final method is something called the shotgun method, where you just touch you just test a bunch of random things at once and and see if something sticks.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 1005.53,
+      "end": 1013.63,
+      "speaker": "Presenter",
+      "text": "And, again, the shotgun method is when you just launch a bunch of ads and hope something hits. And if you guys are super confused, and you're like, \"You know what, Spencer, I'm just going to launch a bunch of ads.\" Go ahead. I don't care. K?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 1013.79,
+      "end": 1016.29,
+      "speaker": "Presenter",
+      "text": "Again, the main goal is that you guys are aware, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 1016.29,
+      "end": 1024.35,
+      "speaker": "Presenter",
+      "text": "Now, the right way to do the shotgun method, because we do use the shotgun method, is through TikTok Shop or through some kind of intense product seeding or UGC strategy.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 1024.73,
+      "end": 1033.25,
+      "speaker": "Presenter",
+      "text": "You're just like you're getting in content, and you're just throwing it in your ad account. Ideally, you're cutting it up, and then you're throwing it in your ad account. You're like, \"All right, let's just test it. Let's just test it,\" okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 1033.25,
+      "end": 1040.01,
+      "speaker": "Presenter",
+      "text": "And you get a bunch of content from a bunch of different creators, and you don't really have time to go through and strategize every single one or go really deep,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 1040.01,
+      "end": 1043.97,
+      "speaker": "Presenter",
+      "text": "so you just launch all the content in your ad account and you just hope something hits. Okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 1044.31,
+      "end": 1053.87,
+      "speaker": "Presenter",
+      "text": "And then if something does hit, you can then process learnings to identify the angle, identify a potential sub-avatar, find out why do people care about this,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 1053.87,
+      "end": 1061.39,
+      "speaker": "Presenter",
+      "text": "and then use the marksman method, or, I would say, ideally the sniper method, to refine it to create more winning ads. And this is actually something that we did",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 1061.39,
+      "end": 1065.07,
+      "speaker": "Presenter",
+      "text": "recently to scale a brand to $40,000 a day in spend. K?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 1065.45,
+      "end": 1074.25,
+      "speaker": "Presenter",
+      "text": "We had something hit from our shotgun UGC method. Our team was like, \"Oh, shit! Let's use sniper method and double down on this specific angle because we think this is why people care.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 1074.57,
+      "end": 1080.03,
+      "speaker": "Presenter",
+      "text": "And guess what? We went from 10k a day in spend to 40k a day in spend just from that approach. Okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 1080.29,
+      "end": 1087.37,
+      "speaker": "Presenter",
+      "text": "So, again, I can't share the exact ad. I actually shared it with people in Evolve, but I can't share it anymore because the client asked me not to.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 1087.57,
+      "end": 1094.17,
+      "speaker": "Presenter",
+      "text": "But the number one mistake that brands make, if you ask me, and the and the wrong way to do shotgun strategy is with your internal team.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 1094.43,
+      "end": 1102.71,
+      "speaker": "Presenter",
+      "text": "Okay, you and an editor or even if it's just you, do not be shotgunning, because it's so much better for you to complete learnings on your ads",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 1102.71,
+      "end": 1111.71,
+      "speaker": "Presenter",
+      "text": "and do less ads. Obviously, you still need to do ads, like bare, bare minimum for anyone, if you ask me, is one ad per day, or or one concept per day, which is three ads total.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 1112.13,
+      "end": 1116.19,
+      "speaker": "Presenter",
+      "text": "That is bare minimum. Ideally, some of you guys should be able to do one to two concepts per day,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 1116.19,
+      "end": 1123.11,
+      "speaker": "Presenter",
+      "text": "and then from there, complete feedback loops. Like, \"Hey, I made this ad, I thought it was good. Why isn't working? Oh, it's not working because of this.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 1123.55,
+      "end": 1130.33,
+      "speaker": "Presenter",
+      "text": "At least that's what you think. \"Okay, well, let me test that again and let me see if if if I change this, if that actually works. Oh, boom! Look, now it's working.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 1130.79,
+      "end": 1138.59,
+      "speaker": "Presenter",
+      "text": "\"Holy crap! I completed a feedback loop and now it's working, and now I'm scaling and now I know what's working, and now I'm gonna make more ads around that.\" And next thing you know, you're spending a couple thousand dollars a day. K?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 1139.07,
+      "end": 1142.91,
+      "speaker": "Presenter",
+      "text": "And so, again, my rule of thumb is do not use shotguns in 2025 when it comes to your creative strategy.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 1143.27,
+      "end": 1150.43,
+      "speaker": "Presenter",
+      "text": "Don't just blast dozens of iterations and dozens of videos with small, little teeny, tiny hook changes and just like spray and pray, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 1150.75,
+      "end": 1156.93,
+      "speaker": "Presenter",
+      "text": "Hope that something hits because that's how people think. You know, when they think like, \"Oh, volume is the only answer. You've just gotta do more reps.\"",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 1156.93,
+      "end": 1161.79,
+      "speaker": "Presenter",
+      "text": "It's not about doing micro iterations. You don't learn from doing micro iterations.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 1161.79,
+      "end": 1168.63,
+      "speaker": "Presenter",
+      "text": "You learn from creating entire concepts. And so if you can do four to five",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 1168.63,
+      "end": 1175.39,
+      "speaker": "Presenter",
+      "text": "net-new concepts a day, then do four to five net-new concepts a day. But most people can't focus that long,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1175.39,
+      "end": 1179.39,
+      "speaker": "Presenter",
+      "text": "and most people can't do that. So just do one or two, and that's it. Because yes,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1179.39,
+      "end": 1182.69,
+      "speaker": "Presenter",
+      "text": "it is going to take volume for you to get better—for you to get better. But",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 1182.69,
+      "end": 1187.83,
+      "speaker": "Presenter",
+      "text": "volume is not like, \"Oh, let me see this 12 different ways.\" Or \"Let me take this headline that I wrote",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 1187.83,
+      "end": 1191.47,
+      "speaker": "Presenter",
+      "text": "and give it to Claude, and say, 'Give it to me eight different ways.'\" That's just stupid. And, again,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 1191.47,
+      "end": 1196.63,
+      "speaker": "Presenter",
+      "text": "Meta is not rewarding that, especially with this new algorithm updates and with everything that's happening with AI.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1196.63,
+      "end": 1201.79,
+      "speaker": "Presenter",
+      "text": "It's all these teeny-tiny, little iterations. Meta doesn't care. It's just grouping all those ads and saying, \"These are the same ads.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1202.01,
+      "end": 1205.77,
+      "speaker": "Presenter",
+      "text": "So you're just wasting your time, okay? And so, again, the shotgun method",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1205.77,
+      "end": 1211.27,
+      "speaker": "Presenter",
+      "text": "should only be used for high-volume content strategy with creators, where you don't have to think about it,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1211.27,
+      "end": 1217.37,
+      "speaker": "Presenter",
+      "text": "maybe you give them a framework and that's it, and then the creators do all the work. You need to stay locked in on testing, again,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1217.37,
+      "end": 1224.25,
+      "speaker": "Presenter",
+      "text": "through the sniper method or through the marksman method. And to put this on easy mode for you, when it comes to testing images initially,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1224.25,
+      "end": 1230.83,
+      "speaker": "Presenter",
+      "text": "use the marksman method. Take bigger swings. When it comes to testing videos, again, usually iterations",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1230.83,
+      "end": 1237.83,
+      "speaker": "Presenter",
+      "text": "of your images that are getting spent or are—have shown you a direction, use the sniper method. And then if you want to start by testing videos in general,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 1237.83,
+      "end": 1243.29,
+      "speaker": "Presenter",
+      "text": "to avoid any confusion, if it's an initial, new angle that you're testing, but you want to do a video version",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1243.29,
+      "end": 1249.33,
+      "speaker": "Presenter",
+      "text": "because you're really confident in it, then do the sniper method, because I want you guys to be making the best ads that you can,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1249.77,
+      "end": 1254.15,
+      "speaker": "Presenter",
+      "text": "okay? So hopefully that makes sense, and I hope this helps you guys like organize",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 1254.67,
+      "end": 1259.27,
+      "speaker": "Presenter",
+      "text": "everything that you have going on with the angles, know how to go and test them. And then, again, with the upcoming modules,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1259.29,
+      "end": 1262.33,
+      "speaker": "Presenter",
+      "text": "this stuff should be very, very clear, and you guys should be rocking and rolling.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1262.33,
+      "end": 1262.71,
+      "speaker": "Presenter",
+      "text": "rollin'. You should be rockin' and rollin'.",
+      "chunk": 4,
+      "timing": "whisper",
+      "source": "local_whisper_fill"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": []
+}

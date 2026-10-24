@@ -1,0 +1,39 @@
+{
+  "lesson": {
+    "num": 90,
+    "id": "090-how-to-complete-feedback-loops-12-questions",
+    "title": "How to complete feedback loops (12 questions)",
+    "video": "90. How to complete feedback loops (12 questions) Origins Program ($0-$100k mo) Evolve.mp4"
+  },
+  "generated_at": "2026-10-06T20:20:50-03:00",
+  "model": "gemini-3.8-flash",
+  "frame_resolution": "1112x720 (native)",
+  "candidates_reviewed": 4,
+  "candidates_unreviewed": 0,
+  "frames": [
+    {
+      "t": 55.0,
+      "time": "00:00:55",
+      "frame": "frames/090_00-00-55.png",
+      "category": "webpage",
+      "title": "14 Questions to Review Ads That Make $100k",
+      "on_screen": "How To Review Ads That Make $100k\n\nApplication:\nQuestions to ask yourself before submitting your brief for video ads\n1. Does the first 1-2 seconds of this ad hook the RIGHT user in & KEEP them hooked in?\n2. Is this a video that your potential customers would want to see?\n3. Does the copywriting create a clear image / visual in the user's mind?\n4. Does this video feel native to the platform?\n5. Does this video contain a label for who the type of person is?\n6. Would this video make someone smile or laugh?\n7. Is the video relatable?\n8. Does this video actually look like an ad?\n9. Gut check - does this video feel authentic?\n10. What learnings of previous winning ads have we applied to this ad?\n11. Does the ad educate the user in a creative way on how to achieve their core desire?\n12. Does this video tell a story your ideal customer would find interesting?\n13. Have you applied escalation to exaggerate your claim in a clear and relatable way?\n14. Does this ad separate your brand from the competition?",
+      "not_in_transcript": "Community platform interface: Skool URL (skool.com/evolve-free/classroom/...), left sidebar showing course structure ('Why Do Ads Work', 'What Ads To Make', 'Action Item: Write Your Ad Brief', 'Winning Ad Examples That Made $100k+').",
+      "legibility": "clear",
+      "candidate_id": "F001",
+      "drive_url": "https://drive.google.com/file/d/1BephitZa_zXxg5gcdbBPARxAw_mZ5kgk/view?usp=drivesdk"
+    },
+    {
+      "t": 90.0,
+      "time": "00:01:30",
+      "frame": "frames/090_00-01-30.png",
+      "category": "software_demo",
+      "title": "Meta Ads Manager Scaling Proof Screenshot",
+      "on_screen": "Meta Ads Manager reporting table:\nDate: Nov 2, 2024\nCampaign: EAM//Acquisition//[blurred]//US//CBO\nBudget: $35,000.00 Daily\nAmount spent: $50,429.55\nResults: 618 Website purchases\nCost per result: $81.60 Per Purchase\nPurchases: 618\nCost per purchase: $81.60\nPurchases conversion...: $106,410.71\nPurchase ROAS (return on ad...): 2.11",
+      "not_in_transcript": "Exact campaign naming syntax 'EAM//Acquisition//...//US//CBO', Daily Budget ($35,000.00), total conversion value ($106,410.71), exact purchases count (618), cost per purchase ($81.60), second campaign row spent ($0.00 at $150 daily budget).",
+      "legibility": "clear",
+      "candidate_id": "F002",
+      "drive_url": "https://drive.google.com/file/d/1BephitZa_zXxg5gcdbBPARxAw_mZ5kgk/view?usp=drivesdk"
+    }
+  ]
+}

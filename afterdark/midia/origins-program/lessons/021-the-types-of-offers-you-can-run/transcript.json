@@ -1,0 +1,1201 @@
+{
+  "lesson": {
+    "num": 21,
+    "id": "021-the-types-of-offers-you-can-run",
+    "title": "The types of offers you can run",
+    "section": "🏷️ How to Create Offers",
+    "video": "21. The types of offers you can run Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 824.939,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=40745e7322f54cb88167dd406a3aa45c"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (96% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 3419,
+    "matched_tokens": 3276,
+    "match_ratio": 0.958,
+    "segments_aligned": 121,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 262.078,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.951,
+      "wpm": 241.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 262.078,
+      "end": 547.697,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.937,
+      "wpm": 244.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 547.697,
+      "end": 824.939,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.819,
+      "wpm": 257.2,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.94,
+      "speaker": "Presenter",
+      "text": "All right. So, as I tried to do in the last video, I tried to go through offers, but now we're actually going to go through offers. Now that you know your numbers and you know to be aware of it, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 8.32,
+      "end": 15.0,
+      "speaker": "Presenter",
+      "text": "Again, make sure you know your new break-even ROAS after you introduce these offers. And again, on every single offer as well, because now we're getting into somethings here",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 15.42,
+      "end": 21.6,
+      "speaker": "Presenter",
+      "text": "that actually are multi-offer. And so with- without any more, you know, delay here, let's let's just go ahead and jump in. So,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 21.6,
+      "end": 28.24,
+      "speaker": "Presenter",
+      "text": "again, important: know your numbers. But let's get into the first offer that I think everybody should run, and that is going to be a bundle and save offer.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 28.9,
+      "end": 36.58,
+      "speaker": "Presenter",
+      "text": "Okay? And the reason why this offer is so good is because it just allows you to run an offer kind of no matter what, even if you don't really want to discount",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 36.58,
+      "end": 44.64,
+      "speaker": "Presenter",
+      "text": "your actual product, you can just get people to buy more. And as a result of that, two things happen: number one,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 44.94,
+      "end": 52.52,
+      "speaker": "Presenter",
+      "text": "they feel like they're getting a deal, and like you can add an offer, like kind of a conditional offer is what we call that, but you're adding a deal in for someone.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 53.08,
+      "end": 62.64,
+      "speaker": "Presenter",
+      "text": "And then on top of that, you're also able to just kind of provide more value and a lot of times actually get better margins while increasing your AOV.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 63.22,
+      "end": 69.94,
+      "speaker": "Presenter",
+      "text": "Okay? And so with bundle and save, what we're trying to do here is we're trying to group commonly purchased products together at a discount, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 70.48,
+      "end": 79.48,
+      "speaker": "Presenter",
+      "text": "And again, if if it's possible, provide a reason for why they should bundle, and if you can think of a name for that bundle as well, it can definitely help. So here we have like The Complete RATVAC Bundle,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 80.02,
+      "end": 87.46,
+      "speaker": "Presenter",
+      "text": "and then we have The Staple 6-Pack here, okay? So it's like they add in The Staple because it's like every man should have this, right? This is True Classic here, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 87.9,
+      "end": 95.04,
+      "speaker": "Presenter",
+      "text": "And so, my point of this is as you can see here, if we go back to bundle and save, The Complete RATVAC Bundle has the RATVAC itself,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 95.04,
+      "end": 102.34,
+      "speaker": "Presenter",
+      "text": "it has these caps that are worth $79.99, but they're free, it has this little vent which is usually $34.99, but it's free,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 102.34,
+      "end": 107.9,
+      "speaker": "Presenter",
+      "text": "and it has this Catch-it rodent guide, which is usually $7, but also free, and so they're getting three things for free.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 107.9,
+      "end": 113.66,
+      "speaker": "Presenter",
+      "text": "So, they're just paying $249 for this, and they're getting all of this stuff free. So that is how",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 113.66,
+      "end": 123.28,
+      "speaker": "Presenter",
+      "text": "we actually were able to, you know, scale really hard. And I'm pretty sure I mentioned I would keep this brand, this brand's like numbers and all that kind of stuff, or like the exact breakdown that we did.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 123.6,
+      "end": 130.22,
+      "speaker": "Presenter",
+      "text": "Actually, oh, no. I think you guys already saw the offer. But my point is, is like they still had really good margins on this because they had great margins on this vac,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 130.22,
+      "end": 137.06,
+      "speaker": "Presenter",
+      "text": "and they had enough where like the COGS on this and the shipping weren't that bad. Now, one thing where you can start to make a ton of money",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 137.06,
+      "end": 144.32,
+      "speaker": "Presenter",
+      "text": "is by and the reason why bundling is just the king in e-com is because of the fact that you can basically save on shipping,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 144.32,
+      "end": 152.68,
+      "speaker": "Presenter",
+      "text": "right? And so if you contact whoever is fulfilling your orders and you ask them like, \"Hey, this small product, can you just throw it in the same box as this?\"",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 153.16,
+      "end": 156.98,
+      "speaker": "Presenter",
+      "text": "And a lot of times they'll say, \"Yeah. Like, at no extra cost. I can do that, no problem,\" right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 156.98,
+      "end": 165.38,
+      "speaker": "Presenter",
+      "text": "And so in that instance, rather than having to pay shipping for that product as well, you can just pay shipping for one of them, throw it in, and now your COGS are way better.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 165.38,
+      "end": 173.32,
+      "speaker": "Presenter",
+      "text": "And so that's how you can actually give someone a better deal. Shipping, a lot of the times, is like the biggest cost for a lot of brands, and so when you're able to just like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 173.32,
+      "end": 179.74,
+      "speaker": "Presenter",
+      "text": "not have to pay shipping on a specific product because you're bundling it with another one and you can just ship it together, that is amazing, right? Your",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 180.14,
+      "end": 185.42,
+      "speaker": "Presenter",
+      "text": "for a lot of brands, the cost of shipping for like one supplement versus three is sometimes the same.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 185.82,
+      "end": 193.36,
+      "speaker": "Presenter",
+      "text": "And so you can save, you know, 3x the cost on shipping or 2x the cost on shipping because like you can just ship it all all together. And so you have way",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 193.36,
+      "end": 202.74,
+      "speaker": "Presenter",
+      "text": "better margin, which then allows you to provide more value, okay? And so bundling and saving is something that I'd highly, highly recommend that everyone test, um because you could just have your basic offer,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 202.74,
+      "end": 211.6,
+      "speaker": "Presenter",
+      "text": "and then you could have a two-pack and a three-pack, or you can combine different different products here like we did with this brand, whereas think logically about it, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 211.8,
+      "end": 215.46,
+      "speaker": "Presenter",
+      "text": "Like somebody probably doesn't need two of these vacuums. They only need one.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 215.74,
+      "end": 220.69,
+      "speaker": "Presenter",
+      "text": "And so selling two vacuums, although I still would recommend like, \"Just test it,\" and see what happens.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 220.99,
+      "end": 227.11,
+      "speaker": "Presenter",
+      "text": "You could go for like a buy X, buy X get X free, or we actually have a more advanced one that we're testing for Q4, which is",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 227.11,
+      "end": 233.61,
+      "speaker": "Presenter",
+      "text": "buy X and gift X. So like, get one for yourself and then gift one to a friend. You could do that, right? And you could test that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 233.61,
+      "end": 237.55,
+      "speaker": "Presenter",
+      "text": "We're actually probably going to test it for this brand, especially in Q4. But my point is, is like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 237.71,
+      "end": 243.49,
+      "speaker": "Presenter",
+      "text": "look for other complimentary products that you can also throw in. Now if you're a single-SKU store, then obviously like",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 243.63,
+      "end": 248.97,
+      "speaker": "Presenter",
+      "text": "you don't have to like spend your whole time looking for like a new supplement to throw in or whatever it is. You you want the products to be complimentary,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 249.55,
+      "end": 258.81,
+      "speaker": "Presenter",
+      "text": "but overall when someone's bundling, you just want it to make sense and you just want to make sure that you show them that they're getting a deal for spending more, right? So, in this instance here, you can see",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 259.07,
+      "end": 261.67,
+      "speaker": "Presenter",
+      "text": "True Classic is just putting six of the same shirts together.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 262.33,
+      "end": 266.11,
+      "speaker": "Presenter",
+      "text": "Right? Cuz it's like they're T-shirts. Obviously, you could use more than one. I have more than one T-shirt.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 267.03,
+      "end": 270.49,
+      "speaker": "Presenter",
+      "text": "At least like, you know, I got like three, you know. But the point is, it's like people",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 270.95,
+      "end": 278.17,
+      "speaker": "Presenter",
+      "text": "it makes sense to have more than one, whereas this one here logically doesn't really make sense. Now, we could test some offers where it's like get one for yourself and gift one,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 278.35,
+      "end": 282.97,
+      "speaker": "Presenter",
+      "text": "right? That's what we're going to test, so you can be creative with offers. But usually, if you have just like a",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 282.97,
+      "end": 291.97,
+      "speaker": "Presenter",
+      "text": "only need one kind of product, then it might not make sense. So trying to find other complementary products that you can bundle in can make sense. But at the end of the day, what we're trying to do here is we're",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 291.97,
+      "end": 297.69,
+      "speaker": "Presenter",
+      "text": "just trying to put products together so we can save money on shipping, we can get a higher AOV,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 297.69,
+      "end": 305.91,
+      "speaker": "Presenter",
+      "text": "and we can give the user a discount. Okay? And if you can't think of anything else and if you don't have anything else that you can actually",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 306.25,
+      "end": 311.45,
+      "speaker": "Presenter",
+      "text": "add, I actually removed this from this slide, but what you can also do is you could also just give store credit.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 311.81,
+      "end": 317.85,
+      "speaker": "Presenter",
+      "text": "So you could offer someone like a $20 gift card or a $30 gift card, send that gift card through email through whatever your",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 317.91,
+      "end": 324.23,
+      "speaker": "Presenter",
+      "text": "your email sender is. And you could also just say like, hey, buy this and get $30 in store credit or a $30 gift card.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 324.39,
+      "end": 327.71,
+      "speaker": "Presenter",
+      "text": "And guess what? 80% of people will never use it, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 327.99,
+      "end": 333.93,
+      "speaker": "Presenter",
+      "text": "Now obviously, they might come back and use it, and at that instance, it's store credit can be used, and whatever, and you're giving them a deal. But",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 333.93,
+      "end": 340.89,
+      "speaker": "Presenter",
+      "text": "that's also another way where if you're like, well, I only have one product, I don't really know what to do, and I, and I want to bundle, well, you could say, hey, if you, if you buy one",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 340.89,
+      "end": 348.51,
+      "speaker": "Presenter",
+      "text": "and just make this on your, your hero offer and just give someone store credit, you could do that. But what you could also do here as well, if you have other products, is say like, hey,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 348.89,
+      "end": 354.89,
+      "speaker": "Presenter",
+      "text": "you can get this vac, you can get these four caps, and you can also get $20 or $30 in store credit.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 355.29,
+      "end": 361.55,
+      "speaker": "Presenter",
+      "text": "Cuz then that saves you from having to send, say for example, the Magne- dryer vent, or even in this instance, if we didn't want to send the rat caps,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 361.55,
+      "end": 366.91,
+      "speaker": "Presenter",
+      "text": "you know, we could just say, hey, get $20 in store credit for this bundle here, specifically",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 366.91,
+      "end": 375.07,
+      "speaker": "Presenter",
+      "text": "with the Magne- dryer vent or whatever it may be. Okay? And so I know I'm getting a little bit all over the place, but with bundles, we're going to kind of dive a little bit more into that on how to build offers. But",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 375.07,
+      "end": 380.89,
+      "speaker": "Presenter",
+      "text": "bundle and save is my favorite offer because, again, it can increase conversion rate because you have a better offer, and it can",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 380.89,
+      "end": 386.69,
+      "speaker": "Presenter",
+      "text": "also increase AOV because people just spend more money. Okay? So amazing, amazing offer, and I highly recommend everybody tries to do it.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 387.09,
+      "end": 394.21,
+      "speaker": "Presenter",
+      "text": "You can do this, I believe, through your Shrine theme, Shrine theme, your Shrine theme. You can also do this in Pagedeck,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 394.43,
+      "end": 400.75,
+      "speaker": "Presenter",
+      "text": "and you can also do this through apps called like Kaching on your main website. I'm a really, really big fan of bundles,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 401.13,
+      "end": 407.19,
+      "speaker": "Presenter",
+      "text": "so definitely recommend trying to create some bundles. And we're going to get into, we're going to get into how you can do that in the sheet. But bundle and save,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 407.55,
+      "end": 414.85,
+      "speaker": "Presenter",
+      "text": "no-brainer. Next one here is very, very simple, so just dollar amount off, okay? And this is where you can come in and you can test different price points on your products, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 414.85,
+      "end": 418.65,
+      "speaker": "Presenter",
+      "text": "And so if you're charging $60 right now, just flat rate,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 419.15,
+      "end": 424.95,
+      "speaker": "Presenter",
+      "text": "you could try you know, you know, $60 slash down to 50, right? A lot of you guys are probably already doing these slash-downs where maybe",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 424.95,
+      "end": 430.71,
+      "speaker": "Presenter",
+      "text": "you put your price anchor at like $130, and then you're like, the product's only $30.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 431.17,
+      "end": 439.85,
+      "speaker": "Presenter",
+      "text": "It's like save 100. It's like, doesn't really make sense. And so like, be logical with this. Do some research. Look at some other competitors that are selling similar products to you, if you can.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 440.13,
+      "end": 447.47,
+      "speaker": "Presenter",
+      "text": "And then you'll notice their price points, and then so like then you'll have a general ball park of like what the price point is, and then you can do a dollar amount off. Now again,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 447.47,
+      "end": 451.29,
+      "speaker": "Presenter",
+      "text": "we follow the rule of law of large numbers. So again, if $20",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 451.29,
+      "end": 456.99,
+      "speaker": "Presenter",
+      "text": "is like If you're giving somebody 5% off, but say your higher AOV",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 456.99,
+      "end": 463.71,
+      "speaker": "Presenter",
+      "text": "and 5% off is actually 20 bucks, well, then in that instance, say $20, because 20 is bigger than five.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 463.71,
+      "end": 468.97,
+      "speaker": "Presenter",
+      "text": "Okay? So that's what law of large numbers means. Okay? Whereas on the other side, if you maybe have like",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 468.97,
+      "end": 473.87,
+      "speaker": "Presenter",
+      "text": "a $30 product, and say you're giving somebody 30% off, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 474.35,
+      "end": 478.97,
+      "speaker": "Presenter",
+      "text": "That's only like I think it's like $9 or $10, right? And so in that instance,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 479.55,
+      "end": 486.07,
+      "speaker": "Presenter",
+      "text": "save 30% off sounds way better than save $9, right? Or $10, whatever it is. Ma- math is not mathing. But",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 486.07,
+      "end": 492.91,
+      "speaker": "Presenter",
+      "text": "the point is is use the bigger number. So if percentage off is bigger, say percentage off. If dollar amount off is bigger,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 493.47,
+      "end": 499.05,
+      "speaker": "Presenter",
+      "text": "say dollar amount off. Usually if you're lower AOV, it's going to be percentage. If you're higher AOV, it's probably going to be dollar, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 499.25,
+      "end": 504.43,
+      "speaker": "Presenter",
+      "text": "And so that's the rule of thumb, and these are just very basic offers. Just take your product and put a percent off, 10% off,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 504.67,
+      "end": 511.67,
+      "speaker": "Presenter",
+      "text": "15% off. Some of our best landing pages were literally just the product with 10 to 15% off. And a lot of you guys already give 10% off in your email flow.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 512.23,
+      "end": 518.15,
+      "speaker": "Presenter",
+      "text": "Screw the email flow! Like right now you guys need to make cash, so just get the 10% off in there. Just add it. Just see what happens.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 518.65,
+      "end": 523.59,
+      "speaker": "Presenter",
+      "text": "Okay? Buy X, gift X or get X, sorry, not gift, get. I love this.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 523.85,
+      "end": 530.29,
+      "speaker": "Presenter",
+      "text": "If you guys have a product where people can use more than one like this brand here, obviously you could use more than one. And then on top of that, what I want you to notice",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 530.29,
+      "end": 535.51,
+      "speaker": "Presenter",
+      "text": "about this is, for those of you that are lower AOV, for some of you it doesn't make sense",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 535.51,
+      "end": 543.31,
+      "speaker": "Presenter",
+      "text": "to sell just one of your products. So don't just sell one. Okay? You can see the minimum quantity here that someone can buy",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 543.31,
+      "end": 547.13,
+      "speaker": "Presenter",
+      "text": "is is five. Okay? It's buy two, get three free.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 547.13,
+      "end": 553.09,
+      "speaker": "Presenter",
+      "text": "right? So the minimum quantity that we're allowing a person to buy is five. We're not letting them buy one.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 553.39,
+      "end": 561.07,
+      "speaker": "Presenter",
+      "text": "They have to buy five. And so for some of you, sometimes just changing what you actually offer on the site as well can actually massively increase your success.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 561.41,
+      "end": 567.67,
+      "speaker": "Presenter",
+      "text": "Like for this brand specifically, they tried a bunch of offers and they just realized that buy two, get two free worked the best for them.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 567.75,
+      "end": 574.57,
+      "speaker": "Presenter",
+      "text": "And then what we noticed is that based off of their shipping and based off of their margins, we could actually do buy two, get three free, and we recalculated the margins,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 574.57,
+      "end": 583.21,
+      "speaker": "Presenter",
+      "text": "and we saw that the uptick in ROAS that we had as a result of that actually allowed us to be more profitable, and so then we ran buy two, get three free, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 583.53,
+      "end": 591.29,
+      "speaker": "Presenter",
+      "text": "Kind of a crazy offer, but anytime you can do a buy one, get one, buy two, get one, right, any of that kind of stuff, you're just going to provide value. People love free.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 591.61,
+      "end": 597.95,
+      "speaker": "Presenter",
+      "text": "Okay? So if you guys can afford to do a buy one, get one free, and it also makes sense to do that, I highly, highly, highly recommend this offer.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 598.03,
+      "end": 606.03,
+      "speaker": "Presenter",
+      "text": "It absolutely can crush for you, and even then, you can also do a bundle where, hey, you buy one for full price, or if you buy two, you also get one free.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 606.29,
+      "end": 616.57,
+      "speaker": "Presenter",
+      "text": "Now, does that make sense for this bag? Probably not, but I love that for example, for like a T-shirt brand, or for this brand, where it's like, hey, or this brand doesn't really make sense because they're lower AOV. Let me see if I can find one here",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 617.67,
+      "end": 622.35,
+      "speaker": "Presenter",
+      "text": "that's a little bit higher, like, hmm, hair dryers don't really work either, but pajamas can kind of work.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 622.83,
+      "end": 631.15,
+      "speaker": "Presenter",
+      "text": "I like this for like the this this client here sells like jewelry, where it's like, hey, if you buy or supplements are really the best one for this, guys.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 631.15,
+      "end": 636.05,
+      "speaker": "Presenter",
+      "text": "I don't know why I'm trying to overthink it, but like, if you have a supplement, that like your main price is $59,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 636.05,
+      "end": 643.95,
+      "speaker": "Presenter",
+      "text": "you can say, hey, buy one and pay 59 bucks, or you can buy two, and you can pay let's just call it simple. So, buy one, $50,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 643.95,
+      "end": 655.15,
+      "speaker": "Presenter",
+      "text": "right? Or buy two, get one free, so you you buy two of them, so you spend 100, but you get one free, so you get three supplements or three packs for the price of two, which is a great deal,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 655.15,
+      "end": 659.67,
+      "speaker": "Presenter",
+      "text": "right? And that that offer alone, for one of our brands, scaled this to $1 million a month, so I want you guys to understand, like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 659.97,
+      "end": 663.39,
+      "speaker": "Presenter",
+      "text": "buy X, get X can absolutely murder for you, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 663.75,
+      "end": 672.59,
+      "speaker": "Presenter",
+      "text": "Buy X, get X percent off. Again, this is like recommended if you have bad margins. Whenever you can, I would always just recommend doing free, but if you can't do free, it's just like, hey, buy one, get one 50% off,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 672.59,
+      "end": 682.09,
+      "speaker": "Presenter",
+      "text": "or buy one, get another product X percent off. We're doing that with one of our higher-ticket brands right now, and this is not really our main offer. Our main offer is like 20% to 30% off,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 682.71,
+      "end": 691.05,
+      "speaker": "Presenter",
+      "text": "and then from there, we have a conditional offer on top of that. I don't want to get you guys confused, but what we're saying is it's like, hey, if you add another one, the next one is 50% off,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 691.15,
+      "end": 695.79,
+      "speaker": "Presenter",
+      "text": "so it's kind of like an after offer. So we're saying like, hey, you're going to you're going to save 30% no matter what,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 696.03,
+      "end": 703.37,
+      "speaker": "Presenter",
+      "text": "but if you buy another one, the next one's like 50. We can't afford to give it for free, but we could afford to, you know, give them an extra 20% off or another 30% off",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 703.37,
+      "end": 709.27,
+      "speaker": "Presenter",
+      "text": "of the second one because again, our shipping margins get a lot better, and we could afford to incentivize someone to spend more money.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 709.45,
+      "end": 715.19,
+      "speaker": "Presenter",
+      "text": "You can see this here, right? So we had for this brand here, it was like, hey, add two more and you can get 20% off, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 715.19,
+      "end": 721.33,
+      "speaker": "Presenter",
+      "text": "So buy any two pieces and and get the third for 51% off, right? This was just like a this client sold like alien jewelry.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 721.93,
+      "end": 727.37,
+      "speaker": "Presenter",
+      "text": "And then some of the other ones down here is just free gifts and free shipping. These are just things to test regardless. Again, throw gifts in to make a bundle,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 727.87,
+      "end": 737.27,
+      "speaker": "Presenter",
+      "text": "right? Free e-book, complimentary product, mystery gifts can work well. And then free shipping. Do not make this like your core offer, but I would definitely test free shipping",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 737.27,
+      "end": 745.71,
+      "speaker": "Presenter",
+      "text": "at a certain threshold or just offering free shipping in general. We've noticed that as long as you charge less than like 5 bucks, usually like shipping's not a problem,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 745.71,
+      "end": 753.41,
+      "speaker": "Presenter",
+      "text": "and you can actually make more margin by just charging shipping versus giving free shipping. I really wouldn't recommend the expedited shipping for a lot of you guys because it's too early.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 753.41,
+      "end": 760.25,
+      "speaker": "Presenter",
+      "text": "You don't have control over your fulfillment partners yet. But yeah, like free shipping when you spend over $100, well, guess what? That's going to help help someone",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 761.01,
+      "end": 767.93,
+      "speaker": "Presenter",
+      "text": "actually spend more, right? So a really great example of this is let's just say your product is like $325, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 767.93,
+      "end": 775.81,
+      "speaker": "Presenter",
+      "text": "What you could say is is like, well, when you buy two, you get free shipping, okay? And so you can also make it somewhat conditional",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 775.81,
+      "end": 784.91,
+      "speaker": "Presenter",
+      "text": "in the sense where it's like, hey, if you buy two, not only do you save $70, but you also get free shipping, okay? And so you can offer that again as another bundle incentive,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 784.91,
+      "end": 792.51,
+      "speaker": "Presenter",
+      "text": "going back to why I love bundles so much, as a way to increase people to spend more or again, just see if you can get a higher take rate in general.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 792.55,
+      "end": 800.15,
+      "speaker": "Presenter",
+      "text": "So that's it. These are the offers I'm going to recommend to you guys. I did talk a little bit about store credit, but for some of you guys, it might be too much, but for those of you a little a little bit more advanced,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 800.41,
+      "end": 806.87,
+      "speaker": "Presenter",
+      "text": "you can run with it. But again, this is the offer mastery doc. You guys will have access to this. These are all the offers that I recommend,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 807.35,
+      "end": 813.95,
+      "speaker": "Presenter",
+      "text": "and hopefully, gives you ideas for how to create offers. And then again, in the next videos, we're going to we're going to walk through it about like how to use the sheet,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 814.57,
+      "end": 822.73,
+      "speaker": "Presenter",
+      "text": "but if you want to get a head start on it, you can see how the sheet is kind of broken down here. And at the end of the day, you guys should have enough direction here to start testing some offers,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 823.01,
+      "end": 824.73,
+      "speaker": "Presenter",
+      "text": "and again, make sure that you know your numbers as well.",
+      "chunk": 2,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 219.3,
+      "end": 220.4,
+      "label": "laughter"
+    },
+    {
+      "start": 266.68,
+      "end": 267.18,
+      "label": "laughter"
+    },
+    {
+      "start": 268.98,
+      "end": 269.48,
+      "label": "laughter"
+    },
+    {
+      "start": 515.98,
+      "end": 516.68,
+      "label": "laughter"
+    },
+    {
+      "start": 539.38,
+      "end": 540.28,
+      "label": "laughter"
+    }
+  ]
+}

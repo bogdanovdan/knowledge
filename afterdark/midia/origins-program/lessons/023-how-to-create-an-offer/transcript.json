@@ -1,0 +1,3579 @@
+{
+  "lesson": {
+    "num": 23,
+    "id": "023-how-to-create-an-offer",
+    "title": "How to create an offer",
+    "section": "🏷️ How to Create Offers",
+    "video": "23. How to create an offer Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 2251.029,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=093fb36ebda1487685eaeac39f93277b"
+  },
+  "generated_at": "2026-10-06T20:24:07-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (95% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 9327,
+    "matched_tokens": 8888,
+    "match_ratio": 0.953,
+    "segments_aligned": 377,
+    "segments_partly_aligned": 1,
+    "segments_interpolated": 0,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 242.945,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 225.0,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 1,
+      "start": 242.945,
+      "end": 487.119,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 239.6,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 2,
+      "start": 487.119,
+      "end": 796.591,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.976,
+      "wpm": 229.9,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 3,
+      "start": 796.591,
+      "end": 1097.005,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.975,
+      "wpm": 245.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 4,
+      "start": 1097.005,
+      "end": 1432.422,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.99,
+      "wpm": 254.6,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 5,
+      "start": 1432.422,
+      "end": 1722.823,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 224.3,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 6,
+      "start": 1722.823,
+      "end": 2005.87,
+      "end_boundary": "silence",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.988,
+      "wpm": 265.5,
+      "issues": [],
+      "notes": ""
+    },
+    {
+      "idx": 7,
+      "start": 2005.87,
+      "end": 2251.029,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 0.995,
+      "wpm": 261.8,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 10.54,
+      "speaker": "Presenter",
+      "text": "All right, so in this video, I'm going to show you guys briefly how to use the offers document to start strategizing offers for your brand, to try to increase your conversion rates, and obviously make it easier for you to find winning ads,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 10.54,
+      "end": 19.48,
+      "speaker": "Presenter",
+      "text": "because if you have a better offer, it's going to be a lot easier for you to find winning ads that can scale your account, because more people- basically what winning ads do is they help more people,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 19.48,
+      "end": 27.94,
+      "speaker": "Presenter",
+      "text": "you know, get to the store with higher intent, basically. And if your offer is really good or just good or better than what it is right now,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 28.2,
+      "end": 34.76,
+      "speaker": "Presenter",
+      "text": "you're going to convert a higher percentage of those people. And again, to increase your ROAS, conversion rate and AOV are one of the biggest things in doing that. And so,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 34.76,
+      "end": 44.92,
+      "speaker": "Presenter",
+      "text": "just jumping to the screen here, you guys will have access to the types of offers you can run. This is a document right here. Again, most importantly, make sure you check your numbers, and the sheet is going to show you how to do that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 44.92,
+      "end": 54.58,
+      "speaker": "Presenter",
+      "text": "But basically, what you want to do is you want to open up this sheet, and you're going to take a look at whatever your current offer is. We're going to jump into Happy Mammoth, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 55.04,
+      "end": 62.9,
+      "speaker": "Presenter",
+      "text": "And so, as you can see here, this brand has, you know, a one-time purchase for like $59.99, and you can see they have it slashed off by by $69.99. So,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 62.9,
+      "end": 68.92,
+      "speaker": "Presenter",
+      "text": "this is kind of interesting, crazy play by Happy Mammoth. They're obviously running Black Friday, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 69.44,
+      "end": 76.04,
+      "speaker": "Presenter",
+      "text": "And so what you could do here, let's- is let's just say that the- I think it's called Hormone Harmony is what it's called.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 76.62,
+      "end": 80.2,
+      "speaker": "Presenter",
+      "text": "And their original price is $69.99, okay?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 80.76,
+      "end": 87.6,
+      "speaker": "Presenter",
+      "text": "And let's just say, for example, this is where you guys really need to know your numbers, and always overestimate if possible, you don't want to underestimate.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 88.22,
+      "end": 98.68,
+      "speaker": "Presenter",
+      "text": "And again, it's also important to make sure that you contact your specific suppliers to figure out what your price is for, or like what your shipping cost will be,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 98.72,
+      "end": 108.14,
+      "speaker": "Presenter",
+      "text": "say, for example, if you just sell one. So I'm just going to go with the example that they're only selling a one-time purchase option, okay? And so, but let's just say you guys have another offer,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 108.14,
+      "end": 115.96,
+      "speaker": "Presenter",
+      "text": "and we'll talk about how to make bundles in a second, that's two, right? So if the quantity is two, you guys need to figure out- and this is actually COGS,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 116.16,
+      "end": 124.68,
+      "speaker": "Presenter",
+      "text": "this is this is wrong. I need to adjust this to what the actual price is, so price on site is here, there we go. If your COGS, let's just say it's it's",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 124.68,
+      "end": 133.34,
+      "speaker": "Presenter",
+      "text": "$6 or $7 for this, right? Obviously, if you have two of them, well, in this sheet, you're going to have your COGS times this, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 133.7,
+      "end": 138.2,
+      "speaker": "Presenter",
+      "text": "If I could actually do it, so this times seven, right?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 138.66,
+      "end": 144.26,
+      "speaker": "Presenter",
+      "text": "And so, at the end of the day, your COGS are going to double. But the truth is, is let's just say if you guys don't know what pick and pack is, it's fine.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 144.84,
+      "end": 151.66,
+      "speaker": "Presenter",
+      "text": "But let's just say your shipping stays the same, okay? And so here, this is where you can start to discount,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 151.66,
+      "end": 159.54,
+      "speaker": "Presenter",
+      "text": "and why for those of you, you should definitely be doing bundles regardless. And obviously, think through your product, like if you don't have a product that doesn't make sense to bundle,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 160.26,
+      "end": 165.96,
+      "speaker": "Presenter",
+      "text": "even then, sometimes just testing bundles can be interesting. To give you guys an example, here is a product that a lot of you guys",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 165.96,
+      "end": 174.7,
+      "speaker": "Presenter",
+      "text": "probably wouldn't think could be bundled, but it can be, right? It's like you could sell two or three of these to cover more space. And so think logically about your product when you're bundling them.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 174.78,
+      "end": 182.92,
+      "speaker": "Presenter",
+      "text": "But going back to my point here, let's just say your shipping stays the same, your gateway costs are are still the same, right? It's 3% of whatever the price is,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 183.2,
+      "end": 191.82,
+      "speaker": "Presenter",
+      "text": "and the total cost of goods is now only $5 more. But guess what? The price is this times two, right? And so this",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 191.82,
+      "end": 199.92,
+      "speaker": "Presenter",
+      "text": "is where you can start to actually add discounts, because let's just say we want to, you know, pull this number over, it's $139.98.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 200.72,
+      "end": 208.96,
+      "speaker": "Presenter",
+      "text": "Your margins on this are just going to be so much better. And so if we go ahead and we pull this down, it should automatically update all the stuff for you guys.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 208.98,
+      "end": 215.8,
+      "speaker": "Presenter",
+      "text": "But I want you guys to see that even if we were to keep this the same price, look at our margins. They go from 79% to 83%,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 216.38,
+      "end": 226.3,
+      "speaker": "Presenter",
+      "text": "right? And we didn't even change anything, we're just selling two of them, because a lot of the times, as long as your, again, supplier can do this or your, you know, whoever is shipping your product can do this,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 226.3,
+      "end": 235.88,
+      "speaker": "Presenter",
+      "text": "your shipping cost might be the same for two products. Now that's not always the case, but again, you need to ask, hey, what is my cost if I sell two? What is my cost if I sell three? Because for some brands,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 235.94,
+      "end": 242.32,
+      "speaker": "Presenter",
+      "text": "it might actually be the same amount. And now you don't really get the benefit, obviously, of, you know, being able to",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 242.32,
+      "end": 246.74,
+      "speaker": "Presenter",
+      "text": "charge, or like give a better discount when people buy two, now you still can,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 32,
+      "start": 247.08,
+      "end": 252.06,
+      "speaker": "Presenter",
+      "text": "but my point is is you guys need to know your numbers. This is the most important thing, okay? You need to know what your costs are for the product,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 252.26,
+      "end": 257.16,
+      "speaker": "Presenter",
+      "text": "you need to know how much shipping costs, you need to know what your gateway, I mean gateway costs is just 3% plus 3 cents.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 257.8,
+      "end": 262.48,
+      "speaker": "Presenter",
+      "text": "And then here you have your total costs, and then again, if you guys are charging shipping, this is why again, sometimes people",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 262.48,
+      "end": 270.78,
+      "speaker": "Presenter",
+      "text": "will charge $5 in shipping, right? To kind of make some costs back, but if you spend over $100 you know, say, the shipping is free, right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 270.9,
+      "end": 275.82,
+      "speaker": "Presenter",
+      "text": "Because again, they might just say like \"Hey, because you're buying extra, you know, I still have a better margin",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 275.82,
+      "end": 284.32,
+      "speaker": "Presenter",
+      "text": "even though I'm charging $5 for shipping,\" okay? And so I want you guys to understand that basic rules of thumb is you want to try to keep your margins always above 60%.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 284.88,
+      "end": 294.04,
+      "speaker": "Presenter",
+      "text": "I know a lot of you guys are probably going to see you know things like this where your margin is like 70% without any kind of you know offer or discount basically,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 294.24,
+      "end": 304.88,
+      "speaker": "Presenter",
+      "text": "right? So let's just add $15 here. So you can see here again, margins a little bit better on the two-pack. But my point is is you guys need to start by putting whatever your current offer is up here.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 305.24,
+      "end": 311.86,
+      "speaker": "Presenter",
+      "text": "And now what's cool about this is you can see if you have a price slash, so let's just say it's $79.99 that your price slashing,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 312.14,
+      "end": 320.22,
+      "speaker": "Presenter",
+      "text": "whatever current offer is, you guys can see what's going on, right? How much people are saving, with the dollar amount savings are, this will auto-calculate your break-even ROAS, which is great as well.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 320.48,
+      "end": 327.74,
+      "speaker": "Presenter",
+      "text": "And then you have your target CPA for basically 2+ ROAS and a target CPA for a 2.5+ ROAS. Now, how do we apply offers?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 328.48,
+      "end": 335.02,
+      "speaker": "Presenter",
+      "text": "Okay, well this is where it is now your playground to just do whatever you want, okay? And so what you're going to do",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 335.02,
+      "end": 343.58,
+      "speaker": "Presenter",
+      "text": "is you're basically, what I like to do is I just like to put this in, and for those of you guys that don't know sheets, you can use these dollar signs to basically lock in this value.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 343.9,
+      "end": 353.08,
+      "speaker": "Presenter",
+      "text": "So now no matter what, if I drag this down, this value will not come down with it. And then what I'm going to do here is I'm going to multiply this by whatever the quantity is, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 353.38,
+      "end": 363.2,
+      "speaker": "Presenter",
+      "text": "And I'm just going to say the quantity is always one, at least for now, and we'll adjust this later, but as you can see here, now if I pull all of this stuff down, and a lot of this sheet is already filled in,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 363.7,
+      "end": 374.58,
+      "speaker": "Presenter",
+      "text": "but if we pull this down, what we can do here is we can change this to two, and now it's going to update our COGS based off of just what you know, one COG is, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 375.02,
+      "end": 381.74,
+      "speaker": "Presenter",
+      "text": "Now for shipping, again, this is where it's important because some of you guys might just have like, \"Oh, it's $5 flat rate\" and then let's just say, for example,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 382.16,
+      "end": 390.32,
+      "speaker": "Presenter",
+      "text": "it's going to stay $5 until maybe you send more than three of the product, then maybe it goes up a little bit more, but that's where you need to figure out what, how much does it go up by?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 390.48,
+      "end": 397.5,
+      "speaker": "Presenter",
+      "text": "And you guys need to tell your suppliers like, \"I need these exact numbers,\" because I do not want you guys to be scaling and thinking you're making money,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 397.5,
+      "end": 402.68,
+      "speaker": "Presenter",
+      "text": "when you're actually not, okay? Because a lot of you guys can't afford a proper accountant right now, you don't even know anything about accounting,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 403.24,
+      "end": 412.68,
+      "speaker": "Presenter",
+      "text": "and the only way to know whether or not you're making money is if you actually go into your bank account and take a look at the money that has entered your bank account versus the money that has left your bank account,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 413.02,
+      "end": 419.8,
+      "speaker": "Presenter",
+      "text": "okay? A lot of you guys rely on things like Triple Whale or TrueProfit, it's like a lot of those things aren't connected to your bank account and so it's just not accurate, all right?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 419.8,
+      "end": 430.4,
+      "speaker": "Presenter",
+      "text": "So you need to always try to get as accurate as possible when you are doing this, okay? Again, and if you're, if he's like, \"Yeah, it's around $5,\" make it six, okay?",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 430.74,
+      "end": 439.08,
+      "speaker": "Presenter",
+      "text": "So whatever that is, just make sure that you guys understand what is going on, okay? And so now let's talk about some of the new offers that we can make.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 439.08,
+      "end": 448.08,
+      "speaker": "Presenter",
+      "text": "Now what I like to do, just so you guys can get some inspiration from me specifically, I like to take a look at different types of offers that are in here,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 448.08,
+      "end": 457.72,
+      "speaker": "Presenter",
+      "text": "but more importantly what offers will likely improve my conversion rate? And then what offers will likely improve my AOV? Okay, and so if you want to do this, this is the main sheet that I'm giving to you guys,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 457.72,
+      "end": 464.88,
+      "speaker": "Presenter",
+      "text": "so I'm just going to duplicate this out. You can have one called AOV offers, and then you can have one called CVR offers.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 465.32,
+      "end": 474.86,
+      "speaker": "Presenter",
+      "text": "Now if you want, you can also just put this on the same page, it's probably better for you to just put it on the same page, but I like to take a look at, okay, let's just say I'm trying to improve AOV,",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 475.24,
+      "end": 486.54,
+      "speaker": "Presenter",
+      "text": "right? An offer that we can run is very simple. It's just like, okay, let's just say we sell a minimum of two, and we don't even give people the option to buy one.",
+      "chunk": 1,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 487.28,
+      "end": 490.92,
+      "speaker": "Presenter",
+      "text": "Now you might be thinking like, Spencer like that's going to tank my conversion rate, and it might.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 491.32,
+      "end": 495.2,
+      "speaker": "Presenter",
+      "text": "But you guys have to understand that as long as the increase in AOV",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 63,
+      "start": 495.2,
+      "end": 499.52,
+      "speaker": "Presenter",
+      "text": "makes up for the loss of conversion rate,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 64,
+      "start": 500.1,
+      "end": 505.34,
+      "speaker": "Presenter",
+      "text": "again, remember the formula, and I'll maybe like add this sheet in here you got for you guys. So this is called",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 65,
+      "start": 505.34,
+      "end": 506.86,
+      "speaker": "Presenter",
+      "text": "Revenue Per Session.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 66,
+      "start": 507.14,
+      "end": 512.92,
+      "speaker": "Presenter",
+      "text": "All right, so I've prettied this up for you guys, but basically the formula is very simple, okay? Let's say your AOV, just using the sake",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 67,
+      "start": 512.92,
+      "end": 518.74,
+      "speaker": "Presenter",
+      "text": "of the example that we have down below, okay, so if we go to this margins offer, right? We have our price at $69.99,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 68,
+      "start": 519.34,
+      "end": 524.92,
+      "speaker": "Presenter",
+      "text": "right? And let's just say, your current AOV and conversion rate is $69 and 2%, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 69,
+      "start": 525.82,
+      "end": 531.12,
+      "speaker": "Presenter",
+      "text": "Now, I don't want you guys asking like, \"Oh, is this the the target?\" Your target is actually to basically have like double this. So",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 70,
+      "start": 531.86,
+      "end": 539.58,
+      "speaker": "Presenter",
+      "text": "ideally, you want to be in, this is for US only. If you're running in other countries, it's going to be a lot worse than this. But ideally, you want your revenue per session to be above above $2.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 71,
+      "start": 539.58,
+      "end": 545.64,
+      "speaker": "Presenter",
+      "text": "Cuz you guys have to understand that if your revenue per session is $2, it basically means that if you have a dollar cost per click, like",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 72,
+      "start": 545.64,
+      "end": 550.32,
+      "speaker": "Presenter",
+      "text": "you should be making money, okay? And so you want your revenue per session to be as high as possible,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 73,
+      "start": 550.32,
+      "end": 553.36,
+      "speaker": "Presenter",
+      "text": "and you want your cost per click to be as low as possible, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 74,
+      "start": 553.76,
+      "end": 557.16,
+      "speaker": "Presenter",
+      "text": "Now, taking a look at this, let's just say this is where you're currently at.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 75,
+      "start": 557.44,
+      "end": 560.8,
+      "speaker": "Presenter",
+      "text": "You're at $69 AOV and $2 conversion rate.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 76,
+      "start": 560.92,
+      "end": 566.2,
+      "speaker": "Presenter",
+      "text": "Well, let's just say Spencer is crazy, and we decide to, again, make the minimum order quantity 2.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 77,
+      "start": 566.9,
+      "end": 573.74,
+      "speaker": "Presenter",
+      "text": "Well, guess what? If your conversion rate stays the same, well now you're making way more money, and this sheet will tell you. But here's what's super interesting.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 78,
+      "start": 574.22,
+      "end": 580.2,
+      "speaker": "Presenter",
+      "text": "Even if your conversion rate drops down to 1%, you're you're making the same revenue per session.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 79,
+      "start": 580.62,
+      "end": 583.98,
+      "speaker": "Presenter",
+      "text": "But let's just say your conversion rate balances out around 1.3%.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 80,
+      "start": 583.98,
+      "end": 587.32,
+      "speaker": "Presenter",
+      "text": "Well, guess what, guys? You're now making more money.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 81,
+      "start": 587.86,
+      "end": 591.78,
+      "speaker": "Presenter",
+      "text": "And so, this thing will light up whenever it will light green whenever you're making more money.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 82,
+      "start": 592.06,
+      "end": 596.0,
+      "speaker": "Presenter",
+      "text": "But let's say, for example, your conversion rate tanks, and it goes to like 0.7%.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 83,
+      "start": 596.0,
+      "end": 602.52,
+      "speaker": "Presenter",
+      "text": "Well, guess what? Now, you're making less money. Even though your AOV is higher, you're making less money because of your conversion rate.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 84,
+      "start": 602.64,
+      "end": 607.06,
+      "speaker": "Presenter",
+      "text": "And so, this is something that you guys need to understand in order to actually be",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 85,
+      "start": 607.06,
+      "end": 609.9,
+      "speaker": "Presenter",
+      "text": "able to know whether or not your offer is working.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 86,
+      "start": 610.14,
+      "end": 615.5,
+      "speaker": "Presenter",
+      "text": "And in order to figure out these numbers, I want you guys to use the numbers that are inside your ad account. So you guys should have",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 87,
+      "start": 615.5,
+      "end": 619.54,
+      "speaker": "Presenter",
+      "text": "the custom conversion rate metric created in your ad account, and the custom AOV",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 88,
+      "start": 619.54,
+      "end": 623.5,
+      "speaker": "Presenter",
+      "text": "metric created in your ad account. I'll pull it up just cuz I know people are going to ask. Okay, great.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 89,
+      "start": 623.72,
+      "end": 632.34,
+      "speaker": "Presenter",
+      "text": "And so, for example here, if we go last 7 days, you'll notice that I have conversion rate here, and conversion rate is very simply Purchases divided by Website Landing Page Views.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 90,
+      "start": 632.66,
+      "end": 639.88,
+      "speaker": "Presenter",
+      "text": "Now, if your website landing page views are messed up compared to your link clicks, I would potentially recommend creating it based off of link clicks, but it's just",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 91,
+      "start": 639.88,
+      "end": 645.66,
+      "speaker": "Presenter",
+      "text": "you can see here it's about like 70%. So it'll give you a decent amount. You can also manually calculate it if you need to.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 92,
+      "start": 645.94,
+      "end": 648.22,
+      "speaker": "Presenter",
+      "text": "But then you'll notice here that the AOV is 418.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 93,
+      "start": 648.88,
+      "end": 653.72,
+      "speaker": "Presenter",
+      "text": "So okay, what is Spencer's revenue per session? Well, 3 3 7 * 4 18.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 94,
+      "start": 654.22,
+      "end": 658.58,
+      "speaker": "Presenter",
+      "text": "Look at this, guys, it's $14 that I earn per click,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 95,
+      "start": 659.3,
+      "end": 662.5,
+      "speaker": "Presenter",
+      "text": "okay? If you miss that, it's 1,411,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 96,
+      "start": 663.24,
+      "end": 667.1,
+      "speaker": "Presenter",
+      "text": "which means my revenue per session, let's just put this in the sheet, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 97,
+      "start": 667.24,
+      "end": 671.56,
+      "speaker": "Presenter",
+      "text": "Let's use Spencer's example of $418, so the 3.37 conversion rate,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 98,
+      "start": 672.0,
+      "end": 673.7,
+      "speaker": "Presenter",
+      "text": "$14 per session I get.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 99,
+      "start": 674.12,
+      "end": 679.76,
+      "speaker": "Presenter",
+      "text": "So basically, as long as somebody clicks for less than $14, you know, I make money, right?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 100,
+      "start": 679.98,
+      "end": 683.1,
+      "speaker": "Presenter",
+      "text": "Let's check the ad account. What is my cost per click? $2.39.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 101,
+      "start": 683.52,
+      "end": 687.68,
+      "speaker": "Presenter",
+      "text": "Well, guess what, guys? That's why I'm at a 4x ROAS, because my cost per click",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 102,
+      "start": 687.68,
+      "end": 690.86,
+      "speaker": "Presenter",
+      "text": "is so low in comparison to my revenue per session.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 103,
+      "start": 691.26,
+      "end": 695.8,
+      "speaker": "Presenter",
+      "text": "And so, that's why you can be profitable even with a $2.40 cost per click,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 104,
+      "start": 696.14,
+      "end": 703.76,
+      "speaker": "Presenter",
+      "text": "because if your conversion rate is really good and your AOV is really good, that means your revenue per session is really good, which means you're making money.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 105,
+      "start": 704.26,
+      "end": 709.68,
+      "speaker": "Presenter",
+      "text": "Okay, so I want you guys to get out of your heads of like, it's all about conversion rate, it's all about AOV. It's about both. It's about revenue per session.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 106,
+      "start": 710.28,
+      "end": 715.06,
+      "speaker": "Presenter",
+      "text": "Okay? And so this will show you, like, say, for example, I make a change and my AOV goes up to $836,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 107,
+      "start": 715.06,
+      "end": 721.1,
+      "speaker": "Presenter",
+      "text": "but my conversion rate tanks to 0.7. Guess what, guys? I'm making less money. And this will tell you, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 108,
+      "start": 721.46,
+      "end": 725.6,
+      "speaker": "Presenter",
+      "text": "And so, this is the whole idea behind creating offers. It's not all about",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 109,
+      "start": 725.6,
+      "end": 729.96,
+      "speaker": "Presenter",
+      "text": "just increasing AOV. It's also about increasing conversion rate. Cuz another offer",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 110,
+      "start": 729.96,
+      "end": 736.28,
+      "speaker": "Presenter",
+      "text": "that I might test, and just for the sake of keeping everything in one place, I would probably recommend that you guys just put everything in here, so I'm just going to go ahead and",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 111,
+      "start": 736.28,
+      "end": 742.12,
+      "speaker": "Presenter",
+      "text": "I'll just use this as like an example. So, example offers. Okay, this is the actual margin and offer sheet.",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 112,
+      "start": 742.4,
+      "end": 747.08,
+      "speaker": "Presenter",
+      "text": "But let's just say, for example, \"Okay, you know what? We're going to just actually do one of these.\"",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 113,
+      "start": 747.42,
+      "end": 750.64,
+      "speaker": "Presenter",
+      "text": "Okay, and these are all different offers you can test. So you guys can literally go and test this, like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 114,
+      "start": 750.64,
+      "end": 756.0,
+      "speaker": "Presenter",
+      "text": "go ahead, put this on your page. Again, you'll see how we do that with Pagedeck, okay? So right here,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 115,
+      "start": 756.0,
+      "end": 763.56,
+      "speaker": "Presenter",
+      "text": "how one how one offer can 2x and 2x your ad spend and 3x your ROAS. So you guys can see that we use Pagedeck to do this stuff and it's very,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 116,
+      "start": 763.56,
+      "end": 769.12,
+      "speaker": "Presenter",
+      "text": "very simple and easy to do all these things. Or, you guys can just change this on your product page. So you can duplicate your product page",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 117,
+      "start": 769.22,
+      "end": 774.2,
+      "speaker": "Presenter",
+      "text": "and you can have this be a new offer on your store that you directly send traffic to, okay?",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 118,
+      "start": 774.26,
+      "end": 781.1,
+      "speaker": "Presenter",
+      "text": "So either way, you're going to test this right inside of Meta, okay? And I show you guys how to do this as well in the how to run ads section. So it's like,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 119,
+      "start": 781.1,
+      "end": 786.64,
+      "speaker": "Presenter",
+      "text": "how do you run ads? Well, you can use basically this landing page test or you create an ad set",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 120,
+      "start": 786.64,
+      "end": 794.9,
+      "speaker": "Presenter",
+      "text": "with your best ads and you send them to a new URL. Yes, you're going to you yes, you're going to lose the engagement and I know I'm kind of darting all over the place. We're supposed to be talking about offers,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 121,
+      "start": 794.9,
+      "end": 796.16,
+      "speaker": "Presenter",
+      "text": "but basically here,",
+      "chunk": 2,
+      "timing": "aligned"
+    },
+    {
+      "id": 122,
+      "start": 796.8,
+      "end": 802.32,
+      "speaker": "Presenter",
+      "text": "if you get into the actual YouTube media buying strategy, you'll see I talk about how to test landing pages here. So once",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 123,
+      "start": 802.32,
+      "end": 808.12,
+      "speaker": "Presenter",
+      "text": "you have considered that, it's like, okay, well now that I know it's all about revenue per session, what I might do here",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 124,
+      "start": 808.12,
+      "end": 814.92,
+      "speaker": "Presenter",
+      "text": "is I might just Okay, let's let's play around with this. Let let me pull all of this stuff down, right? Let's get all this stuff down here.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 125,
+      "start": 814.92,
+      "end": 820.1,
+      "speaker": "Presenter",
+      "text": "Let's adjust this to the $69.99 that it actually should be, okay? But let's take a look at this, okay? So,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 126,
+      "start": 820.1,
+      "end": 824.02,
+      "speaker": "Presenter",
+      "text": "right now, our current margin is 68%,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 127,
+      "start": 824.16,
+      "end": 830.9,
+      "speaker": "Presenter",
+      "text": "okay? We have $15 COGS, $5 shipping cost, right? And right now we're not actually charging for shipping; we're giving free shipping,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 128,
+      "start": 831.2,
+      "end": 836.66,
+      "speaker": "Presenter",
+      "text": "'cause Spencer says, sometimes that helps conversion rate, although I'd recommend testing that as well. Um right here, we have a 68% margin.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 129,
+      "start": 837.18,
+      "end": 842.34,
+      "speaker": "Presenter",
+      "text": "Well, what if for my new offer, I move maybe compare compare at price stays at $79.99,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 130,
+      "start": 842.82,
+      "end": 846.98,
+      "speaker": "Presenter",
+      "text": "what if I move it down to $59.99? How bad does that murder me?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 131,
+      "start": 847.32,
+      "end": 851.34,
+      "speaker": "Presenter",
+      "text": "It's not great, I'm down to a 63% margin, but let's play this out.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 132,
+      "start": 851.78,
+      "end": 858.64,
+      "speaker": "Presenter",
+      "text": "Let's say, okay, we go back to our revenue per session calculator, and this is when, okay, I'm going to test a different price, right? Price is like the number one thing that you guys should be testing,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 133,
+      "start": 858.64,
+      "end": 864.1,
+      "speaker": "Presenter",
+      "text": "price and bundles, so right here if you guys take a look at the number one thing I recommend, which is bundle and save,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 134,
+      "start": 864.1,
+      "end": 868.44,
+      "speaker": "Presenter",
+      "text": "100%, all you guys should be doing this if you can. The next thing that you that you just do is like,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 135,
+      "start": 868.44,
+      "end": 872.52,
+      "speaker": "Presenter",
+      "text": "test different prices, okay? And so again, I just talked about the example of like,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 136,
+      "start": 872.58,
+      "end": 878.8,
+      "speaker": "Presenter",
+      "text": "all right, let's make minimum order quantity two, right? You could do that, or you could just say, hey, you know what, instead of 69, I'm going to charge 79,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 137,
+      "start": 879.24,
+      "end": 884.26,
+      "speaker": "Presenter",
+      "text": "okay, and see and see what happens to your conversion rate and AOV then. But let's just say you have $59.99,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 138,
+      "start": 884.26,
+      "end": 887.98,
+      "speaker": "Presenter",
+      "text": "and we go in here, okay, so our regular price is $69.99,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 139,
+      "start": 888.34,
+      "end": 893.16,
+      "speaker": "Presenter",
+      "text": "uh over here, we're going to test $59.99, and then let's say, again, our conversion rate is 2%,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 140,
+      "start": 893.16,
+      "end": 899.66,
+      "speaker": "Presenter",
+      "text": "and then over here, again, what would happen? Well, if we keep the same conversion rate, or, you know, our conversion rate goes down, it's not good.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 141,
+      "start": 900.12,
+      "end": 906.22,
+      "speaker": "Presenter",
+      "text": "And just to be clear, guys, this is why you need to be tracking this in the ad account, because your Shopify conversion rate",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 142,
+      "start": 906.22,
+      "end": 914.88,
+      "speaker": "Presenter",
+      "text": "is going to go up and down literally every single day, and you're going to launch a new offer, and your Shopify conversion rate's going to be shit, and you'll be like, oh my god, like, this sucked, but it's like, it's been one day,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 143,
+      "start": 915.18,
+      "end": 921.18,
+      "speaker": "Presenter",
+      "text": "so you got to give it some time, okay? So you've got to give these things time, at least seven days for this to test, but you'll want to track,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 144,
+      "start": 921.58,
+      "end": 927.7,
+      "speaker": "Presenter",
+      "text": "let's just say this is your current one, inside of the ad set level, let's say, again, you can see here, look at the AOV on this,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 145,
+      "start": 928.04,
+      "end": 930.42,
+      "speaker": "Presenter",
+      "text": "it's $138 and a 3.65.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 146,
+      "start": 931.06,
+      "end": 933.82,
+      "speaker": "Presenter",
+      "text": "This conversion rate sucks compared to this one, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 147,
+      "start": 934.14,
+      "end": 942.08,
+      "speaker": "Presenter",
+      "text": "And so say this was your original offer and your ads and that kind of stuff, and then this is your new page test, well, if you see this on a new page test over seven days and it's gotten decent data,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 148,
+      "start": 942.08,
+      "end": 947.98,
+      "speaker": "Presenter",
+      "text": "look look how bad this is. Like, the cost per click for some reason is better on this, but look how bad the conversion rate is,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 149,
+      "start": 947.98,
+      "end": 951.18,
+      "speaker": "Presenter",
+      "text": "right? In comparison to the AOV, AOV on this is way better,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 150,
+      "start": 951.2,
+      "end": 957.68,
+      "speaker": "Presenter",
+      "text": "right? And so you guys are going to do the same thing. So, let's just say you bumped price down to 59, and now guess what, your conversion rate goes to 3%.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 151,
+      "start": 957.68,
+      "end": 960.36,
+      "speaker": "Presenter",
+      "text": "Well, look at this. It's green. You're making more money,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 152,
+      "start": 960.88,
+      "end": 965.5,
+      "speaker": "Presenter",
+      "text": "okay? So, even though your AOV is going down, if your conversion rate goes up,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 153,
+      "start": 965.56,
+      "end": 972.08,
+      "speaker": "Presenter",
+      "text": "let's say your conversion rate doubles just from that change, you guys are probably laughing at this point, because you've just added a dollar",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 154,
+      "start": 972.08,
+      "end": 975.44,
+      "speaker": "Presenter",
+      "text": "to your revenue per session. Like, that is a large amount, guys, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 155,
+      "start": 975.9,
+      "end": 983.18,
+      "speaker": "Presenter",
+      "text": "And so I want you guys to understand that this is why it's not all about just AOV maxing, you need to come in and look at your revenue per session.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 156,
+      "start": 983.48,
+      "end": 989.12,
+      "speaker": "Presenter",
+      "text": "Now what's important here, I don't want to throw you guys for another loop, this is where you need to start to factor in your COGS, right?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 157,
+      "start": 989.24,
+      "end": 993.96,
+      "speaker": "Presenter",
+      "text": "Because there might be a specific point where, okay, you have 63% margins here,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 158,
+      "start": 993.96,
+      "end": 998.9,
+      "speaker": "Presenter",
+      "text": "versus, if we take a look at the original, 70% margins, if we're charging $69.99,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 159,
+      "start": 999.42,
+      "end": 1004.72,
+      "speaker": "Presenter",
+      "text": "well, then you need to figure out, okay, well like, am I actually making more money? Like, is this uptick actually worth it?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 160,
+      "start": 1004.9,
+      "end": 1007.58,
+      "speaker": "Presenter",
+      "text": "Consider this, right? 63% margins here,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 161,
+      "start": 1008.16,
+      "end": 1014.24,
+      "speaker": "Presenter",
+      "text": "and then over here, you have, I think it's What was it, 73% margin or 70% margin? Okay, so times",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 162,
+      "start": 1014.24,
+      "end": 1018.58,
+      "speaker": "Presenter",
+      "text": "0.7. So, you can see here, look at this, with 70% margins,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 163,
+      "start": 1018.96,
+      "end": 1024.0,
+      "speaker": "Presenter",
+      "text": "you're making, if I don't break this, 98 cents in profit. That's This is what's called your profit per session.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 164,
+      "start": 1024.08,
+      "end": 1027.14,
+      "speaker": "Presenter",
+      "text": "Over here, with 63% margins, you're making a $1.51,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 165,
+      "start": 1028.02,
+      "end": 1033.56,
+      "speaker": "Presenter",
+      "text": "right? Now let's just say, for example, even though your revenue per session goes up, let's just say it goes up to 3% here, to a $1.80,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 166,
+      "start": 1034.08,
+      "end": 1040.72,
+      "speaker": "Presenter",
+      "text": "well, now look at this, you're still making more, but this is where profit per session is important, because let's just say, for example, this is still going to show green here,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 167,
+      "start": 1040.72,
+      "end": 1046.88,
+      "speaker": "Presenter",
+      "text": "but the uptick really wasn't worth it for how much you lost in AOV, and now if you actually look at it, you're making less profit.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 168,
+      "start": 1046.88,
+      "end": 1051.46,
+      "speaker": "Presenter",
+      "text": "And so this is something for you guys to pay attention to, and I'm not just going to act like this doesn't matter,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 169,
+      "start": 1051.46,
+      "end": 1055.02,
+      "speaker": "Presenter",
+      "text": "and so it is important that I have this in here, we'll just call this your your PPS.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 170,
+      "start": 1056.58,
+      "end": 1062.18,
+      "speaker": "Presenter",
+      "text": "I don't know why that word always makes me laugh, I think I'm 26 going on 10. Um but here you go, right? So now you can calculate it this way,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 171,
+      "start": 1062.18,
+      "end": 1065.9,
+      "speaker": "Presenter",
+      "text": "based off of whatever your margins are, okay? And so this is obviously 63,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 172,
+      "start": 1067.32,
+      "end": 1072.86,
+      "speaker": "Presenter",
+      "text": "and we can see what our profit per session is there. My point is, guys, is like, this is what matters most, both AOV",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 173,
+      "start": 1072.86,
+      "end": 1077.12,
+      "speaker": "Presenter",
+      "text": "times conversion rate, not just increasing AOV, and not just increasing conversion rate, okay?",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 174,
+      "start": 1077.54,
+      "end": 1083.74,
+      "speaker": "Presenter",
+      "text": "And so, again, now if we go back through this, it's like, okay, well what other offers could we test? Well, what if we do a buy one get one free? Okay, great.",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 175,
+      "start": 1084.18,
+      "end": 1089.08,
+      "speaker": "Presenter",
+      "text": "And this is where you guys can see where you can get creative with this stuff, right? Well, let's just see,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 176,
+      "start": 1089.08,
+      "end": 1093.08,
+      "speaker": "Presenter",
+      "text": "if we make this $79.99, and again, we would times this",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 177,
+      "start": 1093.42,
+      "end": 1096.68,
+      "speaker": "Presenter",
+      "text": "by two for our scratch out price, so this times two,",
+      "chunk": 3,
+      "timing": "aligned"
+    },
+    {
+      "id": 178,
+      "start": 1096.68,
+      "end": 1099.2,
+      "speaker": "Presenter",
+      "text": "right? $159. They're buy one, get one free.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 179,
+      "start": 1099.2,
+      "end": 1102.92,
+      "speaker": "Presenter",
+      "text": "Well, we have 52.97% margin.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 180,
+      "start": 1103.36,
+      "end": 1107.66,
+      "speaker": "Presenter",
+      "text": "That's not really ideal. And if you guys want, like, bare bottom floor, never go below 50.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 181,
+      "start": 1108.3,
+      "end": 1110.64,
+      "speaker": "Presenter",
+      "text": "Like, you're going to be struggling at 50, I promise.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 182,
+      "start": 1110.64,
+      "end": 1114.88,
+      "speaker": "Presenter",
+      "text": "Um, but let's just say, for example, we wanted to get crazy. It's like, you know what, I just want to get",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 183,
+      "start": 1114.88,
+      "end": 1122.04,
+      "speaker": "Presenter",
+      "text": "some purchases coming in the door because, guess what? If you get to some more volume, you might be able to actually drop down",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 184,
+      "start": 1122.04,
+      "end": 1131.84,
+      "speaker": "Presenter",
+      "text": "your total cost of goods. And so you might be able to get your cost of goods down from $15 per thing to $12 per thing. Well, guess what, guys? If we get this down to $12,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 185,
+      "start": 1131.84,
+      "end": 1136.34,
+      "speaker": "Presenter",
+      "text": "now, I'm just going to run this over, now our cost of goods is $24.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 186,
+      "start": 1137.08,
+      "end": 1139.9,
+      "speaker": "Presenter",
+      "text": "Okay? And now look at our margin. Now we're at 60%.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 187,
+      "start": 1139.9,
+      "end": 1144.68,
+      "speaker": "Presenter",
+      "text": "And the, the way, it's obviously a lot easier for me to like drop cost of goods right here, but the way that that happens",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 188,
+      "start": 1144.68,
+      "end": 1152.06,
+      "speaker": "Presenter",
+      "text": "is because you're just doing more volume now. You're getting more orders. And like I said, bare, bare bottom, 50%. I do not even want you guys to try to go below 50%.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 189,
+      "start": 1152.06,
+      "end": 1155.72,
+      "speaker": "Presenter",
+      "text": "But like if you're really struggling, like try to provide more value.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 190,
+      "start": 1155.72,
+      "end": 1164.1,
+      "speaker": "Presenter",
+      "text": "Just know, a lot of the times, like you can provide value other ways, which you guys should have already seen in the copywriting 101 stuff where it talks about speed",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 191,
+      "start": 1164.1,
+      "end": 1168.78,
+      "speaker": "Presenter",
+      "text": "and how fast it is and effort and sacrifice and perceived likelihood, and all those kinds of things.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 192,
+      "start": 1168.78,
+      "end": 1173.64,
+      "speaker": "Presenter",
+      "text": "But my point is, is let's say we do a buy one, get one free, well, what happens then? Okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 193,
+      "start": 1173.72,
+      "end": 1178.3,
+      "speaker": "Presenter",
+      "text": "Because we have 52.97% margins, it's a little tough here. Okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 194,
+      "start": 1178.54,
+      "end": 1182.76,
+      "speaker": "Presenter",
+      "text": "So, 52%, uh, 52.9 is what we have here, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 195,
+      "start": 1183.3,
+      "end": 1188.92,
+      "speaker": "Presenter",
+      "text": "And let's just say, for example, we come in and we're like, \"Okay. Well, our AOV is going to be 79.99,\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 196,
+      "start": 1189.26,
+      "end": 1193.72,
+      "speaker": "Presenter",
+      "text": "right? Our margins are really bad, but what if our conversion rate goes up to like 5%?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 197,
+      "start": 1194.62,
+      "end": 1198.88,
+      "speaker": "Presenter",
+      "text": "Well, look at this, guys. Even with terrible margins, we've doubled our profit per session.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 198,
+      "start": 1199.48,
+      "end": 1205.92,
+      "speaker": "Presenter",
+      "text": "This is a crazy jump. And I know, I'm just punching numbers into a sheet, but you guys have to understand, I've seen this happen time and time and time again.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 199,
+      "start": 1205.92,
+      "end": 1211.84,
+      "speaker": "Presenter",
+      "text": "Okay? And so this is why optimizing your offer and testing your offers, and guys, I just made offers",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 200,
+      "start": 1211.84,
+      "end": 1217.76,
+      "speaker": "Presenter",
+      "text": "here, but I, I did one buy one, so we would just call this buy one, get one free, okay, is what that is. You know, I did one where",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 201,
+      "start": 1217.76,
+      "end": 1226.08,
+      "speaker": "Presenter",
+      "text": "I said, \"Hey, the minimum quantity is two,\" and then I did another one where I just said, \"Hey, we're going to drop the price.\" Like this is the stuff that you guys need to be testing early on",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 202,
+      "start": 1226.08,
+      "end": 1230.72,
+      "speaker": "Presenter",
+      "text": "to try to see if you can find the sweet spot, okay? And I'll use this brand as an example,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 203,
+      "start": 1230.72,
+      "end": 1235.1,
+      "speaker": "Presenter",
+      "text": "because like what they did is it didn't make sense for them to sell one. They were getting, you know, destroyed.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 204,
+      "start": 1236.04,
+      "end": 1241.3,
+      "speaker": "Presenter",
+      "text": "And so they were doing a buy two, get two free, and then our team came in and said, \"Screw it. Let's just try a buy two, get three free.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 205,
+      "start": 1241.52,
+      "end": 1246.58,
+      "speaker": "Presenter",
+      "text": "And guess what? That one actually ended up working out better for us. We had a higher conversion rate, or the conversion rate went up enough",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 206,
+      "start": 1246.58,
+      "end": 1253.38,
+      "speaker": "Presenter",
+      "text": "where we were actually, you know, doing better and making more money, and so that's what we ran with. Okay? So you guys can play around with this. You could do, get X percent off.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 207,
+      "start": 1253.5,
+      "end": 1259.24,
+      "speaker": "Presenter",
+      "text": "We're doing this for one of our brands right now where it's like, \"Hey, if you buy another one, you save 30%,\" right? This is recommended if you have bad margins.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 208,
+      "start": 1259.84,
+      "end": 1265.76,
+      "speaker": "Presenter",
+      "text": "You can also throw in free gifts, you can obviously include free shipping. Make sure you call that out. Free gifts can be a bunch of different things.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 209,
+      "start": 1266.0,
+      "end": 1271.76,
+      "speaker": "Presenter",
+      "text": "I usually recommend like a lot of the times, people just want what you're advertising. They don't want like just some random free gift",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 210,
+      "start": 1271.76,
+      "end": 1276.82,
+      "speaker": "Presenter",
+      "text": "that you're throwing in that's probably not that valuable, but the point is, is you can come in and you can start building these bundles, and bundles",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 211,
+      "start": 1276.82,
+      "end": 1279.72,
+      "speaker": "Presenter",
+      "text": "are where like the money is made, and so if you do a Hormonal Harmony,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 212,
+      "start": 1279.72,
+      "end": 1284.62,
+      "speaker": "Presenter",
+      "text": "uh, times times two and times three, right? And you just come in and you start building bundles,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 213,
+      "start": 1285.32,
+      "end": 1288.7,
+      "speaker": "Presenter",
+      "text": "well, guess what? Now, you can come in and you can see what actually ends up happening",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 214,
+      "start": 1289.5,
+      "end": 1292.78,
+      "speaker": "Presenter",
+      "text": "when you have really, really great suppliers who can support",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 215,
+      "start": 1292.78,
+      "end": 1300.9,
+      "speaker": "Presenter",
+      "text": "on actually getting, and I just need to make sure that I actually optimize this because I didn't, so I'm breaking the sheet, and I know it's crazy watching me click around, so let me fix this for you guys.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 216,
+      "start": 1300.9,
+      "end": 1307.56,
+      "speaker": "Presenter",
+      "text": "All right. So, look at this, right, guys? If we take a look at this one, two, three bundle that we want to do, again, and you might, might, you might do two, four, six,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 217,
+      "start": 1308.08,
+      "end": 1312.12,
+      "speaker": "Presenter",
+      "text": "right? You might do one, three, five. It, it, it just depends. Like, you guys can get",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 218,
+      "start": 1312.12,
+      "end": 1319.02,
+      "speaker": "Presenter",
+      "text": "creative with this stuff, and this hopefully goes to show you. It's like, okay, what's going to make you more money? Actually optimizing the offers",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 219,
+      "start": 1319.02,
+      "end": 1324.08,
+      "speaker": "Presenter",
+      "text": "and spending time testing a bunch of different combinations and testing it in Meta, or clicking buttons in Facebook?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 220,
+      "start": 1325.6,
+      "end": 1329.32,
+      "speaker": "Presenter",
+      "text": "Like, probably optimizing the thing that people are buying is going to make you more money.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 221,
+      "start": 1329.62,
+      "end": 1337.24,
+      "speaker": "Presenter",
+      "text": "Now, I just want to be very clear. Like, yes, this can tank your sales if you do it the wrong way and you just change it on your website,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 222,
+      "start": 1337.54,
+      "end": 1344.28,
+      "speaker": "Presenter",
+      "text": "but the way that we're telling you guys to do this is, again, duplicate the landing page, right? So whatever landing page that you have your current offer on,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 223,
+      "start": 1344.62,
+      "end": 1352.14,
+      "speaker": "Presenter",
+      "text": "you're going to go into it, you're going to duplicate it, and you're going to optimize the offer for it. That's why we use Pagedeck, but even if you want to do this for your product page,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 224,
+      "start": 1352.14,
+      "end": 1358.34,
+      "speaker": "Presenter",
+      "text": "you guys can go in, you can duplicate your product page and you can optimize it that way as well. I'm actually going to show you guys, screw it. We're going to get straight in the weeds.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 225,
+      "start": 1358.34,
+      "end": 1364.96,
+      "speaker": "Presenter",
+      "text": "I'm going to show you guys how to do this stuff all the way through the end. This is going to be a bit of a ram- video, but I don't give a shit. So, here we go, right? Now, let's just go back into the actual",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 226,
+      "start": 1364.96,
+      "end": 1371.9,
+      "speaker": "Presenter",
+      "text": "example offers that we have running. Let's just say here we've got $79, right? And then we've got, I'm just going to go ahead and do, uh, equals this.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 227,
+      "start": 1371.9,
+      "end": 1374.72,
+      "speaker": "Presenter",
+      "text": "So I'm going to lock this, uh, price at $79,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 228,
+      "start": 1375.32,
+      "end": 1381.66,
+      "speaker": "Presenter",
+      "text": "and I'm going to multiply it by whatever our quantity is, and you guys will be able to see this here, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 229,
+      "start": 1382.02,
+      "end": 1387.46,
+      "speaker": "Presenter",
+      "text": "And so then we're going to drag down the shipping price. Shipping price is free for now, uh, and look at our margins here, right?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 230,
+      "start": 1387.56,
+      "end": 1392.36,
+      "speaker": "Presenter",
+      "text": "So our margins are getting better. Now, why are our margins getting better? Our margins are getting better because our shipping is staying flat.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 231,
+      "start": 1392.7,
+      "end": 1397.06,
+      "speaker": "Presenter",
+      "text": "And this is where you guys have to understand you can start to make really good money here when you have",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 232,
+      "start": 1397.06,
+      "end": 1401.94,
+      "speaker": "Presenter",
+      "text": "like kind of like a flat shipping price that stays the same no matter if you sell two, three or four.",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 233,
+      "start": 1402.16,
+      "end": 1406.66,
+      "speaker": "Presenter",
+      "text": "So this is crucial. If you guys can get this, it's going to help you a ton with bundling, okay?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 234,
+      "start": 1406.96,
+      "end": 1411.9,
+      "speaker": "Presenter",
+      "text": "Have conversations with your suppliers and go through that process, and you can also hit up, you know, the supplier that we have in there. Now,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 235,
+      "start": 1412.0,
+      "end": 1416.94,
+      "speaker": "Presenter",
+      "text": "let's take a look at this, right? So what happens if let's just say we want to do 20% off?",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 236,
+      "start": 1417.4,
+      "end": 1425.0,
+      "speaker": "Presenter",
+      "text": "Well, we could take this number and we could times this by 0.8, which basically just means we're giving this 20% off,",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 237,
+      "start": 1425.0,
+      "end": 1428.86,
+      "speaker": "Presenter",
+      "text": "and so here we can come in and we can say, \"Hey, this is 20% off when you buy two.\"",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 238,
+      "start": 1429.38,
+      "end": 1431.88,
+      "speaker": "Presenter",
+      "text": "Okay? What about if we do 30% off",
+      "chunk": 4,
+      "timing": "aligned"
+    },
+    {
+      "id": 239,
+      "start": 1432.06,
+      "end": 1433.9,
+      "speaker": "Presenter",
+      "text": "when you buy three.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 240,
+      "start": 1434.26,
+      "end": 1439.24,
+      "speaker": "Presenter",
+      "text": "Well, let's just play around with this. Here's our actual price. We're going to go ahead and times this by 0.7.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 241,
+      "start": 1439.46,
+      "end": 1446.98,
+      "speaker": "Presenter",
+      "text": "And why am I timesing this by 0.7? It's because 239 times 0.3, so 30% off, is $71, right? Or 72.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 242,
+      "start": 1447.4,
+      "end": 1455.22,
+      "speaker": "Presenter",
+      "text": "And then we're going to minus this from there, it's 167, badaboom badabang. The quick way to do that is just times it by 70% of what this value is, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 243,
+      "start": 1455.5,
+      "end": 1462.0,
+      "speaker": "Presenter",
+      "text": "For those of you who are math majors, you probably don't need that explanation, but if you're confused, you know, just watch it again. But now we take a look at this, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 244,
+      "start": 1462.24,
+      "end": 1469.62,
+      "speaker": "Presenter",
+      "text": "We have 71% margins on buy one, we have 69% margins on buy two, and 67% margins on buy three.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 245,
+      "start": 1470.04,
+      "end": 1473.94,
+      "speaker": "Presenter",
+      "text": "And guess what? We're we're giving somebody 30% off for spending $167.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 246,
+      "start": 1474.76,
+      "end": 1480.14,
+      "speaker": "Presenter",
+      "text": "Now what's really cool about this is, if you hover these three numbers, you can get, basically, the average.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 247,
+      "start": 1480.58,
+      "end": 1487.46,
+      "speaker": "Presenter",
+      "text": "Now, on average, this this is just considering that, like, equal amount of people buy all of these combinations, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 248,
+      "start": 1487.74,
+      "end": 1492.22,
+      "speaker": "Presenter",
+      "text": "But $125 is the average of 79, 127 and 126, or 167.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 249,
+      "start": 1492.94,
+      "end": 1497.82,
+      "speaker": "Presenter",
+      "text": "But the truth is, is, like, most people are probably just going to buy one, or whatever the default combination actually is.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 250,
+      "start": 1497.82,
+      "end": 1502.28,
+      "speaker": "Presenter",
+      "text": "So basically let's just say most people are going to buy, again, the $79.99 one.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 251,
+      "start": 1502.5,
+      "end": 1509.88,
+      "speaker": "Presenter",
+      "text": "And let's just say our average order value actually goes up to like a hundred and maybe like a hundred dollars, even just going from 79 to a hundred, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 252,
+      "start": 1510.04,
+      "end": 1514.02,
+      "speaker": "Presenter",
+      "text": "Well, let's take a look. We have $79.99, right? We have a 2% conversion rate.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 253,
+      "start": 1514.02,
+      "end": 1519.52,
+      "speaker": "Presenter",
+      "text": "What happens if our AOV goes up to a hundred dollars, and our conversion rate even stays the same?",
+      "chunk": 5,
+      "timing": "partly_aligned"
+    },
+    {
+      "id": 254,
+      "start": 1520.18,
+      "end": 1527.18,
+      "speaker": "Presenter",
+      "text": "Well, again, our this is considering that we have worse margins, so we need to figure out what our average margin is. So, again, it's around 69%.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 255,
+      "start": 1527.18,
+      "end": 1535.8,
+      "speaker": "Presenter",
+      "text": "So let's just play on the safe side, and say this is 0.69% compared to I think up here we had 0.7. Let's just jot it down two more, like 0.67.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 256,
+      "start": 1536.4,
+      "end": 1540.12,
+      "speaker": "Presenter",
+      "text": "Well guess what, guys? Now we're making more money. And this is why",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 257,
+      "start": 1540.12,
+      "end": 1548.2,
+      "speaker": "Presenter",
+      "text": "we want to focus on optimizing offers, because this is the stuff that media buying can't really do for you, okay? Optimizing offers can.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 258,
+      "start": 1548.58,
+      "end": 1556.44,
+      "speaker": "Presenter",
+      "text": "And so, as you guys can see, that's just by doing bundles, that's just by giving 20%, 30% off. And I want you guys to hopefully see, like, how many different combinations there are.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 259,
+      "start": 1556.62,
+      "end": 1563.62,
+      "speaker": "Presenter",
+      "text": "And I know the number one question that you guys are going to ask is, like, \"Well Spencer, like, there's so many different combinations, like, what should I do?\" What I would recommend doing is this:",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 260,
+      "start": 1563.88,
+      "end": 1570.12,
+      "speaker": "Presenter",
+      "text": "So number one, look at where your revenue per session is. If your revenue per session is below a dollar,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 261,
+      "start": 1570.58,
+      "end": 1579.4,
+      "speaker": "Presenter",
+      "text": "something is You're probably You're probably charging too much. I'll I'll say it right now, like your AOV is probably like you probably need to drop your AOV to get your conversion rate up,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 262,
+      "start": 1579.4,
+      "end": 1587.48,
+      "speaker": "Presenter",
+      "text": "because something is like tragically wrong if your conversion rate is 1%, okay? Or sorry, if your revenue per session is like eight",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 263,
+      "start": 1587.96,
+      "end": 1599.58,
+      "speaker": "Presenter",
+      "text": "Like so look at this, guys, like your For you to be profitable, you have to have less than a $0.50 Not even You have to have like Yeah, a $0.56 or less than a $0.56 cost per click, which is really hard to do, especially in the US.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 264,
+      "start": 1599.58,
+      "end": 1612.58,
+      "speaker": "Presenter",
+      "text": "Okay? And so if your revenue per session is below a dollar, you probably need to drop your AOV. Or you might need to try to, like, dramatically increase your AOV. So you might need to go from, like, 79 to, like, 99 and like see what happens, okay?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 265,
+      "start": 1612.6,
+      "end": 1617.44,
+      "speaker": "Presenter",
+      "text": "Like, what happens if you just charge way more? Well, you're getting a little bit better, but you're not really getting that much, right?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 266,
+      "start": 1617.84,
+      "end": 1628.18,
+      "speaker": "Presenter",
+      "text": "And so, let's just say for example, you drop it down to, like, $59.99, right? But your conversion rate goes to 2.5%. Again, you guys are automatically making more money. You've just doubled your profit per session.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 267,
+      "start": 1628.34,
+      "end": 1635.86,
+      "speaker": "Presenter",
+      "text": "Now, your obviously it wouldn't be double your profit per session. Obviously your, um, margins probably going to change, but let's just say that drops you down to 60%. Again,",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 268,
+      "start": 1636.04,
+      "end": 1641.68,
+      "speaker": "Presenter",
+      "text": "you guys have nearly doubled your profit per session. And so this is the game that you guys need to start playing. And so",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 269,
+      "start": 1641.68,
+      "end": 1647.54,
+      "speaker": "Presenter",
+      "text": "what I would recommend is that if, again, if you're below a dollar revenue per session, something something is wrong.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 270,
+      "start": 1647.88,
+      "end": 1660.46,
+      "speaker": "Presenter",
+      "text": "Now, if you're between a dollar and $2, that means you're kind of close, and what you really want to do is try to find things that can bump you to that ideal level of $2.50 or $3 in revenue per session.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 271,
+      "start": 1660.9,
+      "end": 1664.7,
+      "speaker": "Presenter",
+      "text": "And the way that you can do that is by bundling. It's a fantastic way to do it.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 272,
+      "start": 1664.9,
+      "end": 1676.96,
+      "speaker": "Presenter",
+      "text": "Another like cheat code way is again doing bundles in a way that just provide more value. So rather than doing buy one, you could do or sorry, rather than doing you know, save 20%, what if you do buy two, you know, get one free?",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 273,
+      "start": 1677.54,
+      "end": 1684.46,
+      "speaker": "Presenter",
+      "text": "Okay? And this is an offer that has crushed for us a lot. So, Hormonal Harmony, you know, you buy two get one free, if I could spell.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 274,
+      "start": 1684.46,
+      "end": 1693.4,
+      "speaker": "Presenter",
+      "text": "So now, we're going to do buy two get one free. And instead of getting, you know, giving uh 20% off, what we need to do is we basically just need to take $79 away from this.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 275,
+      "start": 1693.4,
+      "end": 1697.6,
+      "speaker": "Presenter",
+      "text": "So we need to minus 79.99, because that's obviously the price of the product.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 276,
+      "start": 1697.6,
+      "end": 1704.7,
+      "speaker": "Presenter",
+      "text": "And as you can see here, again, now my margin is 65%, okay? It's still above the 60, so we're okay.",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 277,
+      "start": 1704.7,
+      "end": 1714.84,
+      "speaker": "Presenter",
+      "text": "And now this buy two get one free might be massive value for your customer. And so if you're just selling one, but you then have buy two get one free, and guess what? If you actually default select it",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 278,
+      "start": 1715.0,
+      "end": 1722.06,
+      "speaker": "Presenter",
+      "text": "So here for example, when I refresh, I think it's going to reset to the one. We've tested this before, but if you just set the default as two",
+      "chunk": 5,
+      "timing": "aligned"
+    },
+    {
+      "id": 279,
+      "start": 1723.16,
+      "end": 1728.74,
+      "speaker": "Presenter",
+      "text": "or the buy two, get one free, you might get more people to take that, cuz a lot of people just look, they click, and they buy. That's it.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 280,
+      "start": 1728.88,
+      "end": 1736.66,
+      "speaker": "Presenter",
+      "text": "They follow your recommendation. Now, for this brand specifically, it didn't make sense cuz most people don't need two humidifiers. They only need two if they're like, you know,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 281,
+      "start": 1736.8,
+      "end": 1744.08,
+      "speaker": "Presenter",
+      "text": "really splurging, or, you know, they're like a top 1% customer basically, or we have a big discount going. But for some brands where it's like here,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 282,
+      "start": 1744.4,
+      "end": 1751.14,
+      "speaker": "Presenter",
+      "text": "you know, if I'm doing a buy two, get get one free for a supplement, that might be a great thing to pre-select because then guess what? People",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 283,
+      "start": 1751.14,
+      "end": 1758.8,
+      "speaker": "Presenter",
+      "text": "are going to go ahead and buy. Right? And so, as you guys will notice here, like we haven't even talked about like subscription, which is a whole other thing, and I always recommend people like",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 284,
+      "start": 1758.92,
+      "end": 1766.24,
+      "speaker": "Presenter",
+      "text": "if you're new to e-commerce, I understand subscription is sexy, and I'm not trying to get you guys away from subscription, but I'd rather see you just get customers in the door first,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 285,
+      "start": 1766.24,
+      "end": 1772.5,
+      "speaker": "Presenter",
+      "text": "and have people that just want to buy your product again so you know that you actually have a good product, versus just trying to force people into a subscription. Because",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 286,
+      "start": 1772.5,
+      "end": 1779.7,
+      "speaker": "Presenter",
+      "text": "you don't have an LTV yet. You need to start getting profitable cuz you probably don't have a lot of money that's funding you for subscrip- subscription, or an LTV that doesn't exist.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 287,
+      "start": 1779.7,
+      "end": 1788.56,
+      "speaker": "Presenter",
+      "text": "Welcome villain to Evolve. My My point here, guys, is like you need to make sure that you're doing whatever you can to get the highest revenue per session.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 288,
+      "start": 1788.56,
+      "end": 1796.84,
+      "speaker": "Presenter",
+      "text": "This is what's holding a lot of you back. And some of you guys are here. You have a $59 AOV and a 1% conversion rate and you're wondering why you're not profitable. It's like this is why.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 289,
+      "start": 1796.84,
+      "end": 1801.62,
+      "speaker": "Presenter",
+      "text": "Like it it's You have to have a $0.30 cost per click to to just make some kind of money.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 290,
+      "start": 1801.62,
+      "end": 1810.78,
+      "speaker": "Presenter",
+      "text": "Right? So you guys really need to figure out the combination between AOV and conversion rate. Now, understand your ads will massively impact conversion rate,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 291,
+      "start": 1810.78,
+      "end": 1821.58,
+      "speaker": "Presenter",
+      "text": "which is why so much of the Evolve program or so much of the Origins program is about, you know, creating avatars and creating ads the right way. But you need to make sure that you also are considering your offer,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 292,
+      "start": 1821.58,
+      "end": 1828.86,
+      "speaker": "Presenter",
+      "text": "and you have your offer in a really good spot to generate high conversions. Now, what you guys can do, as long as again depending on what you have set up",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 293,
+      "start": 1828.86,
+      "end": 1839.08,
+      "speaker": "Presenter",
+      "text": "with your supplier and your You need to make sure that you're not breaking anything in the back end, but this is what we used to do, okay? We don't really do this much anymore because we just do everything through Pagedeck,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 294,
+      "start": 1839.16,
+      "end": 1848.2,
+      "speaker": "Presenter",
+      "text": "so Pagedeck is a lot easier, but I understand a lot of you guys don't have money to pay for Pagedeck, so I'm trying to show you guys. Pagedeck is super easy on changing price and all that kind of stuff cuz you can just create a discount code,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 295,
+      "start": 1848.2,
+      "end": 1855.6,
+      "speaker": "Presenter",
+      "text": "or create a bundle, or do everything inside of Pagedeck. I don't have time to film a tutorial for that, but I'm going to show you guys at least how to do it here. And so, what you can do, just as an example,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 296,
+      "start": 1855.96,
+      "end": 1862.24,
+      "speaker": "Presenter",
+      "text": "is you can just duplicate this product. All right, so once you click in the product, you can actually click duplicate. I'm just very zoomed in so I don't leak any of their sales",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 297,
+      "start": 1862.24,
+      "end": 1869.74,
+      "speaker": "Presenter",
+      "text": "and stuff like that, because it's back end for them, but anyways, let me go ahead and click this big duplicate button right here. And so, now if you look at this, now I've got a whole new product that I can use,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 298,
+      "start": 1870.08,
+      "end": 1877.26,
+      "speaker": "Presenter",
+      "text": "right? So I have this entire new product right here, right? I can go ahead and I can make this live. You can see down here you can optimize whatever it is that you want to do,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 299,
+      "start": 1877.6,
+      "end": 1887.12,
+      "speaker": "Presenter",
+      "text": "right? You can change the price, you can do whatever you want here, okay? I don't want to break the client's store, but just so you guys know, when you guys go in, say you just you just want to Chad send it,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 300,
+      "start": 1887.12,
+      "end": 1893.78,
+      "speaker": "Presenter",
+      "text": "you can customize this here and I'm just going to do it for the sake of showing you guys cuz it's not going to break anything, but you can create a new template. Again, I'm going to call this EAM",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 301,
+      "start": 1894.76,
+      "end": 1903.3,
+      "speaker": "Presenter",
+      "text": "EAM Tester, okay? I'm going to create a new template. And now that I have this new template, I can customize all this for the new offer. Guess what? You get this, you get that,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 302,
+      "start": 1903.3,
+      "end": 1909.32,
+      "speaker": "Presenter",
+      "text": "whatever it is. This is actually being pulled dynamic, right? So I've duplicated this now. And if I go ahead and if I refresh here,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 303,
+      "start": 1909.36,
+      "end": 1915.24,
+      "speaker": "Presenter",
+      "text": "I should be able to see that new template, so scroll down to the template and there it is, EAM Tester.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 304,
+      "start": 1915.64,
+      "end": 1922.08,
+      "speaker": "Presenter",
+      "text": "And so, now I have a brand-new product, I have a brand-new, you know, product page, I can do whatever the hell I want to it, and now I can come in, I can change the price,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 305,
+      "start": 1922.52,
+      "end": 1929.26,
+      "speaker": "Presenter",
+      "text": "I can create bundles, I can do all that kind of stuff. You guys, again, if you don't know any bundle tools, there's bundle tools called Kaching as well.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 306,
+      "start": 1929.46,
+      "end": 1935.28,
+      "speaker": "Presenter",
+      "text": "I'll probably have something linked down below for that. I've personally never used Kaching and I'm not going to like film a video me using Kaching.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 307,
+      "start": 1935.28,
+      "end": 1944.22,
+      "speaker": "Presenter",
+      "text": "You guys can watch YouTube videos for that stuff, but I just want to show you like how easy it is to just go in, duplicate a product, duplicate this, and then guess what? Once you have this saved, right?",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 308,
+      "start": 1944.56,
+      "end": 1951.72,
+      "speaker": "Presenter",
+      "text": "You're going to go ahead and preview this. Whatever the like the actual URL is, it's should be this one right here looks like products, something like that.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 309,
+      "start": 1952.04,
+      "end": 1959.2,
+      "speaker": "Presenter",
+      "text": "I'm just going to try to find this. It should be somewhere in here, so I just click preview. This is just going to show me the preview, but once this is published, basically I'm going to take this URL,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 310,
+      "start": 1959.78,
+      "end": 1968.24,
+      "speaker": "Presenter",
+      "text": "right, not this one. Don't use a preview, that's terrible idea. But you're going to take the one from your new product that you've made, and that is what you're going to put inside of Meta to go and test,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 311,
+      "start": 1968.86,
+      "end": 1974.64,
+      "speaker": "Presenter",
+      "text": "okay? And so, that's how you're able to test these offers as well, but again, the long story short of this is you have this doc to",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 312,
+      "start": 1974.64,
+      "end": 1980.64,
+      "speaker": "Presenter",
+      "text": "basically have offers to follow. And then you want to just be creative, guys, like if you even want to say, \"Hey,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 313,
+      "start": 1981.3,
+      "end": 1991.26,
+      "speaker": "Presenter",
+      "text": "here's my margins,\" and go to Claude and say like, \"Hey, guys, like or hey Claude, here's my margins, what are some offers?\" Or, for example, take inspo from other brands, right? Like go take a look at a company",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 314,
+      "start": 1991.26,
+      "end": 1999.08,
+      "speaker": "Presenter",
+      "text": "like Hormone Harmony. What are they doing? They're just doing a price slash, and then guess what? They have one, two, and four, and then they have a little call out here for free shipping over $120,",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 315,
+      "start": 2000.22,
+      "end": 2005.18,
+      "speaker": "Presenter",
+      "text": "right? So, guess what? If I spend over $120, which is the best value, I also get free shipping.",
+      "chunk": 6,
+      "timing": "aligned"
+    },
+    {
+      "id": 316,
+      "start": 2006.08,
+      "end": 2008.26,
+      "speaker": "Presenter",
+      "text": "right? And so I want you guys to understand, like,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 317,
+      "start": 2008.26,
+      "end": 2012.76,
+      "speaker": "Presenter",
+      "text": "a lot of the times, what these big brands do, it's like, sometimes you don't want to replicate",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 318,
+      "start": 2012.76,
+      "end": 2018.48,
+      "speaker": "Presenter",
+      "text": "because they're doing things that are kind of like too advanced for you, but at the same time, it's like they do these things for a reason because they work.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 319,
+      "start": 2018.82,
+      "end": 2022.6,
+      "speaker": "Presenter",
+      "text": "And so when you're able to lay everything out, lay out all your offers, know your numbers",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 320,
+      "start": 2022.94,
+      "end": 2025.12,
+      "speaker": "Presenter",
+      "text": "and then just plug it in after, \"Okay, I'd do the test,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 321,
+      "start": 2025.5,
+      "end": 2028.48,
+      "speaker": "Presenter",
+      "text": "here is my revenue per session before, here's my revenue per session after,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 322,
+      "start": 2028.48,
+      "end": 2031.54,
+      "speaker": "Presenter",
+      "text": "with my new margin.\" And you guys are even tracking profit per session?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 323,
+      "start": 2031.54,
+      "end": 2035.76,
+      "speaker": "Presenter",
+      "text": "I want you guys to know that, like, 90% of people in e-com don't even know what profit per session is, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 324,
+      "start": 2036.16,
+      "end": 2039.14,
+      "speaker": "Presenter",
+      "text": "And so you guys are already advanced or way beyond most of them.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 325,
+      "start": 2039.22,
+      "end": 2042.52,
+      "speaker": "Presenter",
+      "text": "But my point is, is like, be creative with your offers. I have offers here.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 326,
+      "start": 2042.88,
+      "end": 2045.82,
+      "speaker": "Presenter",
+      "text": "Number one thing I recommend all of you guys to do is- is do bundles, if you can.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 327,
+      "start": 2046.38,
+      "end": 2050.32,
+      "speaker": "Presenter",
+      "text": "Then I would recommend doing dollar up, dollar down, or percentage off, or percentage down, whatever.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 328,
+      "start": 2050.36,
+      "end": 2052.36,
+      "speaker": "Presenter",
+      "text": "Or, you know, percentage off is obviously only going to go one way.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 329,
+      "start": 2052.36,
+      "end": 2054.9,
+      "speaker": "Presenter",
+      "text": "Buy one get one free is phenomenal, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 330,
+      "start": 2055.36,
+      "end": 2057.9,
+      "speaker": "Presenter",
+      "text": "And if you don't have great margins, you could do buy X get X percent off.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 331,
+      "start": 2057.9,
+      "end": 2062.22,
+      "speaker": "Presenter",
+      "text": "And again, try giving free shipping at a- at a specific threshold or on all orders,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 332,
+      "start": 2062.22,
+      "end": 2065.16,
+      "speaker": "Presenter",
+      "text": "or sometimes even try testing for four dollars or five dollars.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 333,
+      "start": 2065.16,
+      "end": 2069.12,
+      "speaker": "Presenter",
+      "text": "Now, when it comes to testing this, you've got to get a little bit more creative.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 334,
+      "start": 2069.12,
+      "end": 2073.04,
+      "speaker": "Presenter",
+      "text": "Like, for example, you will want to create something in Pagedeck.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 335,
+      "start": 2073.06,
+      "end": 2075.66,
+      "speaker": "Presenter",
+      "text": "And Pagedeck, it makes it very easy. For those of you guys that don't know,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 336,
+      "start": 2075.66,
+      "end": 2079.28,
+      "speaker": "Presenter",
+      "text": "what you can do inside of Pagedeck, and you can do this inside of",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 337,
+      "start": 2080.86,
+      "end": 2083.22,
+      "speaker": "Presenter",
+      "text": "inside of Meta as well, or, sorry, inside of Shopify,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 338,
+      "start": 2083.22,
+      "end": 2087.82,
+      "speaker": "Presenter",
+      "text": "is create the discount code right here, and you would create a free shipping discount code,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 339,
+      "start": 2087.82,
+      "end": 2090.06,
+      "speaker": "Presenter",
+      "text": "and inside of Pagedeck, you can actually apply it.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 340,
+      "start": 2090.16,
+      "end": 2095.6,
+      "speaker": "Presenter",
+      "text": "So, for those of you guys that don't know how to do that, again, inside of Pagedeck, if you have questions, you can contact their team.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 341,
+      "start": 2095.62,
+      "end": 2099.1,
+      "speaker": "Presenter",
+      "text": "They're phenomenal for doing that. But I just know a lot of you guys can't afford Pagedeck.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 342,
+      "start": 2099.1,
+      "end": 2102.36,
+      "speaker": "Presenter",
+      "text": "But if you're using GemPages or something else, you should also be able to do that.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 343,
+      "start": 2102.36,
+      "end": 2108.5,
+      "speaker": "Presenter",
+      "text": "And then, again, if you guys want to see how to actually apply this as well and create specific URLs, you can see here, we have the free shipping.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 344,
+      "start": 2108.7,
+      "end": 2112.58,
+      "speaker": "Presenter",
+      "text": "Let's just say I wanted to create this. Again, make sure you confirm that it can work with other combinations.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 345,
+      "start": 2113.44,
+      "end": 2116.88,
+      "speaker": "Presenter",
+      "text": "And then as soon as I create it, guess- guess what? I can get a shareable link for this as well, right?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 346,
+      "start": 2116.98,
+      "end": 2119.66,
+      "speaker": "Presenter",
+      "text": "So, I can actually copy this URL, right?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 347,
+      "start": 2120.7,
+      "end": 2123.46,
+      "speaker": "Presenter",
+      "text": "Add the discount code to the end. And so whenever someone clicks this link,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 348,
+      "start": 2123.46,
+      "end": 2128.0,
+      "speaker": "Presenter",
+      "text": "right, via email or social media, it'll automatically apply, which is really cool, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 349,
+      "start": 2128.24,
+      "end": 2132.06,
+      "speaker": "Presenter",
+      "text": "And so that's another way that you guys can do this. Again, obviously, I'm going to delete this video,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 350,
+      "start": 2132.06,
+      "end": 2135.46,
+      "speaker": "Presenter",
+      "text": "or delete, or delete this coupon code for this brand, specifically.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 351,
+      "start": 2135.86,
+      "end": 2141.3,
+      "speaker": "Presenter",
+      "text": "But that is how you guys can create offers, be creative, but again, don't go like too crazy on this.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 352,
+      "start": 2141.56,
+      "end": 2145.52,
+      "speaker": "Presenter",
+      "text": "Hopefully, I gave you guys some guidelines around what your revenue per session is and what you need to focus on.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 353,
+      "start": 2145.66,
+      "end": 2149.38,
+      "speaker": "Presenter",
+      "text": "Also showed you guys how to create bundles, how to do buy two get one free or buy one get one free,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 354,
+      "start": 2149.96,
+      "end": 2151.8,
+      "speaker": "Presenter",
+      "text": "the rules for what your margin should be,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 355,
+      "start": 2152.02,
+      "end": 2157.12,
+      "speaker": "Presenter",
+      "text": "and basically everything that you need to start focusing on offers and ads and nothing else, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 356,
+      "start": 2157.18,
+      "end": 2159.58,
+      "speaker": "Presenter",
+      "text": "So, hopefully, this makes sense, guys. I hope this was valuable to you.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 357,
+      "start": 2159.68,
+      "end": 2163.74,
+      "speaker": "Presenter",
+      "text": "I know it was a little bit all over the place, but this should give you everything you need to get going on offers.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 358,
+      "start": 2163.94,
+      "end": 2167.48,
+      "speaker": "Presenter",
+      "text": "And I want you guys to know that this is what we do every single day at the agency for our brands.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 359,
+      "start": 2167.48,
+      "end": 2171.52,
+      "speaker": "Presenter",
+      "text": "This is how we basically chip away to try to find out which offer is going to work better.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 360,
+      "start": 2171.88,
+      "end": 2175.64,
+      "speaker": "Presenter",
+      "text": "For one of our brands right now, an offer that is spending about $20,000 a day as a different brand,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 361,
+      "start": 2175.64,
+      "end": 2179.92,
+      "speaker": "Presenter",
+      "text": "it's just us giving this one little product for free. That's it. It's like a $10-$15 product",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 362,
+      "start": 2179.92,
+      "end": 2185.98,
+      "speaker": "Presenter",
+      "text": "that we're just adding in, and it works with the main product, and that offer is crushing it for us, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 363,
+      "start": 2186.46,
+      "end": 2190.84,
+      "speaker": "Presenter",
+      "text": "And so I want you guys to understand that offers are massive. Be creative, right?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 364,
+      "start": 2191.3,
+      "end": 2194.04,
+      "speaker": "Presenter",
+      "text": "Don't get too overwhelmed by all the different combinations. It's kind of like the avatars,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 365,
+      "start": 2194.04,
+      "end": 2196.14,
+      "speaker": "Presenter",
+      "text": "there's a lot of different combinations. You could charge $59,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 366,
+      "start": 2196.46,
+      "end": 2201.52,
+      "speaker": "Presenter",
+      "text": "you could charge $58. But at the end of the day, like, just know in the beginning, you want to kind of take bigger swings.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 367,
+      "start": 2201.84,
+      "end": 2203.9,
+      "speaker": "Presenter",
+      "text": "So let's just say your $69.99 is your price,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 368,
+      "start": 2204.26,
+      "end": 2208.48,
+      "speaker": "Presenter",
+      "text": "you might want to test $59.99 and see what happens. And if that doesn't- or if that works well,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 369,
+      "start": 2209.02,
+      "end": 2213.16,
+      "speaker": "Presenter",
+      "text": "then guess what? Maybe you can try $64.99 and see what that is, right?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 370,
+      "start": 2213.26,
+      "end": 2217.42,
+      "speaker": "Presenter",
+      "text": "So you then you can start going smaller once you see what works. But at the end of the day, you guys need to be testing this stuff.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 371,
+      "start": 2217.52,
+      "end": 2220.44,
+      "speaker": "Presenter",
+      "text": "You need to be testing the thing that your customers are actually buying.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 372,
+      "start": 2221.16,
+      "end": 2224.16,
+      "speaker": "Presenter",
+      "text": "Most people I know set an offer for a buy one get one free,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 373,
+      "start": 2224.16,
+      "end": 2227.92,
+      "speaker": "Presenter",
+      "text": "and then they never check it again. That is horrible, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 374,
+      "start": 2228.0,
+      "end": 2232.86,
+      "speaker": "Presenter",
+      "text": "So make sure that you're testing offers and trying to figure out what is going to give you the highest revenue per session.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 375,
+      "start": 2233.28,
+      "end": 2237.42,
+      "speaker": "Presenter",
+      "text": "And again, give this stuff time, guys. It needs to run for at least 7 days when you're testing this inside of Meta.",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 376,
+      "start": 2237.42,
+      "end": 2244.28,
+      "speaker": "Presenter",
+      "text": "And make sure you use the Meta conversion rate and Meta AOV and not what's in your Shopify, because that shit's going to be a black box, okay?",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 377,
+      "start": 2244.28,
+      "end": 2248.96,
+      "speaker": "Presenter",
+      "text": "This helps you guys. And again, my goal is to try to help you scale as fast as possible. And if you do these things properly,",
+      "chunk": 7,
+      "timing": "aligned"
+    },
+    {
+      "id": 378,
+      "start": 2249.6,
+      "end": 2250.74,
+      "speaker": "Presenter",
+      "text": "you should be able to scale.",
+      "chunk": 7,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": [
+    {
+      "start": 26.4,
+      "end": 27.7,
+      "label": "laughter"
+    },
+    {
+      "start": 1046.49,
+      "end": 1049.69,
+      "label": "laughter"
+    },
+    {
+      "start": 1107.81,
+      "end": 1108.81,
+      "label": "laughter"
+    },
+    {
+      "start": 1324.41,
+      "end": 1325.81,
+      "label": "laughter"
+    },
+    {
+      "start": 2225.87,
+      "end": 2227.27,
+      "label": "chuckle"
+    }
+  ]
+}

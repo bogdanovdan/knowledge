@@ -1,0 +1,995 @@
+1
+00:00:00,000 --> 00:00:07,460
+If you've ever checked your ad account and seen Meta spending all of your ad budget on a creative that is just not getting good performance,
+
+2
+00:00:07,460 --> 00:00:14,720
+and you constantly ask yourself, "What is Meta doing, and why is Meta putting spend on these, quote unquote, 'bad ads'?"
+
+3
+00:00:15,180 --> 00:00:23,480
+Well, in this week's video, I'm actually going to help you understand what Meta is doing, and essentially break down why Meta is spending so much money on your, again, "bad ads",
+
+4
+00:00:23,480 --> 00:00:33,480
+and how you can actually use this as a learning to be able to make ads that can actually scale, and not only suck up all the spend in your ad account, but also get great performance.
+
+5
+00:00:33,480 --> 00:00:43,980
+And if you actually stay and watch to the end of the video, I'm actually going to show you a day-by-day example of a new super winner that we launched in one of our client ad accounts that went from essentially $0 to over $3,000 a day in spend
+
+6
+00:00:43,980 --> 00:00:49,880
+just by testing ads the way that we do, and trusting Meta to spend on ads the right way.
+
+7
+00:00:50,020 --> 00:00:52,440
+So, with all that said, let's go ahead and jump in to this week's video.
+
+8
+00:00:52,580 --> 00:01:02,440
+All right. So, as you see on screen, we're inside of an ad account, and for the sake of protecting our client's data, these things are going to be blurred, but I will actually tell you whether or not these ads are the same, or what is actually happening.
+
+9
+00:01:02,740 --> 00:01:07,240
+But essentially, as you can see here, last month we spent about $58,000 in this one campaign specifically.
+
+10
+00:01:07,600 --> 00:01:14,540
+And as you can see, our top-spending ad spent about $7,500 with a return on ad spend of 1.58.
+
+11
+00:01:14,940 --> 00:01:26,360
+Now, for a lot of people, this is where it drives you crazy, because you're looking at Meta, and you're saying, "Okay, Meta, why are we spending $7,500 on this ad to get a 1.58,
+
+12
+00:01:26,360 --> 00:01:31,180
+when for example, down here, we have this ad that is getting a 2.97?
+
+13
+00:01:31,180 --> 00:01:39,860
+Like, Meta, what are you doing? Just spend more on this ad. Why are you spending money on all these other ads that are getting a sub-2x ROAS when we could be getting a 3?"
+
+14
+00:01:40,120 --> 00:01:50,380
+Now, the reason why Meta is not spending more on this ad, and the reason why it's actually spending more on this ad specifically, is because of one thing and one thing only, and that one thing is scale, okay?
+
+15
+00:01:50,640 --> 00:01:56,220
+You have to understand that Meta is essentially a machine that wants you to spend more on ads, okay?
+
+16
+00:01:56,220 --> 00:02:06,700
+And at the end of the day, it wants you, based off of the settings that you have given it, it wants to get you the highest volume of conversions at the lowest cost possible.
+
+17
+00:02:06,920 --> 00:02:12,960
+And so, the key point there is volume. Like I said, Meta wants you to scale, a.k.a., it wants you to have volume.
+
+18
+00:02:13,260 --> 00:02:28,120
+And so, by breaking this down, you can see that essentially Meta is telling us that, "Hey, I'm going to spend the most amount of budget on this ad because I believe it will get us the highest volume of purchases at the lowest cost possible."
+
+19
+00:02:28,320 --> 00:02:34,920
+Now, does it have the lowest cost in the account? Absolutely not, but what it does have is it has the highest volume.
+
+20
+00:02:35,180 --> 00:02:42,860
+And a lot of the times—we're going to go through a few different accounts here—you will notice that the top-spending ad has the most amount of purchases.
+
+21
+00:02:42,900 --> 00:02:52,620
+And if you ask every single marketer out there that has scaled to even just, you know, $500,000 a month, or $1,000,000 a month, or for some of the brands that we work with, $10 million a month,
+
+22
+00:02:52,720 --> 00:02:59,940
+they will always take a high volume of purchases over an ad that doesn't get a lot of spend and has a good-looking ROAS, okay?
+
+23
+00:03:00,120 --> 00:03:06,300
+And so, I'm going to actually help you understand though a level deeper of why that's happening, but just know essentially Meta is trying to push for volume.
+
+24
+00:03:06,560 --> 00:03:18,880
+And so, as you can see here, you might even be looking at this ad right here, which is at a 1.97, has a $65 CPA, and as you can see, Meta only decided to spend about $3,800 on this ad.
+
+25
+00:03:18,880 --> 00:03:29,940
+Now, the question that you need to ask yourself before, in this instance, turning off your top-spending bad ad—because again, this top-spending ad is getting a 1.58x return on ad spend.
+
+26
+00:03:29,940 --> 00:03:36,940
+This ad right here has a 1.97, this ad has a 1.83, and this ad has a 2.97. So, technically, I should turn this off.
+
+27
+00:03:36,940 --> 00:03:44,260
+Now, that is where you're making a colossal mistake, and a lot of the times you're actually ruining your Facebook ad performance by doing that,
+
+28
+00:03:44,260 --> 00:03:51,260
+because what's happening here is this ad is actually carrying essentially this entire account, okay?
+
+29
+00:03:51,540 --> 00:04:00,960
+And on top of that, just from a numbers perspective, this ad right here is almost at two times the amount of scale of the next best ad.
+
+30
+00:04:01,200 --> 00:04:07,660
+And so, the question that you need to ask yourself before actually turning off your top-spending, again, in quotations, "bad ad"—
+
+31
+00:04:07,940 --> 00:04:18,780
+and the reason why I keep saying in quotations is because my belief is that your top-spending ad, especially if it's an ad that had performance at some point or has been validated—I will talk about specific examples where you can have ads get a lot of spend
+
+32
+00:04:18,780 --> 00:04:23,760
+and not actually work at all, and so I will dive into that, but for 99% of the cases,
+
+33
+00:04:24,180 --> 00:04:28,620
+for most of you guys, your top-spending ad is actually probably your best ad, okay?
+
+34
+00:04:28,660 --> 00:04:35,980
+A lot of you guys have your mindset completely wrong, where you think the top-spending ad that has a low ROAS is a bad ad. I promise you it is not.
+
+35
+00:04:36,100 --> 00:04:41,800
+But let's continue to dive in. So again, talking about elements of scale here, let's say we wanted to turn off this ad.
+
+36
+00:04:41,800 --> 00:04:54,580
+The question, what I have everybody in Evolve ask themselves, is if I was to take this $7,500, and put this $7,500 into this ad here, or even the top two ads in regards to spend,
+
+37
+00:04:54,840 --> 00:05:02,400
+Do I think that I would be able to get a better return on ad spend than the 1.58 that I'm getting? Well, let's just think through it.
+
+38
+00:05:02,500 --> 00:05:07,020
+Okay, well, here we're spending $3,800, which is essentially half of what we're spending here.
+
+39
+00:05:07,160 --> 00:05:13,900
+If I was to double the budget on this ad, do I think my return on ad spend would be better than a 1.58?
+
+40
+00:05:13,900 --> 00:05:21,740
+And for any of you who have experience actually scaling ad accounts, you know that, a lot of the times, whenever you increase budget, your ROAS goes down.
+
+41
+00:05:21,740 --> 00:05:26,700
+And now, the rate that it goes down is completely dependent on the ad creative itself and on the brand itself.
+
+42
+00:05:26,700 --> 00:05:36,340
+But in most instances, if you scale 20%, a lot of the times, your return on ad spend is going to drop anywhere from 5 to 25% as well.
+
+43
+00:05:36,620 --> 00:05:41,280
+And so, every single time you increase budget, a.k.a try to reach more people with that ad,
+
+44
+00:05:41,500 --> 00:05:47,840
+the overall efficiency goes down because you're forcing Meta to show your ad to more people.
+
+45
+00:05:47,980 --> 00:05:53,460
+So, to bring this point back home, the thing that you need to ask yourself before turning off the top-spending ad
+
+46
+00:05:53,460 --> 00:05:58,840
+is, okay, well, if I know that if I increase my budget, my ROAS is going to go down,
+
+47
+00:05:59,080 --> 00:06:07,500
+well, if I, in this instance, were to, let's say, triple this budget, do I think my return on ad spend would be better than a 1.58
+
+48
+00:06:07,720 --> 00:06:12,140
+if this ad right here that's getting a 1.97, and, again, half of the spend,
+
+49
+00:06:12,140 --> 00:06:16,500
+but because we're turning this off, we'd have to take this 7,500 and put it on this ad,
+
+50
+00:06:16,680 --> 00:06:20,740
+do I think if by tripling this ad spend I would have better than a 1.58?
+
+51
+00:06:20,940 --> 00:06:23,100
+And if you ask me, that answer's absolutely not, right?
+
+52
+00:06:23,260 --> 00:06:26,360
+So, in that instance, I'm not going to turn that off, right?
+
+53
+00:06:26,580 --> 00:06:31,440
+So, that is one of the easiest ways just to figure out whether or not you should turn off a high-spending ad,
+
+54
+00:06:31,620 --> 00:06:35,840
+whereas, let's take a look at this ad, for instance, which is an ad that we did actually turn off,
+
+55
+00:06:35,840 --> 00:06:41,300
+where you can see it was spending $2,000, and it had a 0.78x return on ad spend.
+
+56
+00:06:41,480 --> 00:06:47,860
+Now, we turned this ad off because we were like, okay, well, this is getting a 0.78, and this $2,000 budget
+
+57
+00:06:47,860 --> 00:06:54,360
+can filter into, let's say, this ad right here that's getting a 2.97, this ad that's getting a 1.83, and this ad that's getting a 1.97,
+
+58
+00:06:54,360 --> 00:06:58,180
+and it's probably going to push majority of the budget up into the top-spending ad.
+
+59
+00:06:58,180 --> 00:07:04,200
+So, do I think I could get a better return on ad spend than 0.78 by spending an extra $2,000 on this ad?
+
+60
+00:07:04,440 --> 00:07:10,580
+I would say so, right? That would be essentially adding close to around 25% in budget, or whatever it may be, to this ad,
+
+61
+00:07:10,580 --> 00:07:17,480
+and I think if I added 25% in budget to this ad right here that's getting a 1.58, it would probably do better than a 0.78.
+
+62
+00:07:17,480 --> 00:07:22,320
+And so, that is the framework that we use to essentially make decisions in the ad account
+
+63
+00:07:22,320 --> 00:07:27,200
+is, okay, if I turn off this ad, and this spend has to go elsewhere, what is going to happen?
+
+64
+00:07:27,200 --> 00:07:33,860
+That's why, a lot of the times, when you guys turn off these high-spending ads, or these ads that are, again, bad ads because the ROAS is low,
+
+65
+00:07:34,060 --> 00:07:39,700
+meanwhile they're getting all the spend in your ad account, the rest of your account starts to do worse as a result, okay?
+
+66
+00:07:39,940 --> 00:07:44,840
+And so, that is the first and most important thing that you need to understand, and the framework that you need to use
+
+67
+00:07:44,840 --> 00:07:50,600
+is, okay, if I am to take this spend, I'm going to turn this ad off, now all of a sudden, this spend has to go into all these other ads,
+
+68
+00:07:50,800 --> 00:07:57,300
+do I think it will be able to uphold that additional ad spend? And most of the time, the answer is going to be no.
+
+69
+00:07:57,460 --> 00:08:02,660
+Now, again, in some instances, like this ad here, you can see we had at $2,000 in budget, 0.78,
+
+70
+00:08:03,020 --> 00:08:09,160
+I'm looking at my top four ads up here, I'm like, hey, you know what? I feel like this $2,000 could be more efficiently spent on these other ads.
+
+71
+00:08:09,460 --> 00:08:11,200
+So, then, in that instance, we'll turn it off.
+
+72
+00:08:11,400 --> 00:08:16,240
+Now, let's go ahead and take a deeper dive, though, into, for example, the second thing that I actually mentioned,
+
+73
+00:08:16,240 --> 00:08:21,520
+which is around how these ads that are getting the majority of spend in your account are usually carrying the account,
+
+74
+00:08:21,520 --> 00:08:24,500
+just by scrolling over slightly to frequency.
+
+75
+00:08:25,000 --> 00:08:30,440
+Now, one thing that I want you to notice here is that our frequency on this top ad is 1.89, okay?
+
+76
+00:08:30,580 --> 00:08:36,560
+And so, what that essentially means is that people on average are seeing this 1.89 times.
+
+77
+00:08:36,700 --> 00:08:41,320
+So, if I am scrolling through Facebook and I see this ad, I am probably going to see it a second time.
+
+78
+00:08:41,480 --> 00:08:43,260
+Facebook is just going to serve it to me a second time.
+
+79
+00:08:43,380 --> 00:08:47,500
+That's why you need to pay attention to reach and impressions, because what this tells you
+
+80
+00:08:47,500 --> 00:08:53,780
+is essentially, hey, we reached 220,000 individual people, but overall total impressions is 418,000, okay?
+
+81
+00:08:53,840 --> 00:08:59,840
+And so, some people may have seen this four times, some people may have seen it once, but on average, the frequency is 1.89.
+
+82
+00:09:00,200 --> 00:09:06,960
+And now, the reason why this metric matters is because it's actually going to tell you where an ad essentially is in a funnel, okay?
+
+83
+00:09:07,000 --> 00:09:10,440
+So, remember that ad that was at a 2.97x, this ad right here?
+
+84
+00:09:10,660 --> 00:09:12,320
+Well, look at its frequency. It's
+
+85
+00:09:12,320 --> 00:09:14,340
+3.2, okay?
+
+86
+00:09:14,620 --> 00:09:24,420
+And keep in mind again volume, and keep in mind scale, this ad is getting essentially one third of the total spend that our top spending ad is getting, okay? So one third,
+
+87
+00:09:24,420 --> 00:09:35,840
+and it almost has two times the frequency, which means that people are being essentially retargeted with this ad, which would make sense why the 2.97 ROAS is so high.
+
+88
+00:09:35,840 --> 00:09:51,320
+And so a lot of the times, people will also kill their top spending ads, and then all of a sudden, after maybe not one day, maybe not two days, maybe not three, but a week later, their entire ad account, and the overall ROAS, which is what matters more than anything, is going down,
+
+89
+00:09:51,540 --> 00:10:01,220
+and they start panicking, and they start freaking out, and it's because the ad that is doing retargeting, they don't realize is actually doing retargeting because they don't understand how to look at frequency, and as a result of that,
+
+90
+00:10:01,220 --> 00:10:06,820
+the ad that was doing all the prospecting, that was getting all of the eyeballs, that was getting people into the funnel, is no longer there.
+
+91
+00:10:07,060 --> 00:10:15,340
+And so now you have a retargeting ad, but you don't have anything that's actually getting people into the funnel for it to retarget, and so what ends up happening? Well, performance starts to go down.
+
+92
+00:10:15,620 --> 00:10:26,580
+And as a result of that, you now have to start prospecting, or Meta basically says like, "Hey dude, what the hell? Like, why did you turn off that ad? Like, that was my ad to go and get cold eyeballs so I could get you a high volume of purchases."
+
+93
+00:10:26,640 --> 00:10:32,440
+And then when you tell Meta like, "Hey, no, don't spend on that," then it's like, "Okay, well, now I've gotta find a new ad to prospect with."
+
+94
+00:10:32,600 --> 00:10:46,000
+And so what can end up happening is your account can start to become unstable because Meta is now having to spend on all these different ads to figure out, "Hey, what is gonna be my new prospecting ad? Like, I just lost the ad that I was prospecting with, but now I no longer have it. So now I've gotta find a new one.", okay?
+
+95
+00:10:46,160 --> 00:10:55,840
+And another thing that's super important to look at as well is cost per click. A lot of the times, we will see Meta favor top-of-funnel ads that get a very good cost per click,
+
+96
+00:10:55,980 --> 00:11:02,540
+and then on the inverse, you're going to see your high-ROAS, high-conversion ads usually have a higher cost per click, right?
+
+97
+00:11:02,800 --> 00:11:12,140
+This retargeting ad has a 2.97 ROAS, but a $2.64 cost per click. Meanwhile, this ad up here that's doing slightly more prospecting has a $1.60 cost per click.
+
+98
+00:11:12,360 --> 00:11:22,480
+If you take a look at this ad right here that is clearly also doing some prospecting, 1.75x, right, $1.18 cost per click, you can see Meta is definitely doing some prospecting with this ad as well.
+
+99
+00:11:22,680 --> 00:11:31,720
+And so what you need to understand is what is happening in the account. If you come into your account, and you filter by purchase ROAS, and this is how you decide what your good ads are,
+
+100
+00:11:31,860 --> 00:11:42,220
+I mean, look at this. Some of you might be looking at like, "Oh my gosh, this ad has you know 110x ROAS," or "This ad has a 59x ROAS, like, I need to force budget on this. I need to pull this out and put this--" It's not at scale.
+
+101
+00:11:42,520 --> 00:11:48,960
+It's got one purchase, okay? And so it's just not significant, okay? This ad essentially got lucky, right?
+
+102
+00:11:49,060 --> 00:11:59,940
+We spent a dollar on this, because again, we test through CBO, which I do have an entire video on my channel, I'll have my editors pop it up, and it tells you exactly how we run our Facebook Ads using our one-campaign structure, so you can go and check that out after this video.
+
+103
+00:11:59,940 --> 00:12:08,920
+But just to help you understand and to put this in some kind of a digestible format, cuz I know we're ping-ponging all over the place, spend is the only indicator that we ever filter by, okay?
+
+104
+00:12:09,020 --> 00:12:23,100
+Spend is the number-one metric that matters most, okay? For me, and if you want to be like the actual guys that are scaling and above, or the actual brands that we scale spending millions of dollars a month on ads, we have brands spending over a million dollars a month just on one ad account, okay?
+
+105
+00:12:23,220 --> 00:12:31,380
+And so, in this instance here, as you can see, we are filtering by spend to see, "Hey, what ads are the most scalable?" That is step number one.
+
+106
+00:12:31,380 --> 00:12:37,580
+Step number two is to then look at your KPI metrics, which is going to be your cost per result or your purchase return on ad spend, okay?
+
+107
+00:12:37,840 --> 00:12:53,260
+And then from there, you need to understand the difference between them. You need to understand, okay, well this ad is at two times the scale as this one, and although the ROAS is slightly worse than this one, this ad makes sense to keep it on because it is prospecting and it is carrying a lot of the account.
+
+108
+00:12:53,460 --> 00:13:02,860
+And then again, by taking a look at the secondary metrics, so things like frequency, CPM, cost per click, you're going to start to get an understanding of where these ads kind of fit in the funnel.
+
+109
+00:13:03,040 --> 00:13:07,400
+But I also want you to understand that a lot of times your best ads also do retargeting.
+
+110
+00:13:07,500 --> 00:13:21,020
+For those of you that remember, I don't even know if I made videos about this back then, but we used to have dedicated retargeting campaigns, and usually in those dedicated retargeting campaigns, ads that were doing the best in our prospecting campaigns were also doing the best in retargeting, right?
+
+111
+00:13:21,380 --> 00:13:33,580
+Because they're just great ads. And so, a lot of the times, you don't-- A lot of people think you need to have specific retargeting ads, and are some ads more retargeting than others? 100%. But the point is is Meta's gonna know better than you, which is why we run ads the way that we do.
+
+112
+00:13:33,580 --> 00:13:39,820
+And so hopefully this helps you understand what is going on with spend. Let's get out of this ad account, and let's go take a look at another one.
+
+113
+00:13:39,920 --> 00:13:48,320
+All right, cool. So as you can see, we're on screen here, and I'm now actually in the ad set level to show you how we actually test creatives. Again, we test everything through batches of ads,
+
+114
+00:13:48,320 --> 00:13:57,520
+but I want to show you an example here of an ad that again is absolutely murdering, okay? So the account, in this campaign specifically, is spending about 9.2k per day, okay?
+
+115
+00:13:57,740 --> 00:14:04,480
+And as you can see, this ad was getting $6,800 a day in spend at a 2.03x ROAS.
+
+116
+00:14:04,640 --> 00:14:15,820
+Now, this is where some of you would be like, "Well, look at this, like, this ad's getting a 2.8, this ad's getting a 3.8. Look at this one: 17x ROAS, why are we not scaling that?" This is where you guys need to understand that again, Meta is very smart, okay?
+
+117
+00:14:16,020 --> 00:14:26,640
+And so there are going to be instances where yes, you actually do have other ads that start getting really good performance, and I want you to keep an eye on this row specifically to see what actually happens.
+
+118
+00:14:26,860 --> 00:14:30,840
+So this is August 31st. Let's go ahead and move over to September 1st.
+
+119
+00:14:30,940 --> 00:14:38,560
+And, as you can see, oh, wow. Meta actually spent an extra $500, or $476 on this ad set specifically, okay?
+
+120
+00:14:38,740 --> 00:14:43,800
+And, as you can see, our top-spending ad lost a bit of spend. It went from $6800 in spend to 5400,
+
+121
+00:14:44,460 --> 00:14:51,900
+but, as you can see, Meta started pushing more spend towards this one here. And take a look, the ROAS was a 4X compared to a 2.6.
+
+122
+00:14:52,160 --> 00:15:02,260
+If we scroll to the right, you can see the frequency is relatively low, right? So, they're both essentially prospecting. And if we take a look at the cost per click, the cost per click is actually better on this one as well. Okay, well, that's interesting.
+
+123
+00:15:02,720 --> 00:15:09,760
+Let's see what happens if we go to the next day. So, we go to the next day, and, oh, look at this. Now, this ad is getting even more spend.
+
+124
+00:15:09,820 --> 00:15:19,020
+And, on top of that, we did have another ad start picking up spend as well, which I'm going to talk about a second. But focusing on the good here, you can see this ad now got 2.4k in spend,
+
+125
+00:15:19,240 --> 00:15:28,760
+which is another $1,000 more than the previous day and had a better ROAS, with again, a low frequency, a better CPM, and a really, really good cost per click, okay?
+
+126
+00:15:28,980 --> 00:15:37,560
+And so, in this instance here, Meta is starting to see that this is a great ad. And so, if we go to the third of the month, look at this. Meta just changed our super-winner.
+
+127
+00:15:37,740 --> 00:15:43,960
+And so now we have a new ad starting to get majority of spend. And, as you can see, now it's gotten $3,000 a day in spend.
+
+128
+00:15:43,960 --> 00:15:50,320
+And if you take a look at this, we actually had another ad that Our team was on fire this week, so we got another ad that started picking up spend.
+
+129
+00:15:50,500 --> 00:15:57,240
+But, as you can see here, now this ad is getting the majority of the spend in the ad account. Meta pulled spend away from this one, which was the previous top performer.
+
+130
+00:15:57,640 --> 00:16:04,600
+And, as you can see, overall now, Meta, based off of frequency, is actually doing even more prospecting with this. Okay, well, let's take a look at yesterday.
+
+131
+00:16:04,940 --> 00:16:13,800
+Well, now if we go to yesterday, you can see that Meta is now about to do the same thing with another ad. You can see this ad up here is still the top performer. Performance is extremely strong.
+
+132
+00:16:14,040 --> 00:16:21,420
+And then, as you can see here, Meta has another ad that it's starting to spend on. And that's what Meta does. Meta has to find statistical significance,
+
+133
+00:16:21,420 --> 00:16:27,240
+and has to find ads that, again, can get you the highest volume of purchases possible for the lowest cost.
+
+134
+00:16:27,520 --> 00:16:34,580
+And Meta can't do that unless it actually spends money on ads to figure out whether or not they're actually going to be good.
+
+135
+00:16:34,800 --> 00:16:42,800
+And just to be clear, what I mean by that is that Meta actually doesn't need to spend on your ads at all if it knows that they're not good, okay?
+
+136
+00:16:42,980 --> 00:16:50,980
+Meta is not even going to waste its time or, better yet, it's not going to waste your money on ads that it just knows it has no shot of scaling, okay?
+
+137
+00:16:51,020 --> 00:17:02,240
+So if you've also ever seen ads get like $0 in spend, kind of like these ads down here that are getting $0.12 in spend or $1.60 in spend or $2.95 in spend.
+
+138
+00:17:02,240 --> 00:17:11,420
+Like for example, this ad has been live since August 28th, and it's gotten essentially no spend at all. Now, in those instances, Meta is just telling you like, "Hey, dude, sorry. Try again.
+
+139
+00:17:11,580 --> 00:17:20,320
+Like, I'm not going to waste your money." And this is the craziest part to me, is so many of you guys are like, "I have to spend money on these." And it's like, there's no point. Like Meta is trying to save you money.
+
+140
+00:17:20,540 --> 00:17:28,200
+But what I meant with my point is that Meta is going to have to spend on ads that it's like, "Hey, you know what? This might be a good ad. Like, hold on a second.
+
+141
+00:17:28,340 --> 00:17:35,880
+This thing is getting an $0.80 cost per click. It seems like a lot of people are engaging with it, and this has an opportunity based off of my billions of data points
+
+142
+00:17:35,880 --> 00:17:44,240
+and the billions of ads that Meta analyzes every single day. They're going to be looking at that and saying, "You know what? I'm going to actually spend some budget on this ad to see what it can do."
+
+143
+00:17:44,360 --> 00:17:54,060
+So, that's what I mean by having Meta spend money on ads, not just spending in general. Meta knows better than you what ads are good and what ads aren't.
+
+144
+00:17:54,180 --> 00:18:02,500
+So, I want to be very, very clear that if you launch ads in this CBO structure and they're not getting spend, unfortunately, they're bad ads. And if you want to prove it to yourself, launch minimum budgets.
+
+145
+00:18:02,800 --> 00:18:09,460
+I really don't care how you spend your money, but for me and my clients and majority of the people in our community, we don't waste money on bad ads, and so we don't do that.
+
+146
+00:18:09,620 --> 00:18:20,120
+But, again, to emphasize the point, Meta will, if it sees an ad that has potential, it will start to spend on it to try to validate it. So, hopefully that makes sense, and I just want to make sure that that's 100% clear.
+
+147
+00:18:20,320 --> 00:18:27,540
+And now, if we actually fast-forward to today, you can see this ad is actually now starting to, again, get a ton of spend. Attribution is slightly delayed on this,
+
+148
+00:18:27,660 --> 00:18:35,600
+but you'll notice that now the ad that was previously the super-winner has really good performance. It's still doing really strong, and that's another thing that you need to consider.
+
+149
+00:18:35,840 --> 00:18:44,160
+That's also why you can't make decisions on one day, because, for example, this ad had $6800 in spend about 4 days ago, okay?
+
+150
+00:18:44,160 --> 00:18:53,780
+So, there's going to be people that click this ad, that are in the funnel, that are going to purchase on, you know, today is Friday or tomorrow on Saturday, and that might spike the overall return on ad spend.
+
+151
+00:18:53,940 --> 00:19:00,100
+And so, in this instance, you can't panic and be like, "Well, now look, Meta's tanking my performance. I've got to turn this off." You have to really zoom out.
+
+152
+00:19:00,100 --> 00:19:10,440
+And so, if we actually take a look over this period from the first to the fifth, you can see that this ad and this ad are both getting similar spends. And look, the ROAS are relatively the same.
+
+153
+00:19:10,640 --> 00:19:18,320
+You can see that this ad has a slightly higher frequency, but overall seems like Meta has found a new ad that it likes to do prospecting with.
+
+154
+00:19:18,480 --> 00:19:26,040
+And this is why we trust the machine to do what it does best, and we just focus on the thing that matters most, which is high-intent creatives.
+
+155
+00:19:26,040 --> 00:19:32,900
+Now, I want to go back actually to this day here, because there was a- an actual example of an ad that started picking up a bunch of spend, okay?
+
+156
+00:19:33,080 --> 00:19:37,900
+And I'm actually going to click on it, so that way you guys can see where it actually is. So, let me just go ahead and pull that up.
+
+157
+00:19:37,900 --> 00:19:44,320
+As you can see, this ad up here got $5400 in spend on this day, so on September 1st.
+
+158
+00:19:44,320 --> 00:19:48,720
+And if we actually fast-forward, you can see this ad that I have selected hasn't even been launched yet.
+
+159
+00:19:48,720 --> 00:19:52,600
+Okay? So, it's not even a thing. The first day it got launched, you can see in
+
+160
+00:19:52,600 --> 00:19:58,060
+This is the ad that I have selected. I didn't reselect it, it just popped up on screen. You can see it got $2,300
+
+161
+00:19:59,800 --> 00:20:02,740
+in spend on the very first day that it was launched.
+
+162
+00:20:02,740 --> 00:20:06,860
+Hopefully this can break your beliefs around Meta not spending on ads.
+
+163
+00:20:06,860 --> 00:20:09,180
+Campaign is spending $9,000 a day, guys, right?
+
+164
+00:20:09,400 --> 00:20:15,000
+So, this is an instance of where I think a lot of people don't think that, oh, they have their main winning ads, right?
+
+165
+00:20:15,240 --> 00:20:20,080
+So, if we take a look at August 31st, right? We have our big winning ad, it's getting $6-800 a day,
+
+166
+00:20:20,080 --> 00:20:23,380
+and sometimes you guys have ads like this that are just titans in your account.
+
+167
+00:20:23,640 --> 00:20:29,560
+Yet, all of a sudden, because we actually have a creative team that knows what they're doing, that is going very deep to understand our customers, and is
+
+168
+00:20:29,560 --> 00:20:32,660
+executing high-intent creatives each and every single week,
+
+169
+00:20:32,840 --> 00:20:37,400
+you can see here that we were able to create two ads that sucked up a bunch of spend, okay?
+
+170
+00:20:37,640 --> 00:20:44,000
+And so, in this instance here, this ad spent $2,300 and had a 1.22x return on ad spend.
+
+171
+00:20:44,200 --> 00:20:47,160
+And now what actually ended up happening is our team killed this ad.
+
+172
+00:20:47,360 --> 00:20:51,460
+Why did we kill the ad? Well, let's take a look over at the secondary metrics again.
+
+173
+00:20:51,720 --> 00:20:54,140
+Now, you have to understand what Meta is doing.
+
+174
+00:20:54,440 --> 00:20:59,700
+So, Meta again has one job of getting you the highest amount of purchases possible for the lowest cost.
+
+175
+00:20:59,940 --> 00:21:03,560
+And as you can see, this ad was sending boatloads of traffic, right?
+
+176
+00:21:03,760 --> 00:21:10,880
+Our cost per click on our top two ads was a dollar 70, then a dollar 80, and then on these two ads down here, a dollar 87 and 2.65.
+
+177
+00:21:11,260 --> 00:21:17,000
+Now, we do have an ad down here that's getting a dollar seven cost per click, and this ad over here is getting a 30-cent cost per click.
+
+178
+00:21:17,280 --> 00:21:20,460
+So, again, kind of take this stuff with a grain of salt, but the point is,
+
+179
+00:21:20,460 --> 00:21:29,320
+is Meta saw an opportunity to scale with this ad because it was sending extremely high click-through rates, like a very, very good cost per click.
+
+180
+00:21:29,520 --> 00:21:35,080
+And so, whenever Meta finds ads that are getting a lot of attention, it's going to force a lot of spend,
+
+181
+00:21:35,300 --> 00:21:38,640
+or essentially throttle a lot of spend, put a lot of spend on those ads,
+
+182
+00:21:38,640 --> 00:21:42,980
+because if those ads are super-engaging, which you can see here, the hook rate was 50%.
+
+183
+00:21:42,980 --> 00:21:48,220
+86-cent cost per click, which is insane in the US, and as a result, Meta was starting to push this ad.
+
+184
+00:21:48,220 --> 00:21:53,420
+But what actually ended up happening is we noticed that the overall performance was just not that good,
+
+185
+00:21:53,420 --> 00:21:55,460
+and so it ended up getting turned off.
+
+186
+00:21:55,460 --> 00:21:59,780
+And so, as a result of just kind of analyzing and seeing so many ads,
+
+187
+00:21:59,780 --> 00:22:02,880
+and now I will say that, you know, the ad performance wasn't even that terrible.
+
+188
+00:22:02,880 --> 00:22:09,080
+I believe this was kind of like an early kill by the team, because as you can see, it actually ended up getting like an 8x ROAS after we turned it off,
+
+189
+00:22:09,080 --> 00:22:13,060
+but essentially these two days that it was live, the performance really wasn't that great.
+
+190
+00:22:13,060 --> 00:22:17,360
+And at the end of the day, based on your account budget, so in this instance,
+
+191
+00:22:17,700 --> 00:22:22,820
+this brand is obviously spending a pretty significant amount, but based on our actual account budget and based on the
+
+192
+00:22:22,820 --> 00:22:29,540
+KPIs and rules that this brand specifically follows, this ad after three days did not meet what we were looking to meet
+
+193
+00:22:29,540 --> 00:22:32,800
+in our attribution software as well as Meta, and so it was optimized.
+
+194
+00:22:33,160 --> 00:22:39,080
+But again, if we go back to our framework of, okay, I have an ad that is getting spend in the account, that's step one.
+
+195
+00:22:39,080 --> 00:22:42,280
+Step two, what is the ROAS? Well, here, it's a 1.51.
+
+196
+00:22:42,660 --> 00:22:46,160
+Well, let me take a look at this. I have this ad getting a 2.6 at more scale.
+
+197
+00:22:46,160 --> 00:22:48,540
+I have this ad getting a 2.3 at more scale,
+
+198
+00:22:48,540 --> 00:22:53,400
+and then I have this ad down here getting a 2.6, you know, at half the scale, but still pretty decent.
+
+199
+00:22:53,640 --> 00:22:58,540
+So, in this instance, I'm pretty comfortable turning this ad off because this ad is not my top spender,
+
+200
+00:22:58,540 --> 00:23:03,340
+it's not my second-top spender, and on top of that, it's actually kind of doing slightly more retargeting.
+
+201
+00:23:03,340 --> 00:23:09,820
+Now, 1 to 1.5 is still prospecting majority, but again, you can see it's slightly higher frequency than my top two ads.
+
+202
+00:23:09,820 --> 00:23:13,460
+And so, in this instance, it's getting a 1.5x, I'm just going to kill this ad,
+
+203
+00:23:13,460 --> 00:23:17,460
+because it is a new ad that started sucking up spend. It's not my top spender,
+
+204
+00:23:17,460 --> 00:23:22,700
+and again, if I was to turn off this ad, I am confident that I could get better than a 1.5x ROAS
+
+205
+00:23:22,760 --> 00:23:28,800
+by pushing this additional 3.3k in spend to these other two ads or to these other three ads here, okay?
+
+206
+00:23:29,000 --> 00:23:36,960
+And so, again, if you take anything away from this video, just use that framework when it comes to turning ads off after they start sucking up a bunch of spend.
+
+207
+00:23:37,220 --> 00:23:41,720
+So, that is it, that is the video. Hopefully that makes sense to you of how to optimize your account.
+
+208
+00:23:41,980 --> 00:23:48,580
+Again, to try to recap this, the most important thing is to just keep in mind that spend is the most important metric, okay?
+
+209
+00:23:48,660 --> 00:23:56,300
+Whatever Meta is spending money on is likely going to be your best bet to get the highest amount of conversions possible for the lowest cost.
+
+210
+00:23:56,300 --> 00:24:03,540
+Because I don't know about you, but I'd rather have 100 purchases at a 2x ROAS than five purchases at a 5x ROAS,
+
+211
+00:24:03,620 --> 00:24:07,200
+because if I'm getting 100 at 2x, it probably means I'm making more money, okay?
+
+212
+00:24:07,380 --> 00:24:11,000
+So, the whole point of this video is to help you understand that Meta wants you to scale.
+
+213
+00:24:11,200 --> 00:24:19,480
+There will be times where Meta is putting spend on ads that are new to try to validate and test them, and it might have crappy performance for two or three days.
+
+214
+00:24:19,480 --> 00:24:23,100
+But again, as long as you stick to that framework of, okay, how much spend is it getting?
+
+215
+00:24:23,400 --> 00:24:29,400
+And if I was to turn off this ad and this spend was to go to my other ads, would they have a better ROAS, yes or no?
+
+216
+00:24:29,600 --> 00:24:32,140
+And if the answer to that is yes, well, then turn it off.
+
+217
+00:24:32,140 --> 00:24:35,420
+And if the answer to it is no, then you should probably leave it on.
+
+218
+00:24:35,420 --> 00:24:40,100
+And in most cases, 95% of the time, I would say the answer to that question is going to be no.
+
+219
+00:24:40,100 --> 00:24:45,220
+Especially if you had an ad that was a winner for you before, and then what ended up happening is it started fatiguing,
+
+220
+00:24:45,220 --> 00:24:51,880
+it wasn't really doing as great, you know, maybe the desire has kind of died out a little bit, or not died out, but the desire has kind of been worn down a little bit,
+
+221
+00:24:51,880 --> 00:24:55,080
+or maybe that specific product has just gotten more sophisticated, right?
+
+222
+00:24:55,080 --> 00:24:59,180
+And overall performance is not as good as it used to be, but a lot of the times,
+
+223
+00:24:59,180 --> 00:25:06,480
+for those of you that don't have a proper creative system dialed in to actually create creatives that can scale with high intent, that's the ad that you're stuck with.
+
+224
+00:25:06,580 --> 00:25:10,080
+So, until you create an ad that is better, you will not be able to scale.
+
+225
+00:25:10,440 --> 00:25:15,700
+And so, turning off that ad sometimes is just hurting your performance even more. And we've seen this time and time again with brands,
+
+226
+00:25:15,700 --> 00:25:21,580
+where they turn off their top spending ads, and then they're like, "Okay, I've got to send all of my budget to all of these new ads that are not validated."
+
+227
+00:25:21,940 --> 00:25:22,600
+And the problem is, is
+
+228
+00:25:22,600 --> 00:25:31,260
+you think they're good, but your customers don't think they're good. And because you aren't aligned with what your customers think is good, your performance just gets even worse, okay?
+
+229
+00:25:31,500 --> 00:25:38,340
+And so, I don't want you to make your performance worse, and I don't want you to try to outsmart the machine. I just want you to focus on making great ad creatives.
+
+230
+00:25:38,340 --> 00:25:45,580
+And that is the hardest and most humbling part for literally everyone out there who makes creatives and, honestly, everyone that's in Evolve,
+
+231
+00:25:45,580 --> 00:25:54,680
+is getting past this mental blockade that there is no button that you can click in your ad account that is going to help you scale, or double, or triple your business.
+
+232
+00:25:54,680 --> 00:25:58,480
+Is there maybe a button that you can click to get 20% more efficiency? Sure.
+
+233
+00:25:58,660 --> 00:26:06,500
+But for most of you watching this video, I know you probably want to be doing, if you're doing 10k a month, you want to be doing 100k per month. Or if you're doing 100k per month, you want to be doing a million a month.
+
+234
+00:26:06,540 --> 00:26:12,260
+Or if you're doing a million a month, you probably want to do 10. And if you take a look at everything that's on my channel, and you just ask yourself honestly,
+
+235
+00:26:12,700 --> 00:26:19,560
+there is nothing in the ad account, there is no button that you can click that will 10x your performance. But there are ad creatives, there are offers,
+
+236
+00:26:20,000 --> 00:26:22,820
+and there are landing pages, when put together, definitely will, okay?
+
+237
+00:26:22,820 --> 00:26:29,960
+And so, that is always the main message that I have on my channel. And so, I want you to understand that, by you spending all this time doing all this analysis,
+
+238
+00:26:29,960 --> 00:26:38,300
+and doing this ad, and that ad, and looking at your ad account for, you know, five hours and then spending one hour doing ad creatives, that's why you're struggling to scale.
+
+239
+00:26:38,500 --> 00:26:46,000
+And so, if you are following the one CBO structure, or you're following a structure where you're just letting Meta spend on the good ads, if your ads aren't getting spent, they're just not good ads.
+
+240
+00:26:46,000 --> 00:26:56,820
+And I do actually have a mega video coming out. I've said this a few times now, but I have a huge ABO versus CBO video that we've been working on this entire year that I'm going to be sharing with you that has real data, and so I'm very excited to do that.
+
+241
+00:26:56,960 --> 00:27:04,660
+But for now, I just want you to follow that framework, and begin asking yourself, "Hey, if I was to turn off this ad, what would happen?" and then making your decisions from there.
+
+242
+00:27:04,760 --> 00:27:13,240
+So, with all that said, I hope you enjoyed. I am obviously not in my regular setup, but hopefully the audio is fine and the camera is okay. It's actually kind of better than my regular setup.
+
+243
+00:27:13,360 --> 00:27:18,580
+But again, if you are a Shopify brand that's doing less than 100k per month, we just launched a new community called Origins.
+
+244
+00:27:18,660 --> 00:27:25,420
+So, I definitely recommend to go and checking that out. It's basically showing people how to go from, you know, a few thousand dollars a month with their Shopify brand to 100k per month.
+
+245
+00:27:25,420 --> 00:27:31,940
+And then, if you are doing over 100k per month, and you want to scale to a million per month or 100k days, like you've seen us talk about in the channel before,
+
+246
+00:27:31,940 --> 00:27:37,500
+then you should definitely check out Evolve, which will be the first link down below. Origins will be the second if you're less than 100k.
+
+247
+00:27:37,500 --> 00:27:46,540
+And if you do happen to be a tech brand watching this video, and you enjoyed it, and you want a crazy creative team to come in and focus on high-intent creatives, and scale accounts like I just showed you there,
+
+248
+00:27:46,540 --> 00:27:51,700
+then I'd highly recommend that you click the third link below to book a call and speak with myself or someone from my team.
+
+249
+00:27:51,700 --> 00:27:55,780
+So, thank you so much for taking the time to watch this week's video. I hope you got value, and I will see you in the next one.

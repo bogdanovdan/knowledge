@@ -1,0 +1,618 @@
+{
+  "lesson": {
+    "num": 70,
+    "id": "070-fb-asset-structure-to-prevent-getting-rekt",
+    "title": "FB Asset Structure to Prevent Getting Rekt",
+    "section": "🛡️ How To Set Up FB Assets",
+    "video": "70. FB Asset Structure to Prevent Getting Rekt Origins Program ($0-$100k mo) Evolve.mp4",
+    "duration": 263.787,
+    "skool_url": "https://www.skool.com/evolve-8484/classroom/2580d099?md=f328bc37c4d446699c52e61b687c4893"
+  },
+  "generated_at": "2026-10-06T20:24:09-03:00",
+  "status": "complete",
+  "timeline": "All times are seconds on the original video timeline.",
+  "backend": {
+    "engine": "Google Gemini API",
+    "models": [
+      "gemini-3.8-flash"
+    ],
+    "method": "audio cut at pauses into ~300s chunks, chunk offsets added back",
+    "style": "verbatim; pure filler sounds (um/uh) may be omitted",
+    "timing": "segment times from local faster-whisper base.en word timestamps aligned to the Gemini text (88% of words matched); unmatched segments interpolated"
+  },
+  "alignment": {
+    "gemini_tokens": 877,
+    "matched_tokens": 775,
+    "match_ratio": 0.884,
+    "segments_aligned": 61,
+    "segments_partly_aligned": 0,
+    "segments_interpolated": 1,
+    "whisper_fills": 0,
+    "whisper_fill_words": 0,
+    "removed_segments": 0,
+    "removed_words": 0,
+    "audio_checks_pending": 0,
+    "whisper_model": "base.en"
+  },
+  "speakers": [
+    "Presenter"
+  ],
+  "chunks": [
+    {
+      "idx": 0,
+      "start": 0.0,
+      "end": 263.787,
+      "end_boundary": "eof",
+      "status": "done",
+      "model": "gemini-3.8-flash",
+      "attempts": 1,
+      "coverage": 1.0,
+      "wpm": 243.5,
+      "issues": [],
+      "notes": ""
+    }
+  ],
+  "issues": [],
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.48,
+      "speaker": "Presenter",
+      "text": "Some people asked me how do you best protect your Facebook ad sets from getting banned?",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 2,
+      "start": 4.12,
+      "end": 9.9,
+      "speaker": "Presenter",
+      "text": "So if you guys are new, getting banned from Facebook Ads is a very real reality that happens happens very, very often.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 3,
+      "start": 9.9,
+      "end": 12.36,
+      "speaker": "Presenter",
+      "text": "Even if you're drop shipping, starting a new brand,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 4,
+      "start": 12.84,
+      "end": 13.72,
+      "speaker": "Presenter",
+      "text": "it just happens.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 5,
+      "start": 13.72,
+      "end": 19.62,
+      "speaker": "Presenter",
+      "text": "Recently, as I'm filming this in October 2025, there's been a ban wave that caused a lot of people to be banned.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 6,
+      "start": 19.62,
+      "end": 25.62,
+      "speaker": "Presenter",
+      "text": "So I'm going to teach you how to actually set it up so everything is proper, you won't have issues of getting banned.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 7,
+      "start": 26.64,
+      "end": 30.84,
+      "speaker": "Presenter",
+      "text": "So we're going to set up three Business Managers, or optionally two.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 8,
+      "start": 31.64,
+      "end": 34.36,
+      "speaker": "Presenter",
+      "text": "The first Business Manager will only host the pixel",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 9,
+      "start": 34.36,
+      "end": 41.24,
+      "speaker": "Presenter",
+      "text": "and be inside the Business Manager, you want to ensure that you have three profiles that are all admin.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 10,
+      "start": 42.08,
+      "end": 45.0,
+      "speaker": "Presenter",
+      "text": "We only admin all of these because we're only going to use real profiles.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 11,
+      "start": 45.52,
+      "end": 51.28,
+      "speaker": "Presenter",
+      "text": "You might have heard people ask you to buy assets from from sellers, you know, aged assets or whatever it may be.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 12,
+      "start": 51.9,
+      "end": 58.5,
+      "speaker": "Presenter",
+      "text": "I'm telling you that having real profiles as in your own profile, friends and families, your parents, sisters, brothers",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 13,
+      "start": 58.5,
+      "end": 61.0,
+      "speaker": "Presenter",
+      "text": "is going to be the most legit one.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 14,
+      "start": 61.44,
+      "end": 63.64,
+      "speaker": "Presenter",
+      "text": "If you buy assets, you run the risk of getting",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 15,
+      "start": 63.64,
+      "end": 65.98,
+      "speaker": "Presenter",
+      "text": "hacked, it's a big one,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 16,
+      "start": 66.36,
+      "end": 67.4,
+      "speaker": "Presenter",
+      "text": "getting banned is is another big one as well.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 17,
+      "start": 67.4,
+      "end": 73.58,
+      "speaker": "Presenter",
+      "text": "They can easily hack your your ad spend while you're spending halfway and steal your money. It's It's something that happens.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 18,
+      "start": 73.86,
+      "end": 78.08,
+      "speaker": "Presenter",
+      "text": "Which is why you you ideally don't want to buy any assets. You only want to create it through your own profile.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 19,
+      "start": 79.28,
+      "end": 84.6,
+      "speaker": "Presenter",
+      "text": "So first of all, you need to get these profiles, use your own, your family, friends, whoever it is. That's the best",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 20,
+      "start": 85.4,
+      "end": 86.44,
+      "speaker": "Presenter",
+      "text": "'cause those are most legit.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 21,
+      "start": 87.36,
+      "end": 92.86,
+      "speaker": "Presenter",
+      "text": "So these three profiles are going to be admin on all of these BMs.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 22,
+      "start": 94.28,
+      "end": 95.56,
+      "speaker": "Presenter",
+      "text": "So they're the same three admins",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 23,
+      "start": 95.56,
+      "end": 96.7,
+      "speaker": "Presenter",
+      "text": "in all these BMs.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 24,
+      "start": 97.24,
+      "end": 98.28,
+      "speaker": "Presenter",
+      "text": "That's for the profile level.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 25,
+      "start": 98.68,
+      "end": 99.74,
+      "speaker": "Presenter",
+      "text": "On a BM level,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 26,
+      "start": 100.44,
+      "end": 105.64,
+      "speaker": "Presenter",
+      "text": "one BM will host pixel only, meaning you create the pixel on this Business Manager.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 27,
+      "start": 106.28,
+      "end": 110.08,
+      "speaker": "Presenter",
+      "text": "So no matter how many stores you're running, all the pixels are run through this one Business Manager.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 28,
+      "start": 110.92,
+      "end": 114.94,
+      "speaker": "Presenter",
+      "text": "And then the second Business Manager is going to be a holding BM.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 29,
+      "start": 114.94,
+      "end": 116.34,
+      "speaker": "Presenter",
+      "text": "I put it as optional",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 30,
+      "start": 116.34,
+      "end": 124.54,
+      "speaker": "Presenter",
+      "text": "because whether you should have two or three, it depends on whether you have, like, a company incorporated.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 31,
+      "start": 124.54,
+      "end": 126.66,
+      "speaker": "Presenter",
+      "text": "Why?",
+      "chunk": 0,
+      "timing": "interpolated"
+    },
+    {
+      "id": 32,
+      "start": 126.66,
+      "end": 134.06,
+      "speaker": "Presenter",
+      "text": "If you have a company incorporated like LLC or LTD, you can verify the BM. Then instead of having these two, BM two and three,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 33,
+      "start": 134.3,
+      "end": 139.02,
+      "speaker": "Presenter",
+      "text": "the ad accounts go under BM two. Then it's just the pixel BM and ad account BM.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 34,
+      "start": 139.7,
+      "end": 143.2,
+      "speaker": "Presenter",
+      "text": "If you verify it, it becomes stronger, and there's a whole lot of benefits to it:",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 35,
+      "start": 143.2,
+      "end": 147.5,
+      "speaker": "Presenter",
+      "text": "more ad account limits, your spend limit on the ad account gets goes higher,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 36,
+      "start": 148.28,
+      "end": 149.98,
+      "speaker": "Presenter",
+      "text": "etc. Performance-wise, it's all the same.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 37,
+      "start": 151.1,
+      "end": 154.54,
+      "speaker": "Presenter",
+      "text": "Let's say if you don't have that, then you need to have three BMs.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 38,
+      "start": 154.96,
+      "end": 159.08,
+      "speaker": "Presenter",
+      "text": "A holding BM, you don't do anything on it. There's no assets in it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 39,
+      "start": 159.64,
+      "end": 162.18,
+      "speaker": "Presenter",
+      "text": "You just share your pixels into here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 40,
+      "start": 162.86,
+      "end": 164.62,
+      "speaker": "Presenter",
+      "text": "You share your ad account into here.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 41,
+      "start": 165.3,
+      "end": 171.12,
+      "speaker": "Presenter",
+      "text": "Then you run all the ads on BM two, but actually the the assets are hosted on BM one and three.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 42,
+      "start": 171.92,
+      "end": 173.4,
+      "speaker": "Presenter",
+      "text": "The reason we do all of this,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 43,
+      "start": 174.1,
+      "end": 178.04,
+      "speaker": "Presenter",
+      "text": "if let's say something happens to to you run everything on one BM,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 44,
+      "start": 178.04,
+      "end": 182.2,
+      "speaker": "Presenter",
+      "text": "it gets banned, your pixel gets screwed, your ad account gets screwed.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 45,
+      "start": 182.58,
+      "end": 184.44,
+      "speaker": "Presenter",
+      "text": "You lose all two things together.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 46,
+      "start": 185.34,
+      "end": 190.66,
+      "speaker": "Presenter",
+      "text": "Whereas if you do it this way, if BM two gets banned, you still maintain your pixel and your ad account.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 47,
+      "start": 191.36,
+      "end": 193.58,
+      "speaker": "Presenter",
+      "text": "Or worst case, your ad account gets banned,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 48,
+      "start": 194.0,
+      "end": 197.64,
+      "speaker": "Presenter",
+      "text": "you still have your pixel. You still have something. It's not the end of the world.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 49,
+      "start": 197.64,
+      "end": 200.6,
+      "speaker": "Presenter",
+      "text": "So that's what why we use assets like this. It's how you protect yourself.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 50,
+      "start": 201.3,
+      "end": 204.5,
+      "speaker": "Presenter",
+      "text": "But if you have an LLC, you can verify your Business Manager,",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 51,
+      "start": 205.36,
+      "end": 209.78,
+      "speaker": "Presenter",
+      "text": "I myself, I would just use put this over here. You don't need the holding BM.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 52,
+      "start": 210.56,
+      "end": 216.4,
+      "speaker": "Presenter",
+      "text": "Once you verify the Business Manager, it becomes more, what's the word for it, solid, less likely to get banned.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 53,
+      "start": 217.12,
+      "end": 222.16,
+      "speaker": "Presenter",
+      "text": "So then you just need to share the pixel BM, the pixel only, to the second BM.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 54,
+      "start": 223.16,
+      "end": 223.68,
+      "speaker": "Presenter",
+      "text": "It's pretty straightforward.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 55,
+      "start": 223.68,
+      "end": 227.5,
+      "speaker": "Presenter",
+      "text": "So profiles are set, pixel set, ad account set.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 56,
+      "start": 228.06,
+      "end": 231.34,
+      "speaker": "Presenter",
+      "text": "The only last thing besides here is just your page.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 57,
+      "start": 231.92,
+      "end": 237.96,
+      "speaker": "Presenter",
+      "text": "The page shouldn't be created on a Business Manager level, it should be created on the profile level.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 58,
+      "start": 238.7,
+      "end": 241.1,
+      "speaker": "Presenter",
+      "text": "I'll show you guys in a subsequent video of how to do that.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 59,
+      "start": 241.48,
+      "end": 246.88,
+      "speaker": "Presenter",
+      "text": "Hopefully this all makes sense. So either you have two or three BMs, and everything, all the assets will be separated out.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 60,
+      "start": 247.12,
+      "end": 253.54,
+      "speaker": "Presenter",
+      "text": "The profiles for each of the BM will be the same. Since you're running real profiles from real people, there's not much risk to it.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 61,
+      "start": 253.98,
+      "end": 255.6,
+      "speaker": "Presenter",
+      "text": "These three are fine to be admin on all.",
+      "chunk": 0,
+      "timing": "aligned"
+    },
+    {
+      "id": 62,
+      "start": 256.06,
+      "end": 262.92,
+      "speaker": "Presenter",
+      "text": "Make sure that you have the admin. Don't only leave one admin 'cause if your profile gets banned and you're the only admin, no one else can access the Business Manager also.",
+      "chunk": 0,
+      "timing": "aligned"
+    }
+  ],
+  "removed_segments": [],
+  "non_speech": []
+}
