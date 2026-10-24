@@ -1,14 +1,14 @@
 # 6. How to prepare your mind for change - Visual notes
 
 - **Frames kept:** 1 of 31 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [006-how-to-prepare-your-mind-for-change-frames.zip](https://drive.google.com/file/d/1NoQFWzKKWOatiNrdxhsZXeVVT9WBjBS4/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/006-how-to-prepare-your-mind-for-change](https://drive.google.com/drive/folders/1jnX-4o6pC8P0I2pJZ2b2n61bA4GAoXsF)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:03:05] The Emotional Cycle of Change diagram
 
-frame: 006_00-03-05.png (Drive: https://drive.google.com/file/d/1NoQFWzKKWOatiNrdxhsZXeVVT9WBjBS4/view?usp=drivesdk)
+[frame 00:03:05](https://drive.google.com/file/d/19moQkSsUvYjjPJYqIaVhFDv2EPZOeOxJ/view?usp=drivesdk) · `006_00-03-05.png`
 
 *diagram*
 

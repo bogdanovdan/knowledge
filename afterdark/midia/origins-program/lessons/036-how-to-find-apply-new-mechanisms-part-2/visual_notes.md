@@ -1,14 +1,14 @@
 # 36. How To Find & Apply New Mechanisms - Part 2 - Visual notes
 
 - **Frames kept:** 14 of 35 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [036-how-to-find-apply-new-mechanisms-part-2-frames.zip](https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/036-how-to-find-apply-new-mechanisms-part-2](https://drive.google.com/drive/folders/1t8_Gi9qbDbHpu1QcB1qqLXKHl6cGq6UK)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:35] Google Doc on Finding and Applying New Mechanisms
 
-frame: 036_00-00-35.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:00:35](https://drive.google.com/file/d/1VbGi1DJDW9t4rxhB4fvtI1bu1bckfcDk/view?usp=drivesdk) · `036_00-00-35.png`
 
 *document*
 
@@ -36,7 +36,7 @@ Full Key Point text; 'Example #1 - Carepod Humidifier' and 'Example #1 - Carepod
 
 ## [00:00:40] New Mechanism AI Prompt Document
 
-frame: 036_00-00-40.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:00:40](https://drive.google.com/file/d/1-GkQkJx2SIpPwasVG83-4ke_Z_p5CjpM/view?usp=drivesdk) · `036_00-00-40.png`
 
 *document*
 
@@ -73,7 +73,7 @@ The verbatim text of the prompt breakdown: Situation, Task, Objective, Knowledge
 
 ## [00:01:15] Claude Prompt Instructions for New Mechanism Analysis
 
-frame: 036_00-01-15.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:01:15](https://drive.google.com/file/d/1LUORkpaEJQxofvOnP7Km9vhpSwVv87jw/view?usp=drivesdk) · `036_00-01-15.png`
 
 *software demo*
 
@@ -98,7 +98,7 @@ The 5 specific 'Instructions for Analysis' bullet points and exact wording paste
 
 ## [00:01:25] Market Sophistication Document - Five Stages Overview
 
-frame: 036_00-01-25.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:01:25](https://drive.google.com/file/d/1nRJu7sxktrYEbEU2KAEXpU9a67c4-g0K/view?usp=drivesdk) · `036_00-01-25.png`
 
 *document*
 
@@ -130,7 +130,7 @@ Detailed introductory text explaining Eugene Schwartz's theory and descriptions 
 
 ## [00:02:15] Three Strategic Responses for Sophisticated Markets - New Mechanism
 
-frame: 036_00-02-15.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:02:15](https://drive.google.com/file/d/1UaWnRQhpSJsx832--xLvBMfjHvRzoiy7/view?usp=drivesdk) · `036_00-02-15.png`
 
 *document*
 
@@ -163,7 +163,7 @@ Seed Health's ViaCap dual-capsule system stat (95% vs 20%), Purple's GelFlex Gri
 
 ## [00:02:35] New Mechanism Prompt Document - Analysis Guidelines and Instructions
 
-frame: 036_00-02-35.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:02:35](https://drive.google.com/file/d/16_hspbD6u5uhUXOxBMDDUAb-x3YBNzlE/view?usp=drivesdk) · `036_00-02-35.png`
 
 *document*
 
@@ -195,7 +195,7 @@ Numbered instructions 1-5 for analysis, and concluding directive text.
 
 ## [00:04:10] Carepod Humidifier Stainless Steel New Mechanism Example
 
-frame: 036_00-04-10.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:04:10](https://drive.google.com/file/d/1wjUuBhApX7uKFrxKq0OgDGLVSLgVE-2i/view?usp=drivesdk) · `036_00-04-10.png`
 
 *document*
 
@@ -217,7 +217,7 @@ Full text of 'Key Point' paragraph, Forbes/GQ logos, ad creative visual layout a
 
 ## [00:04:20] Claude Prompt Execution for Carepod One Marketing Strategy
 
-frame: 036_00-04-20.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:04:20](https://drive.google.com/file/d/1MsQBx5VLuFEFPRHqUGwfzJmp0H2Qi7tI/view?usp=drivesdk) · `036_00-04-20.png`
 
 *software demo*
 
@@ -245,7 +245,7 @@ Carepod product URL (https://hellocarepod.com/products/carepod-one) and complete
 
 ## [00:05:50] Claude Output - Carepod Identified Mechanisms
 
-frame: 036_00-05-50.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:05:50](https://drive.google.com/file/d/1zoRCTXr53faHgAqXTYryY1YqopCld2wt/view?usp=drivesdk) · `036_00-05-50.png`
 
 *software demo*
 
@@ -276,7 +276,7 @@ Complete text for Mechanism 2 (Boil-to-Sterilize) ad angles, and beginning of Me
 
 ## [00:06:45] Dog Friendly Co Harness Example Overview
 
-frame: 036_00-06-45.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:06:45](https://drive.google.com/file/d/1VuJut1eda4EE-I8xLLe7457AdjBRbAkh/view?usp=drivesdk) · `036_00-06-45.png`
 
 *document*
 
@@ -291,7 +291,7 @@ Visual product images showing the harness construction and leash attachment.
 
 ## [00:06:50] Claude Chat - Dog Friendly Co Analysis Query
 
-frame: 036_00-06-50.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:06:50](https://drive.google.com/file/d/1Wgq-Ylo_E0jZWgWpdQHU5inJUy4VaJ5Z/view?usp=drivesdk) · `036_00-06-50.png`
 
 *software demo*
 
@@ -309,7 +309,7 @@ URL attempted: https://ca.dogfriendlyco.com/products/signature-kit-grey-camo?var
 
 ## [00:07:10] Claude Output - Dog Friendly Co Behavioral Evolution Technology
 
-frame: 036_00-07-10.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:07:10](https://drive.google.com/file/d/1-A9Z298ld-je8wq5LuP7WhO_dRE9HrM7/view?usp=drivesdk) · `036_00-07-10.png`
 
 *software demo*
 
@@ -335,7 +335,7 @@ Full text of FB/IG hook examples, contrarian positioning copy, and the explanati
 
 ## [00:07:35] Dog Friendly Co Ad Creative - D Ring Attachment
 
-frame: 036_00-07-35.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:07:35](https://drive.google.com/file/d/1A-q2ieKFznV-N_i66SIhhJlffMhK0-3K/view?usp=drivesdk) · `036_00-07-35.png`
 
 *ad example*
 
@@ -353,7 +353,7 @@ Exact ad caption: 'The front D-ring attachment helped me gain control of Nova' a
 
 ## [00:08:25] YouTube Video - Superlative Concept Hooks for Carepod
 
-frame: 036_00-08-25.png (Drive: https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+[frame 00:08:25](https://drive.google.com/file/d/1IShMNy71fAukOAxxQE9zeu5wpCql-bGl/view?usp=drivesdk) · `036_00-08-25.png`
 
 *webpage*
 

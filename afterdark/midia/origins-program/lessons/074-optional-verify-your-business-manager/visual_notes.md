@@ -1,14 +1,14 @@
 # 74. (Optional) Verify your Business Manager - Visual notes
 
 - **Frames kept:** 9 of 18 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 1152x720 (native), PNG frames in Google Drive as [074-optional-verify-your-business-manager-frames.zip](https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk)
+- **Resolution:** 1152x720 (native), PNG frames in Google Drive, one file per frame, in folder [frames/074-optional-verify-your-business-manager](https://drive.google.com/drive/folders/18KloXUaAuE6b9o46fZfrct4brQWcO6YJ)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:35] Meta Business Settings - Security Center
 
-frame: 074_00-00-35.png (Drive: https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk)
+[frame 00:00:35](https://drive.google.com/file/d/14CwuMX6w4kcPN_e0TUWjpaWGcFQsgelj/view?usp=drivesdk) · `074_00-00-35.png`
 
 *software demo*
 
@@ -27,7 +27,7 @@ Business account name: 'Media A Easy'. Business ID: 152562646477468. URL: busine
 
 ## [00:00:40] Meta Business Settings - Create App ID
 
-frame: 074_00-00-40.png (Drive: https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk)
+[frame 00:00:40](https://drive.google.com/file/d/1zY_1NZEyuKenVDfu0nETHWF9ZDDDzyUO/view?usp=drivesdk) · `074_00-00-40.png`
 
 *software demo*
 
@@ -45,7 +45,7 @@ Menu options under 'Add' button:
 
 ## [00:00:55] Meta for Developers - Create an App Basic Info
 
-frame: 074_00-00-55.png (Drive: https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk)
+[frame 00:00:55](https://drive.google.com/file/d/1UP9kP72cuOgFVluvSrdVO6KmM5v0cbRC/view?usp=drivesdk) · `074_00-00-55.png`
 
 *software demo*
 
@@ -63,7 +63,7 @@ URL: developers.facebook.com/apps/create/?app_creation_source=business_manager&b
 
 ## [00:02:15] Meta for Developers - App Basic Settings
 
-frame: 074_00-02-15.png (Drive: https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk)
+[frame 00:02:15](https://drive.google.com/file/d/1kSDVj0zbt-yKWjhp7sY87M7K-j721dEQ/view?usp=drivesdk) · `074_00-02-15.png`
 
 *software demo*
 
@@ -90,7 +90,7 @@ App ID: 1863604487324412, App type: Instant Games, status: In development.
 
 ## [00:02:20] Upload App Icon Modal
 
-frame: 074_00-02-20.png (Drive: https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk)
+[frame 00:02:20](https://drive.google.com/file/d/1EeuNh1b6Gs1y4DnbteAWfPMMGkHlWp_P/view?usp=drivesdk) · `074_00-02-20.png`
 
 *software demo*
 
@@ -106,7 +106,7 @@ Detailed modal text about size ranges: between 512 x 512 and 1024 x 1024 pixels,
 
 ## [00:03:10] Meta for Developers - Verification Section with Start Verification Button
 
-frame: 074_00-03-10.png (Drive: https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk)
+[frame 00:03:10](https://drive.google.com/file/d/176mu5k99kEZpA87dl6EulDcMT2jzfZQM/view?usp=drivesdk) · `074_00-03-10.png`
 
 *software demo*
 
@@ -127,7 +127,7 @@ Business ID 152562646477468; 'Individual verification' status marked as Verified
 
 ## [00:03:25] Meta Business Settings Security Center - Verification Enabled
 
-frame: 074_00-03-25.png (Drive: https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk)
+[frame 00:03:25](https://drive.google.com/file/d/1Ibeav-uCYXhuRLNcNPOBPUqhic2g845u/view?usp=drivesdk) · `074_00-03-25.png`
 
 *software demo*
 
@@ -147,7 +147,7 @@ Security Center:
 
 ## [00:03:30] Select Country Modal in Verification Flow
 
-frame: 074_00-03-30.png (Drive: https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk)
+[frame 00:03:30](https://drive.google.com/file/d/1G3pSUuRUyqHpe-2LWg-Q9y3Cxfl9FifV/view?usp=drivesdk) · `074_00-03-30.png`
 
 *software demo*
 
@@ -164,7 +164,7 @@ Default country shown is 'Canada'.
 
 ## [00:04:50] Meta Business Info - Verified Business Details Example
 
-frame: 074_00-04-50.png (Drive: https://drive.google.com/file/d/1xsI6e4ayfwYmkxgHNHwvkGGw8FfsArbk/view?usp=drivesdk)
+[frame 00:04:50](https://drive.google.com/file/d/13Zz1tUyc0JhyrlfPVJpJTvMwgtaZg4n3/view?usp=drivesdk) · `074_00-04-50.png`
 
 *software demo*
 

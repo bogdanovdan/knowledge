@@ -1,14 +1,14 @@
 # 5. What to do in the first 30 days - Visual notes
 
 - **Frames kept:** 1 of 40 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [005-what-to-do-in-the-first-30-days-frames.zip](https://drive.google.com/file/d/13FsNI7Mz21tSQA4EoMBN9WOvFSfSrs2N/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/005-what-to-do-in-the-first-30-days](https://drive.google.com/drive/folders/1qN-dECXgx2rPO8we4yCcJjslh3pV9U8p)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:05:00] Origins Program first 30 days checklist in Skool
 
-frame: 005_00-05-00.png (Drive: https://drive.google.com/file/d/13FsNI7Mz21tSQA4EoMBN9WOvFSfSrs2N/view?usp=drivesdk)
+[frame 00:05:00](https://drive.google.com/file/d/1w3YCr3FxI33-dQsq-57e1LcTk_Z6d4d0/view?usp=drivesdk) · `005_00-05-00.png`
 
 *software demo*
 

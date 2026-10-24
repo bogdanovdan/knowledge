@@ -1,14 +1,14 @@
 # 72. Set Up & Warm Up Your FB Page - Visual notes
 
 - **Frames kept:** 11 of 20 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 724x480 (native), PNG frames in Google Drive as [072-set-up-warm-up-your-fb-page-frames.zip](https://drive.google.com/file/d/1hrYJJN38ILiG24fm_l3v2DM92SbzqWei/view?usp=drivesdk)
+- **Resolution:** 724x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/072-set-up-warm-up-your-fb-page](https://drive.google.com/drive/folders/1CAApG9FTwLfOiApBTRu_9t2DhCF5RQkX)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:15] Facebook Home Feed Navigation
 
-frame: 072_00-00-15.png (Drive: https://drive.google.com/file/d/1hrYJJN38ILiG24fm_l3v2DM92SbzqWei/view?usp=drivesdk)
+[frame 00:00:15](https://drive.google.com/file/d/10W3SzR0XPzNSau9zeLtbaiA1glb1B75E/view?usp=drivesdk) · `072_00-00-15.png`
 
 *software demo*
 
@@ -22,7 +22,7 @@ User profile name 'Shaun John Corn', left menu items (Memories, Saved, Groups, M
 
 ## [00:00:40] Facebook Create a Page Setup Form
 
-frame: 072_00-00-40.png (Drive: https://drive.google.com/file/d/1hrYJJN38ILiG24fm_l3v2DM92SbzqWei/view?usp=drivesdk)
+[frame 00:00:40](https://drive.google.com/file/d/1fWXsnZnLwYlO8MlwAHRrocaJcmchSW05/view?usp=drivesdk) · `072_00-00-40.png`
 
 *software demo*
 
@@ -36,7 +36,7 @@ URL path '/pages/creation/?profile_switcher_unified_creation...', input placehol
 
 ## [00:01:00] Configured Create a Page Form
 
-frame: 072_00-01-00.png (Drive: https://drive.google.com/file/d/1hrYJJN38ILiG24fm_l3v2DM92SbzqWei/view?usp=drivesdk)
+[frame 00:01:00](https://drive.google.com/file/d/1qg6S_UpdKJbpWUn_jkNY-2gOW0QOAWRG/view?usp=drivesdk) · `072_00-01-00.png`
 
 *software demo*
 
@@ -54,7 +54,7 @@ Exact values entered: 'BM Backup for origins', 'Men's clothing store', 'We sell 
 
 ## [00:01:05] New Facebook Page Overview Before Switch
 
-frame: 072_00-01-05.png (Drive: https://drive.google.com/file/d/1hrYJJN38ILiG24fm_l3v2DM92SbzqWei/view?usp=drivesdk)
+[frame 00:01:05](https://drive.google.com/file/d/1GGgnvY07VK8UmfGVBWVwIFsDVhoyqghS/view?usp=drivesdk) · `072_00-01-05.png`
 
 *software demo*
 
@@ -68,7 +68,7 @@ Page ID in URL: 61582640018609, 'Switch Now' prompt and left sidebar options ('P
 
 ## [00:01:35] Manage Page Setup Checklist
 
-frame: 072_00-01-35.png (Drive: https://drive.google.com/file/d/1hrYJJN38ILiG24fm_l3v2DM92SbzqWei/view?usp=drivesdk)
+[frame 00:01:35](https://drive.google.com/file/d/1lFkt-nwAn8B5EzFe-gyyq2G7FH1hE6Vy/view?usp=drivesdk) · `072_00-01-35.png`
 
 *software demo*
 
@@ -82,7 +82,7 @@ Facebook Page interface after switching to manage 'BM Backup for origins'. Left 
 
 ## [00:02:15] Facebook Professional Dashboard Weekly Progress Tasks
 
-frame: 072_00-02-15.png (Drive: https://drive.google.com/file/d/1hrYJJN38ILiG24fm_l3v2DM92SbzqWei/view?usp=drivesdk)
+[frame 00:02:15](https://drive.google.com/file/d/1VWRf3c1fu1Tm56_CM6fWyhb0yODVFm7e/view?usp=drivesdk) · `072_00-02-15.png`
 
 *software demo*
 
@@ -105,7 +105,7 @@ Exact task list in Professional Dashboard, completion percentage (14%), and URL 
 
 ## [00:02:30] Configured Page Header with Assets
 
-frame: 072_00-02-30.png (Drive: https://drive.google.com/file/d/1hrYJJN38ILiG24fm_l3v2DM92SbzqWei/view?usp=drivesdk)
+[frame 00:02:30](https://drive.google.com/file/d/1w_L-66eWYdhMcEp9wzK-N7uibivlw0pV/view?usp=drivesdk) · `072_00-02-30.png`
 
 *software demo*
 
@@ -119,7 +119,7 @@ Facebook page 'BM Backup for origins' with Bob the Builder images set for profil
 
 ## [00:02:45] Populated Facebook Page Profile and Feed
 
-frame: 072_00-02-45.png (Drive: https://drive.google.com/file/d/1hrYJJN38ILiG24fm_l3v2DM92SbzqWei/view?usp=drivesdk)
+[frame 00:02:45](https://drive.google.com/file/d/1Jj8r5OH8gW3XnAalxFQf01nMhfmgeGVX/view?usp=drivesdk) · `072_00-02-45.png`
 
 *software demo*
 
@@ -133,7 +133,7 @@ Page category: 'Men's clothing store'. Website listed: 'bmbackupfororigins.com'.
 
 ## [00:03:15] Google Images Nature Landscape Search Results
 
-frame: 072_00-03-15.png (Drive: https://drive.google.com/file/d/1hrYJJN38ILiG24fm_l3v2DM92SbzqWei/view?usp=drivesdk)
+[frame 00:03:15](https://drive.google.com/file/d/1QHOfgbALkApIDiZezoyAhe0OkhYJr5Qw/view?usp=drivesdk) · `072_00-03-15.png`
 
 *webpage*
 
@@ -147,7 +147,7 @@ Filter tags at top: Photography, Beautiful, Mountain, Sunset, Forest, Wallpaper,
 
 ## [00:03:25] Google Search for Quote of the Day
 
-frame: 072_00-03-25.png (Drive: https://drive.google.com/file/d/1hrYJJN38ILiG24fm_l3v2DM92SbzqWei/view?usp=drivesdk)
+[frame 00:03:25](https://drive.google.com/file/d/1jLk2D64IO4kTmL9a68c4CbM3ttrrr5fj/view?usp=drivesdk) · `072_00-03-25.png`
 
 *webpage*
 
@@ -161,7 +161,7 @@ Bill Keane quote: 'Yesterday is history, tomorrow is a mystery, today is a gift 
 
 ## [00:04:35] Adding Facebook Page Access Modal
 
-frame: 072_00-04-35.png (Drive: https://drive.google.com/file/d/1hrYJJN38ILiG24fm_l3v2DM92SbzqWei/view?usp=drivesdk)
+[frame 00:04:35](https://drive.google.com/file/d/1OhiK8bTHxHk8nIGxe1xVfRcv1ZXtkZQP/view?usp=drivesdk) · `072_00-04-35.png`
 
 *software demo*
 

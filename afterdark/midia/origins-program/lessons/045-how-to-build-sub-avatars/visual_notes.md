@@ -1,14 +1,14 @@
 # 45. How To Build Sub Avatars - Visual notes
 
 - **Frames kept:** 45 of 97 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [045-how-to-build-sub-avatars-frames.zip](https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/045-how-to-build-sub-avatars](https://drive.google.com/drive/folders/1GioAS3H7v18Jz5pf7qFqW47bJoBChXGL)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:02:40] Core and Sub-Avatar Framework Document
 
-frame: 045_00-02-40.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:02:40](https://drive.google.com/file/d/1c6gtp14eKrDeXT1TDnWZCTZDlJ0cy0Fn/view?usp=drivesdk) · `045_00-02-40.png`
 
 *document*
 
@@ -59,7 +59,7 @@ Desire-Based Core Avatar #3: Person wants to sleep in a quiet environment
 
 ## [00:02:45] Reddit r/whoop post on increasing REM/deep sleep
 
-frame: 045_00-02-45.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:02:45](https://drive.google.com/file/d/1nHx0SO88l6jP1Tk6YY5M8aZBPuSP-zc6/view?usp=drivesdk) · `045_00-02-45.png`
 
 *social post*
 
@@ -73,7 +73,7 @@ Username Time_Coconut_5268, subreddit r/whoop, sleep metrics breakdown percentag
 
 ## [00:02:55] Reddit r/productivity post on sleep improvement
 
-frame: 045_00-02-55.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:02:55](https://drive.google.com/file/d/1NQSlzbnQe6PWjaZ_ajKhOFsVWNgwsa19/view?usp=drivesdk) · `045_00-02-55.png`
 
 *social post*
 
@@ -87,7 +87,7 @@ Post author SleepingKoala_-, detailed text of the post and comments regarding av
 
 ## [00:05:05] Google Doc listing Desire-Based Core Avatars
 
-frame: 045_00-05-05.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:05:05](https://drive.google.com/file/d/1K4EGBuU0WCKc5gC6nU4gQ-uwkCqYqtD6/view?usp=drivesdk) · `045_00-05-05.png`
 
 *document*
 
@@ -101,7 +101,7 @@ Desire-Based Core Avatar #1 ('Person wants to enhance their Health') and #3 ('Pe
 
 ## [00:05:15] Core Avatar Sub-Avatars Breakdown Document
 
-frame: 045_00-05-15.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:05:15](https://drive.google.com/file/d/1r8hbN81An__KHGdxnlz4YbwfglaxJZMm/view?usp=drivesdk) · `045_00-05-15.png`
 
 *document*
 
@@ -123,7 +123,7 @@ Sub Avatar #1 Magnesium didn't work, hooks for Emotion-Based Sub Avatar, and ful
 
 ## [00:08:40] Permanent Forces: How Desires Are Born Framework
 
-frame: 045_00-08-40.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:08:40](https://drive.google.com/file/d/1VsgU8CyXGEWKTNiT72uQ_soI-gJUEMcL/view?usp=drivesdk) · `045_00-08-40.png`
 
 *document*
 
@@ -151,7 +151,7 @@ Detailed descriptions for Sex, Status, Belonging, Control, Comfort; Mass Technol
 
 ## [00:11:00] Sub-Avatar Framework Examples: Product Experience, Emotion, Behavior
 
-frame: 045_00-11-00.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:11:00](https://drive.google.com/file/d/1UtJH0Ga3s0pk943jwpHwX47WHXzS7EML/view?usp=drivesdk) · `045_00-11-00.png`
 
 *document*
 
@@ -194,7 +194,7 @@ Magnesium didn't work sub-avatar, specific ad hook examples (arrows), Brown Nois
 
 ## [00:11:10] Google Search Suggestions for Sleep Improvement Reddit Threads
 
-frame: 045_00-11-10.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:11:10](https://drive.google.com/file/d/1ia8nQTAIkEELwR9kFTGt_o4GYrzdELkC/view?usp=drivesdk) · `045_00-11-10.png`
 
 *webpage*
 
@@ -222,7 +222,7 @@ Search autocomplete suggestions list, specific search results from Reddit subred
 
 ## [00:11:20] Google Search and AI Overview for Restorative Sleep Reddit
 
-frame: 045_00-11-20.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:11:20](https://drive.google.com/file/d/1zL9agabxXZiDym-J_xc3TCfQ7VY68Hro/view?usp=drivesdk) · `045_00-11-20.png`
 
 *webpage*
 
@@ -243,7 +243,7 @@ AI overview snippet text; search results mentioning Whoop, Fitbit, and AthlyticA
 
 ## [00:11:30] Google Search Results and AI Overview on Sleep Habits
 
-frame: 045_00-11-30.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:11:30](https://drive.google.com/file/d/1GchL1pIXoJT-btPo9Vsgt5LG-4JiSiDt/view?usp=drivesdk) · `045_00-11-30.png`
 
 *webpage*
 
@@ -263,7 +263,7 @@ Detailed advice points in the AI overview and specific external medical article 
 
 ## [00:11:35] Google Search Results for Sleep Lack and Emotions Reddit
 
-frame: 045_00-11-35.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:11:35](https://drive.google.com/file/d/1zhQAgXgFeczxnph3UM6G88HcxpqkyWgc/view?usp=drivesdk) · `045_00-11-35.png`
 
 *webpage*
 
@@ -284,7 +284,7 @@ Exact Reddit post titles across ADHD, adhdwomen, CasualConversation, and hsp sub
 
 ## [00:12:40] Reddit Post on Emotional Changes from Sleep Deprivation
 
-frame: 045_00-12-40.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:12:40](https://drive.google.com/file/d/1vinoWYHqmXLMyemRwu2vEAZHUmAF2fh2/view?usp=drivesdk) · `045_00-12-40.png`
 
 *social post*
 
@@ -298,7 +298,7 @@ Usernames (lkdguitar, Distinct_Studio7039), post upvotes (206), comment count (5
 
 ## [00:12:55] Google Search and AI Overview for Blackout Room Sleep Reddit
 
-frame: 045_00-12-55.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:12:55](https://drive.google.com/file/d/1KXG4gdjrhKDiExNpINjrpmETW5YGJMbB/view?usp=drivesdk) · `045_00-12-55.png`
 
 *software demo*
 
@@ -314,7 +314,7 @@ Query text: 'black out room sleep reddit', subreddit names (r/sleeptrain, r/Taki
 
 ## [00:13:00] Expanded AI Overview for Blackout Room Sleep Solutions
 
-frame: 045_00-13-00.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:13:00](https://drive.google.com/file/d/1F8-owO7AvQjWMAh-2GQrAGY0G1OS_cQo/view?usp=drivesdk) · `045_00-13-00.png`
 
 *software demo*
 
@@ -331,7 +331,7 @@ Temporary/DIY options listed: Poster board, Blackout film, Spray-painted adverti
 
 ## [00:13:05] Reddit Post on Pitch Black Nursery Sleep Training
 
-frame: 045_00-13-05.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:13:05](https://drive.google.com/file/d/1eiD3K8vYOpSSudj_DJw50uqIiv7FhTZh/view?usp=drivesdk) · `045_00-13-05.png`
 
 *social post*
 
@@ -345,7 +345,7 @@ Subreddit r/sleeptrain, author username Here4Plants2021, comments and post detai
 
 ## [00:13:10] Google Search and AI Overview for Sleep Deterioration by Age
 
-frame: 045_00-13-10.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:13:10](https://drive.google.com/file/d/1rScfTig2isfMSt76CqaGRApSHsrQtt9L/view?usp=drivesdk) · `045_00-13-10.png`
 
 *software demo*
 
@@ -361,7 +361,7 @@ Search query text; specific mention of late 20s/30s and deep sleep reduction in 
 
 ## [00:13:35] Framework Guidelines on Avatar Count by Revenue Stage
 
-frame: 045_00-13-35.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:13:35](https://drive.google.com/file/d/1OScO6jOvftYzSyb5-J_WgnIlqJ2Uk1Oh/view?usp=drivesdk) · `045_00-13-35.png`
 
 *document*
 
@@ -384,7 +384,7 @@ Written phrases: 'As a brand, you EARN the right to go broader', 'Out-avatar the
 
 ## [00:13:45] Reddit Thread on Sleep Deteriorating with Age in r/Aging
 
-frame: 045_00-13-45.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:13:45](https://drive.google.com/file/d/17nAsnfUPy_oUmGtVjnG_8iY0nvecPKvV/view?usp=drivesdk) · `045_00-13-45.png`
 
 *social post*
 
@@ -400,7 +400,7 @@ User comments by 775gal and stuck_behind_a_truck, related answers sidebar (effec
 
 ## [00:14:40] Comprehensive List of Demographic Categories for Avatars
 
-frame: 045_00-14-40.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:14:40](https://drive.google.com/file/d/1GU6cmT4Jl823xar_G1q_wDaVnqgS-w-p/view?usp=drivesdk) · `045_00-14-40.png`
 
 *document*
 
@@ -431,7 +431,7 @@ Full itemized list of demographic attributes (items j through x) and specific su
 
 ## [00:14:55] Google Search and AI Overview on Job Effects on Sleep
 
-frame: 045_00-14-55.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:14:55](https://drive.google.com/file/d/1LjAPN0Bmt92wQGGNzCA_IaRB04FXOIyf/view?usp=drivesdk) · `045_00-14-55.png`
 
 *software demo*
 
@@ -447,7 +447,7 @@ Query wording, career guidance sidebar box, r/science snippet.
 
 ## [00:15:00] Reddit Post on Severe Work-Related Insomnia in r/AskIreland
 
-frame: 045_00-15-00.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:15:00](https://drive.google.com/file/d/1znHiGOpZVVGFvWBWa5Lf_ruI4Ds_3lGA/view?usp=drivesdk) · `045_00-15-00.png`
 
 *social post*
 
@@ -463,7 +463,7 @@ Post author username, comment text from oddkidd9, upvote/comment counts.
 
 ## [00:15:10] Google Search Results for Work Impact on Sleep Reddit
 
-frame: 045_00-15-10.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:15:10](https://drive.google.com/file/d/13uE20boBT4-7zo2M3rcoeoLPhKAKObJs/view?usp=drivesdk) · `045_00-15-10.png`
 
 *software demo*
 
@@ -482,7 +482,7 @@ Thread titles and subreddits: r/TheGirlSurvivalGuide, r/insomnia ('My job may ha
 
 ## [00:15:30] Google Search and AI Overview on Night Shift Worker Sleep
 
-frame: 045_00-15-30.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:15:30](https://drive.google.com/file/d/151DQSz-nUbDUSUWc3bprtl-TizpS1Pmv/view?usp=drivesdk) · `045_00-15-30.png`
 
 *webpage*
 
@@ -504,7 +504,7 @@ r/911dispatchers thread title "Night shift sleep improvement", r/respiratoryther
 
 ## [00:15:45] Reddit Thread on Sleep Strategies in r/productivity
 
-frame: 045_00-15-45.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:15:45](https://drive.google.com/file/d/1-AyeflAXmH7DP3CiHuu_SAswV3wBqYqV/view?usp=drivesdk) · `045_00-15-45.png`
 
 *social post*
 
@@ -522,7 +522,7 @@ Specific routine points: herbal tea, 20-minute rule, comment recommendations on 
 
 ## [00:16:25] Document Outline of Behavior and Demographic Sub-Avatars
 
-frame: 045_00-16-25.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:16:25](https://drive.google.com/file/d/19YBomQ3_ihajGOxYm1i7dflsGG9jZ0pj/view?usp=drivesdk) · `045_00-16-25.png`
 
 *document*
 
@@ -566,7 +566,7 @@ Avatar definitions for Sub Avatar #5 (Night Faster), Sub Avatar #6 (No Screener)
 
 ## [00:17:00] Reddit Post on Emotional Changes from Sleep Deprivation
 
-frame: 045_00-17-00.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:17:00](https://drive.google.com/file/d/1kj0Zra59IaSSO_MqQVtuLt756MNICImz/view?usp=drivesdk) · `045_00-17-00.png`
 
 *social post*
 
@@ -582,7 +582,7 @@ Subreddit r/sleep, user handle lkdguitar, exact comment snippet visible at botto
 
 ## [00:17:35] Reddit Comments on Mood Swings from Night Shift Sleep Loss
 
-frame: 045_00-17-35.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:17:35](https://drive.google.com/file/d/1QdPBManI-jLBMP9tuiCJUEaX6YKYoh6d/view?usp=drivesdk) · `045_00-17-35.png`
 
 *social post*
 
@@ -599,7 +599,7 @@ gypsymomma's comment details (2 years on night shift, major mood swings, wanting
 
 ## [00:17:55] Documenting Emotion-Based and Behavior-Based Sub-Avatars
 
-frame: 045_00-17-55.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:17:55](https://drive.google.com/file/d/1Ja76j7GAQl7_3KmJJQLqEM138W10m6_C/view?usp=drivesdk) · `045_00-17-55.png`
 
 *document*
 
@@ -629,7 +629,7 @@ Sleep Tech User details, Short Fuse Avatar full attributes and hook line, Nose S
 
 ## [00:18:00] Reddit Post on WHOOP REM and Deep Sleep Tracking
 
-frame: 045_00-18-00.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:18:00](https://drive.google.com/file/d/1ea6y7BeDZW6RabhlfOjTXkXiMyMCLsb-/view?usp=drivesdk) · `045_00-18-00.png`
 
 *social post*
 
@@ -644,7 +644,7 @@ Full breakdown of WHOOP sleep stages (Light 6:39, Awake 1:08, Deep 1:41, REM 1:2
 
 ## [00:19:10] Claude Generating Emotionally Targeted Ad Hooks
 
-frame: 045_00-19-10.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:19:10](https://drive.google.com/file/d/1X_GOHpFMomRZnfF5yVZFIvGsXSZVvSNW/view?usp=drivesdk) · `045_00-19-10.png`
 
 *software demo*
 
@@ -675,7 +675,7 @@ Hook #4 full phrasing, exact text of category headers (Problem-Agitation, Before
 
 ## [00:19:55] Claude Short and Punchy Ad Hooks for Blackout Blinds
 
-frame: 045_00-19-55.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:19:55](https://drive.google.com/file/d/1jnOh1hZYHu73O_8Hl2PKzzILrKlVUQzG/view?usp=drivesdk) · `045_00-19-55.png`
 
 *software demo*
 
@@ -696,7 +696,7 @@ Hook #12 verbatim text, Claude's concluding recommendation note analyzing which 
 
 ## [00:20:00] Reddit Thread on Sleep Deteriorating with Age in r/Aging
 
-frame: 045_00-20-00.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:20:00](https://drive.google.com/file/d/1uTUKMnNwvU2oCncleeb8pjecvVBKTdPo/view?usp=drivesdk) · `045_00-20-00.png`
 
 *social post*
 
@@ -717,7 +717,7 @@ Full text of comments from stuck_behind_a_truck and redroom89, related answers s
 
 ## [00:20:10] Documenting Behavior and Demographic Sub-Avatars
 
-frame: 045_00-20-10.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:20:10](https://drive.google.com/file/d/15v1NShDXgZsaTSE-zVLljP_LTtjDvxk5/view?usp=drivesdk) · `045_00-20-10.png`
 
 *document*
 
@@ -753,7 +753,7 @@ Detailed text for Sub Avatar #6, Sub Avatar #7 (Super Sleeper), and Sub Avatar #
 
 ## [00:21:25] Documenting Experience-Based Sub-Avatar
 
-frame: 045_00-21-25.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:21:25](https://drive.google.com/file/d/1la3s6Wq5yuHZWaK_PQsBm9AeVwT3awda/view?usp=drivesdk) · `045_00-21-25.png`
 
 *document*
 
@@ -782,7 +782,7 @@ Top note: 'Note* from previous training - ALL Avatars need desires because that 
 
 ## [00:22:20] Reddit Thread in r/Aging on Sleep Quality and Supplements
 
-frame: 045_00-22-20.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:22:20](https://drive.google.com/file/d/1-ESwyt8qZJb2hiKFIOhPwhBW0jZ0HuO2/view?usp=drivesdk) · `045_00-22-20.png`
 
 *social post*
 
@@ -796,7 +796,7 @@ Usernames (Story_Man_75, saagir1885, remberzz, Playful-Reflection12), timestamps
 
 ## [00:22:25] Reddit Comments on Insomnia and Sleep Aids in r/Aging
 
-frame: 045_00-22-25.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:22:25](https://drive.google.com/file/d/1tm11fwczGAqcxz-MjdTO0k8B-D0gfx83/view?usp=drivesdk) · `045_00-22-25.png`
 
 *social post*
 
@@ -810,7 +810,7 @@ HatchOfficial promoted ad at bottom: 'Cast a sleep spell...'
 
 ## [00:24:00] Drafting 'Full Sender Grandpa' Demographic Sub-Avatar
 
-frame: 045_00-24-00.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:24:00](https://drive.google.com/file/d/1rMCN2zIZeRDKbJTOl6rGZ1U6UD8QxwPu/view?usp=drivesdk) · `045_00-24-00.png`
 
 *document*
 
@@ -835,7 +835,7 @@ Typos as typed: 'Behvior', 'Experince: Has a great sl'.
 
 ## [00:24:05] Reddit Thread in r/Nightshift
 
-frame: 045_00-24-05.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:24:05](https://drive.google.com/file/d/1j7VFJi3pT7s_jRW_rsD3GqZL8d9f3pAV/view?usp=drivesdk) · `045_00-24-05.png`
 
 *social post*
 
@@ -851,7 +851,7 @@ Specific post text and title from r/Nightshift; promoted ad by oakleymeta.
 
 ## [00:25:30] Google Search for Weed Gummies Sleep Reddit
 
-frame: 045_00-25-30.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:25:30](https://drive.google.com/file/d/1A0LtkFOrNAimCvs5Zr-9gvfnabCgG6XA/view?usp=drivesdk) · `045_00-25-30.png`
 
 *webpage*
 
@@ -870,7 +870,7 @@ AI Overview text details and specific subreddit search result titles.
 
 ## [00:25:35] Reddit Post in r/sleeptrain on Pitch Black Nursery
 
-frame: 045_00-25-35.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:25:35](https://drive.google.com/file/d/1fe4pWndz5aMP7DejQFYzz117eIm5qo3g/view?usp=drivesdk) · `045_00-25-35.png`
 
 *social post*
 
@@ -886,7 +886,7 @@ Full text of Reddit post by Here4Plants2021 detailing husband's extreme blackout
 
 ## [00:25:50] Reddit Search Results in r/Aging on Sleep Quality and Insomnia
 
-frame: 045_00-25-50.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:25:50](https://drive.google.com/file/d/1VgRnZJUtBISkGvIsbZRA7wluQVyGj6J1/view?usp=drivesdk) · `045_00-25-50.png`
 
 *social post*
 
@@ -904,7 +904,7 @@ Sidebar related threads from r/science and r/sleep; comments from hanging-out197
 
 ## [00:28:10] Reddit Post in r/Nightshift on Managing Lifestyle and Sleep
 
-frame: 045_00-28-10.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:28:10](https://drive.google.com/file/d/1upUgwzs0hloXj1oQp-LVAS9MunXQecXn/view?usp=drivesdk) · `045_00-28-10.png`
 
 *social post*
 
@@ -921,7 +921,7 @@ Usernames Kooky_Plastic_3280, Cold-Cheesecake85, tim3111; related answers sideba
 
 ## [00:28:40] Google Doc Outlining Demographic-Based Sub-Avatars
 
-frame: 045_00-28-40.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:28:40](https://drive.google.com/file/d/11_BSQqmPTiKjDNI5je2LQHSRKfX40e0l/view?usp=drivesdk) · `045_00-28-40.png`
 
 *document*
 
@@ -955,7 +955,7 @@ Unedited placeholder text copied from the first avatar into the Night Shift Work
 
 ## [00:29:40] Reddit Comments in r/Nightshift Describing Sleep Routines
 
-frame: 045_00-29-40.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:29:40](https://drive.google.com/file/d/1a7eO4_aXBclf6Uywwi5L4-HQOBJWjtJa/view?usp=drivesdk) · `045_00-29-40.png`
 
 *social post*
 
@@ -972,7 +972,7 @@ whitepawn23 comment; eckokittenbliss comment; sidebar links ("The Struggles of W
 
 ## [00:31:45] Google Doc Reviewing Defined Sub-Avatars by Category
 
-frame: 045_00-31-45.png (Drive: https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+[frame 00:31:45](https://drive.google.com/file/d/1tB6zVwWtavQUMWWlXl0wi0LP8OqUixnK/view?usp=drivesdk) · `045_00-31-45.png`
 
 *document*
 

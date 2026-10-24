@@ -1,14 +1,14 @@
 # 25. How one offer can 2x ad spend and 3x ROAS - Visual notes
 
 - **Frames kept:** 83 of 123 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [025-how-one-offer-can-2x-ad-spend-and-3x-roas-frames.zip](https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/025-how-one-offer-can-2x-ad-spend-and-3x-roas](https://drive.google.com/drive/folders/1d6-q8TyiadT7fwimoXzOhU3IfBEhyJpH)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:01:35] Meta Ads Manager campaign performance metrics
 
-frame: 025_00-01-35.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:01:35](https://drive.google.com/file/d/1Lq6usYYJAYCNLG958w8xPOufACqjupgn/view?usp=drivesdk) · `025_00-01-35.png`
 
 *software demo*
 
@@ -22,7 +22,7 @@ Date range selected: Jul 27, 2025 - Jul 31, 2025. Specific row stats: RatVac cam
 
 ## [00:02:20] Meta Ads Manager Ad sets split test LP V1 vs LP V2
 
-frame: 025_00-02-20.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:02:20](https://drive.google.com/file/d/10St__n5cIb-BxJhvovMt8pwgEm6PaHEx/view?usp=drivesdk) · `025_00-02-20.png`
 
 *software demo*
 
@@ -36,7 +36,7 @@ Ad set targeting specifics: Broad, US, 18-65+, All, 7DC attribution. Amount spen
 
 ## [00:03:50] Meta Ads Manager campaign comparison data
 
-frame: 025_00-03-50.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:03:50](https://drive.google.com/file/d/1zTlfdoRxGxS14YYeP_006wZXufXGwFIE/view?usp=drivesdk) · `025_00-03-50.png`
 
 *software demo*
 
@@ -50,7 +50,7 @@ Date range: Jul 13, 2025 - Jul 19, 2025. CPM: $31.91 vs $35.24; Reach: 4,578 vs 
 
 ## [00:04:00] Control product page above-the-fold layout
 
-frame: 025_00-04-00.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:04:00](https://drive.google.com/file/d/1Rpp-9yDMuE-MJURUQUpFf1in5FbtcZab/view?usp=drivesdk) · `025_00-04-00.png`
 
 *product page*
 
@@ -64,7 +64,7 @@ Banner: 'Free Shipping on Orders Over $95'. Logo text: 'Rodent Stoppers - Rodent
 
 ## [00:04:25] Control product page buy section
 
-frame: 025_00-04-25.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:04:25](https://drive.google.com/file/d/1bOh0qlHcWrq3phcCrLwvM67OP5oTtLel/view?usp=drivesdk) · `025_00-04-25.png`
 
 *product page*
 
@@ -78,7 +78,7 @@ Shop Pay button, delivery timeline icons and dates (1st August, 2nd August, 7th 
 
 ## [00:04:35] Control page footer and trust badges
 
-frame: 025_00-04-35.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:04:35](https://drive.google.com/file/d/1TDVzoOg9749m7RrTHf26PQGssWF4j-6t/view?usp=drivesdk) · `025_00-04-35.png`
 
 *product page*
 
@@ -92,7 +92,7 @@ Fox News, YouTube (200M+ Views), Facebook (12M+ Likes) badges. Business address:
 
 ## [00:04:50] Optimized landing page hero section V2
 
-frame: 025_00-04-50.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:04:50](https://drive.google.com/file/d/1-vPinP2kX8nG_wEU42okziLKevlE5yT3/view?usp=drivesdk) · `025_00-04-50.png`
 
 *webpage*
 
@@ -106,7 +106,7 @@ Exact timer reading: '10:01:01'. Subhead wording exact text.
 
 ## [00:05:35] Optimized landing page alternative hero visual
 
-frame: 025_00-05-35.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:05:35](https://drive.google.com/file/d/1GGYXFkI76Xw_moPmGYddXZh8QeGhOOdq/view?usp=drivesdk) · `025_00-05-35.png`
 
 *webpage*
 
@@ -120,7 +120,7 @@ Image of spokesperson/founder kneeling next to Ridgid wet/dry vac holding produc
 
 ## [00:06:55] Control product page mobile view with price
 
-frame: 025_00-06-55.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:06:55](https://drive.google.com/file/d/1deeycfJHOZe4aRrOqkZ9UTxLKfyZ-Fte/view?usp=drivesdk) · `025_00-06-55.png`
 
 *product page*
 
@@ -134,7 +134,7 @@ Brand tagline 'Rodent Free is Our Guarantee', 'Free Shipping on Orders Over $95'
 
 ## [00:07:20] Optimized landing page problem section and CTA
 
-frame: 025_00-07-20.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:07:20](https://drive.google.com/file/d/19Ji-_zPa6opno8wET8Hnlp8rbu-8zWIW/view?usp=drivesdk) · `025_00-07-20.png`
 
 *product page*
 
@@ -148,7 +148,7 @@ Rating '4.8/5 from 10,000+ happy customers', 'Backed by 30-day money-back guaran
 
 ## [00:07:35] Problem storytelling sales copy breakdown
 
-frame: 025_00-07-35.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:07:35](https://drive.google.com/file/d/1skhuqYnEbvmDPT-9l4apRb68Uywjob9g/view?usp=drivesdk) · `025_00-07-35.png`
 
 *product page*
 
@@ -170,7 +170,7 @@ Every failed trap makes them bolder. Every stolen bait makes them smarter.'
 
 ## [00:08:15] Landing page solution bridge and product visual
 
-frame: 025_00-08-15.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:08:15](https://drive.google.com/file/d/1e2IO7lFIV421UXP4dAcOyn3gjwZQTuAE/view?usp=drivesdk) · `025_00-08-15.png`
 
 *product page*
 
@@ -187,7 +187,7 @@ Subheader text 'Reclaim your home'.
 
 ## [00:08:20] Product solution header section
 
-frame: 025_00-08-20.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:08:20](https://drive.google.com/file/d/1X4-FxNMoXIJa7hsm3NIoDhaijulUIPHr/view?usp=drivesdk) · `025_00-08-20.png`
 
 *product page*
 
@@ -203,7 +203,7 @@ Experience what the Rat Vac can do for you'
 
 ## [00:08:35] Landing page top banner with countdown timer
 
-frame: 025_00-08-35.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:08:35](https://drive.google.com/file/d/1IKa3u-tDtvPN65kXMbDt7QGYsRIkE01j/view?usp=drivesdk) · `025_00-08-35.png`
 
 *product page*
 
@@ -224,7 +224,7 @@ Countdown timer '09:57:16', 'Fast delivery | U.S. patented technology' trust bar
 
 ## [00:08:50] Mobile landing page copy bridging problem to Rat Vac solution
 
-frame: 025_00-08-50.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:08:50](https://drive.google.com/file/d/1xMH0_5aaAeXFtBwqKUTZhEDAIjHkjvqu/view?usp=drivesdk) · `025_00-08-50.png`
 
 *webpage*
 
@@ -245,7 +245,7 @@ Header text: "Reclaim your home"; DevTools responsive view bar (425 x 905).
 
 ## [00:08:55] Rat Vac benefit bullet points on mobile page
 
-frame: 025_00-08-55.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:08:55](https://drive.google.com/file/d/11mMX7Axnwg02nBQ6v7xoEM_8UAg4gN68/view?usp=drivesdk) · `025_00-08-55.png`
 
 *webpage*
 
@@ -267,7 +267,7 @@ Emoji icons and exact bullet wording: "Works automatically while you rest - no m
 
 ## [00:09:20] Call to action and YouTube demo video embed
 
-frame: 025_00-09-20.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:09:20](https://drive.google.com/file/d/1IGmpyhRiFnrjAGcCwOORAEPSypKUc2X_/view?usp=drivesdk) · `025_00-09-20.png`
 
 *webpage*
 
@@ -284,7 +284,7 @@ Exact button copy and guarantee text.
 
 ## [00:09:25] Control site accordion sections and product demo video
 
-frame: 025_00-09-25.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:09:25](https://drive.google.com/file/d/1GingjNJe4y3fh9jZqK6crZsdhj4M80G9/view?usp=drivesdk) · `025_00-09-25.png`
 
 *webpage*
 
@@ -305,7 +305,7 @@ Accordion menu titles, side tab 'GET 10% OFF', Nudgify notification for Daniel Y
 
 ## [00:09:30] How the motion-sensor system works feature breakdown
 
-frame: 025_00-09-30.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:09:30](https://drive.google.com/file/d/1z-Ln5LUvRWERK4nRSy5Fr6B32hy7i1dO/view?usp=drivesdk) · `025_00-09-30.png`
 
 *webpage*
 
@@ -323,7 +323,7 @@ Exact numbered list copy and section subhead.
 
 ## [00:10:00] Customer testimonial section and rating badge
 
-frame: 025_00-10-00.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:10:00](https://drive.google.com/file/d/1_bxBhXBJ8Ll8ZPQ-4qMYBKHp_cKnaKe4/view?usp=drivesdk) · `025_00-10-00.png`
 
 *webpage*
 
@@ -343,7 +343,7 @@ Exact review copy by 'Paledrome' detailing 20 years battling rats in Victorian M
 
 ## [00:10:20] Optimized offer buy box with 20% off badge
 
-frame: 025_00-10-20.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:10:20](https://drive.google.com/file/d/1bHPsBlFIH2yG8UnUuXBK0bdmHLyLPwh7/view?usp=drivesdk) · `025_00-10-20.png`
 
 *webpage*
 
@@ -362,7 +362,7 @@ Pricing: "$249.99 $199.99 Save $50"
 
 ## [00:10:25] Control store product page showing full $249.99 price
 
-frame: 025_00-10-25.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:10:25](https://drive.google.com/file/d/1nvy0yons6Cb8KZy_BOFGVODfb_Wo8xlN/view?usp=drivesdk) · `025_00-10-25.png`
 
 *product page*
 
@@ -383,7 +383,7 @@ Free shipping threshold banner ($95), full un-discounted price ($249.99 without 
 
 ## [00:10:30] Product gallery video demo in optimized buy box
 
-frame: 025_00-10-30.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:10:30](https://drive.google.com/file/d/1THfhqHXT5ujPuz7VxQFMlYXzlJPp9k9N/view?usp=drivesdk) · `025_00-10-30.png`
 
 *product page*
 
@@ -403,7 +403,7 @@ Checkmark feature copy: "Removes massive infestations overnight", "Automatic rat
 
 ## [00:10:45] Rat Vac product page top section with discount badge
 
-frame: 025_00-10-45.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:10:45](https://drive.google.com/file/d/1B1v-p6KeEiZU4PC5aCVfN3R5802uLIIq/view?usp=drivesdk) · `025_00-10-45.png`
 
 *product page*
 
@@ -423,7 +423,7 @@ Quote author 'Paledrome', 'Blue Moose approved', inspection tool responsive dime
 
 ## [00:11:05] Rat Vac mobile page offer details and CTA button
 
-frame: 025_00-11-05.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:11:05](https://drive.google.com/file/d/111ITwdAPWnSdE97oDhKyrVl3Dbd7TCEH/view?usp=drivesdk) · `025_00-11-05.png`
 
 *product page*
 
@@ -444,7 +444,7 @@ Urgency banner copy: 'Limited stock available - get yours before they're gone!'
 
 ## [00:12:20] Margin and offer breakdown sheet showing error formula
 
-frame: 025_00-12-20.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:12:20](https://drive.google.com/file/d/1GlEXGIs877oL0Jl460C050vxazSpfare/view?usp=drivesdk) · `025_00-12-20.png`
 
 *spreadsheet*
 
@@ -460,7 +460,7 @@ Error message pop-up details, BE ROAS 1.15, Target CPA figures.
 
 ## [00:12:45] Cost breakdown columns in margin template
 
-frame: 025_00-12-45.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:12:45](https://drive.google.com/file/d/1XqFN0kCLtW6pqTS4OLxc4Kj0MUcOGpIH/view?usp=drivesdk) · `025_00-12-45.png`
 
 *spreadsheet*
 
@@ -476,7 +476,7 @@ Breakdown headers (COGS, Pick N Pack, Shipping, Gateway, Total Cost For Us), spe
 
 ## [00:13:40] Meta Ads Manager baseline performance (Jul 1 - Jul 12)
 
-frame: 025_00-13-40.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:13:40](https://drive.google.com/file/d/1zvNgpR6RJA2Zp18sfX1J8HLecndudyG1/view?usp=drivesdk) · `025_00-13-40.png`
 
 *software demo*
 
@@ -499,7 +499,7 @@ Account name 'twinhomeexperts's ad ac...', Landing page views (475), Link clicks
 
 ## [00:14:10] Meta Ads Manager post-offer performance (Jul 13 - Jul 26)
 
-frame: 025_00-14-10.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:14:10](https://drive.google.com/file/d/1y-dzbXZJJNOTj92GKygLfSL_KvFUnJd_/view?usp=drivesdk) · `025_00-14-10.png`
 
 *software demo*
 
@@ -522,7 +522,7 @@ Individual campaign rows: EAM//A/B LP Test//RatVac//US//CBO ($4,456.27 conv valu
 
 ## [00:16:45] Completed offer margin comparison spreadsheet
 
-frame: 025_00-16-45.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:16:45](https://drive.google.com/file/d/1Uf984TAOs2r3qDM63zlwuNH-OQBsakqo/view?usp=drivesdk) · `025_00-16-45.png`
 
 *spreadsheet*
 
@@ -547,7 +547,7 @@ Exact values: Margin $ $167.93, Margin % 84.39%, BE ROAS 1.19, Savings% 20.08%, 
 
 ## [00:17:25] Accordions and 'See our Rat Vac in action' video section
 
-frame: 025_00-17-25.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:17:25](https://drive.google.com/file/d/1kcCLVOnYs_noSpMWSr2yKZlmgIyCrqKJ/view?usp=drivesdk) · `025_00-17-25.png`
 
 *product page*
 
@@ -563,7 +563,7 @@ Accordion menu headers and short-form video embed layout.
 
 ## [00:17:30] Landing page section on why traditional traps fail
 
-frame: 025_00-17-30.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:17:30](https://drive.google.com/file/d/1sdnBuV8xfnWkXckbwyS5NJNxpfywnszn/view?usp=drivesdk) · `025_00-17-30.png`
 
 *product page*
 
@@ -583,7 +583,7 @@ Exact paragraph text and button copy 'Get my Rat Vac - Save $50'.
 
 ## [00:17:35] Landing page section on rat reproduction speed
 
-frame: 025_00-17-35.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:17:35](https://drive.google.com/file/d/1TkrDWQhMWxdkPLf78clcHLUsrb0xdyAd/view?usp=drivesdk) · `025_00-17-35.png`
 
 *product page*
 
@@ -601,7 +601,7 @@ Exact body copy stating 'Two rats can turn into 1,500 rats in one year.'
 
 ## [00:17:40] Child and pet poison risk section on landing page
 
-frame: 025_00-17-40.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:17:40](https://drive.google.com/file/d/1rllTEnp77JDnpUqhF7-zZF0mqLLEoWc2/view?usp=drivesdk) · `025_00-17-40.png`
 
 *product page*
 
@@ -620,7 +620,7 @@ Full body text explaining the sealed vacuum system, motion sensors, and comparis
 
 ## [00:17:50] Trust badges and social proof section on landing page
 
-frame: 025_00-17-50.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:17:50](https://drive.google.com/file/d/1pCSvzlMZtgO0Kmo76BYp34IlXiXlOwaM/view?usp=drivesdk) · `025_00-17-50.png`
 
 *product page*
 
@@ -638,7 +638,7 @@ Specific text under each badge including 'Rated 4.8/5 by 10,000+', 30-day return
 
 ## [00:18:00] Mobile buy box with $50 off promotion
 
-frame: 025_00-18-00.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:18:00](https://drive.google.com/file/d/10BKuUQSw0kQpr9pihRu30GUkcAgfBwOM/view?usp=drivesdk) · `025_00-18-00.png`
 
 *product page*
 
@@ -661,7 +661,7 @@ Price figures: '$249.99 $199.99 Save $50', '20% OFF' badge, and full buy box UI 
 
 ## [00:18:15] Landing page hero section with timer and CTA
 
-frame: 025_00-18-15.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:18:15](https://drive.google.com/file/d/1LTo00yJ1GXrURTL-TjKxaHmn9ubU1AhX/view?usp=drivesdk) · `025_00-18-15.png`
 
 *product page*
 
@@ -680,7 +680,7 @@ Countdown timer text 'Save $50 on Rat Vac ending soon 09:58:39', CTA button word
 
 ## [00:18:20] Pagedeck dashboard pages view
 
-frame: 025_00-18-20.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:18:20](https://drive.google.com/file/d/11mj-xqQd8K5tJGjRo2l2S8K6SFlA1Xjf/view?usp=drivesdk) · `025_00-18-20.png`
 
 *software demo*
 
@@ -697,7 +697,7 @@ Pagedeck dashboard navigation items and URL 'https://easy-a-dev.pagedeck.app'.
 
 ## [00:18:25] Pagedeck template library showing Pest Control Offer
 
-frame: 025_00-18-25.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:18:25](https://drive.google.com/file/d/1p-BCp7vn1d8xfzFKz5fIafZ7AIpA1Lbb/view?usp=drivesdk) · `025_00-18-25.png`
 
 *software demo*
 
@@ -717,7 +717,7 @@ Template names and descriptions available in the Pagedeck template catalog.
 
 ## [00:18:30] Editing Pest Control page template in Pagedeck editor
 
-frame: 025_00-18-30.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:18:30](https://drive.google.com/file/d/1mtIi98UzJ5BLI-FtwWeRi1-rkAx3Heoi/view?usp=drivesdk) · `025_00-18-30.png`
 
 *software demo*
 
@@ -733,7 +733,7 @@ Page name 'Rats B Gone | Lowest Price EVER!', left sidebar section list structur
 
 ## [00:18:45] Pagedeck editor buy box block settings
 
-frame: 025_00-18-45.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:18:45](https://drive.google.com/file/d/1y1OVvPidR7VKXxlTA45bwnaY6tAuiG8j/view?usp=drivesdk) · `025_00-18-45.png`
 
 *software demo*
 
@@ -747,7 +747,7 @@ Block action icons displayed above HTML embed section.
 
 ## [00:18:50] HTML Embed code sidebar in Pagedeck editor
 
-frame: 025_00-18-50.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:18:50](https://drive.google.com/file/d/1fVeEpiDq6lkI4JGs6DkUd_ubQC0BSzzK/view?usp=drivesdk) · `025_00-18-50.png`
 
 *software demo*
 
@@ -767,7 +767,7 @@ HTML embed side panel and actual carousel HTML/CSS code snippet.
 
 ## [00:18:55] Scrolling through landing page template sections in Pagedeck
 
-frame: 025_00-18-55.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:18:55](https://drive.google.com/file/d/1uAHzJAy__W00NpYmayjrhvvgumpGUhAY/view?usp=drivesdk) · `025_00-18-55.png`
 
 *software demo*
 
@@ -781,7 +781,7 @@ Body copy: 'Picture this: You set your trap last night. Peanut butter perfectly 
 
 ## [00:19:00] Adding Buy Box block from Section Types menu
 
-frame: 025_00-19-00.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:19:00](https://drive.google.com/file/d/1kXQ8vizXrk09Pkd6Srb1eXhkEcPfaaEi/view?usp=drivesdk) · `025_00-19-00.png`
 
 *software demo*
 
@@ -795,7 +795,7 @@ Section Types menu options under Buy Boxes: Buy Box, BOGO Offer Buy Box, Product
 
 ## [00:19:05] Rat Vac product buy box section in editor
 
-frame: 025_00-19-05.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:19:05](https://drive.google.com/file/d/1vaag4MGNgnqajCmZroaAS_QJpP_WxU49/view?usp=drivesdk) · `025_00-19-05.png`
 
 *software demo*
 
@@ -809,7 +809,7 @@ Rating '4.8/5 from 10,000+ customers', pricing details, delivery timeline dates 
 
 ## [00:19:25] Ridge Wallet official product page
 
-frame: 025_00-19-25.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:19:25](https://drive.google.com/file/d/1IlX3AiAkx_y0BRcx5nWrBaLljXAujlXR/view?usp=drivesdk) · `025_00-19-25.png`
 
 *product page*
 
@@ -823,7 +823,7 @@ Review count 44266, options 'WALLET ONLY' / 'FULL KIT SAVE 26%', color swatches,
 
 ## [00:19:35] Synced Ridge Wallet product in Pagedeck Buy Box
 
-frame: 025_00-19-35.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:19:35](https://drive.google.com/file/d/1yMfYdt0U_d66vz-pvJCFWH7MFHUlE8Sr/view?usp=drivesdk) · `025_00-19-35.png`
 
 *software demo*
 
@@ -837,7 +837,7 @@ Price $95.00, 120+ Verified Reviews, Style options Cash Strap / Add Money Clip, 
 
 ## [00:20:00] Rat Vac buy box details and accordion tabs
 
-frame: 025_00-20-00.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:20:00](https://drive.google.com/file/d/1Kp9BWEDrEnmOvbOtz6lu81Iry9NESQSl/view?usp=drivesdk) · `025_00-20-00.png`
 
 *software demo*
 
@@ -851,7 +851,7 @@ Tab labels: Product Details, How To Use, Specs, Shipping & Returns. Section head
 
 ## [00:20:05] Rat Vac landing page social proof and copy blocks in editor
 
-frame: 025_00-20-05.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:20:05](https://drive.google.com/file/d/14Gnfpg4gAIxjPrrzQ7ONtVznUcBk4Zgo/view?usp=drivesdk) · `025_00-20-05.png`
 
 *software demo*
 
@@ -865,7 +865,7 @@ Copy on screen: 'Why smart rodents make traditional traps useless. Rats and mice
 
 ## [00:20:10] Pagedeck dashboard Brands overview and Getting Started checklist
 
-frame: 025_00-20-10.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:20:10](https://drive.google.com/file/d/1iISRtDJ_YV9r8_YwpBLkaq8tQNkhD5Yz/view?usp=drivesdk) · `025_00-20-10.png`
 
 *software demo*
 
@@ -879,7 +879,7 @@ Getting started steps and UI options: 'Team Settings & Billing', 'New Brand' but
 
 ## [00:20:15] Pagedeck brand onboarding entering store URL
 
-frame: 025_00-20-15.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:20:15](https://drive.google.com/file/d/1geWQBphEqwpEOJR0HP_6BvHzj6ELlnIO/view?usp=drivesdk) · `025_00-20-15.png`
 
 *software demo*
 
@@ -893,7 +893,7 @@ Instructions clarifying store URL format requirements and option to skip step wi
 
 ## [00:20:20] Pagedeck editor Rat Vac buy box and product imagery
 
-frame: 025_00-20-20.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:20:20](https://drive.google.com/file/d/1fdT50sSvgWgnkZM2tWiM9QSymer11dzk/view?usp=drivesdk) · `025_00-20-20.png`
 
 *software demo*
 
@@ -907,7 +907,7 @@ Specific countdown timer and guarantee banner text details.
 
 ## [00:20:30] Pagedeck automatic brand style extraction preview
 
-frame: 025_00-20-30.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:20:30](https://drive.google.com/file/d/1cUp7G4TqPUvnsTTRg-7i9fioFonwuIQj/view?usp=drivesdk) · `025_00-20-30.png`
 
 *software demo*
 
@@ -921,7 +921,7 @@ Extracted hex codes, button styling preview with rounded pill buttons ('Primary 
 
 ## [00:20:45] Pagedeck landing page template library
 
-frame: 025_00-20-45.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:20:45](https://drive.google.com/file/d/10H9YH_CkietGgwwqhcrtN3Pmclbt3rXT/view?usp=drivesdk) · `025_00-20-45.png`
 
 *software demo*
 
@@ -935,7 +935,7 @@ Template names and descriptions: 'Pest Control Offer Sponsored by Evolve', 'Matc
 
 ## [00:20:50] Pagedeck template catalog top section
 
-frame: 025_00-20-50.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:20:50](https://drive.google.com/file/d/1XTsWvKXQtNrdQJ57pKTFCmw4JkcrrCz4/view?usp=drivesdk) · `025_00-20-50.png`
 
 *software demo*
 
@@ -949,7 +949,7 @@ Template names and descriptions for HexClad hero product and Bone Broth pre-sell
 
 ## [00:20:55] Pagedeck landing page templates middle section
 
-frame: 025_00-20-55.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:20:55](https://drive.google.com/file/d/1_PHK0igXYvfadhT6rHUhN4vcYPFF_7ex/view?usp=drivesdk) · `025_00-20-55.png`
 
 *software demo*
 
@@ -963,7 +963,7 @@ Specific templates listed: Showerhead, Wine Coravin, Gym App, Tumbler, Chocolate
 
 ## [00:21:00] Pagedeck template options including beauty and health pages
 
-frame: 025_00-21-00.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:21:00](https://drive.google.com/file/d/1k9Kgg5c8wbOGkj8QppZ0CwGoCePAVNzk/view?usp=drivesdk) · `025_00-21-00.png`
 
 *software demo*
 
@@ -977,7 +977,7 @@ Visible template titles: Probiotics Shoppable Product, Hydration Product vs othe
 
 ## [00:21:10] Rat Vac template copy section on rat reproduction
 
-frame: 025_00-21-10.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:21:10](https://drive.google.com/file/d/18vv00smtv8duW940pNjkFoPOy5zZNrX9/view?usp=drivesdk) · `025_00-21-10.png`
 
 *software demo*
 
@@ -991,7 +991,7 @@ Exact statistics and copy: '5-12 pups every 21 days', 'two rats can turn into 1,
 
 ## [00:21:15] Pagedeck editor hero section preview
 
-frame: 025_00-21-15.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:21:15](https://drive.google.com/file/d/1os8efSFC9yL1UOHDUahEk3VSODiWjYNL/view?usp=drivesdk) · `025_00-21-15.png`
 
 *software demo*
 
@@ -1009,7 +1009,7 @@ Page Sections list in the left panel; specific subtext and guarantee text on the
 
 ## [00:21:20] Pagedeck editor opening HTML Embed code panel
 
-frame: 025_00-21-20.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:21:20](https://drive.google.com/file/d/1tHrRJPyaOPBGuCeDBGZ6pF7-hQoBQzB2/view?usp=drivesdk) · `025_00-21-20.png`
 
 *software demo*
 
@@ -1026,7 +1026,7 @@ Right sidebar HTML/CSS code snippet details: font-family Inter, color #333, rese
 
 ## [00:21:30] Pagedeck section types selection menu
 
-frame: 025_00-21-30.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:21:30](https://drive.google.com/file/d/1KUaohFf8UQNBq9eWWeR5wbJgA4wGRFZ6/view?usp=drivesdk) · `025_00-21-30.png`
 
 *software demo*
 
@@ -1042,7 +1042,7 @@ Full list of available section types in Pagedeck (e.g., Drawer Cart, Founder Let
 
 ## [00:21:35] Pagedeck adding Video and Text section
 
-frame: 025_00-21-35.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:21:35](https://drive.google.com/file/d/1iLF8i8BVrwCN6LI1A87MVIG_CUhMSY_J/view?usp=drivesdk) · `025_00-21-35.png`
 
 *software demo*
 
@@ -1059,7 +1059,7 @@ Default placeholder copy ('Feel good and now look even better...') and Video and
 
 ## [00:21:40] Pagedeck HTML Embed container styling code
 
-frame: 025_00-21-40.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:21:40](https://drive.google.com/file/d/1nEwhqxjv33E12xOGLIjitp4sSEd3B1NX/view?usp=drivesdk) · `025_00-21-40.png`
 
 *software demo*
 
@@ -1076,7 +1076,7 @@ Exact CSS classes `.hero-video` and `.hero-container` with max-width 600px and p
 
 ## [00:21:45] Pagedeck searching text within HTML Embed code
 
-frame: 025_00-21-45.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:21:45](https://drive.google.com/file/d/1QOM9QkcQG6woG--mp1js46yEOwmWv-t1/view?usp=drivesdk) · `025_00-21-45.png`
 
 *software demo*
 
@@ -1093,7 +1093,7 @@ Search interface showing 2/31 matches for 'rats', HTML markup tags enclosing hea
 
 ## [00:22:00] Pagedeck headline updated via HTML code
 
-frame: 025_00-22-00.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:22:00](https://drive.google.com/file/d/1_biDgFRWiXniAYHMgZFOGorwgpTKZaJ-/view?usp=drivesdk) · `025_00-22-00.png`
 
 *software demo*
 
@@ -1108,7 +1108,7 @@ Exact spelling typed on screen: 'Typicl wallets are stupid'.
 
 ## [00:22:05] Pagedeck HTML Embed image guarantee markup
 
-frame: 025_00-22-05.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:22:05](https://drive.google.com/file/d/1bmfK-yqpYZ3Fly31hYrowwmg5dbS9cZN/view?usp=drivesdk) · `025_00-22-05.png`
 
 *software demo*
 
@@ -1126,7 +1126,7 @@ Full image URL path from pagedeck-cdn.com and HTML structure of guarantee-row.
 
 ## [00:22:40] ChatGPT prompt and HTML code for replacing video source
 
-frame: 025_00-22-40.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:22:40](https://drive.google.com/file/d/1T5Tv5MlK74gv-GyllTvrfKfmYQIMfxVA/view?usp=drivesdk) · `025_00-22-40.png`
 
 *software demo*
 
@@ -1154,7 +1154,7 @@ The exact HTML attributes (`poster`, `alt="Wallet Promo Video"`, `class="hero-vi
 
 ## [00:22:45] Pagedeck editor Buy Box section preview
 
-frame: 025_00-22-45.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:22:45](https://drive.google.com/file/d/117Y6e26mgJVoNowEWsylaiOPYNJxmyc_/view?usp=drivesdk) · `025_00-22-45.png`
 
 *software demo*
 
@@ -1170,7 +1170,7 @@ Page Sections list on left (19 sections), Buy Box properties panel on right with
 
 ## [00:22:55] Margin and offer breakdown spreadsheet template
 
-frame: 025_00-22-55.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:22:55](https://drive.google.com/file/d/1uy8x-UXLMZqkJm_HwAOmMebwM4YeSMe-/view?usp=drivesdk) · `025_00-22-55.png`
 
 *spreadsheet*
 
@@ -1187,7 +1187,7 @@ All exact figures across the Margin $, Margin %, BE ROAS, Savings, and Target CP
 
 ## [00:23:05] Meta Ads Manager campaign performance metrics
 
-frame: 025_00-23-05.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:23:05](https://drive.google.com/file/d/1yhksmgx4FGJr_t5Mqk7YKKrON1S4vCv3/view?usp=drivesdk) · `025_00-23-05.png`
 
 *software demo*
 
@@ -1205,7 +1205,7 @@ All campaign metrics: exact spend ($1,037.46, $949.07), CPM, Impressions, Freque
 
 ## [00:23:30] Pagedeck editor Section Types menu and HTML code panel
 
-frame: 025_00-23-30.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:23:30](https://drive.google.com/file/d/1gxaeq_9psM0274qBoRC44cD7ZXaDU1Y9/view?usp=drivesdk) · `025_00-23-30.png`
 
 *software demo*
 
@@ -1222,7 +1222,7 @@ The full list of available Section Types categories and items in Pagedeck.
 
 ## [00:24:00] Pagedeck dashboard Pages listing
 
-frame: 025_00-24-00.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:24:00](https://drive.google.com/file/d/1fLbENwCMIlRC--JMr9LDS4HLUCOFQOz6/view?usp=drivesdk) · `025_00-24-00.png`
 
 *software demo*
 
@@ -1239,7 +1239,7 @@ Navigation links (Edit Brand Theme, A/B Tests, Brand Settings, + New Page) and d
 
 ## [00:24:05] Pagedeck landing page template library
 
-frame: 025_00-24-05.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:24:05](https://drive.google.com/file/d/1IBr1e-g7QGtGW48eOicC9-kVPkjSRPV2/view?usp=drivesdk) · `025_00-24-05.png`
 
 *software demo*
 
@@ -1259,7 +1259,7 @@ Template names and descriptions available in Pagedeck library.
 
 ## [00:24:10] Pagedeck pre-built Norse Organics landing page template editor
 
-frame: 025_00-24-10.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:24:10](https://drive.google.com/file/d/1Wcc-mbvfEinfcp_TIOVfeY_UX4ZHxKwm/view?usp=drivesdk) · `025_00-24-10.png`
 
 *software demo*
 
@@ -1282,7 +1282,7 @@ Page section count (57 sections), exact headline, statistics (2,566+ reviews, 97
 
 ## [00:24:15] Pagedeck editor reviewing template review sections
 
-frame: 025_00-24-15.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:24:15](https://drive.google.com/file/d/1D8caVIg4XkmE1DmYXcgj3jvLat0Bboqi/view?usp=drivesdk) · `025_00-24-15.png`
 
 *software demo*
 
@@ -1296,7 +1296,7 @@ Customer quote text: '"40 years of dermatologists" I have struggled with acne si
 
 ## [00:24:20] Pagedeck editor showing Text Block section
 
-frame: 025_00-24-20.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:24:20](https://drive.google.com/file/d/1rgxg7JbpvjGYuNIAaGyQJZQN3tP3Afad/view?usp=drivesdk) · `025_00-24-20.png`
 
 *software demo*
 
@@ -1310,7 +1310,7 @@ Dates on before/after photos: '5-2-24', '5-18-24'. Image size: 555 x 979.
 
 ## [00:24:25] Pagedeck Split Hero content editor
 
-frame: 025_00-24-25.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:24:25](https://drive.google.com/file/d/1878eJNT-nkZxZIz6QXB9LuAVPY-snFeh/view?usp=drivesdk) · `025_00-24-25.png`
 
 *software demo*
 
@@ -1324,7 +1324,7 @@ Heading and body text editing fields in right properties panel under Split Hero 
 
 ## [00:24:30] Pagedeck editor showing features and ingredient sections
 
-frame: 025_00-24-30.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:24:30](https://drive.google.com/file/d/12hOQwO6mx8nTJ4_H3QdFaT2YJDxDey9u/view?usp=drivesdk) · `025_00-24-30.png`
 
 *software demo*
 
@@ -1338,7 +1338,7 @@ Sourcing: 'We wild-harvest plants that grow naturally on the Norwegian mountains
 
 ## [00:24:45] Pagedeck template header and social proof bar
 
-frame: 025_00-24-45.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:24:45](https://drive.google.com/file/d/1PlwmQ1e2tsILTyDTQefKZtEVENfI-uGf/view?usp=drivesdk) · `025_00-24-45.png`
 
 *software demo*
 
@@ -1352,7 +1352,7 @@ Exact press quotes: Forbes: 'Trust the reviews, this product works', Men's Healt
 
 ## [00:25:05] Meta Ads Manager ad set performance metrics
 
-frame: 025_00-25-05.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:25:05](https://drive.google.com/file/d/1-ni9SJtW4qhNgmQ_Fxyz6EweLsdzeapi/view?usp=drivesdk) · `025_00-25-05.png`
 
 *software demo*
 
@@ -1366,7 +1366,7 @@ Ad set names: 'RE-TEST - IG-Reel//Batch 1 RatVac', 'IG-Reel//Batch 10 RatVac', '
 
 ## [00:26:15] Pagedeck brand settings for custom domain and open graph
 
-frame: 025_00-26-15.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:26:15](https://drive.google.com/file/d/1beeovKQ99tqZqHEughHTMLH-tbJ8_TY4/view?usp=drivesdk) · `025_00-26-15.png`
 
 *software demo*
 
@@ -1380,7 +1380,7 @@ Root Redirect Path input field showing placeholder '/page-path'. Link: 'Learn ho
 
 ## [00:26:30] Pagedeck Brand Settings General and Domain configuration
 
-frame: 025_00-26-30.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:26:30](https://drive.google.com/file/d/1ksrJJz9q-CqHFK7eAYLPERwMR_nRfesN/view?usp=drivesdk) · `025_00-26-30.png`
 
 *software demo*
 
@@ -1398,7 +1398,7 @@ Fields shown: 'Root Redirect Path', URL 'https://ridgecom.pagedeck.app', navigat
 
 ## [00:26:55] Meta Ads Manager campaign performance metrics
 
-frame: 025_00-26-55.png (Drive: https://drive.google.com/file/d/1rmurkJyo24xphngEEVErQOeFQ2eZFb-K/view?usp=drivesdk)
+[frame 00:26:55](https://drive.google.com/file/d/19js3YdtpAJCouwLZGjb2uYUW6jqRjPYK/view?usp=drivesdk) · `025_00-26-55.png`
 
 *software demo*
 

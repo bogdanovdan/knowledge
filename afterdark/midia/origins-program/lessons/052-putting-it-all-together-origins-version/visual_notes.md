@@ -1,14 +1,14 @@
 # 52. Putting It All Together (Origins Version) - Visual notes
 
 - **Frames kept:** 43 of 95 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [052-putting-it-all-together-origins-version-frames.zip](https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/052-putting-it-all-together-origins-version](https://drive.google.com/drive/folders/14edxxWIt_AYKcjUT96TxsgO_XE5fWs55)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:05] Examples Of Putting It All Together Document
 
-frame: 052_00-00-05.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:00:05](https://drive.google.com/file/d/1svk1MUPlX98tHsHuiCFzBvsEyRL9rFEX/view?usp=drivesdk) · `052_00-00-05.png`
 
 *document*
 
@@ -48,7 +48,7 @@ Detailed document text under Sub avatar definitions (Desire, Product Experience,
 
 ## [00:00:45] Origins Classroom - 13 Winning Static Ads Lesson
 
-frame: 052_00-00-45.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:00:45](https://drive.google.com/file/d/1vfYf9dUzjouBXyBLxclG1zqm3TREMitP/view?usp=drivesdk) · `052_00-00-45.png`
 
 *webpage*
 
@@ -84,7 +84,7 @@ Canva template URLs, full syllabus list under 'How To Create Ads'.
 
 ## [00:00:50] Winning Ads Templates Cover Slide
 
-frame: 052_00-00-50.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:00:50](https://drive.google.com/file/d/1A5QITbAuJ0wf50H8rbyiz_8BQ31WipJ7/view?usp=drivesdk) · `052_00-00-50.png`
 
 *slide*
 
@@ -101,7 +101,7 @@ Text: 'EVOLVE', 'WATCH THE OVERVIEW VIDEO'
 
 ## [00:00:55] Nutella Ad Template: Simplified Us vs Them
 
-frame: 052_00-00-55.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:00:55](https://drive.google.com/file/d/1243tGc1_TBEq8_6tQGjiUMom7MXR_Xyc/view?usp=drivesdk) · `052_00-00-55.png`
 
 *slide*
 
@@ -125,7 +125,7 @@ Bottom copy: "Turning bread into breakfast since 1964. nutella"
 
 ## [00:01:00] Winning Ad Template Example: Moms of 15 Year Olds
 
-frame: 052_00-01-00.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:01:00](https://drive.google.com/file/d/1jVvn9A5eszAQZavkrEp-pQeWCfJbjZ4e/view?usp=drivesdk) · `052_00-01-00.png`
 
 *ad example*
 
@@ -143,7 +143,7 @@ Full text of headline, user name 'Kristina Hickok Daheim', and full testimonial 
 
 ## [00:01:15] Ad Plan Example #1 - Nutella Concept Breakdown
 
-frame: 052_00-01-15.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:01:15](https://drive.google.com/file/d/1ZE3R0jpr8zw2QKug8b4okKqH53rulY-h/view?usp=drivesdk) · `052_00-01-15.png`
 
 *document*
 
@@ -170,7 +170,7 @@ Footer in ad creatives: 'Turning struggle into enjoyment since 2019'. Exact sub-
 
 ## [00:01:45] Ad Plan Example #1 - Explanation and Testing Method Details
 
-frame: 052_00-01-45.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:01:45](https://drive.google.com/file/d/1SvUBOB1D7kh6g495ctGseWcOiPj9MLLT/view?usp=drivesdk) · `052_00-01-45.png`
 
 *document*
 
@@ -196,7 +196,7 @@ The verbatim text of 'Testing Method: Marksman Method' and full visible text of 
 
 ## [00:03:20] Ad Plan Explanation and Example #2 Shift Worker Experience
 
-frame: 052_00-03-20.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:03:20](https://drive.google.com/file/d/1jevhJPe7IRK5xWAdJL2bLegfrCWhPKOt/view?usp=drivesdk) · `052_00-03-20.png`
 
 *document*
 
@@ -217,7 +217,7 @@ We're now optimizing individual ads for the Night Shift worker sub-avatar.
 
 ## [00:03:45] Ad Plan Meme Static Ads Concept Overview
 
-frame: 052_00-03-45.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:03:45](https://drive.google.com/file/d/1rB4l3v4Cpcf8liPhUHk2ET1Hmw3o-zeh/view?usp=drivesdk) · `052_00-03-45.png`
 
 *document*
 
@@ -245,7 +245,7 @@ Copy text: 'Keeps your coffee hot for 6 hours', 'Unbreakable ceramic', 'When you
 
 ## [00:04:00] Origins Classroom - Understanding Ad Definitions
 
-frame: 052_00-04-00.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:04:00](https://drive.google.com/file/d/1M6ZzSalVGWhxH04dKy4mhvcwFmAY2AF5/view?usp=drivesdk) · `052_00-04-00.png`
 
 *software demo*
 
@@ -281,7 +281,7 @@ Full written definitions and examples for 3:2:2, Concept/Batch/Test #, and Conce
 
 ## [00:04:10] Ad Plan Example #1 - Dog Harness Variations
 
-frame: 052_00-04-10.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:04:10](https://drive.google.com/file/d/1mL4vt9TyE-djE19Q5S62CjsrenhaoOK8/view?usp=drivesdk) · `052_00-04-10.png`
 
 *document*
 
@@ -316,7 +316,7 @@ Detailed document copy: 'Turning struggle into enjoyment since 2019', full text 
 
 ## [00:06:30] Example #2 Deep Dive: Marksman Method vs Sniper Method
 
-frame: 052_00-06-30.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:06:30](https://drive.google.com/file/d/1tgRBC04o5ARut8k6wlYM4-1S98Vr9RLj/view?usp=drivesdk) · `052_00-06-30.png`
 
 *document*
 
@@ -352,7 +352,7 @@ Section header 'Example 1,2 Deep Dive: (Marksman Method + Sniper Method):' and f
 
 ## [00:06:35] Video Ad Hook Example: Graveyard Shift Comment
 
-frame: 052_00-06-35.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:06:35](https://drive.google.com/file/d/1TPTzpgJF6P4py2OxeA-8sordax6lMQuO/view?usp=drivesdk) · `052_00-06-35.png`
 
 *ad example*
 
@@ -370,7 +370,7 @@ Replying to username 'Carl2's comment'
 
 ## [00:06:40] Video Ad Body Example: Window Blackout Product Features
 
-frame: 052_00-06-40.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:06:40](https://drive.google.com/file/d/1T-M0ta058dpgijpi7ObeUnhytEzwU0e1/view?usp=drivesdk) · `052_00-06-40.png`
 
 *ad example*
 
@@ -389,7 +389,7 @@ Checklist items: '5-min, drill-free install', 'Custom made to your window'
 
 ## [00:06:45] Video Ad Social Proof Callout
 
-frame: 052_00-06-45.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:06:45](https://drive.google.com/file/d/1rYf2UF6mhXr_74f5ImNQe4i8NnFaB4OV/view?usp=drivesdk) · `052_00-06-45.png`
 
 *ad example*
 
@@ -407,7 +407,7 @@ Text detail: '...ing better on THEIR schedule'
 
 ## [00:07:50] Video Ad Variation 2 Hook: Night Shift Comment
 
-frame: 052_00-07-50.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:07:50](https://drive.google.com/file/d/1_mN99TXL-yncScHimUko1QhFyKb56ViB/view?usp=drivesdk) · `052_00-07-50.png`
 
 *ad example*
 
@@ -423,7 +423,7 @@ Reply to Addison_22's comment
 
 ## [00:08:00] Video Ad Variation 3 Hook: Inability to Sleep Comment
 
-frame: 052_00-08-00.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:08:00](https://drive.google.com/file/d/1kCs-yN3bDlpYSj_5yAPM3brhFWO4zu-M/view?usp=drivesdk) · `052_00-08-00.png`
 
 *ad example*
 
@@ -439,7 +439,7 @@ Reply to Addison_33's comment; 'My life is taking a quick downturn...'
 
 ## [00:08:15] Ad Strategy Document: Origins Example #2 & Deep Dive
 
-frame: 052_00-08-15.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:08:15](https://drive.google.com/file/d/1aNd4N-hOjWW6GRJ5Gd5H9DotCv9oNC2w/view?usp=drivesdk) · `052_00-08-15.png`
 
 *document*
 
@@ -473,7 +473,7 @@ Format: Subtitles B-Roll; full text under Explanation and Angle.
 
 ## [00:08:35] Ad Strategy Document: Marksman Method vs Sniper Method Deep Dive
 
-frame: 052_00-08-35.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:08:35](https://drive.google.com/file/d/1UP2Z003x0VJNc4m4HWAMU3zZ0ZClfmdQ/view?usp=drivesdk) · `052_00-08-35.png`
 
 *document*
 
@@ -495,7 +495,7 @@ For those of you who know, whenever we test the 3:2:2 method, the "3" stands for
 
 ## [00:09:05] Marksman Method with Videos Execution Details
 
-frame: 052_00-09-05.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:09:05](https://drive.google.com/file/d/1O-9njfO05zB6Di8blnGjt7xzJ9w8-gbJ/view?usp=drivesdk) · `052_00-09-05.png`
 
 *document*
 
@@ -511,7 +511,7 @@ Exact wording regarding the HOLD definition in the 3:2:2 framework.
 
 ## [00:09:20] Applying the Marksman Method to Video Ads
 
-frame: 052_00-09-20.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:09:20](https://drive.google.com/file/d/1a2-Vfjd4d4b1Odh7VL0n_q0PVlfMvJGm/view?usp=drivesdk) · `052_00-09-20.png`
 
 *document*
 
@@ -537,7 +537,7 @@ Example From Above:
 
 ## [00:09:35] Example #1: Dog Harness Angle Setup
 
-frame: 052_00-09-35.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:09:35](https://drive.google.com/file/d/1Uob8WwUGmuAg4BI567rkpNkIEquUoSiE/view?usp=drivesdk) · `052_00-09-35.png`
 
 *document*
 
@@ -563,7 +563,7 @@ Emotion - feels embarrassed walking their dog, Behavior - Avoids walking their d
 
 ## [00:09:45] Nutella Ad Template Harness Variations
 
-frame: 052_00-09-45.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:09:45](https://drive.google.com/file/d/1TpKBXpWxpoSdolOdRDGMdyA2x2Q0h6sO/view?usp=drivesdk) · `052_00-09-45.png`
 
 *ad example*
 
@@ -587,7 +587,7 @@ This is pulling | This is control
 
 ## [00:09:50] Example Deep Dive: Marksman Method + Sniper Method
 
-frame: 052_00-09-50.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:09:50](https://drive.google.com/file/d/16ZR3vDmuwf5yC-6XLxH3PkXgal_BbSyT/view?usp=drivesdk) · `052_00-09-50.png`
 
 *document*
 
@@ -619,7 +619,7 @@ Concept Explanation: We're now optimizing individual ads for the Night Shift wor
 
 ## [00:10:25] Marksman Method Video Structure & Explanation
 
-frame: 052_00-10-25.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:10:25](https://drive.google.com/file/d/12x5o7DSDQ_4LCd78j7FHNPCj9e5D2iUn/view?usp=drivesdk) · `052_00-10-25.png`
 
 *document*
 
@@ -644,7 +644,7 @@ But again, the goal of the Marksman's method is to get direction.
 
 ## [00:11:20] Marksman Method Video Note on Overly Specific Holds
 
-frame: 052_00-11-20.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:11:20](https://drive.google.com/file/d/1lf5t9qcyivQB6gossDTiI025Ucfminoq/view?usp=drivesdk) · `052_00-11-20.png`
 
 *document*
 
@@ -665,7 +665,7 @@ If your hold is TOO specific to one angle's context, for example:"
 
 ## [00:11:40] When Marksman Method with Video Works and Transition to Sniper Method
 
-frame: 052_00-11-40.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:11:40](https://drive.google.com/file/d/1Xtg79hpvzojyaf4IZe8CW_2x4qOR8R7e/view?usp=drivesdk) · `052_00-11-40.png`
 
 *document*
 
@@ -688,7 +688,7 @@ I want to pause here because an even more important note is this...
 
 ## [00:12:00] Summary Rule: Marksman for Images, Sniper for Videos
 
-frame: 052_00-12-00.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:12:00](https://drive.google.com/file/d/1smBhIKdFQFn0uUEZK1i_gVdYTtJujFoW/view?usp=drivesdk) · `052_00-12-00.png`
 
 *document*
 
@@ -711,7 +711,7 @@ complete feedback loops so you know what you need to go deeper on.
 
 ## [00:12:25] Example #3: Meme Static Ads Testing Strategy
 
-frame: 052_00-12-25.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:12:25](https://drive.google.com/file/d/1QlM65LqrTd33p2oDBxs0E0a79BhzqUDa/view?usp=drivesdk) · `052_00-12-25.png`
 
 *ad example*
 
@@ -738,7 +738,7 @@ STOKE brand logo at bottom of meme ads
 
 ## [00:13:30] Example 4: Career Ending Injury Ad Setup Document
 
-frame: 052_00-13-30.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:13:30](https://drive.google.com/file/d/1dmw-zjr51CI_DlfL9Zw4T4AVtYeEf28O/view?usp=drivesdk) · `052_00-13-30.png`
 
 *document*
 
@@ -757,7 +757,7 @@ Text above Example 4 explaining meme static ad angle execution and sub-avatar re
 
 ## [00:13:45] Video Ad Example Hook Variation 2
 
-frame: 052_00-13-45.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:13:45](https://drive.google.com/file/d/1rNHWa8lHZID3Mz_a3xZMUaWu0iU0aJU_/view?usp=drivesdk) · `052_00-13-45.png`
 
 *ad example* | legibility: partly legible
 
@@ -773,7 +773,7 @@ Batch#127_V2.mp4 file name, visual action of athlete lifting shirt.
 
 ## [00:13:50] Video Ad Example Hook Variation 3
 
-frame: 052_00-13-50.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:13:50](https://drive.google.com/file/d/1ejqwYwLAk0LT_ojzRHKnDGW9hYTqW9fm/view?usp=drivesdk) · `052_00-13-50.png`
 
 *ad example* | legibility: partly legible
 
@@ -789,7 +789,7 @@ Batch#127_V3.mp4 file name, hockey player visual.
 
 ## [00:14:00] Video Ad Hook Bridge Secondary Text
 
-frame: 052_00-14-00.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:14:00](https://drive.google.com/file/d/1H0-xLDsDv_TVtBBLtCUCDeM0nUf9TYhS/view?usp=drivesdk) · `052_00-14-00.png`
 
 *ad example*
 
@@ -804,7 +804,7 @@ Visual style: centered text on pure black background, 0:03 timestamp.
 
 ## [00:14:05] Video Ad Product Feature Demonstration
 
-frame: 052_00-14-05.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:14:05](https://drive.google.com/file/d/1axMNbf8XK9IResxqnFLPNCOgC2gFxJ9Q/view?usp=drivesdk) · `052_00-14-05.png`
 
 *ad example*
 
@@ -820,7 +820,7 @@ Product label on neck guard: "CUT RESISTANT"
 
 ## [00:14:15] Example 4 Full Setup: Career Ending Injury Campaign Specs
 
-frame: 052_00-14-15.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:14:15](https://drive.google.com/file/d/1PmMUBbnjVnwEzXWBsAJtzTp_a9fBBmH3/view?usp=drivesdk) · `052_00-14-15.png`
 
 *document*
 
@@ -847,7 +847,7 @@ Full written explanation text and formatting in Google Docs.
 
 ## [00:14:35] Video Ad Product Spec: 360 Degree Protection
 
-frame: 052_00-14-35.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:14:35](https://drive.google.com/file/d/1nUR2eTVDHP2iqA5V4uRU-PzDIhvh8oMT/view?usp=drivesdk) · `052_00-14-35.png`
 
 *ad example*
 
@@ -863,7 +863,7 @@ Timestamp: 0:11 / 0:23
 
 ## [00:14:40] Video Ad Product Spec: 15x Stronger Than Steel
 
-frame: 052_00-14-40.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:14:40](https://drive.google.com/file/d/1TG6ajaVOCcK2jos5WannIicNlhC_AYJv/view?usp=drivesdk) · `052_00-14-40.png`
 
 *ad example*
 
@@ -880,7 +880,7 @@ Timestamp: 0:08 / 0:23
 
 ## [00:15:10] Examples Of Putting It All Together: Example #1 Nutella Ad
 
-frame: 052_00-15-10.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:15:10](https://drive.google.com/file/d/1GU3CdCU6xGmv6rSvqIhKsgV_LeW5aH2t/view?usp=drivesdk) · `052_00-15-10.png`
 
 *document*
 
@@ -906,7 +906,7 @@ Detailed sub-avatar breakdown (Desire, Product Experience, Emotion, Behavior), e
 
 ## [00:15:20] Example #1 Testing Method and Explanation
 
-frame: 052_00-15-20.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:15:20](https://drive.google.com/file/d/1j8kX9xjM_6GTtWj2vWHE7VHz0rGKobK4/view?usp=drivesdk) · `052_00-15-20.png`
 
 *document*
 
@@ -932,7 +932,7 @@ Testing Method: Marksman Method; full Explanation paragraph text.
 
 ## [00:15:30] Example 1,2 Deep Dive: Marksman Method + Sniper Method
 
-frame: 052_00-15-30.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:15:30](https://drive.google.com/file/d/1KZpq4fHnJwA9In6dFTLVcQhzfB8FF5Yj/view?usp=drivesdk) · `052_00-15-30.png`
 
 *document*
 
@@ -959,7 +959,7 @@ Highlighted variations text, Explanation text, and the deep dive notes on why mo
 
 ## [00:15:45] Origins Classroom: Every Ad Format That You Can Use
 
-frame: 052_00-15-45.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:15:45](https://drive.google.com/file/d/17LGhelTgityR3Oxai4BWP5QyVo0Dyj_c/view?usp=drivesdk) · `052_00-15-45.png`
 
 *webpage*
 
@@ -981,7 +981,7 @@ Full curriculum list in sidebar under 'How To Create Ads', Google Docs URL for t
 
 ## [00:16:45] Origins Community Feed: Win Posting Interface
 
-frame: 052_00-16-45.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:16:45](https://drive.google.com/file/d/1Mpv1ry2F0NeKxG0C_Sg-Rhovbe5HKGCe/view?usp=drivesdk) · `052_00-16-45.png`
 
 *webpage*
 
@@ -1000,7 +1000,7 @@ Community post title modal, pinned posts about 'Community Posting Is Now Unlocke
 
 ## [00:16:50] Origins Classroom Dashboard Modules
 
-frame: 052_00-16-50.png (Drive: https://drive.google.com/file/d/1muX68jNp4rBGdW_k4_3wDPbrtEQM6omN/view?usp=drivesdk)
+[frame 00:16:50](https://drive.google.com/file/d/1pAoB9gUADsCjCtX6Hbjmp65XpC_A1HQL/view?usp=drivesdk) · `052_00-16-50.png`
 
 *webpage*
 

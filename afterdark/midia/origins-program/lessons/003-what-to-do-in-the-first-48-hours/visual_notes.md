@@ -1,14 +1,14 @@
 # 3. What to do in the first 48 hours - Visual notes
 
 - **Frames kept:** 4 of 76 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [003-what-to-do-in-the-first-48-hours-frames.zip](https://drive.google.com/file/d/1WlRC_s-WVqsns7U7Y7tmomn6m8jHyo2V/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/003-what-to-do-in-the-first-48-hours](https://drive.google.com/drive/folders/1fIc4CuoCR8l7peuJBY-Ku9hpgWW4YOrI)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:01:55] Origins Program Classroom: The first 48 hours checklist
 
-frame: 003_00-01-55.png (Drive: https://drive.google.com/file/d/1WlRC_s-WVqsns7U7Y7tmomn6m8jHyo2V/view?usp=drivesdk)
+[frame 00:01:55](https://drive.google.com/file/d/1HqggENoCwcCuoCf0Qo0upczRy6uisSWz/view?usp=drivesdk) · `003_00-01-55.png`
 
 *software demo*
 
@@ -37,7 +37,7 @@ Action Item: Complete a Feedback L...; How to Find Products; How to Create Avata
 
 ## [00:02:35] Origins Community Member Map View
 
-frame: 003_00-02-35.png (Drive: https://drive.google.com/file/d/1WlRC_s-WVqsns7U7Y7tmomn6m8jHyo2V/view?usp=drivesdk)
+[frame 00:02:35](https://drive.google.com/file/d/1p3EdgwpdJ25ao6AwGnvUtEDwjbfK0Znv/view?usp=drivesdk) · `003_00-02-35.png`
 
 *software demo* | legibility: partly legible
 
@@ -47,7 +47,7 @@ Map view showing community members distributed across the United States with loc
 
 ## [00:08:45] Community map zoomed in on Venezuela members
 
-frame: 003_00-08-45.png (Drive: https://drive.google.com/file/d/1WlRC_s-WVqsns7U7Y7tmomn6m8jHyo2V/view?usp=drivesdk)
+[frame 00:08:45](https://drive.google.com/file/d/1MAkj-XEwXcwbK-RUjZRYJJA3rMq3wf8C/view?usp=drivesdk) · `003_00-08-45.png`
 
 *software demo*
 
@@ -61,7 +61,7 @@ City labels: Caracas, Valencia, Maracay, Puerto Cabello, San Juan de los Morros,
 
 ## [00:08:55] Community map zoomed in on Kazakhstan and Central Asia
 
-frame: 003_00-08-55.png (Drive: https://drive.google.com/file/d/1WlRC_s-WVqsns7U7Y7tmomn6m8jHyo2V/view?usp=drivesdk)
+[frame 00:08:55](https://drive.google.com/file/d/1HMBDBh2m4sNXiJvw3yq8f11m62UpceR3/view?usp=drivesdk) · `003_00-08-55.png`
 
 *software demo*
 

@@ -1,14 +1,14 @@
 # 82. How to set ROAS targets for scaling - Visual notes
 
 - **Frames kept:** 3 of 3 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [082-how-to-set-roas-targets-for-scaling-frames.zip](https://drive.google.com/file/d/1p0xhjWXzJx64saYaDRXAtO6usepI81Mc/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/082-how-to-set-roas-targets-for-scaling](https://drive.google.com/drive/folders/1e55Lvi7QLkMwvDsXO-iwvA2H38oNmUgK)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:15] E-Commerce Results Calculator interface
 
-frame: 082_00-00-15.png (Drive: https://drive.google.com/file/d/1p0xhjWXzJx64saYaDRXAtO6usepI81Mc/view?usp=drivesdk)
+[frame 00:00:15](https://drive.google.com/file/d/1UpS02wBS01130GYfAf3CCsi6bu7X4vwd/view?usp=drivesdk) · `082_00-00-15.png`
 
 *software demo*
 
@@ -37,7 +37,7 @@ The numbers loaded by default in the tool (Ad Spend: $20,000, Revenue: $120,000,
 
 ## [00:01:55] Profit Margin Calculator input fields
 
-frame: 082_00-01-55.png (Drive: https://drive.google.com/file/d/1p0xhjWXzJx64saYaDRXAtO6usepI81Mc/view?usp=drivesdk)
+[frame 00:01:55](https://drive.google.com/file/d/12o8Xk5IOscwt1sUoEL6ykG5GXBiNjmM8/view?usp=drivesdk) · `082_00-01-55.png`
 
 *software demo*
 
@@ -54,7 +54,7 @@ Input form field labels: 'Price Of Product + Shipping:', 'Cost Of Product + Ship
 
 ## [00:07:25] Meta Ads Manager daily reporting metrics
 
-frame: 082_00-07-25.png (Drive: https://drive.google.com/file/d/1p0xhjWXzJx64saYaDRXAtO6usepI81Mc/view?usp=drivesdk)
+[frame 00:07:25](https://drive.google.com/file/d/1OkzZzTx0jySEtm44ohE2vgZT4a6GIl1J/view?usp=drivesdk) · `082_00-07-25.png`
 
 *software demo*
 

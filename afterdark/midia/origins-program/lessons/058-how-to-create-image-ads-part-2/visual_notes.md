@@ -1,14 +1,14 @@
 # 58. How to create image ads - part 2 - Visual notes
 
 - **Frames kept:** 122 of 250 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [058-how-to-create-image-ads-part-2-frames.zip](https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/058-how-to-create-image-ads-part-2](https://drive.google.com/drive/folders/1pwq5ifYJuquO84ok3RpZNk_WgHb9Khul)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:30] Collagen Brand Master Document - Sub-Avatar Research
 
-frame: 058_00-00-30.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:00:30](https://drive.google.com/file/d/1se2TKr5oE92xsNw6k27vR9OlGg1de3rL/view?usp=drivesdk) · `058_00-00-30.png`
 
 *document*
 
@@ -45,7 +45,7 @@ Quotes:
 
 ## [00:00:35] Reddit r/LifeProTips Thread on Diet Food Cravings
 
-frame: 058_00-00-35.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:00:35](https://drive.google.com/file/d/1q25jpEBpu_q5ukgvPPK4lZt1xywtbN1p/view?usp=drivesdk) · `058_00-00-35.png`
 
 *social post*
 
@@ -63,7 +63,7 @@ User 'SolitaryGoat', diet calories 'about 1,800 calories per day, prescribed by 
 
 ## [00:01:05] Google Search Results for Diet and Craving Reddit Threads
 
-frame: 058_00-01-05.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:01:05](https://drive.google.com/file/d/1tAUOXOZm2_uuE3HD4h-0UcHFwGsf2SKN/view?usp=drivesdk) · `058_00-01-05.png`
 
 *webpage*
 
@@ -84,7 +84,7 @@ Subreddits shown: r/WeightLossAdvice, r/loseit, r/1500isplenty; specific post ti
 
 ## [00:01:50] Google Search Results for Boredom Eating Reddit Threads
 
-frame: 058_00-01-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:01:50](https://drive.google.com/file/d/1ZR-puylPdL-8l_dYvK9oqJ5JWsURNFpd/view?usp=drivesdk) · `058_00-01-50.png`
 
 *webpage*
 
@@ -106,7 +106,7 @@ Subreddits: r/EatCheapAndHealthy, r/1200isplenty, r/ADHD; specific titles and co
 
 ## [00:02:40] Sub Avatar: The Dieter - Persona Research and Reddit Quotes
 
-frame: 058_00-02-40.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:02:40](https://drive.google.com/file/d/1Vc8r3VoUSwiF60y618uJFLymYXzubFZe/view?usp=drivesdk) · `058_00-02-40.png`
 
 *document*
 
@@ -138,7 +138,7 @@ Reddit link URL: 'https://www.reddit.com/r/CICO/comments/19brwhf/rant_i_cant_sto
 
 ## [00:02:45] Collagen Master Doc - GLP-1 Copy and Sub Avatar Water Drinker
 
-frame: 058_00-02-45.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:02:45](https://drive.google.com/file/d/1B6bDNYsJSrE3wCpXqVhjWtuk55g4qJ4G/view?usp=drivesdk) · `058_00-02-45.png`
 
 *document*
 
@@ -163,7 +163,7 @@ Details on water drinking quotes, nurse comment on hot water inhibiting appetite
 
 ## [00:02:50] Reddit Thread on r/loseit Discussing Intermittent Fasting and Hunger
 
-frame: 058_00-02-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:02:50](https://drive.google.com/file/d/1-_--e1DydFzlYTGE4fQXcC7W3OcA1JE_/view?usp=drivesdk) · `058_00-02-50.png`
 
 *social post*
 
@@ -182,7 +182,7 @@ Username LovePoutine, specific bullet points on Ketosis and High protein & high 
 
 ## [00:03:30] Reddit Post on r/CICO: Rant About Food Noise and Deficits
 
-frame: 058_00-03-30.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:03:30](https://drive.google.com/file/d/1LEshuPwynyZeRIj8RteWPPogRgjSsdc5/view?usp=drivesdk) · `058_00-03-30.png`
 
 *social post*
 
@@ -198,7 +198,7 @@ User details (23 F, 5'2, weight 161 lbs, weight trains 2-4 times a week), specif
 
 ## [00:04:25] Drafting Ad Hooks and GLP-1 Mechanism Copy
 
-frame: 058_00-04-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:04:25](https://drive.google.com/file/d/1DPh_dArqirs4J11FVGbIAnbBlUVFyMMt/view?usp=drivesdk) · `058_00-04-25.png`
 
 *document*
 
@@ -220,7 +220,7 @@ List of headline/hook ideas at top, text styling with star emoji.
 
 ## [00:06:00] Google Search and AI Overview on GLP-1 and Overeating
 
-frame: 058_00-06-00.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:06:00](https://drive.google.com/file/d/1qkuFb_i0ToC2f1zjAJ3zZD-WtYwdhAiI/view?usp=drivesdk) · `058_00-06-00.png`
 
 *webpage*
 
@@ -244,7 +244,7 @@ Bullet points under 'How overeating affects GLP-1' and 'What you can do', plus s
 
 ## [00:07:55] Drafting GLP-1 Ad Script in Google Docs
 
-frame: 058_00-07-55.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:07:55](https://drive.google.com/file/d/1b6uOy6hvMnU7swjpNpPs9-8dP6D2z6Rz/view?usp=drivesdk) · `058_00-07-55.png`
 
 *document*
 
@@ -273,7 +273,7 @@ Copy text typed out live on screen.
 
 ## [00:08:35] Sub Avatar Research Notes: Junk Food Addict and Stress Eater
 
-frame: 058_00-08-35.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:08:35](https://drive.google.com/file/d/1Wl-H1M1Wpj6por0MsInL8bHtQOdh1ZmN/view?usp=drivesdk) · `058_00-08-35.png`
 
 *document*
 
@@ -309,7 +309,7 @@ Detailed quotes and headline ideas under 'Sub Avatar: Addicted to Junk food' and
 
 ## [00:09:15] Stress Eater and Dieter Sub-Avatar Research Notes
 
-frame: 058_00-09-15.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:09:15](https://drive.google.com/file/d/1vhob5oLIzzLObAed6cuYEieMXasZVvRH/view?usp=drivesdk) · `058_00-09-15.png`
 
 *document*
 
@@ -336,7 +336,7 @@ Specific quotes and behavioral notes for 'Stress Eater' and start of 'The Dieter
 
 ## [00:09:45] Zend Growth Guide - Ad Concept Planning Sheet
 
-frame: 058_00-09-45.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:09:45](https://drive.google.com/file/d/1_MPsY3ON2b7uqb27L3RK_Kp6cuS5Y1Pm/view?usp=drivesdk) · `058_00-09-45.png`
 
 *spreadsheet*
 
@@ -354,7 +354,7 @@ Exact spreadsheet structure, headers, and row content for Batch #1 and Batch #2.
 
 ## [00:09:50] Winning Ad Template: Avatar Call Out Ad
 
-frame: 058_00-09-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:09:50](https://drive.google.com/file/d/1aYY67y8YtGRDa-xZ2Q_-qyTBWnBG_Lvg/view?usp=drivesdk) · `058_00-09-50.png`
 
 *ad example*
 
@@ -377,7 +377,7 @@ Full text of 'WHY THIS AD WORKS' bullets and review text in the ad example.
 
 ## [00:09:55] Winning Ad Template: Accidental Ideal Outcome
 
-frame: 058_00-09-55.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:09:55](https://drive.google.com/file/d/1NiQwGq8xK_ejeI8c82YsIn9AG67ofuww/view?usp=drivesdk) · `058_00-09-55.png`
 
 *ad example*
 
@@ -402,7 +402,7 @@ Full copy of 'WHY THIS AD WORKS' explanation breakdown and ad feature callouts.
 
 ## [00:10:00] Winning Ad Template: Indirect Avatar Ad
 
-frame: 058_00-10-00.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:10:00](https://drive.google.com/file/d/1-xkA-Ejdxz8XQTt7eif0Ok1J96Xf5wdf/view?usp=drivesdk) · `058_00-10-00.png`
 
 *ad example*
 
@@ -427,7 +427,7 @@ Full breakdown of 'WHY THIS AD WORKS', ingredients shown, and advertorial URL.
 
 ## [00:10:05] Winning Ad Template: Simplified Us vs Them
 
-frame: 058_00-10-05.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:10:05](https://drive.google.com/file/d/1YKGB3U5lNprWj5ItK5AuaUsHImBUl55L/view?usp=drivesdk) · `058_00-10-05.png`
 
 *ad example*
 
@@ -450,7 +450,7 @@ Ad creative copy and Nutella brand, along with the three 'WHY THIS AD WORKS' poi
 
 ## [00:10:10] Winning Ad Template: The Free Ad
 
-frame: 058_00-10-10.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:10:10](https://drive.google.com/file/d/1Bv97BMc7ZZvFMuar5qfd6DkH3kW4jz-J/view?usp=drivesdk) · `058_00-10-10.png`
 
 *slide*
 
@@ -478,7 +478,7 @@ Detailed reasons why the ad works (points 1-4) and specific callouts on the ad i
 
 ## [00:10:50] Collagen Brand Master Document - GLP-1 Copy Draft
 
-frame: 058_00-10-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:10:50](https://drive.google.com/file/d/13_ZZY8TTKrVjENDMiwPuYf_8-tzYnnjU/view?usp=drivesdk) · `058_00-10-50.png`
 
 *document*
 
@@ -504,7 +504,7 @@ Full text of the drafted GLP-1 body copy in the Google Doc.
 
 ## [00:11:05] CreativeOS Template Library Overview
 
-frame: 058_00-11-05.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:11:05](https://drive.google.com/file/d/1nfvdwEjoTxh-mq3CrV8KrGGhGRC8M40V/view?usp=drivesdk) · `058_00-11-05.png`
 
 *software demo*
 
@@ -521,7 +521,7 @@ The specific template cards displayed (The Ordinary, Scuf Gaming, Gleamin BOGO, 
 
 ## [00:11:25] CreativeOS Template Preview: Lyka Pet Food Ad
 
-frame: 058_00-11-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:11:25](https://drive.google.com/file/d/1jAmp7r3QJMZwt1sBNE5MiBKYSSYk-No9/view?usp=drivesdk) · `058_00-11-25.png`
 
 *software demo*
 
@@ -539,7 +539,7 @@ Tags: Big Logo, iPhone Notes, Pets; date: Posted August 8, 2025; 'Customize Temp
 
 ## [00:11:30] CreativeOS Editor Canvas
 
-frame: 058_00-11-30.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:11:30](https://drive.google.com/file/d/1FyM_QXtB_osqxB61ULnKva9pXd1xMk2q/view?usp=drivesdk) · `058_00-11-30.png`
 
 *software demo*
 
@@ -553,7 +553,7 @@ Toolbar menu options and UI layout of the editor.
 
 ## [00:11:45] CreativeOS Saved Designs Sidebar
 
-frame: 058_00-11-45.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:11:45](https://drive.google.com/file/d/1dgSRTMCNJB43wcWM0xskDlYy-Mz8-bTz/view?usp=drivesdk) · `058_00-11-45.png`
 
 *software demo*
 
@@ -567,7 +567,7 @@ Sidebar listing past created designs and 'Create New Design' button.
 
 ## [00:11:55] CreativeOS Stock Images Panel (Unsplash)
 
-frame: 058_00-11-55.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:11:55](https://drive.google.com/file/d/1tX2GvTS_NOJqT0FzggC4UDXf8UWsa3Cr/view?usp=drivesdk) · `058_00-11-55.png`
 
 *software demo*
 
@@ -581,7 +581,7 @@ CreativeOS editor with 'Stock Images by Unsplash' panel open on the left, displa
 
 ## [00:12:05] CreativeOS Templates Library Browsing
 
-frame: 058_00-12-05.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:12:05](https://drive.google.com/file/d/1UnVdozpPPalWhK93PUOuolXgtMozWzzR/view?usp=drivesdk) · `058_00-12-05.png`
 
 *software demo*
 
@@ -595,7 +595,7 @@ Filter chips and buttons (Accessories, App Ads, Back In Stock, Beauty, Before & 
 
 ## [00:12:10] CreativeOS Template Category Dropdown Options
 
-frame: 058_00-12-10.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:12:10](https://drive.google.com/file/d/1wgovJFM0ArpO4Salq39oYzOwIU9fqULP/view?usp=drivesdk) · `058_00-12-10.png`
 
 *software demo*
 
@@ -609,7 +609,7 @@ All listed category names in the dropdown menu: Big Logo, Big Questions, Black F
 
 ## [00:12:30] CreativeOS Ad Templates - Happy Mammoth Double Chin Ad
 
-frame: 058_00-12-30.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:12:30](https://drive.google.com/file/d/1cEWhTEKqmlijVsb3q-6zbWAXpQ_S7PXG/view?usp=drivesdk) · `058_00-12-30.png`
 
 *software demo*
 
@@ -623,7 +623,7 @@ Boll & Branch 'Up To 30% Off Eyelet Bedding' ad; Happy Mammoth brand tag and 5-s
 
 ## [00:12:50] CreativeOS Brand Assets Page - Grüns
 
-frame: 058_00-12-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:12:50](https://drive.google.com/file/d/1ANZ9k7arXIGvaJEAk8B_U9fOg-ES6Mxq/view?usp=drivesdk) · `058_00-12-50.png`
 
 *software demo*
 
@@ -637,7 +637,7 @@ Sidebar shows 'Grüns Assets' view; customer quotes and ratings; badge icons sho
 
 ## [00:12:55] CreativeOS Grüns Ads Feed - UGC and Testimonials
 
-frame: 058_00-12-55.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:12:55](https://drive.google.com/file/d/1AnRcBRNjzgs5jSB5Y12Q4V53Ee65fouO/view?usp=drivesdk) · `058_00-12-55.png`
 
 *software demo*
 
@@ -651,7 +651,7 @@ Discount sticker 'GRAB GRÜNS UP TO 45% OFF'; quote details from Brooke, Popsuga
 
 ## [00:13:00] CreativeOS Grüns Ads Feed - Ozempic Angle Ad Creatives
 
-frame: 058_00-13-00.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:13:00](https://drive.google.com/file/d/15dUeUk4RBVzUldtbHkcOlIC_-66qkCOz/view?usp=drivesdk) · `058_00-13-00.png`
 
 *software demo*
 
@@ -665,7 +665,7 @@ Ad copy details: 'Nina: I take Ozempic and I was having lots of trouble going to
 
 ## [00:13:20] CreativeOS Inspiration Feed Overview
 
-frame: 058_00-13-20.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:13:20](https://drive.google.com/file/d/1xbjoBpnuatl2GjUBKCK3M2fuKwmxEdVK/view?usp=drivesdk) · `058_00-13-20.png`
 
 *software demo*
 
@@ -679,7 +679,7 @@ Header subtitle: 'Explore top-tier examples handpicked to spark your creativity.
 
 ## [00:14:00] CreativeOS Pricing Plans and Feature Comparison
 
-frame: 058_00-14-00.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:14:00](https://drive.google.com/file/d/16vdrh0kZ4C8Wt_nP1ks_LAX2hSjmizw8/view?usp=drivesdk) · `058_00-14-00.png`
 
 *webpage*
 
@@ -697,7 +697,7 @@ Lifetime Pro details: regular price $2,199, discounted price $599 Early Access, 
 
 ## [00:14:10] CreativeOS Homepage Headline and Social Proof
 
-frame: 058_00-14-10.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:14:10](https://drive.google.com/file/d/1-guygeGY1o9GLzvgy56iAJlYBLo5u4I2/view?usp=drivesdk) · `058_00-14-10.png`
 
 *webpage*
 
@@ -716,7 +716,7 @@ Client brand logos: obvi., Huron., BREZ, lomi., ITALIC, JONES ROAD, Homestead; U
 
 ## [00:14:15] Collagen Brand Master Document - GLP-1 Research Copy
 
-frame: 058_00-14-15.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:14:15](https://drive.google.com/file/d/1AvvuJjgTENh_3QW3_wBbBSXjjYL4FdLl/view?usp=drivesdk) · `058_00-14-15.png`
 
 *document*
 
@@ -739,7 +739,7 @@ Specific copy paragraphs about GLP-1 mechanisms, document tab structure on left.
 
 ## [00:14:25] CreativeOS Inspiration Feed - NOW Foods Probiotic Ad
 
-frame: 058_00-14-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:14:25](https://drive.google.com/file/d/129crvgqUVKddq6lIpvhMYUxDWFZf3SBf/view?usp=drivesdk) · `058_00-14-25.png`
 
 *software demo*
 
@@ -761,7 +761,7 @@ Specific ads shown: NOW Foods Probiotic-10 purple ad ('Quality obsessed. Priced 
 
 ## [00:14:30] CreativeOS Inspiration Feed - Vegamour and Ridge Wallet Ads
 
-frame: 058_00-14-30.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:14:30](https://drive.google.com/file/d/17uYhXchFqbevU8RvUCdFyl--z9rZXPnK/view?usp=drivesdk) · `058_00-14-30.png`
 
 *software demo*
 
@@ -782,7 +782,7 @@ Vegamour Nara Smith quote ad, Ridge sweepstakes ad, Aldhas sandals grid ad, appa
 
 ## [00:14:35] CreativeOS Inspiration Feed - Buoy and Bamboo Socks Ads
 
-frame: 058_00-14-35.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:14:35](https://drive.google.com/file/d/1TnpnYU6qQVtkJwlz8fpnJJ-V6pzyf9YA/view?usp=drivesdk) · `058_00-14-35.png`
 
 *software demo*
 
@@ -802,7 +802,7 @@ Buoy Rainforest Activated Magnesium review ad, Touchland ad, Axel Arigato footwe
 
 ## [00:14:40] CreativeOS Inspiration Feed - Hiya Multivitamin Notes Ad
 
-frame: 058_00-14-40.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:14:40](https://drive.google.com/file/d/1ePmvhvqtENvTam2zFbKoD2L1tRMEhV93/view?usp=drivesdk) · `058_00-14-40.png`
 
 *software demo*
 
@@ -822,7 +822,7 @@ Hiya Kids Daily Multivitamin iOS Notes format ad copy and structure, Bathroom Bu
 
 ## [00:14:45] CreativeOS Inspiration Feed - Arrae Supplement Ad Examples
 
-frame: 058_00-14-45.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:14:45](https://drive.google.com/file/d/1UA36RFeMYsjdrBOTIFf0xUeqGA6medzo/view?usp=drivesdk) · `058_00-14-45.png`
 
 *software demo*
 
@@ -840,7 +840,7 @@ Filter selected: Healthcare. Results show brand Arrae and various ad angles for 
 
 ## [00:14:50] CreativeOS Inspiration Feed - GLP-1 and Height Supplement Ads
 
-frame: 058_00-14-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:14:50](https://drive.google.com/file/d/1DzaGR-0pGb3pxnHReYtG-f_NMwrzRsIA/view?usp=drivesdk) · `058_00-14-50.png`
 
 *software demo*
 
@@ -858,7 +858,7 @@ Cursor hovering over 'MB-1 Supports GLP-1 Naturally' ad tile.
 
 ## [00:14:55] CreativeOS Inspiration Feed - Arrae Tribiotic Ad Example
 
-frame: 058_00-14-55.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:14:55](https://drive.google.com/file/d/19MfdxDKxQGcyuMkl5op9ix2pij7eLy0Y/view?usp=drivesdk) · `058_00-14-55.png`
 
 *software demo*
 
@@ -876,7 +876,7 @@ Shows Tribiotic ad copy and styling details.
 
 ## [00:15:05] CreativeOS Inspiration Feed - Tone Product Ad Variations
 
-frame: 058_00-15-05.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:15:05](https://drive.google.com/file/d/1kbx6_mus6qFpZ7VpYaqR8qYlALg1UFH-/view?usp=drivesdk) · `058_00-15-05.png`
 
 *software demo*
 
@@ -894,7 +894,7 @@ Visual variations of Tone workout/dumbbell creative layouts and post-it note cre
 
 ## [00:15:10] CreativeOS Inspiration Feed - Pique Tea Ad Examples
 
-frame: 058_00-15-10.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:15:10](https://drive.google.com/file/d/1U28eS4HYh4wyMwUkkxDlsiu_QFjSx9DY/view?usp=drivesdk) · `058_00-15-10.png`
 
 *software demo*
 
@@ -913,7 +913,7 @@ Brand Pique ads shown with bulleted product benefits and layout designs.
 
 ## [00:15:15] CreativeOS Inspiration Feed - 9:16 Aspect Ratio Ads (IM8, Seed, Hydrant)
 
-frame: 058_00-15-15.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:15:15](https://drive.google.com/file/d/1FihgaUCfuwjblmCUSuFaVA4f4vtsPfIC/view?usp=drivesdk) · `058_00-15-15.png`
 
 *software demo*
 
@@ -933,7 +933,7 @@ Aspect Ratio filter set to '9:16', Sorted by 'Popular'. Exact text of IM8 benefi
 
 ## [00:16:15] Claude Prompting - Ad Copy Generation for Metaglow Sub-Avatars
 
-frame: 058_00-16-15.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:16:15](https://drive.google.com/file/d/1-v5cKjijWRoSLC64b_2Qj_7RCapqciSO/view?usp=drivesdk) · `058_00-16-15.png`
 
 *software demo*
 
@@ -954,7 +954,7 @@ Model indicated: Sonnet 3.5. Previous turn text: 'Cataloging Metaglow's pricing 
 
 ## [00:16:25] CreativeOS Inspiration Feed - Ritual & Hydrant Ads
 
-frame: 058_00-16-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:16:25](https://drive.google.com/file/d/1mA9h19dDJcQxPbWLRRXmCey4YPSV26qQ/view?usp=drivesdk) · `058_00-16-25.png`
 
 *software demo*
 
@@ -974,7 +974,7 @@ Scrolled view showing Ritual supplement ad and prescription discount offer ad.
 
 ## [00:16:35] CreativeOS Ad Detail Modal - IM8 Health Ad
 
-frame: 058_00-16-35.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:16:35](https://drive.google.com/file/d/1EI6xaE5mKFQviv_0_URFPBkBq_RVELoE/view?usp=drivesdk) · `058_00-16-35.png`
 
 *software demo*
 
@@ -997,7 +997,7 @@ Shows metadata: Posted Nov 23, 2024, Inactive for 333 Days, Performance score 60
 
 ## [00:16:40] Google Docs Master Document - Avatars and GLP-1 Research
 
-frame: 058_00-16-40.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:16:40](https://drive.google.com/file/d/1U5v5RrpKG87u93a8fD4TiJlzonRgTM1W/view?usp=drivesdk) · `058_00-16-40.png`
 
 *document*
 
@@ -1011,7 +1011,7 @@ Document structure, navigation tabs on left: Product, Research, Avatars, Angles/
 
 ## [00:16:45] Google Docs Master Document - Sub Avatar The Dieter
 
-frame: 058_00-16-45.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:16:45](https://drive.google.com/file/d/1OsB29BMihHj3Qpavto5Mu0ttQgXLjeMj/view?usp=drivesdk) · `058_00-16-45.png`
 
 *document*
 
@@ -1025,7 +1025,7 @@ Text details under Sub Avatar: The Dieter, Reddit link (reddit.com/r/CICO/commen
 
 ## [00:16:50] Google Docs Master Document - Sub Avatar The Water Drinker
 
-frame: 058_00-16-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:16:50](https://drive.google.com/file/d/1nSwC35q3hSGYJPmKCyM9R9BJbL2vpcth/view?usp=drivesdk) · `058_00-16-50.png`
 
 *document*
 
@@ -1039,7 +1039,7 @@ Detailed customer quotes regarding drinking water, cold water vs hot water, and 
 
 ## [00:17:25] Claude Prompting - Detailed Prompt for Ad Headlines and Bullet Points
 
-frame: 058_00-17-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:17:25](https://drive.google.com/file/d/1BIb-kr1VQQpr5Wk8yyW2LGULHw40Fwht/view?usp=drivesdk) · `058_00-17-25.png`
 
 *software demo*
 
@@ -1053,7 +1053,7 @@ Full typed text of prompt in the prompt input field and context memories loaded.
 
 ## [00:17:40] CreativeOS Templates Feed - Sorting by Popular
 
-frame: 058_00-17-40.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:17:40](https://drive.google.com/file/d/1uUxBiWBidjCOXS9_GzF3hqztQ4Qb05tN/view?usp=drivesdk) · `058_00-17-40.png`
 
 *software demo*
 
@@ -1067,7 +1067,7 @@ Sort menu options; specific ad thumbnails visible: Glow Nurture pregnancy stretc
 
 ## [00:17:45] CreativeOS Templates Feed - Popular Ad Templates
 
-frame: 058_00-17-45.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:17:45](https://drive.google.com/file/d/1f1pPHsigS5gu2Khb9rC_sowMKZFTDlBm/view?usp=drivesdk) · `058_00-17-45.png`
 
 *software demo*
 
@@ -1081,7 +1081,7 @@ Ad copies, headlines, and layouts visible across the 8 template cards.
 
 ## [00:18:20] Claude AI Output - Generated Headlines for The Dieter
 
-frame: 058_00-18-20.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:18:20](https://drive.google.com/file/d/1tyFUSC9TDYPtvLTuf8opVZcWydEeyJ_J/view?usp=drivesdk) · `058_00-18-20.png`
 
 *software demo*
 
@@ -1099,7 +1099,7 @@ Checkmark bullets text: 'Appetite Control: Dygloomera boosts GLP-1 (the "I'm ful
 
 ## [00:18:25] CreativeOS Ad Detail - IM8 92 Nutrients One Scoop Ad
 
-frame: 058_00-18-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:18:25](https://drive.google.com/file/d/1HU8h3I-dwLrd8-rsSVrR-OZIXT0fkuJT/view?usp=drivesdk) · `058_00-18-25.png`
 
 *ad example*
 
@@ -1113,7 +1113,7 @@ Complete verbatim text and visual elements of the IM8 reference ad.
 
 ## [00:18:30] Claude AI Output - Generated Headlines and Notes on Style
 
-frame: 058_00-18-30.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:18:30](https://drive.google.com/file/d/1hLZg-Qeord88Znnou27HC7p4Q0NNMVTV/view?usp=drivesdk) · `058_00-18-30.png`
 
 *software demo*
 
@@ -1127,7 +1127,7 @@ Detailed bullet point text and style notes breakdown.
 
 ## [00:18:35] CreativeOS Templates - Selecting Huel Lunch Replacement Ad
 
-frame: 058_00-18-35.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:18:35](https://drive.google.com/file/d/1AZQzxNR3TcvN8_5aI90lDzOKX_ogrJoQ/view?usp=drivesdk) · `058_00-18-35.png`
 
 *software demo*
 
@@ -1141,7 +1141,7 @@ Specific metric callouts on the Huel card.
 
 ## [00:19:20] Claude Prompting - Adapting Ad Style for GLP-1 Product
 
-frame: 058_00-19-20.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:19:20](https://drive.google.com/file/d/1bL7tZKAm-FEPSAroEi5LNdw-odMZQOsu/view?usp=drivesdk) · `058_00-19-20.png`
 
 *software demo*
 
@@ -1161,7 +1161,7 @@ The reference ad template thumbnail is visible attached in the Claude input box.
 
 ## [00:19:25] Google Docs - Sub Avatar The Dieter Research and Quotes
 
-frame: 058_00-19-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:19:25](https://drive.google.com/file/d/1Lz1unAE-p5qj-fkzNkqUXiatYshFcduQ/view?usp=drivesdk) · `058_00-19-25.png`
 
 *document*
 
@@ -1194,7 +1194,7 @@ Reddit post link: https://www.reddit.com/r/CICO/comments/19brwhf/rant_i_cant_sto
 
 ## [00:20:00] Claude AI Output - Generated Headlines for Three Sub-Avatars
 
-frame: 058_00-20-00.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:20:00](https://drive.google.com/file/d/1RfMCZ8cc0DyBEvxuF1pNT5qwtJOCMXNS/view?usp=drivesdk) · `058_00-20-00.png`
 
 *software demo*
 
@@ -1230,7 +1230,7 @@ Bullet point emoji icons (🍽️, 😬, ⚡, ⏱️).
 
 ## [00:20:15] Claude AI Output - The Bored Eater Copy and Format Notes
 
-frame: 058_00-20-15.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:20:15](https://drive.google.com/file/d/1tzfKXOWDUcCcq3Klb5dEo4Gs-VLc7xr_/view?usp=drivesdk) · `058_00-20-15.png`
 
 *software demo*
 
@@ -1255,7 +1255,7 @@ Bullet point: "• ✓ 🧠 Broken Satiety Signals", Format Notes explanation.
 
 ## [00:20:55] Claude AI Prompt - Refining Headlines with Research
 
-frame: 058_00-20-55.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:20:55](https://drive.google.com/file/d/1ESj8VyiefF5OJghONSbvLwmtV5c9mNw3/view?usp=drivesdk) · `058_00-20-55.png`
 
 *software demo*
 
@@ -1275,7 +1275,7 @@ Exact typed text of the prompt.
 
 ## [00:21:55] CreativeOS Editor - Editable Template for Notes App Ad
 
-frame: 058_00-21-55.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:21:55](https://drive.google.com/file/d/1gELM06xIeVwYd8TLPeNMIh929BaKszMv/view?usp=drivesdk) · `058_00-21-55.png`
 
 *software demo*
 
@@ -1299,7 +1299,7 @@ Editor toolbar with 'Page View', 'Board View', 'Export', zoom and page tools.
 
 ## [00:22:15] Claude AI Output - Deep Dive Headlines for The Dieter
 
-frame: 058_00-22-15.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:22:15](https://drive.google.com/file/d/1uYA5eeBl6EXYQRrMrwfI7vl98OXatOxu/view?usp=drivesdk) · `058_00-22-15.png`
 
 *software demo*
 
@@ -1332,7 +1332,7 @@ Subheadings: "3 hormone imbalances are linked to diet burnout:", "3 hormone imba
 
 ## [00:24:05] Claude AI Output - Headlines for The Water Drinker and Dieter Feedback
 
-frame: 058_00-24-05.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:24:05](https://drive.google.com/file/d/1TdDPOQvVR0ir_zmN5pLpYaPOtMmYBZJM/view?usp=drivesdk) · `058_00-24-05.png`
 
 *software demo*
 
@@ -1361,7 +1361,7 @@ Exact wording of the feedback prompt in the input box.
 
 ## [00:25:40] Claude AI Output - The Bored Eater Headlines and Detailed Feedback
 
-frame: 058_00-25-40.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:25:40](https://drive.google.com/file/d/1xBlZrgTFsxnbsWbxojg2mqOCdojfONqc/view?usp=drivesdk) · `058_00-25-40.png`
 
 *software demo*
 
@@ -1397,7 +1397,7 @@ I like how again, it's calling out a sp"
 
 ## [00:26:15] CreativeOS Editor Background Remover Tool Demo
 
-frame: 058_00-26-15.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:26:15](https://drive.google.com/file/d/1sj_-xpHTWv2Gp6NGcPwu5dFiAyjb8NGM/view?usp=drivesdk) · `058_00-26-15.png`
 
 *software demo*
 
@@ -1411,7 +1411,7 @@ Toolbar buttons (Position, Bg Remover, Edit, Flip, Lock) and green success banne
 
 ## [00:26:45] Claude AI Output - Headlines for The Dieter and The Water Drinker
 
-frame: 058_00-26-45.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:26:45](https://drive.google.com/file/d/1mx67wTnr3OiDj4YTqQOZqEw7hmoWgHag/view?usp=drivesdk) · `058_00-26-45.png`
 
 *software demo*
 
@@ -1439,7 +1439,7 @@ Full text of HEADLINE 2 and subheadings generated by Claude for The Dieter and T
 
 ## [00:27:35] CreativeOS Editor - Notes Ad Template with The Dieter Headline
 
-frame: 058_00-27-35.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:27:35](https://drive.google.com/file/d/1Qu0vde7xIdq5bA4LMxrGJmh-Px8SWwNl/view?usp=drivesdk) · `058_00-27-35.png`
 
 *ad example*
 
@@ -1459,7 +1459,7 @@ Exact layout positioning and visual formatting in the editor canvas.
 
 ## [00:28:25] Claude AI Output - Bored Eater Headlines and Strategic Rationale
 
-frame: 058_00-28-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:28:25](https://drive.google.com/file/d/12knpH3qfw49dxg_SBS-a6Yo2vbDSOX_U/view?usp=drivesdk) · `058_00-28-25.png`
 
 *software demo*
 
@@ -1493,7 +1493,7 @@ All bullet points explaining why the headlines are stronger, HEADLINE 1 and HEAD
 
 ## [00:28:35] Claude AI Prompt - Refining Copy with Combined Headlines
 
-frame: 058_00-28-35.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:28:35](https://drive.google.com/file/d/1_RT78FgCNfvCBOoILglfSPzaVuXPk2Kb/view?usp=drivesdk) · `058_00-28-35.png`
 
 *software demo*
 
@@ -1520,7 +1520,7 @@ Exact typed text of the prompt sent to Claude.
 
 ## [00:28:50] Claude AI Output - Bored Eater Tactics and Rationales
 
-frame: 058_00-28-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:28:50](https://drive.google.com/file/d/154qefRpwOnjwe3ceyZoTqw3sfp5PK0nJ/view?usp=drivesdk) · `058_00-28-50.png`
 
 *software demo*
 
@@ -1554,7 +1554,7 @@ The full 'Why these work' analysis breakdown connecting headlines to user tactic
 
 ## [00:29:25] Claude AI Output - Boredom-Triggered Headlines and Subheads
 
-frame: 058_00-29-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:29:25](https://drive.google.com/file/d/1ZvmtDXs93dAbXhlQMvHdK1o2DKt9DEOq/view?usp=drivesdk) · `058_00-29-25.png`
 
 *software demo*
 
@@ -1588,7 +1588,7 @@ The subheadings for Headlines 1-3 and the 'Why these hit harder' analysis points
 
 ## [00:29:55] Claude AI Prompt - Iterating on GLP-1 Ad Angles
 
-frame: 058_00-29-55.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:29:55](https://drive.google.com/file/d/1YYJsz6tTiLccEQdei7ihVNZWucYl6aXc/view?usp=drivesdk) · `058_00-29-55.png`
 
 *software demo*
 
@@ -1615,7 +1615,7 @@ User text prompt rationale explaining why 'Has food just become numbers?' and 'C
 
 ## [00:30:10] CreativeOS Canvas - Chugging Water Instead of Eating Ad Mockup
 
-frame: 058_00-30-10.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:30:10](https://drive.google.com/file/d/1DA6VS36s6Ddw7OneQufcBZVBQ0TB-jb0/view?usp=drivesdk) · `058_00-30-10.png`
 
 *ad example*
 
@@ -1638,7 +1638,7 @@ Page 3 title and date 'August 9, 2025 at 12:51', 'linked to failed restriction:'
 
 ## [00:30:15] Claude AI Output - Bored Eater Tactics and Subheadings
 
-frame: 058_00-30-15.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:30:15](https://drive.google.com/file/d/1Q26v-zk0uJ8_PVKlIwDthqKPIOGlqDO7/view?usp=drivesdk) · `058_00-30-15.png`
 
 *software demo*
 
@@ -1668,7 +1668,7 @@ Claude AI generated headlines 'Eating carrots just for the crunch?' and 'Cutting
 
 ## [00:31:20] Claude AI Detailed Feedback Prompt on Ad Congruence
 
-frame: 058_00-31-20.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:31:20](https://drive.google.com/file/d/1Ug0bOVq8NmRoTB_mX023ivf6S0nlVG9V/view?usp=drivesdk) · `058_00-31-20.png`
 
 *software demo*
 
@@ -1688,7 +1688,7 @@ Specific instructions on character count matching ad space, full text of user pr
 
 ## [00:31:25] CreativeOS - Eating Toddler-Sized Portions Ad Variation
 
-frame: 058_00-31-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:31:25](https://drive.google.com/file/d/1bvIORQx3VFhk3kNxMkm6kAjtM07RmsW7/view?usp=drivesdk) · `058_00-31-25.png`
 
 *ad example*
 
@@ -1711,7 +1711,7 @@ Bullet items with emojis: 🍽️ Low GLP-1, 😰 High Cortisol, 🔥 Poor Metab
 
 ## [00:31:30] CreativeOS - Eating Because There's Nothing Else to Do Ad Variation
 
-frame: 058_00-31-30.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:31:30](https://drive.google.com/file/d/1gtcXx67ej0jhPKrZUwNvSZiRxyV4azyO/view?usp=drivesdk) · `058_00-31-30.png`
 
 *ad example*
 
@@ -1734,7 +1734,7 @@ Page 4 headline and bullets: 🍽️ Low GLP-1, 😰 High Cortisol, 🧠 Food No
 
 ## [00:31:45] CreativeOS - Chugging Water Instead of Eating Ad Variation
 
-frame: 058_00-31-45.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:31:45](https://drive.google.com/file/d/1eCBsDrP2L0dQCUf97yNieTJbyJky6qqP/view?usp=drivesdk) · `058_00-31-45.png`
 
 *ad example*
 
@@ -1757,7 +1757,7 @@ Subhead '3 hormone imbalances are linked to temporary fullness:' and bullets: �
 
 ## [00:31:55] Original Inspiration Ad - First Day Kids Vitamins
 
-frame: 058_00-31-55.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:31:55](https://drive.google.com/file/d/1APU8n_x9NwXrwYMAxiZ6cyFkkvvhLJsn/view?usp=drivesdk) · `058_00-31-55.png`
 
 *ad example*
 
@@ -1780,7 +1780,7 @@ Reference ad date 'August 9, 2023 at 12:51', brand First Day gummy packaging.
 
 ## [00:32:50] Prompting Claude AI for Scientifically Congruent Ad Copy
 
-frame: 058_00-32-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:32:50](https://drive.google.com/file/d/1l_UG6FLcYF3Ogs8UbVqpVywaSinV9vc4/view?usp=drivesdk) · `058_00-32-50.png`
 
 *software demo*
 
@@ -1806,7 +1806,7 @@ Character constraint instruction: 'stays within the same total amount of charact
 
 ## [00:33:00] Claude AI Refined Angles: Hormones and Enzyme Framing
 
-frame: 058_00-33-00.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:33:00](https://drive.google.com/file/d/1_m6whJbJ6IZok2wifaaK-ThF6VZK8UE7/view?usp=drivesdk) · `058_00-33-00.png`
 
 *software demo*
 
@@ -1839,7 +1839,7 @@ Descriptions in parentheses: (hunger hormone), (stress hormone), (breaks down GL
 
 ## [00:34:05] Updated Metaglow Ad Mockup in CreativeOS
 
-frame: 058_00-34-05.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:34:05](https://drive.google.com/file/d/1f4NWAhH9EBGFfoGcbiW9QFLFbOlDd-Yl/view?usp=drivesdk) · `058_00-34-05.png`
 
 *software demo*
 
@@ -1862,7 +1862,7 @@ Bottom banner replacement text: 'This one scoop supports all 3 of them.' replaci
 
 ## [00:34:15] Zend Wellness Product Page and Brand Color Picking
 
-frame: 058_00-34-15.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:34:15](https://drive.google.com/file/d/1det4bGiioaFQWheXpo0ZVxDMN_BM63GF/view?usp=drivesdk) · `058_00-34-15.png`
 
 *product page*
 
@@ -1880,7 +1880,7 @@ Color picker hex code: #043D54; Product details and copy for 'Zend Metabolic Gum
 
 ## [00:34:40] Completed Ad Mockup: Eating Toddler-Sized Portions Angle
 
-frame: 058_00-34-40.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:34:40](https://drive.google.com/file/d/1AwoizP6AvcxzT44OKgY_oBJXO5JpvDGd/view?usp=drivesdk) · `058_00-34-40.png`
 
 *ad example*
 
@@ -1902,7 +1902,7 @@ Date stamp on note mockup: August 9, 2025 at 12:51. Time header: 12:52.
 
 ## [00:35:20] Claude AI Sub-Avatar Angles and Ad Copy
 
-frame: 058_00-35-20.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:35:20](https://drive.google.com/file/d/1sGAM3XLsOMuvFS22C_1TiNPv97M9VnT-/view?usp=drivesdk) · `058_00-35-20.png`
 
 *software demo*
 
@@ -1937,7 +1937,7 @@ Explanations in parentheses: '(hunger hormone)', '(stress hormone)', '(breaks do
 
 ## [00:35:35] Ad Mockup: Eating Because There's Nothing Else to Do
 
-frame: 058_00-35-35.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:35:35](https://drive.google.com/file/d/1jHI2MQWp3awXIGl366TAPcC5K67a32PX/view?usp=drivesdk) · `058_00-35-35.png`
 
 *ad example*
 
@@ -1959,7 +1959,7 @@ Note timestamp: August 9, 2025 at 12:51. Discount code banner text: 'Flash Sale 
 
 ## [00:36:00] Ad Mockup: Updated Subheading on Bored Eater Variation
 
-frame: 058_00-36-00.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:36:00](https://drive.google.com/file/d/1aQP39fcCT98TfAZdqZ7XIiAvsdurbt40/view?usp=drivesdk) · `058_00-36-00.png`
 
 *ad example*
 
@@ -1981,7 +1981,7 @@ Subheading updated to '2 hormones & 1 enzyme behind boredom eating:' replacing e
 
 ## [00:36:05] Claude AI Sub-Avatar Angles and Explanatory Parentheticals
 
-frame: 058_00-36-05.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:36:05](https://drive.google.com/file/d/1ikFVdHx5Mn7x62nGxUNIkJ-vFd3qgh5T/view?usp=drivesdk) · `058_00-36-05.png`
 
 *software demo*
 
@@ -2017,7 +2017,7 @@ Bullet text under 'Why this works' explaining DPP-4 mechanism and why all 3 avat
 
 ## [00:37:10] Completed Ad Mockup with Explanatory Parenthetical Text
 
-frame: 058_00-37-10.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:37:10](https://drive.google.com/file/d/1QCpvoD12XFhbTRbfp6-J7cV8DyJ20oOE/view?usp=drivesdk) · `058_00-37-10.png`
 
 *software demo*
 
@@ -2039,7 +2039,7 @@ Exact formatting and visual placement of the italicized parentheticals '(hunger 
 
 ## [00:37:15] Repositioning 'This One Scoop Supports All 3' Banner
 
-frame: 058_00-37-15.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:37:15](https://drive.google.com/file/d/1eU1TNVdxiOz1fKoPl3NHwLIalxwVOJ6O/view?usp=drivesdk) · `058_00-37-15.png`
 
 *software demo*
 
@@ -2061,7 +2061,7 @@ Banner text: 'This one scoop supports all 3.' being moved between ad variants.
 
 ## [00:37:35] Final Review of Toddler-Sized Portions Ad Variation
 
-frame: 058_00-37-35.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:37:35](https://drive.google.com/file/d/1XJDUmzN9bf3XFpQ_KeGOr4OdagONK9-7/view?usp=drivesdk) · `058_00-37-35.png`
 
 *software demo*
 
@@ -2083,7 +2083,7 @@ Page label 'Page 2 - Editable Template' and visual combination of toddler-sized 
 
 ## [00:37:40] Ad Mockup: 'Chugging Water Instead of Eating?' Angle in Creative OS
 
-frame: 058_00-37-40.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:37:40](https://drive.google.com/file/d/19kMS4nZpOJyu-mE64tL_mLJnkNk_ReyB/view?usp=drivesdk) · `058_00-37-40.png`
 
 *software demo*
 
@@ -2108,7 +2108,7 @@ Creative OS graphic editor interface controls, exact banner text 'This one scoop
 
 ## [00:38:20] Inspiration Ad Template: First Day Ad in Creative OS Library
 
-frame: 058_00-38-20.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:38:20](https://drive.google.com/file/d/1Zn3iAxt41LJNVdfyMQfLB_WKw505Fcqb/view?usp=drivesdk) · `058_00-38-20.png`
 
 *ad example*
 
@@ -2134,7 +2134,7 @@ Template name 'First Day Ad', posted date 'October 9, 2023', full list of tags, 
 
 ## [00:38:25] Claude AI Chat: Formulation and Mechanisms of Metaglow
 
-frame: 058_00-38-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:38:25](https://drive.google.com/file/d/1XVtHTs9KsL0IGBQn74wr5XUeFMuH7EN5/view?usp=drivesdk) · `058_00-38-25.png`
 
 *software demo*
 
@@ -2164,7 +2164,7 @@ Specific ingredients cited: DygloMera for GLP-1 and Suntheanine for Cortisol. Cl
 
 ## [00:38:35] Google Docs Master Document: Sub Avatar - The Dieter
 
-frame: 058_00-38-35.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:38:35](https://drive.google.com/file/d/1X-fIauiJ8NYXS946027-4Fvr4BFD6K1X/view?usp=drivesdk) · `058_00-38-35.png`
 
 *document*
 
@@ -2197,7 +2197,7 @@ Complete verbatim text under 'Sub Avatar: The Dieter' including desire, behavior
 
 ## [00:38:55] Google Sheets Ad Testing Matrix: BATCH #1 and BATCH #2 Setup
 
-frame: 058_00-38-55.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:38:55](https://drive.google.com/file/d/1ytoDtCIBwx9PrzFxKjTGaQVk_RDgPPr3/view?usp=drivesdk) · `058_00-38-55.png`
 
 *spreadsheet*
 
@@ -2221,7 +2221,7 @@ Spreadsheet title, batch rows 1-3 details, specific angle copy, headlines and ho
 
 ## [00:39:40] Export Menu Options in Creative OS
 
-frame: 058_00-39-40.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:39:40](https://drive.google.com/file/d/1EFGeSo9eK2TaOBL0D6zPMEwFmkqQwLbI/view?usp=drivesdk) · `058_00-39-40.png`
 
 *software demo*
 
@@ -2243,7 +2243,7 @@ All export formats available in Creative OS (PNG, JPEG, SVG, PDF, HTML, single p
 
 ## [00:39:50] Skool Course Module: How to Write Image Ads - Part 2
 
-frame: 058_00-39-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:39:50](https://drive.google.com/file/d/1eW1kuRj1qnbiWpWeWUp_5O2i-22G5_Uo/view?usp=drivesdk) · `058_00-39-50.png`
 
 *webpage*
 
@@ -2275,7 +2275,7 @@ Text notes in module: questions & answers regarding swings and visual testing, l
 
 ## [00:39:55] Revised Final Static Ads: Dygblomera and Suntheanine Concepts
 
-frame: 058_00-39-55.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:39:55](https://drive.google.com/file/d/1oHUp6CXciB3F1kFmqxTHiM35yrQwLSiJ/view?usp=drivesdk) · `058_00-39-55.png`
 
 *ad example*
 
@@ -2303,7 +2303,7 @@ Exact bullet copy, ingredient trademarks (Dygblomera®, Suntheanine®), percenta
 
 ## [00:40:30] Course Resource Links in Part 1 Module
 
-frame: 058_00-40-30.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:40:30](https://drive.google.com/file/d/16JRjCmK2LvlNICEPRxn4dBi5k-CwS61B/view?usp=drivesdk) · `058_00-40-30.png`
 
 *webpage*
 
@@ -2337,7 +2337,7 @@ Full URLs for Master Document Template, Brief Template, Angle Prompts Used, 13+ 
 
 ## [00:42:20] Ad Creative Variation: Cortisol and Suntheanine Angle
 
-frame: 058_00-42-20.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:42:20](https://drive.google.com/file/d/1rwTPKnbGkxUa0ivBUIWRTlDwfQheIMH7/view?usp=drivesdk) · `058_00-42-20.png`
 
 *ad example*
 
@@ -2356,7 +2356,7 @@ The full layout of the ad card including visual elements and specific pointers.
 
 ## [00:42:40] Google Docs: Customer Avatar Quotes and Headline Ideas
 
-frame: 058_00-42-40.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:42:40](https://drive.google.com/file/d/1rO0sJL9zWGCcl56je8Bvg1OzKo1XEa2W/view?usp=drivesdk) · `058_00-42-40.png`
 
 *document*
 
@@ -2380,7 +2380,7 @@ Specific headline variations ('Stop ignoring your cravings...', 'Shut up your st
 
 ## [00:43:00] Static Ad Variations Comparison: GLP-1 and Cravings Angles
 
-frame: 058_00-43-00.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:43:00](https://drive.google.com/file/d/1QPRIr2BqPgVmkZBB82LhRP5ruEQKS0Rh/view?usp=drivesdk) · `058_00-43-00.png`
 
 *ad example*
 
@@ -2403,7 +2403,7 @@ The exact bullet points under 'TRICK YOUR STOMACH INTO STAYING FULL': 'Reduces c
 
 ## [00:44:45] Course Module Notes: How to Write Image Ads - Part 2
 
-frame: 058_00-44-45.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:44:45](https://drive.google.com/file/d/143JI7TeLUVbYQiD2IcGB7DKs5rqymV7U/view?usp=drivesdk) · `058_00-44-45.png`
 
 *webpage*
 
@@ -2428,7 +2428,7 @@ Mentions of Hemingway App URL, Nano banana, and Creative OS affiliate link in th
 
 ## [00:44:50] Creative Notes Ad Variations: Toddler-Sized Portions and Water Angles
 
-frame: 058_00-44-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:44:50](https://drive.google.com/file/d/12WNx-maBMltBObL9MIppoK9zQaUhJvXx/view?usp=drivesdk) · `058_00-44-50.png`
 
 *ad example*
 
@@ -2454,7 +2454,7 @@ Enzyme mention 'High DPP-4' and specific date timestamp 'August 9, 2025 at 12:51
 
 ## [00:45:15] Ad Creative Variations: Chugging Water Instead of Eating
 
-frame: 058_00-45-15.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:45:15](https://drive.google.com/file/d/19LKVdg7gwpQqtf2tqnxDjx6utfb_I5iy/view?usp=drivesdk) · `058_00-45-15.png`
 
 *software demo*
 
@@ -2477,7 +2477,7 @@ Bullet text: 'Low GLP-1', 'High Cortisol', 'High DPP-4'. Product branding 'ZEND 
 
 ## [00:45:25] Ad Creative Variation: Eating Because There's Nothing Else to Do
 
-frame: 058_00-45-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:45:25](https://drive.google.com/file/d/1T9XrFKUr6a4FLwhZuPnCBsBorLEGUf0V/view?usp=drivesdk) · `058_00-45-25.png`
 
 *software demo*
 
@@ -2499,7 +2499,7 @@ Expanded explanations in parentheses on bullets: '(hunger hormone)', '(stress ho
 
 ## [00:47:05] Google AI Studio: Nano Banana Prompt Input
 
-frame: 058_00-47-05.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:47:05](https://drive.google.com/file/d/1pZ0ujG7FwiHogxdjLS8MuuJRWeeYzeJO/view?usp=drivesdk) · `058_00-47-05.png`
 
 *software demo*
 
@@ -2515,7 +2515,7 @@ Model details on right panel: gemini-2.5-flash-image; Temperature 1, Aspect rati
 
 ## [00:47:45] Google AI Studio Initial Output with Nano Banana
 
-frame: 058_00-47-45.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:47:45](https://drive.google.com/file/d/1quGMiOltOJZTtXSqHikyADtDWH81ruf8/view?usp=drivesdk) · `058_00-47-45.png`
 
 *software demo*
 
@@ -2534,7 +2534,7 @@ Prompt text verbatim; initial generated image layout.
 
 ## [00:47:50] Google AI Studio Detailed Replacement Image Prompt
 
-frame: 058_00-47-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:47:50](https://drive.google.com/file/d/1gc6sUlhvEcqK2Oo4V1-46HKyySFyC6pR/view?usp=drivesdk) · `058_00-47-50.png`
 
 *software demo*
 
@@ -2551,7 +2551,7 @@ Full written prompt wording and reference image layout with red highlight box.
 
 ## [00:48:10] Google AI Studio Generated Congruent Ad Asset
 
-frame: 058_00-48-10.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:48:10](https://drive.google.com/file/d/1IagSUKjooYXYVFPCvv16bKZDHzH_LNe1/view?usp=drivesdk) · `058_00-48-10.png`
 
 *software demo*
 
@@ -2565,7 +2565,7 @@ Visual output of the toddler plate and product packaging composition.
 
 ## [00:48:20] Google AI Studio Isolated Plate and Product Generation
 
-frame: 058_00-48-20.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:48:20](https://drive.google.com/file/d/13gxRsW-kHQhnEQSAImzFMgVLYoh4cW02/view?usp=drivesdk) · `058_00-48-20.png`
 
 *software demo*
 
@@ -2580,7 +2580,7 @@ Exact prompt to isolate items and remove hand/arm.
 
 ## [00:48:35] Updated Ad Creative with AI-Generated Toddler Plate Visual
 
-frame: 058_00-48-35.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:48:35](https://drive.google.com/file/d/15zdY2BX9CnBUHtOUyd9YCn2MOKQg5z2i/view?usp=drivesdk) · `058_00-48-35.png`
 
 *ad example*
 
@@ -2603,7 +2603,7 @@ Finished visual composition with background removed overlaying the ad template.
 
 ## [00:49:10] Iterating Prompt in Google AI Studio to Adjust Element Sizing
 
-frame: 058_00-49-10.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:49:10](https://drive.google.com/file/d/175NZxXDhtJX3Ax5DM-WetZz9MoTpJj69/view?usp=drivesdk) · `058_00-49-10.png`
 
 *software demo*
 
@@ -2621,7 +2621,7 @@ Model input field and settings visible: Model: 'gemini-2.5-flash-image', Tempera
 
 ## [00:49:15] AI-Generated Image Preview with Resized Toddler Plate and Product
 
-frame: 058_00-49-15.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:49:15](https://drive.google.com/file/d/1cHQy2rJ-2ao4TP_Z03weuqCOIKbigUHr/view?usp=drivesdk) · `058_00-49-15.png`
 
 *software demo*
 
@@ -2635,7 +2635,7 @@ Timestamped image filename 'Generated Image October 31, 2025 - 4:15PM.png'.
 
 ## [00:49:35] Refined Toddler Plate Graphic Placed in Notes Ad Template
 
-frame: 058_00-49-35.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:49:35](https://drive.google.com/file/d/1E3e6l4LAPEmwjd7kqPPa2yfQ_bhgQBbx/view?usp=drivesdk) · `058_00-49-35.png`
 
 *software demo*
 
@@ -2657,7 +2657,7 @@ The image bounding box has been resized and positioned neatly beside the bullet 
 
 ## [00:49:50] Course Notes: How to Write Image Ads - Part 2
 
-frame: 058_00-49-50.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:49:50](https://drive.google.com/file/d/1CdTPrstU8OAj9_0QkOBx08ym8VVwOsnv/view?usp=drivesdk) · `058_00-49-50.png`
 
 *document*
 
@@ -2687,7 +2687,7 @@ URL for Hemingway app (https://hemingwayapp.com/) and affiliate link (https://ww
 
 ## [00:50:25] Google AI Studio Water Jug and Product Image Generation
 
-frame: 058_00-50-25.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:50:25](https://drive.google.com/file/d/1dpZrHbcu7EWZtB2NsB27NS3ZD0ZH89jC/view?usp=drivesdk) · `058_00-50-25.png`
 
 *software demo*
 
@@ -2704,7 +2704,7 @@ Chat title: 'Toddler Portions and Meta Glow', prompt text with typos ('add', 'ju
 
 ## [00:50:30] Downloading AI Asset and Placing into Chugging Water Creative
 
-frame: 058_00-50-30.png (Drive: https://drive.google.com/file/d/1uRmype7HY2_YQel3dteeSirfhCIU3jDM/view?usp=drivesdk)
+[frame 00:50:30](https://drive.google.com/file/d/1hYI2Jl_8pSvagBaAkcWdPTTnfPx7GTFI/view?usp=drivesdk) · `058_00-50-30.png`
 
 *software demo*
 

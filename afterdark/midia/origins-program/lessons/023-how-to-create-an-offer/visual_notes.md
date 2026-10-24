@@ -1,14 +1,14 @@
 # 23. How to create an offer - Visual notes
 
 - **Frames kept:** 67 of 137 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [023-how-to-create-an-offer-frames.zip](https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/023-how-to-create-an-offer](https://drive.google.com/drive/folders/1s1-5MT4sUnIJsFzkDs-k0Wm7J78enlBK)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:40] Bundle & Save Offer Framework
 
-frame: 023_00-00-40.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:00:40](https://drive.google.com/file/d/1_XvtycsGrJrbf4wR-X4YuLcMYgbtWoAH/view?usp=drivesdk) · `023_00-00-40.png`
 
 *slide*
 
@@ -29,7 +29,7 @@ The full slide definition, reason requirement, and specific examples ("The Stapl
 
 ## [00:00:45] $X Amount Off Offer Framework
 
-frame: 023_00-00-45.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:00:45](https://drive.google.com/file/d/1JvubMA6OPpmOa6QEpsRVdfVoZmV61g6I/view?usp=drivesdk) · `023_00-00-45.png`
 
 *slide*
 
@@ -51,7 +51,7 @@ Entire slide content: "Dollar amount off product or order (Law of large numbers)
 
 ## [00:00:50] Margin and Offer Breakdown Spreadsheet Template
 
-frame: 023_00-00-50.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:00:50](https://drive.google.com/file/d/18PZnp_hMTr4l5j1nQg1aiJxdewOK28c-/view?usp=drivesdk) · `023_00-00-50.png`
 
 *spreadsheet*
 
@@ -73,7 +73,7 @@ Exact column headers (Gateway, Pick N Pack, Margin $, Margin %), formula setup, 
 
 ## [00:01:00] Happy Mammoth Hormone Harmony Product Page
 
-frame: 023_00-01-00.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:01:00](https://drive.google.com/file/d/13RprRUhkkgWBJgieVV3-sW-ycly-S7YY/view?usp=drivesdk) · `023_00-01-00.png`
 
 *product page*
 
@@ -103,7 +103,7 @@ Top review quote, headline description, review count (52,870), feature bullets, 
 
 ## [00:02:50] Carepod Humidifier Product Page Showing Bundle Pricing
 
-frame: 023_00-02-50.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:02:50](https://drive.google.com/file/d/1-OXL6oZE588XPXSQD_twXGqk9mnjexOP/view?usp=drivesdk) · `023_00-02-50.png`
 
 *product page*
 
@@ -121,7 +121,7 @@ Carepod Cube Plus X50V model, rating 4.4 (236 reviews), 3 bundle options with sq
 
 ## [00:03:25] Margin Breakdown Spreadsheet with ROAS and Target CPA Columns
 
-frame: 023_00-03-25.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:03:25](https://drive.google.com/file/d/1Z4sRwvWhnfk7MgEw1ckhHfdVlIWB8UdM/view?usp=drivesdk) · `023_00-03-25.png`
 
 *spreadsheet*
 
@@ -138,7 +138,7 @@ Target CPA for 2+ ROAS column ($27.83), Target CPA for 2.5+ ROAS column ($22.26)
 
 ## [00:03:40] Margin Breakdown Spreadsheet for 1-pack and 2-pack
 
-frame: 023_00-03-40.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:03:40](https://drive.google.com/file/d/1N_mOn6Ub4phesV1DozQ4L5HGiZdnpT-c/view?usp=drivesdk) · `023_00-03-40.png`
 
 *spreadsheet*
 
@@ -155,7 +155,7 @@ Exact values for 2-pack: Total Cost For Us: $23.36, Margin $: $116.62, Margin %:
 
 ## [00:04:55] Margin Breakdown Spreadsheet Updating COGS and Shipping Costs
 
-frame: 023_00-04-55.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:04:55](https://drive.google.com/file/d/1YbTB2Gv6XIWE7ggHlmbglMHs_eP01ih3/view?usp=drivesdk) · `023_00-04-55.png`
 
 *spreadsheet*
 
@@ -172,7 +172,7 @@ Columns COGS ($15.00), Pick N Pack ($0.00), Shipping ($5.00), updated Margin $ (
 
 ## [00:05:10] Margin Breakdown Spreadsheet with Strikethrough Price Added
 
-frame: 023_00-05-10.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:05:10](https://drive.google.com/file/d/1jmQN3zSdYWlkuspupWoC2KGskPKHzgRV/view?usp=drivesdk) · `023_00-05-10.png`
 
 *spreadsheet*
 
@@ -188,7 +188,7 @@ Row 2 metrics: Total Cost For Us recalculation yielding Margin $: $100.62, Margi
 
 ## [00:05:25] Margin Breakdown Spreadsheet Savings and CPA Calculation
 
-frame: 023_00-05-25.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:05:25](https://drive.google.com/file/d/1dL0kB974A3DPjGXIDRib6txQOjLvVGnc/view?usp=drivesdk) · `023_00-05-25.png`
 
 *spreadsheet*
 
@@ -204,7 +204,7 @@ Savings: $10.00, Savings %: 12.50% calculated for the $79.99 vs $69.99 price dif
 
 ## [00:07:25] Margin Breakdown Sheet with New Offer Row Added
 
-frame: 023_00-07-25.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:07:25](https://drive.google.com/file/d/1XmOF_aHlEH-_Zbglax0OarXm_pbHQIBw/view?usp=drivesdk) · `023_00-07-25.png`
 
 *spreadsheet*
 
@@ -222,7 +222,7 @@ Detailed figures in row 8 for New Offers ($249.00, $199.00, Margin $172.93, Marg
 
 ## [00:08:35] Revenue Per Session Calculator Before and After Example
 
-frame: 023_00-08-35.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:08:35](https://drive.google.com/file/d/1RLYlLQvCirI5SSIHDoDIwc_-WFOryqF5/view?usp=drivesdk) · `023_00-08-35.png`
 
 *spreadsheet*
 
@@ -244,7 +244,7 @@ Revenue Per Session before ($1.40) and after ($2.40) at $120.00 AOV.
 
 ## [00:10:45] Meta Ads Manager Metrics Overview for Acquisition Campaign
 
-frame: 023_00-10-45.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:10:45](https://drive.google.com/file/d/1fphVDJyyfCcCN-eVNs6FII2yhyJLJrPt/view?usp=drivesdk) · `023_00-10-45.png`
 
 *software demo*
 
@@ -267,7 +267,7 @@ Purchases conversion value $7,121.36, date filter Nov 3, 2025 - Nov 9, 2025, lin
 
 ## [00:10:55] Spotlight Calculation of Revenue per Session
 
-frame: 023_00-10-55.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:10:55](https://drive.google.com/file/d/15ODM08X8pSJG0o-agCdgkWT87cCCfaZf/view?usp=drivesdk) · `023_00-10-55.png`
 
 *software demo*
 
@@ -284,7 +284,7 @@ Exact calculation query and precision result: 1,411.693.
 
 ## [00:11:15] Revenue Per Session Sheet Calculated with Live Ad Metrics
 
-frame: 023_00-11-15.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:11:15](https://drive.google.com/file/d/1_0hYOyqGVYyrdXtErxVxuzNlpCjeYVJT/view?usp=drivesdk) · `023_00-11-15.png`
 
 *spreadsheet*
 
@@ -306,7 +306,7 @@ Exact numbers displayed in the sheet: Before AOV $418.00, Rev/Session $14.09; Af
 
 ## [00:12:30] Margin Breakdown Spreadsheet Adjusting New Offers
 
-frame: 023_00-12-30.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:12:30](https://drive.google.com/file/d/1FT77Tl9wRh5bJrqqwwdDLrAMHSpIfHdb/view?usp=drivesdk) · `023_00-12-30.png`
 
 *spreadsheet*
 
@@ -326,7 +326,7 @@ Gateway fee for 2-pack new offer: $6.07; Total cost for us: $41.07; Margin $: $1
 
 ## [00:12:55] Origins Community Portal Lesson Page for Offer Strategy and PageDeck Promo
 
-frame: 023_00-12-55.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:12:55](https://drive.google.com/file/d/1qXryt4tC2KTBZIyXXopq3JVxqvaEH_mb/view?usp=drivesdk) · `023_00-12-55.png`
 
 *webpage*
 
@@ -349,7 +349,7 @@ Google Sheets URL: 'https://docs.google.com/spreadsheets/d/1wWq4rkL29SkqajwNnbtB
 
 ## [00:13:15] Origins Classroom Media Buying Section Overview
 
-frame: 023_00-13-15.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:13:15](https://drive.google.com/file/d/1ZFGHxvGhD2P4EFORJXmGjHRLgJbsmvIK/view?usp=drivesdk) · `023_00-13-15.png`
 
 *webpage*
 
@@ -375,7 +375,7 @@ Full list of upcoming lessons under 'How To Run Ads' in the left sidebar.
 
 ## [00:13:20] Creative Testing Guidelines and Rules Document
 
-frame: 023_00-13-20.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:13:20](https://drive.google.com/file/d/1BGKpwnj8gks4mkekRTtiKX_vXZCSYZGr/view?usp=drivesdk) · `023_00-13-20.png`
 
 *document*
 
@@ -395,7 +395,7 @@ Testing duration recommendations (3 days minimum, 7 days typical, max 14 days), 
 
 ## [00:13:40] Margin Breakdown Spreadsheet for New Hormonal Harmony Offers
 
-frame: 023_00-13-40.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:13:40](https://drive.google.com/file/d/1h0Af2GJ_F3QAySMAyA4mrXEgIi7vS86K/view?usp=drivesdk) · `023_00-13-40.png`
 
 *spreadsheet*
 
@@ -412,7 +412,7 @@ BE ROAS for row 8 is 2.14, row 9 BE ROAS is 1.47; Margin % for row 8 is 46.66%, 
 
 ## [00:14:10] Discounted Price Margin Calculation ($59.99 Single Bottle)
 
-frame: 023_00-14-10.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:14:10](https://drive.google.com/file/d/15w-7-d78vn1KuDjSn2pF9saS3z2WmFFl/view?usp=drivesdk) · `023_00-14-10.png`
 
 *spreadsheet*
 
@@ -427,7 +427,7 @@ BE ROAS: 1.58, Savings: $20.00, Savings%: 25.00%, Target CPA for 2+ ROAS: $18.98
 
 ## [00:14:20] Offer Strategy: Buy X Get X% Off
 
-frame: 023_00-14-20.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:14:20](https://drive.google.com/file/d/1YSDVTrJs9Xh9lit4cZLDV6KDP6bjTfgq/view?usp=drivesdk) · `023_00-14-20.png`
 
 *slide*
 
@@ -445,7 +445,7 @@ Visual banner text: 'Buy any 2 pieces and get the 3rd for 51% off!', 'Add 2 More
 
 ## [00:14:25] Offer Strategy: Bundle & Save
 
-frame: 023_00-14-25.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:14:25](https://drive.google.com/file/d/11sc3j9-7Q49rk1YdJ5E__9gQFHEcEBSZ/view?usp=drivesdk) · `023_00-14-25.png`
 
 *slide*
 
@@ -463,7 +463,7 @@ Bundle naming examples and visuals for 'The Staple 6-Pack' ($186 vs $265) and 'R
 
 ## [00:14:30] Offer Strategy: $X Amount Off
 
-frame: 023_00-14-30.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:14:30](https://drive.google.com/file/d/1ujU2PHkp65vlx32gPusgynnLJc8ugdPF/view?usp=drivesdk) · `023_00-14-30.png`
 
 *slide*
 
@@ -482,7 +482,7 @@ Example 3: 'Save Up To $80! Sitewide (Discount select products or variants)', ha
 
 ## [00:15:50] Meta Ads Manager Landing Page Views Metric Tooltip
 
-frame: 023_00-15-50.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:15:50](https://drive.google.com/file/d/1XfhpCdjl3xlAID3DmisUnxv-UklXTnQP/view?usp=drivesdk) · `023_00-15-50.png`
 
 *software demo*
 
@@ -501,7 +501,7 @@ Website landing page views values: 367 and 137 (504 total); Link clicks: 504 and
 
 ## [00:16:25] Revenue Per Session Comparison: Lower Price with Higher CVR
 
-frame: 023_00-16-25.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:16:25](https://drive.google.com/file/d/1BlmUt0qW2i-wZ_G6vcyelKc4S4OD-Tlg/view?usp=drivesdk) · `023_00-16-25.png`
 
 *spreadsheet*
 
@@ -523,7 +523,7 @@ Formula bar showing =G16*K16 for Revenue Per Session calculation.
 
 ## [00:17:55] Profit Per Session (PPS) Calculation Comparison
 
-frame: 023_00-17-55.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:17:55](https://drive.google.com/file/d/1pqwWlY7Ep-l41C53jrHRnUfgM2cOHVee/view?usp=drivesdk) · `023_00-17-55.png`
 
 *spreadsheet*
 
@@ -548,7 +548,7 @@ PPS metric box introduced; After CVR is 2.50%, Revenue Per Session is $1.50, and
 
 ## [00:18:05] Margin Breakdown for BOGO Offer Calculation
 
-frame: 023_00-18-05.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:18:05](https://drive.google.com/file/d/1qcBqH0f3834UtzZDcjazGhGQvbKl01LT/view?usp=drivesdk) · `023_00-18-05.png`
 
 *spreadsheet*
 
@@ -564,7 +564,7 @@ Pick N Pack $0.00, Shipping $5.00, Gateway $2.33, Total Cost $37.33, initial Mar
 
 ## [00:18:35] BOGO Margin Analysis and Target CPA
 
-frame: 023_00-18-35.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:18:35](https://drive.google.com/file/d/1U-USzrye-JgztUkMJNcd92gzCJ2lRTUY/view?usp=drivesdk) · `023_00-18-35.png`
 
 *spreadsheet*
 
@@ -591,7 +591,7 @@ BE ROAS: 1.89; Target CPA for 2+ ROAS: $21.19; Target CPA for 2.5+ ROAS: $16.95.
 
 ## [00:20:30] Offer Strategy: Buy X Get X Free
 
-frame: 023_00-20-30.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:20:30](https://drive.google.com/file/d/1GSzV39MUF3o__rKHuYG2CYShpdQ9Cyxu/view?usp=drivesdk) · `023_00-20-30.png`
 
 *slide*
 
@@ -611,7 +611,7 @@ URL try.flowpouch... on image link; example bullet 3: 'Buy X Get Another Product
 
 ## [00:20:35] Flow Pouches Bundle and Save Offer Options
 
-frame: 023_00-20-35.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:20:35](https://drive.google.com/file/d/1RHK5opR29zxp42piV7RTl-4EiWMZbJS-/view?usp=drivesdk) · `023_00-20-35.png`
 
 *ad example*
 
@@ -630,7 +630,7 @@ Exact pricing: Buy 2 Get 3 Free ($50.00, save $75, $10/can); Buy 4 Get 6 Free ($
 
 ## [00:21:10] Offer Strategy: Free Gift
 
-frame: 023_00-21-10.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:21:10](https://drive.google.com/file/d/1IA-CDKP6kxfWpJ2ahMQP8FlIy0IcC3y1/view?usp=drivesdk) · `023_00-21-10.png`
 
 *slide*
 
@@ -651,7 +651,7 @@ Full text of bullets 1-4 including 'Free Mystery Gift', 'Free Complimentary Prod
 
 ## [00:22:10] Bundle Offers Tier Modeling (x1, x2, x3)
 
-frame: 023_00-22-10.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:22:10](https://drive.google.com/file/d/1NJzZlGDG6HpDFNyVOU3Y9bvYWioN2JJ1/view?usp=drivesdk) · `023_00-22-10.png`
 
 *spreadsheet*
 
@@ -670,7 +670,7 @@ Rows 10 & 11 cost setup: Hormonal Harmony x 2 Total Cost $35.30, Price Before Di
 
 ## [00:22:25] Origins Program Course Dashboard Navigation
 
-frame: 023_00-22-25.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:22:25](https://drive.google.com/file/d/13GhqK7QUOD0K81NzZrcdS4D5TBFa92G9/view?usp=drivesdk) · `023_00-22-25.png`
 
 *webpage*
 
@@ -693,7 +693,7 @@ Shows exact course module structure and action items under 'How To Create Offers
 
 ## [00:22:35] Pagedeck eCommerce Landing Page Builder Homepage
 
-frame: 023_00-22-35.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:22:35](https://drive.google.com/file/d/1-jFx5nTJ5J2mLJohLRRC7tVmven6Qkd9/view?usp=drivesdk) · `023_00-22-35.png`
 
 *webpage*
 
@@ -712,7 +712,7 @@ Specific text, subheadline, testimonial authors and brand logos visible on the P
 
 ## [00:24:00] Tiered Bundle Offer Calculations with Discount Percentages
 
-frame: 023_00-24-00.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:24:00](https://drive.google.com/file/d/1-hAlsv7YZg9jYxotXS0JOabYg6FLAjYu/view?usp=drivesdk) · `023_00-24-00.png`
 
 *spreadsheet*
 
@@ -731,7 +731,7 @@ Exact break-even ROAS (1.39, 1.44, 1.49), Total Cost for Us ($22.62, $39.01, $55
 
 ## [00:25:20] Revenue and Profit Per Session Comparison (Before vs After)
 
-frame: 023_00-25-20.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:25:20](https://drive.google.com/file/d/1arn2aBPKAo-mBxXYMlQCPfG9i1qRx6G6/view?usp=drivesdk) · `023_00-25-20.png`
 
 *spreadsheet*
 
@@ -757,7 +757,7 @@ The specific spreadsheet layout and the PPS values ($1.12 before, $1.06 after).
 
 ## [00:27:45] Offer Strategy: Bundle & Save
 
-frame: 023_00-27-45.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:27:45](https://drive.google.com/file/d/1BorKJGY2nmGraeTIxj5n4meC4uFES0DU/view?usp=drivesdk) · `023_00-27-45.png`
 
 *slide*
 
@@ -778,7 +778,7 @@ The slide layout, branding ('Easy A Media', 'Origins | Offer Mastery'), and the 
 
 ## [00:28:15] Buy 2 Get 1 Free Offer Margin Calculation
 
-frame: 023_00-28-15.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:28:15](https://drive.google.com/file/d/1uKTSC9mmejy6hIBjuEQjPihEeBeqEH99/view?usp=drivesdk) · `023_00-28-15.png`
 
 *spreadsheet*
 
@@ -804,7 +804,7 @@ Exact formula '=I18*B10-79.9' in cell I10, Gateway ($5.87), Total Cost ($55.87),
 
 ## [00:29:00] Carepod Humidifier Quantity Selector Example
 
-frame: 023_00-29-00.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:29:00](https://drive.google.com/file/d/1aaNsHRPsGty4TnbxumNuJehZZoEYPmmz/view?usp=drivesdk) · `023_00-29-00.png`
 
 *product page*
 
@@ -822,7 +822,7 @@ Square footage tiers (700 sq ft, 1,400 sq ft, 2,100 sq ft), exact bundle price f
 
 ## [00:29:05] Happy Mammoth Hormone Harmony Multi-Jar Bundles
 
-frame: 023_00-29-05.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:29:05](https://drive.google.com/file/d/1IRk4f2MK7TaIXP-K8weA0hi1Lf6qAhJq/view?usp=drivesdk) · `023_00-29-05.png`
 
 *product page*
 
@@ -841,7 +841,7 @@ Exact pricing ($59.99, $47.49, $49.99), review count (52,870), badges 'BEST SELL
 
 ## [00:29:35] Subscription Delivery Cadence Options on Product Page
 
-frame: 023_00-29-35.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:29:35](https://drive.google.com/file/d/1o7q3vfS4eg1X-UuJ11Ys-BcSRryt40Ig/view?usp=drivesdk) · `023_00-29-35.png`
 
 *product page*
 
@@ -857,7 +857,7 @@ Visible delivery frequency button '24 day'.
 
 ## [00:29:45] Origins Program Lesson Overview and Offers Sheet Link
 
-frame: 023_00-29-45.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:29:45](https://drive.google.com/file/d/16qNGd0kG7FGepb4CPq-rHK__x5CorqPu/view?usp=drivesdk) · `023_00-29-45.png`
 
 *webpage*
 
@@ -876,7 +876,7 @@ Full Google Docs URL for Offers Sheet, Pagedeck promo code 'EASY15' and pricing 
 
 ## [00:30:10] Low Conversion Rate and Low AOV Metric Modeling
 
-frame: 023_00-30-10.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:30:10](https://drive.google.com/file/d/13UkHZsJ-DTQVXRWNfgG_lZz6iAZBU9rw/view?usp=drivesdk) · `023_00-30-10.png`
 
 *spreadsheet*
 
@@ -901,7 +901,7 @@ Exact PPS numbers: $0.36 for Before, $1.34 for After.
 
 ## [00:30:55] Shopify Products List Search
 
-frame: 023_00-30-55.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:30:55](https://drive.google.com/file/d/1Gpx6YvyvBg66c_IBzcxXIuXJKjXP5Vbi/view?usp=drivesdk) · `023_00-30-55.png`
 
 *software demo*
 
@@ -920,7 +920,7 @@ Product inventory status, categories, variant counts, and store name 'Rodent Sto
 
 ## [00:31:10] Shopify Duplicated Product Editing Screen
 
-frame: 023_00-31-10.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:31:10](https://drive.google.com/file/d/1_8jLDnDTvT2xwWXlhLS-b-OPrppds2PE/view?usp=drivesdk) · `023_00-31-10.png`
 
 *software demo*
 
@@ -944,7 +944,7 @@ Vendor ('Twin Traps'), Type ('Catch'), Draft status badge, full description text
 
 ## [00:31:15] Shopify Product Settings Price, Inventory, and Shipping
 
-frame: 023_00-31-15.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:31:15](https://drive.google.com/file/d/1WpesxlT3nzGN7g0y7nsUIxAfdv3grcNZ/view?usp=drivesdk) · `023_00-31-15.png`
 
 *software demo*
 
@@ -964,7 +964,7 @@ Fulfillment location name 'Precision Fulfillment & Kitting', package dimensions 
 
 ## [00:31:25] Shopify Online Store Themes Dashboard
 
-frame: 023_00-31-25.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:31:25](https://drive.google.com/file/d/1ndB0ox8GIdyK4oyOjEl5CDJCsj3RrpOI/view?usp=drivesdk) · `023_00-31-25.png`
 
 *software demo*
 
@@ -981,7 +981,7 @@ LCP P75 (1404 ms), INP P75 (112 ms), Cumulative Layout Shift (0.01), Sessions (2
 
 ## [00:31:30] Shopify Theme Editor Navigation
 
-frame: 023_00-31-30.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:31:30](https://drive.google.com/file/d/11o84kbAmjQLTst449VURiV5JVL8Be_mm/view?usp=drivesdk) · `023_00-31-30.png`
 
 *software demo*
 
@@ -998,7 +998,7 @@ Layout and sections of the theme editor sidebar (Header, Template sections, Foot
 
 ## [00:31:35] Create Product Template Modal in Shopify
 
-frame: 023_00-31-35.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:31:35](https://drive.google.com/file/d/1duAsurqJqobqpOdo9-8s7RBp9A0M4V3X/view?usp=drivesdk) · `023_00-31-35.png`
 
 *software demo*
 
@@ -1016,7 +1016,7 @@ Text inside modal: 'Create a template to customize how your content is displayed
 
 ## [00:31:40] Editing New Product Template in Theme Customizer
 
-frame: 023_00-31-40.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:31:40](https://drive.google.com/file/d/169B1h_cE_fAxmMtj41LocdM8sssQ5TLE/view?usp=drivesdk) · `023_00-31-40.png`
 
 *software demo*
 
@@ -1033,7 +1033,7 @@ Product name 'Twins Rodent Blocker! PREORDER NOW', price '$349.99', timeline dat
 
 ## [00:31:55] Assigning New Theme Template to Shopify Product
 
-frame: 023_00-31-55.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:31:55](https://drive.google.com/file/d/15vWRf1Lrk9QUYjDQoAktgqdkQRp1H0th/view?usp=drivesdk) · `023_00-31-55.png`
 
 *software demo*
 
@@ -1047,7 +1047,7 @@ Theme template assigned: 'eam-tester', 'Save' button highlighted.
 
 ## [00:32:30] Shopify Search Engine Listing Preview and URL
 
-frame: 023_00-32-30.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:32:30](https://drive.google.com/file/d/1-W5HDywXoNhKBDmfdD-QKJ56hpQeuu3U/view?usp=drivesdk) · `023_00-32-30.png`
 
 *software demo*
 
@@ -1068,7 +1068,7 @@ Exact product URL: 'https://shoprodentstoppers.com/products/rat-vac-motion-senso
 
 ## [00:32:40] RodentStoppers Product Page with Discount Quiz Popup
 
-frame: 023_00-32-40.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:32:40](https://drive.google.com/file/d/1_osiNU3UV-j5-LrrbOEG9MfbysVPRnm2/view?usp=drivesdk) · `023_00-32-40.png`
 
 *product page*
 
@@ -1082,7 +1082,7 @@ Popup text: 'You've Got $136 OFF', options 'RODENT PROBLEM' and 'RODENT PREVENTI
 
 ## [00:32:45] RodentStoppers Rat Vac Product Detail Page
 
-frame: 023_00-32-45.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:32:45](https://drive.google.com/file/d/15PETIDDR7UEtvHYDrt0b3tYMMy6PPxuM/view?usp=drivesdk) · `023_00-32-45.png`
 
 *product page*
 
@@ -1096,7 +1096,7 @@ Product title '(TEST)', exact price '$249.99', specific feature bullet points.
 
 ## [00:32:50] Meta Ads Manager Ad Sets Performance Metrics
 
-frame: 023_00-32-50.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:32:50](https://drive.google.com/file/d/1pGcEKG-V8Vi1v5hL8KYpRj8zIh5ngodq/view?usp=drivesdk) · `023_00-32-50.png`
 
 *software demo*
 
@@ -1110,7 +1110,7 @@ Campaign names, ROAS figures (5.17 vs 1.50), CVR (3.00% vs 3.65%), AOV ($582.88 
 
 ## [00:32:55] Bundle & Save Offer Structure Slide
 
-frame: 023_00-32-55.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:32:55](https://drive.google.com/file/d/1tMJZ9bgVonhNyqJjtL2OGAgGjtEBWdJ-/view?usp=drivesdk) · `023_00-32-55.png`
 
 *slide*
 
@@ -1129,7 +1129,7 @@ Exact pricing: Regular $265 Now for $186.00, Regular $371 now $249. Bundle names
 
 ## [00:33:10] Margin and Offer Breakdown Spreadsheet
 
-frame: 023_00-33-10.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:33:10](https://drive.google.com/file/d/1OCl7bCYjpA9KMSbmlKvBTVwNggBI4uUp/view?usp=drivesdk) · `023_00-33-10.png`
 
 *spreadsheet* | legibility: partly legible
 
@@ -1150,7 +1150,7 @@ All gateway fees, COGS, BE ROAS values (1.42, 1.39, 1.89, 1.52), margin dollar a
 
 ## [00:33:15] Happy Mammoth Hormone Harmony Product Page Options
 
-frame: 023_00-33-15.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:33:15](https://drive.google.com/file/d/1cDRoma_txO_aGyYBI3tG24MnqSZs-acs/view?usp=drivesdk) · `023_00-33-15.png`
 
 *product page*
 
@@ -1164,7 +1164,7 @@ Exact pricing options: $59.99 for 1 Jar, $47.49 each for 2 Jars, $49.99 each for
 
 ## [00:33:20] Hormone Harmony 4 Jars Best Value Selected
 
-frame: 023_00-33-20.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:33:20](https://drive.google.com/file/d/1aiK_fzwDKHRbKHTmUEswUYweh7cKwkom/view?usp=drivesdk) · `023_00-33-20.png`
 
 *product page*
 
@@ -1178,7 +1178,7 @@ One-time purchase bundle price of $199.99, Shop Pay installment amount ($50.00 U
 
 ## [00:33:35] Happy Mammoth Hormone Harmony Full Page Header
 
-frame: 023_00-33-35.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:33:35](https://drive.google.com/file/d/1A2EVTYQqU3rkhN18-XcBXtMM3WHFYdiZ/view?usp=drivesdk) · `023_00-33-35.png`
 
 *product page*
 
@@ -1192,7 +1192,7 @@ Scarcity banner copy ('ONLY 26771 DISCOUNTED JARS LEFT!'), customer count ('2.4 
 
 ## [00:34:00] Before vs After Revenue & Profit Per Session Comparison
 
-frame: 023_00-34-00.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:34:00](https://drive.google.com/file/d/1A_5OPfN1QJzS83VZLYknVsgVB-16Pdgk/view?usp=drivesdk) · `023_00-34-00.png`
 
 *spreadsheet*
 
@@ -1217,7 +1217,7 @@ Exact figures for Before ($59.99 AOV, $0.60 RPS, 1.00% CVR, $0.36 PPS) and After
 
 ## [00:34:15] Buy X Get X Free Offer Types Slide
 
-frame: 023_00-34-15.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:34:15](https://drive.google.com/file/d/1sus3Ei9RkqHpIOrPIR0v1Nhakb-kIYW1/view?usp=drivesdk) · `023_00-34-15.png`
 
 *slide*
 
@@ -1237,7 +1237,7 @@ Flow Pouches bundle image example showing tiers like 'Buy 2, Get 1 Free', 'Buy 4
 
 ## [00:34:30] Free Shipping Offer Variations Slide
 
-frame: 023_00-34-30.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:34:30](https://drive.google.com/file/d/1DBO-oWdKNvIfntNdppFujh8lX9aDnHmc/view?usp=drivesdk) · `023_00-34-30.png`
 
 *slide*
 
@@ -1258,7 +1258,7 @@ Bullet 4 'Free Expedited Shipping', tag 'Recommend as an Add-On (not core offer)
 
 ## [00:35:00] Shopify Admin Product Setup Screen
 
-frame: 023_00-35-00.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:35:00](https://drive.google.com/file/d/15QcRr7nXwuYvYVDUbiZtm0OEoZFTWfkw/view?usp=drivesdk) · `023_00-35-00.png`
 
 *software demo*
 
@@ -1275,7 +1275,7 @@ Full Shopify product edit page view showing title 'Rat Vac Motion-Sensor Rodent 
 
 ## [00:35:10] Shopify Discount Combinations Configuration
 
-frame: 023_00-35-10.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:35:10](https://drive.google.com/file/d/1JULdJ8ePaJnMTql8Lfw4YZQvgtBE1gbG/view?usp=drivesdk) · `023_00-35-10.png`
 
 *software demo*
 
@@ -1292,7 +1292,7 @@ Specific combination details ('FREESHIP could combine with 9 discounts at checko
 
 ## [00:35:25] Shopify Shareable Discount Link Modal
 
-frame: 023_00-35-25.png (Drive: https://drive.google.com/file/d/1Q8NKwpHo5Hn6ECN3Ar3hDzD8qH4iZz2X/view?usp=drivesdk)
+[frame 00:35:25](https://drive.google.com/file/d/1HfgCzdUWbc7s-IGaUicPulT6TfCgpn0l/view?usp=drivesdk) · `023_00-35-25.png`
 
 *software demo*
 

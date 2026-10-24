@@ -1,14 +1,14 @@
 # 55. The Origins creative roadmap - Visual notes
 
 - **Frames kept:** 10 of 22 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [055-the-origins-creative-roadmap-frames.zip](https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/055-the-origins-creative-roadmap](https://drive.google.com/drive/folders/1bTShGUGpB7BzzTsGeX2RGy1VuxPwlycU)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:05] Ad Hit Rate Percentage Dashboard
 
-frame: 055_00-00-05.png (Drive: https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk)
+[frame 00:00:05](https://drive.google.com/file/d/1wySvsUh5Fnz-AnSBZL9X8YhR_53pq19q/view?usp=drivesdk) · `055_00-00-05.png`
 
 *spreadsheet*
 
@@ -26,7 +26,7 @@ Formula used for hit rate calculation: '=sum('Creative Roadmap'!K2)/('Creative R
 
 ## [00:00:45] Creative Roadmap Spreadsheet Columns
 
-frame: 055_00-00-45.png (Drive: https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk)
+[frame 00:00:45](https://drive.google.com/file/d/1HeidRdWDW2xre9-ZFcaDfmEJh9C1iZ7l/view?usp=drivesdk) · `055_00-00-45.png`
 
 *spreadsheet*
 
@@ -49,7 +49,7 @@ Carepod humidifier example details: 'Pullet Mist Static', 'Safety For Their Fami
 
 ## [00:00:50] Creative Roadmap Results and Learnings Columns
 
-frame: 055_00-00-50.png (Drive: https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk)
+[frame 00:00:50](https://drive.google.com/file/d/1YOsHDkBueUbJB--4OM4P2PosqLr8Aouy/view?usp=drivesdk) · `055_00-00-50.png`
 
 *spreadsheet*
 
@@ -66,7 +66,7 @@ Exact learnings text for row 3: 'this ad is too product aware / For the current 
 
 ## [00:01:10] Origins Program Course Navigation
 
-frame: 055_00-01-10.png (Drive: https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk)
+[frame 00:01:10](https://drive.google.com/file/d/12bsos-26ddqx3bLqjbZlHTazqtzUGZGf/view?usp=drivesdk) · `055_00-01-10.png`
 
 *webpage*
 
@@ -87,7 +87,7 @@ Full Google Sheets URL for the creative roadmap template: 'https://docs.google.c
 
 ## [00:01:15] Direct Avatar Callout Ad Template
 
-frame: 055_00-01-15.png (Drive: https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk)
+[frame 00:01:15](https://drive.google.com/file/d/1yvgDrj7aBGupjHunTjhcryfvhlc48EPD/view?usp=drivesdk) · `055_00-01-15.png`
 
 *ad example*
 
@@ -103,7 +103,7 @@ Specific review copy, reviewer name ('Kristina Hickok Daheim'), and visual compo
 
 ## [00:02:00] The 3 Testing Methods Overview
 
-frame: 055_00-02-00.png (Drive: https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk)
+[frame 00:02:00](https://drive.google.com/file/d/1u-LD3XrYFZ6ui7Y7MFT0WdarrMYFlcIC/view?usp=drivesdk) · `055_00-02-00.png`
 
 *webpage*
 
@@ -122,7 +122,7 @@ Video Tests = Sniper'
 
 ## [00:03:05] Entering Ad Concept and Angles in Roadmap
 
-frame: 055_00-03-05.png (Drive: https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk)
+[frame 00:03:05](https://drive.google.com/file/d/1D3tF97fnAvyMGumjwy8G_-gcUgamV7in/view?usp=drivesdk) · `055_00-03-05.png`
 
 *spreadsheet*
 
@@ -135,7 +135,7 @@ Row 4 data entry:
 
 ## [00:04:00] Testing Rationale and Hooks in Creative Roadmap
 
-frame: 055_00-04-00.png (Drive: https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk)
+[frame 00:04:00](https://drive.google.com/file/d/1_6iJa-Xu5mbjHpvqQZ67a2j_USUsfq8d/view?usp=drivesdk) · `055_00-04-00.png`
 
 *spreadsheet*
 
@@ -155,7 +155,7 @@ Specific notes template entered in cell G4.
 
 ## [00:04:40] Creative Roadmap with Results Logged
 
-frame: 055_00-04-40.png (Drive: https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk)
+[frame 00:04:40](https://drive.google.com/file/d/1xiLUAN9jtjE7xxWE2YX4n2OVWZ07yQpy/view?usp=drivesdk) · `055_00-04-40.png`
 
 *spreadsheet*
 
@@ -171,7 +171,7 @@ Dropdown UI showing green styling for 'Winning Ad' in column K.
 
 ## [00:06:20] Defining Winning and Superwinning Ads in Roadmap
 
-frame: 055_00-06-20.png (Drive: https://drive.google.com/file/d/17_Iso381YBxGXkyPA-l-s6zn6APX1bcj/view?usp=drivesdk)
+[frame 00:06:20](https://drive.google.com/file/d/1W_PJ9XkYIM0CH9RuyQeVbWiQ5wLjkPqQ/view?usp=drivesdk) · `055_00-06-20.png`
 
 *spreadsheet*
 

@@ -1,14 +1,14 @@
 # 80. Full YouTube media buying strategy - Visual notes
 
 - **Frames kept:** 160 of 516 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 1280x720 (native), PNG frames in Google Drive as [080-full-youtube-media-buying-strategy-frames.zip](https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+- **Resolution:** 1280x720 (native), PNG frames in Google Drive, one file per frame, in folder [frames/080-full-youtube-media-buying-strategy](https://drive.google.com/drive/folders/1_rTDANqTw4zwAl-ioctnV4rdNZkPNDA2)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:03] Meta Ads Manager dashboard showing ad spend and ROAS
 
-frame: 080_00-00-03.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:00:03](https://drive.google.com/file/d/1mGPXhk8ASQlfZAnq8otTowmRnQkXKPWO/view?usp=drivesdk) · `080_00-00-03.png`
 
 *software demo*
 
@@ -26,7 +26,7 @@ Date range: Apr 20, 2025 – May 19, 2025; Exact spend: $2,231,570.60; ROAS: 2.6
 
 ## [00:00:29] Graphic displaying revenue figure
 
-frame: 080_00-00-29.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:00:29](https://drive.google.com/file/d/1zky8JePGwRvOccs1HyVP-s4VjMlZ69tU/view?usp=drivesdk) · `080_00-00-29.png`
 
 *other*
 
@@ -40,7 +40,7 @@ $11,976,442
 
 ## [00:01:02] Topic overview cards
 
-frame: 080_00-01-02.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:01:02](https://drive.google.com/file/d/15J7Tiemhvb-OdafFGMg7Ntbi6OuzWBxF/view?usp=drivesdk) · `080_00-01-02.png`
 
 *slide*
 
@@ -52,7 +52,7 @@ Card topics displayed in motion:
 
 ## [00:02:16] Blank Meta Ads Manager Setup Interface
 
-frame: 080_00-02-16.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:02:16](https://drive.google.com/file/d/156RNyLwoESAAg2Qbn-gFEhA7zQt_HYvq/view?usp=drivesdk) · `080_00-02-16.png`
 
 *software demo*
 
@@ -71,7 +71,7 @@ Date range set to 'Last 30 days: Apr 20, 2025 - May 19, 2025'; custom column pre
 
 ## [00:04:10] Configuring customized reporting columns in Meta Ads Manager
 
-frame: 080_00-04-10.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:04:10](https://drive.google.com/file/d/15OLfXrpSqzzG06V7cF9dr-KlglQ6i4t6/view?usp=drivesdk) · `080_00-04-10.png`
 
 *software demo*
 
@@ -98,7 +98,7 @@ Preset name 'EAM ($)'; category list on the left with selection counts; right pa
 
 ## [00:04:33] Custom metrics list and CVR metric definition in Ads Manager
 
-frame: 080_00-04-33.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:04:33](https://drive.google.com/file/d/1EHH-05R-rfZKnFaPqUFV9vaZvvCDx6fj/view?usp=drivesdk) · `080_00-04-33.png`
 
 *software demo*
 
@@ -138,7 +138,7 @@ Metric creator name 'Shaun Eng'; specific custom metric names in list (OBC>LP, A
 
 ## [00:04:58] Creating custom metric Purchase CVR formula setup
 
-frame: 080_00-04-58.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:04:58](https://drive.google.com/file/d/1zdraFYb43dJ9FaNUhqvIyHsqOISnonJI/view?usp=drivesdk) · `080_00-04-58.png`
 
 *software demo*
 
@@ -163,7 +163,7 @@ Character limit for Name (12/100); Description field (0/350); popular custom for
 
 ## [00:06:06] Renaming Ad Set inline in Meta Ads Manager
 
-frame: 080_00-06-06.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:06:06](https://drive.google.com/file/d/1cWrjVu-9-wU_N4tjuHHnRNHmfThxCV1R/view?usp=drivesdk) · `080_00-06-06.png`
 
 *software demo*
 
@@ -180,7 +180,7 @@ Location targeting is set to 'CA'. Buttons: 'Cancel', 'Save to draft'.
 
 ## [00:06:28] Ad Set editing view in Meta Ads Manager
 
-frame: 080_00-06-28.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:06:28](https://drive.google.com/file/d/1DlloHRPdTl-UwRc-vPWEHPx7QNaGtlQo/view?usp=drivesdk) · `080_00-06-28.png`
 
 *software demo*
 
@@ -201,7 +201,7 @@ Shows the campaign hierarchy tree on the left and dynamic creative deprecation w
 
 ## [00:07:33] Ads tab reporting columns in Meta Ads Manager
 
-frame: 080_00-07-33.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:07:33](https://drive.google.com/file/d/1IMBXp2Cn1Tchz6yEsi3QTtxd_42dQ2t6/view?usp=drivesdk) · `080_00-07-33.png`
 
 *software demo*
 
@@ -218,7 +218,7 @@ Column metrics setup for ad-level view including CPM and CPC columns.
 
 ## [00:07:52] Topic slide: Naming Schemes
 
-frame: 080_00-07-52.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:07:52](https://drive.google.com/file/d/1_ng4jmaU1gKq4yKOluJJTAXw8HWiww56/view?usp=drivesdk) · `080_00-07-52.png`
 
 *title card*
 
@@ -229,7 +229,7 @@ Stylized graphic card on pink background:
 
 ## [00:08:04] Custom report view showing account spend and ROAS
 
-frame: 080_00-08-04.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:08:04](https://drive.google.com/file/d/1orcjX4usGTY2X3CzlogJBxokN9oV7DVI/view?usp=drivesdk) · `080_00-08-04.png`
 
 *software demo*
 
@@ -245,7 +245,7 @@ Exact total spend ($2,231,570.60) and ROAS (2.69) visible in pivot table view.
 
 ## [00:09:44] Professor Charley T Twitter/X profile callout
 
-frame: 080_00-09-44.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:09:44](https://drive.google.com/file/d/1O0UO9f7Via9-1Agv6Enhbhekr1yodI84/view?usp=drivesdk) · `080_00-09-44.png`
 
 *social post*
 
@@ -263,7 +263,7 @@ Joined July 2020 | 6,228 Following | 18.6K Followers
 
 ## [00:10:32] Meta Ads Manager campaign creation objective selection
 
-frame: 080_00-10-32.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:10:32](https://drive.google.com/file/d/1_bxkeVKAuJl4rUpRz5k3rjHlfYKim7hd/view?usp=drivesdk) · `080_00-10-32.png`
 
 *software demo*
 
@@ -281,7 +281,7 @@ Left sidebar structure shows ad set named 'Broad Adset Women - 35+' and ads 'New
 
 ## [00:10:41] Choose a campaign setup modal in Meta Ads Manager
 
-frame: 080_00-10-41.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:10:41](https://drive.google.com/file/d/1qxsGY2bGdAyOmfPL4fqBmhyveXqG-7wT/view?usp=drivesdk) · `080_00-10-41.png`
 
 *software demo*
 
@@ -298,7 +298,7 @@ Text for Advantage+ shopping campaign: 'Maximize performance and reach valuable 
 
 ## [00:10:48] New campaign level settings options in Meta Ads Manager
 
-frame: 080_00-10-48.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:10:48](https://drive.google.com/file/d/1j0_VYPeo4a_GYTKEwySLCfiBHtMmBAWe/view?usp=drivesdk) · `080_00-10-48.png`
 
 *software demo*
 
@@ -318,7 +318,7 @@ Explaining text under Advantage campaign budget: 'Distribute your budget across 
 
 ## [00:11:16] Renamed campaign settings overview in Meta Ads Manager
 
-frame: 080_00-11-16.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:11:16](https://drive.google.com/file/d/1k2gxy93NRKFqplCk0LOw0aosbd4L155Y/view?usp=drivesdk) · `080_00-11-16.png`
 
 *software demo*
 
@@ -339,7 +339,7 @@ Exact campaign naming string shown: 'EAM//Acquisition//US//CBO'.
 
 ## [00:11:20] Enabling Advantage campaign budget (CBO) settings
 
-frame: 080_00-11-20.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:11:20](https://drive.google.com/file/d/1u2-0cUORXWzd211uvfw7CXmwKMbWewxI/view?usp=drivesdk) · `080_00-11-20.png`
 
 *software demo*
 
@@ -358,7 +358,7 @@ Daily budget default shown as $20.00 CAD, max daily spend $35.00, weekly max $14
 
 ## [00:11:25] Campaign testing rules and FAQ notes document
 
-frame: 080_00-11-25.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:11:25](https://drive.google.com/file/d/1iHmV80qTd_dHT5UHegieOFkyY0yfVQ3t/view?usp=drivesdk) · `080_00-11-25.png`
 
 *document*
 
@@ -389,7 +389,7 @@ Structure details: '1 Champions Ad set, Multiple Creative Test Ad Sets; 3 creati
 
 ## [00:11:26] Formula for max number of creatives to test per week
 
-frame: 080_00-11-26.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:11:26](https://drive.google.com/file/d/1jnIpizsYBY973kNBrFqf2ixMqWD7BX5k/view?usp=drivesdk) · `080_00-11-26.png`
 
 *document*
 
@@ -415,7 +415,7 @@ Formula text and full calculation: 'Total Tests = Budget/TCPA', '$100/$20 = 5', 
 
 ## [00:11:36] Configuring Daily Budget in Meta Advantage Campaign Budget
 
-frame: 080_00-11-36.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:11:36](https://drive.google.com/file/d/1N3md1iYtGxgwOkSDtugp-7ov_7NHXuPj/view?usp=drivesdk) · `080_00-11-36.png`
 
 *software demo*
 
@@ -436,7 +436,7 @@ Budget value '$20.00 CAD', text stating maximum daily spend is $35.00 and weekly
 
 ## [00:16:00] Configuring Daily Budget and Campaign Bid Strategy in Meta Ads Manager
 
-frame: 080_00-16-00.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:16:00](https://drive.google.com/file/d/1g05MXZ_Ysy-NEqv3syDbT9t2xDjIboY7/view?usp=drivesdk) · `080_00-16-00.png`
 
 *software demo*
 
@@ -457,7 +457,7 @@ CAD currency specification; Budget scheduling checkbox; A/B test set to Off; Aud
 
 ## [00:16:48] Campaign bid strategy dropdown selected in Meta Ads Manager
 
-frame: 080_00-16-48.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:16:48](https://drive.google.com/file/d/1eXvx7gZTvR95uq8SkGuYPdlPEk1yjC-R/view?usp=drivesdk) · `080_00-16-48.png`
 
 *software demo*
 
@@ -474,7 +474,7 @@ Text label below Campaign bid strategy: 'How we'll bid in ad auctions.'
 
 ## [00:19:16] Audience segment reporting and special ad categories in Meta Ads Manager
 
-frame: 080_00-19-16.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:19:16](https://drive.google.com/file/d/14KXjw9yNh6mGLSniQT6ooy_j3X5vq2lX/view?usp=drivesdk) · `080_00-19-16.png`
 
 *software demo*
 
@@ -494,7 +494,7 @@ Budget scheduling option, A/B test toggle setting (Off), Special Ad Categories s
 
 ## [00:19:23] Navigating to Audiences from Ads Manager side menu
 
-frame: 080_00-19-23.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:19:23](https://drive.google.com/file/d/1hcT75TDkEB-VY2k18IiXZ9vp_zrWuMVG/view?usp=drivesdk) · `080_00-19-23.png`
 
 *software demo*
 
@@ -516,7 +516,7 @@ Account Overview, Ads Reporting, Advertising settings, Billing & payments, Event
 
 ## [00:19:27] Choosing a custom audience source in Meta Audiences
 
-frame: 080_00-19-27.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:19:27](https://drive.google.com/file/d/1_-M28TBm6OdDkCp0-9aiCQlnOXbl37E5/view?usp=drivesdk) · `080_00-19-27.png`
 
 *software demo*
 
@@ -547,7 +547,7 @@ Full list of sources including App activity, Offline activity, Catalog, Video, I
 
 ## [00:19:33] Create a website custom audience modal in Meta Ads
 
-frame: 080_00-19-33.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:19:33](https://drive.google.com/file/d/1IEZyTvqbrKC_JRztNVE6IF8DPI6RidPk/view?usp=drivesdk) · `080_00-19-33.png`
 
 *software demo*
 
@@ -566,7 +566,7 @@ Criteria dropdown ('Any'), character limits (0/50, 0/100), buttons 'Include more
 
 ## [00:19:55] Prepare customer list guidelines table in Meta Ads
 
-frame: 080_00-19-55.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:19:55](https://drive.google.com/file/d/1P2Us1GDL7GKM-ZJlsx69UhsenD0m1xAS/view?usp=drivesdk) · `080_00-19-55.png`
 
 *software demo*
 
@@ -585,7 +585,7 @@ Step tracker (Add list, Match columns, Upload, Confirmation), Import from Mailch
 
 ## [00:21:02] Configuring ad level with existing post in Meta Ads Manager
 
-frame: 080_00-21-02.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:21:02](https://drive.google.com/file/d/10vjuUd3zUT7PUSsAhILug2TwBLOSHT3A/view?usp=drivesdk) · `080_00-21-02.png`
 
 *software demo*
 
@@ -605,7 +605,7 @@ Instagram account handle easya_media, Threads profile option, Multi-advertiser a
 
 ## [00:21:12] Finding Facebook Ads Post ID tutorial reference
 
-frame: 080_00-21-12.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:21:12](https://drive.google.com/file/d/1kcOhJER5VUzgGfxQcwInjVutnch1jQo7/view?usp=drivesdk) · `080_00-21-12.png`
 
 *social post* | legibility: partly legible
 
@@ -620,7 +620,7 @@ Channel name 'Spencer Pawliw', video title 'How To Find a Facebook Ads Post ID I
 
 ## [00:21:33] Ad set conversion location and performance goal configuration
 
-frame: 080_00-21-33.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:21:33](https://drive.google.com/file/d/1amgwj8bcglojA64y2ocfg5rntsr1h-2i/view?usp=drivesdk) · `080_00-21-33.png`
 
 *software demo*
 
@@ -640,7 +640,7 @@ Dataset name: 'EAM-YOUTUBE'; campaign naming hierarchy: 'EAM//Acquisition//US//C
 
 ## [00:22:27] Standard attribution window settings in Meta Ads Manager
 
-frame: 080_00-22-27.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:22:27](https://drive.google.com/file/d/1oZODKomWnoaoegXcmtc85Sd21BJg2fnT/view?usp=drivesdk) · `080_00-22-27.png`
 
 *software demo*
 
@@ -662,7 +662,7 @@ View-through default setting visible as '1 day'. Notice stating dynamic creative
 
 ## [00:23:09] Click-through attribution options dropdown in Meta Ads Manager
 
-frame: 080_00-23-09.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:23:09](https://drive.google.com/file/d/1SLmofpuKUYbInXYeSl7OyVDrlVK7_4qA/view?usp=drivesdk) · `080_00-23-09.png`
 
 *software demo*
 
@@ -677,7 +677,7 @@ Meta Ads Manager - Standard attribution selections:
 
 ## [00:23:33] Meta Ads attribution settings and dynamic creative notice
 
-frame: 080_00-23-33.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:23:33](https://drive.google.com/file/d/1SRxlR8VKoWXYBBU4tzIZX6N4iL7cco3R/view?usp=drivesdk) · `080_00-23-33.png`
 
 *software demo*
 
@@ -697,7 +697,7 @@ Dynamic creative toggle status (Off), exact text of the warning that Dynamic cre
 
 ## [00:24:43] Ad set attribution settings with view-through set to None
 
-frame: 080_00-24-43.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:24:43](https://drive.google.com/file/d/1aqFfqA3gdV3XG6B_7y60oKUnycd1Xzh6/view?usp=drivesdk) · `080_00-24-43.png`
 
 *software demo*
 
@@ -718,7 +718,7 @@ Standard attribution vs Incremental attribution radio buttons visible, campaign 
 
 ## [00:26:17] Attribution setting with engaged-view and view-through disabled
 
-frame: 080_00-26-17.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:26:17](https://drive.google.com/file/d/1-ZH5XKOrqS40_bylg2AQ0BALSxs7pQZy/view?usp=drivesdk) · `080_00-26-17.png`
 
 *software demo*
 
@@ -737,7 +737,7 @@ Engaged-view dropdown set to 'None' alongside View-through set to 'None'.
 
 ## [00:28:07] Audience controls setup in Meta Ads Manager
 
-frame: 080_00-28-07.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:28:07](https://drive.google.com/file/d/1-O4-9EQ2d-RWm8wKVcRjy2fvyBiZ1-B1/view?usp=drivesdk) · `080_00-28-07.png`
 
 *software demo*
 
@@ -757,7 +757,7 @@ Excluded custom audiences input field, Minimum age default (18), Languages set t
 
 ## [00:29:08] Exclude custom audiences section in Meta Ads Manager
 
-frame: 080_00-29-08.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:29:08](https://drive.google.com/file/d/1DIh2WX_FKmkJ0DJil5ozEzBcjV7U-y1z/view?usp=drivesdk) · `080_00-29-08.png`
 
 *software demo*
 
@@ -771,7 +771,7 @@ Campaign name: EAM//Acquisition//US//CBO; Ad set: Champions Adset; Locations: In
 
 ## [00:29:13] Audiences overview screen in Meta Ads Manager
 
-frame: 080_00-29-13.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:29:13](https://drive.google.com/file/d/1780uFv9tycj8SIte4UKOtFwJEdsdJXcy/view?usp=drivesdk) · `080_00-29-13.png`
 
 *software demo*
 
@@ -785,7 +785,7 @@ Account name: EAM-YouTube (17886493...). Description text explaining Custom audi
 
 ## [00:30:06] Advantage+ audience expansion notice in Meta Ads Manager
 
-frame: 080_00-30-06.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:30:06](https://drive.google.com/file/d/1jczlDQ2yeKsVe2r9FnqQ1VPanOhboPmI/view?usp=drivesdk) · `080_00-30-06.png`
 
 *software demo*
 
@@ -799,7 +799,7 @@ Age: 18 - 65+, Gender: All genders. Link: 'Switch to original audience options'.
 
 ## [00:31:28] Meta Ads Manager custom audience exclusions setup
 
-frame: 080_00-31-28.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:31:28](https://drive.google.com/file/d/1lP6gdI0U6IaVhDYvpPEONbRvdGO8pKdt/view?usp=drivesdk) · `080_00-31-28.png`
 
 *software demo*
 
@@ -813,7 +813,7 @@ Terms warning pop-up: 'You'll need to accept the Meta Business Tools Terms befor
 
 ## [00:31:35] Expanded audience exclusions list in Meta Ads Manager
 
-frame: 080_00-31-35.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:31:35](https://drive.google.com/file/d/1GavjmHBrmQDkGG9sVj-95y1AUsBaMgkA/view?usp=drivesdk) · `080_00-31-35.png`
 
 *software demo*
 
@@ -827,7 +827,7 @@ Additional exclusion rows visible: 'PUR 30' and 'Customer List'.
 
 ## [00:32:00] Placements settings in Meta Ads Manager
 
-frame: 080_00-32-00.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:32:00](https://drive.google.com/file/d/1rFXbFs7QQ96iSiAk9E_REPzFlfMBpls3/view?usp=drivesdk) · `080_00-32-00.png`
 
 *software demo*
 
@@ -841,7 +841,7 @@ Breadcrumbs: 'EAM//Acquisition//US/CBO > Champions Adset > 1 Ad'. Left sidebar s
 
 ## [00:32:06] Duplicate ad set modal dialog
 
-frame: 080_00-32-06.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:32:06](https://drive.google.com/file/d/1dpb1dDamznZpxzy3_b1FfLL18iGIULkO/view?usp=drivesdk) · `080_00-32-06.png`
 
 *software demo*
 
@@ -858,7 +858,7 @@ Radio buttons: 'Existing campaign', 'New campaign'. Number of copies input defau
 
 ## [00:32:11] Topic title card: How to properly creative test
 
-frame: 080_00-32-11.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:32:11](https://drive.google.com/file/d/15O7RRnoKK2J2ClRw33xYre1Yo200nR_R/view?usp=drivesdk) · `080_00-32-11.png`
 
 *title card*
 
@@ -868,7 +868,7 @@ Pink gradient title card with a glassmorphism media player window displaying tex
 
 ## [00:33:51] Creative test ad set audience exclusion setup
 
-frame: 080_00-33-51.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:33:51](https://drive.google.com/file/d/14zieGzIKkQDvnKyDUQJQ5emWyXPBYYoo/view?usp=drivesdk) · `080_00-33-51.png`
 
 *software demo*
 
@@ -882,7 +882,7 @@ Ad set renamed to 'Creative Test Adset #1' with nested 'New Ad #1' showing warni
 
 ## [00:35:12] Ad level identity setup in Meta Ads Manager
 
-frame: 080_00-35-12.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:35:12](https://drive.google.com/file/d/1rugRQ5rmy9JdOW-ASv8n2BNWeDbvKz7v/view?usp=drivesdk) · `080_00-35-12.png`
 
 *software demo*
 
@@ -901,7 +901,7 @@ Ad set name displayed as 'Creative BATCH #1 Adset'. Facebook Page: 'EasyA'. Inst
 
 ## [00:36:25] Meta Ads Manager branding setup tooltip
 
-frame: 080_00-36-25.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:36:25](https://drive.google.com/file/d/1Gc4SRO0Wx6J_HKEyQpVVD3gJbTGAD4-F/view?usp=drivesdk) · `080_00-36-25.png`
 
 *software demo*
 
@@ -915,7 +915,7 @@ Branding button text: 'Add branding', status: 'Inactive'. Ad setup selector set 
 
 ## [00:36:38] Meta Ads Manager Branding settings modal
 
-frame: 080_00-36-38.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:36:38](https://drive.google.com/file/d/17Lo_iq4vLayO2H6TjUyHTRiKHxnOPLMD/view?usp=drivesdk) · `080_00-36-38.png`
 
 *software demo* | legibility: partly legible
 
@@ -929,7 +929,7 @@ Character limit 0/300 for Text tone and Visual style. Font default: 'No preferen
 
 ## [00:37:02] Ad format selection options in Meta Ads Manager
 
-frame: 080_00-37-02.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:37:02](https://drive.google.com/file/d/1bYqaIPQS1MMJDtwXF48YSS0TYHN0Wuow/view?usp=drivesdk) · `080_00-37-02.png`
 
 *software demo*
 
@@ -949,7 +949,7 @@ Options for Single image or video, Carousel, Collection with descriptions. Media
 
 ## [00:37:32] Flexible ad preview in Meta Ads Manager
 
-frame: 080_00-37-32.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:37:32](https://drive.google.com/file/d/18fXx3Ay__ypjeQ_FXWQ2ta5hM9RGjgyu/view?usp=drivesdk) · `080_00-37-32.png`
 
 *software demo* | legibility: partly legible
 
@@ -963,7 +963,7 @@ Account name: 'peekaboo_pillow'. Exact preview card text: 'Say hello to Peekaboo
 
 ## [00:37:43] Recommended creative scaling video reference
 
-frame: 080_00-37-43.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:37:43](https://drive.google.com/file/d/1RFwwDNBBlak_k80szocDCIHF2kT8Ifah/view?usp=drivesdk) · `080_00-37-43.png`
 
 *software demo* | legibility: partly legible
 
@@ -977,7 +977,7 @@ The thumbnail/video says '$50k/day' (transcript says '40k per day'). Column cate
 
 ## [00:38:11] Flexible ad breakdown missing image-level spend
 
-frame: 080_00-38-11.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:38:11](https://drive.google.com/file/d/1H1RN4n5bOZ0HpRmK023BwNPE_nVVuqOn/view?usp=drivesdk) · `080_00-38-11.png`
 
 *software demo*
 
@@ -999,7 +999,7 @@ Exact ad name 'DCT #2_Baby/Dad Static_IMG__PP_C_H_'. Cost per result: $161.95, T
 
 ## [00:38:38] Destination and browser add-on settings in Meta Ads Manager
 
-frame: 080_00-38-38.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:38:38](https://drive.google.com/file/d/1qj3ExyCWUtgHCpWcoL_70bKFpyk5QhXC/view?usp=drivesdk) · `080_00-38-38.png`
 
 *software demo*
 
@@ -1013,7 +1013,7 @@ Browser add-on options list: None, Call, Messenger, Instagram Direct, WhatsApp, 
 
 ## [00:38:47] Media selection modal in Meta Ads Manager
 
-frame: 080_00-38-47.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:38:47](https://drive.google.com/file/d/1b7ZEKi_Dh2N41kWb8lF-HLT2EVr2nLKV/view?usp=drivesdk) · `080_00-38-47.png`
 
 *software demo*
 
@@ -1027,7 +1027,7 @@ Steps on left: Creative setup, Media, Crop, Text, Image generation, Enhancements
 
 ## [00:38:49] Selecting ad media in Meta Ads Manager
 
-frame: 080_00-38-49.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:38:49](https://drive.google.com/file/d/1KMgSRnQS3l1-AbwiJNz42K1HQv1Ba85k/view?usp=drivesdk) · `080_00-38-49.png`
 
 *software demo*
 
@@ -1041,7 +1041,7 @@ Image pixel dimensions displayed beneath previews: 1080 x 1350, 1290 x 2293, 100
 
 ## [00:39:12] Media crop settings for placements in Meta Ads Manager
 
-frame: 080_00-39-12.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:39:12](https://drive.google.com/file/d/1oR4C4p6Kf9_2zIy8WfgSLkkBhm5hfZ2v/view?usp=drivesdk) · `080_00-39-12.png`
 
 *software demo*
 
@@ -1055,7 +1055,7 @@ Exact options for aspect ratios: Square (Original, 1:1), Vertical (Original, 9:1
 
 ## [00:39:23] Vertical 9:16 aspect ratio overlay diagram
 
-frame: 080_00-39-23.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:39:23](https://drive.google.com/file/d/1C0YbtlfPHChrAlQww18HTARD2IgvbZFF/view?usp=drivesdk) · `080_00-39-23.png`
 
 *diagram*
 
@@ -1069,7 +1069,7 @@ Visual bounding box showing vertical proportions.
 
 ## [00:39:30] 4:5 safe area inside 9:16 video overlay
 
-frame: 080_00-39-30.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:39:30](https://drive.google.com/file/d/1awAEeRQNAYf1ZcYYbANj5QYlt_uDTTk7/view?usp=drivesdk) · `080_00-39-30.png`
 
 *diagram*
 
@@ -1083,7 +1083,7 @@ Visual comparison showing where the 4:5 frame sits centered within the 9:16 vert
 
 ## [00:39:39] 1:1 square safe area inside 9:16 creative overlay
 
-frame: 080_00-39-39.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:39:39](https://drive.google.com/file/d/1_LABT4iQc0f1aGWHmC2xd6JmgdtTko6T/view?usp=drivesdk) · `080_00-39-39.png`
 
 *diagram*
 
@@ -1097,7 +1097,7 @@ Visual representation of how the 1:1 crop aligns within the taller 9:16 boundary
 
 ## [00:42:21] Setting multiple text and headline options in Meta Ads Manager
 
-frame: 080_00-42-21.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:42:21](https://drive.google.com/file/d/1uw88sDQQ6vvKUZkwu890le1Tu2B2VUXs/view?usp=drivesdk) · `080_00-42-21.png`
 
 *software demo*
 
@@ -1115,7 +1115,7 @@ CTA dropdown menu list visible: Book now, Buy tickets, Contact us, Download, Get
 
 ## [00:42:36] Advantage+ creative AI image generation options in Meta Ads Manager
 
-frame: 080_00-42-36.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:42:36](https://drive.google.com/file/d/19XhJDexutu1TxYx3QpV5nzWZWb6lS3-o/view?usp=drivesdk) · `080_00-42-36.png`
 
 *software demo*
 
@@ -1138,7 +1138,7 @@ Toggle options: 'Add text AI' with font selector 'Playfair Display' and input fi
 
 ## [00:42:48] Advantage+ creative enhancements review panel
 
-frame: 080_00-42-48.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:42:48](https://drive.google.com/file/d/1hCgjWMoq1DtYx7DAbscgCu1JumqA05OS/view?usp=drivesdk) · `080_00-42-48.png`
 
 *software demo*
 
@@ -1157,7 +1157,7 @@ Exact labels: 'For review (5)', 'Other active enhancements (5)', 'Translating pr
 
 ## [00:42:54] Configuring other active creative enhancements in Meta Ads Manager
 
-frame: 080_00-42-54.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:42:54](https://drive.google.com/file/d/180uNqQzId_zOJdTZ253eTfVjilcNUpEx/view?usp=drivesdk) · `080_00-42-54.png`
 
 *software demo*
 
@@ -1171,7 +1171,7 @@ Toggle switch state for Add overlays, Visual touch-ups, Music, and Text improvem
 
 ## [00:43:18] Advantage+ creative review enhancements toggled off
 
-frame: 080_00-43-18.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:43:18](https://drive.google.com/file/d/1dOAWIOLhfw_n8Ywlf3GV_gowPwcH7bR7/view?usp=drivesdk) · `080_00-43-18.png`
 
 *software demo*
 
@@ -1185,7 +1185,7 @@ Detailed cards shown: 'Translate text', 'Add catalog items', '3D animation', 'En
 
 ## [00:43:31] Disabling music and text improvements in active enhancements
 
-frame: 080_00-43-31.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:43:31](https://drive.google.com/file/d/1GCYYLf3iRyi80CMMlo1FTjOlx7K4voaD/view?usp=drivesdk) · `080_00-43-31.png`
 
 *software demo*
 
@@ -1199,7 +1199,7 @@ Demonstrates specific configuration: Music and Text improvements switched off wh
 
 ## [00:44:13] Advantage+ creative enhancements summary status
 
-frame: 080_00-44-13.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:44:13](https://drive.google.com/file/d/1hXCsUaylF6O22cTxADgB8If04ykV8SOV/view?usp=drivesdk) · `080_00-44-13.png`
 
 *software demo*
 
@@ -1213,7 +1213,7 @@ Shows summary ratio (2/10 enhancements active) and exact status text.
 
 ## [00:44:21] Advantage+ creative advanced preview settings overview
 
-frame: 080_00-44-21.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:44:21](https://drive.google.com/file/d/1w-emUdoKxI_3Sh9LN-3HjhuvVE-In0KF/view?usp=drivesdk) · `080_00-44-21.png`
 
 *software demo*
 
@@ -1227,7 +1227,7 @@ Modal: 'Advanced preview' > 'Advantage+ creative'. Shows enhancements: 'Text imp
 
 ## [00:45:31] Ad setup overview and identity settings in Meta Ads Manager
 
-frame: 080_00-45-31.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:45:31](https://drive.google.com/file/d/1_WFxeX6_0IJxBh9c94KDBAQP4p-lMW3j/view?usp=drivesdk) · `080_00-45-31.png`
 
 *software demo*
 
@@ -1250,7 +1250,7 @@ Campaign hierarchy names ('EAM//Acquisition//US/CBO', 'Creative BATCH #1 Adset',
 
 ## [00:45:33] Duplicate your ad modal settings in Meta Ads Manager
 
-frame: 080_00-45-33.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:45:33](https://drive.google.com/file/d/1qdNKmwmOeF7lhW4Ps0JsS6i8wHCopr19/view?usp=drivesdk) · `080_00-45-33.png`
 
 *software demo*
 
@@ -1269,7 +1269,7 @@ Default modal options: 'Existing campaign', 'Existing ad set', Number of copies 
 
 ## [00:45:34] Ad contextual action menu in Meta Ads Manager
 
-frame: 080_00-45-34.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:45:34](https://drive.google.com/file/d/1yDfF9uW-XrJwpe-Q6SY3icH2Z2MpmnXX/view?usp=drivesdk) · `080_00-45-34.png`
 
 *software demo*
 
@@ -1283,7 +1283,7 @@ Action menu options and shortcut keys (Duplicate, Copy, Paste, Delete, Create ru
 
 ## [00:45:44] Ad format and destination settings for duplicated ad
 
-frame: 080_00-45-44.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:45:44](https://drive.google.com/file/d/1xX0vOoAAivKCPlKVOb1LjjNZUlpAQRoJ/view?usp=drivesdk) · `080_00-45-44.png`
 
 *software demo*
 
@@ -1301,7 +1301,7 @@ Website URL easymedia.com, Browser add-ons set to None, ad preview columns.
 
 ## [00:45:58] Media selection dialog in Meta Ads Manager
 
-frame: 080_00-45-58.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:45:58](https://drive.google.com/file/d/1ekb42hvEods0BIqI0sg0ECxOODCsNpw-/view?usp=drivesdk) · `080_00-45-58.png`
 
 *software demo*
 
@@ -1319,7 +1319,7 @@ Media gallery tab choices, dimensions of available assets (1000 x 1000, 1920 x 1
 
 ## [00:46:04] Advantage+ creative image generation prompt
 
-frame: 080_00-46-04.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:46:04](https://drive.google.com/file/d/1rJwHldiSAgaBXmIx72iRz--vSWHwIQwZ/view?usp=drivesdk) · `080_00-46-04.png`
 
 *software demo*
 
@@ -1337,7 +1337,7 @@ Exact lift percentages displayed (11% CTR lift, 8% CVR lift).
 
 ## [00:46:14] Disabling site links enhancement confirmation dialog
 
-frame: 080_00-46-14.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:46:14](https://drive.google.com/file/d/1RkCLAgpRqAoeORZaH8GXJfpOq3wP2qqJ/view?usp=drivesdk) · `080_00-46-14.png`
 
 *software demo*
 
@@ -1354,7 +1354,7 @@ Dropdown prompt 'Why are you turning this enhancement off? Optional', Buttons 'T
 
 ## [00:46:23] Ad creative placements and copy overview for New Ad #2
 
-frame: 080_00-46-23.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:46:23](https://drive.google.com/file/d/132lqq0DWueZMxzinUx5ZKtHcgfzkBDoI/view?usp=drivesdk) · `080_00-46-23.png`
 
 *software demo*
 
@@ -1374,7 +1374,7 @@ Meta Ads Manager ad setup for 'New Ad #2':
 
 ## [00:46:45] Selecting media crop aspect ratios for New Ad #3
 
-frame: 080_00-46-45.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:46:45](https://drive.google.com/file/d/1Hck49aZPfKEVCfSA2uPsGkhj7kgKq9XV/view?usp=drivesdk) · `080_00-46-45.png`
 
 *software demo*
 
@@ -1388,7 +1388,7 @@ Ad creative text visible: 'Going from $5k/Day to $40k/Day Makes you feel some ty
 
 ## [00:46:49] New Ad #3 preview with new creative image
 
-frame: 080_00-46-49.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:46:49](https://drive.google.com/file/d/1OaJzhmAIbhualW27rne4murg6xk19I8u/view?usp=drivesdk) · `080_00-46-49.png`
 
 *software demo*
 
@@ -1402,7 +1402,7 @@ Meta Ads Manager ad editor for 'New Ad #3'. Left sidebar shows ads: 'New Ad #1',
 
 ## [00:47:08] Multi-ad selection across all 3 ads
 
-frame: 080_00-47-08.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:47:08](https://drive.google.com/file/d/1l-g-76nShHJ1Cgj-aWxHUt1k0KqcRcik/view?usp=drivesdk) · `080_00-47-08.png`
 
 *software demo*
 
@@ -1416,7 +1416,7 @@ Status: 'You're editing 3 ads at once'. Meta Pixel warning: 'Website events cann
 
 ## [00:47:10] Duplicate your ads dialog for bulk duplication
 
-frame: 080_00-47-10.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:47:10](https://drive.google.com/file/d/1fxN8GL5v8KuSgNU7RI-8Qy424G1Zbi1y/view?usp=drivesdk) · `080_00-47-10.png`
 
 *software demo*
 
@@ -1430,7 +1430,7 @@ Modal title indicates plural 'Duplicate your ads'. Checkbox setting: 'Show exist
 
 ## [00:47:13] Meta Ads Manager showing duplicated ad batch and tracking settings
 
-frame: 080_00-47-13.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:47:13](https://drive.google.com/file/d/1Cp1gBO6YRbuDdSzenARQn1MiS-65nlGG/view?usp=drivesdk) · `080_00-47-13.png`
 
 *software demo*
 
@@ -1444,7 +1444,7 @@ Pixel ID: 1602392147111447, Warning: 'Your Meta Pixel is not active', Offline Ev
 
 ## [00:47:20] Ad editing screen for duplicated ad copy variations
 
-frame: 080_00-47-20.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:47:20](https://drive.google.com/file/d/1tAmdXHHDTqZXXtUhp4_4DUZurLm1ob_m/view?usp=drivesdk) · `080_00-47-20.png`
 
 *software demo*
 
@@ -1458,7 +1458,7 @@ Optimize text per person is Enabled; Call to action is 'Shop now'; '11 info labe
 
 ## [00:47:39] Destination website URL configuration for duplicated ad batch
 
-frame: 080_00-47-39.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:47:39](https://drive.google.com/file/d/1zAP6Ac9ct5CUMQd4u2pMJ_QlVVO3SB1s/view?usp=drivesdk) · `080_00-47-39.png`
 
 *software demo*
 
@@ -1472,7 +1472,7 @@ Website URL entered: easymedia.com/profit-calcula; Browser add-ons options visib
 
 ## [00:47:41] Profit and ROAS calculator landing page
 
-frame: 080_00-47-41.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:47:41](https://drive.google.com/file/d/1qUTRTF_B7e7QwHvmtIapQjHL_mDp1Zan/view?usp=drivesdk) · `080_00-47-41.png`
 
 *webpage*
 
@@ -1486,7 +1486,7 @@ All specific numbers and calculations shown: Breakeven ROAS 1.67, Service fee $2
 
 ## [00:48:53] Meta Ads Manager ad URL configuration for New Ad #1 - Copy
 
-frame: 080_00-48-53.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:48:53](https://drive.google.com/file/d/1YORFk9Er76uyWQaPS1QiR-kJnOaAIQJk/view?usp=drivesdk) · `080_00-48-53.png`
 
 *software demo*
 
@@ -1500,7 +1500,7 @@ Ad hierarchy shows: EAM//Acquisition//US/CBO > Creative BATCH #1 Adset > New Ad 
 
 ## [00:48:58] Meta Ads Manager ad URL configuration for New Ad #2 - Copy
 
-frame: 080_00-48-58.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:48:58](https://drive.google.com/file/d/1cA9IrAmlrsM3HNir-K2EDCRe1LnRBdwT/view?usp=drivesdk) · `080_00-48-58.png`
 
 *software demo*
 
@@ -1514,7 +1514,7 @@ Selection moved to New Ad #2 - Copy in the left sidebar hierarchy.
 
 ## [00:49:00] Editing Website URL on New Ad #3 - Copy
 
-frame: 080_00-49-00.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:49:00](https://drive.google.com/file/d/1Yo1E98LCGEeiNWd--PNuTBFkGPDf03Tb/view?usp=drivesdk) · `080_00-49-00.png`
 
 *software demo*
 
@@ -1528,7 +1528,7 @@ Cursor hovering over 'Build a URL Parameter' link below Website URL field.
 
 ## [00:49:03] Ad setup and format settings for New Ad #3 - Copy
 
-frame: 080_00-49-03.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:49:03](https://drive.google.com/file/d/1NMmrkPlikczaX93STSmohPa1evnHruCm/view?usp=drivesdk) · `080_00-49-03.png`
 
 *software demo*
 
@@ -1542,7 +1542,7 @@ Options under Media setup include Advantage+ catalog ads; options under Format i
 
 ## [00:49:22] Renaming ad to reflect landing page test name
 
-frame: 080_00-49-22.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:49:22](https://drive.google.com/file/d/1KMkJxuzb-3wp-F2Zn9IRDsJtm87xl2P3/view?usp=drivesdk) · `080_00-49-22.png`
 
 *software demo*
 
@@ -1556,7 +1556,7 @@ Facebook Page selected: 'EasyA'; Instagram account: 'easya_media'. Identity sect
 
 ## [00:49:27] Updating ad name for New Ad #2 - Copy
 
-frame: 080_00-49-27.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:49:27](https://drive.google.com/file/d/1DvhGB1dIEZcdpZ_oyG3NwhmvgBibdEYW/view?usp=drivesdk) · `080_00-49-27.png`
 
 *software demo*
 
@@ -1570,7 +1570,7 @@ Sidebar reflects updated names for ads #1 and #3: 'New Ad #1_LP_Profit' and 'New
 
 ## [00:49:29] Renaming ad New Ad #2_LP_Profit in Meta Ads Manager
 
-frame: 080_00-49-29.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:49:29](https://drive.google.com/file/d/1EEaXWIT0w577xl-PvOzUYfLWidmY0s6J/view?usp=drivesdk) · `080_00-49-29.png`
 
 *software demo*
 
@@ -1584,7 +1584,7 @@ Breadcrumb path: EAM//Acquisition//US//CBO > Creative BATCH #1 Adset; ad preview
 
 ## [00:49:40] Renaming ad to New Ad #3_LP_Home in Meta Ads Manager
 
-frame: 080_00-49-40.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:49:40](https://drive.google.com/file/d/1Jkx8_pKItfyuf_C4lbC3er3t05kA4W89/view?usp=drivesdk) · `080_00-49-40.png`
 
 *software demo*
 
@@ -1598,7 +1598,7 @@ Ad name typed: 'New Ad #3_LP_Home'. Visible list of renamed and pending ads in t
 
 ## [00:51:22] Completed list of 6 ads in Creative BATCH #1 Adset
 
-frame: 080_00-51-22.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:51:22](https://drive.google.com/file/d/1SOvTJr2JNFYn0PtEw67x4xMN3D7eo4S9/view?usp=drivesdk) · `080_00-51-22.png`
 
 *software demo*
 
@@ -1620,7 +1620,7 @@ Shows the exact naming and order of the 6 creative batch ads pairing creative va
 
 ## [00:51:54] Creative BATCH #1 Adset conversion configuration
 
-frame: 080_00-51-54.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:51:54](https://drive.google.com/file/d/1Z677OZmmG8N30M2v6HhOH0gLbBf_Wh_M/view?usp=drivesdk) · `080_00-51-54.png`
 
 *software demo*
 
@@ -1639,7 +1639,7 @@ Dataset selected: 'EAM-YOUTUBE'; Performance goal set to 'Maximize number of con
 
 ## [00:51:56] Duplicating Champions Adset modal
 
-frame: 080_00-51-56.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:51:56](https://drive.google.com/file/d/1aieuZpiAfPBepo2TLir8gguV5c47mJX7/view?usp=drivesdk) · `080_00-51-56.png`
 
 *software demo*
 
@@ -1656,7 +1656,7 @@ Modal interface options for duplicating ad set into original campaign.
 
 ## [00:52:17] Page Test #1 Adset creation in campaign hierarchy
 
-frame: 080_00-52-17.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:52:17](https://drive.google.com/file/d/18X8ecy6YImBEATDedMd1teVxKuAuqo1P/view?usp=drivesdk) · `080_00-52-17.png`
 
 *software demo*
 
@@ -1674,7 +1674,7 @@ Naming of the newly duplicated ad set as 'Page Test #1 Adset'.
 
 ## [00:52:33] Ad preview for New Ad #1_LP_Home
 
-frame: 080_00-52-33.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:52:33](https://drive.google.com/file/d/1OI-PF4l0vp9f9TzDoTnLcoWgLsHanxPN/view?usp=drivesdk) · `080_00-52-33.png`
 
 *software demo*
 
@@ -1691,7 +1691,7 @@ Shows exact creative preview (Shopify revenue dashboard screenshot ad creative) 
 
 ## [00:52:38] Ad action menu options in Meta Ads Manager
 
-frame: 080_00-52-38.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:52:38](https://drive.google.com/file/d/1bx6RTHIV8JccYvhboQsCoIN8Cy9YNKvK/view?usp=drivesdk) · `080_00-52-38.png`
 
 *software demo*
 
@@ -1711,7 +1711,7 @@ Visible context menu with keyboard shortcuts: Duplicate (Ctrl+D), Copy (Ctrl+C),
 
 ## [00:52:44] Pasting duplicated ad into Page Test #1 Adset
 
-frame: 080_00-52-44.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:52:44](https://drive.google.com/file/d/1CDc6OrjNDMKj_fL8-FU5DA35nL8qf9su/view?usp=drivesdk) · `080_00-52-44.png`
 
 *software demo*
 
@@ -1725,7 +1725,7 @@ Ad name input box text 'New Ad #1_LP_Home - Copy', Facebook Page 'EasyA', Instag
 
 ## [00:52:59] Duplicate your ad dialog modal
 
-frame: 080_00-52-59.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:52:59](https://drive.google.com/file/d/155R0eCTLl3_dZ71iQLonjBsyYAIKPg7P/view?usp=drivesdk) · `080_00-52-59.png`
 
 *software demo*
 
@@ -1739,7 +1739,7 @@ Default settings in Duplicate your ad modal: Existing campaign selected, Existin
 
 ## [00:53:15] Multiple duplicated ads in Page Test #1 Adset
 
-frame: 080_00-53-15.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:53:15](https://drive.google.com/file/d/1PlPmIPY8k-d8H1osLcAhueNhmTfVvF4r/view?usp=drivesdk) · `080_00-53-15.png`
 
 *software demo*
 
@@ -1753,7 +1753,7 @@ The naming 'Best Ads #2' and 'Best Ads #3' appearing in the sidebar hierarchy un
 
 ## [00:54:02] Renamed ads to LP_Advertorial in Page Test #1 Adset
 
-frame: 080_00-54-02.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:54:02](https://drive.google.com/file/d/1fPdpESyhlV2HP21CeRPQAXaOSwxldvra/view?usp=drivesdk) · `080_00-54-02.png`
 
 *software demo*
 
@@ -1767,7 +1767,7 @@ Exact naming structure of ads: 'Best Ad #1_LP_Advertorial_#1', 'Best Ads #2_LP_A
 
 ## [00:54:16] Viewing original New Ad #3_LP_Home preview
 
-frame: 080_00-54-16.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:54:16](https://drive.google.com/file/d/1cDlm_T1IlV5S8VCy61ze9RpmNGj4LKQE/view?usp=drivesdk) · `080_00-54-16.png`
 
 *software demo*
 
@@ -1781,7 +1781,7 @@ Specific ad creative graphic text: '$5k/Day to $40k/Day Makes you feel some type
 
 ## [00:54:27] Entering destination URL for landing page test ad
 
-frame: 080_00-54-27.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:54:27](https://drive.google.com/file/d/1dxrqXFwIzu8UiSPddR0a3Wjlb2SxXu0B/view?usp=drivesdk) · `080_00-54-27.png`
 
 *software demo*
 
@@ -1795,7 +1795,7 @@ Exact input field value 'easyamedia.com/adv' in Website URL; Browser add-ons opt
 
 ## [00:56:08] Ad setup under Offer Test ad set in Meta Ads Manager
 
-frame: 080_00-56-08.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:56:08](https://drive.google.com/file/d/15WJTVGKMIpV2WKK1Yk2sc3arLGDVWEhR/view?usp=drivesdk) · `080_00-56-08.png`
 
 *software demo*
 
@@ -1809,7 +1809,7 @@ Ad naming Best Ad #1_LP_Advertorial_#1, Facebook Page 'EasyA', Instagram account
 
 ## [00:56:33] Publish draft items dialog in Meta Ads Manager
 
-frame: 080_00-56-33.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:56:33](https://drive.google.com/file/d/1wrVPJX-jy9rCVrKKrsepH8S206Y5DQij/view?usp=drivesdk) · `080_00-56-33.png`
 
 *software demo*
 
@@ -1823,7 +1823,7 @@ Dialog text and buttons 'Don't show this again', 'Close', 'Publish'. Ad named 'O
 
 ## [00:56:40] Ad sets table view inside Acquisition CBO campaign
 
-frame: 080_00-56-40.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:56:40](https://drive.google.com/file/d/15BdwsQ6lq5696pgUPqRZxGhwmh5etIpp/view?usp=drivesdk) · `080_00-56-40.png`
 
 *software demo*
 
@@ -1837,7 +1837,7 @@ Specific ad sets visible: 'Broad Adset Women - 35+' which is about to be deleted
 
 ## [00:56:56] Clean campaign structure with three core ad sets
 
-frame: 080_00-56-56.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:56:56](https://drive.google.com/file/d/1MYhC0Mo6sjtR2gtklq7rgrq1kkFzTxth/view?usp=drivesdk) · `080_00-56-56.png`
 
 *software demo*
 
@@ -1855,7 +1855,7 @@ Bid strategy 'Highest volume Conversions', Budget setting 'Using campaign...', C
 
 ## [00:58:24] Configuring ad set spending limits in Meta Ads Manager
 
-frame: 080_00-58-24.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:58:24](https://drive.google.com/file/d/1YpPPO2pTm0Fk_npDO977H9rcOmau2wi-/view?usp=drivesdk) · `080_00-58-24.png`
 
 *software demo*
 
@@ -1876,7 +1876,7 @@ Currency is set to CAD (Canadian Dollars). Start date specified as May 21, 2025 
 
 ## [00:58:50] Ad set spending limits fields in Meta Ads Manager
 
-frame: 080_00-58-50.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 00:58:50](https://drive.google.com/file/d/1zPrBL7bawstb7ZbYli5CneNTu5OVPcAB/view?usp=drivesdk) · `080_00-58-50.png`
 
 *software demo*
 
@@ -1895,7 +1895,7 @@ Currency CAD; Start date 'May 21, 2025 12:00 AM PDT'.
 
 ## [01:00:12] Renaming new campaign to EAM//ASC//US//
 
-frame: 080_01-00-12.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:00:12](https://drive.google.com/file/d/1kJRw-7psuKn7hJv3CxFDNQ4ZOj7TIPW_/view?usp=drivesdk) · `080_01-00-12.png`
 
 *software demo*
 
@@ -1912,7 +1912,7 @@ Text being typed into the campaign name field: 'EAM//ASC//US//'; button 'Save to
 
 ## [01:00:19] Choose a campaign setup modal in Meta Ads Manager
 
-frame: 080_01-00-19.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:00:19](https://drive.google.com/file/d/1oQ02wPyDGeFFJKmUosN-gQEQkEdZ7K6U/view?usp=drivesdk) · `080_01-00-19.png`
 
 *software demo*
 
@@ -1929,7 +1929,7 @@ On-screen note: 'ASC is actually ABO but it functions the same as an CBO. Spence
 
 ## [01:00:22] Selecting Advantage+ shopping campaign setup
 
-frame: 080_01-00-22.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:00:22](https://drive.google.com/file/d/1Pv5GDIrdgJqHZKCbiwkSze6w5875QjqQ/view?usp=drivesdk) · `080_01-00-22.png`
 
 *software demo*
 
@@ -1947,7 +1947,7 @@ Tags on Advantage+ shopping campaign: Streamlined, Tailored, Best practices.
 
 ## [01:00:32] Preset campaign settings for Advantage+ shopping campaign
 
-frame: 080_01-00-32.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:00:32](https://drive.google.com/file/d/1UG8wPpu_RJ5W8BYD13vNN0rKaWD0bs2E/view?usp=drivesdk) · `080_01-00-32.png`
 
 *software demo*
 
@@ -1969,7 +1969,7 @@ Close button; 'This campaign includes the following preset settings.' heading te
 
 ## [01:01:34] Configuring ad level settings for Advantage+ shopping campaign
 
-frame: 080_01-01-34.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:01:34](https://drive.google.com/file/d/1991HIurBsEp6swt-U3hj9gfPmlK_zHuk/view?usp=drivesdk) · `080_01-01-34.png`
 
 *software demo*
 
@@ -1991,7 +1991,7 @@ Ad name input 'Advantage+ shopping campaign 05/20', Facebook Page 'EasyA', Insta
 
 ## [01:02:03] Ad sets overview table with Offer Test, Creative BATCH, and Champions
 
-frame: 080_01-02-03.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:02:03](https://drive.google.com/file/d/1O2EeQsBG0RZ1K22WJHzWWXdlzBjlbodE/view?usp=drivesdk) · `080_01-02-03.png`
 
 *software demo*
 
@@ -2010,7 +2010,7 @@ Exact campaign naming string 'EAM//Acquisition//US//CBO', bid strategy 'Highest 
 
 ## [01:03:14] Formula for calculating max creatives to test per week
 
-frame: 080_01-03-14.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:03:14](https://drive.google.com/file/d/1eovxhTwe0korElxkK_RYYvuD7vcXf1Ct/view?usp=drivesdk) · `080_01-03-14.png`
 
 *document*
 
@@ -2040,7 +2040,7 @@ If your budget is above $1,000/day, you are fine to test at will."
 
 ## [01:05:05] Performance table reviewing ad sets after 7 days
 
-frame: 080_01-05-05.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:05:05](https://drive.google.com/file/d/1U8eYapcyy1AWsk9P4xi-r4dsxnYcD26N/view?usp=drivesdk) · `080_01-05-05.png`
 
 *software demo*
 
@@ -2063,7 +2063,7 @@ Exact metric values for BATCH#10, Reach 413, Impressions 517, Frequency 1.25, CP
 
 ## [01:07:25] Evaluating ad performance metrics across ad sets
 
-frame: 080_01-07-25.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:07:25](https://drive.google.com/file/d/1LAEzcQORb6fwlZ_MpYBc69wmnjqRahyr/view?usp=drivesdk) · `080_01-07-25.png`
 
 *software demo*
 
@@ -2086,7 +2086,7 @@ Full conversion value, AOV, CVR, and Reach numbers across all listed ad sets.
 
 ## [01:08:17] Ad set spending limits settings with daily minimum and maximum
 
-frame: 080_01-08-17.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:08:17](https://drive.google.com/file/d/1QiLWSQIWGGYQJNDGo5i-0lGfbiQKPTqt/view?usp=drivesdk) · `080_01-08-17.png`
 
 *software demo*
 
@@ -2110,7 +2110,7 @@ Daily minimum '$20.00 CAD', Start date 'May 21, 2025 12:00 AM PDT', Included loc
 
 ## [01:08:36] Meta Ads Manager campaigns list showing active CBO campaigns
 
-frame: 080_01-08-36.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:08:36](https://drive.google.com/file/d/1dOYV8AvNLx2tUkSon-F6vOgjVTB0_goI/view?usp=drivesdk) · `080_01-08-36.png`
 
 *software demo*
 
@@ -2129,7 +2129,7 @@ Campaign names and daily budgets ($200.00 Daily) shown in the table.
 
 ## [01:08:39] Duplicating existing CBO acquisition campaign modal
 
-frame: 080_01-08-39.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:08:39](https://drive.google.com/file/d/1xiTL5n-Ge8PkJiEysQyORmdT8FhhRuae/view?usp=drivesdk) · `080_01-08-39.png`
 
 *software demo*
 
@@ -2146,7 +2146,7 @@ Setting checkbox 'Show existing reactions, comments and shares on new ads' is ch
 
 ## [01:08:47] Renaming duplicated campaign to Raw-Content CBO campaign
 
-frame: 080_01-08-47.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:08:47](https://drive.google.com/file/d/1VQ9Drsqjh0ekcHQufO1VzsSTj203B2Z3/view?usp=drivesdk) · `080_01-08-47.png`
 
 *software demo*
 
@@ -2164,7 +2164,7 @@ Naming convention: 'EAM//Raw-Content//US/CBO - Copy'; Campaign objective set to 
 
 ## [01:08:56] Deleting Offer Test ad set from duplicated raw content campaign
 
-frame: 080_01-08-56.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:08:56](https://drive.google.com/file/d/1Ee_KPq3uEhS3SUu2XNFZ2CMCQU_PJVNy/view?usp=drivesdk) · `080_01-08-56.png`
 
 *software demo*
 
@@ -2179,7 +2179,7 @@ User selects 'Offer Test #1 Adset' to delete it completely from the raw content 
 
 ## [01:09:01] Ad level view in Creative BATCH #1 Adset
 
-frame: 080_01-09-01.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:09:01](https://drive.google.com/file/d/1kFJ5JnaD-J-KR4yT-TfmXYiRNmcXxA6j/view?usp=drivesdk) · `080_01-09-01.png`
 
 *software demo*
 
@@ -2200,7 +2200,7 @@ Shows the 6 ads split between LP_Home and LP_Profit before pruning.
 
 ## [01:09:05] Deleting duplicate LP test ads to keep single landing page
 
-frame: 080_01-09-05.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:09:05](https://drive.google.com/file/d/17kzSfkNhH9-ZADfuo16-zneShb2VNDbc/view?usp=drivesdk) · `080_01-09-05.png`
 
 *software demo*
 
@@ -2215,7 +2215,7 @@ Selecting 3 ads to remove the secondary landing page variation.
 
 ## [01:09:10] Configuring ad set settings in raw content testing campaign
 
-frame: 080_01-09-10.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:09:10](https://drive.google.com/file/d/10EVFt5IROnUlTvRq9GMXurG_84hutkkt/view?usp=drivesdk) · `080_01-09-10.png`
 
 *software demo*
 
@@ -2234,7 +2234,7 @@ Audience definition shows 'Your audience is broad'; performance goal is 'Maximiz
 
 ## [01:09:27] Ad sets overview for raw content testing campaign
 
-frame: 080_01-09-27.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:09:27](https://drive.google.com/file/d/1n6XKM5tuqBbeingsVxu0kBA1z74dKSJE/view?usp=drivesdk) · `080_01-09-27.png`
 
 *software demo*
 
@@ -2252,7 +2252,7 @@ Ad set name 'Raw Content - BATCH #1 Adset', Campaign name 'EAM//Raw-Content//US/
 
 ## [01:09:43] Rule formula for maximum creatives to test per week
 
-frame: 080_01-09-43.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:09:43](https://drive.google.com/file/d/1iQQBOTaYkG37X3TstltujZBYds3YXFvO/view?usp=drivesdk) · `080_01-09-43.png`
 
 *document*
 
@@ -2281,7 +2281,7 @@ Text on document stating 'this applies to all budgets below $1,000 per day. If y
 
 ## [01:10:21] Meta Ads Manager campaigns list with 4 draft campaigns
 
-frame: 080_01-10-21.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:10:21](https://drive.google.com/file/d/1FHNOIFsiXS_6PN2K9COnRhOvgtOxQy0E/view?usp=drivesdk) · `080_01-10-21.png`
 
 *software demo*
 
@@ -2299,7 +2299,7 @@ Campaign budgets ($200.00 Daily) and exact campaign list entries.
 
 ## [01:10:34] Duplicating acquisition campaign for whitelisting
 
-frame: 080_01-10-34.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:10:34](https://drive.google.com/file/d/1WH6J1oUl4rY3FOZYbOFLw3_fEhGNAGHF/view?usp=drivesdk) · `080_01-10-34.png`
 
 *software demo*
 
@@ -2316,7 +2316,7 @@ Checkbox option: 'Show existing reactions, comments and shares on new ads'
 
 ## [01:10:37] Editing duplicated campaign settings for whitelisting
 
-frame: 080_01-10-37.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:10:37](https://drive.google.com/file/d/1qfhgi3A9z4YI4kwBrHUXYY7o16H767if/view?usp=drivesdk) · `080_01-10-37.png`
 
 *software demo*
 
@@ -2339,7 +2339,7 @@ Sidebar ad set breakdown (Creative BATCH #1 Adset with 6 ads, Offer Test #1 Adse
 
 ## [01:10:46] Ads view under Whitelisting campaign in Ads Manager
 
-frame: 080_01-10-46.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:10:46](https://drive.google.com/file/d/1GCjtVY0bC_PGCuNySHQ3rjkMozP3QXXi/view?usp=drivesdk) · `080_01-10-46.png`
 
 *software demo*
 
@@ -2356,7 +2356,7 @@ Renamed campaign 'EAM//Whitelisting//US/CBO' and list of duplicated ads.
 
 ## [01:10:52] Ad configuration view showing identity settings in Meta Ads
 
-frame: 080_01-10-52.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:10:52](https://drive.google.com/file/d/1Std2hhXXwr38YMod03iP-BI4SHLRbOZJ/view?usp=drivesdk) · `080_01-10-52.png`
 
 *software demo*
 
@@ -2370,7 +2370,7 @@ Ad set names 'Offer Test #1 Adset', 'Creative BATCH #1 Adset'; ad names 'New Ad 
 
 ## [01:11:02] Editing Whitelisting Ad identity fields in Meta Ads
 
-frame: 080_01-11-02.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:11:02](https://drive.google.com/file/d/17-5nYyRHkozHvij6pQA7VzmzEvEcXBa9/view?usp=drivesdk) · `080_01-11-02.png`
 
 *software demo*
 
@@ -2384,7 +2384,7 @@ Ad name 'Whitelisting Ad #1_LP_Offer', ad set name 'Whitelisting Champions', Ins
 
 ## [01:11:31] Destination and Ad creative settings in Meta Ads Manager
 
-frame: 080_01-11-31.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:11:31](https://drive.google.com/file/d/18OJKDHwixgkYimFlBN6SPKgkky1NMyaJ/view?usp=drivesdk) · `080_01-11-31.png`
 
 *software demo*
 
@@ -2398,7 +2398,7 @@ Destination options and validation error text displayed on screen.
 
 ## [01:11:40] Whitelisting ad setup using creator page and preview
 
-frame: 080_01-11-40.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:11:40](https://drive.google.com/file/d/1gwCCmIAMpiggWWg_cTUZU-VHGs-JVALq/view?usp=drivesdk) · `080_01-11-40.png`
 
 *software demo*
 
@@ -2412,7 +2412,7 @@ Exact page name 'Find Your Fit With Karissa' and handle 'findyourfit.withkarissa
 
 ## [01:12:08] Ad sets table with Whitelisting Champions ad set
 
-frame: 080_01-12-08.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:12:08](https://drive.google.com/file/d/1W2mDJELLTfcxzaVTpT35NLd9R8C1uUdZ/view?usp=drivesdk) · `080_01-12-08.png`
 
 *software demo*
 
@@ -2426,7 +2426,7 @@ Row details, bid strategy 'Highest volume Conversions', and 'Add payment method'
 
 ## [01:12:45] Campaigns list with four core draft campaigns
 
-frame: 080_01-12-45.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:12:45](https://drive.google.com/file/d/1r7vBC54Re6L7UpEkVFipvamVpOM0y_vs/view?usp=drivesdk) · `080_01-12-45.png`
 
 *software demo*
 
@@ -2444,7 +2444,7 @@ Budget $200.00 Daily visible across campaigns; exact naming of all 4 campaigns.
 
 ## [01:12:58] Duplicate campaign modal in Ads Manager
 
-frame: 080_01-12-58.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:12:58](https://drive.google.com/file/d/1IO92ApgrBwjPpGwnhEDibl0PsP3f0ph8/view?usp=drivesdk) · `080_01-12-58.png`
 
 *software demo*
 
@@ -2458,7 +2458,7 @@ Checkbox label 'Show existing reactions, comments and shares on new ads'.
 
 ## [01:13:08] Renaming duplicated campaign to CAAUUK CBO
 
-frame: 080_01-13-08.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:13:08](https://drive.google.com/file/d/1YQQopW97rKEEEyXB4YAURrV0YxrIZuVx/view?usp=drivesdk) · `080_01-13-08.png`
 
 *software demo*
 
@@ -2472,7 +2472,7 @@ Left sidebar tree structure showing ad sets and ad names: 'Offer Ad #1_LP_Offer'
 
 ## [01:13:13] Campaigns list including international acquisition CBO
 
-frame: 080_01-13-13.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:13:13](https://drive.google.com/file/d/1TELdUuN0Nv_AiAN5eZaqUN6JF-KDdMdY/view?usp=drivesdk) · `080_01-13-13.png`
 
 *software demo*
 
@@ -2491,7 +2491,7 @@ Daily budget value of $200.00 across campaigns; status 'In draft'.
 
 ## [01:13:39] Ad sets view across multiple acquisition campaigns
 
-frame: 080_01-13-39.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:13:39](https://drive.google.com/file/d/1iubV7jEeHuVNot6PqBOF8cOFhTPoLsET/view?usp=drivesdk) · `080_01-13-39.png`
 
 *software demo*
 
@@ -2510,7 +2510,7 @@ Shows both 'Creative BATCH #1 Adset' and 'Offer Test #1 Adset' duplicated across
 
 ## [01:14:16] Campaigns table showing Europe and CAAUUK campaigns
 
-frame: 080_01-14-16.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:14:16](https://drive.google.com/file/d/1DYHF_eOBsKJma9uoIxMcXRtjmPq3HF64/view?usp=drivesdk) · `080_01-14-16.png`
 
 *software demo*
 
@@ -2530,7 +2530,7 @@ Daily budget of $200.00 on Europe campaign; total results showing 6 campaigns.
 
 ## [01:14:29] Editing ad set locations setting
 
-frame: 080_01-14-29.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:14:29](https://drive.google.com/file/d/1bJh3klcY-sg4mSSHqnk53LMYadl_YQoL/view?usp=drivesdk) · `080_01-14-29.png`
 
 *software demo*
 
@@ -2544,7 +2544,7 @@ Included location currently set to Canada before editing.
 
 ## [01:14:43] Configuring Worldwide location targeting with US excluded
 
-frame: 080_01-14-43.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:14:43](https://drive.google.com/file/d/1d_ZwMCXoybct35ilHlTbK4skDwHHTJGj/view?usp=drivesdk) · `080_01-14-43.png`
 
 *software demo*
 
@@ -2561,7 +2561,7 @@ Exact UI showing Worldwide included and United States excluded; verification not
 
 ## [01:14:59] Ad set conversion location and performance goal
 
-frame: 080_01-14-59.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:14:59](https://drive.google.com/file/d/1EiXeaA8SHfwZWhcwx16CqK8b4_JMPImk/view?usp=drivesdk) · `080_01-14-59.png`
 
 *software demo*
 
@@ -2575,7 +2575,7 @@ Dataset selected as 'EAM-YOUTUBE'; campaign named updated in header to 'EAM//Acq
 
 ## [01:15:15] Breakdown menu in Meta Ads Manager
 
-frame: 080_01-15-15.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:15:15](https://drive.google.com/file/d/1brhO7TbnWnNHHYS7G9jItUg0fH8LAKDZ/view?usp=drivesdk) · `080_01-15-15.png`
 
 *software demo*
 
@@ -2589,7 +2589,7 @@ Dropdown list items under Breakdown: Day, Age, Placement, Country, Platform, Ima
 
 ## [01:15:37] Ad sets view showing draft Offer Test #1 Adset
 
-frame: 080_01-15-37.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:15:37](https://drive.google.com/file/d/1X6tAit5FUhvuLQ4s_Wd_ypq4HejzdX6u/view?usp=drivesdk) · `080_01-15-37.png`
 
 *software demo*
 
@@ -2609,7 +2609,7 @@ Ad set status 'In draft', bid strategy 'Highest volume Conversions', date range 
 
 ## [01:16:53] Campaigns dashboard listing six structured campaigns
 
-frame: 080_01-16-53.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:16:53](https://drive.google.com/file/d/1M7aFZ7O20L5mroyhvx6pqvHKl1iVnYG_/view?usp=drivesdk) · `080_01-16-53.png`
 
 *software demo*
 
@@ -2630,7 +2630,7 @@ Daily budget set at $200.00 for WW, CAAUUK, Whitelisting, Raw-Content, and US ca
 
 ## [01:17:00] Section card: How to properly creative test
 
-frame: 080_01-17-00.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:17:00](https://drive.google.com/file/d/1dm0WqWXkJWnRWYQzKU1pT386HzuQi4Pp/view?usp=drivesdk) · `080_01-17-00.png`
 
 *title card*
 
@@ -2640,7 +2640,7 @@ How to properly creative test
 
 ## [01:17:42] Campaign budget scaled to $300 daily
 
-frame: 080_01-17-42.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:17:42](https://drive.google.com/file/d/1sh_L1pDttiK14AB7F7QZR57JeoI2RJKi/view?usp=drivesdk) · `080_01-17-42.png`
 
 *software demo*
 
@@ -2659,7 +2659,7 @@ Campaign budget set to $300.00 Daily on EAM//Acquisition//US/CBO
 
 ## [01:17:56] Spotlight calculator calculating budget bump
 
-frame: 080_01-17-56.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:17:56](https://drive.google.com/file/d/17aRKD18BEmB_6DT0CjvQHItMsW-PMIVJ/view?usp=drivesdk) · `080_01-17-56.png`
 
 *software demo*
 
@@ -2670,7 +2670,7 @@ MacOS Spotlight search bar calculation overlay:
 
 ## [01:20:00] Evolve creative testing rules and FAQ
 
-frame: 080_01-20-00.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:20:00](https://drive.google.com/file/d/1ZvM7qR4oJkFG0yty0U2xL1jpqK4HE22o/view?usp=drivesdk) · `080_01-20-00.png`
 
 *document*
 
@@ -2704,7 +2704,7 @@ Exact structure rules (3 creatives in each ad set with 2 headlines and 2 copies)
 
 ## [01:20:03] Creative testing formula based on budget and target CPA
 
-frame: 080_01-20-03.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:20:03](https://drive.google.com/file/d/1heKSRBevpWO3eamVe40r31Q9gqpbzynh/view?usp=drivesdk) · `080_01-20-03.png`
 
 *document*
 
@@ -2726,7 +2726,7 @@ Formula and worked example: "Target CPA (Example $20)", "Total Tests = Budget/TC
 
 ## [01:20:10] FAQ on ad set limits, duration, and shut-off rules
 
-frame: 080_01-20-10.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:20:10](https://drive.google.com/file/d/13cPDiO2ZHrZWIvp3ckC3jVvtovb7WWKx/view?usp=drivesdk) · `080_01-20-10.png`
 
 *document*
 
@@ -2754,7 +2754,7 @@ Detailed bullet points for FAQ items 2 through 7 (e.g. testing minimum 3 days vs
 
 ## [01:21:56] Ad account overview showing $2.2M monthly spend
 
-frame: 080_01-21-56.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:21:56](https://drive.google.com/file/d/1ltZkbTiz1oBsGdjkI9xrbi_zPeTc3OtJ/view?usp=drivesdk) · `080_01-21-56.png`
 
 *software demo*
 
@@ -2773,7 +2773,7 @@ Date range: Last 30 days: Apr 20, 2025 - May 19, 2025; Amount spent: $2,231,570.
 
 ## [01:22:41] Evolve Skool Community Page and Membership Overview
 
-frame: 080_01-22-41.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:22:41](https://drive.google.com/file/d/1ROoRvrcyc6r2uf7XEAMscycECSrxD9Mt/view?usp=drivesdk) · `080_01-22-41.png`
 
 *webpage*
 
@@ -2801,7 +2801,7 @@ URL slug 'evolve-8484', member count 264, price '$999/month', list of included i
 
 ## [01:23:02] Evolve Live Webinar Video on Vimeo
 
-frame: 080_01-23-02.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:23:02](https://drive.google.com/file/d/1ZIQHCoiXmgHd_8t9dOgRDKUjFrSVekLB/view?usp=drivesdk) · `080_01-23-02.png`
 
 *webpage*
 
@@ -2819,7 +2819,7 @@ Vimeo platform, video title 'Evolve Live Webinar $0-$100k', exact slide text 'Bu
 
 ## [01:23:12] Evolve Free Skool community overview and program preview
 
-frame: 080_01-23-12.png (Drive: https://drive.google.com/file/d/1b64j1NVjtIToPCMrAB5H9J2E4G-B9Nma/view?usp=drivesdk)
+[frame 01:23:12](https://drive.google.com/file/d/1zX4Tr9MukFAmeKdTygEE10JcX0jlu8Ob/view?usp=drivesdk) · `080_01-23-12.png`
 
 *webpage* | legibility: partly legible
 

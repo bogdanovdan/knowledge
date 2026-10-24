@@ -1,14 +1,14 @@
 # 77. Putting The FB Asset Structure Together - Visual notes
 
 - **Frames kept:** 16 of 25 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x462 (native), PNG frames in Google Drive as [077-putting-the-fb-asset-structure-together-frames.zip](https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+- **Resolution:** 854x462 (native), PNG frames in Google Drive, one file per frame, in folder [frames/077-putting-the-fb-asset-structure-together](https://drive.google.com/drive/folders/1jJHXaXTLKc5GKHXqdSszhpE108Bqz2xt)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:10] FB Asset Structure diagram overview
 
-frame: 077_00-00-10.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:00:10](https://drive.google.com/file/d/114OxIDvO-FruzDDrBNgwtCpMFKflT63z/view?usp=drivesdk) · `077_00-00-10.png`
 
 *diagram*
 
@@ -26,7 +26,7 @@ Text below video: 'The following videos cover how to set up and warm up these as
 
 ## [00:00:25] Meta Business Suite People list
 
-frame: 077_00-00-25.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:00:25](https://drive.google.com/file/d/1mXF-OLXCKWVPyv80PJbSemQsHGSX0_oq/view?usp=drivesdk) · `077_00-00-25.png`
 
 *software demo*
 
@@ -44,7 +44,7 @@ Account names: 'Streetwearz Accessories', 'Shaun Eng (you)', access detail 'Fina
 
 ## [00:00:40] Assign access modal in Meta Business Suite
 
-frame: 077_00-00-40.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:00:40](https://drive.google.com/file/d/1fYcX-H2KYe-CAGA9HJZCTV914p-1uzfT/view?usp=drivesdk) · `077_00-00-40.png`
 
 *software demo*
 
@@ -62,7 +62,7 @@ Exact wording of warning and 'Everything' description.
 
 ## [00:00:50] Assign business assets permissions modal
 
-frame: 077_00-00-50.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:00:50](https://drive.google.com/file/d/1v35Vh-YbBxCE_x8s3h0pWJ6HOT0uYc2r/view?usp=drivesdk) · `077_00-00-50.png`
 
 *software demo*
 
@@ -80,7 +80,7 @@ Permission categories: Insights, Revenue, Partial access, Full control.
 
 ## [00:02:05] Copying business ID from URL
 
-frame: 077_00-02-05.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:02:05](https://drive.google.com/file/d/1lrnHbDzDZK6KsU377_S-QfjDUdttGg01/view?usp=drivesdk) · `077_00-02-05.png`
 
 *software demo* | legibility: partly legible
 
@@ -94,7 +94,7 @@ Exact URL parameter path '?business_id='.
 
 ## [00:02:25] Datasets & pixels settings view
 
-frame: 077_00-02-25.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:02:25](https://drive.google.com/file/d/1Gvn4_SQekRH0gHQqSa2VMS3iLseFWWG_/view?usp=drivesdk) · `077_00-02-25.png`
 
 *software demo*
 
@@ -113,7 +113,7 @@ Dataset ID: 892801001506095, Backup dataset named 'Streetwearz Accessories Backu
 
 ## [00:02:35] Share dataset with partner modal
 
-frame: 077_00-02-35.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:02:35](https://drive.google.com/file/d/1xzlFSTVDwhS99ucfzWh-Ym_s_28em_l5/view?usp=drivesdk) · `077_00-02-35.png`
 
 *software demo*
 
@@ -130,7 +130,7 @@ Partner Business ID visible digits: 4157382..., detailed toggle descriptions.
 
 ## [00:03:10] Ad account partners tab in BM 3
 
-frame: 077_00-03-10.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:03:10](https://drive.google.com/file/d/1zxoBZUMwgwoDs34dJMLt8YRkt66oUqfj/view?usp=drivesdk) · `077_00-03-10.png`
 
 *software demo*
 
@@ -149,7 +149,7 @@ Portfolio name: Dian Siti Khodijah; Ad account: Cosmoprojectors - 2; partial ID 
 
 ## [00:03:15] Share ad account with partner modal
 
-frame: 077_00-03-15.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:03:15](https://drive.google.com/file/d/1EPC6iDpPAvWMVX86YHMKw9QDGmYtN298/view?usp=drivesdk) · `077_00-03-15.png`
 
 *software demo*
 
@@ -166,7 +166,7 @@ Access breakdown options: Manage campaigns, View performance, Manage mockups, Ma
 
 ## [00:03:45] Datasets & pixels connected assets tab
 
-frame: 077_00-03-45.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:03:45](https://drive.google.com/file/d/1esTKahvtKVpFefz3WuEXh8QPIRc3pKLb/view?usp=drivesdk) · `077_00-03-45.png`
 
 *software demo*
 
@@ -180,7 +180,7 @@ Dataset ID 892801001506095, business portfolio name 'Missionária Fátima1'.
 
 ## [00:04:05] People list action menu for assigning assets
 
-frame: 077_00-04-05.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:04:05](https://drive.google.com/file/d/1dpI3balZmOXzsVQW3NFk7jf5FVxK9EdE/view?usp=drivesdk) · `077_00-04-05.png`
 
 *software demo*
 
@@ -194,7 +194,7 @@ Action menu items listed: View details, Edit info, Edit business portfolio permi
 
 ## [00:04:25] Select assets and assign permissions modal for Datasets
 
-frame: 077_00-04-25.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:04:25](https://drive.google.com/file/d/1gOY4w3PG-DKaoXpeMGCcDSJ9Q6s6yasV/view?usp=drivesdk) · `077_00-04-25.png`
 
 *software demo*
 
@@ -208,7 +208,7 @@ Exact full control permission description text: 'Control all settings, add or re
 
 ## [00:04:45] Ads Manager campaigns view for shared ad account
 
-frame: 077_00-04-45.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:04:45](https://drive.google.com/file/d/13mA92kGDocE6XwZ-4qlSBl8EFCq941wj/view?usp=drivesdk) · `077_00-04-45.png`
 
 *software demo*
 
@@ -222,7 +222,7 @@ Campaigns list showing previous campaigns set to Off: 'Cosmoprojector - Product 
 
 ## [00:04:50] Choosing Sales objective in Ads Manager campaign creation
 
-frame: 077_00-04-50.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:04:50](https://drive.google.com/file/d/1ANnsNJ6p1bXLl3WR7n_JmTVNviMQZd68/view?usp=drivesdk) · `077_00-04-50.png`
 
 *software demo*
 
@@ -236,7 +236,7 @@ Detailed breakdown under Sales: Conversions, Catalog sales, Messenger, Instagram
 
 ## [00:06:05] Ad creation Identity settings showing Facebook Page and Instagram Account
 
-frame: 077_00-06-05.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:06:05](https://drive.google.com/file/d/151PQwDWhEfLrBcWwP2EModh6P8rLaxgO/view?usp=drivesdk) · `077_00-06-05.png`
 
 *software demo*
 
@@ -250,7 +250,7 @@ Warning message: 'You need access to advertise for legallyaddictivefoods'. Campa
 
 ## [00:06:15] Origins Skool classroom FB Asset Structure video
 
-frame: 077_00-06-15.png (Drive: https://drive.google.com/file/d/1OaDzjXDpoMM9_piCNYR_QQtnJ7UElNDE/view?usp=drivesdk)
+[frame 00:06:15](https://drive.google.com/file/d/1Dss_OwgrbqaijdW7ViHa_xMBci0DhDGt/view?usp=drivesdk) · `077_00-06-15.png`
 
 *webpage*
 

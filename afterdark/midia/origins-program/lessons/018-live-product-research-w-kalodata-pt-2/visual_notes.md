@@ -1,14 +1,14 @@
 # 18. Live Product Research w/ Kalodata - Pt 2 - Visual notes
 
 - **Frames kept:** 167 of 292 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 1280x714 (native), PNG frames in Google Drive as [018-live-product-research-w-kalodata-pt-2-frames.zip](https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+- **Resolution:** 1280x714 (native), PNG frames in Google Drive, one file per frame, in folder [frames/018-live-product-research-w-kalodata-pt-2](https://drive.google.com/drive/folders/1s6oa24ra8XrwmrW07RG_cLle3DyEHZcp)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:25] Kalodata TikTok Shop Product Ranking Dashboard
 
-frame: 018_00-00-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:00:25](https://drive.google.com/file/d/1nbDZ5eO8pDPqZsuIsxzJbZgTyF6HGapL/view?usp=drivesdk) · `018_00-00-25.png`
 
 *software demo*
 
@@ -22,7 +22,7 @@ Detailed metrics for top products (e.g., pillow set item sold: 10.6k, avg unit p
 
 ## [00:00:30] Atria Discovery Ad Library Overview
 
-frame: 018_00-00-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:00:30](https://drive.google.com/file/d/15gJFrZ3v0MEmqFJTBoKjXOwWrYeJuz6N/view?usp=drivesdk) · `018_00-00-30.png`
 
 *software demo*
 
@@ -36,7 +36,7 @@ Sidebar boards list: Legally Addictive, Mission Workshop, MW Inspo Board, Evolve
 
 ## [00:00:35] Similarweb Digital Suite Home Page
 
-frame: 018_00-00-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:00:35](https://drive.google.com/file/d/1D7cyVwV6JM9BWb4SS9C9oHuTM6YTDmiW/view?usp=drivesdk) · `018_00-00-35.png`
 
 *software demo*
 
@@ -50,7 +50,7 @@ Left sidebar tools: Website Research (Analysis, Rankings, Segments), Search Inte
 
 ## [00:01:00] Kalodata Pricing Plans Comparison
 
-frame: 018_00-01-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:01:00](https://drive.google.com/file/d/1ajme43_o-4ZkiOT6wCwFR2Rp-Oye2UT2/view?usp=drivesdk) · `018_00-01-00.png`
 
 *software demo*
 
@@ -64,7 +64,7 @@ Feature breakdown comparison between Starter, Professional, and Enterprise plans
 
 ## [00:03:40] Kalodata Product Detail - Christmas Pillow Set Core Metrics
 
-frame: 018_00-03-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:03:40](https://drive.google.com/file/d/1NcflC6xKtAdDZTWicry9CSLyrvrYmNgz/view?usp=drivesdk) · `018_00-03-40.png`
 
 *product page*
 
@@ -78,7 +78,7 @@ Shop name 'FaddishDeal', exact revenue breakdown showing almost 100% came from '
 
 ## [00:03:45] Kalodata Product Sales Strategy and Attributes Breakdown
 
-frame: 018_00-03-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:03:45](https://drive.google.com/file/d/1Q1hM4mJgVB_n_4LI_AzmEGrHfEgvFPeI/view?usp=drivesdk) · `018_00-03-45.png`
 
 *product page*
 
@@ -92,7 +92,7 @@ Detailed percentage breakdown of revenue by sales channel (Product Card: 99.99%)
 
 ## [00:04:35] USPTO Trademark Search Portal
 
-frame: 018_00-04-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:04:35](https://drive.google.com/file/d/1yKzMXOU0rvH3mgWz6UfbebZXOo0r_ZjT/view?usp=drivesdk) · `018_00-04-35.png`
 
 *software demo*
 
@@ -106,7 +106,7 @@ USPTO interface layout, banner alert regarding MFA login requirement, URL path.
 
 ## [00:05:05] USPTO Trademark Search Results for PetPivot
 
-frame: 018_00-05-05.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:05:05](https://drive.google.com/file/d/1bh0mycZ2fRSQdGjh01f38Nc7cpk5t-il/view?usp=drivesdk) · `018_00-05-05.png`
 
 *software demo*
 
@@ -120,7 +120,7 @@ Exact owner: 'PetPivot INC (CORPORATION; Oregon, USA)', Serial numbers (e.g. 979
 
 ## [00:05:10] Google Search Results for PetPivot
 
-frame: 018_00-05-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:05:10](https://drive.google.com/file/d/1FLcxgVDAaTh8MLQrMa-zYjWhd60sGAvA/view?usp=drivesdk) · `018_00-05-10.png`
 
 *webpage*
 
@@ -134,7 +134,7 @@ URLs and meta descriptions: petpivot.com, r/CatAdvice post with 171 answers, Fac
 
 ## [00:05:15] PetPivot AutoScooper 11 Website Landing Page
 
-frame: 018_00-05-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:05:15](https://drive.google.com/file/d/1e7g0KhHxeklEXaoE0VtGxaq8RF0qpDuX/view?usp=drivesdk) · `018_00-05-15.png`
 
 *product page*
 
@@ -149,7 +149,7 @@ Headline 'PetPivot AutoScooper 11', bullet copy 'Fully Automatic | Clean and Hyg
 
 ## [00:05:25] PetPivot Instagram Profile Grid
 
-frame: 018_00-05-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:05:25](https://drive.google.com/file/d/1bMQ_PjW6893KAJuHPWf8tGPxE3y2kH5g/view?usp=drivesdk) · `018_00-05-25.png`
 
 *social post* | legibility: partly legible
 
@@ -163,7 +163,7 @@ Story highlights: 'Little star', 'Reviews', 'Autoscooper', 'Litter box'. Post th
 
 ## [00:06:00] Kalodata Product Detail - PetPivot AutoScooper 11 Metrics
 
-frame: 018_00-06-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:06:00](https://drive.google.com/file/d/10vWW51ar_rNGGrpdCXf5Nb4htmyQLtKI/view?usp=drivesdk) · `018_00-06-00.png`
 
 *software demo*
 
@@ -187,7 +187,7 @@ Revenue: $790.69k, Item Sold: 4.64k, Avg Unit Price: $170.33, Video Revenue: $67
 
 ## [00:06:20] Kalodata PetPivot US Creator Affiliates Ranking
 
-frame: 018_00-06-20.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:06:20](https://drive.google.com/file/d/1Vcx_NiCkLBduxdJ2EP8YcZa_j54Fmxuo/view?usp=drivesdk) · `018_00-06-20.png`
 
 *software demo*
 
@@ -208,7 +208,7 @@ Creator handles, individual creator revenues ($1.39m, $495.56k, $243.51k, $102.1
 
 ## [00:06:25] Kalodata Top Affiliate Video Performance Metrics
 
-frame: 018_00-06-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:06:25](https://drive.google.com/file/d/1Pd2dduCcmaETAvc01xlBVF2cpm6T0q44/view?usp=drivesdk) · `018_00-06-25.png`
 
 *software demo*
 
@@ -230,7 +230,7 @@ Ad title, 17.94m views, 2.17k sales, $377.87k revenue, $82.17k ad spend, 3.68 RO
 
 ## [00:06:30] Top Performing TikTok Video Ad Hook by @coltomn
 
-frame: 018_00-06-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:06:30](https://drive.google.com/file/d/1PLzUU0yVTX5AsF_JNLZPgmPAZSYbLj-f/view?usp=drivesdk) · `018_00-06-30.png`
 
 *ad example*
 
@@ -246,7 +246,7 @@ Caption hashtags: #cats #litterbox #catlitter #petpivot, video UI showing 273.1k
 
 ## [00:06:40] TikTok Video Ad Product Demonstration
 
-frame: 018_00-06-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:06:40](https://drive.google.com/file/d/1OAwS49ttzigMgMX5u2wgeuiI__xS9mlZ/view?usp=drivesdk) · `018_00-06-40.png`
 
 *ad example*
 
@@ -260,7 +260,7 @@ Visual demonstration of product interior and automatic rake cycle.
 
 ## [00:06:50] TikTok Search Results Grid for #petpivot
 
-frame: 018_00-06-50.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:06:50](https://drive.google.com/file/d/1ukfJWhy46-kSbKzDmPMpaTeIGRAiAtKr/view?usp=drivesdk) · `018_00-06-50.png`
 
 *social post*
 
@@ -274,7 +274,7 @@ Creator accounts shown: @fluffyfinds1, @helpfulhealth99, @chosenalex, @heyits_te
 
 ## [00:07:05] Google Search Knowledge Panel for SharkNinja
 
-frame: 018_00-07-05.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:07:05](https://drive.google.com/file/d/1Pe3lZs0DDZMM_VyHn7NO0mMkPd6sN8bX/view?usp=drivesdk) · `018_00-07-05.png`
 
 *webpage*
 
@@ -298,7 +298,7 @@ President: Mark Barrocas; Headquarters: Needham, Massachusetts; Number of employ
 
 ## [00:07:20] Google Search Results for Pet Pivot
 
-frame: 018_00-07-20.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:07:20](https://drive.google.com/file/d/17V9-4UujeX_wAScJxTIJmaDvYQUQNczN/view?usp=drivesdk) · `018_00-07-20.png`
 
 *webpage*
 
@@ -316,7 +316,7 @@ APIVoid 80%, ScamAdviser 100%, Reddit r/CatAdvice forum results.
 
 ## [00:07:30] PetsRadar Review of PetPivot Autoscooper 11
 
-frame: 018_00-07-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:07:30](https://drive.google.com/file/d/1J2MXPE7Wv7hlecjUZ6iuoUMSfsRNwoni/view?usp=drivesdk) · `018_00-07-30.png`
 
 *webpage*
 
@@ -346,7 +346,7 @@ Pros and Cons list details; 4-star PetsRadar rating; holds 10L of waste; cable l
 
 ## [00:07:45] PetPivot Store Footer Links and Social Icons
 
-frame: 018_00-07-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:07:45](https://drive.google.com/file/d/1yk1gCMikDdBUMM_c9hApbvrdUJoMy5bm/view?usp=drivesdk) · `018_00-07-45.png`
 
 *webpage*
 
@@ -366,7 +366,7 @@ Website footer:
 
 ## [00:07:55] PetPivot Official YouTube Channel Page
 
-frame: 018_00-07-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:07:55](https://drive.google.com/file/d/161_MGHFnSVtjKQrVHYDz62jQCovVjA3_/view?usp=drivesdk) · `018_00-07-55.png`
 
 *social post*
 
@@ -384,7 +384,7 @@ Exact subscriber count: 1.05K; 65 videos; video tutorial titles and playlists.
 
 ## [00:08:10] Kalodata Product Metrics for PetPivot Autoscooper 11
 
-frame: 018_00-08-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:08:10](https://drive.google.com/file/d/1W82KSw6ET5Q7CkFbV35mm0WMG_LzHIcc/view?usp=drivesdk) · `018_00-08-10.png`
 
 *software demo*
 
@@ -398,7 +398,7 @@ Exact Kalodata metrics: 7-day revenue $790.69k, 4.64k units sold, $170.33 avg pr
 
 ## [00:08:25] USPTO Trademark Search Results for PetPivot
 
-frame: 018_00-08-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:08:25](https://drive.google.com/file/d/12JBC6-MZ-dLpZjx4P7Og42x2mB5m_0K6/view?usp=drivesdk) · `018_00-08-25.png`
 
 *webpage*
 
@@ -412,7 +412,7 @@ USPTO Trademark search page showing '99 results for petpivot'. Filters: Live 57,
 
 ## [00:08:35] PetPivot Official Website Product Listing for Autoscooper 11
 
-frame: 018_00-08-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:08:35](https://drive.google.com/file/d/1kTNxoGeku0tyIl1VSUEeoMK_xIqTdQjv/view?usp=drivesdk) · `018_00-08-35.png`
 
 *product page*
 
@@ -426,7 +426,7 @@ Price listed on website: $169.99 (crossed out $299.00), color options (White, et
 
 ## [00:08:45] Google Search Results for Pet Pivot
 
-frame: 018_00-08-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:08:45](https://drive.google.com/file/d/1BKu8VrJhvm1koJqkPpoirbqZqBCGwXAU/view?usp=drivesdk) · `018_00-08-45.png`
 
 *webpage*
 
@@ -440,7 +440,7 @@ Reddit thread title from r/CatAdvice: 'Real opinions on the PetPivot Autoscooper
 
 ## [00:09:05] Reddit Thread Evaluating PetPivot Autoscooper 11
 
-frame: 018_00-09-05.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:09:05](https://drive.google.com/file/d/1GFiOIYY2VQvdoNKXXFCi3zYXxFfWjqp4/view?usp=drivesdk) · `018_00-09-05.png`
 
 *social post*
 
@@ -454,7 +454,7 @@ Post details: OP purchased on TikTok for $145 with tax, comments discussing setu
 
 ## [00:09:15] Meta Ad Library Search Results for Pet Pivot
 
-frame: 018_00-09-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:09:15](https://drive.google.com/file/d/1N_rLEA87Bj9vrfFz4RCQGDlbwf0ey0Fd/view?usp=drivesdk) · `018_00-09-15.png`
 
 *ad example*
 
@@ -468,7 +468,7 @@ Meta Ad Library searching 'pet pivot' (~110 results). Displaying active ads laun
 
 ## [00:09:40] Meta Ad Library Competitor Ads for PetPivot
 
-frame: 018_00-09-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:09:40](https://drive.google.com/file/d/1IDfdFQax2lx8fGKw1O8v5vsB0EpGk86T/view?usp=drivesdk) · `018_00-09-40.png`
 
 *ad example*
 
@@ -482,7 +482,7 @@ URL preview: voriart.com/products/petpivot-autoscooper-11-open-top-self-cleaning
 
 ## [00:09:55] Similarweb Dashboard Website Search
 
-frame: 018_00-09-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:09:55](https://drive.google.com/file/d/11_UlBsQNWNe9kraGdAbTyJLx32z0h7_9/view?usp=drivesdk) · `018_00-09-55.png`
 
 *software demo*
 
@@ -496,7 +496,7 @@ Popular searches list and Similarweb navigation options visible on screen.
 
 ## [00:10:25] Similarweb Website Performance Metrics for Petpivot.com
 
-frame: 018_00-10-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:10:25](https://drive.google.com/file/d/1CWHGw1hx3DppHAWWpKT9sjwdE8-raGTI/view?usp=drivesdk) · `018_00-10-25.png`
 
 *software demo*
 
@@ -518,7 +518,7 @@ Device breakdown (Desktop 27.39%, Mobile 72.61%), Global rank #748,200, Country 
 
 ## [00:10:35] Estimating Monthly Orders via Spotlight Calculation
 
-frame: 018_00-10-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:10:35](https://drive.google.com/file/d/17Ul6xGAq4x0sK7YOErRJ0WE8EV27Mof9/view?usp=drivesdk) · `018_00-10-35.png`
 
 *software demo*
 
@@ -534,7 +534,7 @@ Spotlight calculator calculation input 30909*0.01 = 309.09.
 
 ## [00:10:50] Competitor Store VORIART Listing for Autoscooper 11
 
-frame: 018_00-10-50.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:10:50](https://drive.google.com/file/d/1iQzedWXqq2S3MC5yuG4g6sfMkXI7kJeg/view?usp=drivesdk) · `018_00-10-50.png`
 
 *product page*
 
@@ -554,7 +554,7 @@ VORIART brand name, price $209.00 (down from $259.00), 345 reviews, installment 
 
 ## [00:11:15] Kalodata Top Video Creatives for PetPivot Autoscooper 11
 
-frame: 018_00-11-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:11:15](https://drive.google.com/file/d/1LXE6mmsusGX7rAnzDqdv4F3kw6lhSq3J/view?usp=drivesdk) · `018_00-11-15.png`
 
 *software demo*
 
@@ -574,7 +574,7 @@ Exact breakdown of individual creative titles, revenues, view counts, and publis
 
 ## [00:11:40] Google Search Results for Pet Pivot
 
-frame: 018_00-11-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:11:40](https://drive.google.com/file/d/1htbVyXmc8UpjEU8XQxwyFQoyd9kIlBGN/view?usp=drivesdk) · `018_00-11-40.png`
 
 *webpage*
 
@@ -588,7 +588,7 @@ APIVoid 80%, ScamAdviser trust score 100%, description: 'PetPivot creates smart 
 
 ## [00:11:55] Meta Ad Library Search for Self Cleaning Litter Box
 
-frame: 018_00-11-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:11:55](https://drive.google.com/file/d/1oBCy--TJlZGtAEvfp-sv69STRUa9ibf3/view?usp=drivesdk) · `018_00-11-55.png`
 
 *ad example*
 
@@ -602,7 +602,7 @@ Meta Ad Library search for 'self cleaning litter box' with United States, All ad
 
 ## [00:12:00] Meta Ad Library Competitors for Self Cleaning Litter Box
 
-frame: 018_00-12-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:12:00](https://drive.google.com/file/d/12ajEyS68RJlvojCtah2MvFaIMQPljg7G/view?usp=drivesdk) · `018_00-12-00.png`
 
 *ad example*
 
@@ -616,7 +616,7 @@ PurrMotion ad features listed: '100% Hands-Free Cleaning', 'Odor-Eliminating Sys
 
 ## [00:12:40] Meta Ad Library Ad Details for Happi Paws Co.
 
-frame: 018_00-12-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:12:40](https://drive.google.com/file/d/1adzJxVREFeA4reRQPrN21NTr9VRxmrML/view?usp=drivesdk) · `018_00-12-40.png`
 
 *ad example*
 
@@ -630,7 +630,7 @@ Library ID: 1391169682437875; Started running on Oct 26, 2025; Graphic text: '$1
 
 ## [00:12:45] Happi Paws Co. Automatic Litter Box Product Page
 
-frame: 018_00-12-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:12:45](https://drive.google.com/file/d/1Z7Y1nNf1GMrkq90zpcgw9dHEeDid3WJ5/view?usp=drivesdk) · `018_00-12-45.png`
 
 *product page* | legibility: partly legible
 
@@ -644,7 +644,7 @@ Pricing: $279.00 (was $379); 1,500+ Happi Customers; 10 DAYS! SCOOP FREE; Featur
 
 ## [00:12:50] Similarweb Traffic Analysis for Happipawsco.com
 
-frame: 018_00-12-50.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:12:50](https://drive.google.com/file/d/1md0RkYChwtXzzQpWxmVK84wVricNMqHL/view?usp=drivesdk) · `018_00-12-50.png`
 
 *software demo*
 
@@ -658,7 +658,7 @@ URL analyzed: happipawsco.com; Date range: Sep 2025; All metrics show N/A due to
 
 ## [00:12:55] USPTO Trademark Search Results for PetPivot
 
-frame: 018_00-12-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:12:55](https://drive.google.com/file/d/1gcLb78EhQfeEsXw4x_zzcVMzNtP_57wK/view?usp=drivesdk) · `018_00-12-55.png`
 
 *webpage*
 
@@ -672,7 +672,7 @@ Shows 99 results for 'petpivot' on USPTO with multiple live registered trademark
 
 ## [00:13:00] Competitor Product Page Pricing Options and Reviews
 
-frame: 018_00-13-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:13:00](https://drive.google.com/file/d/1bDIBvRNFEdhROH44dQHG7_9oCOSjj4ks/view?usp=drivesdk) · `018_00-13-00.png`
 
 *product page*
 
@@ -686,7 +686,7 @@ Exact bundle pricing tiers ($279 single, $474.30 duo, $669.60 trio, $1,046.25 5-
 
 ## [00:13:10] Competitor Store Listing for Autoscooper 11
 
-frame: 018_00-13-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:13:10](https://drive.google.com/file/d/1XUenHRBF56rmY2exjYpkPdQEFSNU3aBi/view?usp=drivesdk) · `018_00-13-10.png`
 
 *product page*
 
@@ -700,7 +700,7 @@ Product title, currency/price (RM983.00 MYR), bullet points, and 'Buy with shop'
 
 ## [00:13:30] Similarweb Traffic Analysis for Purrmotion.us
 
-frame: 018_00-13-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:13:30](https://drive.google.com/file/d/1f4AcbkNe1tW7nYQVebmPdWMlZi1rEFJH/view?usp=drivesdk) · `018_00-13-30.png`
 
 *software demo*
 
@@ -714,7 +714,7 @@ Domain purrmotion.us searched on Similarweb; insufficient data / N/A across mont
 
 ## [00:13:35] Official PetPivot Autoscooper 11 Product Page
 
-frame: 018_00-13-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:13:35](https://drive.google.com/file/d/1pLbyilfOfO7rH7fyDyi8F2gsQogBXvx1/view?usp=drivesdk) · `018_00-13-35.png`
 
 *product page*
 
@@ -728,7 +728,7 @@ Official brand site pricing: marked down from $299.00 to $169.99, free shipping 
 
 ## [00:13:45] Meta Ad Library Competitors Homenrupet, The Calm Cat Journal, Els Pet
 
-frame: 018_00-13-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:13:45](https://drive.google.com/file/d/14FtdL32OcMEjUIwpIavIXBDHsKWksJNW/view?usp=drivesdk) · `018_00-13-45.png`
 
 *ad example*
 
@@ -742,7 +742,7 @@ Ad copies and brand names for competitors Els Pet (product name: Orbitie), The C
 
 ## [00:13:55] Meta Ad Library Results for Whisker and Els Pet Ads
 
-frame: 018_00-13-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:13:55](https://drive.google.com/file/d/15KAdgYmu8FC2aTmnL5Dgt5dLdngHC4bw/view?usp=drivesdk) · `018_00-13-55.png`
 
 *ad example*
 
@@ -756,7 +756,7 @@ Ad details: Whisker ad copy, Els Pet discount creative showing '$279' offer and 
 
 ## [00:14:00] Meta Ad Library Results for Els Pet and Litter-Robot by Whisker
 
-frame: 018_00-14-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:14:00](https://drive.google.com/file/d/1CxaWyPLWOodJrQNB7InGg9By20aimVek/view?usp=drivesdk) · `018_00-14-00.png`
 
 *ad example*
 
@@ -770,7 +770,7 @@ Ad copy for Litter-Robot by Whisker referencing AI-powered features; Whisker str
 
 ## [00:14:10] Meta Ad Library 3 Ad Versions for Els Pet Orbitie
 
-frame: 018_00-14-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:14:10](https://drive.google.com/file/d/1AbqGdwq8zpuNReStsefKG370kRabl8Pv/view?usp=drivesdk) · `018_00-14-10.png`
 
 *ad example*
 
@@ -789,7 +789,7 @@ Ad IDs, launch dates (Oct 23-25, 2025), exact ad text mentioning 'Orbitie by els
 
 ## [00:14:35] Similarweb Traffic Analysis for elspet.com
 
-frame: 018_00-14-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:14:35](https://drive.google.com/file/d/1N12fKD1HS70fVZFJ2fEqjAGvFtLhSsqw/view?usp=drivesdk) · `018_00-14-35.png`
 
 *software demo*
 
@@ -817,7 +817,7 @@ Competitor traffic metrics (catlinkus.com: 30,822; meowant.com: 70,931; shopfurm
 
 ## [00:14:40] Spotlight Revenue Calculation Overlay on Traffic Data
 
-frame: 018_00-14-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:14:40](https://drive.google.com/file/d/1iAp_cfgV-xoePf_4GyMBoMjHcII37Ixp/view?usp=drivesdk) · `018_00-14-40.png`
 
 *software demo*
 
@@ -834,7 +834,7 @@ Spotlight formula calculation: 309.09 * 170 = 52,545.3.
 
 ## [00:15:00] Competitor Product Page for Autoscooper 11 in MYR
 
-frame: 018_00-15-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:15:00](https://drive.google.com/file/d/1XBXSSEcBduZ_L9IJil7e2b6wTFC5FjSi/view?usp=drivesdk) · `018_00-15-00.png`
 
 *product page*
 
@@ -857,7 +857,7 @@ Currency and price: RM983.00 MYR, full product title and bulleted features.
 
 ## [00:15:10] Voriart Competitor Store Listing for Petpivot Autoscooper 11
 
-frame: 018_00-15-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:15:10](https://drive.google.com/file/d/16m6f_0M0HYeqWsQWLBOMUtayF9TjrnRG/view?usp=drivesdk) · `018_00-15-10.png`
 
 *product page*
 
@@ -876,7 +876,7 @@ Store name 'Voriart', discounted price $209.00 from $259.00, 345 reviews.
 
 ## [00:15:20] Atria Creative Discovery Feed
 
-frame: 018_00-15-20.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:15:20](https://drive.google.com/file/d/1a_-YOk-mUuks7hsr180UyUUI0Q6iLtYg/view?usp=drivesdk) · `018_00-15-20.png`
 
 *software demo*
 
@@ -898,7 +898,7 @@ Tool used is Atria (tryatria.com) Discovery workspace and brand ad examples show
 
 ## [00:15:25] Meta Ad Library Search Results for Competitor Ads
 
-frame: 018_00-15-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:15:25](https://drive.google.com/file/d/1rHZ--fxc3Q_5qkmyApaCS2LZmrmHY3TP/view?usp=drivesdk) · `018_00-15-25.png`
 
 *ad example* | legibility: partly legible
 
@@ -914,7 +914,7 @@ Competitor page names 'Megahub' and 'Happi Paws Co.', ad review copy text.
 
 ## [00:15:35] Meta Ad Library Search Results for Self Cleaning Litter Box
 
-frame: 018_00-15-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:15:35](https://drive.google.com/file/d/1Z249S0Rfg67y2Jo7FjohboWgAEQRNDIJ/view?usp=drivesdk) · `018_00-15-35.png`
 
 *ad example*
 
@@ -928,7 +928,7 @@ Ad IDs (e.g., 792524433572929, 790440627316092, 793917470280455), launch dates (
 
 ## [00:15:45] Meta Ad Library Competitor Ads for Litter Boxes
 
-frame: 018_00-15-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:15:45](https://drive.google.com/file/d/1BQ9PY72NrMVl8hCdxfAZJdazpkRXEOxz/view?usp=drivesdk) · `018_00-15-45.png`
 
 *ad example*
 
@@ -942,7 +942,7 @@ Advertiser names: The Calm Cat Journal, UahPet, Happi Paws Co.; ad text excerpts
 
 ## [00:15:55] Google Search Results for Pet Pivot with Reddit Mentions
 
-frame: 018_00-15-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:15:55](https://drive.google.com/file/d/1fXUMfIWpHVcBWfX-4tcFSkQ8gFmzmqp1/view?usp=drivesdk) · `018_00-15-55.png`
 
 *webpage*
 
@@ -956,7 +956,7 @@ APVoid 80%, ScamAdviser trust score 100%, YouTube review video results visible b
 
 ## [00:16:00] Google Search for Pet Pivot on Reddit
 
-frame: 018_00-16-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:16:00](https://drive.google.com/file/d/1h2w8cczUAKea9ZTdmLc21Di49zCud7or/view?usp=drivesdk) · `018_00-16-00.png`
 
 *webpage*
 
@@ -970,7 +970,7 @@ Specific comment counts, search filter parameters, and image preview thumbnails 
 
 ## [00:17:45] Reddit Customer Feedback on PetPivot Autoscooper 11
 
-frame: 018_00-17-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:17:45](https://drive.google.com/file/d/1iYSMA2ISVTA-e1S0wFsNDQBcpkKH3jW4/view?usp=drivesdk) · `018_00-17-45.png`
 
 *social post*
 
@@ -984,7 +984,7 @@ Usernames (FallenAcedia, Former-Lettuce-4372), NY Post URL reference regarding c
 
 ## [00:19:15] Reddit Long-form Review Comparing PetPivot to Expensive Models
 
-frame: 018_00-19-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:19:15](https://drive.google.com/file/d/1IHUH8n7Sddt8rqT7gE24s_lsCebuLQBd/view?usp=drivesdk) · `018_00-19-15.png`
 
 *social post*
 
@@ -998,7 +998,7 @@ Specific bag brand recommended ('great value brand for $5 for 40'), details on 2
 
 ## [00:20:55] Google Trends 5-Year Search Interest for Automatic Litter Box
 
-frame: 018_00-20-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:20:55](https://drive.google.com/file/d/1a1XUFwcEpV-kmUPE9204vl93g_wZDTWk/view?usp=drivesdk) · `018_00-20-55.png`
 
 *chart*
 
@@ -1012,7 +1012,7 @@ Exact subregions ranking (West Virginia, North Dakota, South Dakota) and index v
 
 ## [00:22:25] PetPivot Autoscooper 11 Product Page and Pricing
 
-frame: 018_00-22-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:22:25](https://drive.google.com/file/d/1DhbH1HZ9J-K3t2-_FHHUq4CwiLzMvZ2E/view?usp=drivesdk) · `018_00-22-25.png`
 
 *product page*
 
@@ -1031,7 +1031,7 @@ Original price crossed out ($299.00), color options, 30-Day In-Home Trial, Hassl
 
 ## [00:22:50] Reddit Thread on PetPivot Litter Box Safety
 
-frame: 018_00-22-50.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:22:50](https://drive.google.com/file/d/103WRqM3CeFemoOBqtoNrY4XmOCzqUdy8/view?usp=drivesdk) · `018_00-22-50.png`
 
 *social post*
 
@@ -1049,7 +1049,7 @@ Comments detail that the litter box stays plugged in (not rechargeable), resets 
 
 ## [00:23:05] Google Shopping Results for Self Cleaning Litter Box
 
-frame: 018_00-23-05.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:23:05](https://drive.google.com/file/d/193_j_WQqp1-Bg60W4BonWb6QAAi10PVP/view?usp=drivesdk) · `018_00-23-05.png`
 
 *webpage*
 
@@ -1072,7 +1072,7 @@ Specific competing brand models listed: PETKIT Pura Max 2, UBPET C-10 IOT, CATLI
 
 ## [00:23:45] Litter-Robot 4 Official Store Product Page
 
-frame: 018_00-23-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:23:45](https://drive.google.com/file/d/1z9AE2AkaQsBGY1KzOGpPI9up3bsutvym/view?usp=drivesdk) · `018_00-23-45.png`
 
 *product page*
 
@@ -1093,7 +1093,7 @@ Review count 13,878, original price $699, 90-day trial period, specific feature 
 
 ## [00:24:10] Reddit User Review Comparing Litter-Robot Models
 
-frame: 018_00-24-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:24:10](https://drive.google.com/file/d/1sIDupfffoqMk0x8E_eQaOs1dDqSpTbXP/view?usp=drivesdk) · `018_00-24-10.png`
 
 *social post*
 
@@ -1110,7 +1110,7 @@ Price range mentioned by OP ($70 to $600), comment notes drawer emptying frequen
 
 ## [00:25:30] Reddit Comments on Cat Litter Sticking in AutoScooper
 
-frame: 018_00-25-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:25:30](https://drive.google.com/file/d/1XYE-kFfeJ-gl_uXr0q0HDZl2XH0xwgQl/view?usp=drivesdk) · `018_00-25-30.png`
 
 *social post*
 
@@ -1127,7 +1127,7 @@ Reddit usernames, exact discussion of litter sticking issues, recommendation of 
 
 ## [00:25:55] Reddit Thread Evaluating Litter-Robot 4 vs Cheaper Alternatives
 
-frame: 018_00-25-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:25:55](https://drive.google.com/file/d/1Bo-NMun8umna7OMcn6uXjbjyl_PBvMi8/view?usp=drivesdk) · `018_00-25-55.png`
 
 *social post*
 
@@ -1144,7 +1144,7 @@ Detailed user experiences comparing Litter-Robot 3 problems (smell, sensor alert
 
 ## [00:26:00] Meta Ad Library Search for Self Cleaning Litter Box
 
-frame: 018_00-26-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:26:00](https://drive.google.com/file/d/1G8HJcwhVl7pxwOC2ekRYM4bG5hbNXeLa/view?usp=drivesdk) · `018_00-26-00.png`
 
 *ad example*
 
@@ -1163,7 +1163,7 @@ Brand names (Happi Paws Co., Theatomicfactory, Arvian), library IDs, start dates
 
 ## [00:26:50] Meta Ad Library Competitor Ads for Automatic Cat Litter Boxes
 
-frame: 018_00-26-50.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:26:50](https://drive.google.com/file/d/1uNN0X3YmtPIxTgh2apt4npXeOX2I2lX3/view?usp=drivesdk) · `018_00-26-50.png`
 
 *ad example*
 
@@ -1181,7 +1181,7 @@ Brand names UahPet, Penthouse Paws, The Odorless Cat, The Calm Cat Journal, and 
 
 ## [00:27:00] Meta Ad Library Showing Litter-Robot Official Video Ads
 
-frame: 018_00-27-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:27:00](https://drive.google.com/file/d/1lc90R7EMBFMXRlhdhwHs1026yq7pWI8o/view?usp=drivesdk) · `018_00-27-00.png`
 
 *ad example*
 
@@ -1198,7 +1198,7 @@ Official Litter-Robot ad copy using meme format ('No one: / Cat parents about ho
 
 ## [00:27:25] Meta Ad Library Creatives for PurrMotion Automatic Litter Box
 
-frame: 018_00-27-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:27:25](https://drive.google.com/file/d/1c8WMc5RTONvB3KiTnIdkZqAYFvV7PT3s/view?usp=drivesdk) · `018_00-27-25.png`
 
 *ad example*
 
@@ -1216,7 +1216,7 @@ PurrMotion checklist feature copy, Forgevale brand Purrtek litter box ad.
 
 ## [00:27:30] Reddit Thread on Litter-Robot 4 Performance and Issues
 
-frame: 018_00-27-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:27:30](https://drive.google.com/file/d/1EfHksf6ZzdKD-uNM-WmiMk1i2SIcxYJ9/view?usp=drivesdk) · `018_00-27-30.png`
 
 *social post*
 
@@ -1233,7 +1233,7 @@ User comments comparing Litter-Robot 4 and Litter-Robot 3, motor issues in cheap
 
 ## [00:27:35] Atria Discovery Ad Feed Examples
 
-frame: 018_00-27-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:27:35](https://drive.google.com/file/d/1xu96LKrcUQW1yrmCOWN25lUt66W7a6Hh/view?usp=drivesdk) · `018_00-27-35.png`
 
 *ad example*
 
@@ -1252,7 +1252,7 @@ Atria interface displaying competitor ads across categories (yoga, apparel, soft
 
 ## [00:28:25] Kalodata Video & Ad Breakdown for PetPivot Autoscooper 11
 
-frame: 018_00-28-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:28:25](https://drive.google.com/file/d/1gOIutMRIIY9qe7Yc8WJSPylI62Gn9orT/view?usp=drivesdk) · `018_00-28-25.png`
 
 *software demo*
 
@@ -1270,7 +1270,7 @@ Specific video titles, revenue numbers ($207.11k, $59.97k, $43.37k), views, and 
 
 ## [00:28:30] Kalodata US Product Ranking List
 
-frame: 018_00-28-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:28:30](https://drive.google.com/file/d/1H_X6S58ivG6ju-Lv34D1Hpr6pXKF4c4J/view?usp=drivesdk) · `018_00-28-30.png`
 
 *software demo*
 
@@ -1289,7 +1289,7 @@ Rankings and revenue figures for multiple products including Tarte CC corrector 
 
 ## [00:28:40] Kalodata Core Metrics for Tarte Colored Clay CC Undereye Corrector
 
-frame: 018_00-28-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:28:40](https://drive.google.com/file/d/19ng92YJFW89TwrwK2AOrLHipmGGpxLSX/view?usp=drivesdk) · `018_00-28-40.png`
 
 *software demo*
 
@@ -1313,7 +1313,7 @@ Channel split breakdown showing 97.47% of revenue comes from TikTok videos rathe
 
 ## [00:29:45] Kalodata Video Creative Preview for Tarte Corrector
 
-frame: 018_00-29-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:29:45](https://drive.google.com/file/d/1GJt_OphuxpO6tP-5js8NctcryICvhMgf/view?usp=drivesdk) · `018_00-29-45.png`
 
 *software demo*
 
@@ -1330,7 +1330,7 @@ Exact overlay text on video creative, export script buttons, and visual framing 
 
 ## [00:30:00] Kalodata Shop Overview for Tarte Cosmetics
 
-frame: 018_00-30-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:30:00](https://drive.google.com/file/d/1xvpljvSf50r9TguLCe4Lv_z1yCc1uuvQ/view?usp=drivesdk) · `018_00-30-00.png`
 
 *software demo*
 
@@ -1350,7 +1350,7 @@ Affiliate revenue percentage (84.44%, $1.64m) vs self-operated ($10.20k), affili
 
 ## [00:30:25] Google Search Results for Tarte Cosmetics
 
-frame: 018_00-30-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:30:25](https://drive.google.com/file/d/10dOzSFF8obvY-E5uf3SBMfkrYwJKQo5z/view?usp=drivesdk) · `018_00-30-25.png`
 
 *webpage*
 
@@ -1369,7 +1369,7 @@ Founder Maureen Kelly, parent company Kosé, headquarters details visible in kno
 
 ## [00:30:35] Tarte Cosmetics Official Website Product Categories
 
-frame: 018_00-30-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:30:35](https://drive.google.com/file/d/1k06Fvj9AYJPXmoXe3LDJPMcMTdvmJAAv/view?usp=drivesdk) · `018_00-30-35.png`
 
 *webpage*
 
@@ -1387,7 +1387,7 @@ Tarte Cosmetics website sections:
 
 ## [00:31:10] Similarweb Traffic & Engagement for tartecosmetics.com
 
-frame: 018_00-31-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:31:10](https://drive.google.com/file/d/1NikaSZwszTpA2CMC7WkBsF6mTrVq80-8/view?usp=drivesdk) · `018_00-31-10.png`
 
 *software demo*
 
@@ -1413,7 +1413,7 @@ Device distribution (Desktop 16.32%, Mobile Web 83.68%), US rank #5,860, Pages p
 
 ## [00:31:35] Tarte Best Sellers Page with Spotlight Revenue Calculation
 
-frame: 018_00-31-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:31:35](https://drive.google.com/file/d/1FQ50PFCoqv7WQiwwH5FZR63l6-vnHxI5/view?usp=drivesdk) · `018_00-31-35.png`
 
 *product page*
 
@@ -1435,7 +1435,7 @@ Product prices: creaseless setting powder ($37), BB blur moisturizer ($42), masc
 
 ## [00:32:00] USPTO Trademark Search Results for 'tarte'
 
-frame: 018_00-32-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:32:00](https://drive.google.com/file/d/1mMgMp3nJ-hJJFx9zFGJ2rC-XdzwvLQGD/view?usp=drivesdk) · `018_00-32-00.png`
 
 *software demo*
 
@@ -1461,7 +1461,7 @@ Total results: 788 (368 Live, 420 Dead). Serial numbers, classes, and specific d
 
 ## [00:32:15] USPTO trademark search for 'tarte cosmetics'
 
-frame: 018_00-32-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:32:15](https://drive.google.com/file/d/1W-BIPadQyStn-zwdggKP00WrOIc2-cso/view?usp=drivesdk) · `018_00-32-15.png`
 
 *software demo*
 
@@ -1475,7 +1475,7 @@ USPTO Trademark Search page. Search query: 'tarte cosmetics' with 3,477 results.
 
 ## [00:32:40] Tarte Cosmetics Instagram profile page
 
-frame: 018_00-32-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:32:40](https://drive.google.com/file/d/1UjfDYOLFulfLL2AfajXVuND6DzL-tDcp/view?usp=drivesdk) · `018_00-32-40.png`
 
 *social post*
 
@@ -1494,7 +1494,7 @@ Account stats: 1,149 posts, 10.1M followers, 949 following. Specific bio links a
 
 ## [00:33:15] Claude query on Tarte Cosmetics active trademarks
 
-frame: 018_00-33-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:33:15](https://drive.google.com/file/d/16Q9dWrX1g2-kY5W8TsUoW0J2ND01L3Ll/view?usp=drivesdk) · `018_00-33-15.png`
 
 *software demo*
 
@@ -1517,7 +1517,7 @@ Registration numbers: 5464758 for TARTE, 5789705 for BIG EGO; range of 251-312 t
 
 ## [00:33:40] Kalodata Shop Dashboard for Tarte Cosmetics
 
-frame: 018_00-33-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:33:40](https://drive.google.com/file/d/1pTPBAF7b_sVJvZNqm_2o0S77dtkm-tlB/view?usp=drivesdk) · `018_00-33-40.png`
 
 *software demo*
 
@@ -1534,7 +1534,7 @@ Detailed channel splits, revenue figures ($1.94m total, $1.64m affiliate), top m
 
 ## [00:33:50] Kalodata Product Metrics for Tarte Colored Clay CC Corrector
 
-frame: 018_00-33-50.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:33:50](https://drive.google.com/file/d/1s_YkAy7Fwb06I5AfJmmNJBtRMYDU8Xgt/view?usp=drivesdk) · `018_00-33-50.png`
 
 *software demo*
 
@@ -1558,7 +1558,7 @@ All exact 7-day revenue, video vs live breakdown, sales metrics, and commission 
 
 ## [00:34:40] Google Trends Search for Kojic Acid (Past 5 Years)
 
-frame: 018_00-34-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:34:40](https://drive.google.com/file/d/1pgcIPZl0aBrolwGMC0rOeQB9Xu1T0I_O/view?usp=drivesdk) · `018_00-34-40.png`
 
 *software demo*
 
@@ -1574,7 +1574,7 @@ Oct 12-18 index value (32), subregion ranking (Hawaii, Georgia, Maryland).
 
 ## [00:34:55] Tarte Cosmetics Best-Selling Makeup Catalog
 
-frame: 018_00-34-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:34:55](https://drive.google.com/file/d/1WcAmz0yCQYF-9cDjlAM1DAU8MI8G7ZxV/view?usp=drivesdk) · `018_00-34-55.png`
 
 *webpage*
 
@@ -1598,7 +1598,7 @@ Product names, pricing, and catalog placement on Tarte official website.
 
 ## [00:35:00] Tarte CC Undereye Corrector Before and After Examples
 
-frame: 018_00-35-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:35:00](https://drive.google.com/file/d/1GCPqO6AktmdWV0DkjF7xTl8Uq0NAkZBh/view?usp=drivesdk) · `018_00-35-00.png`
 
 *product page*
 
@@ -1616,7 +1616,7 @@ Model names (Christine, Cherlyann), exact claims ('instantly covers look of dark
 
 ## [00:35:05] Tarte CC Undereye Corrector Ingredients and How To Use
 
-frame: 018_00-35-05.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:35:05](https://drive.google.com/file/d/1MxQK2De5f3lbFLMT5Y0tJe7vod2ajlOT/view?usp=drivesdk) · `018_00-35-05.png`
 
 *product page*
 
@@ -1638,7 +1638,7 @@ Key ingredients listed with specific benefits, formulation free-from claims, and
 
 ## [00:35:10] Tarte CC Undereye Corrector Customer Reviews and Awards
 
-frame: 018_00-35-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:35:10](https://drive.google.com/file/d/1sMMG3t5dI3qzfUN8uXBd3rpPX-EkEiIg/view?usp=drivesdk) · `018_00-35-10.png`
 
 *product page*
 
@@ -1657,7 +1657,7 @@ Awards from SeeMe Inclusivity Index, Vogue, InStyle, and 4.5 star rating count (
 
 ## [00:35:20] Kalodata Shop Product List for Tarte Cosmetics
 
-frame: 018_00-35-20.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:35:20](https://drive.google.com/file/d/1vJdzsQjUwgYZNCQagB5843H1hB48JiqX/view?usp=drivesdk) · `018_00-35-20.png`
 
 *software demo*
 
@@ -1675,7 +1675,7 @@ Full table metrics for top 4 products including publish dates and exact sales vo
 
 ## [00:35:30] Kalodata Video & Ad Ranking for Tarte Cosmetics
 
-frame: 018_00-35-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:35:30](https://drive.google.com/file/d/1dTBlNFXJvDaw0VfzaeBooodyGYOCvKlx/view?usp=drivesdk) · `018_00-35-30.png`
 
 *software demo*
 
@@ -1693,7 +1693,7 @@ Individual video revenues, view counts, conversion quantities, and upload dates.
 
 ## [00:36:00] TikTok Video Ad and User Comments for Tarte Concealer
 
-frame: 018_00-36-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:36:00](https://drive.google.com/file/d/1gcCL70LcwI3afKoHoYYBj_pPyNDRBSp8/view?usp=drivesdk) · `018_00-36-00.png`
 
 *social post*
 
@@ -1715,7 +1715,7 @@ User comments verbatim from viewers, user handle @kaleysolitro.
 
 ## [00:36:05] Kalodata Video Detail Breakdown for Top Tarte Ad
 
-frame: 018_00-36-05.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:36:05](https://drive.google.com/file/d/1zFVek0d7aGFZzYJ5DD_Kx7Z-biX5ieYo/view?usp=drivesdk) · `018_00-36-05.png`
 
 *software demo*
 
@@ -1743,7 +1743,7 @@ Ad spend ($39.76k), ROAS (2.8), Ad revenue ratio (80%), product attribution spli
 
 ## [00:37:00] Kalodata Product Detail for Tarte CC Undereye Corrector
 
-frame: 018_00-37-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:37:00](https://drive.google.com/file/d/1iebykOYvJMWNu8ktVohSIUbCZiFagm6f/view?usp=drivesdk) · `018_00-37-00.png`
 
 *software demo*
 
@@ -1757,7 +1757,7 @@ Detailed metrics: Revenue $642.75k, Video Revenue $626.46k, Live Revenue $14.50k
 
 ## [00:37:15] Kalodata Product Rankings Showing High-Performing TikTok Products
 
-frame: 018_00-37-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:37:15](https://drive.google.com/file/d/1K06CQ2J6_mGU9JBBgy8TDBPRJ3MWJE5U/view?usp=drivesdk) · `018_00-37-15.png`
 
 *software demo*
 
@@ -1771,7 +1771,7 @@ Revenue and sales figures for Shark MessMaster, PetPivot, Shark HydroDuo, and VO
 
 ## [00:37:20] Kalodata Product Rankings: Compression Band and Medicube Sets
 
-frame: 018_00-37-20.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:37:20](https://drive.google.com/file/d/1ucYj_jNEJuNQU9ga1CHGztJCY4-ilkb-/view?usp=drivesdk) · `018_00-37-20.png`
 
 *software demo*
 
@@ -1785,7 +1785,7 @@ Exact revenue numbers, item sold volumes, unit prices, and commission rates for 
 
 ## [00:37:25] Kalodata Product Detail for Compression Band Leggings
 
-frame: 018_00-37-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:37:25](https://drive.google.com/file/d/1wGF57lLgI91iPJuePAz8wrVdgS8L0PXg/view?usp=drivesdk) · `018_00-37-25.png`
 
 *software demo*
 
@@ -1799,7 +1799,7 @@ Revenue $396.34k, Video Revenue $392.02k, 19.01k units sold, $20.85 avg unit pri
 
 ## [00:37:35] Kalodata Video & Ad Breakdown for Compression Band Leggings
 
-frame: 018_00-37-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:37:35](https://drive.google.com/file/d/1_uTRA8O_2H6zRTzH8F5bZA8I52HLyLLJ/view?usp=drivesdk) · `018_00-37-35.png`
 
 *software demo*
 
@@ -1813,7 +1813,7 @@ Top ad metrics: $56.37k revenue, 4.17m views, 2.74k units sold, 10/20 publish da
 
 ## [00:38:35] TikTok Creator Video for Fleece Compression Leggings
 
-frame: 018_00-38-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:38:35](https://drive.google.com/file/d/1OY8t7vdCL8hfVukaNlfWRT70GZQfuElm/view?usp=drivesdk) · `018_00-38-35.png`
 
 *ad example*
 
@@ -1827,7 +1827,7 @@ Creator username @hellolangie, exact like count 48.9K, comment count 272, share 
 
 ## [00:38:40] The Oodie Landing Page Feature Comparison
 
-frame: 018_00-38-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:38:40](https://drive.google.com/file/d/12mkZYI0J3f_5yTdZF0avIOVIPFuF7zq8/view?usp=drivesdk) · `018_00-38-40.png`
 
 *product page*
 
@@ -1841,7 +1841,7 @@ Feature descriptions: Oversized Hood, Giant Front Pocket, Double-Layered Fleece 
 
 ## [00:39:30] The Oodie Product Page Details and Specifications
 
-frame: 018_00-39-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:39:30](https://drive.google.com/file/d/1XD-ut716DmcCRFgcaLHX1D08WvsGUDvI/view?usp=drivesdk) · `018_00-39-30.png`
 
 *product page*
 
@@ -1855,7 +1855,7 @@ Product specs: ToastyTek Outer, Sherpa Fleece Lining, OEKO-TEX Certified, sizing
 
 ## [00:39:40] Kalodata Video Detail for Top Fleece Leggings Ad
 
-frame: 018_00-39-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:39:40](https://drive.google.com/file/d/1Ed-rYiqITA81DKqzoWNY5LpTFiQX_NUv/view?usp=drivesdk) · `018_00-39-40.png`
 
 *software demo*
 
@@ -1869,7 +1869,7 @@ Detailed paid ad performance: Ad Spend $11.67k, Ad ROAS 3.86, Ad Revenue Ratio 8
 
 ## [00:40:25] TikTok Comments Section on Fleece Leggings Ad
 
-frame: 018_00-40-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:40:25](https://drive.google.com/file/d/1QA6d_NT0D3d45A0MwGrDjCAxCgW2zAtK/view?usp=drivesdk) · `018_00-40-25.png`
 
 *social post*
 
@@ -1883,7 +1883,7 @@ Full text of comments from Nyarumi, luz_de_luna555, taybaby, and their respectiv
 
 ## [00:40:45] Kalodata Product Rankings 11-17 with Medicube Skincare Set
 
-frame: 018_00-40-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:40:45](https://drive.google.com/file/d/1WzaIr3V8GDCtRi-e_eHgvMWbMhWt-dKV/view?usp=drivesdk) · `018_00-40-45.png`
 
 *software demo*
 
@@ -1904,7 +1904,7 @@ Revenue numbers, unit prices, commissions, growth rates, and creator counts for 
 
 ## [00:40:55] Kalodata Product Rankings Highlighting Hieha Portable Car Jump Starter
 
-frame: 018_00-40-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:40:55](https://drive.google.com/file/d/1E-4SQ0VcyGHH4jg82Dy8APdEHa34T1yP/view?usp=drivesdk) · `018_00-40-55.png`
 
 *software demo*
 
@@ -1927,7 +1927,7 @@ Exact specs of the Hieha Jump Starter (4000A, 150PSI, 15000mAh), Revenue $289.47
 
 ## [00:41:15] TikTok Ad Hook: 'What would you rather use...'
 
-frame: 018_00-41-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:41:15](https://drive.google.com/file/d/1mMzeYxW4kp0096-R7l7zyfi3F6_HbutD/view?usp=drivesdk) · `018_00-41-15.png`
 
 *ad example*
 
@@ -1946,7 +1946,7 @@ Creator username @rdawgshop, engagement figures (91.2K likes, 980 comments, 14.3
 
 ## [00:41:30] TikTok Ad Demonstration of Portable Jump Starter Device
 
-frame: 018_00-41-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:41:30](https://drive.google.com/file/d/1KfbgYpRCEC7nRbfwAPkhhx5jt-VXGgJG/view?usp=drivesdk) · `018_00-41-30.png`
 
 *ad example*
 
@@ -1963,7 +1963,7 @@ Visual product form factor, clamp connector style, and presentation method.
 
 ## [00:41:35] TikTok Ad Feature Demonstration: LED Flashlight & Digital Display
 
-frame: 018_00-41-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:41:35](https://drive.google.com/file/d/133kr3hhk7-ucitlrSvPRU_9A_3-NT0Ua/view?usp=drivesdk) · `018_00-41-35.png`
 
 *ad example*
 
@@ -1978,7 +1978,7 @@ Interface buttons, digital display panel, and flashlight layout on the device.
 
 ## [00:42:00] Kalodata Video Detail for rdawgshop Jump Starter Ad
 
-frame: 018_00-42-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:42:00](https://drive.google.com/file/d/1GQ4xoe8YheRx3RNIMWXNBbx3yy85ny4D/view?usp=drivesdk) · `018_00-42-00.png`
 
 *software demo*
 
@@ -2006,7 +2006,7 @@ Exact ad metrics: 4.67m views, 1.83k items sold, $56.54k revenue, Ad Spend $11.6
 
 ## [00:42:15] Kalodata Top Creative Angles for Portable Jump Starter Ads
 
-frame: 018_00-42-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:42:15](https://drive.google.com/file/d/18KcDQXhgyUnCWYK92KP_ktDSd6i_PS2l/view?usp=drivesdk) · `018_00-42-15.png`
 
 *software demo*
 
@@ -2030,7 +2030,7 @@ Specific hook angles, video thumbnails, view counts, and revenue figures across 
 
 ## [00:42:25] Kalodata Video & Ad Performance for Jump Starter
 
-frame: 018_00-42-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:42:25](https://drive.google.com/file/d/13Z7j8qU4-gj2sF1cfOmkcLwF6eNIBDF0/view?usp=drivesdk) · `018_00-42-25.png`
 
 *software demo*
 
@@ -2048,7 +2048,7 @@ Detailed figures for top ads: video #1 ($56.54k revenue, 4.67m views, 1.83k sold
 
 ## [00:43:00] AliExpress Search Results for Portable Car Jump Starter
 
-frame: 018_00-43-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:43:00](https://drive.google.com/file/d/1IgD1DnTjHQnACz3aVSjA0e6kbu805Q7E/view?usp=drivesdk) · `018_00-43-00.png`
 
 *webpage*
 
@@ -2070,7 +2070,7 @@ Prices and product models displayed in Malaysian Ringgit (MYR).
 
 ## [00:43:05] AliExpress Listings for Tire Inflator Jump Starter Models
 
-frame: 018_00-43-05.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:43:05](https://drive.google.com/file/d/1Gnwyn5siX3j4FV1XMjofYVT2oAO4BTYC/view?usp=drivesdk) · `018_00-43-05.png`
 
 *webpage*
 
@@ -2090,7 +2090,7 @@ Specific product designs and comparative MYR price points.
 
 ## [00:43:45] AliExpress Search and Image Search Upload
 
-frame: 018_00-43-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:43:45](https://drive.google.com/file/d/1VpSjNI9_jDwgRADESP33voRj_odDuLW7/view?usp=drivesdk) · `018_00-43-45.png`
 
 *webpage*
 
@@ -2104,7 +2104,7 @@ Search term: 'portable car jump starter'; modal dialog details.
 
 ## [00:44:00] AliExpress Currency Switcher Dropdown
 
-frame: 018_00-44-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:44:00](https://drive.google.com/file/d/19RzneTaxBp0-2pySS1-ql9M8vh-9z99D/view?usp=drivesdk) · `018_00-44-00.png`
 
 *webpage*
 
@@ -2118,7 +2118,7 @@ Dropdown currency choices listed.
 
 ## [00:44:10] AliExpress Image Search Results in USD
 
-frame: 018_00-44-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:44:10](https://drive.google.com/file/d/1MsLtnWnPVqTFk7RlmExfy2FHM314-z-1/view?usp=drivesdk) · `018_00-44-10.png`
 
 *webpage*
 
@@ -2139,7 +2139,7 @@ Detailed prices and listing names for image matches on AliExpress.
 
 ## [00:44:25] AliExpress Product Page for Jump Starter Air Pump
 
-frame: 018_00-44-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:44:25](https://drive.google.com/file/d/1s02LC3Thm1Q58doscannZP7DuHl_AJ10/view?usp=drivesdk) · `018_00-44-25.png`
 
 *product page*
 
@@ -2158,7 +2158,7 @@ Store name TOP-TECH Store, delivery date Nov 02 - 08, discount percentage 50%, o
 
 ## [00:44:40] HIEHA Smart Air Compressor Product Page
 
-frame: 018_00-44-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:44:40](https://drive.google.com/file/d/1pPFLmTj_ibMSJXCt7eq_E3YsYzfYRzZp/view?usp=drivesdk) · `018_00-44-40.png`
 
 *product page*
 
@@ -2181,7 +2181,7 @@ Brand title HIEHA, peak current 4000A, original price $89.99, shipping within 1-
 
 ## [00:45:15] Amazon Search Results for Portable Car Jump Starter with Air Compressor
 
-frame: 018_00-45-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:45:15](https://drive.google.com/file/d/1R_tuYzBiyehGP-pb_U3-BfAoQDCU5d_p/view?usp=drivesdk) · `018_00-45-15.png`
 
 *webpage*
 
@@ -2201,7 +2201,7 @@ Product names, review counts, star ratings (4.0 to 4.9), coupon percentages, and
 
 ## [00:45:25] Amazon Search Results Scrolled Down for Jump Starters
 
-frame: 018_00-45-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:45:25](https://drive.google.com/file/d/1Oqf_fACjP5r2B-69Ol_0ZwvDUXuJlwra/view?usp=drivesdk) · `018_00-45-25.png`
 
 *webpage*
 
@@ -2225,7 +2225,7 @@ Specific models, features (150PSI, 3000A, 8000mAh, 14.8V), list prices, and coup
 
 ## [00:45:30] Amazon Listings Comparison for Compact Jump Starter Air Compressors
 
-frame: 018_00-45-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:45:30](https://drive.google.com/file/d/1IqbZf7QI4DNczmq_nSgRPgVl-NfSRsin/view?usp=drivesdk) · `018_00-45-30.png`
 
 *webpage*
 
@@ -2244,7 +2244,7 @@ Exact specs of the $41.99 listing: '20000mA, Car Air Compressor Pump with Jump S
 
 ## [00:45:35] Amazon Listing Page for VOLSIVE Tire Inflator Jump Starter
 
-frame: 018_00-45-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:45:35](https://drive.google.com/file/d/1IIrYjApcJhjUPHMVvHPduk7ljOJ-DFjw/view?usp=drivesdk) · `018_00-45-35.png`
 
 *product page*
 
@@ -2269,7 +2269,7 @@ Store name 'VOLSIVE', voltage 21V, noise level 24 dB, 16 ratings, delivery date 
 
 ## [00:46:10] Amazon Search Results Showing Heavy Duty Jump Starters and Brands
 
-frame: 018_00-46-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:46:10](https://drive.google.com/file/d/1FHOkMrP9XJgppHdF2zORGDBtZ6JkPYKO/view?usp=drivesdk) · `018_00-46-10.png`
 
 *webpage*
 
@@ -2288,7 +2288,7 @@ NOCO Boost models GB50 and GB70, CAT 1750 A lithium power station, brand names, 
 
 ## [00:46:15] Amazon Search Results for Branded Jump Starters and Inflators
 
-frame: 018_00-46-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:46:15](https://drive.google.com/file/d/16-o7P4c0L02EJ9VtzYrZqJoaNLUNKdpM/view?usp=drivesdk) · `018_00-46-15.png`
 
 *webpage*
 
@@ -2312,7 +2312,7 @@ Major brands shown: Airmoto, AstroAI, HALO Bolt, DEWALT, STANLEY, Schumacher Ele
 
 ## [00:46:40] Claude Market Research for Portable Car Jump Starter Prices
 
-frame: 018_00-46-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:46:40](https://drive.google.com/file/d/1gkt4hSXsN7buMpIyprPi-Tu2zFJcq8-z/view?usp=drivesdk) · `018_00-46-40.png`
 
 *software demo*
 
@@ -2326,7 +2326,7 @@ Brand examples (Nexpow, Avapow, AstroAI S8, BUTURE, HOMPOW, JFEGWO J50) and spec
 
 ## [00:46:45] Kalodata Video Detail Metrics for Jump Starter Creative
 
-frame: 018_00-46-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:46:45](https://drive.google.com/file/d/1CCJ1l4ZFFYShSMgAaCZeMNDW-tuiBrvY/view?usp=drivesdk) · `018_00-46-45.png`
 
 *software demo*
 
@@ -2340,7 +2340,7 @@ Creator 'rdawgshop', 62.2k followers, Item Sold 1.83k, Revenue $56.54k, Ad Spend
 
 ## [00:47:00] Reddit MechanicAdvice Discussion on Jump Starters
 
-frame: 018_00-47-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:47:00](https://drive.google.com/file/d/1EIF4DrAFYqWnMrp8SQtlagXoFD3DCR-a/view?usp=drivesdk) · `018_00-47-00.png`
 
 *social post*
 
@@ -2354,7 +2354,7 @@ Full text of Reddit comment explaining cranking amps vs peak amps, cold weather 
 
 ## [00:47:05] Kalodata Product Video & Ad Performance Table
 
-frame: 018_00-47-05.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:47:05](https://drive.google.com/file/d/1uf33Wo_2BWUPfUKNOQxfM6ERD4zyHYGx/view?usp=drivesdk) · `018_00-47-05.png`
 
 *software demo*
 
@@ -2368,7 +2368,7 @@ Specific videos #2 through #6 with revenues ($17.76k, $9.05k, $8.76k, $7.76k, $6
 
 ## [00:47:10] Kalodata Similar Videos Creative Grid
 
-frame: 018_00-47-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:47:10](https://drive.google.com/file/d/1NBnH4JxiLQfHUqrCMpX8aDHYJAp4zzgr/view?usp=drivesdk) · `018_00-47-10.png`
 
 *software demo*
 
@@ -2382,7 +2382,7 @@ Thumbnails, hooks, and views/revenue pairs for the similar ad creatives grid.
 
 ## [00:47:15] TikTok Ad Creative for Portable Car Jump Starter
 
-frame: 018_00-47-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:47:15](https://drive.google.com/file/d/1S1HMyVjXpEDN-rFsg-lK-96PxaxkXb1F/view?usp=drivesdk) · `018_00-47-15.png`
 
 *ad example*
 
@@ -2396,7 +2396,7 @@ Visual demonstration of smoking jumper cables under car hood with the overlay te
 
 ## [00:47:50] TikTok Comments Section on Car Jump Starter Ad
 
-frame: 018_00-47-50.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:47:50](https://drive.google.com/file/d/1UZkltdZeoUOHQh39TBuBjp7Zd2DFMd8O/view?usp=drivesdk) · `018_00-47-50.png`
 
 *social post*
 
@@ -2410,7 +2410,7 @@ User comments text and like counts on the viral TikTok ad.
 
 ## [00:48:55] Google Trends Search Interest for Car Jump Starter
 
-frame: 018_00-48-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:48:55](https://drive.google.com/file/d/1ZeoMUZoPncgoUONtE-KHsgptmkH3L1wL/view?usp=drivesdk) · `018_00-48-55.png`
 
 *chart*
 
@@ -2424,7 +2424,7 @@ Google Trends: Term 'Car jump starter' in United States, Past 5 years, Web Searc
 
 ## [00:49:00] PetPivot Autoscooper 11 Smart Litter Box Product Page
 
-frame: 018_00-49-00.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:49:00](https://drive.google.com/file/d/13vLiuo7LG15W5FF9zv-rlPW5hlT83bAY/view?usp=drivesdk) · `018_00-49-00.png`
 
 *product page*
 
@@ -2445,7 +2445,7 @@ Product name 'Autoscooper 11 Open-Top Self-Cleaning Smart Cat Litter Box', origi
 
 ## [00:49:10] Similarweb Website Performance Overview for hieha.com
 
-frame: 018_00-49-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:49:10](https://drive.google.com/file/d/1CjiLTPXc856vBIbZ-DNr3UMAO8C0uZAR/view?usp=drivesdk) · `018_00-49-10.png`
 
 *software demo*
 
@@ -2465,7 +2465,7 @@ Exact total visits: 37,639; Desktop 19.90%, Mobile Web 80.10%, Global rank #881,
 
 ## [00:49:40] Similarweb Detailed Traffic & Engagement Metrics for hieha.com
 
-frame: 018_00-49-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:49:40](https://drive.google.com/file/d/1Bct5fHEbdYKusUT4jZ0JPpzYf_-rQSvr/view?usp=drivesdk) · `018_00-49-40.png`
 
 *software demo*
 
@@ -2484,7 +2484,7 @@ Visit Duration: 00:01:12, Pages / Visit: 1.83, Bounce Rate: 58.92%.
 
 ## [00:49:45] Kalodata Video & Ad List for Hieha Jump Starter
 
-frame: 018_00-49-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:49:45](https://drive.google.com/file/d/15RxMnQ5gVsQOnAjREBqKGH4zPyFyHeJn/view?usp=drivesdk) · `018_00-49-45.png`
 
 *software demo*
 
@@ -2505,7 +2505,7 @@ Specific videos, revenue breakdown ($56.54k, $17.76k, $9.05k, etc.), view counts
 
 ## [00:50:10] Hieha Official Store Product Page for Jump Starter
 
-frame: 018_00-50-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:50:10](https://drive.google.com/file/d/1vYdRz4C25brZVuXotHTBhNX6szvaVbZV/view?usp=drivesdk) · `018_00-50-10.png`
 
 *product page*
 
@@ -2527,7 +2527,7 @@ Product title specs (4000A, 15000mAh, 150 PSI), price $39.98 (original $89.99), 
 
 ## [00:50:20] Kalodata Product Rankings Table (Items 12-20)
 
-frame: 018_00-50-20.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:50:20](https://drive.google.com/file/d/1Yjz9da2OJRwopdLGVEaojlxQ9uJjL7Up/view?usp=drivesdk) · `018_00-50-20.png`
 
 *software demo*
 
@@ -2550,7 +2550,7 @@ All listed products, ranks 12 to 20, including NeoCell Collagen Bio-Peptides ($2
 
 ## [00:50:55] Kalodata Product Rankings Showing VEVOR Lawn Sweeper
 
-frame: 018_00-50-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:50:55](https://drive.google.com/file/d/1TWqutxvv9seSk9o0o1l5XQVCrUs6EV2b/view?usp=drivesdk) · `018_00-50-55.png`
 
 *software demo*
 
@@ -2570,7 +2570,7 @@ Full tooltips and metrics for VEVOR push lawn sweepers ($263.36k and $257.93k re
 
 ## [00:51:20] TikTok Creator Video on Collagen Supplement Benefits
 
-frame: 018_00-51-20.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:51:20](https://drive.google.com/file/d/1ePJtCLC6D591_IJYFu_EB_PNkJufOlwB/view?usp=drivesdk) · `018_00-51-20.png`
 
 *social post*
 
@@ -2591,7 +2591,7 @@ Creator username @drew.review1, post date 6-30, like count 88K, bookmark count 4
 
 ## [00:51:30] TikTok Collagen Video Citing Plastic and Aesthetic Research Study
 
-frame: 018_00-51-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:51:30](https://drive.google.com/file/d/1FtXhmhNUw4LOvbmikY1TJ-wwrVFvJBFt/view?usp=drivesdk) · `018_00-51-30.png`
 
 *social post*
 
@@ -2608,7 +2608,7 @@ Study title 'Skin collagen through the lifestages: Importance for skin health an
 
 ## [00:51:40] TikTok Collagen Video Displaying Hydrolyzed Collagen Absorption Rate
 
-frame: 018_00-51-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:51:40](https://drive.google.com/file/d/1vTSTrZwCgpARsbGpismIbFvgO88X4eAX/view?usp=drivesdk) · `018_00-51-40.png`
 
 *social post*
 
@@ -2626,7 +2626,7 @@ Text box stating 'Hydrolyzed collagen is said to have a higher absorption rate, 
 
 ## [00:51:45] TikTok Collagen Ad Diagram of Collagen Synthesis
 
-frame: 018_00-51-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:51:45](https://drive.google.com/file/d/1FG5qBXKR7JPWnFtEMh2XEv_rXELY-LIy/view?usp=drivesdk) · `018_00-51-45.png`
 
 *ad example*
 
@@ -2640,7 +2640,7 @@ Diagram text: 'Collagen synthesis', 'Amino acids', 'Peptides', 'Gelatin', 'Colla
 
 ## [00:51:50] TikTok Collagen Ad Text on Absorption and Solubility
 
-frame: 018_00-51-50.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:51:50](https://drive.google.com/file/d/1CcUVFNklGCN_MEybgl5d0ijYdbTniWKf/view?usp=drivesdk) · `018_00-51-50.png`
 
 *ad example*
 
@@ -2656,7 +2656,7 @@ Full text of 'Enhanced Absorption' and 'Increased Solubility' points.
 
 ## [00:51:55] TikTok Collagen Ad Diagram of Collagen Structure
 
-frame: 018_00-51-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:51:55](https://drive.google.com/file/d/1sUvQCT-lKmjnWM9qvnLLQkNo-UJ6GQGO/view?usp=drivesdk) · `018_00-51-55.png`
 
 *ad example*
 
@@ -2676,7 +2676,7 @@ Diagram components: Collagen fibers, fibrils, molecules (triple helices), alpha-
 
 ## [00:52:15] TikTok Collagen Ad Citing Osteoarthritis Study
 
-frame: 018_00-52-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:52:15](https://drive.google.com/file/d/1wQ3C6h9XuWkk5JoYkRtubAaXEHOhH3ec/view?usp=drivesdk) · `018_00-52-15.png`
 
 *ad example*
 
@@ -2692,7 +2692,7 @@ Paper title: 'Collagen hydrolysate for the treatment of osteoarthritis and other
 
 ## [00:52:20] TikTok Collagen Ad Citing Hair Loss Research
 
-frame: 018_00-52-20.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:52:20](https://drive.google.com/file/d/1ub34toftnq3IewFAksFUZhQ7y4rvEhRy/view?usp=drivesdk) · `018_00-52-20.png`
 
 *ad example*
 
@@ -2708,7 +2708,7 @@ Paper title: 'Revealing novel insights on how oral supplementation with collagen
 
 ## [00:52:40] TikTok Creator Holding NeoCell Collagen Bio-Peptides Container
 
-frame: 018_00-52-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:52:40](https://drive.google.com/file/d/1kRYMZww6_ZPebA5PsTuBD5dKEDVwvXGu/view?usp=drivesdk) · `018_00-52-40.png`
 
 *ad example* | legibility: partly legible
 
@@ -2722,7 +2722,7 @@ Video progress showing total length 02:22; container text details: 20G, Grassfed
 
 ## [00:53:05] Kalodata Video Details for Collagen TikTok Ad
 
-frame: 018_00-53-05.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:53:05](https://drive.google.com/file/d/1MmeB99gnd6zdErBwCQqy5x6YuRguzTW9/view?usp=drivesdk) · `018_00-53-05.png`
 
 *software demo*
 
@@ -2749,7 +2749,7 @@ Advertising Period (113 Days), exact metrics: 815.9k views, 960 items sold, $28.
 
 ## [00:53:10] Kalodata Product Detail Page for NeoCell Collagen Bio-Peptides
 
-frame: 018_00-53-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:53:10](https://drive.google.com/file/d/1h2eM1S7yfwczG-KKyu34X2QVyfq8YJ5b/view?usp=drivesdk) · `018_00-53-10.png`
 
 *software demo*
 
@@ -2774,7 +2774,7 @@ NeoCell Collagen Bio-Peptides 7-day revenue: $297.65k, units: 9.93k, video reven
 
 ## [00:53:25] NeoCell Store Product Page for Grassfed Collagen Bio-Peptides
 
-frame: 018_00-53-25.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:53:25](https://drive.google.com/file/d/1zBZTW6HYHFDLVFv5-vv49cYqOvq4xA36/view?usp=drivesdk) · `018_00-53-25.png`
 
 *product page*
 
@@ -2794,7 +2794,7 @@ Exact product title, supply options (10 oz 14 days vs 20 oz 28 days), Subscribe 
 
 ## [00:55:05] NeoCell Grassfed Collagen Bio-Peptides Product Page
 
-frame: 018_00-55-05.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:55:05](https://drive.google.com/file/d/1M6NRxBpZ_xE_XYLULb-L8R__amgz_sAQ/view?usp=drivesdk) · `018_00-55-05.png`
 
 *product page*
 
@@ -2813,7 +2813,7 @@ Customer rating (4.5 stars, 195 reviews), 20K+ bought stat, specific bullet poin
 
 ## [00:55:40] NeoCell Product Page Customer Reviews Carousel
 
-frame: 018_00-55-40.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:55:40](https://drive.google.com/file/d/1vUwG-RILiFQM-StluJ-4EOYj6gwzNtQE/view?usp=drivesdk) · `018_00-55-40.png`
 
 *product page*
 
@@ -2827,7 +2827,7 @@ Specific review quotes and customer usernames on the slide visual carousel.
 
 ## [00:57:30] TikTok Creator Video on How to Take Collagen
 
-frame: 018_00-57-30.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:57:30](https://drive.google.com/file/d/10eoITSIZg7RY9AwQc_7VUkOLUwzEUz48/view?usp=drivesdk) · `018_00-57-30.png`
 
 *ad example*
 
@@ -2845,7 +2845,7 @@ Text 'From Cancer Researcher', exact engagement counts (88K likes, 1483 comments
 
 ## [00:57:55] Kalodata Product Rank Table Filtered by Unit Price
 
-frame: 018_00-57-55.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:57:55](https://drive.google.com/file/d/1dm6_yEKS8oU_h2o2chq_S6Z9Qx8cfhve/view?usp=drivesdk) · `018_00-57-55.png`
 
 *software demo*
 
@@ -2867,7 +2867,7 @@ Filter criteria applied (Avg Unit Price 15 - infinity), product names, revenue n
 
 ## [00:58:05] Kalodata Top Products by 30-Day Revenue
 
-frame: 018_00-58-05.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:58:05](https://drive.google.com/file/d/1YO3uuAmTsS4CfAfRfvCOREejsiIHRTBh/view?usp=drivesdk) · `018_00-58-05.png`
 
 *software demo*
 
@@ -2888,7 +2888,7 @@ Top product rankings for PetPivot, Zero Sugar Trio, Shark Vacuum, Tarte, Medicub
 
 ## [00:58:10] Kalodata Video & Ad List for PetPivot Autoscooper
 
-frame: 018_00-58-10.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:58:10](https://drive.google.com/file/d/1CIR_zNf1liVsaduh-zu3_w1z9R_I7buH/view?usp=drivesdk) · `018_00-58-10.png`
 
 *software demo*
 
@@ -2908,7 +2908,7 @@ Individual video titles/hooks, revenue per creative ($377.87k, $334.40k, etc.), 
 
 ## [00:58:15] Kalodata Ad Details and Performance Metrics for PetPivot
 
-frame: 018_00-58-15.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:58:15](https://drive.google.com/file/d/1iZxJNGNXsE_3_da0eA4FgDknOaLTmzM6/view?usp=drivesdk) · `018_00-58-15.png`
 
 *software demo*
 
@@ -2928,7 +2928,7 @@ Creator details (@coltomn, 183.7k followers), advertising duration (39 days), da
 
 ## [00:58:50] Kalodata Creator Sales Table for PetPivot Autoscooper
 
-frame: 018_00-58-50.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:58:50](https://drive.google.com/file/d/1It5D3oY4oeAaGsyM6ZdZCTvuV4QXKA0h/view?usp=drivesdk) · `018_00-58-50.png`
 
 *software demo*
 
@@ -2951,7 +2951,7 @@ Specific creator handles, follower counts, revenues, items sold, and the Creator
 
 ## [00:59:35] Google Search Results for 'clear metadata from video'
 
-frame: 018_00-59-35.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:59:35](https://drive.google.com/file/d/1a322QBgL7wR61KBFGiW62ds2LfsD-bMX/view?usp=drivesdk) · `018_00-59-35.png`
 
 *webpage*
 
@@ -2971,7 +2971,7 @@ Specific metadata removal tools and websites listed in Google search results.
 
 ## [00:59:45] Kalodata Video & Ad Performance Ranking for PetPivot
 
-frame: 018_00-59-45.png (Drive: https://drive.google.com/file/d/15sfEWTHlHHBWU7tXtRYpfTs9lU8m_Su8/view?usp=drivesdk)
+[frame 00:59:45](https://drive.google.com/file/d/1WD7-yqtYFMSTV4QBONUb_x204tUTlgCK/view?usp=drivesdk) · `018_00-59-45.png`
 
 *software demo*
 

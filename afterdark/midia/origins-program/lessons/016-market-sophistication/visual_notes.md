@@ -1,14 +1,14 @@
 # 16. Market Sophistication - Visual notes
 
 - **Frames kept:** 20 of 29 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 744x480 (native), PNG frames in Google Drive as [016-market-sophistication-frames.zip](https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+- **Resolution:** 744x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/016-market-sophistication](https://drive.google.com/drive/folders/1mvdNSFI7i_1idV51bofTsFR6CfuRiJzo)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:55] Easy A Media - Market Sophistication Title Slide
 
-frame: 016_00-00-55.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:00:55](https://drive.google.com/file/d/1ZRwqxUCBW-CHuaT7mU58JDNXUMg5VwSR/view?usp=drivesdk) · `016_00-00-55.png`
 
 *title card*
 
@@ -24,7 +24,7 @@ Market Sophistication
 
 ## [00:02:30] Market Sophistication Exercise - Choose a Shirt
 
-frame: 016_00-02-30.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:02:30](https://drive.google.com/file/d/1yQyng97o6ak01yc8be0JwxEg4zo6SiLV/view?usp=drivesdk) · `016_00-02-30.png`
 
 *slide*
 
@@ -37,7 +37,7 @@ Easy A Media
 
 ## [00:04:00] Market Sophistication Lesson
 
-frame: 016_00-04-00.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:04:00](https://drive.google.com/file/d/1FTT0JjsbDtFzx_BVrbIwXXB2YJOsNeRe/view?usp=drivesdk) · `016_00-04-00.png`
 
 *slide*
 
@@ -54,7 +54,7 @@ Easy A Media
 
 ## [00:05:50] What Is Market Sophistication Diagram and Levels
 
-frame: 016_00-05-50.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:05:50](https://drive.google.com/file/d/1CtoJ6CI57uCywtJhLCN1xmxvm_DFu2ar/view?usp=drivesdk) · `016_00-05-50.png`
 
 *diagram*
 
@@ -85,7 +85,7 @@ Diagram text for all 5 levels: "Level 1: Brand New Market - Make any claim", "Le
 
 ## [00:05:55] Market Sophistication - Stage #1
 
-frame: 016_00-05-55.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:05:55](https://drive.google.com/file/d/1sHHY5ZNyuArr-nJi97cBTG5yp4gnNGQ1/view?usp=drivesdk) · `016_00-05-55.png`
 
 *slide*
 
@@ -110,7 +110,7 @@ Text on image: "In 1999, RIM released their first Blackberry, a two-way pager th
 
 ## [00:08:45] Market Sophistication - Stage #2
 
-frame: 016_00-08-45.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:08:45](https://drive.google.com/file/d/1zTAri1X2U_A0IwppIAFs1v-LULDu2l2v/view?usp=drivesdk) · `016_00-08-45.png`
 
 *slide*
 
@@ -134,7 +134,7 @@ Phone model visible: Nokia E62
 
 ## [00:09:50] Market Sophistication - Stage #3
 
-frame: 016_00-09-50.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:09:50](https://drive.google.com/file/d/1WaPMkv_XbVE1W_sSgYOpdnfhEFoy0eo3/view?usp=drivesdk) · `016_00-09-50.png`
 
 *slide*
 
@@ -158,7 +158,7 @@ iPhone ad text: "Touching is believing. The revolutionary new iPhone is now avai
 
 ## [00:10:00] Market Sophistication - Stage #4
 
-frame: 016_00-10-00.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:10:00](https://drive.google.com/file/d/1g_EPKdML0OzP8sqiSbyb3T8_SarC75Ai/view?usp=drivesdk) · `016_00-10-00.png`
 
 *slide*
 
@@ -178,7 +178,7 @@ Make it easier, faster, solve it better, overcome limitations.
 
 ## [00:11:45] Market Sophistication - Stage #5
 
-frame: 016_00-11-45.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:11:45](https://drive.google.com/file/d/1xEdApkjhpiiV9fXPChARnK-6_l5HKcjs/view?usp=drivesdk) · `016_00-11-45.png`
 
 *slide*
 
@@ -198,7 +198,7 @@ Show the market the version of themselves they want to become, selling the perso
 
 ## [00:11:55] Rolex Explorer Commercial Video Opening
 
-frame: 016_00-11-55.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:11:55](https://drive.google.com/file/d/1_uvFoYM-S7Epj90C9mlRSxTaH2ZpwAYe/view?usp=drivesdk) · `016_00-11-55.png`
 
 *ad example*
 
@@ -212,7 +212,7 @@ Title of the video: 'The Explorer's new territories'.
 
 ## [00:12:00] Rolex Explorer Commercial - Mountaineering Landscape
 
-frame: 016_00-12-00.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:12:00](https://drive.google.com/file/d/1qx34yB264zUhPsoQYlJmDhyHuMtR-N4v/view?usp=drivesdk) · `016_00-12-00.png`
 
 *ad example*
 
@@ -226,7 +226,7 @@ Subtitle: 'It can very well take someone this high.'
 
 ## [00:12:05] Rolex Explorer Commercial - Blizzard Expedition
 
-frame: 016_00-12-05.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:12:05](https://drive.google.com/file/d/17hnQxmXTPjDHCxEddcrWmSrBnFPpVxCt/view?usp=drivesdk) · `016_00-12-05.png`
 
 *ad example*
 
@@ -240,7 +240,7 @@ Subtitle: 'Or this far.'
 
 ## [00:12:10] Rolex Explorer Commercial - Cave Exploration
 
-frame: 016_00-12-10.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:12:10](https://drive.google.com/file/d/1JpbF9tJGPYGR6cSe7Cgf-APbFv8XrMZP/view?usp=drivesdk) · `016_00-12-10.png`
 
 *ad example*
 
@@ -254,7 +254,7 @@ Subtitle: 'Or this deep.'
 
 ## [00:12:35] Rolex Explorer Commercial - Mountain Ridgeline
 
-frame: 016_00-12-35.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:12:35](https://drive.google.com/file/d/1lbUHntR3GcSW1XH-Ex7nEoD2y_mkcXx_/view?usp=drivesdk) · `016_00-12-35.png`
 
 *ad example*
 
@@ -268,7 +268,7 @@ Subtitle: 'Designed to withstand the sheer strength of nature,'
 
 ## [00:12:50] Rolex Explorer Commercial - Summit Hug
 
-frame: 016_00-12-50.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:12:50](https://drive.google.com/file/d/1QxrQQeKWafTvR2HccFT5n9J8xY55m9_f/view?usp=drivesdk) · `016_00-12-50.png`
 
 *ad example*
 
@@ -282,7 +282,7 @@ Subtitle: 'After all, it did.'
 
 ## [00:13:45] Market Sophistication - Stage #1
 
-frame: 016_00-13-45.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:13:45](https://drive.google.com/file/d/1EqXzKHOxun1tUSY3yeboUF1pS8kWRXAa/view?usp=drivesdk) · `016_00-13-45.png`
 
 *slide*
 
@@ -308,7 +308,7 @@ Detailed text of stage 1 definition, goal, action, and the BlackBerry ad image c
 
 ## [00:15:25] How To Determine Market Sophistication
 
-frame: 016_00-15-25.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:15:25](https://drive.google.com/file/d/1RGKwX2mKwhz9D2xG1K_64ZgT7JQYC6Ao/view?usp=drivesdk) · `016_00-15-25.png`
 
 *slide*
 
@@ -329,7 +329,7 @@ Subtitle: 'how many products or solutions have your consumers seen before'; numb
 
 ## [00:16:55] Foreplay Board for Market Sophistication Research
 
-frame: 016_00-16-55.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:16:55](https://drive.google.com/file/d/1-vp2qqa3VoXAo8KdpVMk47-IVLECkaiO/view?usp=drivesdk) · `016_00-16-55.png`
 
 *slide*
 
@@ -351,7 +351,7 @@ Link shown: https://app.foreplay.co/boards/uW7xCNiDmyYuOd7tWFP5
 
 ## [00:17:00] Market Sophistication - Exercise (T-Shirt Visual Analogy)
 
-frame: 016_00-17-00.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:17:00](https://drive.google.com/file/d/1Pt1IQY0vamowi0n37KjO6wEsCEgYlj_2/view?usp=drivesdk) · `016_00-17-00.png`
 
 *slide*
 
@@ -367,7 +367,7 @@ Heading 'Market Sophistication - Exercise', 'Choose a Shirt', visual arrangement
 
 ## [00:18:50] Learn More About Market Sophistication - Breakthrough Advertising
 
-frame: 016_00-18-50.png (Drive: https://drive.google.com/file/d/195x196ecrbj1ImrPCRAX6nySzRDobOLb/view?usp=drivesdk)
+[frame 00:18:50](https://drive.google.com/file/d/1jPUSEC2YiqcNE4r22cHsWZO-VoI8BVpN/view?usp=drivesdk) · `016_00-18-50.png`
 
 *slide*
 

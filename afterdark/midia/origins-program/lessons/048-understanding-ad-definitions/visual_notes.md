@@ -1,14 +1,14 @@
 # 48. Understanding ad definitions - Visual notes
 
 - **Frames kept:** 7 of 38 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [048-understanding-ad-definitions-frames.zip](https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/048-understanding-ad-definitions](https://drive.google.com/drive/folders/115eIclT2nk3-0o-FyQf2FXrcxVST60bA)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:01:25] Ad Definitions: 3:2:2, Concept/Batch #, Concept/Swing, Angle
 
-frame: 048_00-01-25.png (Drive: https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk)
+[frame 00:01:25](https://drive.google.com/file/d/1Lka7yi4h615cfpgwv7c6bUMgWSPdLxUZ/view?usp=drivesdk) · `048_00-01-25.png`
 
 *document*
 
@@ -49,7 +49,7 @@ Document title: "Official - Avatar Mastery for Shopify Brands: The Meta-First Fr
 
 ## [00:03:35] Ad Definitions: Concept/Swing and Angle Examples
 
-frame: 048_00-03-35.png (Drive: https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk)
+[frame 00:03:35](https://drive.google.com/file/d/1wRjKxZmPGpceebrxJRBGjnsD2WFyoQQl/view?usp=drivesdk) · `048_00-03-35.png`
 
 *document*
 
@@ -82,7 +82,7 @@ Angle examples not spoken yet: "Postpartum weight despite trying everything", "S
 
 ## [00:10:10] Ad Definitions: Concept vs Angle Examples
 
-frame: 048_00-10-10.png (Drive: https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk)
+[frame 00:10:10](https://drive.google.com/file/d/1FbycCCKGffzKC767YtXllnw9TO4c52hr/view?usp=drivesdk) · `048_00-10-10.png`
 
 *document*
 
@@ -110,7 +110,7 @@ Key insight: Every ad needs an angle. Even if your concept is "testing formats,"
 
 ## [00:12:25] Ad Definitions: Variations and Format
 
-frame: 048_00-12-25.png (Drive: https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk)
+[frame 00:12:25](https://drive.google.com/file/d/19hR1T46fPpo7nf3MpPtJcKNwgB0TijWV/view?usp=drivesdk) · `048_00-12-25.png`
 
 *document*
 
@@ -129,7 +129,7 @@ Example: You could show the same message as a video of a real person talking, a 
 
 ## [00:12:35] Ad Definitions Intro and 3:2:2 Definition
 
-frame: 048_00-12-35.png (Drive: https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk)
+[frame 00:12:35](https://drive.google.com/file/d/1-fMJg8mg2KKh67xdjWh_Kkdtd5IHIwoA/view?usp=drivesdk) · `048_00-12-35.png`
 
 *document*
 
@@ -152,7 +152,7 @@ Ad Definitions introductory note text
 
 ## [00:14:05] Ad Definitions: Format updated with product image
 
-frame: 048_00-14-05.png (Drive: https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk)
+[frame 00:14:05](https://drive.google.com/file/d/1ZZRZxwr5Oa_9Pwri-YdPwYyzGRusUsiO/view?usp=drivesdk) · `048_00-14-05.png`
 
 *document*
 
@@ -171,7 +171,7 @@ Example: You could show the same message as a video of a real person talking, a 
 
 ## [00:16:25] Ad Definitions: Angle, Variations, and Format Overview
 
-frame: 048_00-16-25.png (Drive: https://drive.google.com/file/d/1YGt05bCE--dqbhGZhwDJWWDEkH7zMc_U/view?usp=drivesdk)
+[frame 00:16:25](https://drive.google.com/file/d/1h67uPP-cUTyhXijfy55OPXjP_YPtgpzq/view?usp=drivesdk) · `048_00-16-25.png`
 
 *document*
 

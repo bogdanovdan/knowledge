@@ -1,14 +1,14 @@
 # 88. How to review winning ads (even if you have 0) - Visual notes
 
 - **Frames kept:** 54 of 125 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [088-how-to-review-winning-ads-even-if-you-have-0-frames.zip](https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/088-how-to-review-winning-ads-even-if-you-have-0](https://drive.google.com/drive/folders/13ez-JzV9VqkqxshhsTeMFWb8FcYnFhy2)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:15] Origins Winning Ads Presentation Title Slide
 
-frame: 088_00-00-15.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:00:15](https://drive.google.com/file/d/1OKbmvqpfwobkjFLO20p4YlwDfoAPB3uI/view?usp=drivesdk) · `088_00-00-15.png`
 
 *slide*
 
@@ -24,7 +24,7 @@ Canva interface header shows document title 'Origins - Winning Video Ads'. Botto
 
 ## [00:00:20] Using Speed To Sell Ad Breakdown
 
-frame: 088_00-00-20.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:00:20](https://drive.google.com/file/d/1tO9rosWpIRiiLeaVjZu6U91J-TVCwp3D/view?usp=drivesdk) · `088_00-00-20.png`
 
 *ad example*
 
@@ -45,7 +45,7 @@ Dog dental powder ad example copy and visual showing dog mouth/teeth.
 
 ## [00:00:25] Using Ease To Sell Ad Breakdown
 
-frame: 088_00-00-25.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:00:25](https://drive.google.com/file/d/1X75lY-frUurbc48aU-jMZA8Di6CceSCc/view?usp=drivesdk) · `088_00-00-25.png`
 
 *ad example*
 
@@ -66,7 +66,7 @@ Ad text details: '2x more pyrithione zinc than leading brands for powerfully eff
 
 ## [00:00:40] Leading With New Mechanism Ad Breakdown
 
-frame: 088_00-00-40.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:00:40](https://drive.google.com/file/d/1lEz1zgy0qWZ8v2r1tFaBCEIDTqTEF2e3/view?usp=drivesdk) · `088_00-00-40.png`
 
 *ad example*
 
@@ -87,7 +87,7 @@ Ad copy details: 'Compression socks aren't supposed to hurt...', video subtitle 
 
 ## [00:00:45] Origins Program Winning Video Ads Course Document
 
-frame: 088_00-00-45.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:00:45](https://drive.google.com/file/d/1inJiz4aDFbN_uNBm2Tlc6vBb8YrDsf-h/view?usp=drivesdk) · `088_00-00-45.png`
 
 *document*
 
@@ -109,7 +109,7 @@ AdSpy tool link (app.adspy.com), search filter instructions: 'ads active during 
 
 ## [00:01:05] Static Ad Breakdown - Solution Exaggeration
 
-frame: 088_00-01-05.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:01:05](https://drive.google.com/file/d/13gng-HpSAhtJJYjHS64MdjiKRl1MmL67/view?usp=drivesdk) · `088_00-01-05.png`
 
 *ad example*
 
@@ -134,7 +134,7 @@ Ad creative text points: 'Reduces Swelling & Inflammation', 'Improves Blood Circ
 
 ## [00:02:05] Static Ad Breakdown - Stealing Credibility
 
-frame: 088_00-02-05.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:02:05](https://drive.google.com/file/d/1lTMiz-fnyWRm2USEu5x34celiZzdC-TR/view?usp=drivesdk) · `088_00-02-05.png`
 
 *ad example*
 
@@ -158,7 +158,7 @@ All bullet points under 'WHY THIS AD WORKS': '1 STEALS CREDIBILITY FROM A FAMILI
 
 ## [00:03:10] Static Ad Breakdown - This Is Not The Product
 
-frame: 088_00-03-10.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:03:10](https://drive.google.com/file/d/1fykwDARwcLsDUg9bgG8Ix4A0uU-uBLWA/view?usp=drivesdk) · `088_00-03-10.png`
 
 *slide*
 
@@ -177,7 +177,7 @@ Detailed bullet points 1 and 2 under 'WHY THIS AD WORKS' explaining clever wordp
 
 ## [00:03:55] Learnings Document Template with Ad Metrics
 
-frame: 088_00-03-55.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:03:55](https://drive.google.com/file/d/1tY72laaMML-F23CuDj_qd5RBXi6pVLjK/view?usp=drivesdk) · `088_00-03-55.png`
 
 *document*
 
@@ -211,7 +211,7 @@ CTR: 0.75%, Result: Loser, V3: Most amount of spend, text 'Voice to texting righ
 
 ## [00:04:25] Facebook Video Ad Example - Hollow Alpaca Socks
 
-frame: 088_00-04-25.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:04:25](https://drive.google.com/file/d/1c0maY9E2MRBV-m1PcKAZbOecLxnA_3MV/view?usp=drivesdk) · `088_00-04-25.png`
 
 *social post*
 
@@ -231,7 +231,7 @@ Page name: Hollow Alpaca Socks, date: June 20, ad copy: '14+ Hours. No Swelling.
 
 ## [00:04:35] Facebook Video Ad Example - Sock Close-up
 
-frame: 088_00-04-35.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:04:35](https://drive.google.com/file/d/1EENZPxdgJfhjISy3ky3rKieFZcomNHVj/view?usp=drivesdk) · `088_00-04-35.png`
 
 *social post*
 
@@ -246,7 +246,7 @@ Close-up visual of white knit sock on carpet.
 
 ## [00:04:40] Facebook Video Ad Example - Blurry Legs Hook Shot
 
-frame: 088_00-04-40.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:04:40](https://drive.google.com/file/d/1qSUjDSXEqbNnNYk3hQbMDpjRJcCLyiPi/view?usp=drivesdk) · `088_00-04-40.png`
 
 *social post*
 
@@ -261,7 +261,7 @@ Visual sequence showing motion blur transition of legs putting on beige stocking
 
 ## [00:08:30] Facebook Video Ad Example - Cardiologists Trash Caption
 
-frame: 088_00-08-30.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:08:30](https://drive.google.com/file/d/1DYYg0Wnk_BRXyeYLFT5CLGAWTSRf3UFU/view?usp=drivesdk) · `088_00-08-30.png`
 
 *ad example*
 
@@ -275,7 +275,7 @@ Post reactions: 10K likes, 512 comments, 1.5M views. Commenters: Sheila M Hickso
 
 ## [00:08:35] Canva Presentation Slide - Leading With New Mechanism
 
-frame: 088_00-08-35.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:08:35](https://drive.google.com/file/d/1rlzLT5ldXUuOqtcpHMnT84Mul7JZkp5o/view?usp=drivesdk) · `088_00-08-35.png`
 
 *slide*
 
@@ -289,7 +289,7 @@ Google search overlay suggestions at top: 'Analyze the key strategies used in su
 
 ## [00:08:50] Google Search - Cardiologist Definition and Key Functions
 
-frame: 088_00-08-50.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:08:50](https://drive.google.com/file/d/1vJeVAis9p9NuWvstazfuYkDbub5XV_iH/view?usp=drivesdk) · `088_00-08-50.png`
 
 *webpage*
 
@@ -303,7 +303,7 @@ Sources: UCLA Medical School ('What Is a Cardiologist? | Faculty Spotlight'), 'W
 
 ## [00:09:15] Facebook Video Ad Example - Revolution Caption
 
-frame: 088_00-09-15.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:09:15](https://drive.google.com/file/d/1c7ECE06wOT44IExGa1rspuCNZtB9ARal/view?usp=drivesdk) · `088_00-09-15.png`
 
 *ad example*
 
@@ -317,7 +317,7 @@ Same post sidebar: 10K likes, 512 comments, 1.5M views.
 
 ## [00:09:30] Google Search - Do Cardiologists Recommend Compression Socks
 
-frame: 088_00-09-30.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:09:30](https://drive.google.com/file/d/1wTHHKmTgWsuxdLL6P77GOsy9Lov_G9s9/view?usp=drivesdk) · `088_00-09-30.png`
 
 *webpage*
 
@@ -331,7 +331,7 @@ Related searches under People also ask: 'When should you not use compression soc
 
 ## [00:11:20] Facebook Video Ad Example - Completely By Accident Hook
 
-frame: 088_00-11-20.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:11:20](https://drive.google.com/file/d/1grQl3cOR3GecMWlIWRbNM-72qQ9MTYxQ/view?usp=drivesdk) · `088_00-11-20.png`
 
 *ad example*
 
@@ -345,7 +345,7 @@ On-screen caption 'COMPLETELY BY ACCIDENT.'
 
 ## [00:11:25] Facebook Video Ad Example - The Hollow Fiber Hook
 
-frame: 088_00-11-25.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:11:25](https://drive.google.com/file/d/1SNQJn50zZtl0nL7P53LXoESdIxeB06tR/view?usp=drivesdk) · `088_00-11-25.png`
 
 *ad example*
 
@@ -359,7 +359,7 @@ On-screen caption 'THE HOLLOW FIBER'
 
 ## [00:11:35] Facebook Video Ad Example - Socks Happened Caption
 
-frame: 088_00-11-35.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:11:35](https://drive.google.com/file/d/106rUp5VgtL78Jj28fyx48B6t-oiueR1J/view?usp=drivesdk) · `088_00-11-35.png`
 
 *ad example*
 
@@ -373,7 +373,7 @@ Facebook post headline: '14+ Hours. No Swelling. Compression socks aren't suppos
 
 ## [00:11:40] Facebook Video Ad Example - Their Own Compression Caption
 
-frame: 088_00-11-40.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:11:40](https://drive.google.com/file/d/1M9Ex_gV8hiEq9s7dqNcLrmwVvjcXy7zt/view?usp=drivesdk) · `088_00-11-40.png`
 
 *ad example*
 
@@ -383,7 +383,7 @@ Facebook video ad showing white sock on carpet. On-screen caption: 'THEIR OWN CO
 
 ## [00:12:20] Facebook Video Ad Example - Revolution That's Making Caption
 
-frame: 088_00-12-20.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:12:20](https://drive.google.com/file/d/1pOLGENMq60bF4l-mT-cHpJ8sXhWmlHjE/view?usp=drivesdk) · `088_00-12-20.png`
 
 *ad example*
 
@@ -393,7 +393,7 @@ Facebook ad video showing a blonde woman pulling on a dark grey compression sock
 
 ## [00:13:25] Facebook Video Ad Example - Compression Socks Feel Caption
 
-frame: 088_00-13-25.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:13:25](https://drive.google.com/file/d/1kdh-MPJ26NKK6ByDfhi2HKjr9MfKVeG-/view?usp=drivesdk) · `088_00-13-25.png`
 
 *ad example*
 
@@ -403,7 +403,7 @@ Facebook ad video showing person pulling up tan/beige compression stockings on l
 
 ## [00:13:35] Google Search - Why Are Compression Socks So Uncomfortable
 
-frame: 088_00-13-35.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:13:35](https://drive.google.com/file/d/1SlM0ogDMI1XufBhbanmbxW0GXdHR2hzz/view?usp=drivesdk) · `088_00-13-35.png`
 
 *webpage*
 
@@ -427,7 +427,7 @@ Autocomplete list items, Vim & Vigr article snippet details ('Oct 3, 2023 - They
 
 ## [00:13:45] Reddit Thread r/POTS Customer Research on Compression Socks
 
-frame: 088_00-13-45.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:13:45](https://drive.google.com/file/d/1btVUghaFeLgy41M7bHaxqslljZFdS63Q/view?usp=drivesdk) · `088_00-13-45.png`
 
 *social post*
 
@@ -444,7 +444,7 @@ User comments discussing diabetic socks made of cotton, overheating from synthet
 
 ## [00:13:50] Facebook Video Ad Example - So Uncomfortable Caption
 
-frame: 088_00-13-50.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:13:50](https://drive.google.com/file/d/1ADdFRHlf6qrKfOO2nAbppTz-TQNzIJMz/view?usp=drivesdk) · `088_00-13-50.png`
 
 *ad example*
 
@@ -458,7 +458,7 @@ Ad post header: 'Hollow Alpaca Socks - June 20 - 14+ Hours. No Swelling. Compres
 
 ## [00:13:55] Facebook Video Ad Example - So Why Do Most Caption
 
-frame: 088_00-13-55.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:13:55](https://drive.google.com/file/d/1gPu4dnh5ymeetUDNbvQa9Zc1KRnJZcOS/view?usp=drivesdk) · `088_00-13-55.png`
 
 *ad example*
 
@@ -468,7 +468,7 @@ Facebook video ad for Hollow Alpaca Socks with on-screen caption text: "SO WHY D
 
 ## [00:15:00] Facebook Video Ad Example - The Wrong Materials Caption
 
-frame: 088_00-15-00.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:15:00](https://drive.google.com/file/d/1l3hknK3obQcNbS-nfJN1kp6BOuZdTIFm/view?usp=drivesdk) · `088_00-15-00.png`
 
 *ad example*
 
@@ -482,7 +482,7 @@ Red 'X' icon graphic overlaid above the green sock.
 
 ## [00:15:15] Facebook Video Ad Example - Been Using Caption
 
-frame: 088_00-15-15.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:15:15](https://drive.google.com/file/d/1ezjAx4FN2Qlqgpl1l2ut6Xl7vbrKzGE4/view?usp=drivesdk) · `088_00-15-15.png`
 
 *ad example*
 
@@ -492,7 +492,7 @@ Facebook video ad showing hands rolling up a lime green sock with on-screen capt
 
 ## [00:15:20] Facebook Video Ad Example - Hollow Compression Socks Caption
 
-frame: 088_00-15-20.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:15:20](https://drive.google.com/file/d/1Z_QtijWHQSKlhmmIgF0Qc0IaCaCcTcAk/view?usp=drivesdk) · `088_00-15-20.png`
 
 *ad example*
 
@@ -510,7 +510,7 @@ User comments on side panel: Sheila M Hickson: 'I love mine! Easy to put on...';
 
 ## [00:15:30] Facebook Video Ad Example - Naturally Hollow Fibers Caption
 
-frame: 088_00-15-30.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:15:30](https://drive.google.com/file/d/1ljK4l58Eihwn4C0UJ5gpxm_gNOqvIdgn/view?usp=drivesdk) · `088_00-15-30.png`
 
 *ad example*
 
@@ -522,7 +522,7 @@ Facebook video ad showing close-up of grey knit sock:
 
 ## [00:15:35] Facebook Video Ad Example - Unlike Synthetic Fibers Caption
 
-frame: 088_00-15-35.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:15:35](https://drive.google.com/file/d/1Ch0hLMRF71-uXRDjWqXBrJBYLBgFNzAA/view?usp=drivesdk) · `088_00-15-35.png`
 
 *ad example*
 
@@ -534,7 +534,7 @@ Facebook video ad:
 
 ## [00:16:15] Facebook Video Ad Example - Missing All Along Caption
 
-frame: 088_00-16-15.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:16:15](https://drive.google.com/file/d/1f7-EafUIsKVd4EU6ISYkoWbLM4K9pbOi/view?usp=drivesdk) · `088_00-16-15.png`
 
 *ad example*
 
@@ -546,7 +546,7 @@ Facebook video ad:
 
 ## [00:16:35] Reddit Thread r/POTS Comments on Synthetic Fabric and Overheating
 
-frame: 088_00-16-35.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:16:35](https://drive.google.com/file/d/1Bj1fIbJEL6B6A8GEi44LhtszwbEfRt7d/view?usp=drivesdk) · `088_00-16-35.png`
 
 *social post*
 
@@ -564,7 +564,7 @@ Usernames: kingbambi5000, Thisoneissfwihope, Instantnoodlee, Qtredit. Specific c
 
 ## [00:16:40] Facebook Video Ad Example - That Trap Heat Alpaca's Caption
 
-frame: 088_00-16-40.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:16:40](https://drive.google.com/file/d/1wO7CRTWyIZwASJ33gAtabaSwPZm75_9G/view?usp=drivesdk) · `088_00-16-40.png`
 
 *ad example*
 
@@ -576,7 +576,7 @@ Facebook video ad:
 
 ## [00:17:00] Facebook Video Ad Example - Hollow Core Actively
 
-frame: 088_00-17-00.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:17:00](https://drive.google.com/file/d/1RhDv0VFSqvMk0gV4egKm6TjNmFNwsYZw/view?usp=drivesdk) · `088_00-17-00.png`
 
 *ad example*
 
@@ -593,7 +593,7 @@ Facebook comments on right: Sheila M Hickson: 'I love mine! Easy to put on. My f
 
 ## [00:17:10] Facebook Video Ad Example - Perfect Pressure
 
-frame: 088_00-17-10.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:17:10](https://drive.google.com/file/d/1w1g7mOaciBLbAGQzwZ1T0y26U4gPhvoG/view?usp=drivesdk) · `088_00-17-10.png`
 
 *ad example*
 
@@ -610,7 +610,7 @@ Post copy header: '14+ Hours. No Swelling. Compression socks aren't supposed to 
 
 ## [00:17:15] Facebook Video Ad Example - Nature Engineered
 
-frame: 088_00-17-15.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:17:15](https://drive.google.com/file/d/16jeZN44iZZvWyMdC6JEct7diitDYIkWC/view?usp=drivesdk) · `088_00-17-15.png`
 
 *ad example*
 
@@ -622,7 +622,7 @@ Visual: Overhead shot of alpacas standing in a green grassy field.
 
 ## [00:17:20] Facebook Video Ad Example - The Science of Alpaca Split Screen
 
-frame: 088_00-17-20.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:17:20](https://drive.google.com/file/d/1NNmDD88hXACdr5B2LEjJtjfxuddazf8R/view?usp=drivesdk) · `088_00-17-20.png`
 
 *ad example*
 
@@ -634,7 +634,7 @@ Visual: Split-screen showing a scientist writing on a transparent board on the l
 
 ## [00:17:30] Facebook Video Ad Example - Out How to Use It
 
-frame: 088_00-17-30.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:17:30](https://drive.google.com/file/d/1rJM_0aounURXwTNwTSLrbkwl6ffrYyuQ/view?usp=drivesdk) · `088_00-17-30.png`
 
 *ad example*
 
@@ -646,7 +646,7 @@ Visual: Female scientist in lab coat, safety glasses, and blue gloves celebratin
 
 ## [00:17:35] Facebook Video Ad Example - The Perfect Fiber B-roll
 
-frame: 088_00-17-35.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:17:35](https://drive.google.com/file/d/1BqLEWHUM61c-aoUfzoQ5n83Z-gNSDgXZ/view?usp=drivesdk) · `088_00-17-35.png`
 
 *ad example*
 
@@ -658,7 +658,7 @@ Visual: Herd of alpacas in a green field (pasture).
 
 ## [00:17:50] Facebook Video Ad Example - Try Hollow Compression Socks Call to Action
 
-frame: 088_00-17-50.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:17:50](https://drive.google.com/file/d/15yk_SRrkz3x8RYGxR71RUhoqgYvKupS_/view?usp=drivesdk) · `088_00-17-50.png`
 
 *ad example*
 
@@ -676,7 +676,7 @@ Button graphic: 'SHOP NOW!'
 
 ## [00:18:00] Facebook Video Ad Example - Revolution That's Making Caption
 
-frame: 088_00-18-00.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:18:00](https://drive.google.com/file/d/1Dagc6nBKvfAzkWMqQsklFliqqD2pjKNb/view?usp=drivesdk) · `088_00-18-00.png`
 
 *ad example*
 
@@ -694,7 +694,7 @@ On-screen text: 'REVOLUTION THAT'S MAKING', post header copy, engagement numbers
 
 ## [00:18:45] Facebook Video Ad Example - Have Always Felt Like CTA
 
-frame: 088_00-18-45.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:18:45](https://drive.google.com/file/d/1BhC6cSzCKcyBuduK4lROIs6lzR0cmQJ2/view?usp=drivesdk) · `088_00-18-45.png`
 
 *ad example*
 
@@ -711,7 +711,7 @@ Call-to-action button overlay: 'SHOP NOW!'
 
 ## [00:18:55] Facebook Video Ad Example - Completely by Accident Replay
 
-frame: 088_00-18-55.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:18:55](https://drive.google.com/file/d/1kvOL4zWMaN5eGDG9DLnQj8OLxaHyxPYu/view?usp=drivesdk) · `088_00-18-55.png`
 
 *ad example*
 
@@ -727,7 +727,7 @@ Visual of pile of white socks on floor.
 
 ## [00:19:00] Facebook Video Ad Example - So Uncomfortable Caption
 
-frame: 088_00-19-00.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:19:00](https://drive.google.com/file/d/1707KKUvzffl1BjlIp-xJygzJNNOExVZi/view?usp=drivesdk) · `088_00-19-00.png`
 
 *ad example*
 
@@ -742,7 +742,7 @@ Visual of beige compression socks being pulled on.
 
 ## [00:19:05] Facebook Video Ad Example - Compression Socks Feel
 
-frame: 088_00-19-05.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:19:05](https://drive.google.com/file/d/1L3L6XKP5gszLEIt4nkGiWWuxb5DbKJuQ/view?usp=drivesdk) · `088_00-19-05.png`
 
 *ad example*
 
@@ -757,7 +757,7 @@ Caption text: 'COMPRESSION SOCKS FEEL'
 
 ## [00:19:10] Facebook Video Ad Example - Unlike Synthetic Fibers
 
-frame: 088_00-19-10.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:19:10](https://drive.google.com/file/d/1fGzfOPqD9ddqQrhicq6naS1NhVLHPwTB/view?usp=drivesdk) · `088_00-19-10.png`
 
 *ad example*
 
@@ -772,7 +772,7 @@ Black and white video footage, caption 'UNLIKE SYNTHETIC FIBERS'
 
 ## [00:19:15] Facebook Video Ad Example - Naturally Hollow Fibers Close-Up
 
-frame: 088_00-19-15.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:19:15](https://drive.google.com/file/d/1ZTiZ0z59eR6axPAsNdnHTkn6vu7AVJzg/view?usp=drivesdk) · `088_00-19-15.png`
 
 *ad example*
 
@@ -787,7 +787,7 @@ Close-up macro shot of sock knit fabric texture.
 
 ## [00:19:20] Facebook Video Ad Example - Nature Engineered Alpacas in Field
 
-frame: 088_00-19-20.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:19:20](https://drive.google.com/file/d/1I0lql4w4saB9OZBe-4t9UHQ2zDdzlL5H/view?usp=drivesdk) · `088_00-19-20.png`
 
 *ad example*
 
@@ -802,7 +802,7 @@ Caption overlay 'NATURE ENGINEERED' over alpaca pasture B-roll.
 
 ## [00:20:25] Facebook Video Ad Example - It Turns Out We've
 
-frame: 088_00-20-25.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:20:25](https://drive.google.com/file/d/1xBjomuP9xZifGSkJE3KEO-g1RNtmOByU/view?usp=drivesdk) · `088_00-20-25.png`
 
 *ad example*
 
@@ -817,7 +817,7 @@ Visual of green sock balled up in hands and red compression sock on leg.
 
 ## [00:20:35] Facebook Ad Replay - Socks Happened Caption
 
-frame: 088_00-20-35.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:20:35](https://drive.google.com/file/d/12R1yHiQ-iNtc7wstiiqmQnzyX3o5t8zd/view?usp=drivesdk) · `088_00-20-35.png`
 
 *ad example*
 
@@ -831,7 +831,7 @@ On-screen caption 'SOCKS HAPPENED'. Post copy: '14+ Hours. No Swelling. Compress
 
 ## [00:20:45] Facebook Ad Replay - Hollow Compression Socks Close-Up
 
-frame: 088_00-20-45.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:20:45](https://drive.google.com/file/d/116jIYPXfiTU9qlNOdoHtkIliasPRu86j/view?usp=drivesdk) · `088_00-20-45.png`
 
 *ad example*
 
@@ -845,7 +845,7 @@ On-screen caption 'HOLLOW COMPRESSION SOCKS'.
 
 ## [00:21:20] Facebook Ad Replay - Hollow Core Actively
 
-frame: 088_00-21-20.png (Drive: https://drive.google.com/file/d/19F9hzZ2xhe2IqGCYGoZmokWyPEqq2wuV/view?usp=drivesdk)
+[frame 00:21:20](https://drive.google.com/file/d/10r8HcVikfI6XH0-cUyoHqalISD0YEcyP/view?usp=drivesdk) · `088_00-21-20.png`
 
 *ad example*
 

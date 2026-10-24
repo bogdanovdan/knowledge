@@ -1,14 +1,14 @@
 # 75. Set Up & Warm Up Your FB Ad Account - Visual notes
 
 - **Frames kept:** 28 of 40 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 740x480 (native), PNG frames in Google Drive as [075-set-up-warm-up-your-fb-ad-account-frames.zip](https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+- **Resolution:** 740x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/075-set-up-warm-up-your-fb-ad-account](https://drive.google.com/drive/folders/1k0VOmA3YKo-qISd--jmA5FjFO2PBlIU3)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:05] Meta Business Suite Ad Accounts Settings
 
-frame: 075_00-00-05.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:00:05](https://drive.google.com/file/d/1GrgiPmZ4pWjyHnujC4gxjBDb2DvdTqze/view?usp=drivesdk) · `075_00-00-05.png`
 
 *software demo*
 
@@ -22,7 +22,7 @@ Ad account ID 3019518771678187, account owner Pathfinder Ecom Labuan - BM250, as
 
 ## [00:01:45] Create Ad Account - Select Usage Type
 
-frame: 075_00-01-45.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:01:45](https://drive.google.com/file/d/15pPz1LEHQt5pkQvqZO_xR_8GNVJDL1lH/view?usp=drivesdk) · `075_00-01-45.png`
 
 *software demo*
 
@@ -36,7 +36,7 @@ Step-by-step indicator showing Details, Usage, Confirm.
 
 ## [00:02:10] Ad Accounts List with Newly Created Account
 
-frame: 075_00-02-10.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:02:10](https://drive.google.com/file/d/1n7Va8QG1zaPOGYu3vhlajXaazxgw7dk8/view?usp=drivesdk) · `075_00-02-10.png`
 
 *software demo*
 
@@ -50,7 +50,7 @@ Ad account ID: 1307626654386022, Owned by Pathfinder Ecom Labuan - BM250.
 
 ## [00:02:35] Add Business Payment Information Dialog
 
-frame: 075_00-02-35.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:02:35](https://drive.google.com/file/d/1q3z2VBxAbxNSIkQhG4BjigqheKmj-3Ck/view?usp=drivesdk) · `075_00-02-35.png`
 
 *software demo*
 
@@ -64,7 +64,7 @@ Dropdown list showing countries including Macau, Madagascar, Malawi, Malaysia, M
 
 ## [00:02:50] Meta Business Portfolio Payment Methods Overview
 
-frame: 075_00-02-50.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:02:50](https://drive.google.com/file/d/1h8UWPv-C8GWMNuIJaV8cEVnDcXeDeGzU/view?usp=drivesdk) · `075_00-02-50.png`
 
 *software demo*
 
@@ -78,7 +78,7 @@ Visa card ending in 5331, expiration date 1/29, button 'Manage Access'.
 
 ## [00:03:00] Ads Manager Campaigns Dashboard Prompt
 
-frame: 075_00-03-00.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:03:00](https://drive.google.com/file/d/1aXxgh1263pgfbRt_EVRCS9F73dcyz9i7/view?usp=drivesdk) · `075_00-03-00.png`
 
 *software demo*
 
@@ -92,7 +92,7 @@ Date filter: 'This week: Oct 26, 2025 - Oct 27, 2025', Opportunity score: 100.
 
 ## [00:03:05] Account Overview Opportunity Score and Recommendations
 
-frame: 075_00-03-05.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:03:05](https://drive.google.com/file/d/1DjKCUN2eeyvi8777TuXaClQqWXeFCCvy/view?usp=drivesdk) · `075_00-03-05.png`
 
 *software demo*
 
@@ -106,7 +106,7 @@ Buttons 'Set up automatic adjustments', 'How you earn points'.
 
 ## [00:03:20] Account Overview Setup Checklist
 
-frame: 075_00-03-20.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:03:20](https://drive.google.com/file/d/1_lOLGnszi-Cld3lBnW590tNA-Jojw9w7/view?usp=drivesdk) · `075_00-03-20.png`
 
 *software demo*
 
@@ -120,7 +120,7 @@ Pathfinder Ecom page detected with button 'Confirm'. Disabled button 'Continue'.
 
 ## [00:04:00] Selecting Business Payment Method in Ad Account
 
-frame: 075_00-04-00.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:04:00](https://drive.google.com/file/d/1hv1aXRJ3xw7wt0Tg-BK_EysvYGinBEzd/view?usp=drivesdk) · `075_00-04-00.png`
 
 *software demo*
 
@@ -134,7 +134,7 @@ Blue button 'Set as default'.
 
 ## [00:04:25] Campaign Objective Selection Modal
 
-frame: 075_00-04-25.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:04:25](https://drive.google.com/file/d/1Sm3oRFDz1Ih5YcOIfoBQUwzDFq7zpRjF/view?usp=drivesdk) · `075_00-04-25.png`
 
 *software demo*
 
@@ -148,7 +148,7 @@ Buttons 'Cancel', 'Continue', link 'About campaign objectives'.
 
 ## [00:04:30] Choosing Manual Engagement Campaign Setup
 
-frame: 075_00-04-30.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:04:30](https://drive.google.com/file/d/1A6EdTb8Hgcu95mzZD81dTVzcjQfCU0Et/view?usp=drivesdk) · `075_00-04-30.png`
 
 *software demo*
 
@@ -162,7 +162,7 @@ Description of tailored vs manual campaign setups in Meta Ads Manager.
 
 ## [00:04:40] Engagement Campaign Level Settings
 
-frame: 075_00-04-40.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:04:40](https://drive.google.com/file/d/1CHjuwJcxvJLBQ1nMgjiqBk_fWDcbfgn3/view?usp=drivesdk) · `075_00-04-40.png`
 
 *software demo*
 
@@ -176,7 +176,7 @@ Buying type shows 'Auction'; Campaign score shows 100 with 'You're using our rec
 
 ## [00:06:10] Ad Transparency Beneficiary and Payer Requirements
 
-frame: 075_00-06-10.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:06:10](https://drive.google.com/file/d/1xHBmQK71Fnn4kaeN2ar5lODNjTBFd5z4/view?usp=drivesdk) · `075_00-06-10.png`
 
 *software demo*
 
@@ -190,7 +190,7 @@ Audience size estimation figures: 2,180,900,000 - 2,565,700,000.
 
 ## [00:06:55] Ad Set Level Conversion and Performance Goal
 
-frame: 075_00-06-55.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:06:55](https://drive.google.com/file/d/1YzIQYQ7FmCMy9p_UNuCBHDFzXGLMhQTG/view?usp=drivesdk) · `075_00-06-55.png`
 
 *software demo*
 
@@ -210,7 +210,7 @@ Exact goal label 'Maximize number of Page likes', Page name 'Pathfinder Ecom'.
 
 ## [00:07:00] Ad Level Identity and Multi-Advertiser Settings
 
-frame: 075_00-07-00.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:07:00](https://drive.google.com/file/d/1Ymi_J7iVRyyHIkXdkK9WjtovohHRX2dF/view?usp=drivesdk) · `075_00-07-00.png`
 
 *software demo*
 
@@ -228,7 +228,7 @@ Meta Ads Manager ad level settings:
 
 ## [00:07:10] Media Selection Modal for Ad Creative
 
-frame: 075_00-07-10.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:07:10](https://drive.google.com/file/d/1LtLbZEYDTCZSKA2ox_Q5mrwXOavba3e-/view?usp=drivesdk) · `075_00-07-10.png`
 
 *software demo*
 
@@ -242,7 +242,7 @@ Modal interface elements and tab navigation.
 
 ## [00:07:25] Google AI Overview Quote of the Day
 
-frame: 075_00-07-25.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:07:25](https://drive.google.com/file/d/1NsVfTWKfXi6J0chDWyIwMqs5tNEbO5Wx/view?usp=drivesdk) · `075_00-07-25.png`
 
 *webpage*
 
@@ -256,7 +256,7 @@ Pope John Paul II attribution and full text.
 
 ## [00:08:05] Selecting Uploaded Landscape Image in Meta Ads Manager
 
-frame: 075_00-08-05.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:08:05](https://drive.google.com/file/d/16bgAZv8OM7Snifu3Y3zaXxwydq22DGxM/view?usp=drivesdk) · `075_00-08-05.png`
 
 *software demo*
 
@@ -270,7 +270,7 @@ Image dimensions shown: 1500 x 1000. Filename: 81kzd4SrHJ...
 
 ## [00:08:15] Advantage+ Creative Image Generation Modal
 
-frame: 075_00-08-15.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:08:15](https://drive.google.com/file/d/1Qtpji20fmsR-9U-LhILZ4cunzUvbIjJh/view?usp=drivesdk) · `075_00-08-15.png`
 
 *software demo*
 
@@ -284,7 +284,7 @@ Stat shown: 'In our experiment, campaigns with all ads adding AI-generated image
 
 ## [00:08:20] Ad Level Preview and Creative Testing Section
 
-frame: 075_00-08-20.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:08:20](https://drive.google.com/file/d/1HYzQluhjr75-wqO3M27LKMdBAgIi-3lM/view?usp=drivesdk) · `075_00-08-20.png`
 
 *software demo*
 
@@ -298,7 +298,7 @@ Meta Ads Manager Ad Setup screen: Text variation box ('Tired of waiting for tomo
 
 ## [00:08:25] Tracking and Ad Previews in Ads Manager
 
-frame: 075_00-08-25.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:08:25](https://drive.google.com/file/d/1Dk0ugbAnoojGt0hK-H95WkEYJmlLWgxo/view?usp=drivesdk) · `075_00-08-25.png`
 
 *software demo*
 
@@ -312,7 +312,7 @@ Notice: 'You no longer need to select a domain for your web events.'
 
 ## [00:08:40] Add Business Payment Method Modal
 
-frame: 075_00-08-40.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:08:40](https://drive.google.com/file/d/1Mut9IezoTwc8EY5JeDqTzJpAexZzAL-I/view?usp=drivesdk) · `075_00-08-40.png`
 
 *software demo*
 
@@ -326,7 +326,7 @@ Modal header: 'Add business payment method', button: 'Set as default'.
 
 ## [00:08:50] Ads Manager Delivery Status Processing Tooltip
 
-frame: 075_00-08-50.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:08:50](https://drive.google.com/file/d/1bf0Bn0O_eJjZBIvr1yQRwXIEaN9D6AqP/view?usp=drivesdk) · `075_00-08-50.png`
 
 *software demo*
 
@@ -340,7 +340,7 @@ Exact tooltip wording: 'Meta is processing your recent updates to your ad. This 
 
 ## [00:09:45] Active Delivery Status in Ads Manager
 
-frame: 075_00-09-45.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:09:45](https://drive.google.com/file/d/1KMDNawDM3kXR5qcZUlv2dA2VvJAv3y0u/view?usp=drivesdk) · `075_00-09-45.png`
 
 *software demo*
 
@@ -354,7 +354,7 @@ Columns: Ad set name, Bid strategy (Highest volume), Budget (Using campaign...),
 
 ## [00:09:50] Duplicate Your Ad Settings Modal
 
-frame: 075_00-09-50.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:09:50](https://drive.google.com/file/d/1ueFEvutdBGtyRyLsTyr4Tt7iuBxNb7LR/view?usp=drivesdk) · `075_00-09-50.png`
 
 *software demo*
 
@@ -373,7 +373,7 @@ Checkbox: 'Show existing reactions, comments and shares on new ads' is checked b
 
 ## [00:09:55] Bulk Editing 4 Duplicated Ads in Ads Manager
 
-frame: 075_00-09-55.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:09:55](https://drive.google.com/file/d/1gxfEj8T38BSvRJ4unBuD0B8Lpc2TI-Tb/view?usp=drivesdk) · `075_00-09-55.png`
 
 *software demo*
 
@@ -387,7 +387,7 @@ Facebook Page 'EasyA', Threads profile 'easya_media', ad names 'Video_Game_TXT_E
 
 ## [00:11:15] Ads Manager Campaigns Dashboard with Existing Campaigns
 
-frame: 075_00-11-15.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:11:15](https://drive.google.com/file/d/1NrCEyzHCeONXeXjco0pEAPk73vA_cE43/view?usp=drivesdk) · `075_00-11-15.png`
 
 *software demo*
 
@@ -401,7 +401,7 @@ Campaign names, daily budgets ($100, $300, $15, $20, $50), results figures (67, 
 
 ## [00:11:25] Selecting Sales Campaign Objective Modal
 
-frame: 075_00-11-25.png (Drive: https://drive.google.com/file/d/1t8ST_9MR-kIzPRc9B7Ehv_fWlUQcDjtC/view?usp=drivesdk)
+[frame 00:11:25](https://drive.google.com/file/d/1SDtuFStExpwOGMIJXRCI7I2n1XCcKrSn/view?usp=drivesdk) · `075_00-11-25.png`
 
 *software demo*
 

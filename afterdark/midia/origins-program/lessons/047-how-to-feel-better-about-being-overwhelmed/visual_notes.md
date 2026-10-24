@@ -1,14 +1,14 @@
 # 47. 🆕 How to feel better about being overwhelmed - Visual notes
 
 - **Frames kept:** 5 of 43 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [047-how-to-feel-better-about-being-overwhelmed-frames.zip](https://drive.google.com/file/d/1EwCeC1U6OsLgyvo6C9eqgIUga2E_oh4s/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/047-how-to-feel-better-about-being-overwhelmed](https://drive.google.com/drive/folders/1QEbWOC34aGTvhLO-BSWdEjyRrV2OpJBB)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:01:25] Why you are feeling overwhelmed notes and operational process
 
-frame: 047_00-01-25.png (Drive: https://drive.google.com/file/d/1EwCeC1U6OsLgyvo6C9eqgIUga2E_oh4s/view?usp=drivesdk)
+[frame 00:01:25](https://drive.google.com/file/d/1ccOYuMMU40QKXW3F9OkrlKgs0nrqPdLI/view?usp=drivesdk) · `047_00-01-25.png`
 
 *document*
 
@@ -41,7 +41,7 @@ Repeat: Go back to researching again, or leverage learnings from feedback loop t
 
 ## [00:04:10] ClickUp Agency Founders 2024 task list and speaker notes
 
-frame: 047_00-04-10.png (Drive: https://drive.google.com/file/d/1EwCeC1U6OsLgyvo6C9eqgIUga2E_oh4s/view?usp=drivesdk)
+[frame 00:04:10](https://drive.google.com/file/d/1mAUTRM0wLh8UhR1j5dLJtSdERqV01eMQ/view?usp=drivesdk) · `047_00-04-10.png`
 
 *software demo*
 
@@ -65,7 +65,7 @@ Specific speaker names: Eddie Maalouf, Brian Burt, Cody Jefferson, Jhana Li, Ash
 
 ## [00:06:45] Action framework: Study to Repeat cycle definition
 
-frame: 047_00-06-45.png (Drive: https://drive.google.com/file/d/1EwCeC1U6OsLgyvo6C9eqgIUga2E_oh4s/view?usp=drivesdk)
+[frame 00:06:45](https://drive.google.com/file/d/1yYkYsgezMN8V-cZzyaVH60UhKlxjVdh_/view?usp=drivesdk) · `047_00-06-45.png`
 
 *document*
 
@@ -94,7 +94,7 @@ Includes "That's It." at the bottom. Exact rule: "If it gets spend = good. If it
 
 ## [00:14:45] Community comment on embracing discomfort to reach 10K
 
-frame: 047_00-14-45.png (Drive: https://drive.google.com/file/d/1EwCeC1U6OsLgyvo6C9eqgIUga2E_oh4s/view?usp=drivesdk)
+[frame 00:14:45](https://drive.google.com/file/d/1PJNN5hOkPkrHpl8rcL2eQBL9PDcF3JM8/view?usp=drivesdk) · `047_00-14-45.png`
 
 *document*
 
@@ -123,7 +123,7 @@ User name: Spencer Pawliw, tagged user: @Halit Coğuplugil; text at bottom: 'Thi
 
 ## [00:16:45] Google AI Overview: Does the brain like change?
 
-frame: 047_00-16-45.png (Drive: https://drive.google.com/file/d/1EwCeC1U6OsLgyvo6C9eqgIUga2E_oh4s/view?usp=drivesdk)
+[frame 00:16:45](https://drive.google.com/file/d/1ebwNlWq1MDk0zCRZHo2ndKPuaeSmf1WD/view?usp=drivesdk) · `047_00-16-45.png`
 
 *webpage*
 

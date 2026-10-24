@@ -1,14 +1,14 @@
 # 65. How to write a video ad - Part 2 - Visual notes
 
 - **Frames kept:** 45 of 120 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [065-how-to-write-a-video-ad-part-2-frames.zip](https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/065-how-to-write-a-video-ad-part-2](https://drive.google.com/drive/folders/1RUvBn19b0_CznsZ2BaUjWHP3qn67x_n_)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:01:45] Brainstorming Lower Valence Hooks in Claude
 
-frame: 065_00-01-45.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:01:45](https://drive.google.com/file/d/1F8ep82JYwPn3mnHYdenDGWHimVDySvpA/view?usp=drivesdk) · `065_00-01-45.png`
 
 *software demo*
 
@@ -30,7 +30,7 @@ Chat title 'Metaglow ad framework and testing structure'; breakdown points under
 
 ## [00:02:45] Claude Hook Variations: Red Flag and Warning Patterns
 
-frame: 065_00-02-45.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:02:45](https://drive.google.com/file/d/1B2r7NUHRyZG0EUghAnII6sOOz2KH1PY1/view?usp=drivesdk) · `065_00-02-45.png`
 
 *software demo*
 
@@ -56,7 +56,7 @@ Detailed analysis notes under Option 1 and Option 2 ('Concise: 6 words', 'Taps i
 
 ## [00:03:10] Adding New Hook Concept to Ad Testing Sheet
 
-frame: 065_00-03-10.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:03:10](https://drive.google.com/file/d/1d6MgW35Z8OkkgsJBb6RsRDCuOqjd8dLT/view?usp=drivesdk) · `065_00-03-10.png`
 
 *spreadsheet*
 
@@ -72,7 +72,7 @@ Sheet name 'Spencer's | Zend - Growth Guide '25', column headers, desire text as
 
 ## [00:04:10] Claude Congruent Hook Options for DPP-4 Mechanism
 
-frame: 065_00-04-10.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:04:10](https://drive.google.com/file/d/1JxTuQTbffHAZ_iNY-Ss_YbAzcBxuu7mI/view?usp=drivesdk) · `065_00-04-10.png`
 
 *software demo*
 
@@ -103,7 +103,7 @@ Option 2 details ('If 1,200 calories feels impossible, your body's making too mu
 
 ## [00:04:15] Visual Script Board with Multiple Hook Angles
 
-frame: 065_00-04-15.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:04:15](https://drive.google.com/file/d/14jqRTjBrRS8BicFxKgPkvJ_UsJNQuIVO/view?usp=drivesdk) · `065_00-04-15.png`
 
 *software demo*
 
@@ -135,7 +135,7 @@ Complete visual descriptions for each hook, Column 3 full copy and bridge, and H
 
 ## [00:04:45] Customer Research Notes: Sub Avatar The Dieter
 
-frame: 065_00-04-45.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:04:45](https://drive.google.com/file/d/1g8GfK-2jv6FjRBGDiME2gMVYaa-h-TiM/view?usp=drivesdk) · `065_00-04-45.png`
 
 *document*
 
@@ -155,7 +155,7 @@ Detailed coping strategies list and specific quotes regarding portion sizes, mac
 
 ## [00:05:50] AI Script Draft: Three Bridge Variations
 
-frame: 065_00-05-50.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:05:50](https://drive.google.com/file/d/1ZjlTp7XPQ3E0FTm7pCwfw9n5pfX9K6cb/view?usp=drivesdk) · `065_00-05-50.png`
 
 *document*
 
@@ -173,7 +173,7 @@ Full visual instructions and timing columns for Bridge A and Bridge B.
 
 ## [00:06:20] Customer Research Notes: Reddit Source Links
 
-frame: 065_00-06-20.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:06:20](https://drive.google.com/file/d/1HwLtwsihKUBtZfbyFUF3UILlKcFxyV1A/view?usp=drivesdk) · `065_00-06-20.png`
 
 *document*
 
@@ -189,7 +189,7 @@ Exact Reddit URL shown on screen.
 
 ## [00:06:30] Reddit Research: r/CICO Post on Food Noise and Deficits
 
-frame: 065_00-06-30.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:06:30](https://drive.google.com/file/d/1NVZ41aN-CT0obEBVVVsX6bFtVzWCLpQ6/view?usp=drivesdk) · `065_00-06-30.png`
 
 *social post*
 
@@ -204,7 +204,7 @@ User details: 23 (F), 5'2, 161 lbs, weight training 2-4 times a week, specific m
 
 ## [00:06:50] Reddit Research: Comments on Weight Loss and Supplements
 
-frame: 065_00-06-50.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:06:50](https://drive.google.com/file/d/1bacgWVHi4mCScFc0ml4924wl_KrAQfjp/view?usp=drivesdk) · `065_00-06-50.png`
 
 *social post*
 
@@ -219,7 +219,7 @@ Specific comment mentions of Mounjaro and GLP-1 experiences at the gym.
 
 ## [00:06:55] Reddit Research: Supplement Inquiry Post in r/crossfit
 
-frame: 065_00-06-55.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:06:55](https://drive.google.com/file/d/1E9TQo2QgGhpB8RfBzNxXxUm0z1VXS9sc/view?usp=drivesdk) · `065_00-06-55.png`
 
 *social post*
 
@@ -233,7 +233,7 @@ Post author handle and related answers panel on creatine.
 
 ## [00:08:25] Script Visual Board: Hooks 1, 2, and 3
 
-frame: 065_00-08-25.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:08:25](https://drive.google.com/file/d/1FONnTBELJxihR8yL1sBXSm4zxI1Zm1CY/view?usp=drivesdk) · `065_00-08-25.png`
 
 *document*
 
@@ -256,7 +256,7 @@ Visual instructions for Hook 1 ('frustrated 40-year-old woman staring at small s
 
 ## [00:08:55] Ad Script Board: Universal Hold Section Copy
 
-frame: 065_00-08-55.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:08:55](https://drive.google.com/file/d/1ZT1xlCoiaE_QlPLPnmpFYFOa2Ax4fC0p/view?usp=drivesdk) · `065_00-08-55.png`
 
 *document*
 
@@ -271,7 +271,7 @@ Full text of Hold copy including clinical study stats (90 women, GLP-1 increased
 
 ## [00:09:00] AI Universal Hold Section Breakdown
 
-frame: 065_00-09-00.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:09:00](https://drive.google.com/file/d/1kqBYs_ybKO-bg-y01dJVy26YY09HZprl/view?usp=drivesdk) · `065_00-09-00.png`
 
 *document*
 
@@ -290,7 +290,7 @@ Detailed breakdown table structure, stage tags (Objection, Claim, Proof, Benefit
 
 ## [00:09:15] Claude Evaluation of Hook & Bridge Options
 
-frame: 065_00-09-15.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:09:15](https://drive.google.com/file/d/1255aANdPdCWss2O-GFooqdD1cU9CKaO4/view?usp=drivesdk) · `065_00-09-15.png`
 
 *document*
 
@@ -315,7 +315,7 @@ Detailed 5-point rationalization list from Claude explaining why this hook optio
 
 ## [00:10:10] Ad Script Hold 1 Draft: Mechanism and Study Proof
 
-frame: 065_00-10-10.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:10:10](https://drive.google.com/file/d/1t_xKXw6sPuEHsuYbFSmbtybQpvYpbnpe/view?usp=drivesdk) · `065_00-10-10.png`
 
 *document*
 
@@ -348,7 +348,7 @@ Board header: Zend Wellness - SBATCH#3 - Dieter Video; Card label: HOLD 1; VISUA
 
 ## [00:10:35] 5 New Mechanisms to Leverage: Natural GLP-1 Protection System
 
-frame: 065_00-10-35.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:10:35](https://drive.google.com/file/d/1Ak7cSIcuic71QbDH_mPMlULs48W1Q7Oe/view?usp=drivesdk) · `065_00-10-35.png`
 
 *document*
 
@@ -375,7 +375,7 @@ Clinical data details: 56% GLP-1 increase, 59% DPP-4 reduction in 12-week study.
 
 ## [00:12:15] Ad Script Hold 1 Draft: Benefit, Offer and Guarantee
 
-frame: 065_00-12-15.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:12:15](https://drive.google.com/file/d/1Pyvk7m0jx095OejVKZpcRrMI88VyRGSv/view?usp=drivesdk) · `065_00-12-15.png`
 
 *document*
 
@@ -401,7 +401,7 @@ Typo in text: "thanks ot Metaglow"; 60 days risk free guarantee terms; closing c
 
 ## [00:13:30] Video Ad Script Structure: 3 Hooks Connecting to Hold 1
 
-frame: 065_00-13-30.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:13:30](https://drive.google.com/file/d/18Nh2XDtKZf490MXQIDhPtA23R3upAR2C/view?usp=drivesdk) · `065_00-13-30.png`
 
 *document* | legibility: partly legible
 
@@ -418,7 +418,7 @@ Visual overview of all 3 hook cards connected with arrows directly into the sing
 
 ## [00:15:50] Updated Complete Ad Brief Board: Revised Hooks and Hold
 
-frame: 065_00-15-50.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:15:50](https://drive.google.com/file/d/1P-SBlF8q00rimJcz1gst-kOWBUA-Txv4/view?usp=drivesdk) · `065_00-15-50.png`
 
 *document* | legibility: partly legible
 
@@ -447,7 +447,7 @@ Client name 'Zend Wellness', batch SBATCH#3, product image and description for M
 
 ## [00:16:30] Ad Script Board: Hook 1 and Bridge Details
 
-frame: 065_00-16-30.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:16:30](https://drive.google.com/file/d/17l3_QQLmKBgTUHI1P93cLnlypg5e7nkm/view?usp=drivesdk) · `065_00-16-30.png`
 
 *slide*
 
@@ -478,7 +478,7 @@ Hook Visual descriptions and layout of cards in the board tool.
 
 ## [00:16:35] Claude Prompt Output: Universal CTA Section & Script Combinations
 
-frame: 065_00-16-35.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:16:35](https://drive.google.com/file/d/1gwoKoFwb4hjF-2R699oTMF6K4cfxQOGk/view?usp=drivesdk) · `065_00-16-35.png`
 
 *document*
 
@@ -505,7 +505,7 @@ Universal CTA voiceover text, timing (35-45s), visual instructions, script combi
 
 ## [00:16:50] Claude Chat: Script Audit Against Framework Principles
 
-frame: 065_00-16-50.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:16:50](https://drive.google.com/file/d/1sD3BIwQHZBApZr9JkSf6oltZ9rgXW30T/view?usp=drivesdk) · `065_00-16-50.png`
 
 *software demo*
 
@@ -528,7 +528,7 @@ Spencer's prompt text and Claude's analysis framework criteria list ("The 1-2 Se
 
 ## [00:17:45] Customer Research Doc: Sub Avatar The Bored Eater
 
-frame: 065_00-17-45.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:17:45](https://drive.google.com/file/d/1G2t5ZXwcmcoD08ocySAUrr7B__Of6EjS/view?usp=drivesdk) · `065_00-17-45.png`
 
 *document*
 
@@ -553,7 +553,7 @@ Customer research doc details: Sub Avatar name, Desire, Behavior, Product Experi
 
 ## [00:18:50] Claude Output: Copy Options for Objection Handling
 
-frame: 065_00-18-50.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:18:50](https://drive.google.com/file/d/1Dd_atmUkSwdIHxh7urNI7OACSnWW9aQP/view?usp=drivesdk) · `065_00-18-50.png`
 
 *document*
 
@@ -585,7 +585,7 @@ Detailed bullet points breaking down why Option 4 and Option 5 work, Reddit user
 
 ## [00:19:45] Ad Script: Hold 1 Full Copy and Visuals
 
-frame: 065_00-19-45.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:19:45](https://drive.google.com/file/d/10o6fuSKo80-ApSqw18sZeTCQd2BwFFaj/view?usp=drivesdk) · `065_00-19-45.png`
 
 *document*
 
@@ -620,7 +620,7 @@ Right sidebar '(Optional) VISUALS' column descriptions including split-screen an
 
 ## [00:20:10] Customer Research Document: Avatar Quotes and Reddit Links
 
-frame: 065_00-20-10.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:20:10](https://drive.google.com/file/d/1Fu2Ofboz9A3_D31g72E7aM6Lb8b52p9F/view?usp=drivesdk) · `065_00-20-10.png`
 
 *document*
 
@@ -648,7 +648,7 @@ Reddit link URL, 'Korean that literally translates to "my mouth is bored"', and 
 
 ## [00:20:35] Claude Chat: Aligning Opening Line to Supplement Strategies
 
-frame: 065_00-20-35.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:20:35](https://drive.google.com/file/d/1Z9sF6S8ydtyZZisUcj2MMz5IhB4kJBwv/view?usp=drivesdk) · `065_00-20-35.png`
 
 *software demo*
 
@@ -665,7 +665,7 @@ Chat title: 'Metaglow ad framework and testing structure'; status pill 'Realigne
 
 ## [00:20:45] Claude Chat: Testing Specific Supplement Phrasing with Reddit Context
 
-frame: 065_00-20-45.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:20:45](https://drive.google.com/file/d/12NcW_5cohxwRZlYoKE8du2VxqKo8GcUU/view?usp=drivesdk) · `065_00-20-45.png`
 
 *software demo*
 
@@ -681,7 +681,7 @@ Reddit post snippet pasted into chat includes: 'So I've been hardcore going to t
 
 ## [00:20:50] Claude Chat: Validation of Specific Copy Framing
 
-frame: 065_00-20-50.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:20:50](https://drive.google.com/file/d/1h2Pz5-6qP3fHc10iRtTXjrv1IWt3umJG/view?usp=drivesdk) · `065_00-20-50.png`
 
 *software demo*
 
@@ -699,7 +699,7 @@ Status indicator: 'Validated specificity and weighed alternative framings agains
 
 ## [00:20:55] Reddit Thread on r/CICO: Food Cravings and Deficits
 
-frame: 065_00-20-55.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:20:55](https://drive.google.com/file/d/1PIe7yASD88N46zj0VbsAxT5rOlUqnzAM/view?usp=drivesdk) · `065_00-20-55.png`
 
 *social post*
 
@@ -713,7 +713,7 @@ Post details: 408 upvotes, 188 comments. Subreddit sidebar shows related search 
 
 ## [00:21:20] Claude Chat: Framing Options for Positioning Against Injections
 
-frame: 065_00-21-20.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:21:20](https://drive.google.com/file/d/1VnvyXqo-31frt2Vm__mvfGJsTkyqFRPa/view?usp=drivesdk) · `065_00-21-20.png`
 
 *software demo*
 
@@ -734,7 +734,7 @@ Pros listed for Option 3: Doesn't lead with injection comparison, Places it AFTE
 
 ## [00:23:00] Claude Chat: Prompting for Comedic Relief Pain Point
 
-frame: 065_00-23-00.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:23:00](https://drive.google.com/file/d/1mW302JuUxy19Br0Tj8purTWcbjbBNleR/view?usp=drivesdk) · `065_00-23-00.png`
 
 *software demo*
 
@@ -752,7 +752,7 @@ Status: 'Excavated relatable pain points from data to amplify comedic resonance.
 
 ## [00:23:20] Claude Chat: Evaluating 'Elbow-Deep in Something Crunchy' Copy
 
-frame: 065_00-23-20.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:23:20](https://drive.google.com/file/d/1vpAOsJWKh5pYQu0cj_OXH0koEy_StjkM/view?usp=drivesdk) · `065_00-23-20.png`
 
 *software demo*
 
@@ -774,7 +774,7 @@ Status: 'Validated copywriting strength and excavated texture-craving insight. 1
 
 ## [00:24:00] Storyboard Doc: Final Body Copy and Visual Cues
 
-frame: 065_00-24-00.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:24:00](https://drive.google.com/file/d/17ujRhor7VdcqYP0zxPZSZrOq9piO9a4y/view?usp=drivesdk) · `065_00-24-00.png`
 
 *document*
 
@@ -798,7 +798,7 @@ Full text of clinical claim visible: 'In a 12-week study with 90 women, they saw
 
 ## [00:24:20] Hemingway Editor: Readability Check for Clinical Claim
 
-frame: 065_00-24-20.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:24:20](https://drive.google.com/file/d/18cdXCKDgnozWkC2kL0DQcWhA5TuPbGdx/view?usp=drivesdk) · `065_00-24-20.png`
 
 *software demo*
 
@@ -819,7 +819,7 @@ URL bar hidden; app interface shows 'Write' / 'Edit' mode toggles and grade eval
 
 ## [00:25:05] Storyboard Doc: Closing Ad Copy and Guarantee
 
-frame: 065_00-25-05.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:25:05](https://drive.google.com/file/d/1aThLBFKxj7NGdnRiXxtogo8NcXSNWYvt/view?usp=drivesdk) · `065_00-25-05.png`
 
 *document*
 
@@ -842,7 +842,7 @@ Right rail visual instructions visible: 'Clean product shot of Metaglow on white
 
 ## [00:25:10] Claude Chat: Final Visual Breakdown Request
 
-frame: 065_00-25-10.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:25:10](https://drive.google.com/file/d/1zvaiPbKrOfF6-z0qUgtrOV4GNkFGI8NC/view?usp=drivesdk) · `065_00-25-10.png`
 
 *software demo*
 
@@ -860,7 +860,7 @@ Attached image thumbnail of ad script shown; status line: 'Reorganized script se
 
 ## [00:25:15] Claude Chat: Final Script Visual Instructions Generation
 
-frame: 065_00-25-15.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:25:15](https://drive.google.com/file/d/1DSJ6Sm5n1vq9_QmPYWPMxMSKQZOXnUOQ/view?usp=drivesdk) · `065_00-25-15.png`
 
 *software demo* | legibility: partly legible
 
@@ -881,7 +881,7 @@ Prompt details: User corrects Claude on GLP-1 56% claim vs outdated 68%, request
 
 ## [00:25:20] Claude Chat: Hook Variations and Visual Instructions Table
 
-frame: 065_00-25-20.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:25:20](https://drive.google.com/file/d/1w6dDppy3t-GWVizNhAYX6zdBkisPMvsl/view?usp=drivesdk) · `065_00-25-20.png`
 
 *software demo*
 
@@ -899,7 +899,7 @@ Exact visual instructions and text overlay specifications generated by Claude.
 
 ## [00:25:25] Claude Chat: Full Prompt Body Copy for Final Script
 
-frame: 065_00-25-25.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:25:25](https://drive.google.com/file/d/1y6cYK4MJHkITiXrQKPlJwmDHro79EUGR/view?usp=drivesdk) · `065_00-25-25.png`
 
 *software demo*
 
@@ -916,7 +916,7 @@ Exact prompt wording and complete text of hold body copy provided to Claude.
 
 ## [00:25:30] Claude Chat: Bridge Variations and Visual Instructions
 
-frame: 065_00-25-30.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:25:30](https://drive.google.com/file/d/1h7VEvg-pZ2k7j8m3ysd-DY5_nsMxYe6A/view?usp=drivesdk) · `065_00-25-30.png`
 
 *software demo*
 
@@ -936,7 +936,7 @@ Specific visual instructions and timing for Bridge A and Bridge B variations.
 
 ## [00:25:50] Ad Structure Canvas: Hooks, Bridges, and Hold Overview
 
-frame: 065_00-25-50.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:25:50](https://drive.google.com/file/d/1ikDqQnMdZ7wlQSEcEGaJ2Ao07IWZ8wMA/view?usp=drivesdk) · `065_00-25-50.png`
 
 *diagram* | legibility: partly legible
 
@@ -953,7 +953,7 @@ Visual flowchart structure showing 3 Hooks leading into 1 Hold card; layout of v
 
 ## [00:26:00] Growth Guide Sheet: Ad Angle Testing Rationales
 
-frame: 065_00-26-00.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:26:00](https://drive.google.com/file/d/1WCdBlUOxPmuW8e11-d9txue6y6o-SW8A/view?usp=drivesdk) · `065_00-26-00.png`
 
 *spreadsheet*
 
@@ -976,7 +976,7 @@ Complete written rationale and specific Hook 1 concept entered into cell G5.
 
 ## [00:26:15] Growth Guide Sheet: Planned Batches and Angles
 
-frame: 065_00-26-15.png (Drive: https://drive.google.com/file/d/1OnoZGj_3D6uHDqXtw0ASCS8cnLYwS2Pc/view?usp=drivesdk)
+[frame 00:26:15](https://drive.google.com/file/d/1P3Ze3KC4MA6-G9jymTL214U-aN8PJceP/view?usp=drivesdk) · `065_00-26-15.png`
 
 *spreadsheet*
 

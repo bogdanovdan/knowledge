@@ -1,14 +1,14 @@
 # 90. How to complete feedback loops (12 questions) - Visual notes
 
 - **Frames kept:** 2 of 4 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 1112x720 (native), PNG frames in Google Drive as [090-how-to-complete-feedback-loops-12-questions-frames.zip](https://drive.google.com/file/d/1BephitZa_zXxg5gcdbBPARxAw_mZ5kgk/view?usp=drivesdk)
+- **Resolution:** 1112x720 (native), PNG frames in Google Drive, one file per frame, in folder [frames/090-how-to-complete-feedback-loops-12-questions](https://drive.google.com/drive/folders/15ke3f9aTYfThc-kTP1-tYg0hNgAawP6M)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:55] 14 Questions to Review Ads That Make $100k
 
-frame: 090_00-00-55.png (Drive: https://drive.google.com/file/d/1BephitZa_zXxg5gcdbBPARxAw_mZ5kgk/view?usp=drivesdk)
+[frame 00:00:55](https://drive.google.com/file/d/1hPFePYZuCm59aIZiToy7HzFInXm0zQqb/view?usp=drivesdk) · `090_00-00-55.png`
 
 *webpage*
 
@@ -39,7 +39,7 @@ Community platform interface: Skool URL (skool.com/evolve-free/classroom/...), l
 
 ## [00:01:30] Meta Ads Manager Scaling Proof Screenshot
 
-frame: 090_00-01-30.png (Drive: https://drive.google.com/file/d/1BephitZa_zXxg5gcdbBPARxAw_mZ5kgk/view?usp=drivesdk)
+[frame 00:01:30](https://drive.google.com/file/d/1ijKcM2SBrJQyyLHBZHYWXc_DNrNsPjTg/view?usp=drivesdk) · `090_00-01-30.png`
 
 *software demo*
 

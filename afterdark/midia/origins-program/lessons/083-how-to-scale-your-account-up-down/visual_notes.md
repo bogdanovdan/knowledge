@@ -1,14 +1,14 @@
 # 83. How to scale your account (up & down) - Visual notes
 
 - **Frames kept:** 37 of 146 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [083-how-to-scale-your-account-up-down-frames.zip](https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/083-how-to-scale-your-account-up-down](https://drive.google.com/drive/folders/1zi9PhjgOtQF7-9EjpkYbiwCdk_eTtXD6)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:05] Purchase ROAS Drop Example
 
-frame: 083_00-00-05.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:00:05](https://drive.google.com/file/d/1kU2OBEbr2-_I89i-QD5_Wj_yXx8QqX-a/view?usp=drivesdk) · `083_00-00-05.png`
 
 *chart*
 
@@ -24,7 +24,7 @@ Average 1.2x
 
 ## [00:00:15] Purchase ROAS Distribution Timeline
 
-frame: 083_00-00-15.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:00:15](https://drive.google.com/file/d/1-_rB9pYV62_ZBjTn9G7s-q2ppTSUnCHN/view?usp=drivesdk) · `083_00-00-15.png`
 
 *chart*
 
@@ -40,7 +40,7 @@ Axis markings: 0, 5 days, 15 days, 25 days, 30 days; 11%
 
 ## [00:00:30] Scaling Levels Overview
 
-frame: 083_00-00-30.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:00:30](https://drive.google.com/file/d/11rjGhX0QV7gic5jWoS3Bm6RwwoCju1dc/view?usp=drivesdk) · `083_00-00-30.png`
 
 *slide*
 
@@ -64,7 +64,7 @@ Detailed level tier ranges: Level 1: $0-$50k/day 1 Campaign; Level 2: $3k-$10k+/
 
 ## [00:00:45] Meta Ads Manager Campaign Metrics for Single Day
 
-frame: 083_00-00-45.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:00:45](https://drive.google.com/file/d/1boBX5TAtCnJatF7MkXS5cZzV1cD0KQd5/view?usp=drivesdk) · `083_00-00-45.png`
 
 *software demo*
 
@@ -87,7 +87,7 @@ Date: Nov 2, 2024; Purchases conversion value: $106,410.71; Purchase ROAS: 2.11;
 
 ## [00:01:00] Discord Community Revenue Milestone Post
 
-frame: 083_00-01-00.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:01:00](https://drive.google.com/file/d/1rTAdeO2nUbLRkJBtrpBEC6uvLeEEWUWi/view?usp=drivesdk) · `083_00-01-00.png`
 
 *social post*
 
@@ -104,7 +104,7 @@ Total sales: $51,673.63, Conversion rate: 6.82%, Chargebacks: 2, 50+ Orders to f
 
 ## [00:01:10] Editing daily budget in Meta Ads Manager
 
-frame: 083_00-01-10.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:01:10](https://drive.google.com/file/d/1rARSP-U8Mr-0ooyvvQg5XmEgINM1vX4c/view?usp=drivesdk) · `083_00-01-10.png`
 
 *software demo*
 
@@ -122,7 +122,7 @@ Daily budget amount shown is $1,000.00; campaign name snippet 'on//Evolve-Comple
 
 ## [00:01:55] EAM Scaling Process Flowchart Overview
 
-frame: 083_00-01-55.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:01:55](https://drive.google.com/file/d/12_VIXrzSzVPKQ4orl1sAe45O552bCdpL/view?usp=drivesdk) · `083_00-01-55.png`
 
 *diagram*
 
@@ -145,7 +145,7 @@ Node labels and decision conditions including 'Breakeven KPI for 24-48 hours', a
 
 ## [00:03:20] Scaling Protocol Decision Step
 
-frame: 083_00-03-20.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:03:20](https://drive.google.com/file/d/1Yv43zNZnhJjXC-oEQt7e4D4wwRA-VIzG/view?usp=drivesdk) · `083_00-03-20.png`
 
 *diagram*
 
@@ -163,7 +163,7 @@ Diagram layout and visual connections between YES and NO branches.
 
 ## [00:04:25] Click-Based Attribution Verification Step
 
-frame: 083_00-04-25.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:04:25](https://drive.google.com/file/d/1BWdvXTSMZjF8ED0145Em3NHlr1uIMixx/view?usp=drivesdk) · `083_00-04-25.png`
 
 *diagram*
 
@@ -179,7 +179,7 @@ Branching to YES and NO below.
 
 ## [00:04:55] Performance Consistency and Scaling Reason Decision
 
-frame: 083_00-04-55.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:04:55](https://drive.google.com/file/d/1vJwcWOL3emZrEEelpwwiRBdaQtfkuZ_4/view?usp=drivesdk) · `083_00-04-55.png`
 
 *diagram*
 
@@ -193,7 +193,7 @@ Branching to:
 
 ## [00:05:35] Meta Ads Manager Campaign Overview Metrics
 
-frame: 083_00-05-35.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:05:35](https://drive.google.com/file/d/1wzc7iFKBmiPW_oH_k_PiMJyjQ1NDk3Vr/view?usp=drivesdk) · `083_00-05-35.png`
 
 *software demo*
 
@@ -215,7 +215,7 @@ Date range: Jun 30, 2025 - Jul 6, 2025; Purchases conversion value: $6,564.36; C
 
 ## [00:05:40] Scaling Levels 2 and 3 Cards
 
-frame: 083_00-05-40.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:05:40](https://drive.google.com/file/d/1Akik_oRrBP0G86TmelSsQ0CF23w3-oSF/view?usp=drivesdk) · `083_00-05-40.png`
 
 *slide*
 
@@ -232,7 +232,7 @@ Visual teaser text on cards.
 
 ## [00:05:50] Meta Ads Manager Compare Attribution Settings Modal
 
-frame: 083_00-05-50.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:05:50](https://drive.google.com/file/d/1qIT_Ch-3YlvVh00T1j5VeqqFJcNfaZWO/view?usp=drivesdk) · `083_00-05-50.png`
 
 *software demo*
 
@@ -255,7 +255,7 @@ Available options: 1-day click, 28-day click, 1-day view, 1-day engaged-view, Ap
 
 ## [00:06:05] Meta Ads Manager Ad Sets Attribution Settings
 
-frame: 083_00-06-05.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:06:05](https://drive.google.com/file/d/1jfRmM55oJyTp1BuHfmAkyfkQy4OH0aIB/view?usp=drivesdk) · `083_00-06-05.png`
 
 *software demo* | legibility: partly legible
 
@@ -274,7 +274,7 @@ Individual ad set spend amounts ($1,114.93, $1,026.38, $250.43, etc.), CPMs, Rea
 
 ## [00:06:30] Meta Ads Manager Click-Based Attribution Metrics Comparison
 
-frame: 083_00-06-30.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:06:30](https://drive.google.com/file/d/184s1VYEjh-gL_Z_dlMfrqLkpY3gKETsC/view?usp=drivesdk) · `083_00-06-30.png`
 
 *software demo*
 
@@ -295,7 +295,7 @@ Date range 'Jun 30, 2025 - Jul 6, 2025', individual ad set values (Champ... 37 c
 
 ## [00:07:55] Scaling Budget Increase Decision Rules
 
-frame: 083_00-07-55.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:07:55](https://drive.google.com/file/d/11Qb_b_bcAzg6MMWkuRFxXSbZNeyO72xf/view?usp=drivesdk) · `083_00-07-55.png`
 
 *diagram*
 
@@ -314,7 +314,7 @@ Next to it on the 'NO' branch: 'Wait Another 24 Hours'
 
 ## [00:09:40] Scaling Flowchart Click Attribution and Scale Down Branch
 
-frame: 083_00-09-40.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:09:40](https://drive.google.com/file/d/1byGE7-oJdhgXI83BKpEnf1ebS9T_3lj8/view?usp=drivesdk) · `083_00-09-40.png`
 
 *diagram*
 
@@ -332,7 +332,7 @@ Checklist items in 'Do not decrease spend' box: 'Double check entire funnel for 
 
 ## [00:11:25] Scaling Down Breakeven and Target KPI Evaluation Flowchart
 
-frame: 083_00-11-25.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:11:25](https://drive.google.com/file/d/1VLtRiQZP-FPtf0yWksGeu5uIRuSr3kjI/view?usp=drivesdk) · `083_00-11-25.png`
 
 *diagram*
 
@@ -349,7 +349,7 @@ Flowchart logic:
 
 ## [00:12:40] Minimum Daily Spend Decision Step in Scaling Flowchart
 
-frame: 083_00-12-40.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:12:40](https://drive.google.com/file/d/1kyPdhvNkY8NG6wLF45aV1ei7dBoqcI3e/view?usp=drivesdk) · `083_00-12-40.png`
 
 *diagram*
 
@@ -361,7 +361,7 @@ Incoming arrows from previous decision branches, leading down to branching paths
 
 ## [00:12:45] Actions When Unable to Decrease Spend Flowchart Step
 
-frame: 083_00-12-45.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:12:45](https://drive.google.com/file/d/1Qbc0RyvkQvzsBBLaq0APXMeL6wzdMXEj/view?usp=drivesdk) · `083_00-12-45.png`
 
 *diagram*
 
@@ -387,7 +387,7 @@ Bottom Right Box: "And Also:"
 
 ## [00:14:20] Protocol for Decreasing Budget and Parallel Creative Actions
 
-frame: 083_00-14-20.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:14:20](https://drive.google.com/file/d/1PKQED1sxFa0WGIxOTd1tU1dNAQtnmebD/view?usp=drivesdk) · `083_00-14-20.png`
 
 *diagram*
 
@@ -415,7 +415,7 @@ Box 3 (under Decrease Budget 20%): "And Also:"
 
 ## [00:17:45] Four Levels of Ad Account Scaling by Daily Spend
 
-frame: 083_00-17-45.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:17:45](https://drive.google.com/file/d/14eKfiwi7nxtqiKO5W36xrfBVjXOdkWet/view?usp=drivesdk) · `083_00-17-45.png`
 
 *diagram*
 
@@ -437,7 +437,7 @@ Levels 2, 3, and 4 spend ranges and teaser notes; "1 Campaign" specification und
 
 ## [00:18:20] Meta Ads Manager Single Campaign Setup Example
 
-frame: 083_00-18-20.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:18:20](https://drive.google.com/file/d/1JAyREiP6PBAuBJ5LsEHrZADBhPlspmd3/view?usp=drivesdk) · `083_00-18-20.png`
 
 *software demo*
 
@@ -459,7 +459,7 @@ Campaign name: EAM//Acquisition//DCT//US//CBO; Bid strategy: Highest volume; Amo
 
 ## [00:19:15] Single Campaign Reaching Over $50k Daily Spend
 
-frame: 083_00-19-15.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:19:15](https://drive.google.com/file/d/1GenqhOj9YtwVSwc0HAA8L-UMfaxhb2a-/view?usp=drivesdk) · `083_00-19-15.png`
 
 *software demo*
 
@@ -482,7 +482,7 @@ Date: Nov 2, 2024; Exact spend: $50,429.55; 618 purchases; Cost per purchase: $8
 
 ## [00:19:40] Level 2 Scaling Strategy: CBOs and Raw Content
 
-frame: 083_00-19-40.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:19:40](https://drive.google.com/file/d/1Ak7KegBJ9XduGpaM1qBuhh7G-h0coYTK/view?usp=drivesdk) · `083_00-19-40.png`
 
 *diagram*
 
@@ -503,7 +503,7 @@ Level 2 detail: 'CBOs + Raw Content*', '*low-intent testing campaign'
 
 ## [00:20:35] Meta Ads Manager Level 2 Campaigns Structure
 
-frame: 083_00-20-35.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:20:35](https://drive.google.com/file/d/1xvp2In_rLGfL6H04hmCYa_i7FcQmc-GO/view?usp=drivesdk) · `083_00-20-35.png`
 
 *software demo*
 
@@ -525,7 +525,7 @@ Exact campaign names: EAM - Main - All - Broad - 7DC1DV - US - CB..., EAM - Raw 
 
 ## [00:21:45] Level 3 Scaling Strategy Components ($10k-$50k+/day)
 
-frame: 083_00-21-45.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:21:45](https://drive.google.com/file/d/1R4ZVvgHLmcMIWTeq7MXhoEbw0nAQ90In/view?usp=drivesdk) · `083_00-21-45.png`
 
 *slide*
 
@@ -548,7 +548,7 @@ Text formatting bar visible at top ('Ginormous', etc.). Text on adjacent cards.
 
 ## [00:22:15] Meta Ads Manager Campaigns Table for Level 3 Scaling Structure
 
-frame: 083_00-22-15.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:22:15](https://drive.google.com/file/d/1YzpIicrvK5KKx0y_KfWgVwr3h9cCwQUu/view?usp=drivesdk) · `083_00-22-15.png`
 
 *software demo*
 
@@ -568,7 +568,7 @@ Exact figures for spend, conversions, ROAS, CPC, and specific campaign names inc
 
 ## [00:25:25] Levels of Ad Account Scaling Overview (Levels 1 to 4)
 
-frame: 083_00-25-25.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:25:25](https://drive.google.com/file/d/1DXLSA4mtJm_Nm8_MrQsPDIDKNqfaP39R/view?usp=drivesdk) · `083_00-25-25.png`
 
 *slide*
 
@@ -597,7 +597,7 @@ Lower card humorous retention notes ("Don't click off..."). Note: Level 4 specif
 
 ## [00:27:20] Level 1 Scaling Update: 1 Campaign + Promo
 
-frame: 083_00-27-20.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:27:20](https://drive.google.com/file/d/1wMGP4UW0I5XPmDHeZDnB4qKvFkb-NIuL/view?usp=drivesdk) · `083_00-27-20.png`
 
 *diagram*
 
@@ -614,7 +614,7 @@ Boxes showing scaling levels:
 
 ## [00:27:35] Meta Ads Manager Promo Campaign Ad Sets Breakdown (Pre-BFCM)
 
-frame: 083_00-27-35.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:27:35](https://drive.google.com/file/d/1F6ViLE-UpODwExEfYJZWRDgyeXioyCQo/view?usp=drivesdk) · `083_00-27-35.png`
 
 *software demo*
 
@@ -632,7 +632,7 @@ Detailed breakdown by Hot-90, Broad, Warm-60 ad sets including exact spend ($3,9
 
 ## [00:27:45] Meta Ads Manager $50k Daily Spend Campaign Performance (Nov 28, 2024)
 
-frame: 083_00-27-45.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:27:45](https://drive.google.com/file/d/1-Okb8dWMK5QbPuTn-16hXAUsjKdA9Hm6/view?usp=drivesdk) · `083_00-27-45.png`
 
 *software demo*
 
@@ -652,7 +652,7 @@ Exact total spend $50,028.26 with $193,509.26 total return (3.87 ROAS); individu
 
 ## [00:28:30] Full Scaling Protocols Matrix (Levels 1 to 4)
 
-frame: 083_00-28-30.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:28:30](https://drive.google.com/file/d/1EEkf67aXUjY9MtPtpWgL72KfFMzNxp09/view?usp=drivesdk) · `083_00-28-30.png`
 
 *slide*
 
@@ -676,7 +676,7 @@ Retention text cards below each tier: 'Don't click off if you want to see Level 
 
 ## [00:29:00] Case Study Thumbnail: $2M/Month Launching Multiple Ecom Offers
 
-frame: 083_00-29-00.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:29:00](https://drive.google.com/file/d/1rKU3cty08yJTfsBk9IvQCmRtvantatVP/view?usp=drivesdk) · `083_00-29-00.png`
 
 *social post*
 
@@ -695,7 +695,7 @@ Total Sales: $2.1M, 369 Orders, title text: 'We Hit $2M/month by Launching Multi
 
 ## [00:29:35] Ad Account Scaling Decision Tree Protocol
 
-frame: 083_00-29-35.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:29:35](https://drive.google.com/file/d/1dLNilBRciOCjJ2_5ftr0Fdvte5QRc7vK/view?usp=drivesdk) · `083_00-29-35.png`
 
 *diagram* | legibility: partly legible
 
@@ -712,7 +712,7 @@ Detailed flowchart decision logic, text boxes, and action criteria for budget in
 
 ## [00:29:50] Evolve Community Skool Page
 
-frame: 083_00-29-50.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:29:50](https://drive.google.com/file/d/1tWFrAcwij15OJAwyZjT28ZP3PekHT6dW/view?usp=drivesdk) · `083_00-29-50.png`
 
 *webpage*
 
@@ -731,7 +731,7 @@ URL skool.com/evolve-8484, stats (370 Members, 9 Online, 5 Admins), price 'JOIN 
 
 ## [00:30:10] Evolve Discord Wins Channel Member Milestone
 
-frame: 083_00-30-10.png (Drive: https://drive.google.com/file/d/1MGreqTH8rs6uN4BeclkyGRr7imT7KD-Y/view?usp=drivesdk)
+[frame 00:30:10](https://drive.google.com/file/d/1pKwMlBdeoSEjRiXRUPSLwMw80ia3o1KV/view?usp=drivesdk) · `083_00-30-10.png`
 
 *social post* | legibility: partly legible
 

@@ -1,14 +1,14 @@
 # 1. Full Live Webinar Of $0-$100k Month - Visual notes
 
 - **Frames kept:** 97 of 387 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 1114x720 (native), PNG frames in Google Drive as [001-full-live-webinar-of-0-100k-month-frames.zip](https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+- **Resolution:** 1114x720 (native), PNG frames in Google Drive, one file per frame, in folder [frames/001-full-live-webinar-of-0-100k-month](https://drive.google.com/drive/folders/18z0hW9ARYJp2AmEKXQuGlrvd7vpn1VXy)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:05:45] Webinar Title Slide
 
-frame: 001_00-05-45.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:05:45](https://drive.google.com/file/d/1gJ2pGrCyFI9zhYMNvk-9gPRxNQvFw34E/view?usp=drivesdk) · `001_00-05-45.png`
 
 *title card*
 
@@ -20,7 +20,7 @@ The Real Truth Of Going From $0-$100k/month
 
 ## [00:06:35] EAM Agency Meta Ads Performance
 
-frame: 001_00-06-35.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:06:35](https://drive.google.com/file/d/1zY_nxaLz2oWclQd2i74_5wQNDS7tOuWv/view?usp=drivesdk) · `001_00-06-35.png`
 
 *slide*
 
@@ -47,7 +47,7 @@ Date range 'Jan 1, 2025 - Mar 31, 2025', specific campaign spend/ROAS/revenue fi
 
 ## [00:06:45] Evolve Community Discord Wins Showcase
 
-frame: 001_00-06-45.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:06:45](https://drive.google.com/file/d/1PBKL_WmL5z3MSd0aTJptMRv4jQDJWTD6/view?usp=drivesdk) · `001_00-06-45.png`
 
 *social post* | legibility: partly legible
 
@@ -68,7 +68,7 @@ Exact Discord usernames, chat timestamps, and Blended Metrics table numbers (18.
 
 ## [00:07:00] Evolve Member Store Revenue Growth Screenshot
 
-frame: 001_00-07-00.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:07:00](https://drive.google.com/file/d/1uiNlN9FAQgff0ybMTchZzUSRJneMWaNY/view?usp=drivesdk) · `001_00-07-00.png`
 
 *social post* | legibility: partly legible
 
@@ -87,7 +87,7 @@ Sleepie username and full text describing PayPal holds and cash flow scaling.
 
 ## [00:07:05] Shopify Sales Screenshot of $837k Scale
 
-frame: 001_00-07-05.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:07:05](https://drive.google.com/file/d/1OjqNYy3Ss4aTGq5UchE07Ed0dD3YnxMu/view?usp=drivesdk) · `001_00-07-05.png`
 
 *social post*
 
@@ -111,7 +111,7 @@ Brandon's mention of scaling a beauty brand to $8M previously, exact store total
 
 ## [00:07:25] Scale to $100k per Month Slide
 
-frame: 001_00-07-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:07:25](https://drive.google.com/file/d/1XiIZErqzbg8ahEJmoiqwMaesupGr_4a8/view?usp=drivesdk) · `001_00-07-25.png`
 
 *slide*
 
@@ -121,7 +121,7 @@ We had to master how to scale to $100k/month
 
 ## [00:07:30] Exact Formula Promise Slide
 
-frame: 001_00-07-30.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:07:30](https://drive.google.com/file/d/1RwhIyovCRcKaiPCdmM5L_OQcItjKYYZG/view?usp=drivesdk) · `001_00-07-30.png`
 
 *slide*
 
@@ -131,7 +131,7 @@ And today you will leave this call with the exact formula
 
 ## [00:08:05] Put Phone Down and Lock In Slide
 
-frame: 001_00-08-05.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:08:05](https://drive.google.com/file/d/1cGpjscnbhn1zKRttXityIamHGVOmxB2F/view?usp=drivesdk) · `001_00-08-05.png`
 
 *slide*
 
@@ -141,7 +141,7 @@ Put your phone down. And lock tf in...
 
 ## [00:08:20] Two Types of eCommerce Brand Owners
 
-frame: 001_00-08-20.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:08:20](https://drive.google.com/file/d/1FJUVKpHguzgar_wpTeyNFjvtW7gKy9uF/view?usp=drivesdk) · `001_00-08-20.png`
 
 *slide*
 
@@ -151,7 +151,7 @@ There are 2 types of eCom brand owners
 
 ## [00:08:30] The Ads Brand Owner Type
 
-frame: 001_00-08-30.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:08:30](https://drive.google.com/file/d/1ZF-hlYA1yuPEex2YqeKkDwFCvK5kfePH/view?usp=drivesdk) · `001_00-08-30.png`
 
 *slide*
 
@@ -161,7 +161,7 @@ The "Ads" Brand Owner
 
 ## [00:09:05] Problems Faced by The Product Owner
 
-frame: 001_00-09-05.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:09:05](https://drive.google.com/file/d/19ut36XzTCdFFhTGQPCGkR39YDdq3_Mar/view?usp=drivesdk) · `001_00-09-05.png`
 
 *slide*
 
@@ -178,7 +178,7 @@ Right Now:
 
 ## [00:09:25] What the Product Brand Owner Needs to Do
 
-frame: 001_00-09-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:09:25](https://drive.google.com/file/d/1FHgRLxlnW7chsXddkSBJEv9YYChFPvXX/view?usp=drivesdk) · `001_00-09-25.png`
 
 *slide*
 
@@ -188,7 +188,7 @@ What the "Product" Brand Owner needs to do...
 
 ## [00:10:50] The Ads Owner Problems
 
-frame: 001_00-10-50.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:10:50](https://drive.google.com/file/d/1H4yWodvGud3w8D02o8gqT2WRyvP0Z-fP/view?usp=drivesdk) · `001_00-10-50.png`
 
 *slide*
 
@@ -205,7 +205,7 @@ Problems
 
 ## [00:11:10] Focus on the Same Thing
 
-frame: 001_00-11-10.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:11:10](https://drive.google.com/file/d/1AYEbahlR0LsKcp07PFPvRHOCgMfhQH2b/view?usp=drivesdk) · `001_00-11-10.png`
 
 *slide*
 
@@ -215,7 +215,7 @@ You both need to focus on the SAME thing.
 
 ## [00:11:20] The Ads Owner Solutions by Revenue Stage
 
-frame: 001_00-11-20.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:11:20](https://drive.google.com/file/d/1ksF-Lb1Ey3-gXTHgIdOOTOhc2oZsuLRI/view?usp=drivesdk) · `001_00-11-20.png`
 
 *slide*
 
@@ -233,7 +233,7 @@ Revenue brackets: $0-$10k, $10k-$50k, $50k-$100k mapped to specific stages.
 
 ## [00:11:55] 99% of Products Can Scale to $100k/Month
 
-frame: 001_00-11-55.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:11:55](https://drive.google.com/file/d/1ksqEOaVOF83nby4oP2g32mB8dlgJ4D7z/view?usp=drivesdk) · `001_00-11-55.png`
 
 *slide*
 
@@ -243,7 +243,7 @@ It's because 99% of products can scale to $100k/month
 
 ## [00:12:10] Liquid Death Valuation AI Overview
 
-frame: 001_00-12-10.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:12:10](https://drive.google.com/file/d/1FvYrAdBvg7QDg_VV0ShnLYJaZJBt4FlU/view?usp=drivesdk) · `001_00-12-10.png`
 
 *webpage*
 
@@ -258,7 +258,7 @@ valued at $978.7 million, stock price of $9.00 on May 11, 2025, $1.4 billion fol
 
 ## [00:12:25] Comfrt Valuation AI Overview
 
-frame: 001_00-12-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:12:25](https://drive.google.com/file/d/1rWR9eKs8pPuAwj0YonTS7wx6ANne4Z3w/view?usp=drivesdk) · `001_00-12-25.png`
 
 *webpage*
 
@@ -273,7 +273,7 @@ estimated to be worth $250 million as of March 31, 2025, according to a LinkedIn
 
 ## [00:12:45] Product is Only One Lever
 
-frame: 001_00-12-45.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:12:45](https://drive.google.com/file/d/1yahClCOomFK_FaEH3OS7ClQHyY78O_LZ/view?usp=drivesdk) · `001_00-12-45.png`
 
 *slide*
 
@@ -283,7 +283,7 @@ But product is only ONE lever
 
 ## [00:13:45] Three Levers: Product, Brand, Avatar
 
-frame: 001_00-13-45.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:13:45](https://drive.google.com/file/d/1sHiKPbCA9zFz9miQvokibxASSjC2AGCF/view?usp=drivesdk) · `001_00-13-45.png`
 
 *slide*
 
@@ -299,7 +299,7 @@ Product and Brand are struck through with horizontal lines.
 
 ## [00:13:50] Innovating an Avatar Equals Marketing
 
-frame: 001_00-13-50.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:13:50](https://drive.google.com/file/d/1xasrOPScLJDEn1P9lqZoT0Tq4vHNz0Ej/view?usp=drivesdk) · `001_00-13-50.png`
 
 *slide*
 
@@ -309,7 +309,7 @@ Innovating an avatar = Marketing
 
 ## [00:15:30] Both Owners: Marketing Truth and Strategy
 
-frame: 001_00-15-30.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:15:30](https://drive.google.com/file/d/17YP9q2BAOlgCKvX3z6j_-wN8-sQ55mQc/view?usp=drivesdk) · `001_00-15-30.png`
 
 *slide*
 
@@ -327,7 +327,7 @@ You need a MARKETING STRATEGY.
 
 ## [00:15:40] Options for Marketing
 
-frame: 001_00-15-40.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:15:40](https://drive.google.com/file/d/1cuUlqiNj7xvEG6pMrv4-LTjEpjH3h0tC/view?usp=drivesdk) · `001_00-15-40.png`
 
 *slide*
 
@@ -337,7 +337,7 @@ So, what are your options for marketing?
 
 ## [00:15:45] Option 1: Agency Route
 
-frame: 001_00-15-45.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:15:45](https://drive.google.com/file/d/1_FtybxdDgSIcSyTfzoiHXdofyHaRyUTZ/view?usp=drivesdk) · `001_00-15-45.png`
 
 *slide*
 
@@ -347,7 +347,7 @@ Agency Route
 
 ## [00:17:20] Agency Route Options: Hungry, Mill/Mid, Premium
 
-frame: 001_00-17-20.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:17:20](https://drive.google.com/file/d/1vbJ6N-fPrlFBH2POQUCWYmdMlRcV5ppE/view?usp=drivesdk) · `001_00-17-20.png`
 
 *slide*
 
@@ -371,7 +371,7 @@ Con: They won't work with you/you will run out of money
 
 ## [00:18:40] Individual Route Options: Media Buyer, Strategist, In-House
 
-frame: 001_00-18-40.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:18:40](https://drive.google.com/file/d/1Xv3lXvFZeXN5yEZuAPV9tg4yxi6KoFH5/view?usp=drivesdk) · `001_00-18-40.png`
 
 *slide*
 
@@ -399,7 +399,7 @@ Bullet 3: "($3k-$5k+ per month)", "Pro: They are committed to your business", "C
 
 ## [00:18:50] Do It Your Damn Self
 
-frame: 001_00-18-50.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:18:50](https://drive.google.com/file/d/1oytL-Wl0W0JbcBTa6GZwH8mfRsO_c16M/view?usp=drivesdk) · `001_00-18-50.png`
 
 *slide*
 
@@ -409,7 +409,7 @@ Do it your damn self.
 
 ## [00:19:05] Most Brand Owners Meme
 
-frame: 001_00-19-05.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:19:05](https://drive.google.com/file/d/1igdpA-F4DNnznCJeFkLdgFEofCJDoDbQ/view?usp=drivesdk) · `001_00-19-05.png`
 
 *slide*
 
@@ -423,7 +423,7 @@ Most Brand Owners
 
 ## [00:20:05] Both Owners: The Option Successful People Take
 
-frame: 001_00-20-05.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:20:05](https://drive.google.com/file/d/1TbQCVW95wRsdL91zVRgoWS36y2A7iPh2/view?usp=drivesdk) · `001_00-20-05.png`
 
 *slide*
 
@@ -443,7 +443,7 @@ Con: You actually have to do the work
 
 ## [00:20:25] How to Actually Transition Slide
 
-frame: 001_00-20-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:20:25](https://drive.google.com/file/d/14pTJM_3S7b4Vj4kot8RrVZe7k_9qWpM5/view?usp=drivesdk) · `001_00-20-25.png`
 
 *slide*
 
@@ -457,7 +457,7 @@ Slide text "Cool. But how tf do you ACTUALLY..."
 
 ## [00:21:05] Action Items for Scaling Revenue Stages
 
-frame: 001_00-21-05.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:21:05](https://drive.google.com/file/d/1_cP1zSzRzBRSlfhKxPwiF6M6Hd21OlXz/view?usp=drivesdk) · `001_00-21-05.png`
 
 *slide*
 
@@ -470,7 +470,7 @@ Action Items
 
 ## [00:21:35] Brand A Meta Ads Metrics Before Optimization
 
-frame: 001_00-21-35.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:21:35](https://drive.google.com/file/d/1NlzaWIWK6fPSZnlMLrYGYFUfAy-dl6BO/view?usp=drivesdk) · `001_00-21-35.png`
 
 *spreadsheet*
 
@@ -493,7 +493,7 @@ Detailed rows for 3 individual ad campaigns/sets; exact impressions, CPMs, click
 
 ## [00:22:15] Offer Issues for Brand A
 
-frame: 001_00-22-15.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:22:15](https://drive.google.com/file/d/1OLODE7UnWJNPAVwukrloQrHsRhOYEXZ3/view?usp=drivesdk) · `001_00-22-15.png`
 
 *slide*
 
@@ -519,7 +519,7 @@ Product title shown on page: 'The OG - Party Pack of 4!', brand packaging name v
 
 ## [00:22:25] Alex Hormozi Value Equation
 
-frame: 001_00-22-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:22:25](https://drive.google.com/file/d/1L3Y6b4gtUkQ7oVHjUBdZOrrMqKKr-hff/view?usp=drivesdk) · `001_00-22-25.png`
 
 *diagram*
 
@@ -533,7 +533,7 @@ Full written formula terms and illustration layout.
 
 ## [00:22:50] Fixing the Offer with the Value Equation
 
-frame: 001_00-22-50.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:22:50](https://drive.google.com/file/d/1zm2yx7017JElwVcpcTwnQ2nPQY0Uko2W/view?usp=drivesdk) · `001_00-22-50.png`
 
 *slide*
 
@@ -552,7 +552,7 @@ We need to provide VALUE in ALL forms
 
 ## [00:23:30] Full Breakdown of Offer Issues on Product Page
 
-frame: 001_00-23-30.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:23:30](https://drive.google.com/file/d/1kKgiihiiDNJyjhyt7AuDhZ8c7tO964lE/view?usp=drivesdk) · `001_00-23-30.png`
 
 *slide*
 
@@ -580,7 +580,7 @@ Upsell on PDP: 'Add a single bag to your order (Not sold individually)' - 'Mexic
 
 ## [00:24:20] COGS Breakdown and Margin Calculation Spreadsheet
 
-frame: 001_00-24-20.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:24:20](https://drive.google.com/file/d/1ndAmsrunwBBuRDwcaHGg5gQNQjth2flg/view?usp=drivesdk) · `001_00-24-20.png`
 
 *spreadsheet* | legibility: partly legible
 
@@ -603,7 +603,7 @@ Specific table rows: Pack of 5, Pack of 10, Buy 1 Get 1 Free, Buy 1 get 1 50% Of
 
 ## [00:24:35] Step 2: Final Offer Bundle Options
 
-frame: 001_00-24-35.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:24:35](https://drive.google.com/file/d/1suo3AxghOz_prSwSW78HdK2_gx0--ra7/view?usp=drivesdk) · `001_00-24-35.png`
 
 *slide*
 
@@ -627,7 +627,7 @@ Original strike-through prices and savings shown in the UI: $72 crossed out save
 
 ## [00:25:20] Perceived Value and Pricing Adjustments Breakdown
 
-frame: 001_00-25-20.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:25:20](https://drive.google.com/file/d/1gbRsPWEslmpXneOp4YWpXzxuiDn0gyES/view?usp=drivesdk) · `001_00-25-20.png`
 
 *slide*
 
@@ -650,7 +650,7 @@ The green-boxed alternative comparison values: $42.99 crossed out with SAVE $6.9
 
 ## [00:25:40] Step 3: Increasing Likelihood of Achievement on Landing Page
 
-frame: 001_00-25-40.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:25:40](https://drive.google.com/file/d/149WTpFZKvYcPpXiJvlW2R7O9ngXy5XiZ/view?usp=drivesdk) · `001_00-25-40.png`
 
 *slide*
 
@@ -678,7 +678,7 @@ Brand name 'LEGALLY ADDICTIVE COOKIES', exact review stats (4.9/5 from 13,429+ h
 
 ## [00:25:50] Brand A Baseline Ads Performance (Before)
 
-frame: 001_00-25-50.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:25:50](https://drive.google.com/file/d/1eaXGwXihFKKZEaXcuTpVgrZuqipZRZ-3/view?usp=drivesdk) · `001_00-25-50.png`
 
 *software demo*
 
@@ -703,7 +703,7 @@ Detailed rows and columns: CPM ($22.80, $18.00, $39.37, $44.92), purchases count
 
 ## [00:26:35] Brand A Ads Performance (After)
 
-frame: 001_00-26-35.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:26:35](https://drive.google.com/file/d/1PJpJNBCCN9Z8IeG8rWJDrIZ_gjIcsjtn/view?usp=drivesdk) · `001_00-26-35.png`
 
 *software demo*
 
@@ -726,7 +726,7 @@ Date range: May 8, 2025 - May 14, 2025; Amount spent: $1,330.03; Purchases: 93; 
 
 ## [00:27:10] Case Study Introduction: Brand B
 
-frame: 001_00-27-10.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:27:10](https://drive.google.com/file/d/1USg5MMGxPdj2Ps2n1uMVitZnRuGjUfhJ/view?usp=drivesdk) · `001_00-27-10.png`
 
 *title card*
 
@@ -736,7 +736,7 @@ Brand B:
 
 ## [00:27:30] Brand B Ads Performance (Before)
 
-frame: 001_00-27-30.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:27:30](https://drive.google.com/file/d/1mPldgkewt4_-_jmRpHdyEko60QOhHec-/view?usp=drivesdk) · `001_00-27-30.png`
 
 *software demo*
 
@@ -761,7 +761,7 @@ Date range Jun 1, 2024 - Jun 30, 2024; Exact total spent: $15,276.73; Conversion
 
 ## [00:28:20] Scaling Prerequisite Slide
 
-frame: 001_00-28-20.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:28:20](https://drive.google.com/file/d/1HMc2kZWR0XAWFk3Wtb4fWvJ-20h0ocu8/view?usp=drivesdk) · `001_00-28-20.png`
 
 *slide*
 
@@ -771,7 +771,7 @@ Before you do anything, you need 1 thing...
 
 ## [00:28:45] The 1 Thing Needed: Content Creators
 
-frame: 001_00-28-45.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:28:45](https://drive.google.com/file/d/1H9Rv5rdjiWVWQpeXIjCZnEYGKNn7b2eJ/view?usp=drivesdk) · `001_00-28-45.png`
 
 *slide*
 
@@ -781,7 +781,7 @@ Content Creators
 
 ## [00:30:20] User Generated Content (UGC) Guidelines
 
-frame: 001_00-30-20.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:30:20](https://drive.google.com/file/d/1RwKvvC4gkJOf4KqvPjYXxVybFbXCHXFt/view?usp=drivesdk) · `001_00-30-20.png`
 
 *slide*
 
@@ -803,7 +803,7 @@ Visual UGC video example showing a creator balancing cups on a board on her head
 
 ## [00:32:25] UGC Sourcing and Pricing Strategy
 
-frame: 001_00-32-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:32:25](https://drive.google.com/file/d/1ghCfOCAlXtrprbsuA9NvfQdp7T7FXCDl/view?usp=drivesdk) · `001_00-32-25.png`
 
 *slide*
 
@@ -830,7 +830,7 @@ Discount code exact text: Code EASYA100 (transcript misspoke as EZ100); Rates: '
 
 ## [00:34:05] Phase 2: Creative Strategy
 
-frame: 001_00-34-05.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:34:05](https://drive.google.com/file/d/1jyziwsTZq6A-VnaexLcko9ciUGFsAhUa/view?usp=drivesdk) · `001_00-34-05.png`
 
 *title card*
 
@@ -840,7 +840,7 @@ Phase 2: Creative Strategy
 
 ## [00:34:15] Relatable Ad Ideas for a Specific Avatar
 
-frame: 001_00-34-15.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:34:15](https://drive.google.com/file/d/1IYf4Ph8banakBcYArlFZ4Q10qVgqKplc/view?usp=drivesdk) · `001_00-34-15.png`
 
 *slide*
 
@@ -850,7 +850,7 @@ You NEED to come up with RELATABLE ad ideas for a SPECIFIC avatar
 
 ## [00:34:25] Evolve Free Skool Community Overview
 
-frame: 001_00-34-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:34:25](https://drive.google.com/file/d/1_gKBR6zEpGclksehGjiEWWhLfchlINik/view?usp=drivesdk) · `001_00-34-25.png`
 
 *webpage*
 
@@ -872,7 +872,7 @@ URL: skool.com/evolve-free; exact link options: 'Book An Evolve Intro Call', 'Wo
 
 ## [00:34:45] Evolve Lite Reddit Research Course Module
 
-frame: 001_00-34-45.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:34:45](https://drive.google.com/file/d/13hsMlcEvSc6rFYPnWtbpmZyYu-6Ju3fo/view?usp=drivesdk) · `001_00-34-45.png`
 
 *software demo*
 
@@ -903,7 +903,7 @@ Full curriculum breakdown under 'What Ads To Make (Research)': Overview & Self O
 
 ## [00:34:50] Turning Ideas into Briefs
 
-frame: 001_00-34-50.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:34:50](https://drive.google.com/file/d/166Yn-qbRRO6Oapwb5OH7B24Pzj8bIsGh/view?usp=drivesdk) · `001_00-34-50.png`
 
 *slide*
 
@@ -913,7 +913,7 @@ Take those ideas & turn them into briefs
 
 ## [00:36:00] How to Write Ads That Make $100k Module and Template Link
 
-frame: 001_00-36-00.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:36:00](https://drive.google.com/file/d/1VDvUmjXFKTH71ozoRPZ-Li1aIt_t_WZu/view?usp=drivesdk) · `001_00-36-00.png`
 
 *software demo*
 
@@ -941,7 +941,7 @@ Google Docs template URL: https://docs.google.com/document/d/1kOINLhks6MPDHCB98a
 
 ## [00:36:45] Reddit Research Example: Bra Recommendations Thread
 
-frame: 001_00-36-45.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:36:45](https://drive.google.com/file/d/1CRSwtfYkbYDIPVIodfW1zVIYR10QWikh/view?usp=drivesdk) · `001_00-36-45.png`
 
 *social post*
 
@@ -960,7 +960,7 @@ Subreddit name: r/BuyItForLife; usernames: inky_cap_mushroom, Suspicious-Debate-
 
 ## [00:37:05] Send Briefs to an Editor
 
-frame: 001_00-37-05.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:37:05](https://drive.google.com/file/d/1hfRbXNhVdSpegFW279D_9o-BXS52nIMX/view?usp=drivesdk) · `001_00-37-05.png`
 
 *slide*
 
@@ -970,7 +970,7 @@ Then send your briefs to an editor
 
 ## [00:37:10] Objection Slide: But What If I Don't Have an Editor?
 
-frame: 001_00-37-10.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:37:10](https://drive.google.com/file/d/1QnFYtK5SFn0EGeLVlI9IjHdC8us092tz/view?usp=drivesdk) · `001_00-37-10.png`
 
 *slide*
 
@@ -984,7 +984,7 @@ Alternating caps formatting: 'BUt SpeNcEr WhAt if I DoN't HAve aN EdiToR??'
 
 ## [00:37:25] Upwork Homepage for Hiring Editors
 
-frame: 001_00-37-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:37:25](https://drive.google.com/file/d/1Jx7jLjPJL2UJ5-eCjsYftDreHsPU3c73/view?usp=drivesdk) · `001_00-37-25.png`
 
 *webpage*
 
@@ -1002,7 +1002,7 @@ Upwork landing page layout with 'Find talent' and 'Browse jobs' options.
 
 ## [00:39:00] Hiring a Video Editor: Strategy and Key Points
 
-frame: 001_00-39-00.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:39:00](https://drive.google.com/file/d/12N5tHi_5e3eS-vIEs2kwePQCoR8ZRUb-/view?usp=drivesdk) · `001_00-39-00.png`
 
 *slide*
 
@@ -1032,7 +1032,7 @@ Key points:
 
 ## [00:41:10] Creative Checklist: Content, Ideas, Brief, Editor
 
-frame: 001_00-41-10.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:41:10](https://drive.google.com/file/d/1I9FRQ63bq6YESiV8LJ2gnpkWg1pUB5sP/view?usp=drivesdk) · `001_00-41-10.png`
 
 *slide*
 
@@ -1045,7 +1045,7 @@ frame: 001_00-41-10.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmA
 
 ## [00:41:30] Ad Creative Rule: Concept Variations
 
-frame: 001_00-41-30.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:41:30](https://drive.google.com/file/d/1gJiSZOLH7Cn6A4yvtft3_uLWAQqL0hE-/view?usp=drivesdk) · `001_00-41-30.png`
 
 *slide*
 
@@ -1055,7 +1055,7 @@ Each concept has 3 variations
 
 ## [00:41:50] Testing Ad Creatives Review Period
 
-frame: 001_00-41-50.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:41:50](https://drive.google.com/file/d/1PIYQK8_HxNNRGc3SSP-dX-6ZwVXGKjTN/view?usp=drivesdk) · `001_00-41-50.png`
 
 *slide*
 
@@ -1065,7 +1065,7 @@ Review every single ad you make after it tests for 7-10 days
 
 ## [00:42:25] $50k/Month Creative Breakdown with Video Example
 
-frame: 001_00-42-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:42:25](https://drive.google.com/file/d/14J0x0WAo1isP9C2jqFn5sfRNvLtgz9IA/view?usp=drivesdk) · `001_00-42-25.png`
 
 *ad example*
 
@@ -1085,7 +1085,7 @@ Video player overlay text: "Must have baby item that you didn't know you needed"
 
 ## [00:42:40] $50k/Month Creative: Product Demo Use Cases
 
-frame: 001_00-42-40.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:42:40](https://drive.google.com/file/d/1uypWqWZ0zEAAED0CPUpIC3cKKLT2al1K/view?usp=drivesdk) · `001_00-42-40.png`
 
 *ad example*
 
@@ -1112,7 +1112,7 @@ Video player overlay text:
 
 ## [00:43:35] $50k/Month Creative: Highlighting Clear Avatar
 
-frame: 001_00-43-35.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:43:35](https://drive.google.com/file/d/1yO051Jj9edzWHUzLJhR8EK-W6--14uhT/view?usp=drivesdk) · `001_00-43-35.png`
 
 *ad example*
 
@@ -1134,7 +1134,7 @@ Green bounding box highlighting 'Clear Avatar'
 
 ## [00:43:45] You Need to Innovate an Avatar
 
-frame: 001_00-43-45.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:43:45](https://drive.google.com/file/d/1u6qP9xcBT6lY2ELk_py3jgQ_qQhWGTAZ/view?usp=drivesdk) · `001_00-43-45.png`
 
 *title card*
 
@@ -1144,7 +1144,7 @@ You need to innovate an avatar
 
 ## [00:45:05] Avatar Innovation Strategy and YouTube Reference
 
-frame: 001_00-45-05.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:45:05](https://drive.google.com/file/d/1tqSVdu1q3RlzOhEtpa2e3KoaCV1-xP3f/view?usp=drivesdk) · `001_00-45-05.png`
 
 *slide*
 
@@ -1166,7 +1166,7 @@ YouTube video details: 8:42 length, 3K views, 2 months ago, 1 VPH, 7.7x metric.
 
 ## [00:45:15] Meta Ads Manager Baseline Metrics (June 2024)
 
-frame: 001_00-45-15.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:45:15](https://drive.google.com/file/d/1kCmKTRPdZZxPR6btaTA2ua4JyrR7emiZ/view?usp=drivesdk) · `001_00-45-15.png`
 
 *spreadsheet*
 
@@ -1188,7 +1188,7 @@ Individual row metrics, date range Jun 1, 2024 - Jun 30, 2024, exact impressions
 
 ## [00:45:30] Meta Ads Manager Scaled Results (July 2024)
 
-frame: 001_00-45-30.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:45:30](https://drive.google.com/file/d/1FLCnxGpPegFH9lnzfhKAw3Zp4UtkGnDm/view?usp=drivesdk) · `001_00-45-30.png`
 
 *spreadsheet*
 
@@ -1209,7 +1209,7 @@ Date range Jul 1, 2024 - Jul 31, 2024; Cost per result figures ($52.99, $68.18);
 
 ## [00:46:10] Milestone: $50k/Month Unlocked
 
-frame: 001_00-46-10.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:46:10](https://drive.google.com/file/d/1UWnNb_GrQoLlqnLjb-DFB8VXKTI7QQD2/view?usp=drivesdk) · `001_00-46-10.png`
 
 *title card*
 
@@ -1219,7 +1219,7 @@ $50k/Month [padlock icon]
 
 ## [00:47:10] One Customer Journey: $50k-$100k
 
-frame: 001_00-47-10.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:47:10](https://drive.google.com/file/d/1ivzZ9dldh8-7tSd0a6aSBeD2sM2-dJr2/view?usp=drivesdk) · `001_00-47-10.png`
 
 *title card*
 
@@ -1230,7 +1230,7 @@ $50k-$100k
 
 ## [00:47:25] Meta Ads Manager Baseline (August 2024)
 
-frame: 001_00-47-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:47:25](https://drive.google.com/file/d/1I2xwGCQDRZ7eO0Xt3wtR96uFRDEwE6PH/view?usp=drivesdk) · `001_00-47-25.png`
 
 *spreadsheet*
 
@@ -1251,7 +1251,7 @@ Date range Aug 1, 2024 - Aug 31, 2024; Campaign names: EAM//Acquisition//All//US
 
 ## [00:48:00] Customer Journey Issues and Homepage Landing Page
 
-frame: 001_00-48-00.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:48:00](https://drive.google.com/file/d/1AaDuCOaVSij5z7RAeZIiYWn15VB0IPqR/view?usp=drivesdk) · `001_00-48-00.png`
 
 *slide*
 
@@ -1277,7 +1277,7 @@ Brand name: 18 CHESTNUTS; Website copy text.
 
 ## [00:48:05] We Had Found Our 1 Creative
 
-frame: 001_00-48-05.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:48:05](https://drive.google.com/file/d/1Br-shl87g6FUfTBqw9UpYE6ISCW83RSC/view?usp=drivesdk) · `001_00-48-05.png`
 
 *title card*
 
@@ -1287,7 +1287,7 @@ We had found our 1 creative
 
 ## [00:48:25] Creative Breakdown: 18 Chestnuts Ad Example
 
-frame: 001_00-48-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:48:25](https://drive.google.com/file/d/1Xk7uBpw3N0RhGHVwVsUtmTO5nqRPEv0t/view?usp=drivesdk) · `001_00-48-25.png`
 
 *ad example*
 
@@ -1311,7 +1311,7 @@ Ad post date Aug 23, 2024; URL try.18chestnuts.com; button text 'Learn more'.
 
 ## [00:48:45] One Customer Journey: The Ad in Meta Ads Manager
 
-frame: 001_00-48-45.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:48:45](https://drive.google.com/file/d/1DzP57yCoPXdRKEDqP7gk4xZNx8yTEDwa/view?usp=drivesdk) · `001_00-48-45.png`
 
 *software demo*
 
@@ -1331,7 +1331,7 @@ Metrics: 6 purchases, $57.49 cost per purchase, $638.25 purchase conversion valu
 
 ## [00:49:20] Step 1: Put Together an Offer Spreadsheet
 
-frame: 001_00-49-20.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:49:20](https://drive.google.com/file/d/1scV2xdesdzxMoR_VSeeLMVjI9Vs6uYjn/view?usp=drivesdk) · `001_00-49-20.png`
 
 *spreadsheet* | legibility: partly legible
 
@@ -1351,7 +1351,7 @@ Discount code / link listed in spreadsheet resources: 'East A Media - Profit Cal
 
 ## [00:50:10] Step 2: Market Research and Landing Page Audit
 
-frame: 001_00-50-10.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:50:10](https://drive.google.com/file/d/1tNU8TxcAtcRp4rTFDpHt7T1KAIUtayJK/view?usp=drivesdk) · `001_00-50-10.png`
 
 *slide*
 
@@ -1372,7 +1372,7 @@ Brand shown in audit preview: '18 CHESTNUTS', headline: 'Delicious Gourmet Soups
 
 ## [00:51:05] Step 3: Page Builder and Congruent Messaging
 
-frame: 001_00-51-05.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:51:05](https://drive.google.com/file/d/1pVoTzEla4E39wRK7ffWzJyo_nfPo11Ln/view?usp=drivesdk) · `001_00-51-05.png`
 
 *slide*
 
@@ -1394,7 +1394,7 @@ Discount code: '(EASYA15)'. Pagedeck landing page copy visible.
 
 ## [00:52:10] Step 4: Testing in Meta CBO
 
-frame: 001_00-52-10.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:52:10](https://drive.google.com/file/d/1aB8JjicgL19kuClSQ9pW1Z0cHlGBJcS0/view?usp=drivesdk) · `001_00-52-10.png`
 
 *slide* | legibility: partly legible
 
@@ -1415,7 +1415,7 @@ Naming convention shown in snippets: 'Page #10 - [blur] - Broad ...', and indivi
 
 ## [00:52:15] Customer Journey Solution Strategy Overview
 
-frame: 001_00-52-15.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:52:15](https://drive.google.com/file/d/1j2nOHyW6QflNQqN_ODlqoCqzNbbQjM0L/view?usp=drivesdk) · `001_00-52-15.png`
 
 *slide*
 
@@ -1440,7 +1440,7 @@ Complete bullet list of customer journey solutions without obstruction.
 
 ## [00:52:20] Customer Journey Solution: Founder Story Section
 
-frame: 001_00-52-20.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:52:20](https://drive.google.com/file/d/1TNyxCDHB3wc6FOMS5BtDeC_2_4Fpb43Q/view?usp=drivesdk) · `001_00-52-20.png`
 
 *slide*
 
@@ -1460,7 +1460,7 @@ Copy on the story landing page mentioning Cornell's Nutrition and Healthy Living
 
 ## [00:52:25] Customer Journey Solution: Product Flavors Showcase
 
-frame: 001_00-52-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:52:25](https://drive.google.com/file/d/1O-RP1YdlhqHf_H9L1aa5_zkxzubdRCu8/view?usp=drivesdk) · `001_00-52-25.png`
 
 *slide*
 
@@ -1481,7 +1481,7 @@ Flavor names shown on the landing page: Butternut Squash Pear, Roasted Cauliflow
 
 ## [00:52:30] Customer Journey Solution: Real Food Nutritional Section
 
-frame: 001_00-52-30.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:52:30](https://drive.google.com/file/d/1XhrcgltvkaSNfcrVF6v0tRmM-ep9pu8b/view?usp=drivesdk) · `001_00-52-30.png`
 
 *slide*
 
@@ -1502,7 +1502,7 @@ Exact copy of the 'Real Food' section shown on the landing page.
 
 ## [00:52:35] Customer Journey Solution: Zero Added Sugar Feature
 
-frame: 001_00-52-35.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:52:35](https://drive.google.com/file/d/1a8F-beGD8bywcuUIRbM0GdPf6BmM9w4c/view?usp=drivesdk) · `001_00-52-35.png`
 
 *slide*
 
@@ -1530,7 +1530,7 @@ Full text of 'Zero Added Sugar' landing page section mentioning '18 Chestnut Sou
 
 ## [00:52:45] Customer Journey Solution: Hand-Selected Customer Reviews
 
-frame: 001_00-52-45.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:52:45](https://drive.google.com/file/d/1mzenH4ie0XD4T0jDrT-UniJy_KNWeTYg/view?usp=drivesdk) · `001_00-52-45.png`
 
 *slide*
 
@@ -1558,7 +1558,7 @@ Full text and reviewer name 'Rachel Kessler' for the Celiac-Safe review.
 
 ## [00:52:50] Customer Journey Solution: Review Example 'Knew I Had To Try It!'
 
-frame: 001_00-52-50.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:52:50](https://drive.google.com/file/d/1boNEDcyaEqY4ZAQ9PcDRXoXtKyIkpNxG/view?usp=drivesdk) · `001_00-52-50.png`
 
 *slide*
 
@@ -1586,7 +1586,7 @@ Full text of Kevin Gallagher's review on tomato soup and grilled cheese sandwich
 
 ## [00:52:55] Customer Journey Solution: Healthy Gut Bundle Offer
 
-frame: 001_00-52-55.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:52:55](https://drive.google.com/file/d/1nqk2scw77aMwhENU9h6BgpNjSt0hh5_l/view?usp=drivesdk) · `001_00-52-55.png`
 
 *slide*
 
@@ -1614,7 +1614,7 @@ Product names in the bundle: 'Butternut Squash Pear Soup', 'Carrot Ginger Dill S
 
 ## [00:54:10] Campaign Performance Before Optimization (August 2024)
 
-frame: 001_00-54-10.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:54:10](https://drive.google.com/file/d/1FFxIaRchfAi5xvPzWQfM9BPY_zneL4Mq/view?usp=drivesdk) · `001_00-54-10.png`
 
 *slide*
 
@@ -1638,7 +1638,7 @@ Specific breakdown between CBO and ABO campaigns, impression numbers (477,688 an
 
 ## [00:54:55] Campaign Results After Landing Page Optimization (September 2024)
 
-frame: 001_00-54-55.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:54:55](https://drive.google.com/file/d/1LbHp9FWV9_w-_peCWxWHNXRAKoADswEE/view?usp=drivesdk) · `001_00-54-55.png`
 
 *slide*
 
@@ -1664,7 +1664,7 @@ Exact values for September: Spend $35,400.07, Purchases conversion value $90,746
 
 ## [00:55:30] Scaling Another Brand to $168k With Page Tests
 
-frame: 001_00-55-30.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:55:30](https://drive.google.com/file/d/183evbQNqcABorhSaKwiQ46_UOkv73ArK/view?usp=drivesdk) · `001_00-55-30.png`
 
 *slide*
 
@@ -1689,7 +1689,7 @@ Date range Apr 13, 2025 - May 12, 2025; breakdown between Page #2.a ($40k spend,
 
 ## [00:55:50] Meta Ads Manager Results from Landing Page Testing Campaign
 
-frame: 001_00-55-50.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:55:50](https://drive.google.com/file/d/1gg1LukqZpeeXJJQnRXvQNxDOWA0vFOmx/view?usp=drivesdk) · `001_00-55-50.png`
 
 *software demo*
 
@@ -1711,7 +1711,7 @@ Date range: 'Oct 1, 2024 - Oct 31, 2024', Campaign name 'EAM//Testing//LP Test//
 
 ## [00:57:00] Quote on Personal Growth and Work
 
-frame: 001_00-57-00.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:57:00](https://drive.google.com/file/d/1fnKExxZxvlaql1NQeosjJS5unO1HbH5T/view?usp=drivesdk) · `001_00-57-00.png`
 
 *slide*
 
@@ -1721,7 +1721,7 @@ frame: 001_00-57-00.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmA
 
 ## [00:59:45] Results Doing The Work
 
-frame: 001_00-59-45.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 00:59:45](https://drive.google.com/file/d/1wr0JCA8GYHkrt3JiTgVZmXUYQ8O2NjMZ/view?usp=drivesdk) · `001_00-59-45.png`
 
 *slide*
 
@@ -1737,7 +1737,7 @@ Results Doing The Work
 
 ## [01:00:15] Two Things That Separate Success and Failure
 
-frame: 001_01-00-15.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 01:00:15](https://drive.google.com/file/d/1mSiNRSBRoJC5UdYSDbCM07xal4gnhN7J/view?usp=drivesdk) · `001_01-00-15.png`
 
 *slide*
 
@@ -1748,7 +1748,7 @@ Success | Failure
 
 ## [01:05:05] Tips For Making Action Taking Easy and Book Recommendation
 
-frame: 001_01-05-05.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 01:05:05](https://drive.google.com/file/d/1g3fPGDnTLeLywxJCXKuXyxhvdKxyNgyw/view?usp=drivesdk) · `001_01-05-05.png`
 
 *slide*
 
@@ -1774,7 +1774,7 @@ Book author: Jeff Olson; Book subtitle: Turning Simple Disciplines into Massive 
 
 ## [01:06:25] Resource Links for Offer Sheet, UGC Framework, and CRO Training
 
-frame: 001_01-06-25.png (Drive: https://drive.google.com/file/d/1fwZWaihksFouLmAgf5_dryYAPsbN7VUv/view?usp=drivesdk)
+[frame 01:06:25](https://drive.google.com/file/d/1fmh7VItyzQ7h3xck3CFHjEJ7n71--7Ht/view?usp=drivesdk) · `001_01-06-25.png`
 
 *slide*
 

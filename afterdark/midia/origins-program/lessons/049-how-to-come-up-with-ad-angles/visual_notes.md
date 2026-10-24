@@ -1,14 +1,14 @@
 # 49. How to come up with ad angles - Visual notes
 
 - **Frames kept:** 20 of 146 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [049-how-to-come-up-with-ad-angles-frames.zip](https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/049-how-to-come-up-with-ad-angles](https://drive.google.com/drive/folders/1-wQGAgOv8wjGn4yKmHYQR61L79vJcBoD)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:02:10] Reddit Thread on Ad Creative Angles
 
-frame: 049_00-02-10.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:02:10](https://drive.google.com/file/d/1oiuQbKh8rjYBVurN38ZDvKYaZfXfAXbg/view?usp=drivesdk) · `049_00-02-10.png`
 
 *social post*
 
@@ -22,7 +22,7 @@ Author username: WizardOfEcommerce (Top 1% Poster, posted 1 yr ago). Sidebar inc
 
 ## [00:02:35] Framework Differentiating Ad Concepts from Angles
 
-frame: 049_00-02-35.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:02:35](https://drive.google.com/file/d/1k1JTXKXLy-IMziU6xQaEepjDV7vfbC6h/view?usp=drivesdk) · `049_00-02-35.png`
 
 *document*
 
@@ -52,7 +52,7 @@ Summary formulas at the bottom: 'Concepts = Our big idea we want to test (more f
 
 ## [00:07:55] When Concepts and Angles Overlap
 
-frame: 049_00-07-55.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:07:55](https://drive.google.com/file/d/1yTTTb_RMbAvDdh1h0kYYUhbWJaLTBhJu/view?usp=drivesdk) · `049_00-07-55.png`
 
 *document*
 
@@ -86,7 +86,7 @@ Bullet point "I want to test vets' trust us" under Concept.
 
 ## [00:10:50] Concept vs Angle Classification Rules and Examples
 
-frame: 049_00-10-50.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:10:50](https://drive.google.com/file/d/1uYYK8Sxot4oHKcNsGD77ULczr25c37nB/view?usp=drivesdk) · `049_00-10-50.png`
 
 *document*
 
@@ -116,7 +116,7 @@ Full written guidelines: "If your concept is NOT testing an Angle, you NEED to m
 
 ## [00:11:40] Angles on a Spectrum
 
-frame: 049_00-11-40.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:11:40](https://drive.google.com/file/d/1VSH1sxnzAa9myjNcy4XyWvGwzeMRUrYD/view?usp=drivesdk) · `049_00-11-40.png`
 
 *document*
 
@@ -158,7 +158,7 @@ Visible text establishing: "Desire: Wants better sleep" as example of pulling a 
 
 ## [00:13:20] Angles on a Spectrum and Sub-Avatars
 
-frame: 049_00-13-20.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:13:20](https://drive.google.com/file/d/1zw-_YmJvQHGkNubv5tsF61h_80uoGR4Y/view?usp=drivesdk) · `049_00-13-20.png`
 
 *document*
 
@@ -190,7 +190,7 @@ Example text showing Core Avatar Desire ('Wants better sleep') and broad angle e
 
 ## [00:15:30] Extracting Broad Angles from Core Avatars in Google Doc
 
-frame: 049_00-15-30.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:15:30](https://drive.google.com/file/d/1qsAAhELdD1Z-TPDx7GmG5k1gZdvxttA1/view?usp=drivesdk) · `049_00-15-30.png`
 
 *document*
 
@@ -217,7 +217,7 @@ Document title: Official - Avatar Mastery for Shopify Brands: The Meta-First Fra
 
 ## [00:16:30] Connecting Broad Angles to Headlines and Hooks
 
-frame: 049_00-16-30.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:16:30](https://drive.google.com/file/d/1eDLt-iSt2DQkFMclL7rNNUszl8rwjdZv/view?usp=drivesdk) · `049_00-16-30.png`
 
 *document*
 
@@ -243,7 +243,7 @@ Now, before getting into those examples of extracting avatars, I also want to ex
 
 ## [00:21:10] Examples of Direct Hooks and Angle Extraction Guidelines
 
-frame: 049_00-21-10.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:21:10](https://drive.google.com/file/d/1IWtm65ZLmnwpQL29vMhhVnoAfnsverM_/view?usp=drivesdk) · `049_00-21-10.png`
 
 *document*
 
@@ -294,7 +294,7 @@ As long as you're angles are ACTIONABLE, writing will become much easier. And th
 
 ## [00:21:15] Ad Example: Solution Exaggeration (Compression Socks)
 
-frame: 049_00-21-15.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:21:15](https://drive.google.com/file/d/1N_RdHzs0L1fTMAVQiXoDoCq9lsez_LM8/view?usp=drivesdk) · `049_00-21-15.png`
 
 *slide*
 
@@ -320,7 +320,7 @@ Detailed breakdown under 'WHY THIS AD WORKS' points 1-3, and full ad copy points
 
 ## [00:21:20] Ad Example: This is Not the Product (Huel)
 
-frame: 049_00-21-20.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:21:20](https://drive.google.com/file/d/1JPQosUIx82S2NaC4C-y-GcgZI_lxmuwh/view?usp=drivesdk) · `049_00-21-20.png`
 
 *slide*
 
@@ -347,7 +347,7 @@ Huel
 
 ## [00:23:00] Ad Example: Accidental Ideal Outcome
 
-frame: 049_00-23-00.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:23:00](https://drive.google.com/file/d/1lyZu9dJBulYdOnDW3m8JwdOQhPIwk55Z/view?usp=drivesdk) · `049_00-23-00.png`
 
 *slide*
 
@@ -373,7 +373,7 @@ Detailed text of 'WHY THIS AD WORKS' points 1-3, product name 'Ultimate Weight C
 
 ## [00:23:30] Ad Example: Indirect Avatar Ad (First Day)
 
-frame: 049_00-23-30.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:23:30](https://drive.google.com/file/d/1uv8ge-IRmmLrQfGK-nfc8ZaJZQ8DKv6m/view?usp=drivesdk) · `049_00-23-30.png`
 
 *slide*
 
@@ -402,7 +402,7 @@ Points 1-5 under 'WHY THIS AD WORKS', exact URL 'https://firstday.com/pages/tdk-
 
 ## [00:24:55] Mining Angles from Sub-Avatars: Step-by-Step Process
 
-frame: 049_00-24-55.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:24:55](https://drive.google.com/file/d/1BWYzAKjlLjD5JyiQebWdZjbbz-zIwi8n/view?usp=drivesdk) · `049_00-24-55.png`
 
 *document*
 
@@ -435,7 +435,7 @@ Exact document formatting, text notes on AI assistance tool for mining angles fr
 
 ## [00:27:35] Claude Prompt Instructions for Ad Angle Generation
 
-frame: 049_00-27-35.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:27:35](https://drive.google.com/file/d/16_QXccVKk52kR2X-KwjnlkcKQfhHM0ac/view?usp=drivesdk) · `049_00-27-35.png`
 
 *software demo*
 
@@ -466,7 +466,7 @@ Prompt details and requirements outlined by Claude for input and output format.
 
 ## [00:28:25] Sub-Avatar Input Pasted into Claude
 
-frame: 049_00-28-25.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:28:25](https://drive.google.com/file/d/1nsLwywwglCbyfgwU2KO_z72Cbk-7hUxv/view?usp=drivesdk) · `049_00-28-25.png`
 
 *software demo* | legibility: partly legible
 
@@ -481,7 +481,7 @@ Pasted input text box content specifically labeled 'Sub Avatar #6: No Screener'.
 
 ## [00:29:20] Claude Output: Total Blackout Blinds Angles and Hooks
 
-frame: 049_00-29-20.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:29:20](https://drive.google.com/file/d/10eDVHbukWK29DxUoCuQ60r-nhO_FuHrc/view?usp=drivesdk) · `049_00-29-20.png`
 
 *software demo*
 
@@ -508,7 +508,7 @@ Exact inspiration ad references ('14+ Hours. No Swelling', 'This is bread. This 
 
 ## [00:31:40] Claude Output: Sleep Protocol Angles and Hooks
 
-frame: 049_00-31-40.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:31:40](https://drive.google.com/file/d/1nx40w9Ghr4MJvEqtcu5gitKsOSPj_S5Y/view?usp=drivesdk) · `049_00-31-40.png`
 
 *software demo*
 
@@ -530,7 +530,7 @@ Formula tag 'Equation-style clarity' and 'Product elevation' on Hooks 2 and 3; p
 
 ## [00:32:25] Claude Output: Melatonin Protection Angle and Testing Priority
 
-frame: 049_00-32-25.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:32:25](https://drive.google.com/file/d/1iSk2UBLFtmyHBhwL9DIsZfS7bwcx3l6Y/view?usp=drivesdk) · `049_00-32-25.png`
 
 *software demo*
 
@@ -551,7 +551,7 @@ Inspired by reference ad texts and frameworks for each hook (e.g. Percentage + D
 
 ## [00:32:50] Claude Output: Angle Testing Priority Guidelines
 
-frame: 049_00-32-50.png (Drive: https://drive.google.com/file/d/1nX2yJEWqkOeQBv9s3iEp2keSi6JP5-Fn/view?usp=drivesdk)
+[frame 00:32:50](https://drive.google.com/file/d/1RMkiAmvILQ9VHdSMyrs2LESJrKiq3Lp_/view?usp=drivesdk) · `049_00-32-50.png`
 
 *software demo*
 

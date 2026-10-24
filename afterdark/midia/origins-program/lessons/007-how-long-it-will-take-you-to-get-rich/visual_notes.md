@@ -1,14 +1,14 @@
 # 7. How long it will take you to get rich - Visual notes
 
 - **Frames kept:** 1 of 31 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [007-how-long-it-will-take-you-to-get-rich-frames.zip](https://drive.google.com/file/d/1rmgiKA2b0js4JzyorWJzC7uI2qNxLfLR/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/007-how-long-it-will-take-you-to-get-rich](https://drive.google.com/drive/folders/1iB7hMgSPTXFI-tDWNgPDX5MI5W-8n33z)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:06:40] The 10,000-hour rule timeline breakdown by daily hours and schedule
 
-frame: 007_00-06-40.png (Drive: https://drive.google.com/file/d/1rmgiKA2b0js4JzyorWJzC7uI2qNxLfLR/view?usp=drivesdk)
+[frame 00:06:40](https://drive.google.com/file/d/1Pc4AM4ifPEfKBRxLNh5ngsGBtyfKTqib/view?usp=drivesdk) · `007_00-06-40.png`
 
 *document*
 

@@ -1,14 +1,14 @@
 # 15. Market Desires - Visual notes
 
 - **Frames kept:** 9 of 14 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 744x480 (native), PNG frames in Google Drive as [015-market-desires-frames.zip](https://drive.google.com/file/d/1bDm2gsfRT4NUrpP51Z4SSyyYBa6sHZMS/view?usp=drivesdk)
+- **Resolution:** 744x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/015-market-desires](https://drive.google.com/drive/folders/1zoxbzt0lLC2S6STRJ0lvQQOrpWkOkv1N)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:25] Title Card: Desire
 
-frame: 015_00-00-25.png (Drive: https://drive.google.com/file/d/1bDm2gsfRT4NUrpP51Z4SSyyYBa6sHZMS/view?usp=drivesdk)
+[frame 00:00:25](https://drive.google.com/file/d/14-uB7TlJykAruPue6DFreEBCh6appmH9/view?usp=drivesdk) · `015_00-00-25.png`
 
 *title card*
 
@@ -24,7 +24,7 @@ Desire
 
 ## [00:01:30] What Is Desire
 
-frame: 015_00-01-30.png (Drive: https://drive.google.com/file/d/1bDm2gsfRT4NUrpP51Z4SSyyYBa6sHZMS/view?usp=drivesdk)
+[frame 00:01:30](https://drive.google.com/file/d/1jE0R4GLZyF7K6rMhBsj-Flst0z01c-1f/view?usp=drivesdk) · `015_00-01-30.png`
 
 *slide*
 
@@ -47,7 +47,7 @@ you can only channel it.
 
 ## [00:03:05] Types Of Desire In The Market
 
-frame: 015_00-03-05.png (Drive: https://drive.google.com/file/d/1bDm2gsfRT4NUrpP51Z4SSyyYBa6sHZMS/view?usp=drivesdk)
+[frame 00:03:05](https://drive.google.com/file/d/1GFwGi89AigPdbd2sAEnS-ad5ORVD8qAh/view?usp=drivesdk) · `015_00-03-05.png`
 
 *slide*
 
@@ -70,7 +70,7 @@ Diagram header: THE 3 MARKETS
 
 ## [00:05:30] Desire Strength: Tailwind Concept
 
-frame: 015_00-05-30.png (Drive: https://drive.google.com/file/d/1bDm2gsfRT4NUrpP51Z4SSyyYBa6sHZMS/view?usp=drivesdk)
+[frame 00:05:30](https://drive.google.com/file/d/19et0ll4-WfWuLHOHMFGs5KJkzzc15hd2/view?usp=drivesdk) · `015_00-05-30.png`
 
 *slide*
 
@@ -91,7 +91,7 @@ Easy A Media
 
 ## [00:09:00] Desire Strength Across Four Angles
 
-frame: 015_00-09-00.png (Drive: https://drive.google.com/file/d/1bDm2gsfRT4NUrpP51Z4SSyyYBa6sHZMS/view?usp=drivesdk)
+[frame 00:09:00](https://drive.google.com/file/d/1SklHGYS4fVBMOfyNs_e1ktLEaSZNGrOo/view?usp=drivesdk) · `015_00-09-00.png`
 
 *slide*
 
@@ -115,7 +115,7 @@ Subtitle: Not all desires are built the same.
 
 ## [00:11:00] Case Study: Skate Cut-Resistant Gear Client Metrics
 
-frame: 015_00-11-00.png (Drive: https://drive.google.com/file/d/1bDm2gsfRT4NUrpP51Z4SSyyYBa6sHZMS/view?usp=drivesdk)
+[frame 00:11:00](https://drive.google.com/file/d/1_FvDYYbFihoFZIFfVg4p6FzjUMlS9UUE/view?usp=drivesdk) · `015_00-11-00.png`
 
 *slide*
 
@@ -151,7 +151,7 @@ Warroad branding. Exact metrics: October 28th (Orders: 76, ROAS: 7.38, CPA: $32.
 
 ## [00:14:20] Types Of Desire On Your Product
 
-frame: 015_00-14-20.png (Drive: https://drive.google.com/file/d/1bDm2gsfRT4NUrpP51Z4SSyyYBa6sHZMS/view?usp=drivesdk)
+[frame 00:14:20](https://drive.google.com/file/d/1NV0FDwXRw9Fi5n1QAtX8M2BEc9_fxsgK/view?usp=drivesdk) · `015_00-14-20.png`
 
 *slide*
 
@@ -177,7 +177,7 @@ Physical image breakdown: tactile button switch, carbon fiber weave texture, mot
 
 ## [00:14:55] How To Find Mass Desire And Ad Angle Examples
 
-frame: 015_00-14-55.png (Drive: https://drive.google.com/file/d/1bDm2gsfRT4NUrpP51Z4SSyyYBa6sHZMS/view?usp=drivesdk)
+[frame 00:14:55](https://drive.google.com/file/d/1pZlu0kmbcaeUlnqJiU7Zl6854quzm_6N/view?usp=drivesdk) · `015_00-14-55.png`
 
 *slide*
 
@@ -203,7 +203,7 @@ Ad text copy on second ad: "Look like a million bucks. Spend WAY less than that.
 
 ## [00:17:25] Learn More About Desire: Breakthrough Advertising Book Recommendation
 
-frame: 015_00-17-25.png (Drive: https://drive.google.com/file/d/1bDm2gsfRT4NUrpP51Z4SSyyYBa6sHZMS/view?usp=drivesdk)
+[frame 00:17:25](https://drive.google.com/file/d/1TOWy7iAZu-NuepKPNzDDv_MMkAjZCUxd/view?usp=drivesdk) · `015_00-17-25.png`
 
 *slide*
 

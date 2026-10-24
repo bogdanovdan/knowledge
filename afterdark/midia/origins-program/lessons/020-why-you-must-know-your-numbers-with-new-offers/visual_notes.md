@@ -1,14 +1,14 @@
 # 20. Why you MUST know your numbers with new offers - Visual notes
 
 - **Frames kept:** 13 of 21 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [020-why-you-must-know-your-numbers-with-new-offers-frames.zip](https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/020-why-you-must-know-your-numbers-with-new-offers](https://drive.google.com/drive/folders/1Ir4tBxyVcOTO8kHqnsRP6d1ptbEM-AdG)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:15] Origins - Offer Mastery Title Slide
 
-frame: 020_00-00-15.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:00:15](https://drive.google.com/file/d/1uGDZA6Q02nrhUMypjwh7YxQ21aZzR-5D/view?usp=drivesdk) · `020_00-00-15.png`
 
 *slide*
 
@@ -24,7 +24,7 @@ Offer Mastery
 
 ## [00:01:55] Important Note #1: Offers Can Be Addicting
 
-frame: 020_00-01-55.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:01:55](https://drive.google.com/file/d/1IqxFBh8Hm0b4k0jLE8CAZ_cPj_-s7ebF/view?usp=drivesdk) · `020_00-01-55.png`
 
 *slide*
 
@@ -41,7 +41,7 @@ Conversion rate pump specifically noted as 'from a 1.5% to 2.5%'. Brand screensh
 
 ## [00:02:10] Carepod Homepage Example
 
-frame: 020_00-02-10.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:02:10](https://drive.google.com/file/d/188M3JJwx_8_JoemDyiPBQh-DnzbRedJk/view?usp=drivesdk) · `020_00-02-10.png`
 
 *product page*
 
@@ -60,7 +60,7 @@ Shop One Plus
 
 ## [00:02:20] Carepod One Plus Product Bundle Offer Pricing
 
-frame: 020_00-02-20.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:02:20](https://drive.google.com/file/d/1ZCWBrnffGEW4En_AMqSJsdC3lj0ztLlh/view?usp=drivesdk) · `020_00-02-20.png`
 
 *product page*
 
@@ -78,7 +78,7 @@ Specific pricing and tier details: 1 unit $325 (Save $25), 2 units $630 (Save $7
 
 ## [00:03:40] Important Note #2: Knowing Margins with New Offers
 
-frame: 020_00-03-40.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:03:40](https://drive.google.com/file/d/1cbguzTh8U0WaZAuRStW5L6stW6M8vxxc/view?usp=drivesdk) · `020_00-03-40.png`
 
 *slide*
 
@@ -102,7 +102,7 @@ Formulas and exact numbers: Evergreen math ($200k rev * 0.7 gp = $140k gp - $100
 
 ## [00:05:00] E-Commerce Results Calculator Initial State
 
-frame: 020_00-05-00.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:05:00](https://drive.google.com/file/d/1hawa1urBkuFmuy1f_OIuLTkMpsmvF-wS/view?usp=drivesdk) · `020_00-05-00.png`
 
 *software demo*
 
@@ -134,7 +134,7 @@ Calculated output line items: Breakeven ROAS value 1.25, Revenue From Ad Spend $
 
 ## [00:06:10] Profit Margin Calculator Section
 
-frame: 020_00-06-10.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:06:10](https://drive.google.com/file/d/1wQfAj_zm8ShefUwCd19-MDy6IldoVyLz/view?usp=drivesdk) · `020_00-06-10.png`
 
 *software demo*
 
@@ -151,7 +151,7 @@ Typo in header 'Calulator'; field names: 'Price Of Product + Shipping', 'Cost Of
 
 ## [00:06:35] E-Commerce Results Calculator Updated with 0.73 Margin
 
-frame: 020_00-06-35.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:06:35](https://drive.google.com/file/d/19yfWNdeoPDEB-ePLJJWdN8kASJTWsss4/view?usp=drivesdk) · `020_00-06-35.png`
 
 *software demo*
 
@@ -177,7 +177,7 @@ Profit After Margin ($36,500 per month) and Profit After All Spend ($26,500 per 
 
 ## [00:10:10] Profit Margin Calculator with Discounted Product Price
 
-frame: 020_00-10-10.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:10:10](https://drive.google.com/file/d/1sXqDXENvsfqRl2OTe9iao7zFAsuoqEQv/view?usp=drivesdk) · `020_00-10-10.png`
 
 *software demo*
 
@@ -191,7 +191,7 @@ ROI: Infinity%
 
 ## [00:10:20] Important Note #2: Offer Margin Comparison and Net Gross Profit
 
-frame: 020_00-10-20.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:10:20](https://drive.google.com/file/d/1tbDTJ2D4ucjtEI4vpMgms5y2BKrMh9kn/view?usp=drivesdk) · `020_00-10-20.png`
 
 *slide*
 
@@ -216,7 +216,7 @@ Formula details: ($200k rev *0.7 gp = $140k gp - $100k spend); URL: https://www.
 
 ## [00:12:10] E-Commerce Results Calculator with Higher ROAS at Lower Margin
 
-frame: 020_00-12-10.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:12:10](https://drive.google.com/file/d/136A5UTTLDe8Lg0CHUcNkJ_gfle9eEzmU/view?usp=drivesdk) · `020_00-12-10.png`
 
 *software demo*
 
@@ -243,7 +243,7 @@ Revenue From Ad Spend (ROAS): $30,000 per month; Profit After Margin: $16,500 pe
 
 ## [00:13:30] Skool Course Portal - Origins Classroom Module List
 
-frame: 020_00-13-30.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:13:30](https://drive.google.com/file/d/1ung9l_U4CR8gSNE9XYpGZWe7ZBj0VnfQ/view?usp=drivesdk) · `020_00-13-30.png`
 
 *webpage*
 
@@ -276,7 +276,7 @@ Google sheet URL: https://docs.google.com/spreadsheets/d/16QG7kl0vYGvJm7W90-0d04
 
 ## [00:16:05] E-Commerce Results Calculator with Scaled Ad Spend and Target ROAS
 
-frame: 020_00-16-05.png (Drive: https://drive.google.com/file/d/1V84kkCpmkM5kgWi0oI9VcYHQkQOdQQw5/view?usp=drivesdk)
+[frame 00:16:05](https://drive.google.com/file/d/1pyHd389wu93LOlFB-ZtsAAzIDT7i6Ot2/view?usp=drivesdk) · `020_00-16-05.png`
 
 *software demo* | legibility: partly legible
 

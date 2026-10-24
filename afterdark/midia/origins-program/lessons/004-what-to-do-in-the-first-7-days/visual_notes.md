@@ -1,14 +1,14 @@
 # 4. What to do in the first 7 days - Visual notes
 
 - **Frames kept:** 3 of 6 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [004-what-to-do-in-the-first-7-days-frames.zip](https://drive.google.com/file/d/1PVw7gmdWTgoy_THf2_U-0sevUNEao_n8/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/004-what-to-do-in-the-first-7-days](https://drive.google.com/drive/folders/1e0bksSeXdGDLYdfsGO4_xIve48X5p21p)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:25] Origins Program outline and first 7 days checklist editor
 
-frame: 004_00-00-25.png (Drive: https://drive.google.com/file/d/1PVw7gmdWTgoy_THf2_U-0sevUNEao_n8/view?usp=drivesdk)
+[frame 00:00:25](https://drive.google.com/file/d/1z5vAvkzwarwH1DfSBk0Ku3ohZwbmam-E/view?usp=drivesdk) · `004_00-00-25.png`
 
 *software demo*
 
@@ -35,7 +35,7 @@ Second bullet point: 'Do your research/build your avatars'; full list of left si
 
 ## [00:00:30] Origins classroom course library overview
 
-frame: 004_00-00-30.png (Drive: https://drive.google.com/file/d/1PVw7gmdWTgoy_THf2_U-0sevUNEao_n8/view?usp=drivesdk)
+[frame 00:00:30](https://drive.google.com/file/d/1_oLCvreczJWlRWrkplmpbJQnzEcL772t/view?usp=drivesdk) · `004_00-00-30.png`
 
 *webpage*
 
@@ -58,7 +58,7 @@ Descriptions and card titles for 'Origins Program', 'Call Recordings', 'Case Stu
 
 ## [00:01:00] Full Live Webinar Of $0-$100k/Month resource links
 
-frame: 004_00-01-00.png (Drive: https://drive.google.com/file/d/1PVw7gmdWTgoy_THf2_U-0sevUNEao_n8/view?usp=drivesdk)
+[frame 00:01:00](https://drive.google.com/file/d/1lAjegFO6Q0jwFuQw3TQOkuR3sEFQok2l/view?usp=drivesdk) · `004_00-01-00.png`
 
 *webpage* | legibility: partly legible
 

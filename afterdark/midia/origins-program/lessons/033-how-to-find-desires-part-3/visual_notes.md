@@ -1,14 +1,14 @@
 # 33. How To Find Desires - Part 3 - Visual notes
 
 - **Frames kept:** 57 of 119 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [033-how-to-find-desires-part-3-frames.zip](https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/033-how-to-find-desires-part-3](https://drive.google.com/drive/folders/11XYfOLtmEFZL-wJ_2q1NlqTo3hmgPEI0)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:02:45] Google Docs framework tabs overview
 
-frame: 033_00-02-45.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:02:45](https://drive.google.com/file/d/1g8nyJzYBbhEWpglDstzduaSITeIjfaIF/view?usp=drivesdk) · `033_00-02-45.png`
 
 *document*
 
@@ -50,7 +50,7 @@ Detailed document tab structure and list of sub-tabs visible in the sidebar.
 
 ## [00:03:05] Google search results for collagen on Reddit
 
-frame: 033_00-03-05.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:03:05](https://drive.google.com/file/d/1uilzxaGEIHlcEtsoTOWDbZbDi20jlFr4/view?usp=drivesdk) · `033_00-03-05.png`
 
 *webpage*
 
@@ -69,7 +69,7 @@ Exact subreddit names and thread titles for r/SkincareAddiction and r/30PlusSkin
 
 ## [00:03:50] Reddit thread discussion on collagen effectiveness
 
-frame: 033_00-03-50.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:03:50](https://drive.google.com/file/d/1RbMHH54XqAbwVAogA1eTRSP1mpKf6pul/view?usp=drivesdk) · `033_00-03-50.png`
 
 *social post*
 
@@ -89,7 +89,7 @@ Sparkshadows' comment about joint and knee pain and recommended ingredients (MSM
 
 ## [00:03:55] Reddit thread comments on collagen mechanisms
 
-frame: 033_00-03-55.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:03:55](https://drive.google.com/file/d/1iJwEqL60fBh6pGYq2fechp1RGXXbPkNP/view?usp=drivesdk) · `033_00-03-55.png`
 
 *social post*
 
@@ -108,7 +108,7 @@ NCBI study URL (PMC8620403), mention of '500 Dalton Rule', and squash player com
 
 ## [00:04:35] Desire Hunting notes for collagen brand
 
-frame: 033_00-04-35.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:04:35](https://drive.google.com/file/d/17skhqp4PHfsNo-o0FNnftarw1sAgSOpe/view?usp=drivesdk) · `033_00-04-35.png`
 
 *document*
 
@@ -133,7 +133,7 @@ Template layout and prompt sentence under Ad Ideas: 'Describe/list any ideas you
 
 ## [00:05:00] Reddit thread search for hydrated keyword
 
-frame: 033_00-05-00.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:05:00](https://drive.google.com/file/d/1uOKn6ztgcUXBBlmwIhpKO49bof-nXOdK/view?usp=drivesdk) · `033_00-05-00.png`
 
 *social post*
 
@@ -148,7 +148,7 @@ Find bar confirming 'hydrated' appears 0/0 times; additional comments by letstal
 
 ## [00:07:20] Customer research and ad ideas for collagen brand
 
-frame: 033_00-07-20.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:07:20](https://drive.google.com/file/d/1QfzbWGseIKhNponx8BS4zmHKTN8x13fA/view?usp=drivesdk) · `033_00-07-20.png`
 
 *document*
 
@@ -168,7 +168,7 @@ Ad Ideas
 
 ## [00:07:25] Reddit thread on collagen effectiveness and user experiences
 
-frame: 033_00-07-25.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:07:25](https://drive.google.com/file/d/1xYMCyWb_WDULDBWIKNeZgTFaG68COuA0/view?usp=drivesdk) · `033_00-07-25.png`
 
 *social post*
 
@@ -182,7 +182,7 @@ Usernames: CCrabtree, sunshining291, casualcorey, Prestigious-Many4060, Sparksha
 
 ## [00:12:45] Reddit comment detailing ingredients and clinical studies on collagen
 
-frame: 033_00-12-45.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:12:45](https://drive.google.com/file/d/10v79syWhrA3aTjNLaeCY71niOBPPVlUn/view?usp=drivesdk) · `033_00-12-45.png`
 
 *social post*
 
@@ -196,7 +196,7 @@ Includes NIH study link (PMC8620403) and 500 Dalton Rule mention regarding topic
 
 ## [00:14:10] Updated collagen brand desires and customer snippets
 
-frame: 033_00-14-10.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:14:10](https://drive.google.com/file/d/1qqUujSWnT1OwSzGmmwWm6EoOf-PPIzOV/view?usp=drivesdk) · `033_00-14-10.png`
 
 *document*
 
@@ -219,7 +219,7 @@ Ad Ideas
 
 ## [00:15:30] Google Shopping results for NOW collagen products
 
-frame: 033_00-15-30.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:15:30](https://drive.google.com/file/d/1SYqdNzfEdIbUbGsVUeKFr-CCh4Ys9f0L/view?usp=drivesdk) · `033_00-15-30.png`
 
 *product page*
 
@@ -235,7 +235,7 @@ Prices: $13.46, $34.00, $39.00, $54.95, $27.09, $29.39. Rating scores and retail
 
 ## [00:16:05] Brand landing page customer review: results under 1 week
 
-frame: 033_00-16-05.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:16:05](https://drive.google.com/file/d/1daVH3IQXlqyd79vwfQ2J5sUp5IZxqKnS/view?usp=drivesdk) · `033_00-16-05.png`
 
 *webpage*
 
@@ -252,7 +252,7 @@ Reviewer name: Dana Gronberg; Photo dates: 4/20/24, 5-2-24.
 
 ## [00:16:10] Landing page review: Results in 2 weeks
 
-frame: 033_00-16-10.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:16:10](https://drive.google.com/file/d/1Ux5R_Ulxjk1zqxc9DkWZW2FSeuWc-Vek/view?usp=drivesdk) · `033_00-16-10.png`
 
 *webpage*
 
@@ -269,7 +269,7 @@ Offer banner: "STOP ACNE NOW - SAVE 45% | Acne-free in 60 days or money back". R
 
 ## [00:16:15] Landing page customer testimonial on acne clearing speed
 
-frame: 033_00-16-15.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:16:15](https://drive.google.com/file/d/11jzJ1c4NFRDmDgSyCCL1LMHxLCSK-lux/view?usp=drivesdk) · `033_00-16-15.png`
 
 *webpage*
 
@@ -286,7 +286,7 @@ Reviewer: shane._.nelsen; 5-star rating displayed.
 
 ## [00:16:20] Norse Organics customer review testimonials on speed of results
 
-frame: 033_00-16-20.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:16:20](https://drive.google.com/file/d/1oFBfa8aaRRiamIKXxD_LAsUHhx3gytDA/view?usp=drivesdk) · `033_00-16-20.png`
 
 *webpage*
 
@@ -305,7 +305,7 @@ Customer names Jennifer Chism, Lauren Bourgeois Bosse, Jessica Prukner; CTA butt
 
 ## [00:17:10] Reddit r/Supplements thread on collagen effectiveness and mechanisms
 
-frame: 033_00-17-10.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:17:10](https://drive.google.com/file/d/1L2Rvo5aneF24uF3XHrk7zb0YPzE22JUt/view?usp=drivesdk) · `033_00-17-10.png`
 
 *social post*
 
@@ -319,7 +319,7 @@ Username isitasandwhich, link to ncbi.nlm.nih.gov/pmc/articles/PMC8620403/, refe
 
 ## [00:17:15] Reddit comments on collagen benefits for Achilles tendon pain
 
-frame: 033_00-17-15.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:17:15](https://drive.google.com/file/d/1yfcAWa0k2YPXjCQuw5sMdyS16g0FKz0h/view?usp=drivesdk) · `033_00-17-15.png`
 
 *social post*
 
@@ -333,7 +333,7 @@ Username floatarounds, usernames TrineI81 and FiatMihi asking follow-up question
 
 ## [00:18:30] YouTube search results for menopause
 
-frame: 033_00-18-30.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:18:30](https://drive.google.com/file/d/1dnvVA69HY9CDbQMFlL5L07BMhrZBn9Cv/view?usp=drivesdk) · `033_00-18-30.png`
 
 *webpage*
 
@@ -347,7 +347,7 @@ vidIQ panel stats (Overall score 58, Volume 73, Competition High), exact video t
 
 ## [00:19:00] YouTube Shorts grid for menopause search
 
-frame: 033_00-19-00.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:19:00](https://drive.google.com/file/d/1Z4Vapq7QPTN9EJB8i2f1-SZAnJBxv6Uy/view?usp=drivesdk) · `033_00-19-00.png`
 
 *webpage*
 
@@ -373,7 +373,7 @@ Video titles and exact view counts across the 10 YouTube Shorts thumbnails.
 
 ## [00:19:15] YouTube search results for menopause health videos
 
-frame: 033_00-19-15.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:19:15](https://drive.google.com/file/d/1dzUv1Sww7h4ndmoqeHN-Unga1qXKef0w/view?usp=drivesdk) · `033_00-19-15.png`
 
 *webpage*
 
@@ -390,7 +390,7 @@ vidIQ stats: Overall score 58 (Medium), Volume 73, Competition High, Highest Vie
 
 ## [00:19:50] YouTube comments on menopause fatigue and symptoms
 
-frame: 033_00-19-50.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:19:50](https://drive.google.com/file/d/1nC6PCZ20JoaQcMADUhVSZkDzHiw801r_/view?usp=drivesdk) · `033_00-19-50.png`
 
 *social post*
 
@@ -408,7 +408,7 @@ Usernames @nichmon3221, @kimberlymisfit3544, @TheHolyAvatior, @zaidaminjares8057
 
 ## [00:20:10] YouTube comment replies discussing bioidentical hormones and sleep
 
-frame: 033_00-20-10.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:20:10](https://drive.google.com/file/d/1iX43MDugDCM9QxAzDKeZGL20i7zLMIho/view?usp=drivesdk) · `033_00-20-10.png`
 
 *social post*
 
@@ -426,7 +426,7 @@ User handles and exact text of replies from @chiaralistica, @TonyaA7, @solace102
 
 ## [00:20:50] Desire Hunting document with added customer language snippets
 
-frame: 033_00-20-50.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:20:50](https://drive.google.com/file/d/1MhGD3CufVpsLCTLx0pUmAW-IN6-Kk2xQ/view?usp=drivesdk) · `033_00-20-50.png`
 
 *document*
 
@@ -453,7 +453,7 @@ Customer Language Snippet added: 'I used to say when i was younger i can't wait 
 
 ## [00:21:30] ChatGPT prompt for extracting customer desires from comments
 
-frame: 033_00-21-30.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:21:30](https://drive.google.com/file/d/1UQl3jO-RVVqKJMl4TG4QVZq8CDWM3YvO/view?usp=drivesdk) · `033_00-21-30.png`
 
 *software demo*
 
@@ -470,7 +470,7 @@ Typing errors visible on screen: 'Hey caht', 'defition of de'.
 
 ## [00:21:35] Desire Hunting document with updated customer language snippet
 
-frame: 033_00-21-35.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:21:35](https://drive.google.com/file/d/1MpbIRf9p6gcFzzUxuyz2GCRlFy1asko2/view?usp=drivesdk) · `033_00-21-35.png`
 
 *document*
 
@@ -492,7 +492,7 @@ Added snippet: '- My hair is thinning, I'm moody, emotionally drained and someti
 
 ## [00:21:40] Desire examples for blackout blinds product in Google Docs
 
-frame: 033_00-21-40.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:21:40](https://drive.google.com/file/d/1iExNxvx5ZTzXQS-Exrg0DWgMnj9pSWrs/view?usp=drivesdk) · `033_00-21-40.png`
 
 *document*
 
@@ -521,7 +521,7 @@ Detailed text of Examples 2, 3, and 4 (Mass Tech Problem, Mass Education, Channe
 
 ## [00:21:50] ChatGPT prompt setup with comment and desire definition context
 
-frame: 033_00-21-50.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:21:50](https://drive.google.com/file/d/1C__WbvbamzE2duW0UuZz-NeiOMbmERVW/view?usp=drivesdk) · `033_00-21-50.png`
 
 *software demo*
 
@@ -546,7 +546,7 @@ Exact wording of the definition of desire pasted into ChatGPT context from docum
 
 ## [00:22:20] YouTube comments detailing menopause and HRT experiences
 
-frame: 033_00-22-20.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:22:20](https://drive.google.com/file/d/1IwxPDG7VuEn37ypDU7gvONKS80Ns9yLe/view?usp=drivesdk) · `033_00-22-20.png`
 
 *social post*
 
@@ -564,7 +564,7 @@ Comment text from @alexholland1318 and @brooke0130 not spoken.
 
 ## [00:22:35] Additional YouTube comments on severe menopause symptoms
 
-frame: 033_00-22-35.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:22:35](https://drive.google.com/file/d/1b7tsQM_uGtj2R7GtR9P4Nl0zZlpt_wWz/view?usp=drivesdk) · `033_00-22-35.png`
 
 *social post*
 
@@ -582,7 +582,7 @@ Comments from @jenniferartin and @dawnleedenberg8681.
 
 ## [00:23:30] ChatGPT analysis of customer desires and permanent forces lens
 
-frame: 033_00-23-30.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:23:30](https://drive.google.com/file/d/1_3IMfD3agnp9gUiNzD3ElGd9xRCWLpxs/view?usp=drivesdk) · `033_00-23-30.png`
 
 *software demo*
 
@@ -613,7 +613,7 @@ Full text of Permanent Forces lens analysis (Comfort, Belonging) and offer posit
 
 ## [00:23:35] ChatGPT output analyzing desire strength and motivations for collagen
 
-frame: 033_00-23-35.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:23:35](https://drive.google.com/file/d/1-9YJH44FlqM41Q2jF-4bIlij12ci6MmS/view?usp=drivesdk) · `033_00-23-35.png`
 
 *software demo*
 
@@ -632,7 +632,7 @@ Entire on-screen text detailing Motivations, Scope, Urgency, and Staying Power m
 
 ## [00:23:55] Updated Collagen Brand desires and language snippets in Google Docs
 
-frame: 033_00-23-55.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:23:55](https://drive.google.com/file/d/1mbrxunN2p_-SDWjZfHr8Ij7oaQio49DY/view?usp=drivesdk) · `033_00-23-55.png`
 
 *document*
 
@@ -664,7 +664,7 @@ Ad Ideas copy paragraph at the bottom.
 
 ## [00:24:50] YouTube educational video on Menopause Explained Clearly
 
-frame: 033_00-24-50.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:24:50](https://drive.google.com/file/d/1jQM6MdS3qpSriRz4QweAIt5erzoHeT1s/view?usp=drivesdk) · `033_00-24-50.png`
 
 *webpage*
 
@@ -681,7 +681,7 @@ Video title 'Menopause Explained Clearly (Includes HRT & Perimenopause)', channe
 
 ## [00:25:35] YouTube search results for menopause topic research
 
-frame: 033_00-25-35.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:25:35](https://drive.google.com/file/d/1KhUQ-fBZbB_kUtKtghbjUuXj6RUO-mYc/view?usp=drivesdk) · `033_00-25-35.png`
 
 *webpage*
 
@@ -703,7 +703,7 @@ vidIQ stats (Volume 73, Competition High, Overall 58); search terms and thumbnai
 
 ## [00:25:40] YouTube Shorts results for menopause search
 
-frame: 033_00-25-40.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:25:40](https://drive.google.com/file/d/1Uk5H3dVT3xh_QHX9YYpuT3NlItDCJ5m8/view?usp=drivesdk) · `033_00-25-40.png`
 
 *webpage*
 
@@ -722,7 +722,7 @@ View counts and titles of competing shorts on menopause.
 
 ## [00:26:50] YouTube Shorts comments showing user complaints on insurance coverage
 
-frame: 033_00-26-50.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:26:50](https://drive.google.com/file/d/12xvfHTMKtAczQ7_WyIwVlNtWyZR3rRMN/view?usp=drivesdk) · `033_00-26-50.png`
 
 *social post*
 
@@ -738,7 +738,7 @@ rivergreen37 comment about low progesterone and high cortisol explaining mood sw
 
 ## [00:27:10] Google Doc with newly added customer snippets and ad idea
 
-frame: 033_00-27-10.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:27:10](https://drive.google.com/file/d/1yA-DgIvqIf7b4Phx4cEEeq-uHe3C0hYc/view?usp=drivesdk) · `033_00-27-10.png`
 
 *document*
 
@@ -761,7 +761,7 @@ Exact bullet point text for 'New Information' section.
 
 ## [00:28:20] Desire Prompts overview tab in Google Docs
 
-frame: 033_00-28-20.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:28:20](https://drive.google.com/file/d/1j4C0KEAHMeKi1tp7aE8JO5zrPJwjS5jk/view?usp=drivesdk) · `033_00-28-20.png`
 
 *document*
 
@@ -783,7 +783,7 @@ Structure of the Desire Prompts tab showing the three sub-tab references.
 
 ## [00:28:25] Market research prompt template for desire extraction
 
-frame: 033_00-28-25.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:28:25](https://drive.google.com/file/d/1Ffd4DXVz1l8Uq9pFm45EUaHN7XRLdysr/view?usp=drivesdk) · `033_00-28-25.png`
 
 *document*
 
@@ -824,7 +824,7 @@ Full research instructions covering Reddit, Amazon, forums, social media, YouTub
 
 ## [00:28:35] Pasting market research prompt into ChatGPT
 
-frame: 033_00-28-35.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:28:35](https://drive.google.com/file/d/1BRwOpk8TG2NENqX2V6G50VvGYrtxI1E7/view?usp=drivesdk) · `033_00-28-35.png`
 
 *software demo*
 
@@ -850,7 +850,7 @@ Visual view of ChatGPT input window receiving the copied prompt.
 
 ## [00:29:15] How To Find Desires Guide context document
 
-frame: 033_00-29-15.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:29:15](https://drive.google.com/file/d/1C9TrolYj4prtS5Y_iBOWoe1PkRvl1AQk/view?usp=drivesdk) · `033_00-29-15.png`
 
 *document*
 
@@ -888,7 +888,7 @@ Reddit Protocol search terms ('sucks', 'solution', 100+ comments); Review Sectio
 
 ## [00:30:00] Product Overview Document for Collagen
 
-frame: 033_00-30-00.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:30:00](https://drive.google.com/file/d/1nsEVyhrYjPm-CbFE3AbtfCunQyvGCuuX/view?usp=drivesdk) · `033_00-30-00.png`
 
 *document*
 
@@ -915,7 +915,7 @@ Price Point: $59 (one-time) / $47.20 (subscription) / $39 (3-month bundle); spec
 
 ## [00:30:15] ChatGPT input prompt with attached reference documents
 
-frame: 033_00-30-15.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:30:15](https://drive.google.com/file/d/1FJQbXe2wJLerTEpzB3kgtmG8nOz5IFpo/view?usp=drivesdk) · `033_00-30-15.png`
 
 *software demo*
 
@@ -943,7 +943,7 @@ Exact document attachments uploaded: 'How To Find Desires Guide_.docx' and 'Prod
 
 ## [00:31:00] ChatGPT Deep Research output on consumer desires for collagen
 
-frame: 033_00-31-00.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:31:00](https://drive.google.com/file/d/1OhQLQhy5Lhz6iPMYVuY9NrRu0qAv0ond/view?usp=drivesdk) · `033_00-31-00.png`
 
 *software demo*
 
@@ -967,7 +967,7 @@ Direct consumer quotes cited from Reddit and web sources regarding postpartum we
 
 ## [00:32:05] ChatGPT analysis of desire 1: Regaining Healthy Body Weight and Shape
 
-frame: 033_00-32-05.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:32:05](https://drive.google.com/file/d/1bJCqHlO8ZaL6cB7iZM4PJcS93XSkikvI/view?usp=drivesdk) · `033_00-32-05.png`
 
 *software demo*
 
@@ -985,7 +985,7 @@ Citation links to reddit.com and ancientandbrave.earth embedded in the text. Ful
 
 ## [00:34:25] ChatGPT analysis of Common Complaints, Concerns & Preferences
 
-frame: 033_00-34-25.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:34:25](https://drive.google.com/file/d/1vtGkY-gWw8NLKwNP9qPunBEIgmp1JgfU/view?usp=drivesdk) · `033_00-34-25.png`
 
 *software demo*
 
@@ -1002,7 +1002,7 @@ Specific details on competitor Vital Proteins collagen, 6 tablet daily requireme
 
 ## [00:35:50] ChatGPT analysis of Digestive Issues and Ingredient Source & Safety
 
-frame: 033_00-35-50.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:35:50](https://drive.google.com/file/d/1BSFcf0n2O-K_iYKFXNCfdT9syIkcd6ZB/view?usp=drivesdk) · `033_00-35-50.png`
 
 *software demo*
 
@@ -1019,7 +1019,7 @@ Exact notes on OB/GYN approved postpartum use, Daglomera, L-theanine, unregulate
 
 ## [00:36:00] Google Doc with newly added customer quote on farting side effect
 
-frame: 033_00-36-00.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:36:00](https://drive.google.com/file/d/1DJpnkJMaimtpYFeCLelHPUkMYpeiJaxD/view?usp=drivesdk) · `033_00-36-00.png`
 
 *software demo*
 
@@ -1040,7 +1040,7 @@ Newly typed line under Customer Language Snippets: 'It makes me fart so badly I 
 
 ## [00:36:45] ChatGPT analysis of Results and Evidence & Strategic Recommendations
 
-frame: 033_00-36-45.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:36:45](https://drive.google.com/file/d/1f9BV5uXN28kk-x_vW0mdmRoIna3Q4tip/view?usp=drivesdk) · `033_00-36-45.png`
 
 *software demo*
 
@@ -1057,7 +1057,7 @@ Detailed bullet text and phrasing recommendations ('Fit into your favorite jeans
 
 ## [00:37:00] ChatGPT recommendations on Addressing Complaints, Proof, and Positioning
 
-frame: 033_00-37-00.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:37:00](https://drive.google.com/file/d/184UrSKs35qVJcFrSvvCnvZtQ5zM6hhKH/view?usp=drivesdk) · `033_00-37-00.png`
 
 *software demo*
 
@@ -1074,7 +1074,7 @@ Exact recommendations on marketing 'no clumping, no weird taste', providing educ
 
 ## [00:37:30] ChatGPT analysis of Youthful Skin, Moisture and Appearance desire
 
-frame: 033_00-37-30.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:37:30](https://drive.google.com/file/d/1-r_CFh-MDkX7OCJYoL0XsUBFnTnHNDvr/view?usp=drivesdk) · `033_00-37-30.png`
 
 *software demo*
 
@@ -1092,7 +1092,7 @@ Detailed bullet points for Consumer Sentiments and Motivations regarding skin dr
 
 ## [00:38:55] Claude Sonnet analysis of MetaGlow Collagen Consumer Desires
 
-frame: 033_00-38-55.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:38:55](https://drive.google.com/file/d/1NPZiG1MHX-maLYtNWnwYffrGlU5VT9P0/view?usp=drivesdk) · `033_00-38-55.png`
 
 *software demo*
 
@@ -1117,7 +1117,7 @@ Citation quotes on collagen loss statistics (1/3 in first 5 years), postpartum h
 
 ## [00:39:50] Desire hunting and customer language snippets in Google Doc
 
-frame: 033_00-39-50.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:39:50](https://drive.google.com/file/d/1QsIOv3p230gjz1TBMxEHIgppWavi5WvO/view?usp=drivesdk) · `033_00-39-50.png`
 
 *document*
 
@@ -1152,7 +1152,7 @@ Lists of Desires, Customer Language Snippets, and Ad Ideas shown compiled togeth
 
 ## [00:39:55] Claude Sonnet ranked desires for MetaGlow Collagen
 
-frame: 033_00-39-55.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:39:55](https://drive.google.com/file/d/1Tq647wfaqB-3rCEjJ7gkWYCQ0Caoyq0R/view?usp=drivesdk) · `033_00-39-55.png`
 
 *software demo*
 
@@ -1174,7 +1174,7 @@ Ranking header, Scope/Urgency/Staying Power breakdown for Desire 1, cortisol and
 
 ## [00:40:10] Google Doc with newly added desire on appetite and cravings
 
-frame: 033_00-40-10.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:40:10](https://drive.google.com/file/d/1qyTm4wXAp8jyqtLyB44ZVI6q6nRkXjAM/view?usp=drivesdk) · `033_00-40-10.png`
 
 *document*
 
@@ -1196,7 +1196,7 @@ Highlighted new bullet insertion: 'I want to be control of my body (REGAINING CO
 
 ## [00:40:15] Framework section on Desire Hierarchy and Elevation Strategy
 
-frame: 033_00-40-15.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:40:15](https://drive.google.com/file/d/1lVfj9cLtEAiMi9Ks6Ba06G4MVRtm4Pyz/view?usp=drivesdk) · `033_00-40-15.png`
 
 *document*
 
@@ -1227,7 +1227,7 @@ Full explanation of 'The Elevation Strategy' with luxury watch example and dog h
 
 ## [00:42:05] New Information section on Menopause symptoms in framework doc
 
-frame: 033_00-42-05.png (Drive: https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+[frame 00:42:05](https://drive.google.com/file/d/1fg-haTKbJXthvpU34wTSAIYrtqdu9eRt/view?usp=drivesdk) · `033_00-42-05.png`
 
 *document*
 

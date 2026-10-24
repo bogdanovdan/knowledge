@@ -1,14 +1,14 @@
 # 79. (Andromeda) Why you need to think way bigger - Visual notes
 
 - **Frames kept:** 7 of 121 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [079-andromeda-why-you-need-to-think-way-bigger-frames.zip](https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/079-andromeda-why-you-need-to-think-way-bigger](https://drive.google.com/drive/folders/1_MsR3J9FfioRF3wj21e4mbzu6yzPPQdB)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:00] Meta Ads Manager Reporting Table
 
-frame: 079_00-00-00.png (Drive: https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk)
+[frame 00:00:00](https://drive.google.com/file/d/1UMdGMUGwrtjYLGL94BGLk1fNEeLOvgSv/view?usp=drivesdk) · `079_00-00-00.png`
 
 *software demo*
 
@@ -33,7 +33,7 @@ Date filter: Yesterday: Sep 21, 2025; Total purchases: 381; Purchases conversion
 
 ## [00:00:45] Evolve Community Skool Page
 
-frame: 079_00-00-45.png (Drive: https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk)
+[frame 00:00:45](https://drive.google.com/file/d/1_z-MTDiikDSLRlIHw6CdKgqp0wf3IZKe/view?usp=drivesdk) · `079_00-00-45.png`
 
 *webpage*
 
@@ -54,7 +54,7 @@ URL: skool.com/evolve-8484; exact membership stats (370 members, 9 online, 5 adm
 
 ## [00:03:05] Shopify Sales Dashboard Metric Graphic
 
-frame: 079_00-03-05.png (Drive: https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk)
+[frame 00:03:05](https://drive.google.com/file/d/199h55Aan9SSf_VgiTZzwqdsHNGrhMKtd/view?usp=drivesdk) · `079_00-03-05.png`
 
 *chart*
 
@@ -74,7 +74,7 @@ Visitors count (32 visitors), exact total sales ($97,494.9), 7% increase indicat
 
 ## [00:03:40] Discord Channel Discussion on Shopify UI Update
 
-frame: 079_00-03-40.png (Drive: https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk)
+[frame 00:03:40](https://drive.google.com/file/d/1BtOl3eXX25IYb_RAGxoCglBBvd3ZCtty/view?usp=drivesdk) · `079_00-03-40.png`
 
 *social post*
 
@@ -94,7 +94,7 @@ Usernames (Liam Bradshaw, auri, hernica, Nate, Pranav), timestamps (April 21-22,
 
 ## [00:05:35] YouTube Video Thumbnail for Meta Facebook Ads Full Course
 
-frame: 079_00-05-35.png (Drive: https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk)
+[frame 00:05:35](https://drive.google.com/file/d/1yyhTpNAo20Pv25QTTJAQMCKGWyGNCZaW/view?usp=drivesdk) · `079_00-05-35.png`
 
 *other*
 
@@ -112,7 +112,7 @@ Text on thumbnail: "2025", "FULL COURSE", Meta and Facebook logos.
 
 ## [00:06:45] Steal This $1M/Month Landing Page Card Graphic
 
-frame: 079_00-06-45.png (Drive: https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk)
+[frame 00:06:45](https://drive.google.com/file/d/1c2cy812rgaorvCc5t46krzbJpBgb9lfK/view?usp=drivesdk) · `079_00-06-45.png`
 
 *title card*
 
@@ -123,7 +123,7 @@ Steal This $1M/Month Landing page
 
 ## [00:09:00] Daily Spend Threshold for Media Buying Optimization
 
-frame: 079_00-09-00.png (Drive: https://drive.google.com/file/d/1Q_qEz4bZ2Lf7eWGZKZbrIFh-vq5pdzn8/view?usp=drivesdk)
+[frame 00:09:00](https://drive.google.com/file/d/1iKvXkXOW4XwFk23zpqSYI1rlymfmelVN/view?usp=drivesdk) · `079_00-09-00.png`
 
 *slide*
 

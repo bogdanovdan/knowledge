@@ -1,14 +1,14 @@
 # 85. Why bad ads get spend - Visual notes
 
 - **Frames kept:** 11 of 100 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [085-why-bad-ads-get-spend-frames.zip](https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/085-why-bad-ads-get-spend](https://drive.google.com/drive/folders/11np7T86ObjJq4rshKHQbMUcG4YUmTdff)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:02:30] Meta Ads Manager ad performance table with ROAS and spend metrics
 
-frame: 085_00-02-30.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+[frame 00:02:30](https://drive.google.com/file/d/1p-WPOc2cGpmPNbDCTNouHkvO0SXMiKtK/view?usp=drivesdk) · `085_00-02-30.png`
 
 *software demo*
 
@@ -34,7 +34,7 @@ Date filter: Aug 1, 2025 - Aug 31, 2025; Exact total spend: $58,942.69; Total co
 
 ## [00:09:25] Meta Ads Manager performance table scrolled to frequency, CPM, and CPC
 
-frame: 085_00-09-25.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+[frame 00:09:25](https://drive.google.com/file/d/1lSBwf5kmEZVZivIxarZ2GGS4PLMEao1Y/view?usp=drivesdk) · `085_00-09-25.png`
 
 *software demo*
 
@@ -52,7 +52,7 @@ Detailed CPM figures ($17.97, $26.43, $20.35, etc.) and link clicks count (4,689
 
 ## [00:11:25] Meta Ads Manager table displaying CTR, Video Hook, and Video Hold metrics
 
-frame: 085_00-11-25.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+[frame 00:11:25](https://drive.google.com/file/d/1Zyu1NP8Hduv5ibNSkjrvHLme7NC_YBBu/view?usp=drivesdk) · `085_00-11-25.png`
 
 *software demo*
 
@@ -69,7 +69,7 @@ CTR percentages per row (1.12%, 0.99%, 1.73%, 2.51%, etc.) and specific Video Ho
 
 ## [00:11:50] Meta Ads Manager sorted by low spend showing high deceptive ROAS
 
-frame: 085_00-11-50.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+[frame 00:11:50](https://drive.google.com/file/d/1CKnh4B6iV9WgjIzBSmsgl8cdJH-mAjQG/view?usp=drivesdk) · `085_00-11-50.png`
 
 *software demo*
 
@@ -91,7 +91,7 @@ Precise spend amounts ($1.77, $1.07, $5.25, $7.57, $13.34), conversion values ($
 
 ## [00:15:00] Meta Ads Manager ad sets view for September 1, 2025
 
-frame: 085_00-15-00.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+[frame 00:15:00](https://drive.google.com/file/d/1RQ2WvEd7QZJspPp3ConrwOxWaVIb4FAH/view?usp=drivesdk) · `085_00-15-00.png`
 
 *software demo*
 
@@ -109,7 +109,7 @@ Hook rate values visible: 40.5% (Row 1), 17.8% (Row 3), 18.1% (Row 4). Total con
 
 ## [00:16:30] Meta Ads Manager ad set performance on September 4, 2025
 
-frame: 085_00-16-30.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+[frame 00:16:30](https://drive.google.com/file/d/1dwKCCzZwJQ_9e6RPJkrhkGje9a--3NHf/view?usp=drivesdk) · `085_00-16-30.png`
 
 *software demo*
 
@@ -127,7 +127,7 @@ Exact spent ($3,220.31 vs $2,329.65 vs $1,257.23), purchases (83, 39, 25), and t
 
 ## [00:17:05] Low spend and zero conversion ad sets table in Meta Ads Manager
 
-frame: 085_00-17-05.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+[frame 00:17:05](https://drive.google.com/file/d/1sQQXuHusJ_v8FFXdaqIEHoH79byk1m-j/view?usp=drivesdk) · `085_00-17-05.png`
 
 *software demo*
 
@@ -151,7 +151,7 @@ Ad creation dates (Aug 28, Sep 2, Sep 5), delivery status ('Learning'), exact mi
 
 ## [00:19:20] Meta Ads Manager multi-day ad set performance comparison
 
-frame: 085_00-19-20.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+[frame 00:19:20](https://drive.google.com/file/d/14bFho6EdAD73tSaltpz8wjd3Nz0mbbmk/view?usp=drivesdk) · `085_00-19-20.png`
 
 *software demo*
 
@@ -169,7 +169,7 @@ Date range Sep 1, 2025 - Sep 5, 2025; Exact amounts spent ($12,882.09, $11,708.7
 
 ## [00:21:45] Meta Ads Manager engagement and conversion metrics table
 
-frame: 085_00-21-45.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+[frame 00:21:45](https://drive.google.com/file/d/1c7blBcwNGQu4KkYhFo9GZhCCtZi6UiTe/view?usp=drivesdk) · `085_00-21-45.png`
 
 *software demo*
 
@@ -187,7 +187,7 @@ Date Sep 2, 2025; Impressions (74,354); Frequency 1.25; CPM $31.63; Link clicks 
 
 ## [00:23:35] Meta Ads Manager ad performance on Sep 2 - Sep 3
 
-frame: 085_00-23-35.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+[frame 00:23:35](https://drive.google.com/file/d/1jvpnlw0fYCK1VnilakxYUKIPEyh-E2Bf/view?usp=drivesdk) · `085_00-23-35.png`
 
 *software demo*
 
@@ -206,7 +206,7 @@ Exact spent values ($5,575.94, $4,168.49, $3,287.90, $1,501.36); Purchases count
 
 ## [00:27:20] Origins Skool Community Landing Page
 
-frame: 085_00-27-20.png (Drive: https://drive.google.com/file/d/1TG_DXEDewZyRULpAWznH43hNYKoU_aIk/view?usp=drivesdk)
+[frame 00:27:20](https://drive.google.com/file/d/1oQvf8Hc7a69qMtVPE7HwfPZHoBhJ50Ue/view?usp=drivesdk) · `085_00-27-20.png`
 
 *webpage*
 

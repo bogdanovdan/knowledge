@@ -1,14 +1,14 @@
 # 17. How To Find Winning Products (Brand Building) Pt 1 - Visual notes
 
 - **Frames kept:** 29 of 49 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 842x480 (native), PNG frames in Google Drive as [017-how-to-find-winning-products-brand-building-pt-1-frames.zip](https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+- **Resolution:** 842x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/017-how-to-find-winning-products-brand-building-pt-1](https://drive.google.com/drive/folders/1nnfTIpUeusaY_0YMiOW494clEhwrzRUu)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:01:20] How to Find Winning Products (Brand Building)
 
-frame: 017_00-01-20.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:01:20](https://drive.google.com/file/d/1t-umgyJQdsiPWQHZNjb2drLgAEIhP-E8/view?usp=drivesdk) · `017_00-01-20.png`
 
 *title card*
 
@@ -28,7 +28,7 @@ BECOME A BRAND OWNER, NOT A COPY PASTE DROPSHIPPER; GURUS HAVE OFFERED TO PAY ME
 
 ## [00:03:00] Myth-Busting: You Can Make Any Product Work
 
-frame: 017_00-03-00.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:03:00](https://drive.google.com/file/d/1zY9OkBIdlQETUvL9uixJCkyCi3Grc2jo/view?usp=drivesdk) · `017_00-03-00.png`
 
 *slide*
 
@@ -53,7 +53,7 @@ If you're a complete beginner however, it might be better to shorten that time h
 
 ## [00:05:35] Mindset: What To Expect
 
-frame: 017_00-05-35.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:05:35](https://drive.google.com/file/d/1xAdTJi_HeIcm_SgnoIXiCtkE1Jb1hjWf/view?usp=drivesdk) · `017_00-05-35.png`
 
 *slide*
 
@@ -78,7 +78,7 @@ As you start to learn and get better, you put in enough hours, your product hit 
 
 ## [00:09:45] Key Criteria for Product Success
 
-frame: 017_00-09-45.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:09:45](https://drive.google.com/file/d/1dnWfDWMx2Uyopu94n7RNsCYM6HIfLM4z/view?usp=drivesdk) · `017_00-09-45.png`
 
 *slide*
 
@@ -101,7 +101,7 @@ Key Criteria for Product Success
 
 ## [00:10:10] Google Trends Search Interface
 
-frame: 017_00-10-10.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:10:10](https://drive.google.com/file/d/18FcMANuiG9PZwJCIv53Sw7eF4umXyHSm/view?usp=drivesdk) · `017_00-10-10.png`
 
 *webpage*
 
@@ -120,7 +120,7 @@ Search suggestions: Ceto (Goddess), Cetus; Made with Trends section
 
 ## [00:11:00] Google Trends: gym (Past 5 years, United States)
 
-frame: 017_00-11-00.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:11:00](https://drive.google.com/file/d/1UyKoR4d9Q3qBk8lKiKx6hTXN9YLaEtYu/view?usp=drivesdk) · `017_00-11-00.png`
 
 *chart*
 
@@ -137,7 +137,7 @@ Interest by subregion: Hawaii 100, New Jersey 98, Texas 90; chart dates Aug 2, 2
 
 ## [00:11:20] AliExpress Search for Portable Generators
 
-frame: 017_00-11-20.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:11:20](https://drive.google.com/file/d/1vzpko4yz_oB9C3tlE1BE6tHUkAadZSoX/view?usp=drivesdk) · `017_00-11-20.png`
 
 *webpage*
 
@@ -153,7 +153,7 @@ AliExpress suggestion dropdown terms (3kw 5kw 8kw, 10 kva, etc.); Dropshipper's 
 
 ## [00:11:25] AliExpress Search Results: Generators Portable
 
-frame: 017_00-11-25.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:11:25](https://drive.google.com/file/d/1zd6EEx2zkzIRr5auCB5h_CzA6GiyXWPO/view?usp=drivesdk) · `017_00-11-25.png`
 
 *webpage*
 
@@ -168,7 +168,7 @@ Specific product brands and exact euro pricing (Ctolity, Oukitel, Gaiaray, Kraft
 
 ## [00:11:40] AliExpress Generators Results Scrolled
 
-frame: 017_00-11-40.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:11:40](https://drive.google.com/file/d/1vYOGljUcNQ2jViB9lgGIM1818rPo-g6J/view?usp=drivesdk) · `017_00-11-40.png`
 
 *webpage*
 
@@ -191,7 +191,7 @@ Additional generator models and prices: MAXPEEDINGRODS MXR2350 (350,05€), Foss
 
 ## [00:13:30] What Even Is A Winning Product?
 
-frame: 017_00-13-30.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:13:30](https://drive.google.com/file/d/1QUMZIVVMNu7U0BPY0gpS2XOBPchYVfj0/view?usp=drivesdk) · `017_00-13-30.png`
 
 *slide*
 
@@ -213,7 +213,7 @@ ORIGINS logo in the bottom right corner.
 
 ## [00:15:05] What Affects Product Difficulty: The Magnitude of Desire
 
-frame: 017_00-15-05.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:15:05](https://drive.google.com/file/d/1dyulYRMlze-sRhk_pydn1Ky8EMQHQZT0/view?usp=drivesdk) · `017_00-15-05.png`
 
 *slide*
 
@@ -246,7 +246,7 @@ Decorative pen holders ($20)
 
 ## [00:15:20] AliExpress Search Results: Infinity Hoop
 
-frame: 017_00-15-20.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:15:20](https://drive.google.com/file/d/1K_tTZW2_JLGewLGAzNh568RQMR6fdb-W/view?usp=drivesdk) · `017_00-15-20.png`
 
 *product page*
 
@@ -269,7 +269,7 @@ Prices (e.g. 8,49€, 5,03€, 11,5€, 3,96€, 5,77€, 45,68€), sales count
 
 ## [00:15:35] What Affects Product Difficulty: Market Awareness
 
-frame: 017_00-15-35.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:15:35](https://drive.google.com/file/d/1AFifGRBIz_Sas1VYLTBHDCJArp6SipAi/view?usp=drivesdk) · `017_00-15-35.png`
 
 *slide*
 
@@ -307,7 +307,7 @@ Detailed text in Eugene Schwartz's Five Stages of Awareness chart: stage descrip
 
 ## [00:18:10] What Affects Product Difficulty: Market Sophistication
 
-frame: 017_00-18-10.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:18:10](https://drive.google.com/file/d/1Ue235UkgGvkBgG42HEokhvdpvssjX9Za/view?usp=drivesdk) · `017_00-18-10.png`
 
 *slide*
 
@@ -335,7 +335,7 @@ Details on the 5 levels of market sophistication diagram: Level 1 ("Make any cla
 
 ## [00:19:45] How Do You Deal With Competition/Saturation?
 
-frame: 017_00-19-45.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:19:45](https://drive.google.com/file/d/1eN1ECCIV8vCv4JdxT9yUKfHW2oswc_0l/view?usp=drivesdk) · `017_00-19-45.png`
 
 *slide*
 
@@ -365,7 +365,7 @@ Decorative geometric icons on the right margin; ORIGINS branding.
 
 ## [00:21:20] Case Study #1: Shilajit (New Mechanism)
 
-frame: 017_00-21-20.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:21:20](https://drive.google.com/file/d/1df-JG8W-XfwusZ3uD570R-v9UjHPX1i3/view?usp=drivesdk) · `017_00-21-20.png`
 
 *slide*
 
@@ -390,7 +390,7 @@ Image of Shilajit resin in a glass jar with spoon.
 
 ## [00:23:40] AliExpress Search Results: Astronaut Projector
 
-frame: 017_00-23-40.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:23:40](https://drive.google.com/file/d/1xeGc55dS5O_cJKaZIKeob1An-xGp6zSE/view?usp=drivesdk) · `017_00-23-40.png`
 
 *webpage*
 
@@ -404,7 +404,7 @@ Product pricing (1,67€, 1,91€, 1,86€, 24,28€, etc.), seller ratings, and
 
 ## [00:23:45] Google Search Results for Pleshy Brand
 
-frame: 017_00-23-45.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:23:45](https://drive.google.com/file/d/1llpKg9QHPyqPu0B7fcPhddO-3SPU64Nw/view?usp=drivesdk) · `017_00-23-45.png`
 
 *webpage*
 
@@ -418,7 +418,7 @@ Domain pleshy.com, product name Spacebuddy, Trustpilot listing, and Reddit threa
 
 ## [00:24:10] Pleshy Brand Website Featuring SpaceBuddy
 
-frame: 017_00-24-10.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:24:10](https://drive.google.com/file/d/1dW1OTjifBFVXgENTM0ZS8A1WTWaPPHbS/view?usp=drivesdk) · `017_00-24-10.png`
 
 *product page*
 
@@ -432,7 +432,7 @@ Sale banner 'Christmas Sale Ends 12/26', button 'GET 50% OFF NOW', brand copywri
 
 ## [00:25:00] AliExpress Search Results: Starlight Projector
 
-frame: 017_00-25-00.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:25:00](https://drive.google.com/file/d/130RMOCagZe23MZzZTPLJv6BgnHXPhUX2/view?usp=drivesdk) · `017_00-25-00.png`
 
 *webpage*
 
@@ -446,7 +446,7 @@ Specific pricing and visual variations of traditional spherical starlight projec
 
 ## [00:26:20] Personal Factors Matter in Product Selection
 
-frame: 017_00-26-20.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:26:20](https://drive.google.com/file/d/1CAeuO5JPcF_UndIpCa83VyrfTFdAf299/view?usp=drivesdk) · `017_00-26-20.png`
 
 *slide*
 
@@ -468,7 +468,7 @@ Full slide text regarding brand compounding and customer dissatisfaction with no
 
 ## [00:26:55] AliExpress Search Results: Chin Slimming Products
 
-frame: 017_00-26-55.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:26:55](https://drive.google.com/file/d/1dCNkGs3etRatlVt8FfIKZV3KOezdk8Oc/view?usp=drivesdk) · `017_00-26-55.png`
 
 *webpage*
 
@@ -482,7 +482,7 @@ Prices (0,89€, 3,29€, 6,21€, 13,29€, 40,68€), product titles such as "
 
 ## [00:27:15] Claude AI Chat on Body Shaper Effectiveness
 
-frame: 017_00-27-15.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:27:15](https://drive.google.com/file/d/1qHBuHYxoQnfqAG8YrnPto4PXBiMlcnKK/view?usp=drivesdk) · `017_00-27-15.png`
 
 *software demo*
 
@@ -500,7 +500,7 @@ Detailed bullet points listing what body shapers genuinely do, what they don't d
 
 ## [00:28:25] Case Study #2: Stanley (New Avatar)
 
-frame: 017_00-28-25.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:28:25](https://drive.google.com/file/d/1vkvwF5hXatpySwX4dG5TRRFofp1Gzwa4/view?usp=drivesdk) · `017_00-28-25.png`
 
 *slide*
 
@@ -521,7 +521,7 @@ ORIGINS
 
 ## [00:30:35] Case Study #3: TrueClassic (New Avatar + Mechanism)
 
-frame: 017_00-30-35.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:30:35](https://drive.google.com/file/d/1IH8tW0aH965cfqEG08U1ErHU1AYHuQ0Y/view?usp=drivesdk) · `017_00-30-35.png`
 
 *slide*
 
@@ -542,7 +542,7 @@ ORIGINS
 
 ## [00:34:15] Venn Diagram: Understanding the Customer
 
-frame: 017_00-34-15.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:34:15](https://drive.google.com/file/d/13FZind9m4WjAnIA7HQY7HPJc7nScvGsJ/view?usp=drivesdk) · `017_00-34-15.png`
 
 *slide*
 
@@ -561,7 +561,7 @@ Labels of the Venn diagram circles: "Demographics and psychographics", "Common i
 
 ## [00:34:25] RxBar Growth Timeline
 
-frame: 017_00-34-25.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:34:25](https://drive.google.com/file/d/1O6vUcq-NsDZXSLJJLQYFcDa-wsX-yIU9/view?usp=drivesdk) · `017_00-34-25.png`
 
 *slide*
 
@@ -582,7 +582,7 @@ Step descriptions: Initial marketing push details about social media and influen
 
 ## [00:36:45] David Protein Case Study: Learnings Compound
 
-frame: 017_00-36-45.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:36:45](https://drive.google.com/file/d/1YIfdaQHsNScEWJHmfZegP4lECg67uYFS/view?usp=drivesdk) · `017_00-36-45.png`
 
 *slide*
 
@@ -602,7 +602,7 @@ Exact valuation headline ($725 Million Valuation). Product package label text: "
 
 ## [00:39:00] Recap of ORIGINS Principles for Finding Winning Products
 
-frame: 017_00-39-00.png (Drive: https://drive.google.com/file/d/1Iv4mwrACiPk83Crl6Yj4WASZq5IJu1-j/view?usp=drivesdk)
+[frame 00:39:00](https://drive.google.com/file/d/1c40rlorfFBBLyNPHRYYaRn7h5WOI4Ys5/view?usp=drivesdk) · `017_00-39-00.png`
 
 *slide*
 

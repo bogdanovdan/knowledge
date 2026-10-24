@@ -1,14 +1,14 @@
 # 63. The importance of copywriting for videos - Visual notes
 
 - **Frames kept:** 45 of 136 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [063-the-importance-of-copywriting-for-videos-frames.zip](https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/063-the-importance-of-copywriting-for-videos](https://drive.google.com/drive/folders/1e4wz9Jelo5LpcIvvPwNKe8lprv8ChKEn)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:02:20] Copywriting 101 framework notes in Google Docs
 
-frame: 063_00-02-20.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:02:20](https://drive.google.com/file/d/1FE08WuVcL0yo3CrZ65kka7zxIh4FJIuK/view?usp=drivesdk) · `063_00-02-20.png`
 
 *document*
 
@@ -58,7 +58,7 @@ Document header title: "Official - Avatar Mastery for Shopify Brands: The Meta-F
 
 ## [00:03:20] Copywriting Overview and Importance in Google Docs
 
-frame: 063_00-03-20.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:03:20](https://drive.google.com/file/d/1QA5d3aKOiDtbZypjwkbGMrN6ZEDNV7ND/view?usp=drivesdk) · `063_00-03-20.png`
 
 *document*
 
@@ -107,7 +107,7 @@ Quote attribution spelling visible on screen: "-Eugene Schwartz". Exact phrasing
 
 ## [00:05:40] Copywriting as a Must-Have Skill
 
-frame: 063_00-05-40.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:05:40](https://drive.google.com/file/d/16pUBpnwenllz9ULI9zouoeIp_Tl_hQWo/view?usp=drivesdk) · `063_00-05-40.png`
 
 *document*
 
@@ -131,7 +131,7 @@ And then after your copywriting, unfortunately, there is another caveat which is
 
 ## [00:06:05] Copywriting Skillset Requirements and Practice
 
-frame: 063_00-06-05.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:06:05](https://drive.google.com/file/d/16jS11KHkYuEO5sYoApybH7SDhdLttbO3/view?usp=drivesdk) · `063_00-06-05.png`
 
 *document*
 
@@ -167,7 +167,7 @@ Which most of you can not.
 
 ## [00:06:20] Copywriting Learning Curve Principles
 
-frame: 063_00-06-20.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:06:20](https://drive.google.com/file/d/1psB9r_xDInCHjpCGgxl18fH1MIYjZwhD/view?usp=drivesdk) · `063_00-06-20.png`
 
 *document*
 
@@ -189,7 +189,7 @@ At first, it will be really rough.
 
 ## [00:06:30] Copywriting Progression and Daily Survival Skill
 
-frame: 063_00-06-30.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:06:30](https://drive.google.com/file/d/1eFb62udQUle3w8HiRtz_5y5YICP3-E3S/view?usp=drivesdk) · `063_00-06-30.png`
 
 *document*
 
@@ -211,7 +211,7 @@ But after enough practice, it will just start to flow naturally.
 
 ## [00:07:45] Lifetime Value of Copywriting Skill
 
-frame: 063_00-07-45.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:07:45](https://drive.google.com/file/d/1tmQsJswJ6rFqjs64P_CORtJQ4-CukT1i/view?usp=drivesdk) · `063_00-07-45.png`
 
 *document*
 
@@ -233,7 +233,7 @@ If there's one skill that will keep food on your table for the rest of your life
 
 ## [00:08:25] Copywriting Call to Action and Conclusion
 
-frame: 063_00-08-25.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:08:25](https://drive.google.com/file/d/1umMt6w3_M56Z87kOOruOange6rN2e2ft/view?usp=drivesdk) · `063_00-08-25.png`
 
 *document*
 
@@ -251,7 +251,7 @@ So lean in to this.
 
 ## [00:09:00] Copywriting Course Expectations and The Rules Of Copy Heading
 
-frame: 063_00-09-00.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:09:00](https://drive.google.com/file/d/1G2eZCyLoGwdECcaPrFrSP95VwZe85Mpg/view?usp=drivesdk) · `063_00-09-00.png`
 
 *document*
 
@@ -272,7 +272,7 @@ The Rules Of Copy:
 
 ## [00:10:05] The Rules Of Copy: Rule #1
 
-frame: 063_00-10-05.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:10:05](https://drive.google.com/file/d/12USCa0vZCkU1tQaJu0P-aFYGmLLhH_0M/view?usp=drivesdk) · `063_00-10-05.png`
 
 *document*
 
@@ -288,7 +288,7 @@ The Shift:
 
 ## [00:11:40] The Rules Of Copy: Rule #1 and #2
 
-frame: 063_00-11-40.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:11:40](https://drive.google.com/file/d/1rhwjZ_gpFfSHrlKB5jLzW75ld6MCrjYU/view?usp=drivesdk) · `063_00-11-40.png`
 
 *document*
 
@@ -304,7 +304,7 @@ The Discipline: Never argue about copy. Test it. If it doesn't convert, it's wro
 
 ## [00:12:30] The Rules Of Copy: Rules #3, #4, and #5
 
-frame: 063_00-12-30.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:12:30](https://drive.google.com/file/d/1bZ_6tnERO0luTO0kmnQx1tamxDCJ1UoR/view?usp=drivesdk) · `063_00-12-30.png`
 
 *document*
 
@@ -334,7 +334,7 @@ Beginner mistake for #5: "Writing sentences that let the reader stop and think."
 
 ## [00:14:00] The Rules Of Copy: Rules #5 and #6
 
-frame: 063_00-14-00.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:14:00](https://drive.google.com/file/d/1c-d3ElPEEbur0JS957nKWEAf2kdHRPx3/view?usp=drivesdk) · `063_00-14-00.png`
 
 *document*
 
@@ -363,7 +363,7 @@ Header: "What to Research:"
 
 ## [00:14:10] Rule #6: Research is 80% of the Work
 
-frame: 063_00-14-10.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:14:10](https://drive.google.com/file/d/1oqjy7HOwrfT29hrYWy3ual-FiU-40aaj/view?usp=drivesdk) · `063_00-14-10.png`
 
 *document*
 
@@ -393,7 +393,7 @@ Bullet point details under 'How to Do It' and exact framing of rule #6 beginner 
 
 ## [00:15:00] Rule #6 Research Breakdown and Rule #7 Daily Practice
 
-frame: 063_00-15-00.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:15:00](https://drive.google.com/file/d/1ucwztOAJfz38MLJs-elXmJ9ZieSVTyoX/view?usp=drivesdk) · `063_00-15-00.png`
 
 *document*
 
@@ -427,7 +427,7 @@ Reddit/Facebook groups (raw, unfiltered pain points), Product mechanism (underst
 
 ## [00:15:15] Rule #7 Daily Practice Prompts and Pro Tip
 
-frame: 063_00-15-15.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:15:15](https://drive.google.com/file/d/1QheqtSNiSRhUg0PVKZYRI_52aa7Ag_bL/view?usp=drivesdk) · `063_00-15-15.png`
 
 *document*
 
@@ -456,7 +456,7 @@ Tool names mentioned in Pro Tip: "Apple Notes, Google Keep, Notion".
 
 ## [00:15:35] Daily Habit Tracker Spreadsheet Template
 
-frame: 063_00-15-35.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:15:35](https://drive.google.com/file/d/1l1z4pEcrDvZlm0Xl13VV-s_dXtVGapLf/view?usp=drivesdk) · `063_00-15-35.png`
 
 *spreadsheet*
 
@@ -478,7 +478,7 @@ Spreadsheet interface layout, sheet name 'Evolve - Daily Tracker', exact percent
 
 ## [00:16:55] Configured Daily Habit Tracker with Completed Checkboxes
 
-frame: 063_00-16-55.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:16:55](https://drive.google.com/file/d/1L636CV4ZYBm5S_lInUHv_kc9Y6E6dNO3/view?usp=drivesdk) · `063_00-16-55.png`
 
 *spreadsheet*
 
@@ -500,7 +500,7 @@ Exact completion metrics: Total 4 / Complete 16%, Total 1 / Complete 25%.
 
 ## [00:19:30] The Value Equation Diagram and Frames Table
 
-frame: 063_00-19-30.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:19:30](https://drive.google.com/file/d/1enddoXBsW5bfaQv5TVLMT7kjjHcZesbh/view?usp=drivesdk) · `063_00-19-30.png`
 
 *diagram*
 
@@ -529,7 +529,7 @@ Entire table under '#2 - Understand "frames" you can use in copywriting' with th
 
 ## [00:21:50] Frames You Can Use in Copywriting Table
 
-frame: 063_00-21-50.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:21:50](https://drive.google.com/file/d/1CdcWpIVQ4Y3q5OQmH-C0qWeCkeKqAIhi/view?usp=drivesdk) · `063_00-21-50.png`
 
 *document*
 
@@ -546,7 +546,7 @@ Columns: [Blank], What You Need to Say, What They're Thinking
 
 ## [00:23:55] Copywriting Frame Examples and Strategy #3
 
-frame: 063_00-23-55.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:23:55](https://drive.google.com/file/d/1sxbVV_LDNCR5Y6ZdhNfDk4dG_XUA41Ly/view?usp=drivesdk) · `063_00-23-55.png`
 
 *document*
 
@@ -573,7 +573,7 @@ Try it risk-free. = Has all four; install in under 5 minutes without drilling. 1
 
 ## [00:25:05] #3 - Avoid categorizing yourself with others and blending in
 
-frame: 063_00-25-05.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:25:05](https://drive.google.com/file/d/1a-8E8kvqED8QQDPkSbVR5ShWh-J9LyuR/view?usp=drivesdk) · `063_00-25-05.png`
 
 *document*
 
@@ -594,7 +594,7 @@ Examples:
 
 ## [00:25:25] Category Positioning Comparison Examples
 
-frame: 063_00-25-25.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:25:25](https://drive.google.com/file/d/1HInFtTm4u_-w9ApIcC9Fc4mIrkeIofU6/view?usp=drivesdk) · `063_00-25-25.png`
 
 *document*
 
@@ -610,7 +610,7 @@ Examples:
 
 ## [00:25:50] Positioning Examples: Whey and Dyson Alternatives
 
-frame: 063_00-25-50.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:25:50](https://drive.google.com/file/d/10dQCZwPHdWtgnemWvpnN4W2VT2t3C5HD/view?usp=drivesdk) · `063_00-25-50.png`
 
 *document*
 
@@ -627,7 +627,7 @@ Examples:
 
 ## [00:26:40] Positioning Example: Humidifier New Category Reframe
 
-frame: 063_00-26-40.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:26:40](https://drive.google.com/file/d/1fkPz7Cb9Mvh-UBufAYXyr5BxPRO4v1Xk/view?usp=drivesdk) · `063_00-26-40.png`
 
 *document*
 
@@ -638,7 +638,7 @@ frame: 063_00-26-40.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa
 
 ## [00:27:15] #4 - You need to show, not tell (even with words)
 
-frame: 063_00-27-15.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:27:15](https://drive.google.com/file/d/1-1v-hlg5VfJ2Um_dy2vSoDoM4C9mfnwx/view?usp=drivesdk) · `063_00-27-15.png`
 
 *document*
 
@@ -654,7 +654,7 @@ Examples:
 
 ## [00:27:30] #4 Show Don't Tell Examples (Energy and Ergonomic Mouse)
 
-frame: 063_00-27-30.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:27:30](https://drive.google.com/file/d/138n3IT25lMWjpyKsti8GqMe9vTNjsa5b/view?usp=drivesdk) · `063_00-27-30.png`
 
 *document*
 
@@ -675,7 +675,7 @@ Ergonomic Mouse:
 
 ## [00:29:50] #5 - How to write body copy that isn't fluff Formula
 
-frame: 063_00-29-50.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:29:50](https://drive.google.com/file/d/1EtBGyzz4Y4SKIXsrdjhN5ksTRkp-WGtN/view?usp=drivesdk) · `063_00-29-50.png`
 
 *document*
 
@@ -686,7 +686,7 @@ OBJECTION -> CLAIM -> PROOF -> BENEFIT
 
 ## [00:30:20] Body Copy Formula: Objection Definition
 
-frame: 063_00-30-20.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:30:20](https://drive.google.com/file/d/1RGRoQex7IqghWpsVSnhhQdetv4nh_U00/view?usp=drivesdk) · `063_00-30-20.png`
 
 *document*
 
@@ -702,7 +702,7 @@ OBJECTION - What they're thinking/doubting (address it head-on)
 
 ## [00:31:40] Body Copy Formula: Objection, Claim, Proof, Benefit
 
-frame: 063_00-31-40.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:31:40](https://drive.google.com/file/d/1re3tA9bhVP7_blun6pQHWSq7qDiwyLw4/view?usp=drivesdk) · `063_00-31-40.png`
 
 *document*
 
@@ -727,7 +727,7 @@ Examples specify "appetite suppressant" and "24% fewer calories" (spoken mention
 
 ## [00:32:05] Body Copy Formula Example with Benefit
 
-frame: 063_00-32-05.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:32:05](https://drive.google.com/file/d/1QzetXOAfb7G2gUgMjceFywgBUt5ajZ0o/view?usp=drivesdk) · `063_00-32-05.png`
 
 *document*
 
@@ -744,7 +744,7 @@ Benefit: "Imagine eating only 1,200 calories and feeling satisfied. Not deprived
 
 ## [00:32:10] Schwartz Market Awareness Levels and Copy Length Rules Table
 
-frame: 063_00-32-10.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:32:10](https://drive.google.com/file/d/1UOQhg8wrtfKD0_M0VhLx4thlhzAciJlx/view?usp=drivesdk) · `063_00-32-10.png`
 
 *document*
 
@@ -769,7 +769,7 @@ Table column 'Why' details: Most Aware: 'Just need the deal'; Unaware: 'Need ful
 
 ## [00:33:00] Guidelines on Targeting Market Awareness Levels
 
-frame: 063_00-33-00.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:33:00](https://drive.google.com/file/d/1z8WgjIi1w7w2uV2VAav1guYMEwrQNpRZ/view?usp=drivesdk) · `063_00-33-00.png`
 
 *document*
 
@@ -786,7 +786,7 @@ This is something that will be saved for EVOLVE.
 
 ## [00:33:40] Ad Flow Progression Through Awareness Stages
 
-frame: 063_00-33-40.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:33:40](https://drive.google.com/file/d/1bTdgUout2x0kBhNhg5q1xWFxk7xYIYXQ/view?usp=drivesdk) · `063_00-33-40.png`
 
 *document*
 
@@ -798,7 +798,7 @@ Solution Aware -> Product Aware -> Most Aware
 
 ## [00:34:10] Product Aware Stage Progression and Big Credits
 
-frame: 063_00-34-10.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:34:10](https://drive.google.com/file/d/1oJZ5TQ7hnlnnTEDD_4gAAt4USuTC_Dqi/view?usp=drivesdk) · `063_00-34-10.png`
 
 *document*
 
@@ -816,7 +816,7 @@ $100M Offers - Alex Hormozi
 
 ## [00:35:15] The 5 Stages of Awareness Diagram
 
-frame: 063_00-35-15.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:35:15](https://drive.google.com/file/d/12XI750sjwxyqqEpX-dFLiUxKim7VnJvT/view?usp=drivesdk) · `063_00-35-15.png`
 
 *diagram*
 
@@ -836,7 +836,7 @@ Definitions on screen for Unaware, Problem Aware, Solution Aware, and Product Aw
 
 ## [00:36:10] Ad Example: Most Aware Selling With Negative Curiosity
 
-frame: 063_00-36-10.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:36:10](https://drive.google.com/file/d/1wYAs9gEDsmpHlJEAReqlX_q8GgJChzyv/view?usp=drivesdk) · `063_00-36-10.png`
 
 *slide*
 
@@ -864,7 +864,7 @@ All text under 'Why This Ad Is Great' (#1 Pattern Interrupt, #2 Curiosity Gap, #
 
 ## [00:36:45] Ad Example: Product Aware Selling With Negative Curiosity
 
-frame: 063_00-36-45.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:36:45](https://drive.google.com/file/d/1f-I32WsYGtXAKCRWU_mcO0oM4dDM1g7t/view?usp=drivesdk) · `063_00-36-45.png`
 
 *slide*
 
@@ -887,7 +887,7 @@ Video caption text: 'Your gut's new best friend! 🍄', 'Improved Gut Health', '
 
 ## [00:36:55] Ad Example: Product Aware Leading With New Mechanism
 
-frame: 063_00-36-55.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:36:55](https://drive.google.com/file/d/1EOcwhoqdkTi_OF5mTdI4_ye3cnFNhMDV/view?usp=drivesdk) · `063_00-36-55.png`
 
 *slide*
 
@@ -906,7 +906,7 @@ Full text above video describing problems with typical compression socks.
 
 ## [00:37:35] Ad Example: Product Aware 5 Reasons For Desire Visual
 
-frame: 063_00-37-35.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:37:35](https://drive.google.com/file/d/1Lve9AgI07CIo8Yzrw_KvevY55tsQu1mS/view?usp=drivesdk) · `063_00-37-35.png`
 
 *slide*
 
@@ -929,7 +929,7 @@ Copy above video: 'Bundle our top-rated shirts together and save with True Class
 
 ## [00:37:55] Ad Example: Problem Aware Using EASE To Sell
 
-frame: 063_00-37-55.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:37:55](https://drive.google.com/file/d/1HDTXCYY-ViZmpCJmL8aaLaB9LP6UYTxy/view?usp=drivesdk) · `063_00-37-55.png`
 
 *ad example*
 
@@ -950,7 +950,7 @@ Ad caption text: 'Say goodbye to dandruff and hello to confidence. 2x more pyrit
 
 ## [00:38:05] Ad Example: Solution Aware Sophisticated New Mechanism
 
-frame: 063_00-38-05.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:38:05](https://drive.google.com/file/d/1Ny4aBh75PNRAbM-gWO69PE6lrEnGbAho/view?usp=drivesdk) · `063_00-38-05.png`
 
 *ad example*
 
@@ -974,7 +974,7 @@ Bullet points 1-5 under 'Why This Ad Works': '#1 - Hook is very intense, but it 
 
 ## [00:38:30] Ad Example: Problem Aware Specific Avatar Pain Point
 
-frame: 063_00-38-30.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:38:30](https://drive.google.com/file/d/1Ggb-a3XZ1usvgRBLA4v_6-i2BW4i0Fpq/view?usp=drivesdk) · `063_00-38-30.png`
 
 *ad example*
 
@@ -995,7 +995,7 @@ Ad caption details: 'Proudly made in the USA with over 7,423 5-star reviews, Hol
 
 ## [00:39:50] Ad Example: Problem Aware Using Authority To Shift Beliefs
 
-frame: 063_00-39-50.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:39:50](https://drive.google.com/file/d/1jJCAtDTFhCNi4d0-A_mZv99tu6HQ7gZZ/view?usp=drivesdk) · `063_00-39-50.png`
 
 *ad example*
 
@@ -1015,7 +1015,7 @@ Slide title: 'Using Authority To Shift Beliefs', video overlay: 'Malassezia actu
 
 ## [00:42:05] Daily Copywriting Practice Routine by Joe Schriefer
 
-frame: 063_00-42-05.png (Drive: https://drive.google.com/file/d/1suyanSYrSYQt7Qa6C9XziV0aVjuig_2P/view?usp=drivesdk)
+[frame 00:42:05](https://drive.google.com/file/d/1Qx0PUO9A2XiaNxMeMJQli1Q4qxbi09JW/view?usp=drivesdk) · `063_00-42-05.png`
 
 *document*
 

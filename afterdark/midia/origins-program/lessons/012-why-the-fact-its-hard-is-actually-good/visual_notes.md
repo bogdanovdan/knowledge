@@ -1,14 +1,14 @@
 # 12. Why the fact it’s hard is actually good - Visual notes
 
 - **Frames kept:** 4 of 48 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [012-why-the-fact-its-hard-is-actually-good-frames.zip](https://drive.google.com/file/d/11Qb1IKQKogCKGEnf_0415etcQ5H9uED9/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/012-why-the-fact-its-hard-is-actually-good](https://drive.google.com/drive/folders/1fsVs0PDrNRdkulJOhchjh9ltPfXxAhfY)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:45] Why the fact it's hard is actually good
 
-frame: 012_00-00-45.png (Drive: https://drive.google.com/file/d/11Qb1IKQKogCKGEnf_0415etcQ5H9uED9/view?usp=drivesdk)
+[frame 00:00:45](https://drive.google.com/file/d/1AKgHtRmKZCeqaITrXqLQ11YwAmgeI0MO/view?usp=drivesdk) · `012_00-00-45.png`
 
 *document*
 
@@ -35,7 +35,7 @@ Sidebar navigation: Origins Program (6%), Origins Mindset, How To Find Products,
 
 ## [00:02:25] Emotional Framing and Mindset Notes
 
-frame: 012_00-02-25.png (Drive: https://drive.google.com/file/d/11Qb1IKQKogCKGEnf_0415etcQ5H9uED9/view?usp=drivesdk)
+[frame 00:02:25](https://drive.google.com/file/d/1eOidyOUtKgP_P38BiXc2XtPMK6_2nMpQ/view?usp=drivesdk) · `012_00-02-25.png`
 
 *document*
 
@@ -66,7 +66,7 @@ Quote attribution: "- Mozi"
 
 ## [00:07:50] Starting a Business: 1990s vs 2020s Comparison
 
-frame: 012_00-07-50.png (Drive: https://drive.google.com/file/d/11Qb1IKQKogCKGEnf_0415etcQ5H9uED9/view?usp=drivesdk)
+[frame 00:07:50](https://drive.google.com/file/d/1qQk0hiRK9chmDXfvqThpn1DJeBnZ1K9B/view?usp=drivesdk) · `012_00-07-50.png`
 
 *document*
 
@@ -96,7 +96,7 @@ Building a website cost $10K–$50K and took months; wearing a suit to raise mon
 
 ## [00:12:20] Historical Comparison and Examples: 1995 vs 2025
 
-frame: 012_00-12-20.png (Drive: https://drive.google.com/file/d/11Qb1IKQKogCKGEnf_0415etcQ5H9uED9/view?usp=drivesdk)
+[frame 00:12:20](https://drive.google.com/file/d/1_DBcc_7UqtghoVz-er_0jBAU9bnSmY8q/view?usp=drivesdk) · `012_00-12-20.png`
 
 *document*
 

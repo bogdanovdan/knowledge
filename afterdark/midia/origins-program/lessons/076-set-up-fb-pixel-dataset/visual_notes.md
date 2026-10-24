@@ -1,14 +1,14 @@
 # 76. Set Up FB Pixel/Dataset - Visual notes
 
 - **Frames kept:** 6 of 10 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 772x480 (native), PNG frames in Google Drive as [076-set-up-fb-pixel-dataset-frames.zip](https://drive.google.com/file/d/1ZgiyhuGKQZlhy5NyrQsxjv5cJTUfn6Q7/view?usp=drivesdk)
+- **Resolution:** 772x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/076-set-up-fb-pixel-dataset](https://drive.google.com/drive/folders/1IJY4LD5P_ZxGhtsERVCri7-F1JbUtvzc)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:25] Shopify Facebook & Instagram Sales Channel Overview
 
-frame: 076_00-00-25.png (Drive: https://drive.google.com/file/d/1ZgiyhuGKQZlhy5NyrQsxjv5cJTUfn6Q7/view?usp=drivesdk)
+[frame 00:00:25](https://drive.google.com/file/d/1HZS1BE6YbgqE2_jU6t1_IsLDKE7M-Iqx/view?usp=drivesdk) · `076_00-00-25.png`
 
 *software demo*
 
@@ -22,7 +22,7 @@ URL: admin.shopify.com/store/laifen/apps/facebook-ads/shopify_app/home. Left nav
 
 ## [00:01:10] Facebook & Instagram Data Sharing and Dataset Selection
 
-frame: 076_00-01-10.png (Drive: https://drive.google.com/file/d/1ZgiyhuGKQZlhy5NyrQsxjv5cJTUfn6Q7/view?usp=drivesdk)
+[frame 00:01:10](https://drive.google.com/file/d/1Kr4Rfqcsvmi44k_Fk9TKi_1PZFTE70jr/view?usp=drivesdk) · `076_00-01-10.png`
 
 *software demo*
 
@@ -36,7 +36,7 @@ Subsections below: 'Advertising', 'Business details'. Link to 'Off-Facebook Acti
 
 ## [00:01:15] Manage Facebook & Instagram Data Sharing Preference Modal
 
-frame: 076_00-01-15.png (Drive: https://drive.google.com/file/d/1ZgiyhuGKQZlhy5NyrQsxjv5cJTUfn6Q7/view?usp=drivesdk)
+[frame 00:01:15](https://drive.google.com/file/d/1zMpYDU2suRAvuoClUbJur84l-XDyLM8U/view?usp=drivesdk) · `076_00-01-15.png`
 
 *software demo*
 
@@ -50,7 +50,7 @@ Privacy warning note: 'This option shares your customers' personal data. To help
 
 ## [00:01:50] Shopify Facebook & Instagram Setup Checklist and Terms
 
-frame: 076_00-01-50.png (Drive: https://drive.google.com/file/d/1ZgiyhuGKQZlhy5NyrQsxjv5cJTUfn6Q7/view?usp=drivesdk)
+[frame 00:01:50](https://drive.google.com/file/d/1iWIQ43TQMRcBS7w7c-ZVF2PpNp3vBDmR/view?usp=drivesdk) · `076_00-01-50.png`
 
 *software demo*
 
@@ -64,7 +64,7 @@ Checkbox labels and links: 'Seller Agreement', 'About catalog access'.
 
 ## [00:02:20] Meta Business Suite Datasets & Pixels Settings
 
-frame: 076_00-02-20.png (Drive: https://drive.google.com/file/d/1ZgiyhuGKQZlhy5NyrQsxjv5cJTUfn6Q7/view?usp=drivesdk)
+[frame 00:02:20](https://drive.google.com/file/d/1RXHzkRVsoSwXAXPdg-KvNZC23RDk02T6/view?usp=drivesdk) · `076_00-02-20.png`
 
 *software demo*
 
@@ -78,7 +78,7 @@ Left sidebar categories: Business info, Users (People, Partners, System users, U
 
 ## [00:02:25] Meta Business Suite Connect Assets Modal
 
-frame: 076_00-02-25.png (Drive: https://drive.google.com/file/d/1ZgiyhuGKQZlhy5NyrQsxjv5cJTUfn6Q7/view?usp=drivesdk)
+[frame 00:02:25](https://drive.google.com/file/d/1bRwGyn4i7XQZUt_7C67WUZ1UWFHwHxF7/view?usp=drivesdk) · `076_00-02-25.png`
 
 *software demo*
 

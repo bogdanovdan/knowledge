@@ -1,4 +1,4 @@
-> **Nota:** os frames (PNG) desta biblioteca ficam no Google Drive, em `Knowledge/afterdark/midia/origins-program/frames` ([abrir pasta](https://drive.google.com/drive/folders/1Uj8jgHgvuemO3v3wTC8ec1J0O65QLy2D)), com um arquivo zip por aula (`<aula>-frames.zip`). Os links nos `visual_notes.md` apontam para o zip da aula. Esta biblioteca registra só o que o curso ensina, não decisões para as marcas da Afterdark.
+> **Nota:** os frames (PNG) desta biblioteca ficam no Google Drive, em `Knowledge/afterdark/midia/origins-program/frames` ([abrir pasta](https://drive.google.com/drive/folders/1Uj8jgHgvuemO3v3wTC8ec1J0O65QLy2D)), como PNGs individuais, uma subpasta por aula (`frames/<aula>/<aula>_<HH-MM-SS>.png`); não há mais arquivos zip. Cada frame nos `visual_notes.md` (e o `drive_url` nos `visual_notes.json`) aponta direto para o PNG no Drive, e o cabeçalho de cada `visual_notes.md` aponta para a subpasta da aula. Esta biblioteca registra só o que o curso ensina, não decisões para as marcas da Afterdark.
 
 # Origins Program ($0-$100k/mo) - Source Library
 

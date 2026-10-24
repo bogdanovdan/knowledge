@@ -1,14 +1,14 @@
 # 35. Understanding Market Sophistication - Part 1 - Visual notes
 
 - **Frames kept:** 11 of 36 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [035-understanding-market-sophistication-part-1-frames.zip](https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/035-understanding-market-sophistication-part-1](https://drive.google.com/drive/folders/1V6OMoW-2IhF4Uk7d7Qa-eUpYWyTn8oTF)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:01:55] Eugene Schwartz's Market Sophistication Theory and Five Stages
 
-frame: 035_00-01-55.png (Drive: https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+[frame 00:01:55](https://drive.google.com/file/d/1DL7tjjh10EFRK4f9Qg-2Zfo0J__PRGIQ/view?usp=drivesdk) · `035_00-01-55.png`
 
 *document*
 
@@ -40,7 +40,7 @@ Document title: "Avatar Mastery for Shopify Brands: The Meta-First Framework". L
 
 ## [00:05:50] The Five Stages of Market Sophistication
 
-frame: 035_00-05-50.png (Drive: https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+[frame 00:05:50](https://drive.google.com/file/d/1JUgeK-CcStZyL735-Y4YH2boq921j6rD/view?usp=drivesdk) · `035_00-05-50.png`
 
 *document*
 
@@ -66,7 +66,7 @@ Typo in doc heading: 'sophisitcaiton'. Heading above: 'So, as the scale of selli
 
 ## [00:11:30] Market Evolution in Sophisticated eCom Markets
 
-frame: 035_00-11-30.png (Drive: https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+[frame 00:11:30](https://drive.google.com/file/d/1Ms0cWfs2f2L7kPp3gBcRupN5mQyI2jQm/view?usp=drivesdk) · `035_00-11-30.png`
 
 *document*
 
@@ -101,7 +101,7 @@ Meaning, even though your:
 
 ## [00:13:10] The Avatar-Market Sophistication Gap
 
-frame: 035_00-13-10.png (Drive: https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+[frame 00:13:10](https://drive.google.com/file/d/1nzQOZJOa_iq78lnF4QSApxrZcTf4g3yH/view?usp=drivesdk) · `035_00-13-10.png`
 
 *document*
 
@@ -129,7 +129,7 @@ And as a result, your ads don't work.
 
 ## [00:14:30] Important Things To Note About Market Sophistication
 
-frame: 035_00-14-30.png (Drive: https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+[frame 00:14:30](https://drive.google.com/file/d/13OvEonQ-sKtSmkaEAaKrRLPL8xHtkbzY/view?usp=drivesdk) · `035_00-14-30.png`
 
 *document*
 
@@ -150,7 +150,7 @@ Typo in document: 'Market Sophistcation'
 
 ## [00:18:40] Three Strategic Responses: New Mechanism
 
-frame: 035_00-18-40.png (Drive: https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+[frame 00:18:40](https://drive.google.com/file/d/1wa3qR4VSJSOqlEyLGicPpmnWRhxyicCe/view?usp=drivesdk) · `035_00-18-40.png`
 
 *document*
 
@@ -182,7 +182,7 @@ Examples of Great New Mechanisms details: Purple's GelFlex Grid, Seed Health's V
 
 ## [00:20:05] Three Strategic Responses for Sophisticated Markets: New Mechanism
 
-frame: 035_00-20-05.png (Drive: https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+[frame 00:20:05](https://drive.google.com/file/d/1a9rdux-9_dMyBqnJRuFDueckLmUXd1jb/view?usp=drivesdk) · `035_00-20-05.png`
 
 *document*
 
@@ -206,7 +206,7 @@ Mistakes listed: 'claiming false uniqueness for industry-standard processes, and
 
 ## [00:26:40] Strategic Responses: New Information as Competitive Advantage
 
-frame: 035_00-26-40.png (Drive: https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+[frame 00:26:40](https://drive.google.com/file/d/1YVcZBiFYuAW_GRWqVquLnfVrom6mYcAP/view?usp=drivesdk) · `035_00-26-40.png`
 
 *document*
 
@@ -232,7 +232,7 @@ Details on The Ordinary: 'naming products after active ingredients with concentr
 
 ## [00:30:15] Strategic Responses: New Identity - Lifestyle movements and tribal belonging
 
-frame: 035_00-30-15.png (Drive: https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+[frame 00:30:15](https://drive.google.com/file/d/1iojmkW69jWJ1gL2j4PUf8GcWJSep31Pb/view?usp=drivesdk) · `035_00-30-15.png`
 
 *document*
 
@@ -254,7 +254,7 @@ Stats and psychology: 'Maslow's hierarchy shows belonging as a core human need t
 
 ## [00:32:30] New Identity Strategy: Examples and The Big 3 Recapped
 
-frame: 035_00-32-30.png (Drive: https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+[frame 00:32:30](https://drive.google.com/file/d/1TTHC2WGw_Vvxb17pJZoGehAlcHbu9Kio/view?usp=drivesdk) · `035_00-32-30.png`
 
 *document*
 
@@ -285,7 +285,7 @@ Points under 'Identity strategies fail when...': 'positioning feels inauthentic,
 
 ## [00:35:35] Summary of the Three Strategic Responses Requirements
 
-frame: 035_00-35-35.png (Drive: https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+[frame 00:35:35](https://drive.google.com/file/d/10luBuhAJvtyKVM7JdUTDhTxpzNEAKVee/view?usp=drivesdk) · `035_00-35-35.png`
 
 *document*
 

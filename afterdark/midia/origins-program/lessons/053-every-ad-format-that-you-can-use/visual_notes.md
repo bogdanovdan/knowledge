@@ -1,14 +1,14 @@
 # 53. Every Ad Format That You Can Use - Visual notes
 
 - **Frames kept:** 34 of 66 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [053-every-ad-format-that-you-can-use-frames.zip](https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/053-every-ad-format-that-you-can-use](https://drive.google.com/drive/folders/1QwNFcXZwfA5BKDUy8kF1zhkYox-1Xbm4)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:35] Video Formats Document Overview
 
-frame: 053_00-00-35.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:00:35](https://drive.google.com/file/d/1vHIwhWY05AzbcV23xc8A9MtGVbI3mMZb/view?usp=drivesdk) · `053_00-00-35.png`
 
 *document*
 
@@ -47,7 +47,7 @@ Example URLs: https://ff.io/aodE075z, https://ff.io/PfaqXBS7, https://ff.io/dGxD
 
 ## [00:00:45] Voiceover with B-Roll Ad Example: Carepod Humidifier
 
-frame: 053_00-00-45.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:00:45](https://drive.google.com/file/d/1u3D6kdV63jqfCH7fg0eR8iwWAkK8IAoR/view?usp=drivesdk) · `053_00-00-45.png`
 
 *ad example*
 
@@ -65,7 +65,7 @@ Batch name: 'Carepod - BATCH#61 - Money Saver For ...'. Subtitle line: 'lock you
 
 ## [00:01:25] Subtitles with B-Roll Ad Example
 
-frame: 053_00-01-25.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:01:25](https://drive.google.com/file/d/1HGepeS2ujMLLLW7SsnknioLI57cGnN-_/view?usp=drivesdk) · `053_00-01-25.png`
 
 *ad example*
 
@@ -81,7 +81,7 @@ Batch name: 'BATCH#63 - Everybody loves this, but...'. On-screen text: 'Causing 
 
 ## [00:01:30] Subtitles with B-Roll Ad Example Clip
 
-frame: 053_00-01-30.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:01:30](https://drive.google.com/file/d/1pbvtU3T00W4vwdC-1BDQTsLoz3kWnNwf/view?usp=drivesdk) · `053_00-01-30.png`
 
 *ad example*
 
@@ -98,7 +98,7 @@ Text overlay: 'there's more nicotine than 3 cigarettes combined.'
 
 ## [00:01:35] Subtitles with B-Roll Ad Example Education Clip
 
-frame: 053_00-01-35.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:01:35](https://drive.google.com/file/d/1n3YuP09bME18RLZna2hfFr2ehhv-TbN9/view?usp=drivesdk) · `053_00-01-35.png`
 
 *ad example*
 
@@ -115,7 +115,7 @@ Visual details and exact caption layout.
 
 ## [00:01:50] Video Formats Document - Authentic UGC Example Link
 
-frame: 053_00-01-50.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:01:50](https://drive.google.com/file/d/1CGt_ogWULafR5rddCAg5cQen0jkixRHE/view?usp=drivesdk) · `053_00-01-50.png`
 
 *document*
 
@@ -132,7 +132,7 @@ Instagram example URL: https://www.instagram.com/p/DBs1mjjApc3/
 
 ## [00:01:55] Slideshow Video Ad Example: 18 Chestnuts
 
-frame: 053_00-01-55.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:01:55](https://drive.google.com/file/d/1k6krJZBfC4bjQljf2IgX7Qe1xrfTVEzv/view?usp=drivesdk) · `053_00-01-55.png`
 
 *ad example*
 
@@ -146,7 +146,7 @@ Video ad playing: soup poured into a bowl. On-screen text: "Hi, I'm Ilona, the f
 
 ## [00:02:00] Slideshow Video Ad Example: Founder Story Hook
 
-frame: 053_00-02-00.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:02:00](https://drive.google.com/file/d/1O6H5QDkAzjR8nzELqM97UaAihEC1eo8P/view?usp=drivesdk) · `053_00-02-00.png`
 
 *ad example*
 
@@ -160,7 +160,7 @@ Video ad image showing portrait of Ilona. Text overlay: "Suffering from stomach 
 
 ## [00:02:05] Slideshow Video Ad Example: Kitchen Prep Clip
 
-frame: 053_00-02-05.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:02:05](https://drive.google.com/file/d/1LjX-cEXsGcz85OKAuhSAlTCSOVyTE0-P/view?usp=drivesdk) · `053_00-02-05.png`
 
 *ad example*
 
@@ -174,7 +174,7 @@ Video ad showing founder chopping ingredients in a kitchen. Text overlay: "I kne
 
 ## [00:02:10] Slideshow Video Ad Example: Founder Holding Products
 
-frame: 053_00-02-10.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:02:10](https://drive.google.com/file/d/186a6a9eHA3_PQY9qm3FXZ9LiVcv2kVFr/view?usp=drivesdk) · `053_00-02-10.png`
 
 *ad example*
 
@@ -188,7 +188,7 @@ Photo of founder holding soup jars. Subtitle: "And so I attended Cornell univers
 
 ## [00:02:15] Slideshow Video Ad Example: Speaking to Camera with Product
 
-frame: 053_00-02-15.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:02:15](https://drive.google.com/file/d/1-XU62d4MhxBSuUINSUPuPuat8vRNAMQj/view?usp=drivesdk) · `053_00-02-15.png`
 
 *ad example*
 
@@ -202,7 +202,7 @@ Video clip of founder at counter with soup jar and ingredients. Subtitle: "I too
 
 ## [00:02:30] Ad Formats Document: Authentic UGC and Professional Shot Video
 
-frame: 053_00-02-30.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:02:30](https://drive.google.com/file/d/13DzK-vdMBx-AXDikl4fcsj3iE9I-QurU/view?usp=drivesdk) · `053_00-02-30.png`
 
 *document*
 
@@ -230,7 +230,7 @@ Example link "https://www.instagram.com/p/DBs1mjjApc3/", filename "CR8TIVE - Nur
 
 ## [00:02:45] Authentic UGC Talking Head Instagram Ad Example: wearsilky_official
 
-frame: 053_00-02-45.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:02:45](https://drive.google.com/file/d/1SGFkHkH6HvtsJzVjz1dfV2gXFbiWUKMC/view?usp=drivesdk) · `053_00-02-45.png`
 
 *social post*
 
@@ -246,7 +246,7 @@ Account name "wearsilky_official", caption "Stays On All Night / Wake Up to Smoo
 
 ## [00:03:00] Professional Shot Video Example: Kettle Opening Shot
 
-frame: 053_00-03-00.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:03:00](https://drive.google.com/file/d/1b3txjJAdXl4JPaRtcTNGs5X6-3J-hkyt/view?usp=drivesdk) · `053_00-03-00.png`
 
 *ad example*
 
@@ -260,7 +260,7 @@ Video player playing "CR8TIVE - Nurojit Video 1.mov". Close-up shot of a black c
 
 ## [00:03:05] Professional Shot Video Example: Pouring Tea Step #1
 
-frame: 053_00-03-05.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:03:05](https://drive.google.com/file/d/19xP0CnnZWp0vQrfL1HTysnV1QZF_E4sA/view?usp=drivesdk) · `053_00-03-05.png`
 
 *ad example*
 
@@ -274,7 +274,7 @@ Professional video ad scene: pouring liquid into a glass cup. On-screen text: "#
 
 ## [00:03:10] Professional Shot Video Example: Product Holding
 
-frame: 053_00-03-10.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:03:10](https://drive.google.com/file/d/1zBKFQKAanOd_i5MtKUMf5jv5PQdujGGM/view?usp=drivesdk) · `053_00-03-10.png`
 
 *ad example*
 
@@ -284,7 +284,7 @@ Professional video ad scene: person holding a small dark glass jar product with 
 
 ## [00:03:15] Professional Shot Video Example: Shilajit Resin Jar Dipping
 
-frame: 053_00-03-15.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:03:15](https://drive.google.com/file/d/1A3VEG_aaPBwaJS8fblKJV5-lrE-amdju/view?usp=drivesdk) · `053_00-03-15.png`
 
 *ad example*
 
@@ -298,7 +298,7 @@ Brand and product label on jar: 'NUROJIT SHILAJIT Resin'. Video filename: 'CR8TI
 
 ## [00:03:20] Professional Shot Video Example: Step #2 Mix Together
 
-frame: 053_00-03-20.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:03:20](https://drive.google.com/file/d/1BOBAJg-K0U5BRwUiP_r-nik-uxFz4K6A/view?usp=drivesdk) · `053_00-03-20.png`
 
 *ad example* | legibility: partly legible
 
@@ -312,7 +312,7 @@ On-screen text: '#2 Mix together'.
 
 ## [00:03:25] Professional Shot Video Example: All-Day Energy Boost Ready
 
-frame: 053_00-03-25.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:03:25](https://drive.google.com/file/d/1kfdoH76P0lsbRPU2mDKVENRv2-2bt3UV/view?usp=drivesdk) · `053_00-03-25.png`
 
 *ad example*
 
@@ -326,7 +326,7 @@ On-screen headline: 'All-day energy boost ready.'
 
 ## [00:03:40] Document: Animation and Static Graphic/Design Image Formats
 
-frame: 053_00-03-40.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:03:40](https://drive.google.com/file/d/1PKkd5MRsU7pX3kLPHG1qagJbHdQFH4io/view?usp=drivesdk) · `053_00-03-40.png`
 
 *document*
 
@@ -361,7 +361,7 @@ Animation example URL: https://ff.io/tRROIcOJ. Bullet text details under Animati
 
 ## [00:04:10] Animation Ad Example: Explained By Ducks
 
-frame: 053_00-04-10.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:04:10](https://drive.google.com/file/d/15T0UXo7A5IAA6eu8u7PTRGNRC28-PSzg/view?usp=drivesdk) · `053_00-04-10.png`
 
 *ad example*
 
@@ -379,7 +379,7 @@ Batch name: 'BATCH#20 - Explained By Ducks'. Text overlay: 'Other ducks glide pa
 
 ## [00:05:00] Document: Static Graphic Ad Examples and Product Photography Intro
 
-frame: 053_00-05-00.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:05:00](https://drive.google.com/file/d/1c1V2mdm9ZqzZteTriFjp2FTkW3MSLf5F/view?usp=drivesdk) · `053_00-05-00.png`
 
 *document*
 
@@ -401,7 +401,7 @@ Carepod ad copy comparison elements; Flow ad copy: 'GET 3 CANS FREE'. Product ph
 
 ## [00:05:20] Document: Product Photography + Headline Ad Examples and Infographics
 
-frame: 053_00-05-20.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:05:20](https://drive.google.com/file/d/16hsyMNdotf6dQlkZppsk9KCxA7gQ3qb2/view?usp=drivesdk) · `053_00-05-20.png`
 
 *document*
 
@@ -429,7 +429,7 @@ Full copy of '12-HOUR SHIFT SHOES' ad; Ad headline: 'The Manhattan City Runner';
 
 ## [00:05:25] Document: Infographic Designs and Native-Style Image Formats
 
-frame: 053_00-05-25.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:05:25](https://drive.google.com/file/d/1OI9gtHt48nJEJQ3T0SmEZoUSI0apRyko/view?usp=drivesdk) · `053_00-05-25.png`
 
 *document*
 
@@ -453,7 +453,7 @@ Example text in bullet: "Example: '3 Steps to Better Sleep' with icons and text"
 
 ## [00:06:10] Document: Native-Style Image and Quote/Text-Heavy Image Formats
 
-frame: 053_00-06-10.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:06:10](https://drive.google.com/file/d/1c-1h1dfxkEKtSgq48oX2qcJyUlotP3T0/view?usp=drivesdk) · `053_00-06-10.png`
 
 *document*
 
@@ -482,7 +482,7 @@ Example:
 
 ## [00:06:45] Document: Quote/Text-Heavy Image and Collage Style Formats
 
-frame: 053_00-06-45.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:06:45](https://drive.google.com/file/d/1ZKxVmU-pZFCHM-cNsBl7RIWU0vDFPR1v/view?usp=drivesdk) · `053_00-06-45.png`
 
 *document*
 
@@ -507,7 +507,7 @@ Collage style bullet points: "Grid layouts or scattered arrangement", "Shows mul
 
 ## [00:07:10] Document: Quote/Text-Heavy Image Ad Format with Examples
 
-frame: 053_00-07-10.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:07:10](https://drive.google.com/file/d/1WOQXvl3mpKsCMnYHjxMzDJIjL-4X20Th/view?usp=drivesdk) · `053_00-07-10.png`
 
 *document* | legibility: partly legible
 
@@ -528,7 +528,7 @@ Full text on first ad: "Eat This 1 Vitamin for Immediate Sciatic Nerve Pain Reli
 
 ## [00:07:30] Document: Collage Style and UGC Image Ad Formats
 
-frame: 053_00-07-30.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:07:30](https://drive.google.com/file/d/1zhYe8f0D93hzjsAa3JfkSJb8flZCINq7/view?usp=drivesdk) · `053_00-07-30.png`
 
 *document*
 
@@ -556,7 +556,7 @@ Grüns ad quadrant details: "Ozempic's New Bestie", "21+ Vitamins & Minerals", "
 
 ## [00:08:10] Document: UGC Image Ad Examples
 
-frame: 053_00-08-10.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:08:10](https://drive.google.com/file/d/1bzacrUTC-X8zVWy5uhQWPMD2JLrSsGtC/view?usp=drivesdk) · `053_00-08-10.png`
 
 *document*
 
@@ -577,7 +577,7 @@ Specific text written on face in Photo 1: "Drain Double Chin In 3 Days". Overlay
 
 ## [00:08:50] Document: Meme-Style Image Ad Format with Examples
 
-frame: 053_00-08-50.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:08:50](https://drive.google.com/file/d/1y00hrqdfNpjKbBEBGoMsSok3dBlemEWf/view?usp=drivesdk) · `053_00-08-50.png`
 
 *document*
 
@@ -602,7 +602,7 @@ Flow Pouches expanding brain meme comparison lines: "QUITTING NIC COLD TURKEY", 
 
 ## [00:08:55] Imgflip Meme Generator Interface
 
-frame: 053_00-08-55.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:08:55](https://drive.google.com/file/d/1Vn9lWB_ncQAbBw1btYrnjkmPZNKEAgWj/view?usp=drivesdk) · `053_00-08-55.png`
 
 *software demo*
 
@@ -620,7 +620,7 @@ UI layout of imgflip.com/memegenerator; template name: "Put It Somewhere Else Pa
 
 ## [00:09:05] Imgflip Meme Example: Change My Mind
 
-frame: 053_00-09-05.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:09:05](https://drive.google.com/file/d/1XLgxQJGOMKxMdC7paqBkDqrZkEp9b6Cc/view?usp=drivesdk) · `053_00-09-05.png`
 
 *webpage*
 
@@ -634,7 +634,7 @@ User 'AnimatronicGamer02', 7,874 views, 71 upvotes, tags: memes, change my mind
 
 ## [00:09:30] Imgflip Meme Generator Creating an Ad Mockup
 
-frame: 053_00-09-30.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:09:30](https://drive.google.com/file/d/1IBgRfJnzcXw_fs8IViu5UEUR-x2WDnbz/view?usp=drivesdk) · `053_00-09-30.png`
 
 *software demo*
 
@@ -648,7 +648,7 @@ Options: 'Upload new template', 'Generate Meme', 'Add Image', 'Draw', 'Private',
 
 ## [00:10:05] Video Formats Overview Document
 
-frame: 053_00-10-05.png (Drive: https://drive.google.com/file/d/11qP-NRKAUj5YWPQLC2N1lL4zly3i1DJQ/view?usp=drivesdk)
+[frame 00:10:05](https://drive.google.com/file/d/1E7cDZ8JxV3pzVhIM2L8PGk4JL02eV0qv/view?usp=drivesdk) · `053_00-10-05.png`
 
 *document*
 

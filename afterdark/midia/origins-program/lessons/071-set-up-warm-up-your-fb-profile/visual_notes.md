@@ -1,14 +1,14 @@
 # 71. Set Up & Warm Up Your FB Profile - Visual notes
 
 - **Frames kept:** 2 of 4 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 724x480 (native), PNG frames in Google Drive as [071-set-up-warm-up-your-fb-profile-frames.zip](https://drive.google.com/file/d/1Bo83QwiOwFVMQ2_WmQ35Y32KiWoY4-tG/view?usp=drivesdk)
+- **Resolution:** 724x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/071-set-up-warm-up-your-fb-profile](https://drive.google.com/drive/folders/15xBVyBj269Fr8pXiitXyK_zHtmO0cAiG)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:20] Facebook feed browsing during profile warmup demo
 
-frame: 071_00-00-20.png (Drive: https://drive.google.com/file/d/1Bo83QwiOwFVMQ2_WmQ35Y32KiWoY4-tG/view?usp=drivesdk)
+[frame 00:00:20](https://drive.google.com/file/d/17pW4kes4CcDt6Spxt2tUTO2H3fWObjxo/view?usp=drivesdk) · `071_00-00-20.png`
 
 *software demo*
 
@@ -22,7 +22,7 @@ Left sidebar shortcuts: 'BM Backup for origins', 'Professional dashboard', 'Ads 
 
 ## [00:00:25] Engaging and commenting on a Facebook post
 
-frame: 071_00-00-25.png (Drive: https://drive.google.com/file/d/1Bo83QwiOwFVMQ2_WmQ35Y32KiWoY4-tG/view?usp=drivesdk)
+[frame 00:00:25](https://drive.google.com/file/d/1eWvx2HLila7YYs0UFeqW9Vbfxkh8TmS8/view?usp=drivesdk) · `071_00-00-25.png`
 
 *software demo*
 

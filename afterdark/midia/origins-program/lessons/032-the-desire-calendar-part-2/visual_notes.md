@@ -1,14 +1,14 @@
 # 32. The Desire Calendar - Part 2 - Visual notes
 
 - **Frames kept:** 15 of 40 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [032-the-desire-calendar-part-2-frames.zip](https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/032-the-desire-calendar-part-2](https://drive.google.com/drive/folders/1aISGN12vNBmpstKaK_StF_ECOzYbCrwf)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:15] The Evidence-Based Desire Calendar: January Overview
 
-frame: 032_00-00-15.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:00:15](https://drive.google.com/file/d/15LImpyvkpeb2qJO_qRFr4Abws60NYU4D/view?usp=drivesdk) · `032_00-00-15.png`
 
 *document*
 
@@ -35,7 +35,7 @@ All text details for January: specific percentages (47% spike in gym visits, 35-
 
 ## [00:00:25] January Consumer Data and Desires
 
-frame: 032_00-00-25.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:00:25](https://drive.google.com/file/d/1tLdD3F9isj1zgFk7_lqhc1hO5LbezK_k/view?usp=drivesdk) · `032_00-00-25.png`
 
 *document*
 
@@ -52,7 +52,7 @@ The Data bullet points: 12% of all gym memberships start in January with 25-30% 
 
 ## [00:00:30] December: Connection & Celebration Desires
 
-frame: 032_00-00-30.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:00:30](https://drive.google.com/file/d/1jIdc2bZUk-TrNTAewiIONPJFoO6bVmZn/view?usp=drivesdk) · `032_00-00-30.png`
 
 *document*
 
@@ -79,7 +79,7 @@ All specific metrics and points for December: $240.8B total holiday spending, $2
 
 ## [00:00:35] February: Relationship & Self-Love Desires
 
-frame: 032_00-00-35.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:00:35](https://drive.google.com/file/d/1sOUiDh4kXxSVXU_lt9-cmNmsXVyRjGPk/view?usp=drivesdk) · `032_00-00-35.png`
 
 *document*
 
@@ -108,7 +108,7 @@ All specific February data and breakdown: $27.5B spending in 2025 vs $25.8B in 2
 
 ## [00:00:40] July-August: Lifestyle & Preparation Desires
 
-frame: 032_00-00-40.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:00:40](https://drive.google.com/file/d/1scORcBLZrn7Eb5vulRuGH6xU4b9vgbhu/view?usp=drivesdk) · `032_00-00-40.png`
 
 *document*
 
@@ -128,7 +128,7 @@ Detailed bullet points for July-August: 3.1 average trips per person, $128B back
 
 ## [00:02:10] September: Achievement & Structure Desires
 
-frame: 032_00-02-10.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:02:10](https://drive.google.com/file/d/1ES1gVLYBwXthjhAOqf9Rf8nHjVLHTAqH/view?usp=drivesdk) · `032_00-02-10.png`
 
 *document*
 
@@ -155,7 +155,7 @@ Combined spending figure of $127.6B (spoken as 127B), Back-to-school $38.8 billi
 
 ## [00:03:55] September Data Points
 
-frame: 032_00-03-55.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:03:55](https://drive.google.com/file/d/1y1IM1XuudMJ3Sd25vaI7fCz1Fw5oYO2-/view?usp=drivesdk) · `032_00-03-55.png`
 
 *document*
 
@@ -172,7 +172,7 @@ Exact figure $38.8 billion for back-to-school shoppers; "second-highest on recor
 
 ## [00:07:00] July-August: Core Desires, Opportunities, and Consumer Data
 
-frame: 032_00-07-00.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:07:00](https://drive.google.com/file/d/1DVnyYjXxOZJlc_i_xuQbA3fhPmyctfa5/view?usp=drivesdk) · `032_00-07-00.png`
 
 *document*
 
@@ -193,7 +193,7 @@ Swimwear and beach accessories dominate, while school supply shopping begins ear
 
 ## [00:07:35] September: Core Desires and Fall Messaging Opportunity
 
-frame: 032_00-07-35.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:07:35](https://drive.google.com/file/d/1awK8oM82dff4cN_wQ1pG_BuetvcBW8-Z/view?usp=drivesdk) · `032_00-07-35.png`
 
 *document*
 
@@ -221,7 +221,7 @@ Lead with CONTROL ("Take charge of your fall routine") then layer STATUS ("Be th
 
 ## [00:11:30] October and November Desires and Market Data
 
-frame: 032_00-11-30.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:11:30](https://drive.google.com/file/d/1v3sUNvvXOIjoGqnPXNEDxr9UOImBPSCa/view?usp=drivesdk) · `032_00-11-30.png`
 
 *document*
 
@@ -253,7 +253,7 @@ TOP 3 PRIORITY DESIRES & WHY:
 
 ## [00:12:45] November and December Consumer Desires and Data
 
-frame: 032_00-12-45.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:12:45](https://drive.google.com/file/d/1hqxeUxnEy-D3Xb56-WEMv-B-XPTnm4xG/view?usp=drivesdk) · `032_00-12-45.png`
 
 *document*
 
@@ -284,7 +284,7 @@ Detailed stats under November Data (10.2% increase, 200 million shoppers, 73% pl
 
 ## [00:13:50] January: Transformation Desires Peak
 
-frame: 032_00-13-50.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:13:50](https://drive.google.com/file/d/1dDqseWWIn81jM1UwBbvQz-d9mEE4LtZ7/view?usp=drivesdk) · `032_00-13-50.png`
 
 *document*
 
@@ -316,7 +316,7 @@ The Data:
 
 ## [00:14:25] February: Relationship & Self-Love Desires and March-April Intro
 
-frame: 032_00-14-25.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:14:25](https://drive.google.com/file/d/1KmxatFoOWzaDghy1ZYfE47fyjr4PKASh/view?usp=drivesdk) · `032_00-14-25.png`
 
 *document*
 
@@ -354,7 +354,7 @@ March-April section top desires text (Control, Health, Belonging with $8,306 ave
 
 ## [00:15:25] May: Appreciation & Memorial Desires
 
-frame: 032_00-15-25.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:15:25](https://drive.google.com/file/d/1TBO4ULVepW8I4za8jkwGK034lQXFy805/view?usp=drivesdk) · `032_00-15-25.png`
 
 *document*
 
@@ -386,7 +386,7 @@ Mother's Day spending figure of $34.1 billion in 2025 with $259.04 average spend
 
 ## [00:16:10] Spending Intensity Rankings and Holiday Data
 
-frame: 032_00-16-10.png (Drive: https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+[frame 00:16:10](https://drive.google.com/file/d/1rkCVx0mZUNDI_EJbpCo-sj2asqUCKqsH/view?usp=drivesdk) · `032_00-16-10.png`
 
 *document*
 

@@ -1,14 +1,14 @@
 # 51. The 3 Testing Methods - Part 1 (Origins Version) - Visual notes
 
 - **Frames kept:** 15 of 57 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [051-the-3-testing-methods-part-1-origins-version-frames.zip](https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/051-the-3-testing-methods-part-1-origins-version](https://drive.google.com/drive/folders/1PLOV-BQrfYwxriFefAHUUg-fsLbGA0mm)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:01:40] The 3 Testing Methods overview and Marksman Method intro
 
-frame: 051_00-01-40.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:01:40](https://drive.google.com/file/d/1aQNAJ7EnnbH1H8Mm13Gtkoh5hPBs7zZ5/view?usp=drivesdk) · `051_00-01-40.png`
 
 *document*
 
@@ -39,7 +39,7 @@ Google Docs document title: 'Official - Avatar Mastery for Shopify Brands: The M
 
 ## [00:02:50] Pros, cons, and definition of the Marksman Method
 
-frame: 051_00-02-50.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:02:50](https://drive.google.com/file/d/1UcCj_HhStb_tjEPI8GMYhgQm7Q52cBSq/view?usp=drivesdk) · `051_00-02-50.png`
 
 *document*
 
@@ -66,7 +66,7 @@ Cons Of The Marksman Method: You aren't always able to test things the best way 
 
 ## [00:03:55] Marksman Method pros, cons, and overall summary
 
-frame: 051_00-03-55.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:03:55](https://drive.google.com/file/d/1YvvTTPF43-Qf67w7fwYFlgxte06G_5r9/view?usp=drivesdk) · `051_00-03-55.png`
 
 *document*
 
@@ -82,7 +82,7 @@ Overall, you're not able to go as deep into a specific ad Angle with the Marksma
 
 ## [00:05:20] Marksman Method image ad examples with superlatives
 
-frame: 051_00-05-20.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:05:20](https://drive.google.com/file/d/1jnlmujf2lqOv3hXZ_XDEFtFe075pRWCe/view?usp=drivesdk) · `051_00-05-20.png`
 
 *ad example*
 
@@ -99,7 +99,7 @@ Brand name: Carepod (logo visible on ads). Source attribution under text: "Forbe
 
 ## [00:06:45] Ad angle identification framework angles and hooks
 
-frame: 051_00-06-45.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:06:45](https://drive.google.com/file/d/1BmOYJW7ZdPnsAL1DncEqS8IM0qb0FaCH/view?usp=drivesdk) · `051_00-06-45.png`
 
 *document*
 
@@ -127,7 +127,7 @@ Full text of 'Reason to Buy' and hook inspirations/formulas: Hook 1: 'No screens
 
 ## [00:07:10] Ad Definitions: Concept/Batch, Concept/Swing, and Angle
 
-frame: 051_00-07-10.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:07:10](https://drive.google.com/file/d/1UqyhPHQupiLiyLkbrh0LNEC6IhPUWhgL/view?usp=drivesdk) · `051_00-07-10.png`
 
 *document*
 
@@ -161,7 +161,7 @@ Examples for Concept/Batch (Batch #1, Batch #29, Batch #133); examples for Angle
 
 ## [00:07:40] Ad Definitions including 3:2:2 structure
 
-frame: 051_00-07-40.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:07:40](https://drive.google.com/file/d/1D7Z8mOeSgs0wAurDp-rH5KwJ0yblfddx/view?usp=drivesdk) · `051_00-07-40.png`
 
 *document*
 
@@ -189,7 +189,7 @@ Introductory note text; 12-Year-Old Definition and Example explanation for 3:2:2
 
 ## [00:07:45] Ad angle framework: Angle 2, Angle 3, and Testing Priority
 
-frame: 051_00-07-45.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:07:45](https://drive.google.com/file/d/1aUatGD6yHghk500xHYJizKwoVFj-zXhl/view?usp=drivesdk) · `051_00-07-45.png`
 
 *document*
 
@@ -213,7 +213,7 @@ Angle 3 Reason to Buy and Hooks 1-3 details and inspirations; TESTING PRIORITY t
 
 ## [00:09:25] Sniper Method definition and overview
 
-frame: 051_00-09-25.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:09:25](https://drive.google.com/file/d/14xQuNVCfOaiC2EcgqJSnvsiHuseK7qAw/view?usp=drivesdk) · `051_00-09-25.png`
 
 *document*
 
@@ -229,7 +229,7 @@ Sniper Method REALLY crushes once you gain a direction from the Marksman Method 
 
 ## [00:10:05] Sniper Method pros, cons, and limitations
 
-frame: 051_00-10-05.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:10:05](https://drive.google.com/file/d/1l6g8dpizpRBgfca-pWOR1T7a2pIkVpTU/view?usp=drivesdk) · `051_00-10-05.png`
 
 *document*
 
@@ -246,7 +246,7 @@ Detailed cons text: "Much less fluid, restricts creativity, can hold you back fr
 
 ## [00:11:35] How to leverage Marksman and Sniper testing strategies
 
-frame: 051_00-11-35.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:11:35](https://drive.google.com/file/d/1ybhCsqEGiI0wzg8qZrUqADdxy7AWDbb6/view?usp=drivesdk) · `051_00-11-35.png`
 
 *document*
 
@@ -267,7 +267,7 @@ Three-step agency workflow:
 
 ## [00:14:20] The #1 Main Takeaway and Avatar Awareness
 
-frame: 051_00-14-20.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:14:20](https://drive.google.com/file/d/1xGeiVSi0yNQK6h4oFQGraOE-190wSsIK/view?usp=drivesdk) · `051_00-14-20.png`
 
 *document*
 
@@ -307,7 +307,7 @@ When we find angles that pick up traction (aka get spend) we go more into 'singl
 
 ## [00:16:20] Scaling by figuring out why ads win or lose
 
-frame: 051_00-16-20.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:16:20](https://drive.google.com/file/d/12vWlAdCIIzzjQpdcfb0CpLQbP3ZJ8PNL/view?usp=drivesdk) · `051_00-16-20.png`
 
 *document*
 
@@ -337,7 +337,7 @@ Bullet points on broad learnings people incorrectly take ("Videos ads work", "Th
 
 ## [00:16:55] The Shotgun Method and the #1 Mistake Brands Make
 
-frame: 051_00-16-55.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:16:55](https://drive.google.com/file/d/15ZnHR3xp3MCpN7Vh73RgxVHj7UyvpeIm/view?usp=drivesdk) · `051_00-16-55.png`
 
 *document*
 
@@ -373,7 +373,7 @@ Reference to "our Insense product seeding/UGC strategy".
 
 ## [00:19:45] Why volume testing fails on Meta algorithm
 
-frame: 051_00-19-45.png (Drive: https://drive.google.com/file/d/15dMDiF4z-0otPkbDgV8EI1S-wZIrg6aJ/view?usp=drivesdk)
+[frame 00:19:45](https://drive.google.com/file/d/1Id1tybff31SxhOZSOVDt397pRbswfC23/view?usp=drivesdk) · `051_00-19-45.png`
 
 *document*
 

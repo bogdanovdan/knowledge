@@ -1,14 +1,14 @@
 # 86. How to review losing ads - Visual notes
 
 - **Frames kept:** 30 of 137 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [086-how-to-review-losing-ads-frames.zip](https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/086-how-to-review-losing-ads](https://drive.google.com/drive/folders/1t8PpQzE8AGPv8alCM6YZp6F-lEisgzQ8)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:50] Meta Ads Manager Campaign View
 
-frame: 086_00-00-50.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:00:50](https://drive.google.com/file/d/1w_8ogtLFp7BFMLdOUMl7w_tve3_BOLHK/view?usp=drivesdk) · `086_00-00-50.png`
 
 *software demo*
 
@@ -22,7 +22,7 @@ Account name 'Zend Wellness (5603443...)', Opportunity score '86', Preset column
 
 ## [00:02:30] Ad Performance Learnings Template
 
-frame: 086_00-02-30.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:02:30](https://drive.google.com/file/d/1-Qbd3O59vCkyWRvDFoNoxKT4u5OPQxrC/view?usp=drivesdk) · `086_00-02-30.png`
 
 *document*
 
@@ -50,7 +50,7 @@ Document tab named 'SBATCH#1 - Ingredie...'. Frequency listed as 3.00 and CTR li
 
 ## [00:02:40] Meta Ads Manager Customize Columns Modal
 
-frame: 086_00-02-40.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:02:40](https://drive.google.com/file/d/1VGSrN2VgZ8ITp0jVvE2ySskzT6KSsRS-/view?usp=drivesdk) · `086_00-02-40.png`
 
 *software demo*
 
@@ -64,7 +64,7 @@ Modal window in Ads Manager: 'EAM ($)' column preset customization. Left pane ta
 
 ## [00:02:55] Create Custom Metric Formula in Meta Ads
 
-frame: 086_00-02-55.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:02:55](https://drive.google.com/file/d/1XHr9_3BIk4RyBe56xZkcvLRdjEjRcrgE/view?usp=drivesdk) · `086_00-02-55.png`
 
 *software demo*
 
@@ -84,7 +84,7 @@ Field character limits (3/100 for Name, 0/350 for Description). Cancel, 'Create 
 
 ## [00:06:05] Custom Columns Added in Ads Manager
 
-frame: 086_00-06-05.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:06:05](https://drive.google.com/file/d/1G51c3B-0ujTqRySBZT4Wu-VhlZdkP7X7/view?usp=drivesdk) · `086_00-06-05.png`
 
 *software demo*
 
@@ -98,7 +98,7 @@ Purchases conversion value showing $0.00, Purchase ROAS showing 0.00.
 
 ## [00:09:45] Ad Creative Preview for Facebook and Instagram
 
-frame: 086_00-09-45.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:09:45](https://drive.google.com/file/d/153DR_fqykJyv_BOa9GyfOoxbL-NA7ph3/view?usp=drivesdk) · `086_00-09-45.png`
 
 *ad example*
 
@@ -121,7 +121,7 @@ Fine print bullet points on the image graphic (*Increases GLP-1 production by 56
 
 ## [00:10:15] Learnings Document with Ad Result Added
 
-frame: 086_00-10-15.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:10:15](https://drive.google.com/file/d/1ruCqkgQ6GxwpA44a-SYAw0mRcuIvL7H3/view?usp=drivesdk) · `086_00-10-15.png`
 
 *document*
 
@@ -153,7 +153,7 @@ V2:
 
 ## [00:10:50] Learnings document with ad variants tracked
 
-frame: 086_00-10-50.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:10:50](https://drive.google.com/file/d/1JUPFQ1aFwm6Tf8JY3u4FazlLqqDK0wtg/view?usp=drivesdk) · `086_00-10-50.png`
 
 *document*
 
@@ -189,7 +189,7 @@ Google Doc interface and specific metric template format.
 
 ## [00:11:20] Meta Ads Manager showing static ad variations
 
-frame: 086_00-11-20.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:11:20](https://drive.google.com/file/d/1hCBBME5-wahPN-KE8-fzVZn8Cr_ZR6x1/view?usp=drivesdk) · `086_00-11-20.png`
 
 *software demo*
 
@@ -207,7 +207,7 @@ Exact campaign/ad naming convention: 'SBATCH#1 - Ingredient Support - LP: B2G1 P
 
 ## [00:12:20] Ad creative preview: Eating Only 1,200 Calories Is Easy
 
-frame: 086_00-12-20.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:12:20](https://drive.google.com/file/d/1V1tDgXZ3AzTaCGladmX7jO1AXZZySyef/view?usp=drivesdk) · `086_00-12-20.png`
 
 *ad example*
 
@@ -226,7 +226,7 @@ Bullet points on creative: 'Increases GLP-1 production by 56%*', 'Improves natur
 
 ## [00:13:35] Ad creative preview: I Just Ignore My Cravings Now
 
-frame: 086_00-13-35.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:13:35](https://drive.google.com/file/d/1G_rKSkjtt_H35JGyNWHthdeHdmIgtFe_/view?usp=drivesdk) · `086_00-13-35.png`
 
 *ad example*
 
@@ -244,7 +244,7 @@ Specific bullet points on image: 'Increase GLP-1 production by 56%*', 'Reduce co
 
 ## [00:13:40] Ad creative preview: Stop Needing Discipline, Start Lowering Cortisol
 
-frame: 086_00-13-40.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:13:40](https://drive.google.com/file/d/192JFGDKTh94PqE6smDxaoZdtJtP7UyXm/view?usp=drivesdk) · `086_00-13-40.png`
 
 *ad example*
 
@@ -262,7 +262,7 @@ CTA: Shop now
 
 ## [00:17:05] Ad creative preview: Trick Your Stomach Into Staying Full
 
-frame: 086_00-17-05.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:17:05](https://drive.google.com/file/d/1ex2twrqA8YxISmxAjLg8go-zJ-62Nwrk/view?usp=drivesdk) · `086_00-17-05.png`
 
 *ad example*
 
@@ -280,7 +280,7 @@ Ingredient name 'with MetaGlow' below headline. Bullet points: 'Increases GLP-1 
 
 ## [00:19:50] Zend Wellness MetaGlow Collagen Landing Page
 
-frame: 086_00-19-50.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:19:50](https://drive.google.com/file/d/1gn1SvrGvaqoJSrLPrNGsKvLk-uSdtQkG/view?usp=drivesdk) · `086_00-19-50.png`
 
 *product page*
 
@@ -294,7 +294,7 @@ Navigation links (Shop, Metabolic Gummies, Functional Coffee, About), review cou
 
 ## [00:20:25] Origins Program Course Dashboard: 13 Winning Static Ads
 
-frame: 086_00-20-25.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:20:25](https://drive.google.com/file/d/1iANnE_jlYQyRp7unAWEInTmF1GyCoQQN/view?usp=drivesdk) · `086_00-20-25.png`
 
 *software demo*
 
@@ -308,7 +308,7 @@ Canva template URLs (DAGv0-DtoyY...), sidebar module structure ('Origins Mindset
 
 ## [00:20:30] Winning Ads Templates Title Slide in Canva
 
-frame: 086_00-20-30.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:20:30](https://drive.google.com/file/d/1cNAUviU9qmwp1j83_Yy82xmmNXHwTk-A/view?usp=drivesdk) · `086_00-20-30.png`
 
 *slide*
 
@@ -322,7 +322,7 @@ Thumbnail titles across the bottom slide strip.
 
 ## [00:20:45] Ad Framework: Avatar Call Out Ad
 
-frame: 086_00-20-45.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:20:45](https://drive.google.com/file/d/1ABk7S_nuq2OK0gFDqdohe4obRtnFsuLW/view?usp=drivesdk) · `086_00-20-45.png`
 
 *slide*
 
@@ -341,7 +341,7 @@ Review text: 'I've never seen something work this well before. My 15 year old so
 
 ## [00:21:10] Ad Framework: Solution Exaggeration
 
-frame: 086_00-21-10.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:21:10](https://drive.google.com/file/d/1jrWDG49xe5P8JFDkQgi-xkqvBJbkQ3ED/view?usp=drivesdk) · `086_00-21-10.png`
 
 *slide*
 
@@ -359,7 +359,7 @@ Exact bullet points on ad visual: 'Reduces Swelling & Inflammation', 'Improves B
 
 ## [00:21:45] Ad Framework: Stealing Credibility
 
-frame: 086_00-21-45.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:21:45](https://drive.google.com/file/d/1ctpTdMqPrzoMR_DA2txetcAJ-u3GzB_R/view?usp=drivesdk) · `086_00-21-45.png`
 
 *slide*
 
@@ -377,7 +377,7 @@ Full text of points 1, 2, 3; ad headline 'Ozempic's New Bestie'; Grüns brand pr
 
 ## [00:22:15] Ad preview: I Just Ignore My Cravings Now
 
-frame: 086_00-22-15.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:22:15](https://drive.google.com/file/d/1b_TjEKHRHc1qXtGnCwoquA0t-F6jBTA_/view?usp=drivesdk) · `086_00-22-15.png`
 
 *software demo*
 
@@ -395,7 +395,7 @@ Bullet points: 'Increase GLP-1 production by 56%*', 'Reduce constant hunger sign
 
 ## [00:22:30] Ad Framework: This Is Not [The Product]
 
-frame: 086_00-22-30.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:22:30](https://drive.google.com/file/d/1R3iqVGD2xYdMlyRAZpopagEqwZSxC7Gt/view?usp=drivesdk) · `086_00-22-30.png`
 
 *slide*
 
@@ -414,7 +414,7 @@ Bullet points under 'WHY THIS AD WORKS' verbatim; exact Huel callouts: '40g prot
 
 ## [00:22:55] Ad Framework: Specific Pain Point Ad
 
-frame: 086_00-22-55.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:22:55](https://drive.google.com/file/d/1lmBTs5iBK29-tj8N_CFKwB8bUi8i-CET/view?usp=drivesdk) · `086_00-22-55.png`
 
 *slide*
 
@@ -433,7 +433,7 @@ Bullet points 2 and 3 under 'WHY THIS AD WORKS'; RYZE ad details: '2000 MG Adapt
 
 ## [00:23:15] Ad Framework: The Free Ad
 
-frame: 086_00-23-15.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:23:15](https://drive.google.com/file/d/1yTmy99voSvAjSXe8gqwy1I0sOPxwWYp_/view?usp=drivesdk) · `086_00-23-15.png`
 
 *slide*
 
@@ -453,7 +453,7 @@ All 4 numbered bullets under 'WHY THIS AD WORKS' and all specific outcome tags (
 
 ## [00:23:45] Learnings Document Template in Google Docs
 
-frame: 086_00-23-45.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:23:45](https://drive.google.com/file/d/1QXx3j3bkM6--rwT46eV1YAuBGJtBGLW-/view?usp=drivesdk) · `086_00-23-45.png`
 
 *document*
 
@@ -490,7 +490,7 @@ Metrics listed: Frequency: 3.00, CTR: 0.75%, % of spend: 2.17%; placeholders for
 
 ## [00:23:50] Zend Wellness Early Black Friday Sale Landing Page
 
-frame: 086_00-23-50.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:23:50](https://drive.google.com/file/d/13fhpgwAyotjjVkLFcUvqP6uSLUXqdUkC/view?usp=drivesdk) · `086_00-23-50.png`
 
 *product page*
 
@@ -511,7 +511,7 @@ Shows the Zend Wellness landing page/offer page for MetaGlow Collagen and Metabo
 
 ## [00:23:55] Ad Concept Testing Tracker: 1,200 Calories Iteration
 
-frame: 086_00-23-55.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:23:55](https://drive.google.com/file/d/1ZI0tELW69E054hoQbRFO-1HudvNtNGrt/view?usp=drivesdk) · `086_00-23-55.png`
 
 *spreadsheet*
 
@@ -533,7 +533,7 @@ Details in spreadsheet showing Batch #1 (Done), Batch #2 (Learning), Batch #3 (W
 
 ## [00:24:00] Ad Test Hypothesis and Rationale in Google Sheets
 
-frame: 086_00-24-00.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:24:00](https://drive.google.com/file/d/1tDCqp1jBhxZSqXSj4G9RPiUyKjPIhb_k/view?usp=drivesdk) · `086_00-24-00.png`
 
 *spreadsheet*
 
@@ -550,7 +550,7 @@ Full written hypothesis text in the spreadsheet justifying the test and avatar p
 
 ## [00:24:15] Ad Test Notes and Video Hooks Plan
 
-frame: 086_00-24-15.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:24:15](https://drive.google.com/file/d/1Lw3WRWaLlu7qMQNWKf1S3D_J6X7llOV3/view?usp=drivesdk) · `086_00-24-15.png`
 
 *spreadsheet*
 
@@ -567,7 +567,7 @@ Shows the specific hook drafted: 'What If Your Stomach Stayed Full For 6 Hours I
 
 ## [00:24:30] Facebook and Instagram Ad Preview: Eating Only 1,200 Calories Is Easy
 
-frame: 086_00-24-30.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:24:30](https://drive.google.com/file/d/1DDeOCytrOSTHi16LClzcropDT1gPgC__/view?usp=drivesdk) · `086_00-24-30.png`
 
 *ad example*
 
@@ -590,7 +590,7 @@ Full ad copy, specific bullet points (+56% GLP-1 production, fullness signals, c
 
 ## [00:24:55] Learnings Document with Metrics and Action Plan
 
-frame: 086_00-24-55.png (Drive: https://drive.google.com/file/d/1bU63BL-tLUQ1pBtAyjVtJ4IR5gFqvovE/view?usp=drivesdk)
+[frame 00:24:55](https://drive.google.com/file/d/1j1XGLZgRrhxjHDkFRCrfksEfcHLm1MT6/view?usp=drivesdk) · `086_00-24-55.png`
 
 *document*
 

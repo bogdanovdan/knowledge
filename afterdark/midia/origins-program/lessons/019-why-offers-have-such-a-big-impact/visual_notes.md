@@ -1,14 +1,14 @@
 # 19. Why offers have such a big impact - Visual notes
 
 - **Frames kept:** 7 of 42 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [019-why-offers-have-such-a-big-impact-frames.zip](https://drive.google.com/file/d/1njTgo-gqgAMGf6vFEmvTPUbEAdQiHNqx/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/019-why-offers-have-such-a-big-impact](https://drive.google.com/drive/folders/1RKtyqxFecni8qnnAzBzDLf3WDOhCOUpg)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:45] Origins Portal: How one offer can 2x ad spend and 3x ROAS lesson view
 
-frame: 019_00-00-45.png (Drive: https://drive.google.com/file/d/1njTgo-gqgAMGf6vFEmvTPUbEAdQiHNqx/view?usp=drivesdk)
+[frame 00:00:45](https://drive.google.com/file/d/1gtkAS3lOJdGmY5Drtn4f7XVE_jy2ZrQy/view?usp=drivesdk) · `019_00-00-45.png`
 
 *webpage*
 
@@ -36,7 +36,7 @@ Discount code 'EASYA15' and PageDeck pricing details ($126.65/mo with coupon). D
 
 ## [00:02:05] Client A: Spent $95k profitably on LP testing campaigns
 
-frame: 019_00-02-05.png (Drive: https://drive.google.com/file/d/1njTgo-gqgAMGf6vFEmvTPUbEAdQiHNqx/view?usp=drivesdk)
+[frame 00:02:05](https://drive.google.com/file/d/1Ab4xmwjGX5lq7hwuHuJlvpSb3oF69NoS/view?usp=drivesdk) · `019_00-02-05.png`
 
 *slide*
 
@@ -69,7 +69,7 @@ Exact campaign metrics: total purchases conversion value ($377,292.92), ROAS (3.
 
 ## [00:02:35] Client B: Scaling after finding winning LP/offer
 
-frame: 019_00-02-35.png (Drive: https://drive.google.com/file/d/1njTgo-gqgAMGf6vFEmvTPUbEAdQiHNqx/view?usp=drivesdk)
+[frame 00:02:35](https://drive.google.com/file/d/14OxCv0Dge1TZCuG3jVctVyWb9t1GxOHw/view?usp=drivesdk) · `019_00-02-35.png`
 
 *slide*
 
@@ -106,7 +106,7 @@ Exact dates (Aug 1-31 vs Sep 1-30, 2024), exact spend amounts ($13,026.63 vs $35
 
 ## [00:03:05] Client C: Scaling to $56k day pre-BFCM with LP testing
 
-frame: 019_00-03-05.png (Drive: https://drive.google.com/file/d/1njTgo-gqgAMGf6vFEmvTPUbEAdQiHNqx/view?usp=drivesdk)
+[frame 00:03:05](https://drive.google.com/file/d/1wVJ3puFrMU1UZ4VezZyaDTGIlDS1BYcq/view?usp=drivesdk) · `019_00-03-05.png`
 
 *slide*
 
@@ -137,7 +137,7 @@ Total conversion value ($299,252.57) and purchases count (4,433) across the $128
 
 ## [00:03:25] ROAS formula showing impact of CR, AOV, and CTR
 
-frame: 019_00-03-25.png (Drive: https://drive.google.com/file/d/1njTgo-gqgAMGf6vFEmvTPUbEAdQiHNqx/view?usp=drivesdk)
+[frame 00:03:25](https://drive.google.com/file/d/1JU8aRUN20Pm8rMlvBLNP2VY2E-VE3qhW/view?usp=drivesdk) · `019_00-03-25.png`
 
 *slide*
 
@@ -157,7 +157,7 @@ The explicit mathematical formula: ROAS = (CR * AOV * CTR) / (CPM * 1,000)
 
 ## [00:03:30] Good Ad CRO - Congruence example with 18 Chestnuts
 
-frame: 019_00-03-30.png (Drive: https://drive.google.com/file/d/1njTgo-gqgAMGf6vFEmvTPUbEAdQiHNqx/view?usp=drivesdk)
+[frame 00:03:30](https://drive.google.com/file/d/1rpw5ZHjgqm81F9IVQTrNIVV7RlIOp-HW/view?usp=drivesdk) · `019_00-03-30.png`
 
 *slide* | legibility: partly legible
 
@@ -175,7 +175,7 @@ Brand shown: "18 Chestnuts", specific headlines: "Stomach issues? There's a soup
 
 ## [00:03:40] Origins portal: Full Live Webinar Of $0-$100k/Month resource page
 
-frame: 019_00-03-40.png (Drive: https://drive.google.com/file/d/1njTgo-gqgAMGf6vFEmvTPUbEAdQiHNqx/view?usp=drivesdk)
+[frame 00:03:40](https://drive.google.com/file/d/10o5wPqrLGUXIS6rbKPP7mO0oK6l0CdBI/view?usp=drivesdk) · `019_00-03-40.png`
 
 *webpage* | legibility: partly legible
 

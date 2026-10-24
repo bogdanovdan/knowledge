@@ -1,14 +1,14 @@
 # 57. How to create image ads - part 1 - Visual notes
 
 - **Frames kept:** 69 of 142 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [057-how-to-create-image-ads-part-1-frames.zip](https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/057-how-to-create-image-ads-part-1](https://drive.google.com/drive/folders/1jPxNsDo1o5RRwlr1sB25GXwSbd6nGTb_)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:30] Collagen Brand Master Document - Product Overview
 
-frame: 057_00-00-30.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:00:30](https://drive.google.com/file/d/1EKTeA48SJCjQZvBlPRj9PhUtfMkB_AGp/view?usp=drivesdk) · `057_00-00-30.png`
 
 *document*
 
@@ -36,7 +36,7 @@ Full text of Step 1 and Step 2, pricing ($59 / $47.20 / $39), specific ingredien
 
 ## [00:01:05] Angle Identifier Framework and Definitions
 
-frame: 057_00-01-05.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:01:05](https://drive.google.com/file/d/1v_Y2yrMMid5QKOveRy0QmQi6qHc-E7KN/view?usp=drivesdk) · `057_00-01-05.png`
 
 *document*
 
@@ -67,7 +67,7 @@ Definitions of Concept vs Angle, detailed explanations of bad examples (Us vs Th
 
 ## [00:01:15] Ad Angle Example: Don't Sacrifice Things You Like
 
-frame: 057_00-01-15.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:01:15](https://drive.google.com/file/d/1PpBeDr2h1RJXSFbHxw30s56zN7UFOEEc/view?usp=drivesdk) · `057_00-01-15.png`
 
 *ad example*
 
@@ -98,7 +98,7 @@ Full breakdown of the Huel ad example: headline, tags, reasoning ('dieting' sacr
 
 ## [00:01:20] Collagen Brand Master Document - Avatars and Copy Quotes
 
-frame: 057_00-01-20.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:01:20](https://drive.google.com/file/d/1RCH5fvVuhdzAnb8uzvYWdUwpcyDARixs/view?usp=drivesdk) · `057_00-01-20.png`
 
 *document*
 
@@ -143,7 +143,7 @@ Sub-avatar breakdowns ('Doesn't Really Know GLP-1 Does', 'Addicted to Junk food'
 
 ## [00:01:40] Claude Output for Stress Eater Sub-Avatar Angles and Hooks
 
-frame: 057_00-01-40.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:01:40](https://drive.google.com/file/d/1CmhAWocMgCmtS3yaxcbBUBbiiRodiJgd/view?usp=drivesdk) · `057_00-01-40.png`
 
 *software demo*
 
@@ -179,7 +179,7 @@ Reason to Buy: When you're not constantly fighting stress-eating urges, you stop
 
 ## [00:04:10] Ad Planning Sheet - Angle and Hook Entry for Batch #1
 
-frame: 057_00-04-10.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:04:10](https://drive.google.com/file/d/1TUBC0ROHQ01o2ljKjXo6tPJjW8swtMHi/view?usp=drivesdk) · `057_00-04-10.png`
 
 *spreadsheet*
 
@@ -203,7 +203,7 @@ Exact column layout and structure of the Growth Guide '25 tracking sheet; exact 
 
 ## [00:04:20] ChatGPT Query on Weight Loss and Cravings Market Sizing
 
-frame: 057_00-04-20.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:04:20](https://drive.google.com/file/d/1kxOMGBhz21w2Y6Z_fetCiBLFpk6SJtBY/view?usp=drivesdk) · `057_00-04-20.png`
 
 *software demo*
 
@@ -220,7 +220,7 @@ CDC data points (74% overweight/obesity, 40% obesity alone), bariatric surgery s
 
 ## [00:04:35] ChatGPT Daily Calorie Intake Estimates for Women 30+
 
-frame: 057_00-04-35.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:04:35](https://drive.google.com/file/d/1aMAHugwywJcj0YMS-0EWRI_xowUYqqjU/view?usp=drivesdk) · `057_00-04-35.png`
 
 *software demo*
 
@@ -236,7 +236,7 @@ The specific breakdown for women 51+ (1,600-2,000 calories/day).
 
 ## [00:05:15] Claude Output for Junk Food Addict Sub-Avatar Angles and Hooks
 
-frame: 057_00-05-15.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:05:15](https://drive.google.com/file/d/18jftlL3PsEMWE-AYzD7iw1s5tFqbbiGD/view?usp=drivesdk) · `057_00-05-15.png`
 
 *software demo*
 
@@ -272,7 +272,7 @@ Reason to Buy explanations, specific hook text and inspiration formulas for Angl
 
 ## [00:05:45] Ad Planning Sheet - Batch #1 Angles and Testing Copy
 
-frame: 057_00-05-45.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:05:45](https://drive.google.com/file/d/1iau53J1DfT7_6woQ4_jcTTGwSHSTdmG9/view?usp=drivesdk) · `057_00-05-45.png`
 
 *spreadsheet*
 
@@ -300,7 +300,7 @@ Exact formatted copy entered into cell G3 for Angle #2.
 
 ## [00:05:55] Claude Output for Appetite Control Angles and Hooks
 
-frame: 057_00-05-55.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:05:55](https://drive.google.com/file/d/1dAIrCelZROGChAvSO1idg2AOThPFCExr/view?usp=drivesdk) · `057_00-05-55.png`
 
 *software demo*
 
@@ -332,7 +332,7 @@ The 'Inspired by' rationales and full 'Reason to Buy' sentences for Angle 2 and 
 
 ## [00:06:30] Ad Planning Sheet - Entering Angle 2 Shut Up Stomach
 
-frame: 057_00-06-30.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:06:30](https://drive.google.com/file/d/13WRb-Vi2OyYiz8spLb5mutflKwCwnOeM/view?usp=drivesdk) · `057_00-06-30.png`
 
 *spreadsheet*
 
@@ -353,7 +353,7 @@ Table structure and layout; exact row values entered for Batch, Author, Ad Conce
 
 ## [00:07:25] Claude Angles and Hooks for GLP-1 Education Sub-Avatar
 
-frame: 057_00-07-25.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:07:25](https://drive.google.com/file/d/1eOql9GZhs04vhFPSCmS1B4SdXBirdPhZ/view?usp=drivesdk) · `057_00-07-25.png`
 
 *software demo*
 
@@ -382,7 +382,7 @@ Testing priority notes explaining Suntheanine ingredient, root cause cortisol me
 
 ## [00:08:05] Drafting Refinement Prompt in Claude for Sub-Avatar 3
 
-frame: 057_00-08-05.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:08:05](https://drive.google.com/file/d/1611gr49vS65qy7pBAYXRmErAUERE1_MJ/view?usp=drivesdk) · `057_00-08-05.png`
 
 *software demo*
 
@@ -402,7 +402,7 @@ Full written prompt including DygloMeta® mechanism detail and exact draft headl
 
 ## [00:08:40] Claude Output - Priority Note and Stress Eater Sub-Avatar
 
-frame: 057_00-08-40.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:08:40](https://drive.google.com/file/d/1qeeK5AZyXB0YPl29dZLT9hhFit3aTL1V/view?usp=drivesdk) · `057_00-08-40.png`
 
 *software demo*
 
@@ -434,7 +434,7 @@ Priority note recommending testing only #1 hook first and layering supporting be
 
 ## [00:09:30] Claude Refined Angles for GLP-1 Mechanism Sub-Avatar
 
-frame: 057_00-09-30.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:09:30](https://drive.google.com/file/d/1FiyxwapPgF3qiGX1d_FkQ2SVHE5eRNEr/view?usp=drivesdk) · `057_00-09-30.png`
 
 *software demo*
 
@@ -466,7 +466,7 @@ Full text of 'Reason to Buy' and 'Inspired by' lines across Angles 1, 2, and 3.
 
 ## [00:10:10] Claude Angle 3 and Refined Testing Strategy
 
-frame: 057_00-10-10.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:10:10](https://drive.google.com/file/d/154vMuldeeHv1aWLyLnaYpksKMDOBwvnO/view?usp=drivesdk) · `057_00-10-10.png`
 
 *software demo*
 
@@ -492,7 +492,7 @@ The 'Refined Testing Strategy' section and its 2-point rationale at the bottom.
 
 ## [00:11:05] Claude Refined Hook Variations for Appetite Control
 
-frame: 057_00-11-05.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:11:05](https://drive.google.com/file/d/16HOjX_FuFnxrweAJhsGRmIsAl0FMXh9b/view?usp=drivesdk) · `057_00-11-05.png`
 
 *software demo*
 
@@ -523,7 +523,7 @@ Option 2, Option 3 copy, and the 4-point bulleted breakdown justifying the recom
 
 ## [00:11:20] Ad Planning Sheet - Batch #1 Selected Angles and Testing Rationale
 
-frame: 057_00-11-20.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:11:20](https://drive.google.com/file/d/1WEdY_m5lH1GUMrd226-p-Ir73HLkdcl2/view?usp=drivesdk) · `057_00-11-20.png`
 
 *spreadsheet*
 
@@ -546,7 +546,7 @@ Cell G3 exact angle and hook notes for testing rationale.
 
 ## [00:11:25] Sample Ad Creative Brief Document Structure
 
-frame: 057_00-11-25.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:11:25](https://drive.google.com/file/d/1HwBBblC8GDMxjiGM_gS9rknIqS6N6C4V/view?usp=drivesdk) · `057_00-11-25.png`
 
 *document*
 
@@ -569,7 +569,7 @@ Dyglomera reference, specific messaging examples, document structure details.
 
 ## [00:11:30] Origins Angle Identifier Reference Examples
 
-frame: 057_00-11-30.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:11:30](https://drive.google.com/file/d/16BX_1MixSpMRmgJRs3uT5ukzfKoUilsM/view?usp=drivesdk) · `057_00-11-30.png`
 
 *document* | legibility: partly legible
 
@@ -592,7 +592,7 @@ Example framework details: 'Don't Sacrifice X For Y' structure and 'Sleeping bet
 
 ## [00:11:45] Copy Document Dialog for Sub-Avatar Ad Brief
 
-frame: 057_00-11-45.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:11:45](https://drive.google.com/file/d/1WI8rGQlVeHStnaimlBN-Kh1j69b8ntq9/view?usp=drivesdk) · `057_00-11-45.png`
 
 *software demo*
 
@@ -609,7 +609,7 @@ Target folder name 'Origins' and exact naming syntax in input field.
 
 ## [00:12:30] Ad Concept Brief Document - Strategy and Testing Setup
 
-frame: 057_00-12-30.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:12:30](https://drive.google.com/file/d/1uvz_Lcvmbo-iWIBMlNDKQtWmCMhXr9pY/view?usp=drivesdk) · `057_00-12-30.png`
 
 *document*
 
@@ -635,7 +635,7 @@ Document template structure (numbered sections 1 to 5 with descriptions).
 
 ## [00:12:50] Winning Ad Template - Solution Exaggeration Example
 
-frame: 057_00-12-50.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:12:50](https://drive.google.com/file/d/1q5xeNILrVJ_mYhsiYSmyuX9AfQXCLLWh/view?usp=drivesdk) · `057_00-12-50.png`
 
 *ad example*
 
@@ -663,7 +663,7 @@ Verbatim bullet points from both the ad creative and the 'WHY THIS AD WORKS' bre
 
 ## [00:13:05] Creative Brief Template Specs and Guidelines Section
 
-frame: 057_00-13-05.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:13:05](https://drive.google.com/file/d/1nNZOseQJK87aI1cdaY3g2c5LmLk1M9BG/view?usp=drivesdk) · `057_00-13-05.png`
 
 *document*
 
@@ -693,7 +693,7 @@ Safe zone dimensions (1080x1080 1:1, 1080x1350 4:5), instructions for Foreplay l
 
 ## [00:13:10] Ad Planning Sheet - Angle Headlines and Creative Variations
 
-frame: 057_00-13-10.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:13:10](https://drive.google.com/file/d/1R5T9xAM3Sreie14cr2-dKt5AijXyklls/view?usp=drivesdk) · `057_00-13-10.png`
 
 *spreadsheet*
 
@@ -715,7 +715,7 @@ Sheet name 'Spencer's | Zend - Growth Guide '25', column headers: Author, Ad Con
 
 ## [00:13:45] Ad Brief Template - Populated Messaging Variations
 
-frame: 057_00-13-45.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:13:45](https://drive.google.com/file/d/1hrN-R_sTQdOAap4a5O-mpgUUL1vqTISG/view?usp=drivesdk) · `057_00-13-45.png`
 
 *document*
 
@@ -742,7 +742,7 @@ Document title 'Brief Template | Zend - SBatch #1 - Sub Avatar Test'. Labels: 'A
 
 ## [00:14:30] Winning Ad Template - Testimonial Review Callout Format
 
-frame: 057_00-14-30.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:14:30](https://drive.google.com/file/d/1plwdJbt1aCukZTK4pxR9uE0WEuyleCQW/view?usp=drivesdk) · `057_00-14-30.png`
 
 *ad example*
 
@@ -760,7 +760,7 @@ Reviewer name 'Kristina Hickok Daheim', verbatim text about 15 year old son's sk
 
 ## [00:14:35] Winning Ad Template - Feature Benefit List Format
 
-frame: 057_00-14-35.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:14:35](https://drive.google.com/file/d/1a8RHT8DjVjxS1m4LUKy0VvWahjEwYsUM/view?usp=drivesdk) · `057_00-14-35.png`
 
 *ad example*
 
@@ -783,7 +783,7 @@ All bullet point text: '+ Made affordable for healthcare essential workers', '+ 
 
 ## [00:14:40] Winning Ad Template - Comparison Side-by-Side Format
 
-frame: 057_00-14-40.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:14:40](https://drive.google.com/file/d/1lK-Mb-YbhcW3L3m8FViZk_2YK0gNUTnX/view?usp=drivesdk) · `057_00-14-40.png`
 
 *ad example*
 
@@ -800,7 +800,7 @@ Captions 'This is bread.', 'This is breakfast.', and subtext 'Turning bread into
 
 ## [00:15:00] Editing Ad Creative Template in Canva
 
-frame: 057_00-15-00.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:15:00](https://drive.google.com/file/d/1fQEDTWde9fAdeuWDKg07Q_ASNK1dKY1T/view?usp=drivesdk) · `057_00-15-00.png`
 
 *software demo* | legibility: partly legible
 
@@ -819,7 +819,7 @@ Lower bullet lines: 'Enhances desire', 'Provides desire', Canva controls on top.
 
 ## [00:15:05] Zend Wellness Products Catalog Page
 
-frame: 057_00-15-05.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:15:05](https://drive.google.com/file/d/1AsMxQ5ivowyX5KQm2RhF4A_Za97SaTmQ/view?usp=drivesdk) · `057_00-15-05.png`
 
 *product page*
 
@@ -837,7 +837,7 @@ Press logos, product descriptions for Metabolic Gummies and Functional Coffee, S
 
 ## [00:15:15] Zend MetaGlow Collagen Product Detail Page
 
-frame: 057_00-15-15.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:15:15](https://drive.google.com/file/d/1FcWrxgOlCR38LtpS0RM-1bwH1tpode7t/view?usp=drivesdk) · `057_00-15-15.png`
 
 *product page*
 
@@ -864,7 +864,7 @@ Review count (282 reviews), specific ingredients (Morikol Collagen, Dyglomera, S
 
 ## [00:15:20] MetaGlow Collagen Features and Usage Image
 
-frame: 057_00-15-20.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:15:20](https://drive.google.com/file/d/1j70dr_rWFWDm7xwa8hTLMq7fFO-4kaL_/view?usp=drivesdk) · `057_00-15-20.png`
 
 *product page*
 
@@ -883,7 +883,7 @@ Icons: 'Non GMO', 'Caffeine Free', 'Sugar Free', header 'Mixes Easily with Coffe
 
 ## [00:15:25] ChatGPT Image Editing - Text Removal Demonstration
 
-frame: 057_00-15-25.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:15:25](https://drive.google.com/file/d/1RUPdRCqxBetetS80BhrqNYiVwGkRWji7/view?usp=drivesdk) · `057_00-15-25.png`
 
 *software demo*
 
@@ -899,7 +899,7 @@ Visual showing ChatGPT generation result removing all text overlays from product
 
 ## [00:15:35] ChatGPT Text Removal Prompt on Product Image
 
-frame: 057_00-15-35.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:15:35](https://drive.google.com/file/d/1sL88OX45PBr7wcS9cyJudkIADvPVIxMl/view?usp=drivesdk) · `057_00-15-35.png`
 
 *software demo*
 
@@ -913,7 +913,7 @@ User prompt verbatim: 'If I give you a photo, can you remove the text off of it?
 
 ## [00:15:40] ChatGPT Generated Image with Text Removed
 
-frame: 057_00-15-40.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:15:40](https://drive.google.com/file/d/1M45u7zX73uqYRmeF3gr-tUM7EWTa1Vyd/view?usp=drivesdk) · `057_00-15-40.png`
 
 *software demo*
 
@@ -927,7 +927,7 @@ ChatGPT 'Image created' visual output with clean background and no text.
 
 ## [00:16:00] Applying Background Remover on Image in Canva
 
-frame: 057_00-16-00.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:16:00](https://drive.google.com/file/d/1ysVHBoQXEq1j02SJ2luvEMMnZ8C-O6rE/view?usp=drivesdk) · `057_00-16-00.png`
 
 *software demo*
 
@@ -941,7 +941,7 @@ Canva UI tools: BG Remover, Eraser, Flip, Animate, Position.
 
 ## [00:16:30] Canva Color Picker Hex Code Input
 
-frame: 057_00-16-30.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:16:30](https://drive.google.com/file/d/1blA07hkIDO95IEtjzGRVkiZd74Y4wNyR/view?usp=drivesdk) · `057_00-16-30.png`
 
 *software demo*
 
@@ -955,7 +955,7 @@ Hex code '013D34' entered into Canva color search input.
 
 ## [00:16:35] Canva Ad Canvas with Brand Background Color
 
-frame: 057_00-16-35.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:16:35](https://drive.google.com/file/d/1bFjdgVI7v01kTszbtyofsqgqGW4_fHD1/view?usp=drivesdk) · `057_00-16-35.png`
 
 *software demo*
 
@@ -969,7 +969,7 @@ Ad template layout with updated background color and placeholder benefit callout
 
 ## [00:17:05] Selecting Feature Benefit Group in Canva
 
-frame: 057_00-17-05.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:17:05](https://drive.google.com/file/d/1M8EFKkgQqkPLGSCpD8XG7q7xjkvAWJ4f/view?usp=drivesdk) · `057_00-17-05.png`
 
 *software demo*
 
@@ -983,7 +983,7 @@ Group context menu showing Lock, Duplicate, Delete icons on pointer lines.
 
 ## [00:17:15] Zend Wellness Study Graph for Color Picking
 
-frame: 057_00-17-15.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:17:15](https://drive.google.com/file/d/1N1i2tlRZM610lyCcLYTpH4w72F_waJo3/view?usp=drivesdk) · `057_00-17-15.png`
 
 *webpage*
 
@@ -1001,7 +1001,7 @@ Hex code '1779A2' and RGB values 'rgb(23,121,162)'; chart details: Baseline, Wee
 
 ## [00:17:20] Canva Ad Canvas Color Customization
 
-frame: 057_00-17-20.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:17:20](https://drive.google.com/file/d/1NabzrTZdaVThUe3APyi9cSNMFf-k_c7_/view?usp=drivesdk) · `057_00-17-20.png`
 
 *software demo*
 
@@ -1018,7 +1018,7 @@ Hex code '#FFA452' shown in stroke color picker; grouped placeholder copy: 'Redu
 
 ## [00:17:40] Ad Template with White Background in Canva
 
-frame: 057_00-17-40.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:17:40](https://drive.google.com/file/d/1cSE77xLROFJjIDKsAruyGBDxo_tLSt4q/view?usp=drivesdk) · `057_00-17-40.png`
 
 *software demo*
 
@@ -1039,7 +1039,7 @@ Switch from dark teal background to white background.
 
 ## [00:18:20] Claude Prompting for Ad Angle Bullet Points
 
-frame: 057_00-18-20.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:18:20](https://drive.google.com/file/d/1_uxqItqsUVaPzPOztiakQ_ofHt1bU71q/view?usp=drivesdk) · `057_00-18-20.png`
 
 *software demo*
 
@@ -1058,7 +1058,7 @@ Full text of angles and variations previously entered in the prompt context.
 
 ## [00:18:35] Solution Exaggeration Winning Ad Breakdown
 
-frame: 057_00-18-35.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:18:35](https://drive.google.com/file/d/1ETnYDoullV0FkprMzk8TBDKk27kFRow8/view?usp=drivesdk) · `057_00-18-35.png`
 
 *slide*
 
@@ -1081,7 +1081,7 @@ All text under 'WHY THIS AD WORKS' points 1, 2, and 3; exact text on the compres
 
 ## [00:18:55] Google Docs Overview of Image Formats and Static Graphics
 
-frame: 057_00-18-55.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:18:55](https://drive.google.com/file/d/1Kys6RXusRIZBhI0rXLYu8wFaQDWut1Qf/view?usp=drivesdk) · `057_00-18-55.png`
 
 *document*
 
@@ -1108,7 +1108,7 @@ Bullet points under 'Static graphic/design' and 'Product photography + Headline'
 
 ## [00:19:10] Claude Prompt and Output for Headline Bullet Points
 
-frame: 057_00-19-10.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:19:10](https://drive.google.com/file/d/1Y5ZVt223BidgUsH6GjIG0Dv86UYNduZL/view?usp=drivesdk) · `057_00-19-10.png`
 
 *software demo*
 
@@ -1133,7 +1133,7 @@ Specific recommendation text and reasoning breakdown generated by Claude.
 
 ## [00:19:50] Editing Benefit Callouts on Ad Template in Canva
 
-frame: 057_00-19-50.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:19:50](https://drive.google.com/file/d/1_uE-palmLd5ZAw8r29Ouk8tciQ-NRGoV/view?usp=drivesdk) · `057_00-19-50.png`
 
 *software demo*
 
@@ -1153,7 +1153,7 @@ Template layout and placeholder benefit text ('Enhances desitre', 'Provides desi
 
 ## [00:19:55] Customer Research Document for Stress Eater Avatar
 
-frame: 057_00-19-55.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:19:55](https://drive.google.com/file/d/18PQD49TgBahXRppTitPiVxTk7VUIy3fH/view?usp=drivesdk) · `057_00-19-55.png`
 
 *document*
 
@@ -1180,7 +1180,7 @@ Avatar profile details (Desire, Behavior, Emotion) and exact customer quote list
 
 ## [00:20:00] Ad Concept Testing Spreadsheet
 
-frame: 057_00-20-00.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:20:00](https://drive.google.com/file/d/1choVysWf-0PTyqfi3xtkhJc3TJY_uU5-/view?usp=drivesdk) · `057_00-20-00.png`
 
 *spreadsheet*
 
@@ -1207,7 +1207,7 @@ Detailed spreadsheet structure and all test variation headlines.
 
 ## [00:20:20] Claude 4 Bullet Points Generation for Ad
 
-frame: 057_00-20-20.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:20:20](https://drive.google.com/file/d/1LAmfmsCPOzVLR2SFtO3BiSdnQjAhce65/view?usp=drivesdk) · `057_00-20-20.png`
 
 *software demo*
 
@@ -1230,7 +1230,7 @@ Exact 4 bullet points formulated by Claude.
 
 ## [00:20:35] Ad Concept and Creative Brief Template
 
-frame: 057_00-20-35.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:20:35](https://drive.google.com/file/d/14UZ05-KwVcEj_NbHl2u4hVl0MolcYBZs/view?usp=drivesdk) · `057_00-20-35.png`
 
 *document*
 
@@ -1252,7 +1252,7 @@ Template structure, numbers, and prompt guidance for creating ad briefs.
 
 ## [00:20:45] Claude 4 Bullet Points with Rationale Breakdown
 
-frame: 057_00-20-45.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:20:45](https://drive.google.com/file/d/1iR57tJM2R3Uzj-tszTPm_90HRXIez_VL/view?usp=drivesdk) · `057_00-20-45.png`
 
 *software demo*
 
@@ -1280,7 +1280,7 @@ Explanation breakdown showing why each bullet works and where it pulls from in r
 
 ## [00:20:55] Updated Bullet Copy in Canva Ad Creative
 
-frame: 057_00-20-55.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:20:55](https://drive.google.com/file/d/1pS0FixOcG5PNto3cZDXORbw0i5E-5QaH/view?usp=drivesdk) · `057_00-20-55.png`
 
 *software demo*
 
@@ -1300,7 +1300,7 @@ Layout and updated second bullet text in Canva.
 
 ## [00:21:15] Solution Exaggeration Ad Template Example
 
-frame: 057_00-21-15.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:21:15](https://drive.google.com/file/d/1fRmyLjprVfmi2kEG7xeHSifmMnYvQbkH/view?usp=drivesdk) · `057_00-21-15.png`
 
 *ad example*
 
@@ -1327,7 +1327,7 @@ The complete reference ad template layout, 3-point breakdown of why the ad works
 
 ## [00:22:25] Completed Canva Ad with Dark Teal Background
 
-frame: 057_00-22-25.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:22:25](https://drive.google.com/file/d/1VgR-FwQOzhOea7b_uk1i_2MzAvuyAwc0/view?usp=drivesdk) · `057_00-22-25.png`
 
 *software demo*
 
@@ -1349,7 +1349,7 @@ Final visual styling with dark background color, sentence case typography, and p
 
 ## [00:22:35] Ad Brief Template with Angle Variations
 
-frame: 057_00-22-35.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:22:35](https://drive.google.com/file/d/1prY-2UDlTbm7nfBi4bqoz8hirWJiq8H3/view?usp=drivesdk) · `057_00-22-35.png`
 
 *document*
 
@@ -1378,7 +1378,7 @@ Text of Variation 3 messaging, size specifications (9:16, 1:1, 4:5 safe zones), 
 
 ## [00:23:05] Avatar Research Document with Headline Ideas
 
-frame: 057_00-23-05.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:23:05](https://drive.google.com/file/d/1YPMVo9BXrHhq3mcy0YoNkcJ5rrqaC0-K/view?usp=drivesdk) · `057_00-23-05.png`
 
 *document*
 
@@ -1410,7 +1410,7 @@ Headline ideas listed under the 'Addicted to Junk food' sub-avatar section.
 
 ## [00:23:15] MetaGlow Collagen Benefits Section on Brand Website
 
-frame: 057_00-23-15.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:23:15](https://drive.google.com/file/d/1yIMc7iliXTgzXkgzNek6u9OV-AMyPBox/view?usp=drivesdk) · `057_00-23-15.png`
 
 *product page*
 
@@ -1434,7 +1434,7 @@ Five specific benefit icons and descriptions; trademarked ingredient name spelli
 
 ## [00:23:20] Zend Wellness MetaGlow Collagen Ingredients and Benefits
 
-frame: 057_00-23-20.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:23:20](https://drive.google.com/file/d/1UrYgMO_TcPjBz7Nu5hRVI5dDvZLM8ayS/view?usp=drivesdk) · `057_00-23-20.png`
 
 *product page*
 
@@ -1460,7 +1460,7 @@ Ingredients list items: Morikol®, Suntheanine®, MCT Oil, Prebiotic Fiber; bott
 
 ## [00:23:40] Canva Ad Draft with Dyglomera Headline
 
-frame: 057_00-23-40.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:23:40](https://drive.google.com/file/d/17b8WkJejM-aPIWmzlFq3VxjQH_wW5KVF/view?usp=drivesdk) · `057_00-23-40.png`
 
 *software demo*
 
@@ -1481,7 +1481,7 @@ Canva template filename 'Copy of Winning Ad Templates - Edit', previous bullet p
 
 ## [00:23:55] Pasting Sub-Avatar Context into Claude
 
-frame: 057_00-23-55.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:23:55](https://drive.google.com/file/d/15zwrs4Y81SkZmWeazPctc1KG_MZI0x5v/view?usp=drivesdk) · `057_00-23-55.png`
 
 *software demo*
 
@@ -1506,7 +1506,7 @@ Exact input text and quote details supplied to Claude.
 
 ## [00:24:05] Claude Generated Benefit Bullets for Addicted to Junk Food Avatar
 
-frame: 057_00-24-05.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:24:05](https://drive.google.com/file/d/1lcssKA5dzBX4G0FM6YR98RtpyGifEHri/view?usp=drivesdk) · `057_00-24-05.png`
 
 *software demo*
 
@@ -1531,7 +1531,7 @@ Rationale breakdown for Claude's suggested bullets.
 
 ## [00:24:30] Updating Bullets in Canva Template
 
-frame: 057_00-24-30.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:24:30](https://drive.google.com/file/d/17qGgQ1FNz1VK3ca1nuqm5ato535wYqTq/view?usp=drivesdk) · `057_00-24-30.png`
 
 *software demo*
 
@@ -1548,7 +1548,7 @@ Canva toolbar settings: Helvetica Now font, 30.9 pt size.
 
 ## [00:25:35] Why We Chose Dyglomera Clinical Study Data
 
-frame: 057_00-25-35.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:25:35](https://drive.google.com/file/d/1_-RuWPoCZHLQpuOxDMyyi1d5aNjQrCWe/view?usp=drivesdk) · `057_00-25-35.png`
 
 *webpage*
 
@@ -1568,7 +1568,7 @@ Clinical study details: 12-week double-blind, 90 overweight/obese participants, 
 
 ## [00:25:40] Image Formats Guide in Google Docs
 
-frame: 057_00-25-40.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:25:40](https://drive.google.com/file/d/12flYsqNXsaJPBvqoGL8tobVFc0GQvO5p/view?usp=drivesdk) · `057_00-25-40.png`
 
 *document*
 
@@ -1594,7 +1594,7 @@ Complete structure and bullet guidelines for static graphic/design and product p
 
 ## [00:25:50] Collagen Brand Master Document Product Mechanism Details
 
-frame: 057_00-25-50.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:25:50](https://drive.google.com/file/d/1QiikChxPCUbDTRfb5S4n5ZS8IlVl0Ez9/view?usp=drivesdk) · `057_00-25-50.png`
 
 *document*
 
@@ -1617,7 +1617,7 @@ Price points ($59 / $47.20 / $39), DPP-4 mechanism, Suntheanine details and dosa
 
 ## [00:27:35] Completed Dyglomera Collagen Static Image Ad
 
-frame: 057_00-27-35.png (Drive: https://drive.google.com/file/d/1zHj40P0QyKOlNasa2ZaxNhdwYvn0QBwo/view?usp=drivesdk)
+[frame 00:27:35](https://drive.google.com/file/d/1QhzmtQBX_Oy-ESWc-qdoAbDLZx3Arzb5/view?usp=drivesdk) · `057_00-27-35.png`
 
 *ad example*
 

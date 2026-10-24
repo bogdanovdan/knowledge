@@ -1,14 +1,14 @@
 # 27. Understanding Your Product - Part 1 - Visual notes
 
 - **Frames kept:** 4 of 11 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [027-understanding-your-product-part-1-frames.zip](https://drive.google.com/file/d/1-R91wsuCjRqEqZHTENI6st1p5uBbdDdU/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/027-understanding-your-product-part-1](https://drive.google.com/drive/folders/1mbeTZl80Ys5KkcZK972wFfa-7FpcAWzw)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:55] Understanding Your Product and The Two-Product Reality
 
-frame: 027_00-00-55.png (Drive: https://drive.google.com/file/d/1-R91wsuCjRqEqZHTENI6st1p5uBbdDdU/view?usp=drivesdk)
+[frame 00:00:55](https://drive.google.com/file/d/16HnCInpMf8gOqlbLt4eog5GW-HhcEkXu/view?usp=drivesdk) · `027_00-00-55.png`
 
 *document*
 
@@ -45,7 +45,7 @@ Document title: "Avatar Mastery for Shopify Brands: The Meta-First Framework". E
 
 ## [00:14:15] Product Mechanisms and Why This Matters for Avatar Creation
 
-frame: 027_00-14-15.png (Drive: https://drive.google.com/file/d/1-R91wsuCjRqEqZHTENI6st1p5uBbdDdU/view?usp=drivesdk)
+[frame 00:14:15](https://drive.google.com/file/d/1VcUjgIjIetbg_0hWZ3zAC4kuo0JlS5uK/view?usp=drivesdk) · `027_00-14-15.png`
 
 *document*
 
@@ -82,7 +82,7 @@ Eugene Schwartz quote reference: "Eugene would say: 'Mechanisms make people beli
 
 ## [00:15:05] The Bottom Line for Avatar Creation
 
-frame: 027_00-15-05.png (Drive: https://drive.google.com/file/d/1-R91wsuCjRqEqZHTENI6st1p5uBbdDdU/view?usp=drivesdk)
+[frame 00:15:05](https://drive.google.com/file/d/1cZr_1TBKHvEVda7firFZM0ARSiYQ1x9_/view?usp=drivesdk) · `027_00-15-05.png`
 
 *document*
 
@@ -106,7 +106,7 @@ Everything else becomes easier when you nail this foundation.
 
 ## [00:15:35] Document Outline Tabs for Avatar Mastery Framework
 
-frame: 027_00-15-35.png (Drive: https://drive.google.com/file/d/1-R91wsuCjRqEqZHTENI6st1p5uBbdDdU/view?usp=drivesdk)
+[frame 00:15:35](https://drive.google.com/file/d/1IMxt8TWl_DftZlstAfw4BwPM0Q9Rn9Tt/view?usp=drivesdk) · `027_00-15-35.png`
 
 *software demo*
 

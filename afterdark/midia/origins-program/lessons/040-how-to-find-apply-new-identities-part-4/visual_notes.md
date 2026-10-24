@@ -1,14 +1,14 @@
 # 40. How To Find & Apply New Identities* - Part 4 - Visual notes
 
 - **Frames kept:** 6 of 8 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [040-how-to-find-apply-new-identities-part-4-frames.zip](https://drive.google.com/file/d/1ZlNM6yyn2TeGMT1gLs4vsJNhTI12p8gH/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/040-how-to-find-apply-new-identities-part-4](https://drive.google.com/drive/folders/1fT1Mae2hiprAt1PIHAzVkEuak4n15cM3)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:01:20] New Identity Strategy Overview and Breakthrough Implementations
 
-frame: 040_00-01-20.png (Drive: https://drive.google.com/file/d/1ZlNM6yyn2TeGMT1gLs4vsJNhTI12p8gH/view?usp=drivesdk)
+[frame 00:01:20](https://drive.google.com/file/d/1C2yO7VEG8NlB8mPHivp-Fn6RYaDyv46b/view?usp=drivesdk) · `040_00-01-20.png`
 
 *document*
 
@@ -39,7 +39,7 @@ Maslow's hierarchy belonging reference, '23% greater influence on purchase inten
 
 ## [00:01:50] Google Search on Glossier and Emily Weiss
 
-frame: 040_00-01-50.png (Drive: https://drive.google.com/file/d/1ZlNM6yyn2TeGMT1gLs4vsJNhTI12p8gH/view?usp=drivesdk)
+[frame 00:01:50](https://drive.google.com/file/d/1Dkgo2RrkmueNMO-2rEu6X9qUzo9m7DHd/view?usp=drivesdk) · `040_00-01-50.png`
 
 *webpage*
 
@@ -55,7 +55,7 @@ Article headlines from Vanity Fair, Wikipedia excerpt showing Glossier's launch 
 
 ## [00:02:30] Google Search on Liquid Death and Mike Cessario
 
-frame: 040_00-02-30.png (Drive: https://drive.google.com/file/d/1ZlNM6yyn2TeGMT1gLs4vsJNhTI12p8gH/view?usp=drivesdk)
+[frame 00:02:30](https://drive.google.com/file/d/1wBfgRp-tOt8-gXiPYb4Q7y2ZcNd7x3Wp/view?usp=drivesdk) · `040_00-02-30.png`
 
 *webpage*
 
@@ -72,7 +72,7 @@ Citation dates (Jan 22, 2024; Sep 13, 2024), specific mention of exploring the s
 
 ## [00:02:55] Google Search on Peloton and John Foley
 
-frame: 040_00-02-55.png (Drive: https://drive.google.com/file/d/1ZlNM6yyn2TeGMT1gLs4vsJNhTI12p8gH/view?usp=drivesdk)
+[frame 00:02:55](https://drive.google.com/file/d/1GJgyCKshPQrnJ0CxAeQPMK23-_MQ9-I-/view?usp=drivesdk) · `040_00-02-55.png`
 
 *webpage*
 
@@ -89,7 +89,7 @@ Exact prior company names: Pronto.com, Evite.com, Citysearch.com, Mars Inc., and
 
 ## [00:03:15] How to Find New Identities and Apply to Your Ads
 
-frame: 040_00-03-15.png (Drive: https://drive.google.com/file/d/1ZlNM6yyn2TeGMT1gLs4vsJNhTI12p8gH/view?usp=drivesdk)
+[frame 00:03:15](https://drive.google.com/file/d/1uInMiKgFE-111AfU3rSwQVTx5T4vKVZA/view?usp=drivesdk) · `040_00-03-15.png`
 
 *document*
 
@@ -113,7 +113,7 @@ Exact concluding lines: 'Find an underserved NEW identity that you can market to
 
 ## [00:04:00] Document: How to Find New Information + Apply to Your Ads
 
-frame: 040_00-04-00.png (Drive: https://drive.google.com/file/d/1ZlNM6yyn2TeGMT1gLs4vsJNhTI12p8gH/view?usp=drivesdk)
+[frame 00:04:00](https://drive.google.com/file/d/1M79F2Q5_O9VCHqgdliQyzewWVo76bVlq/view?usp=drivesdk) · `040_00-04-00.png`
 
 *document*
 

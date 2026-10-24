@@ -1,14 +1,14 @@
 # 67. How to get content for ads + options for editing - Visual notes
 
 - **Frames kept:** 22 of 121 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [067-how-to-get-content-for-ads-options-for-editing-frames.zip](https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/067-how-to-get-content-for-ads-options-for-editing](https://drive.google.com/drive/folders/1K2XAhrp9fFm0BzG_8ctzPKU3WJZORuaO)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:35] How to edit video ads: sourcing content and editing advice
 
-frame: 067_00-00-35.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:00:35](https://drive.google.com/file/d/1_LQxSBb5QW1vTq6NMXwxL908znzaMf4V/view?usp=drivesdk) · `067_00-00-35.png`
 
 *document*
 
@@ -43,7 +43,7 @@ Coach Mike edit tutorial URL: https://www.skool.com/origins/classroom/28df2df0?m
 
 ## [00:02:25] Video Ad Creation for Beginners video call recording
 
-frame: 067_00-02-25.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:02:25](https://drive.google.com/file/d/1zP_JPYgZ9tOlTCnSDHJmkhvuSMfEItsy/view?usp=drivesdk) · `067_00-02-25.png`
 
 *webpage*
 
@@ -61,7 +61,7 @@ Dates and titles of other call recordings: Q&A 22nd October 2025, How Coach Mike
 
 ## [00:02:45] GridBank content categories and search
 
-frame: 067_00-02-45.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:02:45](https://drive.google.com/file/d/1PGxVC8b-cSLLkU_nhzitjbOzqVctw6kX/view?usp=drivesdk) · `067_00-02-45.png`
 
 *webpage*
 
@@ -81,7 +81,7 @@ Specific category tag names: AdsRx Collection, Routine, Motivation & Life, Food,
 
 ## [00:02:50] GridBank search results for walking in the snow
 
-frame: 067_00-02-50.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:02:50](https://drive.google.com/file/d/1Fdu_8kNJR9HXfWhPBqfXGX81iqtOG74f/view?usp=drivesdk) · `067_00-02-50.png`
 
 *webpage*
 
@@ -97,7 +97,7 @@ Location tag 'ELLISON BAY, WISCO...' visible on thumbnail.
 
 ## [00:02:55] GridBank clips including scenery and dog in snow
 
-frame: 067_00-02-55.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:02:55](https://drive.google.com/file/d/1ON5C3g79BIHa13A6gPw8CxBszwL1STxE/view?usp=drivesdk) · `067_00-02-55.png`
 
 *webpage*
 
@@ -117,7 +117,7 @@ Location tags visible on video tiles: BRAMPTON, ONTARIO; DAYTON, OHIO.
 
 ## [00:03:00] GridBank search results filters and clips
 
-frame: 067_00-03-00.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:03:00](https://drive.google.com/file/d/1uadDwF_x34086TjZ-vxAXTPA8vp0v0CC/view?usp=drivesdk) · `067_00-03-00.png`
 
 *webpage*
 
@@ -138,7 +138,7 @@ Filter options: Location, duration slider set to 0s - 30s, sort by 'Most Recent'
 
 ## [00:03:05] GridBank value comparison: Before vs After
 
-frame: 067_00-03-05.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:03:05](https://drive.google.com/file/d/1ujPA7rnW-_G8Z7Ihi-EEWzzrFuaLGeu1/view?usp=drivesdk) · `067_00-03-05.png`
 
 *product page*
 
@@ -168,7 +168,7 @@ Full text of comparison bullets for 'Before GridBank' and 'After GridBank'.
 
 ## [00:03:30] GridBank pricing tiers
 
-frame: 067_00-03-30.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:03:30](https://drive.google.com/file/d/1JWtF1uyxB4J19FB5powkdXTfOZfU2jN2/view?usp=drivesdk) · `067_00-03-30.png`
 
 *product page*
 
@@ -205,7 +205,7 @@ Standard Library plan ($490/quarter) details; Agency tier features (Unlimited Do
 
 ## [00:04:15] How to edit video ads with promo code update
 
-frame: 067_00-04-15.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:04:15](https://drive.google.com/file/d/1dNFU6WCvA8SIH13WwSFThuccj7c_14Sw/view?usp=drivesdk) · `067_00-04-15.png`
 
 *document*
 
@@ -224,7 +224,7 @@ Discount code exact text: '--> Save $100 with EASYA100'.
 
 ## [00:04:20] Origins Full Live Webinar Of $0-$100k/Month lesson page
 
-frame: 067_00-04-20.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:04:20](https://drive.google.com/file/d/1Uj_Xt4P83NIFPRXqxFAZoEFXlrIYrMvy/view?usp=drivesdk) · `067_00-04-20.png`
 
 *webpage* | legibility: partly legible
 
@@ -249,7 +249,7 @@ Resource URLs for Offer Calculation Sheet, UGC Framework, CRO Training Video, an
 
 ## [00:04:40] Masterclass slide: One Creative strategy for UGC
 
-frame: 067_00-04-40.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:04:40](https://drive.google.com/file/d/19baSvttQ_B_6lkanD7re5n5v9JCc0T4l/view?usp=drivesdk) · `067_00-04-40.png`
 
 *webpage*
 
@@ -271,7 +271,7 @@ Slide bullet points: 'You can NOT scale until you have content', 'optimize the s
 
 ## [00:05:50] Every Ad Format That You Can Use module page
 
-frame: 067_00-05-50.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:05:50](https://drive.google.com/file/d/19qaFTcrk2CouAxA6pkZbCxadRjWgLeA4/view?usp=drivesdk) · `067_00-05-50.png`
 
 *webpage*
 
@@ -291,7 +291,7 @@ Google doc URL: https://docs.google.com/document/d/1jG7F2PH_U37SZAjm43H3-664BZmp
 
 ## [00:06:00] Evolve Ad Formats - Video Formats document
 
-frame: 067_00-06-00.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:06:00](https://drive.google.com/file/d/13tZRRpZ54yfwaa2BuCvgn0KMWGBiXt2n/view?usp=drivesdk) · `067_00-06-00.png`
 
 *document*
 
@@ -330,7 +330,7 @@ Full text descriptions and bullet points for 'Voiceover with b-roll', 'Subtitles
 
 ## [00:06:30] Ad creative example - Money Saver For Moms
 
-frame: 067_00-06-30.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:06:30](https://drive.google.com/file/d/1DRXBVFNpKanGz3a8I58LVoDYLPVFQDqR/view?usp=drivesdk) · `067_00-06-30.png`
 
 *ad example*
 
@@ -347,7 +347,7 @@ Batch name: 'BATCH#61 - Money Saver For Moms', timestamp in video: '00:21 / 00:4
 
 ## [00:07:50] Insense campaign creation setup
 
-frame: 067_00-07-50.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:07:50](https://drive.google.com/file/d/1vRWwvzVgIaaKhq7hMhXizRprAyrM3cXV/view?usp=drivesdk) · `067_00-07-50.png`
 
 *software demo*
 
@@ -364,7 +364,7 @@ Insense interface options: 'Multi-Channel UGC', 'Awareness & Reach', 'Conversion
 
 ## [00:07:55] Spencer Pawliw SOP for sourcing content creators
 
-frame: 067_00-07-55.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:07:55](https://drive.google.com/file/d/1c0leau167wOWy7kGNHJO_Xv9qZqgkMnF/view?usp=drivesdk) · `067_00-07-55.png`
 
 *social post*
 
@@ -388,7 +388,7 @@ Step 8 detail: 'One email/DM bump every 2 days for a total of 4 days', video pub
 
 ## [00:08:15] Insense Creator discovery feed and pricing
 
-frame: 067_00-08-15.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:08:15](https://drive.google.com/file/d/1D2LihEmZlP4Jzjp4_IoGgNoAn6hDZYOx/view?usp=drivesdk) · `067_00-08-15.png`
 
 *software demo*
 
@@ -411,7 +411,7 @@ Visible price ranges ($28, $35, $150, $168, $190, $196, $254, $400) and countrie
 
 ## [00:08:25] Insense creator profile audience metrics and reviews
 
-frame: 067_00-08-25.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:08:25](https://drive.google.com/file/d/1RkuQYtro-E0-UxUutFvCD7owWm7KQ_nN/view?usp=drivesdk) · `067_00-08-25.png`
 
 *software demo*
 
@@ -433,7 +433,7 @@ Exact audience breakdown (Dominican Republic 74%, United States 4%, Singapore 1%
 
 ## [00:08:30] Insense creator profile with marketplace upgrade prompt
 
-frame: 067_00-08-30.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:08:30](https://drive.google.com/file/d/14davUKSCmKnRIxLl_zW9qjT3NO8zddNj/view?usp=drivesdk) · `067_00-08-30.png`
 
 *software demo*
 
@@ -450,7 +450,7 @@ Exact metric values: 3,233 followers, 8.21% engagement, female 73%, age 25-34 at
 
 ## [00:08:40] Amazon storefront page of UGC creator Crystal Gonzalez
 
-frame: 067_00-08-40.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:08:40](https://drive.google.com/file/d/1NItVun2o5IIxpHCLA7qlN3EjxBA7kUEu/view?usp=drivesdk) · `067_00-08-40.png`
 
 *product page*
 
@@ -467,7 +467,7 @@ Product names and prices displayed on the creator's storefront.
 
 ## [00:10:40] Origins guide on sourcing and editing video ads
 
-frame: 067_00-10-40.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:10:40](https://drive.google.com/file/d/1cA-KMJbam-G4LNcBHTrMs6_D5XfxDnz3/view?usp=drivesdk) · `067_00-10-40.png`
 
 *document*
 
@@ -491,7 +491,7 @@ Pricing and promo details: Gridbank ($250/month quarterly), Insense promo code '
 
 ## [00:13:20] Video editing course recommendation and details in Origins
 
-frame: 067_00-13-20.png (Drive: https://drive.google.com/file/d/1ekmf7RcgOh5HEJ6NCmAHkF8gxcsEEju1/view?usp=drivesdk)
+[frame 00:13:20](https://drive.google.com/file/d/1YIPLnkUxRxbtCYCfWqCYn8yTNVwbtUFX/view?usp=drivesdk) · `067_00-13-20.png`
 
 *document* | legibility: partly legible
 

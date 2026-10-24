@@ -1,14 +1,14 @@
 # 31. Understanding & Applying Desire - Part 1 - Visual notes
 
 - **Frames kept:** 19 of 75 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 1280x720 (native), PNG frames in Google Drive as [031-understanding-applying-desire-part-1-frames.zip](https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+- **Resolution:** 1280x720 (native), PNG frames in Google Drive, one file per frame, in folder [frames/031-understanding-applying-desire-part-1](https://drive.google.com/drive/folders/1-U9uFyyNxwL44qi-BKxWLZrqXrIUbRPk)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:03:30] Why you need to understand Desire before creating an Avatar?
 
-frame: 031_00-03-30.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:03:30](https://drive.google.com/file/d/1QZhPocQVOPr5nAFUSil_2tkUV53HU_cu/view?usp=drivesdk) · `031_00-03-30.png`
 
 *document*
 
@@ -50,7 +50,7 @@ Detailed list under Permanent Forces / Mass Instincts: Health, Sex, Status, Belo
 
 ## [00:04:50] How Desires Are Born: Permanent Forces (Mass Instincts)
 
-frame: 031_00-04-50.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:04:50](https://drive.google.com/file/d/1pfMTUE50wTF3mhrpojNYmuJwO22mM-RF/view?usp=drivesdk) · `031_00-04-50.png`
 
 *document*
 
@@ -84,7 +84,7 @@ The larger the desire, the more specific you can go on the avatar.
 
 ## [00:06:30] Forces of Change and Dog Harness Examples
 
-frame: 031_00-06-30.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:06:30](https://drive.google.com/file/d/1aqK56ZL5RBWVHXVIh0hcH0hN3DQxLMIV/view?usp=drivesdk) · `031_00-06-30.png`
 
 *document*
 
@@ -114,7 +114,7 @@ Example 2 - Mass Instinct + Mass Education: Mass Instinct: Health (keep dog safe
 
 ## [00:12:30] Permanent Forces: Mass Technological Problems
 
-frame: 031_00-12-30.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:12:30](https://drive.google.com/file/d/1XmHEydAYsicglm_5TBbNGregKTL06ZkM/view?usp=drivesdk) · `031_00-12-30.png`
 
 *document*
 
@@ -148,7 +148,7 @@ Exact emotion icons and text: 🧠 You feel dumb, 🧠 You feel anxious, 🧠 Yo
 
 ## [00:14:30] Mass Technological Problems: Historical Timeline
 
-frame: 031_00-14-30.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:14:30](https://drive.google.com/file/d/18jKfnwFv-afxmfVZzRUaZPl2NqJxSGIx/view?usp=drivesdk) · `031_00-14-30.png`
 
 *document*
 
@@ -166,7 +166,7 @@ The technology changes, but the problems will always be there.
 
 ## [00:22:25] Examples of the Process: Dog Harness & Blackout Blinds
 
-frame: 031_00-22-25.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:22:25](https://drive.google.com/file/d/1dQuGNXXrIMJeurj8KaawQhZT_sOtFKsb/view?usp=drivesdk) · `031_00-22-25.png`
 
 *document*
 
@@ -218,7 +218,7 @@ Example 1 - Mass Instinct + Style Trend
 
 ## [00:24:00] Examples of the Process: Dog Harness Copy Angles
 
-frame: 031_00-24-00.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:24:00](https://drive.google.com/file/d/1Pj1QgvRJzLaTfUbrdqcY_QCH09d3xICd/view?usp=drivesdk) · `031_00-24-00.png`
 
 *document*
 
@@ -254,7 +254,7 @@ Document structure on left sidebar: Step 1: Product, Step 2: Desires (Desire Cal
 
 ## [00:32:40] Blackout Blinds Examples and How to Find & Evaluate Desires
 
-frame: 031_00-32-40.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:32:40](https://drive.google.com/file/d/1gPEo37T1GRgvGNt2A7RxixLy4DTb2BZF/view?usp=drivesdk) · `031_00-32-40.png`
 
 *document*
 
@@ -291,7 +291,7 @@ Three Dimensions details: broken bone VS cut, hunger VS Going to paris, fine ant
 
 ## [00:36:00] How to Find & Evaluate Desires: 3 Steps and Power Rankings
 
-frame: 031_00-36-00.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:36:00](https://drive.google.com/file/d/1SKRV87Y2Iq5V1bmfd-vlWNTK6KvMveGj/view?usp=drivesdk) · `031_00-36-00.png`
 
 *document*
 
@@ -322,7 +322,7 @@ Desire power rankings breakdown: #1 Health, #2 Status, #3 Sex, #4 Comfort, #5 Co
 
 ## [00:40:15] How to Find & Evaluate Desires: 3 Steps and Power Rankings
 
-frame: 031_00-40-15.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:40:15](https://drive.google.com/file/d/1gsAD_sEcpeTrWqd0BvvSO28BmvQkNzXu/view?usp=drivesdk) · `031_00-40-15.png`
 
 *document*
 
@@ -358,7 +358,7 @@ The exact wording in parentheses for examples: '(fine antiques VS making money)'
 
 ## [00:44:40] The Elevation Strategy: Moving Products Along Desire Hierarchy
 
-frame: 031_00-44-40.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:44:40](https://drive.google.com/file/d/1cVT5Jayah6u-zuMsA4gHFKWBJTomOynw/view?usp=drivesdk) · `031_00-44-40.png`
 
 *document*
 
@@ -380,7 +380,7 @@ Formula details: 'Moving down = less emotional urgency = lower prices = weaker p
 
 ## [00:49:10] Elevation Strategy Applied to Dog Harness Example: Level 6 Belonging
 
-frame: 031_00-49-10.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:49:10](https://drive.google.com/file/d/1nAT7iHpGAdQbFfzHnlp12JZA_KNGSSRm/view?usp=drivesdk) · `031_00-49-10.png`
 
 *document*
 
@@ -406,7 +406,7 @@ Level 6: Belonging (Weakest)
 
 ## [00:50:00] Dog Harness Copy Examples: Belonging and Comfort
 
-frame: 031_00-50-00.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:50:00](https://drive.google.com/file/d/1u3Xwz9WSemIwUEa_ovjy-jes37VMiwbg/view?usp=drivesdk) · `031_00-50-00.png`
 
 *document*
 
@@ -424,7 +424,7 @@ Level 5: Comfort (Weak)
 
 ## [00:50:10] Dog Harness Example: Hierarchy Level 6 and Level 5
 
-frame: 031_00-50-10.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:50:10](https://drive.google.com/file/d/1RvOWJfcpsm46Amdn1bWQVPjdFRAdC9t1/view?usp=drivesdk) · `031_00-50-10.png`
 
 *document*
 
@@ -449,7 +449,7 @@ Paragraph explaining why moving products down lowers scale and the watch example
 
 ## [00:50:45] Dog Harness Example: Hierarchy Level 4 Control
 
-frame: 031_00-50-45.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:50:45](https://drive.google.com/file/d/1lJvLa9qno_DxZHjdUpboUwALs6rO3bwJ/view?usp=drivesdk) · `031_00-50-45.png`
 
 *document*
 
@@ -468,7 +468,7 @@ Level 4: Control (Moderate)
 
 ## [00:53:00] Dog Harness Example: Level 3 Sex Headlines Complete
 
-frame: 031_00-53-00.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:53:00](https://drive.google.com/file/d/1PS3_JS58uKluME7xKAP3FEXlZfxGfOY4/view?usp=drivesdk) · `031_00-53-00.png`
 
 *document*
 
@@ -491,7 +491,7 @@ Level 2: Status (Very Strong)
 
 ## [00:54:45] Dog Harness Example: Level 2 Status Headlines
 
-frame: 031_00-54-45.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:54:45](https://drive.google.com/file/d/1IxkbJYl3_hW6v0W_KoK1WOIrAEYwWnF5/view?usp=drivesdk) · `031_00-54-45.png`
 
 *document*
 
@@ -506,7 +506,7 @@ Level 2: Status (Very Strong)
 
 ## [00:55:10] Dog Harness Example: Level 1 Health (Strongest) Headlines
 
-frame: 031_00-55-10.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:55:10](https://drive.google.com/file/d/1V800eu8HAJOVuAMtqqMXHV61g4j9vy2m/view?usp=drivesdk) · `031_00-55-10.png`
 
 *document*
 
@@ -521,7 +521,7 @@ Level 1: Health (Strongest)
 
 ## [00:56:55] Final Words From Schwartz's + Spencer
 
-frame: 031_00-56-55.png (Drive: https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+[frame 00:56:55](https://drive.google.com/file/d/1fiptC9MOM3cwvNr0AViKbW4bMPV75Arr/view?usp=drivesdk) · `031_00-56-55.png`
 
 *document*
 

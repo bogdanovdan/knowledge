@@ -1,14 +1,14 @@
 # 78. Overview of media buying section - Visual notes
 
 - **Frames kept:** 5 of 11 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [078-overview-of-media-buying-section-frames.zip](https://drive.google.com/file/d/13RQfAs5b8WVgOqZppp2NI7UHywkRr1gM/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/078-overview-of-media-buying-section](https://drive.google.com/drive/folders/1rq6rx_2XUyQYa4wbMUza2ZrVjSYmyx0m)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:30] Origins Classroom: How to set ROAS targets for scaling
 
-frame: 078_00-00-30.png (Drive: https://drive.google.com/file/d/13RQfAs5b8WVgOqZppp2NI7UHywkRr1gM/view?usp=drivesdk)
+[frame 00:00:30](https://drive.google.com/file/d/10XaLYUXPdl8qpOVOEIkU5S9fiS-wjkK2/view?usp=drivesdk) · `078_00-00-30.png`
 
 *software demo*
 
@@ -30,7 +30,7 @@ URL: 'https://www.easyamedia.com/profit-calculator'; text: 'Take your breakeven 
 
 ## [00:00:40] Origins Classroom: How to determine minimum daily spend
 
-frame: 078_00-00-40.png (Drive: https://drive.google.com/file/d/13RQfAs5b8WVgOqZppp2NI7UHywkRr1gM/view?usp=drivesdk)
+[frame 00:00:40](https://drive.google.com/file/d/1kX-FiIvGywWl5ehtaO67jbefumXEA51W/view?usp=drivesdk) · `078_00-00-40.png`
 
 *software demo*
 
@@ -50,7 +50,7 @@ Rule: 'If you're spending above $500 per day, you can ignore this'; budget requi
 
 ## [00:00:50] Origins Classroom: How to setup your 3:2:2 campaign
 
-frame: 078_00-00-50.png (Drive: https://drive.google.com/file/d/13RQfAs5b8WVgOqZppp2NI7UHywkRr1gM/view?usp=drivesdk)
+[frame 00:00:50](https://drive.google.com/file/d/1ueeAK3MoiLCZJMezEEWSFAtbgWusCtfZ/view?usp=drivesdk) · `078_00-00-50.png`
 
 *software demo*
 
@@ -72,7 +72,7 @@ Setup structure breakdown: '1 Champions Ad set, Multiple Creative Test Ad Sets',
 
 ## [00:01:10] Origins Classroom: Why bad ads get spend
 
-frame: 078_00-01-10.png (Drive: https://drive.google.com/file/d/13RQfAs5b8WVgOqZppp2NI7UHywkRr1gM/view?usp=drivesdk)
+[frame 00:01:10](https://drive.google.com/file/d/1P_moO8pGCrJ8o4CZ1XvATsRNpdSmSMna/view?usp=drivesdk) · `078_00-01-10.png`
 
 *software demo*
 
@@ -88,7 +88,7 @@ Thumbnail table stats ($7,516.69 spent, 1.58 ROAS, $78.30 Cost per result, 96 Pu
 
 ## [00:01:35] Origins Classroom: How to scale your account (up & down)
 
-frame: 078_00-01-35.png (Drive: https://drive.google.com/file/d/13RQfAs5b8WVgOqZppp2NI7UHywkRr1gM/view?usp=drivesdk)
+[frame 00:01:35](https://drive.google.com/file/d/1LESxuH5Raxa3Ufutk0q4fyWwZXi8fvDd/view?usp=drivesdk) · `078_00-01-35.png`
 
 *software demo*
 

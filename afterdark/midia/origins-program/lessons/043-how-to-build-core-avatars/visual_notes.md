@@ -1,14 +1,14 @@
 # 43. How To Build Core Avatars - Visual notes
 
 - **Frames kept:** 56 of 102 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [043-how-to-build-core-avatars-frames.zip](https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/043-how-to-build-core-avatars](https://drive.google.com/drive/folders/1oNvEAgiV6K54d34_-0ve593Vt2ztiUn0)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:50] Assumed desires and new mechanisms framework document
 
-frame: 043_00-00-50.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:00:50](https://drive.google.com/file/d/1f450tA64STA2TspMhPEeQYDLMb595KG7/view?usp=drivesdk) · `043_00-00-50.png`
 
 *document*
 
@@ -38,7 +38,7 @@ Step 6: New Mechanisms (USPs) definitions and the three specific new mechanisms 
 
 ## [00:01:00] Core avatar builder setup with assumed desires
 
-frame: 043_00-01-00.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:01:00](https://drive.google.com/file/d/16rOLo_vs0gSJ5Y2LtdlO5Vj1P5jSDJsg/view?usp=drivesdk) · `043_00-01-00.png`
 
 *document*
 
@@ -63,7 +63,7 @@ Core Avatar #1:
 
 ## [00:01:15] Framework on how many avatars to create by revenue stage
 
-frame: 043_00-01-15.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:01:15](https://drive.google.com/file/d/1SPQgcmU4FIiBqQ_UyMSnyYj7Wpb1eibo/view?usp=drivesdk) · `043_00-01-15.png`
 
 *document*
 
@@ -92,7 +92,7 @@ Detailed guidelines on Stage 1 ($0-$100K/Month), competitor analysis strategy ("
 
 ## [00:02:25] Product Overview Document template layout
 
-frame: 043_00-02-25.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:02:25](https://drive.google.com/file/d/1eDhejdQmR-ZQkVwntVSqG4vtfrboUSkq/view?usp=drivesdk) · `043_00-02-25.png`
 
 *document*
 
@@ -139,7 +139,7 @@ Full template layout, instructions, sidebar structure showing steps 1 through 4 
 
 ## [00:03:00] Features to assumed benefits mapping list
 
-frame: 043_00-03-00.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:03:00](https://drive.google.com/file/d/1LhGMSdHxs7nayExuG2J2SNpqb6bi-zqQ/view?usp=drivesdk) · `043_00-03-00.png`
 
 *document*
 
@@ -171,7 +171,7 @@ Verbatim listing of Features 1-9 mapped to their specific assumed benefits (e.g.
 
 ## [00:04:45] Mapping Benefits to Desire-Based Core and Sub-Avatars
 
-frame: 043_00-04-45.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:04:45](https://drive.google.com/file/d/1l2pObGoZdQz4Bi30BOZMeIaMvDJff2BJ/view?usp=drivesdk) · `043_00-04-45.png`
 
 *document*
 
@@ -199,7 +199,7 @@ Benefit 6 (confidence in purchase decisions and safety), Benefit 7 (flexibility 
 
 ## [00:08:50] Experience-Based Avatars and Product Benefit Research
 
-frame: 043_00-08-50.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:08:50](https://drive.google.com/file/d/1gKWT9PeWFYWYmM44rCcSshqNXiWwBYJ2/view?usp=drivesdk) · `043_00-08-50.png`
 
 *document*
 
@@ -233,7 +233,7 @@ The listed magnesium benefits: Migraines, Bone health, Heart health, High blood 
 
 ## [00:08:55] Avatar Scale Diagram: Specific to Broad Spectrum
 
-frame: 043_00-08-55.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:08:55](https://drive.google.com/file/d/1gJitdw6SqdKD0m5dEbbNIt_n4ua8_Qfi/view?usp=drivesdk) · `043_00-08-55.png`
 
 *diagram*
 
@@ -260,7 +260,7 @@ Text inside the 'One Pepe' box and 'All Pepes' box, plus the explanatory bullet 
 
 ## [00:10:20] Atria Discovery Feed Showing Competitor Ad Creative Examples
 
-frame: 043_00-10-20.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:10:20](https://drive.google.com/file/d/1i1Fn_k85w05O4VmDoV_6Z_IashJdynHY/view?usp=drivesdk) · `043_00-10-20.png`
 
 *ad example*
 
@@ -282,7 +282,7 @@ Brand names, headlines, and visuals visible across the ad discovery dashboard (S
 
 ## [00:13:05] Plotting Broad Avatar #1 on the Avatar Scale
 
-frame: 043_00-13-05.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:13:05](https://drive.google.com/file/d/1p21ds4IsuBRJEFsOjM_SZ4k3fKxg9YSM/view?usp=drivesdk) · `043_00-13-05.png`
 
 *diagram*
 
@@ -298,7 +298,7 @@ Placement point '1' marked in red marker on the spectrum.
 
 ## [00:13:20] Final List of Three Desire-Based Core Avatars
 
-frame: 043_00-13-20.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:13:20](https://drive.google.com/file/d/1KkJAnlw3rqbMFp5HL484DTeOdyTURN7Z/view?usp=drivesdk) · `043_00-13-20.png`
 
 *document*
 
@@ -320,7 +320,7 @@ Avatar #3 finalized text: 'Person wants to sleep in a quiet environment'.
 
 ## [00:13:50] Structuring Sub-Avatars Under Core Desire Avatars
 
-frame: 043_00-13-50.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:13:50](https://drive.google.com/file/d/12L9oIIhaWHxudlhdi3dnUBhy9Dz5WHp8/view?usp=drivesdk) · `043_00-13-50.png`
 
 *document*
 
@@ -342,7 +342,7 @@ Sub Avatar #1 notes about behavior: 'and they make smart investments (behavior)'
 
 ## [00:14:45] Avatar Scale with Points 1 and 2 Marked
 
-frame: 043_00-14-45.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:14:45](https://drive.google.com/file/d/1CjlTy74JsXK0egwwdfL1cLU7IdonXKpK/view?usp=drivesdk) · `043_00-14-45.png`
 
 *diagram*
 
@@ -359,7 +359,7 @@ Numbered indicators '2' and '1' positioned on the horizontal continuum line.
 
 ## [00:16:05] How to Find & Evaluate Desires: 3 Dimensions Framework
 
-frame: 043_00-16-05.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:16:05](https://drive.google.com/file/d/1JW7Qu8Bzd1W94-GV82fzEPf6bfMqBsas/view?usp=drivesdk) · `043_00-16-05.png`
 
 *document*
 
@@ -390,7 +390,7 @@ Examples for Scope ('fine antiques VS making money'), Urgency ('broken bone VS c
 
 ## [00:18:05] Eight Sleep Product and Supplement Offerings
 
-frame: 043_00-18-05.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:18:05](https://drive.google.com/file/d/1qr_hpUHAd42XDRMrzLFPl8j7GxDQBNSy/view?usp=drivesdk) · `043_00-18-05.png`
 
 *product page*
 
@@ -411,7 +411,7 @@ Product names and prices: Jet Lag ($99), Sleep Elixir ($59 regular $79), Pod 5 C
 
 ## [00:19:55] Meta Ad Library Search Interface
 
-frame: 043_00-19-55.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:19:55](https://drive.google.com/file/d/1byk2SkuNXUHRcTpYQbNL6mMwowK413Up/view?usp=drivesdk) · `043_00-19-55.png`
 
 *webpage*
 
@@ -428,7 +428,7 @@ Meta Ad Library default UI layout and search inputs.
 
 ## [00:20:20] Competitor Ad Creatives for Blackout Blinds in Meta Ad Library
 
-frame: 043_00-20-20.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:20:20](https://drive.google.com/file/d/1AMTFhinvXeIfcZlw2uXjEePvEfIKkWQY/view?usp=drivesdk) · `043_00-20-20.png`
 
 *ad example*
 
@@ -449,7 +449,7 @@ Full Guard Blinds bullet copy: '100% blackout for deeper, uninterrupted sleep', 
 
 ## [00:20:30] BlocOut Ad Featuring Q&A Sticky Note on Instagram
 
-frame: 043_00-20-30.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:20:30](https://drive.google.com/file/d/1w8Bk7tkYXeMRsNgE7RU2NQdC4iJGJzo0/view?usp=drivesdk) · `043_00-20-30.png`
 
 *ad example*
 
@@ -468,7 +468,7 @@ Detailed text of the answer box in the ad sticker: "You need some that don't let
 
 ## [00:21:00] Avatar Research Document with Light Sleeper Label Added
 
-frame: 043_00-21-00.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:21:00](https://drive.google.com/file/d/1lueiCPMIY9JUPCDJ3RYc-FCV_w8WFDBw/view?usp=drivesdk) · `043_00-21-00.png`
 
 *document*
 
@@ -488,7 +488,7 @@ Light Sleeper"
 
 ## [00:21:15] Guard Blinds Video Ad: Nordic Sleep Secret
 
-frame: 043_00-21-15.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:21:15](https://drive.google.com/file/d/1r6-dKRwnRxzfvAvJyTKDztRyb4N2xsjT/view?usp=drivesdk) · `043_00-21-15.png`
 
 *ad example*
 
@@ -505,7 +505,7 @@ Bullet points on the Guard Blinds ad: temperature regulation ('cooler in summer,
 
 ## [00:21:20] Guard Blinds Video Ad Showing Melatonin Brain Graphic
 
-frame: 043_00-21-20.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:21:20](https://drive.google.com/file/d/1_tHizSroJBsTcJA0PsCxVg9cI7721qBk/view?usp=drivesdk) · `043_00-21-20.png`
 
 *ad example* | legibility: partly legible
 
@@ -522,7 +522,7 @@ Meta Ad Library video ad from Guard Blinds:
 
 ## [00:21:30] BlocOut Ad Showing Sticky Notes on Window Blinds
 
-frame: 043_00-21-30.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:21:30](https://drive.google.com/file/d/1WX1IR_RrJ4CT05_RBKkPfWiSwMpD47Tw/view?usp=drivesdk) · `043_00-21-30.png`
 
 *ad example*
 
@@ -543,7 +543,7 @@ Sticky note texts: "ABSOLUTE GAME CHANGER FOR NURSES", "BLACKOUT BLINDS FOR EVER
 
 ## [00:21:55] Avatar Document Updated with Daytime Sleep Note
 
-frame: 043_00-21-55.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:21:55](https://drive.google.com/file/d/1Fw_IH6vzVWuCdtL_M8zoohTVma4VE0rg/view?usp=drivesdk) · `043_00-21-55.png`
 
 *document*
 
@@ -564,7 +564,7 @@ Line: "Information that we've found -> Sleep during the day"
 
 ## [00:22:15] BlocOut Ad Creative in Meta Ad Library
 
-frame: 043_00-22-15.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:22:15](https://drive.google.com/file/d/1xx9igmN18QJDiINcMvu2Bzl5jmk3SYgM/view?usp=drivesdk) · `043_00-22-15.png`
 
 *ad example*
 
@@ -583,7 +583,7 @@ Footer link: 'Sleep Better From Night One - Approved By Athletes And Sleep Consu
 
 ## [00:22:30] Porta Fox Nursery Blackout Blinds Ad Copy
 
-frame: 043_00-22-30.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:22:30](https://drive.google.com/file/d/1WFZJfJRm_C5cnM7IQVPUAutmrrI97Zp6/view?usp=drivesdk) · `043_00-22-30.png`
 
 *ad example*
 
@@ -604,7 +604,7 @@ Footer link: PORTAFOX.COM - Finally, Blackout Blinds that aren't black!
 
 ## [00:23:05] Avatar Research Document with Nursery Desire Added
 
-frame: 043_00-23-05.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:23:05](https://drive.google.com/file/d/1Xbkh8ZOYGYbcTc07A95Lnhd3K2mE6po5/view?usp=drivesdk) · `043_00-23-05.png`
 
 *document*
 
@@ -638,7 +638,7 @@ Document title: "Official - Avatar Mastery for Shopify Brands: The Meta-First Fr
 
 ## [00:24:00] Midnight Anytime Blinds Ad Detail
 
-frame: 043_00-24-00.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:24:00](https://drive.google.com/file/d/10OsIrIqZn9scLJXMx_n8ZEngG_fPGZKC/view?usp=drivesdk) · `043_00-24-00.png`
 
 *ad example*
 
@@ -661,7 +661,7 @@ Bullet points: "Install in Under 30 Minutes", "100% Money Back Guarantee", "Perf
 
 ## [00:24:05] Midnight Anytime Blinds Multiple Ad Formats
 
-frame: 043_00-24-05.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:24:05](https://drive.google.com/file/d/1HZumajIyM1HMAIB3yTA7NPEjtRGhVOgb/view?usp=drivesdk) · `043_00-24-05.png`
 
 *ad example*
 
@@ -688,7 +688,7 @@ Extended bullets: Cord-Free & Child Safe, Temperature Control & Energy Saving, A
 
 ## [00:24:10] Meta Ad Library Search Results for Blackout Blinds
 
-frame: 043_00-24-10.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:24:10](https://drive.google.com/file/d/1f-1-nNF1jR4NXlHjR8PWGG_N-LrdGOv7/view?usp=drivesdk) · `043_00-24-10.png`
 
 *software demo* | legibility: partly legible
 
@@ -702,7 +702,7 @@ Shows advertiser names: Persianas Express Acapulco, FAKRO, Persianas Express Leo
 
 ## [00:24:20] MTL Blinds Ad Copy in Meta Ad Library
 
-frame: 043_00-24-20.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:24:20](https://drive.google.com/file/d/1ZD7RNSMd1mtVpJb_WchFgIj2bNDTROvv/view?usp=drivesdk) · `043_00-24-20.png`
 
 *ad example*
 
@@ -719,7 +719,7 @@ Ad body copy, headline, CTA button, and URL mtlblinds.com.
 
 ## [00:24:40] Blackout Blind Ad Copy and Video Creative
 
-frame: 043_00-24-40.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:24:40](https://drive.google.com/file/d/1KY2My4LdE86gCGJDkjI4jtBSonYkoOgZ/view?usp=drivesdk) · `043_00-24-40.png`
 
 *ad example*
 
@@ -740,7 +740,7 @@ URL THEBLACKOUTBLIND.COM, 'Buy Now, Pay Later', video duration 0:37.
 
 ## [00:25:25] Google Doc Avatar Framework with Potential Desires
 
-frame: 043_00-25-25.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:25:25](https://drive.google.com/file/d/1nz8p-qbw7a_an8JU7PZ9K5v9GXoUV92r/view?usp=drivesdk) · `043_00-25-25.png`
 
 *document*
 
@@ -777,7 +777,7 @@ Exact document layout and previous bullet points under Desire-Based Core Avatars
 
 ## [00:25:45] Avatar Scale Diagram
 
-frame: 043_00-25-45.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:25:45](https://drive.google.com/file/d/1dbF97ZHRDMEbDPnlMiudiMfdATfXxkLt/view?usp=drivesdk) · `043_00-25-45.png`
 
 *slide*
 
@@ -796,7 +796,7 @@ Full text of 'One Pepe' avatar description and 'All Pepes' description.
 
 ## [00:26:45] Google Doc Avatar Framework with Total Darkness Desire
 
-frame: 043_00-26-45.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:26:45](https://drive.google.com/file/d/1Nmj7tnfEXbRdLDj36-hN3V9k6uSj0Sq7/view?usp=drivesdk) · `043_00-26-45.png`
 
 *document*
 
@@ -814,7 +814,7 @@ Addition of 'Wants total darkness' under Potential Desires.
 
 ## [00:27:15] Google Search Results for Restorative Sleep on Reddit
 
-frame: 043_00-27-15.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:27:15](https://drive.google.com/file/d/1dqeOhptKNMAKSDbEZJ3ohpMDY0wyxC1D/view?usp=drivesdk) · `043_00-27-15.png`
 
 *webpage*
 
@@ -836,7 +836,7 @@ Subreddit names (r/whoop, r/fitbit, r/AthlyticAppOfficial, r/IWantToLearn), snip
 
 ## [00:27:50] Reddit Post Asking How to Increase REM and Deep Sleep
 
-frame: 043_00-27-50.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:27:50](https://drive.google.com/file/d/1Rfi_zQqVWykW46VPMWYyjlPeMjuUG9bK/view?usp=drivesdk) · `043_00-27-50.png`
 
 *social post*
 
@@ -858,7 +858,7 @@ User 'Time_Coconut_5268', exact breakdown metrics (9:03 hours, 2:24 restorative 
 
 ## [00:28:30] Google Search and AI Overview for REM Sleep
 
-frame: 043_00-28-30.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:28:30](https://drive.google.com/file/d/1h0PiBsCROC7hk3dGCX7_NgVXggf837U2/view?usp=drivesdk) · `043_00-28-30.png`
 
 *webpage*
 
@@ -880,7 +880,7 @@ List of physiological features in AI overview: eye movements under closed eyelid
 
 ## [00:29:15] Google AI Overview Answering If REM is Good Sleep
 
-frame: 043_00-29-15.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:29:15](https://drive.google.com/file/d/1dmMimf0SzEDGdomAsIHHX0_UVpjmwVaf/view?usp=drivesdk) · `043_00-29-15.png`
 
 *webpage*
 
@@ -898,7 +898,7 @@ Memory and Learning bullet details at the bottom of the snippet.
 
 ## [00:29:20] Meta-First Framework Google Doc Desires and Mechanisms Outline
 
-frame: 043_00-29-20.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:29:20](https://drive.google.com/file/d/1t66gyXMJxOFIMVAeUmZyIaDtMny_2ZiQ/view?usp=drivesdk) · `043_00-29-20.png`
 
 *document*
 
@@ -929,7 +929,7 @@ Detailed text of Steps 1-3, power rankings (#1 Health, #2 Status, #3 Sex, #4 Com
 
 ## [00:29:25] Google Doc on Finding New Information for Ads
 
-frame: 043_00-29-25.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:29:25](https://drive.google.com/file/d/1VFI_gxYiNQ_lpWNNC9GGE4snvKIczxex/view?usp=drivesdk) · `043_00-29-25.png`
 
 *document*
 
@@ -955,7 +955,7 @@ Flow Pouches ad breakdown, 18 Chestnuts example, Buchal mechanism reference.
 
 ## [00:30:55] Claude AI Research on REM Sleep Consumer Awareness
 
-frame: 043_00-30-55.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:30:55](https://drive.google.com/file/d/1WhfaP0spJMZvjc4syc37q88x9WPU9jxE/view?usp=drivesdk) · `043_00-30-55.png`
 
 *software demo*
 
@@ -976,7 +976,7 @@ UI elements, specific citation markers, full formatting of Claude response.
 
 ## [00:31:25] Claude AI Estimation of REM Sleep Awareness Demographics
 
-frame: 043_00-31-25.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:31:25](https://drive.google.com/file/d/1EUd151KJBHOQXFhT6ySbVJlkDw08JjsJ/view?usp=drivesdk) · `043_00-31-25.png`
 
 *software demo*
 
@@ -1000,7 +1000,7 @@ Bullet points under 'Higher-income health-conscious segment', full concluding ma
 
 ## [00:33:45] Desire-Based Core Avatars Google Doc Working Draft
 
-frame: 043_00-33-45.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:33:45](https://drive.google.com/file/d/11Yug8CxucxOEWmbu7BPQ0wOpfSuxHSqC/view?usp=drivesdk) · `043_00-33-45.png`
 
 *document*
 
@@ -1030,7 +1030,7 @@ Typed hierarchy showing Core Avatar #1, #2, #2.5, and #3 with their correspondin
 
 ## [00:34:25] Reddit Comments on Improving REM and Deep Sleep
 
-frame: 043_00-34-25.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:34:25](https://drive.google.com/file/d/1b1m4xBKzkBfKfq8zIVgsWHxlqCfN8UVB/view?usp=drivesdk) · `043_00-34-25.png`
 
 *social post*
 
@@ -1052,7 +1052,7 @@ Usernames (Turbulent_Struggle_2, feedzone_specialist, HatNo5681, reax2), upvote 
 
 ## [00:38:05] Documenting Magnesium Sub-Avatar Under Desire-Based Avatars
 
-frame: 043_00-38-05.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:38:05](https://drive.google.com/file/d/11y8Vzgi8xLFbGIE03GZ36kEKFjMEV6UB/view?usp=drivesdk) · `043_00-38-05.png`
 
 *document*
 
@@ -1078,7 +1078,7 @@ Desire-Based Core Avatar #3: Person wants to sleep in a quiet environment
 
 ## [00:38:45] Claude Prompt and Headline Angles for Magnesium Sub-Avatar
 
-frame: 043_00-38-45.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:38:45](https://drive.google.com/file/d/1VYJDSztBST1MArBW-PzxAnP7TTu-Sub8/view?usp=drivesdk) · `043_00-38-45.png`
 
 *software demo*
 
@@ -1108,7 +1108,7 @@ Sub-captions for each option: Positions past their current solution while teasin
 
 ## [00:39:35] Claude Recommended Angle Rationale for Magnesium Sleep Headlines
 
-frame: 043_00-39-35.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:39:35](https://drive.google.com/file/d/1xe3EUdvOExMcT4Hf3wElLuNNvevwhH7E/view?usp=drivesdk) · `043_00-39-35.png`
 
 *software demo*
 
@@ -1126,7 +1126,7 @@ Rationale text explaining why Option 2 was selected by Claude.
 
 ## [00:40:35] Reddit Thread on Whoop Sleep Data and Magnesium
 
-frame: 043_00-40-35.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:40:35](https://drive.google.com/file/d/1mxa52oAu-QkOjBHttnOAEtrJMqYr1TUR/view?usp=drivesdk) · `043_00-40-35.png`
 
 *social post*
 
@@ -1146,7 +1146,7 @@ User comments by feedzone_specialist, HatNo5681, and reax2 mentioning Magnesium 
 
 ## [00:41:55] Google AI Overview on Eating Before Bed and Sleep
 
-frame: 043_00-41-55.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:41:55](https://drive.google.com/file/d/1tpoUWG84dVx94Fxa7Wc6uffwizJOjw9H/view?usp=drivesdk) · `043_00-41-55.png`
 
 *webpage*
 
@@ -1167,7 +1167,7 @@ Mentions of tryptophan and melatonin, specific search results from Sleep Foundat
 
 ## [00:42:05] Sleep Foundation Article Key Takeaways on Eating Before Bed
 
-frame: 043_00-42-05.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:42:05](https://drive.google.com/file/d/1TmQtlpmRisy_FgeWAS1-w8SJzCLXudzT/view?usp=drivesdk) · `043_00-42-05.png`
 
 *webpage*
 
@@ -1189,7 +1189,7 @@ Author: Lauren Fountain, reviewer Dr. Abhinav Singh, date July 16, 2025; points 
 
 ## [00:42:20] Adding Behavior-Based Core Avatar for Bedtime Eating
 
-frame: 043_00-42-20.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:42:20](https://drive.google.com/file/d/1vEKwHfUurumk2Ic1QqWvynrYQXqYdM8d/view?usp=drivesdk) · `043_00-42-20.png`
 
 *document*
 
@@ -1204,7 +1204,7 @@ Heading: Behaviour-Based Core Avatars
 
 ## [00:43:25] Google Doc Section: How to Find New Information + Apply to Your Ads
 
-frame: 043_00-43-25.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:43:25](https://drive.google.com/file/d/1I8p93smLfn5RzjG0MteFNrv83gy3zskG/view?usp=drivesdk) · `043_00-43-25.png`
 
 *document*
 
@@ -1222,7 +1222,7 @@ Example #1 'Flow Pouches' ad description and thumbnail ('WHAT BIG SHROOM COMPANI
 
 ## [00:44:15] Documenting Behavior-Based Core Avatar for Bedtime Eating
 
-frame: 043_00-44-15.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:44:15](https://drive.google.com/file/d/1GvqE9_zEyj12M19FduijxW_pDUjcrkVb/view?usp=drivesdk) · `043_00-44-15.png`
 
 *document*
 
@@ -1239,7 +1239,7 @@ Typing cursor positioned right after 'Core Avatar #1: People who don't eat befor
 
 ## [00:44:30] Google Search and AI Overview on Bedtime Eating Effects
 
-frame: 043_00-44-30.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:44:30](https://drive.google.com/file/d/1GoMbpUIHAsRAN93WC32APzJ1s2MaKomr/view?usp=drivesdk) · `043_00-44-30.png`
 
 *webpage*
 
@@ -1255,7 +1255,7 @@ Search query details, AI Overview text snippet, Healthline search result link.
 
 ## [00:45:45] Reddit Thread r/whoop Discussing Bedtime Eating and Sleep Data
 
-frame: 043_00-45-45.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:45:45](https://drive.google.com/file/d/1z6zqIkPslvpRvVoJ-tgad6SDLP-G88T6/view?usp=drivesdk) · `043_00-45-45.png`
 
 *social post*
 
@@ -1272,7 +1272,7 @@ Usernames (Turbulent_Struggle_2, feedzone_specialist, HatNo5681, reax2), exact c
 
 ## [00:46:05] Reddit Comment on Bedroom Darkness and Blinds Routine
 
-frame: 043_00-46-05.png (Drive: https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+[frame 00:46:05](https://drive.google.com/file/d/1gMp3VVEDqX6j1Mvyw-ljGzevIJAri9Lm/view?usp=drivesdk) · `043_00-46-05.png`
 
 *social post*
 

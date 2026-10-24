@@ -1,14 +1,14 @@
 # 28. Understanding Your Product - Part 2 - Visual notes
 
 - **Frames kept:** 41 of 84 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [028-understanding-your-product-part-2-frames.zip](https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/028-understanding-your-product-part-2](https://drive.google.com/drive/folders/1cnJ64W16ZcYHbWmfw0LbYQBU-or5eEfp)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:30] Dog Friendly Co. Product Page Example
 
-frame: 028_00-00-30.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:00:30](https://drive.google.com/file/d/1ajFEABCveKzyvzm-Og1yznnpRYx3eI0g/view?usp=drivesdk) · `028_00-00-30.png`
 
 *product page*
 
@@ -32,7 +32,7 @@ URL/Brand: Dog Friendly Co.; 9938 Reviews; 60-day perfect fit guarantee; countdo
 
 ## [00:00:45] Product Overview Document Template
 
-frame: 028_00-00-45.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:00:45](https://drive.google.com/file/d/1Q5K8WeWG25e3nbYCj-kLGMXuM01gm-fy/view?usp=drivesdk) · `028_00-00-45.png`
 
 *document*
 
@@ -66,7 +66,7 @@ Document title: "Avatar Mastery for Shopify Brands: The Meta-First Framework"; G
 
 ## [00:01:30] Hemingway Editor Interface
 
-frame: 028_00-01-30.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:01:30](https://drive.google.com/file/d/16rwaEIPtuLJeWd1uJ7duux2WaIRsVZ8N/view?usp=drivesdk) · `028_00-01-30.png`
 
 *software demo*
 
@@ -85,7 +85,7 @@ Full UI layout of Hemingway App dark mode interface with readability statistics 
 
 ## [00:02:55] Product Overview Document - Completed Step 2 Draft
 
-frame: 028_00-02-55.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:02:55](https://drive.google.com/file/d/1TWIEQAds3eucV4K4HQ-dOB5q0gXcrhBQ/view?usp=drivesdk) · `028_00-02-55.png`
 
 *document*
 
@@ -117,7 +117,7 @@ Step 4 detail instructions visible at bottom: "For each feature, what does it DO
 
 ## [00:04:30] Claude AI Prompt for Rewriting Product Description
 
-frame: 028_00-04-30.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:04:30](https://drive.google.com/file/d/1A7oao1XL2Qs3LLGa9kaEUrXTMbr6fz9f/view?usp=drivesdk) · `028_00-04-30.png`
 
 *software demo*
 
@@ -136,7 +136,7 @@ Full exact text of prompt in Claude Sonnet 4 input box.
 
 ## [00:04:40] Claude AI Generated 6th-Grade Product Description
 
-frame: 028_00-04-40.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:04:40](https://drive.google.com/file/d/1dgYAf2FtP08woDqL8R50KiloBNfnw0sx/view?usp=drivesdk) · `028_00-04-40.png`
 
 *software demo*
 
@@ -154,7 +154,7 @@ Full text layout of original vs rewritten version in Claude interface.
 
 ## [00:04:45] Hemingway Editor Grade Check
 
-frame: 028_00-04-45.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:04:45](https://drive.google.com/file/d/1qYh3BNjb7ZVaDYkL3gY_Vd99bvHCNBPV/view?usp=drivesdk) · `028_00-04-45.png`
 
 *software demo*
 
@@ -175,7 +175,7 @@ Hemingway stats pane: Grade 7, 73 words, 4 weakeners.
 
 ## [00:05:15] Product Overview Document - Added 6th-Grade Version
 
-frame: 028_00-05-15.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:05:15](https://drive.google.com/file/d/1VYISjmhdKltf7kxQ29lIKV264PTaoBLx/view?usp=drivesdk) · `028_00-05-15.png`
 
 *document*
 
@@ -199,7 +199,7 @@ Step 3 Features numbered list placeholder.
 
 ## [00:05:45] Product Overview Document - Step 3 and Step 4
 
-frame: 028_00-05-45.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:05:45](https://drive.google.com/file/d/1uN_N2WS-wpw0BJKz7irCm-4iud3kItqN/view?usp=drivesdk) · `028_00-05-45.png`
 
 *document*
 
@@ -224,7 +224,7 @@ Step 4 instructions and format: 'Feature 1: -> Benefit: It does X', 'Feature 2: 
 
 ## [00:05:55] Dog Friendly Co. Product Details and Specifications
 
-frame: 028_00-05-55.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:05:55](https://drive.google.com/file/d/1TIdZdOYU3sGbr5Sd_UKONIyIFhbWpmcL/view?usp=drivesdk) · `028_00-05-55.png`
 
 *product page*
 
@@ -252,7 +252,7 @@ List items under PRODUCT DETAILS: 'Adjustable straps for a perfect fit', 'Sturdy
 
 ## [00:06:00] Dog Friendly Co. Product Page Details and Comparison Section
 
-frame: 028_00-06-00.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:06:00](https://drive.google.com/file/d/16X6mxnXzxYfKVcg6tFKIfmZoIIWVRG_Q/view?usp=drivesdk) · `028_00-06-00.png`
 
 *product page*
 
@@ -276,7 +276,7 @@ Lower body copy: "Discover why millions of dog owners are switching to the Dog F
 
 ## [00:06:20] Dog Friendly Co. Competitor Comparison Table
 
-frame: 028_00-06-20.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:06:20](https://drive.google.com/file/d/1i-jKqr9iP-m9K2ikWpJBa0NlqcFsF_NX/view?usp=drivesdk) · `028_00-06-20.png`
 
 *product page*
 
@@ -297,7 +297,7 @@ Images of 3 competitor harnesses shown at the top of the comparison columns; tot
 
 ## [00:06:25] Customer Reviews on Dog Friendly Co. Website
 
-frame: 028_00-06-25.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:06:25](https://drive.google.com/file/d/1rtyw2YB8BJW4LTwERGDvUQYt0j7lXhKN/view?usp=drivesdk) · `028_00-06-25.png`
 
 *product page*
 
@@ -322,7 +322,7 @@ Customer names (jasmin, Richard, Janis), star ratings, dates, and full text of r
 
 ## [00:06:40] Avatar Mastery Document - Step 3 Features In Progress
 
-frame: 028_00-06-40.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:06:40](https://drive.google.com/file/d/1R6xNOkL9lgyNutxoaI8bVaXnRGCJd2Hn/view?usp=drivesdk) · `028_00-06-40.png`
 
 *document*
 
@@ -349,7 +349,7 @@ Error banner at top: "The selected image is in an unsupported format. Dismiss".
 
 ## [00:07:15] Avatar Mastery Document - Completed Step 3 Features List
 
-frame: 028_00-07-15.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:07:15](https://drive.google.com/file/d/1Xf8A8rQgx51M9ksPZ-a86JwQsISKOe0s/view?usp=drivesdk) · `028_00-07-15.png`
 
 *document*
 
@@ -375,7 +375,7 @@ Full list of 5 typed features in the document.
 
 ## [00:07:25] Dog Friendly Co. Product Purchase Section and Options
 
-frame: 028_00-07-25.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:07:25](https://drive.google.com/file/d/171SZmCnRbLh1dxVkdcgDv8rvmA35EIyd/view?usp=drivesdk) · `028_00-07-25.png`
 
 *product page*
 
@@ -400,7 +400,7 @@ Price figures ($52.00 crossed out, $42.00 sale price), specific color and size s
 
 ## [00:07:45] Customer reviews section on Dog Friendly Co. product page
 
-frame: 028_00-07-45.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:07:45](https://drive.google.com/file/d/1ftOnlrB45qhwz3Br4W_kBUENfXxQ_pEc/view?usp=drivesdk) · `028_00-07-45.png`
 
 *product page*
 
@@ -422,7 +422,7 @@ Customer review dates '08/20/2025', detailed review text from Jasmin and Richard
 
 ## [00:08:15] Avatar Mastery document Step 4 Assumed Benefits setup
 
-frame: 028_00-08-15.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:08:15](https://drive.google.com/file/d/1yUz0EH2C8xCj-FRFkX64kqGzOE_CjsdK/view?usp=drivesdk) · `028_00-08-15.png`
 
 *document*
 
@@ -452,7 +452,7 @@ Step 5 prompt text at the bottom: 'For each benefit, what are the deeper desires
 
 ## [00:09:15] Claude AI research on ITW Unbreakable Secure Buckle
 
-frame: 028_00-09-15.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:09:15](https://drive.google.com/file/d/1OfaaP9szNi2AgpmwdEI5sFnQ3XAzVZsu/view?usp=drivesdk) · `028_00-09-15.png`
 
 *software demo*
 
@@ -477,7 +477,7 @@ Text details explaining side-release mechanisms, single-handed operation, ergono
 
 ## [00:10:15] Claude AI benefits list for ITW Secure Buckle
 
-frame: 028_00-10-15.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:10:15](https://drive.google.com/file/d/17ljE2a1gz-CIkv7ifKPbOG0dwh2J2-h2/view?usp=drivesdk) · `028_00-10-15.png`
 
 *software demo*
 
@@ -501,7 +501,7 @@ Categorization headers 'Safety & Security' and 'Durability & Cost Savings'; exac
 
 ## [00:10:45] Claude AI dog harness buckle benefits and practical applications
 
-frame: 028_00-10-45.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:10:45](https://drive.google.com/file/d/1EYVM3z3n6BwIKbD3U69QBG3KK6YOTPxi/view?usp=drivesdk) · `028_00-10-45.png`
 
 *software demo*
 
@@ -524,7 +524,7 @@ Practical benefits bullet points: 'even with gloves or in low light', 'military,
 
 ## [00:11:10] Avatar Mastery document Step 4 benefits filled for buckle and straps
 
-frame: 028_00-11-10.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:11:10](https://drive.google.com/file/d/1PxKa4RVaWG7D27KJBo1VSjHSh4stsnUE/view?usp=drivesdk) · `028_00-11-10.png`
 
 *document*
 
@@ -542,7 +542,7 @@ Feature 5: -> Benefit: It does X
 
 ## [00:12:00] Avatar Mastery document Step 4 with D-ring benefit typed
 
-frame: 028_00-12-00.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:12:00](https://drive.google.com/file/d/1P9iH2yBGjGH3ZPsIlorWG2VTp1D4ZEB6/view?usp=drivesdk) · `028_00-12-00.png`
 
 *document*
 
@@ -569,7 +569,7 @@ Step 5 placeholder template visible: 'Benefit 1: -> Desire: The person wants/nee
 
 ## [00:12:30] Claude AI analysis of heavy-duty D-ring benefits
 
-frame: 028_00-12-30.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:12:30](https://drive.google.com/file/d/1jEIBG72jfevctxj0rZHTI8GdGgULWBcE/view?usp=drivesdk) · `028_00-12-30.png`
 
 *software demo*
 
@@ -598,7 +598,7 @@ Bullet points regarding smooth leash movement, retractable leashes, double-leash
 
 ## [00:12:50] Claude AI Key Benefits of Heavy-Duty D-Ring
 
-frame: 028_00-12-50.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:12:50](https://drive.google.com/file/d/16NwjFU4ZsMRcD0vXSMJPTE39YKQUYCC1/view?usp=drivesdk) · `028_00-12-50.png`
 
 *software demo*
 
@@ -626,7 +626,7 @@ Detailed bullet point text under Safety Benefits and Practical Advantages.
 
 ## [00:13:45] Claude AI Benefits of Customizable Dog Harness Feature
 
-frame: 028_00-13-45.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:13:45](https://drive.google.com/file/d/1ZQy5MOlt4_D6rONZAlDr-wEU58vt-S8t/view?usp=drivesdk) · `028_00-13-45.png`
 
 *software demo*
 
@@ -661,7 +661,7 @@ Specific bullet points under Convenience, Professional & Personal Touch, and sum
 
 ## [00:14:10] Avatar Mastery Step 4 Completed Assumed Benefits List
 
-frame: 028_00-14-10.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:14:10](https://drive.google.com/file/d/1dWhHsPT2ev4aMJfgb9qwduQinRg-GhQQ/view?usp=drivesdk) · `028_00-14-10.png`
 
 *document*
 
@@ -690,7 +690,7 @@ Prompt guidelines text under Step 4 and Step 5.
 
 ## [00:18:45] Avatar Mastery Step 5 Completed Assumed Desires
 
-frame: 028_00-18-45.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:18:45](https://drive.google.com/file/d/1KFnhsNL1VuZTwLWrwmxb4VXH2482lM1M/view?usp=drivesdk) · `028_00-18-45.png`
 
 *document*
 
@@ -713,7 +713,7 @@ Step 6 heading and instructions visible at bottom.
 
 ## [00:19:50] Claude AI Benefits Converted to Desires
 
-frame: 028_00-19-50.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:19:50](https://drive.google.com/file/d/1Y4bkZEZ98PFkwQpjItXiyd4X8U-PMe11/view?usp=drivesdk) · `028_00-19-50.png`
 
 *software demo*
 
@@ -745,7 +745,7 @@ Exact wording of all Claude-generated desire statements.
 
 ## [00:20:45] Dog Friendly Co. "Why Choose Us?" Comparison Table
 
-frame: 028_00-20-45.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:20:45](https://drive.google.com/file/d/1SfMBRTW3CdagjJ2L7DHfeWcA7oaZ_eea/view?usp=drivesdk) · `028_00-20-45.png`
 
 *product page*
 
@@ -767,7 +767,7 @@ Comparison rows: 60-Day Risk Free Trial, Lifetime Warranty, One Click On/Off, an
 
 ## [00:20:55] Dog Friendly Co. Product Detail Page Features and Pricing
 
-frame: 028_00-20-55.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:20:55](https://drive.google.com/file/d/1MihhK6amDq_7UnybS5NiNkGh2q_5EM9O/view?usp=drivesdk) · `028_00-20-55.png`
 
 *product page*
 
@@ -797,7 +797,7 @@ Sale price ($42.00 vs $52.00), review count (9938 Reviews), color palette option
 
 ## [00:22:10] Dog Friendly Co. Product Comparison Section
 
-frame: 028_00-22-10.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:22:10](https://drive.google.com/file/d/1ZRO9TxsxOmJpoHBIFA0ycIiwaIXC5XS2/view?usp=drivesdk) · `028_00-22-10.png`
 
 *product page*
 
@@ -823,7 +823,7 @@ The exact wording of the paragraph under 'GET READY FOR WALKS IN LESS THAN TWO S
 
 ## [00:23:50] Claude AI Potential Unique Selling Propositions and Mechanisms
 
-frame: 028_00-23-50.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:23:50](https://drive.google.com/file/d/1aKY-ut7MFTFlyPOXKw9rN1UOAKexQkYV/view?usp=drivesdk) · `028_00-23-50.png`
 
 *software demo*
 
@@ -858,7 +858,7 @@ Exact bullet phrasing for 'What makes it unique' under each USP generated by Cla
 
 ## [00:26:00] Claude AI Hidden Mechanisms and Unadvertised Benefits
 
-frame: 028_00-26-00.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:26:00](https://drive.google.com/file/d/1RJEizPWpQ8k1BujYTWy9OLRj0nAqe0m1/view?usp=drivesdk) · `028_00-26-00.png`
 
 *software demo*
 
@@ -895,7 +895,7 @@ Full text of points 3, 4, 5, 6, 7, and 8, along with the 4 bullets explaining 'W
 
 ## [00:28:00] Avatar Mastery Steps 6 and 7 Filled Document
 
-frame: 028_00-28-00.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:28:00](https://drive.google.com/file/d/1irfPjVc98glUnwf6cWCqEPvJ0i9J7oaP/view?usp=drivesdk) · `028_00-28-00.png`
 
 *document*
 
@@ -924,7 +924,7 @@ The exact wording of the answers typed into questions 1, 2, and 3 under Step 7.
 
 ## [00:28:40] Claude AI Creative Customer Complaint Ideation
 
-frame: 028_00-28-40.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:28:40](https://drive.google.com/file/d/1czM_QOiG3aEGq4wFJUdvc3uXqRpjmJhQ/view?usp=drivesdk) · `028_00-28-40.png`
 
 *software demo*
 
@@ -949,7 +949,7 @@ Detailed bullet points generated under 'My Dog is Addicted to Walks Now' and 'Ev
 
 ## [00:29:20] Claude AI Potential Customer Complaints (Expanded List)
 
-frame: 028_00-29-20.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:29:20](https://drive.google.com/file/d/1Kmh2Q3lUVPBGTognb-SSletW_-e5bY1l/view?usp=drivesdk) · `028_00-29-20.png`
 
 *software demo*
 
@@ -995,7 +995,7 @@ If this dog harness worked perfectly, here are the complaints customers might ha
 
 ## [00:30:05] Claude AI Friend Recommendation Script (Draft 1)
 
-frame: 028_00-30-05.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:30:05](https://drive.google.com/file/d/1251S_kfEnlCt0eZhRzRQ83oN_4uml9j9/view?usp=drivesdk) · `028_00-30-05.png`
 
 *software demo*
 
@@ -1025,7 +1025,7 @@ Full text of paragraphs 3-6 of Claude's first response, including details about 
 
 ## [00:31:20] Pasted Casual Conversational Product Explanation in Document
 
-frame: 028_00-31-20.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:31:20](https://drive.google.com/file/d/1oeVAK8OCvO-TzFtK1hUZaLDMF4SXdsyV/view?usp=drivesdk) · `028_00-31-20.png`
 
 *document*
 
@@ -1044,7 +1044,7 @@ Why, is Buddy giving you trouble on walks? Yeah, you might want to try something
 
 ## [00:32:10] Product Overview Document Review (Steps 1 & 2)
 
-frame: 028_00-32-10.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:32:10](https://drive.google.com/file/d/1dy6KKnOrn5XqMBbqPOrE_Ew4RF7Hb0Au/view?usp=drivesdk) · `028_00-32-10.png`
 
 *document*
 
@@ -1072,7 +1072,7 @@ Purpose description text, exact copy for Product In Action and 6th-grade version
 
 ## [00:32:20] Product Overview Document (Steps 4 & 5 Assumed Benefits and Desires)
 
-frame: 028_00-32-20.png (Drive: https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+[frame 00:32:20](https://drive.google.com/file/d/1trmMzKCXcGnx4DR5Jrq0SXy5wxxKaHjP/view?usp=drivesdk) · `028_00-32-20.png`
 
 *document*
 

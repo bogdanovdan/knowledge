@@ -1,14 +1,14 @@
 # 21. The types of offers you can run - Visual notes
 
 - **Frames kept:** 9 of 35 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [021-the-types-of-offers-you-can-run-frames.zip](https://drive.google.com/file/d/1Aq7W1ByS2pTdPdyDdyUlCBfLvJyJes5q/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/021-the-types-of-offers-you-can-run](https://drive.google.com/drive/folders/1IJYoEUaU4arimT5FnIfyaZOJ3TijtVKD)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:01:15] Bundle & Save Offer Overview and Examples
 
-frame: 021_00-01-15.png (Drive: https://drive.google.com/file/d/1Aq7W1ByS2pTdPdyDdyUlCBfLvJyJes5q/view?usp=drivesdk)
+[frame 00:01:15](https://drive.google.com/file/d/1aehNbJ8s2fXhowClM66qLcqAgmutwqMP/view?usp=drivesdk) · `021_00-01-15.png`
 
 *slide*
 
@@ -26,7 +26,7 @@ Slide list on left: 3: IMPORTANT NOTE #2, 4: Bundle & Save, 5: $X Amount Off, 6:
 
 ## [00:01:30] $X Amount Off Offer Framework
 
-frame: 021_00-01-30.png (Drive: https://drive.google.com/file/d/1Aq7W1ByS2pTdPdyDdyUlCBfLvJyJes5q/view?usp=drivesdk)
+[frame 00:01:30](https://drive.google.com/file/d/1VDU3XwT9Xt2kJXHPhVzQzSBsFaraoo68/view?usp=drivesdk) · `021_00-01-30.png`
 
 *slide*
 
@@ -46,7 +46,7 @@ Examples: "Save $20!", "Save $30 On First Orders!", "Save Up To $80! Sitewide", 
 
 ## [00:02:05] Course Portal and PageDeck Offer Links
 
-frame: 021_00-02-05.png (Drive: https://drive.google.com/file/d/1Aq7W1ByS2pTdPdyDdyUlCBfLvJyJes5q/view?usp=drivesdk)
+[frame 00:02:05](https://drive.google.com/file/d/1HQHrwKuGhiePwdlWasj5JynRxtBlaSlC/view?usp=drivesdk) · `021_00-02-05.png`
 
 *webpage*
 
@@ -71,7 +71,7 @@ Discount Code: EASYA15 ($126.65/mo after 7-day trial, annual $1,430/yr).
 
 ## [00:03:45] Buy X Get X Free Offer Framework
 
-frame: 021_00-03-45.png (Drive: https://drive.google.com/file/d/1Aq7W1ByS2pTdPdyDdyUlCBfLvJyJes5q/view?usp=drivesdk)
+[frame 00:03:45](https://drive.google.com/file/d/1X2dok1uTSZ6AUOikenUTLiovAJ9TRDMZ/view?usp=drivesdk) · `021_00-03-45.png`
 
 *slide*
 
@@ -91,7 +91,7 @@ Slide heading tag: "⭐ Highly Recommend Offer". Example screenshot is Flow Pouc
 
 ## [00:08:25] %X Amount Off Offer Framework
 
-frame: 021_00-08-25.png (Drive: https://drive.google.com/file/d/1Aq7W1ByS2pTdPdyDdyUlCBfLvJyJes5q/view?usp=drivesdk)
+[frame 00:08:25](https://drive.google.com/file/d/1ou9cMlQarO670YFPI9ty52k5wYjzCvTJ/view?usp=drivesdk) · `021_00-08-25.png`
 
 *slide*
 
@@ -111,7 +111,7 @@ Tag: "⭐ Highly Recommend Offer". Example bullet 2: "Save 25% On First Orders!"
 
 ## [00:08:50] Buy X Get X Free Product Landing Page Example Zoom
 
-frame: 021_00-08-50.png (Drive: https://drive.google.com/file/d/1Aq7W1ByS2pTdPdyDdyUlCBfLvJyJes5q/view?usp=drivesdk)
+[frame 00:08:50](https://drive.google.com/file/d/1Bsz_dof3UkLic8VBiz9SOKbEjKNwb7Uk/view?usp=drivesdk) · `021_00-08-50.png`
 
 *slide*
 
@@ -131,7 +131,7 @@ Detailed pricing breakdown ($10.00 per can vs $7.50 per can), regular price cros
 
 ## [00:10:30] Buy X Get X% Off Offer Framework
 
-frame: 021_00-10-30.png (Drive: https://drive.google.com/file/d/1Aq7W1ByS2pTdPdyDdyUlCBfLvJyJes5q/view?usp=drivesdk)
+[frame 00:10:30](https://drive.google.com/file/d/14OwI7ztEV9jfEAskxFFjuY0PbR06XaaT/view?usp=drivesdk) · `021_00-10-30.png`
 
 *slide*
 
@@ -153,7 +153,7 @@ Tag 'Recommend If You Have Bad Margins'; cart drawer screenshot showing 'Add 2 M
 
 ## [00:12:40] Free Shipping Offer Framework
 
-frame: 021_00-12-40.png (Drive: https://drive.google.com/file/d/1Aq7W1ByS2pTdPdyDdyUlCBfLvJyJes5q/view?usp=drivesdk)
+[frame 00:12:40](https://drive.google.com/file/d/1rvjha0mqQj1dF08euqz6uyCGwb7SmOcI/view?usp=drivesdk) · `021_00-12-40.png`
 
 *slide*
 
@@ -175,7 +175,7 @@ Tag 'Recommend as an Add-On (not core offer)'; cart screenshot showing progress 
 
 ## [00:13:00] Carepod Product Page Quantity Bundle Pricing
 
-frame: 021_00-13-00.png (Drive: https://drive.google.com/file/d/1Aq7W1ByS2pTdPdyDdyUlCBfLvJyJes5q/view?usp=drivesdk)
+[frame 00:13:00](https://drive.google.com/file/d/1PVWjBMTVfrOkmT7Ug_vprqTYOmZASjtI/view?usp=drivesdk) · `021_00-13-00.png`
 
 *product page*
 

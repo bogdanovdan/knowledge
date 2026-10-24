@@ -1,14 +1,14 @@
 # 10. The whitebelt mindset - Visual notes
 
 - **Frames kept:** 1 of 44 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [010-the-whitebelt-mindset-frames.zip](https://drive.google.com/file/d/1TgwOTsKKHCm1iMcTzlucFQ_bOrs_AKA9/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/010-the-whitebelt-mindset](https://drive.google.com/drive/folders/1hsHGW4ahl-XpUdNWQTwoFV6u77RdGJG0)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:50] Origins Program - The Whitebelt Mindset lesson page
 
-frame: 010_00-00-50.png (Drive: https://drive.google.com/file/d/1TgwOTsKKHCm1iMcTzlucFQ_bOrs_AKA9/view?usp=drivesdk)
+[frame 00:00:50](https://drive.google.com/file/d/10Sf_6pOUvlD9hy5qJXx-q53CWwJ7HpAS/view?usp=drivesdk) · `010_00-00-50.png`
 
 *webpage*
 

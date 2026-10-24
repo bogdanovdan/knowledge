@@ -1,14 +1,14 @@
 # 8. How to guarantee success - Visual notes
 
 - **Frames kept:** 31 of 80 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [008-how-to-guarantee-success-frames.zip](https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/008-how-to-guarantee-success](https://drive.google.com/drive/folders/1PjJ4x4FujBRK-A6rk2GnLYD1TaDui6hf)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:02:30] Feedback Loops / Growth Loops Lesson Notes
 
-frame: 008_00-02-30.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:02:30](https://drive.google.com/file/d/1X-tkaEi_mxRIMOOUcCagVBdEl4yx2NZR/view?usp=drivesdk) · `008_00-02-30.png`
 
 *document*
 
@@ -38,7 +38,7 @@ URL: https://docs.google.com/document/d/17e_7Fu-C_1Ui8RaUcWYXlAiua8TO1lg_e68kY3m
 
 ## [00:06:40] Action Item: Complete a Feedback Loop Steps
 
-frame: 008_00-06-40.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:06:40](https://drive.google.com/file/d/1CZjcvQHb7FfLqmhPWRqC2vhc86SXH0OG/view?usp=drivesdk) · `008_00-06-40.png`
 
 *document*
 
@@ -69,7 +69,7 @@ Step 6: Organize your feedback loops so you can upload them to AI for future fee
 
 ## [00:07:10] Feedback Loop Document Template
 
-frame: 008_00-07-10.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:07:10](https://drive.google.com/file/d/10Dkld9X1hbkytQHSdquZCMWHh11fVwCI/view?usp=drivesdk) · `008_00-07-10.png`
 
 *document*
 
@@ -96,7 +96,7 @@ Full template layout showing Purpose, Step 1: Hypothesis (with positive and nega
 
 ## [00:09:35] Checklist: How To Review Ads That Make $100k
 
-frame: 008_00-09-35.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:09:35](https://drive.google.com/file/d/1mQOxFRN9KUdJMUL_9eFAxwwx35yySATw/view?usp=drivesdk) · `008_00-09-35.png`
 
 *webpage*
 
@@ -125,7 +125,7 @@ Checklist questions 4 through 14 are visible on screen but not read in the spoke
 
 ## [00:10:00] Carepod Humidifier Facebook Ad Example
 
-frame: 008_00-10-00.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:10:00](https://drive.google.com/file/d/1W5YwwqoReWtS_kKnm7PUSihxqEcqKWeB/view?usp=drivesdk) · `008_00-10-00.png`
 
 *ad example*
 
@@ -152,7 +152,7 @@ Full Facebook ad copy, risk-free 30 day offer, URL hellocarepod.com, and on-scre
 
 ## [00:10:10] AdSpy Search Results for Uproot Clean
 
-frame: 008_00-10-10.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:10:10](https://drive.google.com/file/d/1oejdbsIW924-1VDudnPAAAnQkcUyM9e8/view?usp=drivesdk) · `008_00-10-10.png`
 
 *software demo*
 
@@ -174,7 +174,7 @@ AdSpy UI search parameters, advertiser filter, date ranges, and ad copy texts.
 
 ## [00:11:35] Carepod Facebook Ad Video Hook Scene
 
-frame: 008_00-11-35.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:11:35](https://drive.google.com/file/d/1Xu7EXWv2CS6AWG5ignbTlLvwpAuuYbuA/view?usp=drivesdk) · `008_00-11-35.png`
 
 *ad example*
 
@@ -191,7 +191,7 @@ Post copy: 'Is air con drying out your skin and sinuses? You're not alone. ...',
 
 ## [00:14:35] Feedback Loop Document In Progress: Hypothesis and Actions
 
-frame: 008_00-14-35.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:14:35](https://drive.google.com/file/d/1WC-LcMmnbzkEbwJlkcSNkH00A55mSloZ/view?usp=drivesdk) · `008_00-14-35.png`
 
 *document*
 
@@ -220,7 +220,7 @@ Step 2 draft text: 'Are you a A parent that as your A/C colder than the arctic',
 
 ## [00:15:55] Feedback Loop Document Complete Action Items
 
-frame: 008_00-15-55.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:15:55](https://drive.google.com/file/d/1DakDfJTKs6BtyCDMYdkNGguyuTtNET4S/view?usp=drivesdk) · `008_00-15-55.png`
 
 *document*
 
@@ -243,7 +243,7 @@ Written action text: 'Lets test a more educational hook: "Did you know this abou
 
 ## [00:17:50] Feedback Loop Document with Reordered Hypotheses
 
-frame: 008_00-17-50.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:17:50](https://drive.google.com/file/d/1MVJsDjIBBw423k_g9_A0YvxZ05z_L_qU/view?usp=drivesdk) · `008_00-17-50.png`
 
 *document*
 
@@ -269,7 +269,7 @@ Reordered list under Step 1 placing visual/text mismatch and lack of visual lang
 
 ## [00:17:55] Uproot Clean Pet Grooming Kit Product Page
 
-frame: 008_00-17-55.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:17:55](https://drive.google.com/file/d/1bIQEcyFQHZcK_SiT_mM8NXGAkoE4xqt5/view?usp=drivesdk) · `008_00-17-55.png`
 
 *product page*
 
@@ -294,7 +294,7 @@ Pricing ($199.99 down from $299.00), 405 reviews, 2 free mystery gifts ($60 valu
 
 ## [00:18:25] Meta Ad Library Results for Uproot Clean
 
-frame: 008_00-18-25.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:18:25](https://drive.google.com/file/d/1gGFZG7nIhgsLqfrE_3ltMnZhLgSFWCPv/view?usp=drivesdk) · `008_00-18-25.png`
 
 *webpage*
 
@@ -313,7 +313,7 @@ Library IDs visible on cards (e.g. 990098299759605, 720106520653666), launch dat
 
 ## [00:18:55] Meta Ad Library Active Ads for Uproot Clean
 
-frame: 008_00-18-55.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:18:55](https://drive.google.com/file/d/1TrowGEIg4m329KAxteeDI5VY8nHRC6z1/view?usp=drivesdk) · `008_00-18-55.png`
 
 *webpage*
 
@@ -327,7 +327,7 @@ Ad creative headline 'Would you walk barefoot in 130° heat?' promoting paw clea
 
 ## [00:19:15] AdSpy View of Top Performing Uproot Clean Facebook Ad
 
-frame: 008_00-19-15.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:19:15](https://drive.google.com/file/d/1Y0u87KNeJ_8uBOa_jxv2iEE7-8aBumZZ/view?usp=drivesdk) · `008_00-19-15.png`
 
 *software demo*
 
@@ -341,7 +341,7 @@ Filter parameters: 'Seen Between: from 01-Mar-2025 to 27-Jul-2025', 'Order By: S
 
 ## [00:19:25] Uproot Clean Facebook Ad Opening Hook Video
 
-frame: 008_00-19-25.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:19:25](https://drive.google.com/file/d/1Tg1NavJYkqxZBJTIvtZpYBb1EWOUHGAI/view?usp=drivesdk) · `008_00-19-25.png`
 
 *ad example*
 
@@ -355,7 +355,7 @@ On-screen text overlay: '7-in-1 Grooming System'. Engagement metrics: 26K reacti
 
 ## [00:19:50] Uproot Clean Ad Demonstration of Vacuum Brush on Dog
 
-frame: 008_00-19-50.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:19:50](https://drive.google.com/file/d/1LWUS1LB_t47s5Lh__hNN3aWoh8FjrzCF/view?usp=drivesdk) · `008_00-19-50.png`
 
 *ad example*
 
@@ -369,7 +369,7 @@ Visual demonstration of hose attachment brushing the golden dog.
 
 ## [00:20:00] Uproot Clean Ad Product Close-Up
 
-frame: 008_00-20-00.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:20:00](https://drive.google.com/file/d/1C7hFIz5uIV5g6DxOdPqb4Eywm7P0rn4L/view?usp=drivesdk) · `008_00-20-00.png`
 
 *ad example*
 
@@ -383,7 +383,7 @@ Close-up detail of the deshedding/grooming vacuum head attachment.
 
 ## [00:20:05] Uproot Clean Facebook Ad Grooming Brush Hair Trapping
 
-frame: 008_00-20-05.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:20:05](https://drive.google.com/file/d/1tT4CI7KM4daObn3eRf25P1WTDX1UKpz3/view?usp=drivesdk) · `008_00-20-05.png`
 
 *ad example*
 
@@ -397,7 +397,7 @@ Facebook post date: 'August 29, 2024'. Caption text: 'who has really long wire h
 
 ## [00:20:10] Uproot Clean Ad Demonstrating Vacuum Hose Grooming Attachment
 
-frame: 008_00-20-10.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:20:10](https://drive.google.com/file/d/1d6FKc4WPgMoZFAbk04kBMnlsqTypIFAc/view?usp=drivesdk) · `008_00-20-10.png`
 
 *ad example*
 
@@ -411,7 +411,7 @@ Caption: 'that can address'. Grooming device bag labeled 'UPROOT CLEAN' visible 
 
 ## [00:20:15] Uproot Clean Ad Demonstrating Trimming Clipper Attachment
 
-frame: 008_00-20-15.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:20:15](https://drive.google.com/file/d/1VN9CaN8-ymQ6Ppn05BBO6fOlko9uv_4z/view?usp=drivesdk) · `008_00-20-15.png`
 
 *ad example*
 
@@ -425,7 +425,7 @@ Caption: 'It has a trimming attachment,'.
 
 ## [00:20:25] Uproot Clean Ad Demonstrating Vacuum De-shedding Attachment
 
-frame: 008_00-20-25.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:20:25](https://drive.google.com/file/d/1o_Vxfavlr0WXS_aryr-5EHfu50CkryPH/view?usp=drivesdk) · `008_00-20-25.png`
 
 *ad example*
 
@@ -439,7 +439,7 @@ Caption: 'We've got the attachment'.
 
 ## [00:20:35] Questions to Ask Before Submitting Video Ad Brief Checklist
 
-frame: 008_00-20-35.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:20:35](https://drive.google.com/file/d/1zsLdmRUndME31hCDdJeZKOGcgHkNQj-n/view?usp=drivesdk) · `008_00-20-35.png`
 
 *document*
 
@@ -468,7 +468,7 @@ Full 14-question review checklist items.
 
 ## [00:21:25] Feedback Loop Document for Winning Ad Creative Analysis
 
-frame: 008_00-21-25.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:21:25](https://drive.google.com/file/d/13uw6EigtndE6ZgG3Ial21PIRX0AJ2g9k/view?usp=drivesdk) · `008_00-21-25.png`
 
 *document*
 
@@ -490,7 +490,7 @@ Document structure, tab 'Winning - Ad Creativ...', exact written bullet: 'The ho
 
 ## [00:21:50] Uproot Clean Ad Displaying 7-in-1 Grooming System Caption
 
-frame: 008_00-21-50.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:21:50](https://drive.google.com/file/d/1vtEiyyEwY8P3PUqxnuW1xqlnLTHpomAv/view?usp=drivesdk) · `008_00-21-50.png`
 
 *ad example*
 
@@ -504,7 +504,7 @@ Overlay caption: '7-in-1 Grooming System'.
 
 ## [00:22:50] Uproot Clean Ad Demonstrating Fur Removal Tool on Golden Retriever
 
-frame: 008_00-22-50.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:22:50](https://drive.google.com/file/d/18r7cOUP4gZe9B4wwyzcNMP3ArV_tJp28/view?usp=drivesdk) · `008_00-22-50.png`
 
 *ad example*
 
@@ -518,7 +518,7 @@ Subtitle: 'specifically'.
 
 ## [00:23:10] AdSpy Search Results for Uproot Clean Laundry Cleaner and Lint Tool
 
-frame: 008_00-23-10.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:23:10](https://drive.google.com/file/d/1C81TtU3QoKcwk8NZwtd4luyPzpToDTvx/view?usp=drivesdk) · `008_00-23-10.png`
 
 *ad example*
 
@@ -536,7 +536,7 @@ Ad text details: "Washing Machine Cleaner Tabs", "enzyme-loaded tablets foam up 
 
 ## [00:23:15] AdSpy Filter Settings for Uproot Clean Competitor Research
 
-frame: 008_00-23-15.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:23:15](https://drive.google.com/file/d/1gGzHmAlT9A_iYi_FAghix8o2d_Hyvao5/view?usp=drivesdk) · `008_00-23-15.png`
 
 *software demo*
 
@@ -553,7 +553,7 @@ Filter specifics: "Seen Between: from 01-Mar-2025 to 27-Jul-2025", "Order By: Sh
 
 ## [00:23:30] Uproot Clean Washing Machine Cleaner Ad Video Hook
 
-frame: 008_00-23-30.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:23:30](https://drive.google.com/file/d/17KUbXk01PrEos3caGwKjr9sLXf_5TTBg/view?usp=drivesdk) · `008_00-23-30.png`
 
 *ad example*
 
@@ -571,7 +571,7 @@ Ad title below player: "Get Rid of Bacteria & Pet Odor from Your Washer", "Shop 
 
 ## [00:25:10] Completed Winning Ad Creative Feedback Loop Hypotheses
 
-frame: 008_00-25-10.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:25:10](https://drive.google.com/file/d/1hezbtmlzkY7l8aq9gCtqeEOIrU3HsD7u/view?usp=drivesdk) · `008_00-25-10.png`
 
 *document*
 
@@ -599,7 +599,7 @@ The verbatim typed bullet points under Step 1 and Step 2 in the document.
 
 ## [00:25:25] Action Item Steps for Completing Feedback Loops
 
-frame: 008_00-25-25.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:25:25](https://drive.google.com/file/d/1YFquhjnba7dymx2K67jkxU65BwcdhnXc/view?usp=drivesdk) · `008_00-25-25.png`
 
 *document*
 
@@ -626,7 +626,7 @@ Full Google Docs URL: https://docs.google.com/document/d/17e_7Fu-C_1UiBRaUcwyXIA
 
 ## [00:27:20] Origins Classroom Lesson: Why you won't succeed by just being consistent
 
-frame: 008_00-27-20.png (Drive: https://drive.google.com/file/d/12lT8wWRHMa9bpj9z4lUNmdZlPQgwFmQS/view?usp=drivesdk)
+[frame 00:27:20](https://drive.google.com/file/d/1V1n-J8bDoMLQ78mtfdEdBAFperju1fHS/view?usp=drivesdk) · `008_00-27-20.png`
 
 *webpage*
 

@@ -1,14 +1,14 @@
 # 89. 🆕 How to pull ideas & frameworks from ads - Visual notes
 
 - **Frames kept:** 22 of 51 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [089-how-to-pull-ideas-frameworks-from-ads-frames.zip](https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/089-how-to-pull-ideas-frameworks-from-ads](https://drive.google.com/drive/folders/1VtXGKruyYeRNfpGzrHw8lDMxRWqKqms9)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:45] Everyday Dose Facebook ad video opening hook
 
-frame: 089_00-00-45.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:00:45](https://drive.google.com/file/d/10Sw9Bi3KIM3SRK0ujPijskrHpbNBVOeP/view?usp=drivesdk) · `089_00-00-45.png`
 
 *ad example*
 
@@ -27,7 +27,7 @@ Account name Everyday Dose, post copy 'Try Risk Free For 45 Days + FREE GIFTS', 
 
 ## [00:00:55] Everyday Dose ad showing coffee drink in parking lot
 
-frame: 089_00-00-55.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:00:55](https://drive.google.com/file/d/1Hm4FUzrMkW2MKldsyNh7TvvVYJGTCXZr/view?usp=drivesdk) · `089_00-00-55.png`
 
 *ad example*
 
@@ -38,7 +38,7 @@ Video text overlay: "I ordered a bag of this coffee"
 
 ## [00:01:35] Everyday Dose ad hook: I think I just got scammed
 
-frame: 089_00-01-35.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:01:35](https://drive.google.com/file/d/1VVPbmnYKGGB8OUxh9UjGsnhrIE46p5Xp/view?usp=drivesdk) · `089_00-01-35.png`
 
 *ad example*
 
@@ -50,7 +50,7 @@ Sidebar shows Everyday Dose Facebook ad copy, engagement (22K reactions, 2.4K co
 
 ## [00:01:50] Everyday Dose ad showing delivery box on welcome mat
 
-frame: 089_00-01-50.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:01:50](https://drive.google.com/file/d/16WpGjlDkPl9Z1-peNAVTwCmYQZwfQwjv/view?usp=drivesdk) · `089_00-01-50.png`
 
 *ad example*
 
@@ -64,7 +64,7 @@ Door mat lettering visible ("WELCOME"), box design details.
 
 ## [00:01:55] Everyday Dose ad product shot of mushroom coffee pouch
 
-frame: 089_00-01-55.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:01:55](https://drive.google.com/file/d/1F3eqg9AzJiaPrKQaZ__hVzeQ1ABKbHUU/view?usp=drivesdk) · `089_00-01-55.png`
 
 *ad example*
 
@@ -78,7 +78,7 @@ Pouch text: "Mushroom Collagen Protein Nootropics".
 
 ## [00:03:45] Everyday Dose ad unboxing showing free gift sticky notes
 
-frame: 089_00-03-45.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:03:45](https://drive.google.com/file/d/19EAtenf--lDol9ZVDebyySefRlbn8d3b/view?usp=drivesdk) · `089_00-03-45.png`
 
 *ad example*
 
@@ -92,7 +92,7 @@ Inside lid instructions text verbatim, branding on handheld frother "EVERYDAY DO
 
 ## [00:03:50] Everyday Dose starter kit display with free offer caption
 
-frame: 089_00-03-50.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:03:50](https://drive.google.com/file/d/12INOotu9FsMtPs45zNdQaE7_ecLdW1sC/view?usp=drivesdk) · `089_00-03-50.png`
 
 *ad example*
 
@@ -106,7 +106,7 @@ Everyday Dose starter kit box display on kitchen counter with coffee pouch, frot
 
 ## [00:05:45] Everyday Dose ad smartphone displaying 100k 5-star reviews social proof
 
-frame: 089_00-05-45.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:05:45](https://drive.google.com/file/d/1qseGdTsjpXLFwZIo2ORbB5IbwGgqL-SW/view?usp=drivesdk) · `089_00-05-45.png`
 
 *ad example*
 
@@ -120,7 +120,7 @@ Reviewer names: Jennifer Saavedra, Jessi; review dates: Oct 6, 2023, Sep 25, 202
 
 ## [00:05:55] Everyday Dose ad UGC creator holding mug with viral claim
 
-frame: 089_00-05-55.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:05:55](https://drive.google.com/file/d/1nZfoT3AwTVzTPiH1MBa96cXkJsu5M04T/view?usp=drivesdk) · `089_00-05-55.png`
 
 *ad example*
 
@@ -134,7 +134,7 @@ Facebook post caption preview and comments on the right sidebar.
 
 ## [00:06:10] Everyday Dose ad warehouse shot presenting free gifts offer
 
-frame: 089_00-06-10.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:06:10](https://drive.google.com/file/d/1uE-X3W6kl_WEHh6QTJyepQPayV273SfD/view?usp=drivesdk) · `089_00-06-10.png`
 
 *ad example*
 
@@ -144,7 +144,7 @@ Video ad showing hands gesturing above product boxes and accessories in a packag
 
 ## [00:06:45] Everyday Dose ad starter kit box and monthly free gifts
 
-frame: 089_00-06-45.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:06:45](https://drive.google.com/file/d/1o9nAZiEmMDjUpDJ63HDXjjMNGevBr-0j/view?usp=drivesdk) · `089_00-06-45.png`
 
 *ad example*
 
@@ -158,7 +158,7 @@ Open box display containing Everyday Dose coffee bag, measuring spoon, frother, 
 
 ## [00:06:50] Everyday Dose ad woman drinking iced functional coffee
 
-frame: 089_00-06-50.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:06:50](https://drive.google.com/file/d/1Ugnm5d2Wyf9xo_T74uyxTd5pBqvN0fuh/view?usp=drivesdk) · `089_00-06-50.png`
 
 *ad example*
 
@@ -168,7 +168,7 @@ Woman sipping iced coffee drink from a glass through a straw. Text overlay banne
 
 ## [00:07:05] Everyday Dose ad scooping coffee powder into water
 
-frame: 089_00-07-05.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:07:05](https://drive.google.com/file/d/1uZKeckaLPSWoWVHsrc0SDcftWwyGToKe/view?usp=drivesdk) · `089_00-07-05.png`
 
 *ad example*
 
@@ -178,7 +178,7 @@ Top-down view of a scoop pouring Everyday Dose coffee powder into a glass of wat
 
 ## [00:07:20] Everyday Dose ad branded glassware and scarcity hook
 
-frame: 089_00-07-20.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:07:20](https://drive.google.com/file/d/1oZsXs7hNwMufTCWIflss4RrAwPTWNGBY/view?usp=drivesdk) · `089_00-07-20.png`
 
 *ad example*
 
@@ -192,7 +192,7 @@ Branded glass artwork with mushroom illustrations.
 
 ## [00:07:35] Everyday Dose ad creator kissing coffee bag with good luck banner
 
-frame: 089_00-07-35.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:07:35](https://drive.google.com/file/d/11bSox_mNTt-JU85A1smmxp5nOfHizh48/view?usp=drivesdk) · `089_00-07-35.png`
 
 *ad example*
 
@@ -202,7 +202,7 @@ Woman outdoors holding Everyday Dose coffee pouch next to her face. Large banner
 
 ## [00:10:05] Everyday Dose ad hook: I think I just got SCAMMED
 
-frame: 089_00-10-05.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:10:05](https://drive.google.com/file/d/1QtPa8r79nhZkf2zp49zmR5AOj62TMSKL/view?usp=drivesdk) · `089_00-10-05.png`
 
 *ad example*
 
@@ -219,7 +219,7 @@ Facebook interface details: Everyday Dose post from February 2, 22K likes, 2.4K 
 
 ## [00:11:10] Everyday Dose ad: I ordered a bag of this coffee
 
-frame: 089_00-11-10.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:11:10](https://drive.google.com/file/d/1_PKwosdme9vIDkuGUv1Hyl1-DP0VZmOr/view?usp=drivesdk) · `089_00-11-10.png`
 
 *ad example*
 
@@ -234,7 +234,7 @@ Silver bag design with text 'EVERYDAY DOSE MUSHROOM COFFEE+'
 
 ## [00:11:20] Everyday Dose ad: you get 5 free gifts unboxing
 
-frame: 089_00-11-20.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:11:20](https://drive.google.com/file/d/1X3ElHN-eKGBCJDZghsw3AhzjG0HQf8la/view?usp=drivesdk) · `089_00-11-20.png`
 
 *ad example*
 
@@ -249,7 +249,7 @@ Inside lid text: 'THE JOURNEY TO OPTIMIZE YOUR MIND AND BODY STARTS NOW. SCOOP A
 
 ## [00:12:20] Everyday Dose ad: but they sent me this entire box
 
-frame: 089_00-12-20.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:12:20](https://drive.google.com/file/d/1v1lFSG3BJaLmYSW8yW7cyjkmjzZMi2Nf/view?usp=drivesdk) · `089_00-12-20.png`
 
 *ad example*
 
@@ -264,7 +264,7 @@ Gold text on box: 'EVERYDAY DOSE'
 
 ## [00:14:50] Everyday Dose ad product shot: coffee cup beside pouch
 
-frame: 089_00-14-50.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:14:50](https://drive.google.com/file/d/1dtR3PmqYvrRibHjjspZCzGXdVdvK4wk6/view?usp=drivesdk) · `089_00-14-50.png`
 
 *ad example*
 
@@ -279,7 +279,7 @@ Glass mug shows frothy light brown coffee.
 
 ## [00:15:00] Everyday Dose ad starter kit contents and monthly gifts insert
 
-frame: 089_00-15-00.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:15:00](https://drive.google.com/file/d/1xd2ZkXuXGvFW71erAWf-wOK-mfDViziQ/view?usp=drivesdk) · `089_00-15-00.png`
 
 *ad example*
 
@@ -295,7 +295,7 @@ On-screen caption: "for completely free"; inner box copy: "WELCOME TO THE OTHER.
 
 ## [00:15:05] Everyday Dose ad creator demonstrating gut health benefit
 
-frame: 089_00-15-05.png (Drive: https://drive.google.com/file/d/18DMnK6oSOATqjDAt7me-oAUBmqOU3r9X/view?usp=drivesdk)
+[frame 00:15:05](https://drive.google.com/file/d/12SpUfejLmMmsr3OhpIVni3yuxykCvkO_/view?usp=drivesdk) · `089_00-15-05.png`
 
 *ad example*
 

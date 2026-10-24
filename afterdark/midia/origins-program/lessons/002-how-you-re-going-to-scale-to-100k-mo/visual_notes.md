@@ -1,14 +1,14 @@
 # 2. How you're going to scale to $100k/mo - Visual notes
 
 - **Frames kept:** 23 of 77 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [002-how-you-re-going-to-scale-to-100k-mo-frames.zip](https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/002-how-you-re-going-to-scale-to-100k-mo](https://drive.google.com/drive/folders/1zbGa7lLrEkP1tNklLa-AlWAqRMsgwNM6)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:15] Origins Skool classroom overview and modules
 
-frame: 002_00-00-15.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:00:15](https://drive.google.com/file/d/1LobVK72uII-TUYKuAaDekptiTds_Q9N0/view?usp=drivesdk) · `002_00-00-15.png`
 
 *webpage*
 
@@ -22,7 +22,7 @@ Sidebar curriculum module names: Origins Mindset, How To Find Products, How To C
 
 ## [00:00:25] Origins Skool About page details and pricing
 
-frame: 002_00-00-25.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:00:25](https://drive.google.com/file/d/1SQIgjeqHux2sqWuQm5WkTDJfhHQbBnEL/view?usp=drivesdk) · `002_00-00-25.png`
 
 *webpage*
 
@@ -36,7 +36,7 @@ Skool URL skool.com/origins, Current Price: $98/month, 923 members, 26 online, C
 
 ## [00:01:25] Evolve Skool About page and pricing
 
-frame: 002_00-01-25.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:01:25](https://drive.google.com/file/d/1MQ70pKQ1D92M3akm27SXRZc944vIG_B_/view?usp=drivesdk) · `002_00-01-25.png`
 
 *webpage*
 
@@ -50,7 +50,7 @@ URL: skool.com/evolve-8484, Price: $1,250 /month, member count: 641 members, CRO
 
 ## [00:01:45] New To Origins post text on mindset and business value
 
-frame: 002_00-01-45.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:01:45](https://drive.google.com/file/d/1g6CiV0_3u15tF-jn0WlsrBuSRtTqDAvY/view?usp=drivesdk) · `002_00-01-45.png`
 
 *webpage*
 
@@ -64,7 +64,7 @@ Specific text copy referencing Elon Musk analogy, skills vs luck, and value deli
 
 ## [00:01:50] New To Origins post introduction and rules
 
-frame: 002_00-01-50.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:01:50](https://drive.google.com/file/d/1bam9sd4RqCMrPccrqJjEAJWA-E6TwiV0/view?usp=drivesdk) · `002_00-01-50.png`
 
 *webpage*
 
@@ -78,7 +78,7 @@ Statement that Evolve's #1 source of members is word of mouth, not paid ads/YouT
 
 ## [00:02:05] New To Origins post 3 buckets of student problems
 
-frame: 002_00-02-05.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:02:05](https://drive.google.com/file/d/1rQ_ezScuY3MrjJs4pbvFx2ZWecwBuTV2/view?usp=drivesdk) · `002_00-02-05.png`
 
 *webpage*
 
@@ -92,7 +92,7 @@ The three numbered failure points: 1. Figuring out how to organize good informat
 
 ## [00:02:15] New To Origins post copy on mindset and course value
 
-frame: 002_00-02-15.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:02:15](https://drive.google.com/file/d/1d_Yt63uXrtwGlYoFIdKweS65mvRPEXqf/view?usp=drivesdk) · `002_00-02-15.png`
 
 *document*
 
@@ -125,7 +125,7 @@ Elon Musk analogy; full text explaining the connection between making money in O
 
 ## [00:02:25] Origins Skool classroom student wins feed
 
-frame: 002_00-02-25.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:02:25](https://drive.google.com/file/d/1kAZ4yqdSiWsTGv1YNW6mb3LuJcGckc2D/view?usp=drivesdk) · `002_00-02-25.png`
 
 *webpage*
 
@@ -159,7 +159,7 @@ Member names (Nick Corliss, Noe Lembalemba), post titles, and screenshot summari
 
 ## [00:02:45] Origins classroom module: What to do in the first 48 hours
 
-frame: 002_00-02-45.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:02:45](https://drive.google.com/file/d/1trmRcTENt0SGHN7mQx3cMokkkSQk1YOd/view?usp=drivesdk) · `002_00-02-45.png`
 
 *webpage*
 
@@ -176,7 +176,7 @@ Video duration (10:08), specific checklist items ('Fix your mindset/break belief
 
 ## [00:02:55] Origins classroom module: What to do in the first 30 days
 
-frame: 002_00-02-55.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:02:55](https://drive.google.com/file/d/1sDSkYsbY4yEB3BcVRYi9O862W7N4duSF/view?usp=drivesdk) · `002_00-02-55.png`
 
 *webpage*
 
@@ -200,7 +200,7 @@ The full 30-day action checklist and rules verbatim; video length (8:00).
 
 ## [00:04:20] Community win post by Nick Corliss
 
-frame: 002_00-04-20.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:04:20](https://drive.google.com/file/d/1oDv6JeBFSOHP4YeluRpv4tY6kfE02N4u/view?usp=drivesdk) · `002_00-04-20.png`
 
 *social post*
 
@@ -218,7 +218,7 @@ Shopify figure NZ$42,966.24; comment authors and text.
 
 ## [00:04:45] Origins lesson post showing Marvin Q student win
 
-frame: 002_00-04-45.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:04:45](https://drive.google.com/file/d/1r9unTvRiusE-rZtTX98oUDOrwcYwdN64/view?usp=drivesdk) · `002_00-04-45.png`
 
 *webpage* | legibility: partly legible
 
@@ -241,7 +241,7 @@ Marvin Q testimonial text, ad spend mentioned ($25-30K), total sales metric ($14
 
 ## [00:05:15] Evolve member result comparison screenshot: $1k to $134k/day
 
-frame: 002_00-05-15.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:05:15](https://drive.google.com/file/d/1nZRobCpdUBDgS8xnO2aMmOTYR_Tywj11/view?usp=drivesdk) · `002_00-05-15.png`
 
 *webpage*
 
@@ -269,7 +269,7 @@ Exact dates on graph (12 Sept 2023 vs October), exact baseline figure (US$1,633.
 
 ## [00:05:50] Origins post scrolling through Evolve community results
 
-frame: 002_00-05-50.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:05:50](https://drive.google.com/file/d/1MWr4iOVBsdkYmJPGy_VlIZ3q9ptWdxOM/view?usp=drivesdk) · `002_00-05-50.png`
 
 *webpage* | legibility: partly legible
 
@@ -289,7 +289,7 @@ Written text in the post; details of the post with sports cars: "bought cars for
 
 ## [00:06:05] Origins lesson post text referencing Alex Hormozi video
 
-frame: 002_00-06-05.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:06:05](https://drive.google.com/file/d/14_KM33t4trvsdYOC375GVvObMhNPJ2xa/view?usp=drivesdk) · `002_00-06-05.png`
 
 *webpage*
 
@@ -313,7 +313,7 @@ Embedded video player thumbnail showing Alex Hormozi.
 
 ## [00:06:20] Member results: Tommy doubled rev and 59% margin on $49k day
 
-frame: 002_00-06-20.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:06:20](https://drive.google.com/file/d/1NaHTbkJGONHHjaqlQxteMY_dqIVFGYGT/view?usp=drivesdk) · `002_00-06-20.png`
 
 *social post*
 
@@ -332,7 +332,7 @@ Dates and exact dashboard metrics: $9,340.95 vs $17,908.08; Total sales US$49,19
 
 ## [00:06:25] Member results: Rainer $300k day
 
-frame: 002_00-06-25.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:06:25](https://drive.google.com/file/d/13ZDKZwLUrCMk7fHX5mEWu1xoadoh0D4B/view?usp=drivesdk) · `002_00-06-25.png`
 
 *social post*
 
@@ -352,7 +352,7 @@ Rainer's username, date 2025-11-08, sessions 106,734, exact sales $296,175.47, o
 
 ## [00:06:30] Member result post: $100k/day achievement
 
-frame: 002_00-06-30.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:06:30](https://drive.google.com/file/d/13lKnGtXu6aQezpIj7lBC5rl4EP9hd166/view?usp=drivesdk) · `002_00-06-30.png`
 
 *social post* | legibility: partly legible
 
@@ -368,7 +368,7 @@ Post author Youssef, copy details about grocery store and statics + advertorial.
 
 ## [00:06:40] Coach Mike £22k day and Adrian $100k/day in Mexico
 
-frame: 002_00-06-40.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:06:40](https://drive.google.com/file/d/1B20nsIyOUydP70dXQn1CkTPLw3Te5W56/view?usp=drivesdk) · `002_00-06-40.png`
 
 *social post* | legibility: partly legible
 
@@ -390,7 +390,7 @@ Mike's store is in GBP (£22,081.23, orders 364, conversion rate 3.97%); Adrian'
 
 ## [00:06:50] Adrian $100k/day in Mexico dashboard details
 
-frame: 002_00-06-50.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:06:50](https://drive.google.com/file/d/1LfXGLxW_Tm1HXGm9-X2YhEvJqXYovDF_/view?usp=drivesdk) · `002_00-06-50.png`
 
 *social post*
 
@@ -411,7 +411,7 @@ Exact session count 48,486, orders 945, conversion rate 1.93%, exact total sales
 
 ## [00:06:55] Community member win posts and Shopify revenue metrics
 
-frame: 002_00-06-55.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:06:55](https://drive.google.com/file/d/1amI2HMgabRzhOObGEQcxTEhiQ-tcwiKy/view?usp=drivesdk) · `002_00-06-55.png`
 
 *social post* | legibility: partly legible
 
@@ -428,7 +428,7 @@ Detailed figures: Store 1 USD 188,810.63, Store 2 USD 878,068.60; sessions count
 
 ## [00:07:00] Community posts showing $420k month and $379k revenue graph
 
-frame: 002_00-07-00.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:07:00](https://drive.google.com/file/d/19jqgbtUz0-6P1gL2NDXP477gUby4lIcT/view?usp=drivesdk) · `002_00-07-00.png`
 
 *social post* | legibility: partly legible
 
@@ -444,7 +444,7 @@ Usernames Keros R and Josh C; text regarding lowering BE ROAS from 1.3 to 1.15; 
 
 ## [00:07:35] Origins Skool community success stories: $1k/day to $2k/day in 7 days
 
-frame: 002_00-07-35.png (Drive: https://drive.google.com/file/d/1RCysQbqkJKDaVWuuXp0rI3pW2c2Pl99X/view?usp=drivesdk)
+[frame 00:07:35](https://drive.google.com/file/d/1kt9wv1Vksa4RdPPDb9cXh3Vh-ep0hmAH/view?usp=drivesdk) · `002_00-07-35.png`
 
 *social post*
 

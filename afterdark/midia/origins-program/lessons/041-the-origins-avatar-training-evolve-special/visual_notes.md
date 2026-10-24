@@ -1,14 +1,14 @@
 # 41. The Origins Avatar Training (Evolve Special) - Visual notes
 
 - **Frames kept:** 137 of 481 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [041-the-origins-avatar-training-evolve-special-frames.zip](https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/041-the-origins-avatar-training-evolve-special](https://drive.google.com/drive/folders/1mr56ZQybB4yzToM-Pz7oR9w3U9WPb_oJ)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:03:35] The Evolve Avatar Training Document Introduction
 
-frame: 041_00-03-35.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:03:35](https://drive.google.com/file/d/1hMzZGc6c_PtN_EPIfhTRj0mDXugRtgm8/view?usp=drivesdk) · `041_00-03-35.png`
 
 *document*
 
@@ -51,7 +51,7 @@ Document title "Official - Avatar Mastery for Shopify Brands: The Meta-First Fra
 
 ## [00:07:45] Definition of Avatar and the Problem with Avatars
 
-frame: 041_00-07-45.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:07:45](https://drive.google.com/file/d/1-0zDa3B9TQGPanpNFJp4xhyYoGR5Jljq/view?usp=drivesdk) · `041_00-07-45.png`
 
 *document*
 
@@ -92,7 +92,7 @@ Document title: Official - Avatar Mastery for Shopify Brands: The Meta-First Fra
 
 ## [00:10:40] What is an Avatar for eCommerce and Common Terminology
 
-frame: 041_00-10-40.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:10:40](https://drive.google.com/file/d/1KIDSSua-he-nHshvL7ep68Rznvz91tvM/view?usp=drivesdk) · `041_00-10-40.png`
 
 *document*
 
@@ -112,7 +112,7 @@ Bullet list breakdown showing specific alternative industry terms for Avatars.
 
 ## [00:12:00] Creative Strategy and Meta Targeting Mechanics
 
-frame: 041_00-12-00.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:12:00](https://drive.google.com/file/d/1cU2ckWBZrt7YdumYXjsFY_s9AoKSXwFz/view?usp=drivesdk) · `041_00-12-00.png`
 
 *document*
 
@@ -147,7 +147,7 @@ Meta targeting is now done 99% by the actual creative. Not the audience you sele
 
 ## [00:15:10] Document: Creative-Based Meta Targeting and Common Avatars
 
-frame: 041_00-15-10.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:15:10](https://drive.google.com/file/d/150IVbMhZr1cLiqBTAAws4HBTISJDnRbD/view?usp=drivesdk) · `041_00-15-10.png`
 
 *document*
 
@@ -177,7 +177,7 @@ Detailed paragraphs regarding how competitive eCommerce is, failing by using sam
 
 ## [00:15:45] Document: Targeting Through Creative and Relevance
 
-frame: 041_00-15-45.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:15:45](https://drive.google.com/file/d/1tKWp8qdeZmKXrWfXcxGHPwI6NdBhv3KN/view?usp=drivesdk) · `041_00-15-45.png`
 
 *document*
 
@@ -196,7 +196,7 @@ In short, identifying and building a proper avatar is how you actually scale in 
 
 ## [00:16:20] Document: Explaining Avatars via Relatable Videos
 
-frame: 041_00-16-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:16:20](https://drive.google.com/file/d/1NJupmYjX5tXcoC8EM8JQpF3Imhpbnfwy/view?usp=drivesdk) · `041_00-16-20.png`
 
 *document*
 
@@ -221,7 +221,7 @@ Because that video called out a specific Avatar"
 
 ## [00:16:55] Document: Relatability and Identifying with Avatars
 
-frame: 041_00-16-55.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:16:55](https://drive.google.com/file/d/1UG_NRACSWqQjH_fHs-3TN7TRkahyBuZD/view?usp=drivesdk) · `041_00-16-55.png`
 
 *document*
 
@@ -239,7 +239,7 @@ And as a result, you probably laughed at it or said
 
 ## [00:17:30] Document: What Does an Avatar Consist of?
 
-frame: 041_00-17-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:17:30](https://drive.google.com/file/d/1wh3spfklVbV1WWb5rv6MA74wusCUqDbQ/view?usp=drivesdk) · `041_00-17-30.png`
 
 *document*
 
@@ -267,7 +267,7 @@ This relationship is what nerds would call 'more linear.'"
 
 ## [00:18:50] Document: Avatar Scale Introduction and Graphic Preview
 
-frame: 041_00-18-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:18:50](https://drive.google.com/file/d/19DJWuU0o2uTHqa92_xleLJ7G92xtkuzV/view?usp=drivesdk) · `041_00-18-50.png`
 
 *document*
 
@@ -284,7 +284,7 @@ At bottom: Top of graphic titled "AVATAR SCALE"
 
 ## [00:20:10] Avatar Scale Graphic
 
-frame: 041_00-20-10.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:20:10](https://drive.google.com/file/d/1rO7WHvbZB1MkKCGxQtP9uoMjxP69lpoY/view?usp=drivesdk) · `041_00-20-10.png`
 
 *diagram*
 
@@ -307,7 +307,7 @@ Text above:
 
 ## [00:20:15] Document: Avatar Scale Explanation
 
-frame: 041_00-20-15.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:20:15](https://drive.google.com/file/d/1kr4cLpIAbWbakbbn9Q0KiIqnqy3HplCV/view?usp=drivesdk) · `041_00-20-15.png`
 
 *document*
 
@@ -330,7 +330,7 @@ Text below graphic:
 
 ## [00:20:20] Document: Transition to Complex Combinations
 
-frame: 041_00-20-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:20:20](https://drive.google.com/file/d/1X6KO0KBXOEZleKSSxgGeB51C5Nu595Wx/view?usp=drivesdk) · `041_00-20-20.png`
 
 *document*
 
@@ -351,7 +351,7 @@ Text below Avatar Scale:
 
 ## [00:21:30] Document: Infinite Combination Side of Things
 
-frame: 041_00-21-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:21:30](https://drive.google.com/file/d/1Vo29DS0COySvvnAPBGnohq7eM3UsFNkV/view?usp=drivesdk) · `041_00-21-30.png`
 
 *document*
 
@@ -374,7 +374,7 @@ Text on document:
 
 ## [00:22:45] Document: How To Create Core Avatars
 
-frame: 041_00-22-45.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:22:45](https://drive.google.com/file/d/1B8rjOMrWAJTUE1NBLKl_sKAU8gdh3vrq/view?usp=drivesdk) · `041_00-22-45.png`
 
 *document*
 
@@ -394,7 +394,7 @@ Heading: 'How To Create Core Avatars'
 
 ## [00:23:00] Document: Traditional Avatar Building Strategies
 
-frame: 041_00-23-00.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:23:00](https://drive.google.com/file/d/1ywILEKha0_Zu4CuCZSko7eqaTaOHmqmb/view?usp=drivesdk) · `041_00-23-00.png`
 
 *document*
 
@@ -418,7 +418,7 @@ Heading: 'How To Create Core Avatars'
 
 ## [00:27:20] Document: Focusing on Top Categories Before Demographics
 
-frame: 041_00-27-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:27:20](https://drive.google.com/file/d/1Ty8osOsN2awEKRaW3gQ4fVWYejEp2d8n/view?usp=drivesdk) · `041_00-27-20.png`
 
 *document*
 
@@ -436,7 +436,7 @@ frame: 041_00-27-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZ
 
 ## [00:27:30] Document: Rules of Thumb for Avatar Specificity and Breadth
 
-frame: 041_00-27-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:27:30](https://drive.google.com/file/d/1FzMoGIjC5uYItV2RizKPp0Qrqtai5RJF/view?usp=drivesdk) · `041_00-27-30.png`
 
 *document*
 
@@ -462,7 +462,7 @@ Bullet points under 'RULES OF THUMB:':
 
 ## [00:29:30] Rules of Thumb and 5 Core Avatar Categories
 
-frame: 041_00-29-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:29:30](https://drive.google.com/file/d/1zFDyq8PDIdVkrt7B-KGYcRtu_oyKJkD4/view?usp=drivesdk) · `041_00-29-30.png`
 
 *document*
 
@@ -495,7 +495,7 @@ Explains that if a product is not "insanely innovative" or is more sophisticated
 
 ## [00:31:50] Rules of Thumb: Specific But Not Alienating Avatars
 
-frame: 041_00-31-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:31:50](https://drive.google.com/file/d/14w65hIMRuACBg5RulYXPkAxV6p2ut1nl/view?usp=drivesdk) · `041_00-31-50.png`
 
 *document*
 
@@ -528,7 +528,7 @@ Shows live edit: "The more SPECIFIC but not ALIENATING your Avatar: The worse yo
 
 ## [00:32:20] One Pepe vs All Pepes Spectrum Diagram and Notes
 
-frame: 041_00-32-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:32:20](https://drive.google.com/file/d/1mE9Ar2mjNboDi_omcVAc2p18qcs-BP3K/view?usp=drivesdk) · `041_00-32-20.png`
 
 *document*
 
@@ -559,7 +559,7 @@ Full written definitions for 'One Pepe (person)' and 'All Pepes (People)' with f
 
 ## [00:33:15] Rules of Thumb and 5 Categories Introduction
 
-frame: 041_00-33-15.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:33:15](https://drive.google.com/file/d/1EpgMaArXdlDAlCjR8iP0imHDxCYEoeXs/view?usp=drivesdk) · `041_00-33-15.png`
 
 *document*
 
@@ -586,7 +586,7 @@ Footnote asterisk wording: "*This does not mean sell a shit product. It means if
 
 ## [00:34:20] Category 1: Desires Overview
 
-frame: 041_00-34-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:34:20](https://drive.google.com/file/d/1YP6msdn9kI_5IYoQzw6PHzysw95nelFW/view?usp=drivesdk) · `041_00-34-20.png`
 
 *document*
 
@@ -601,7 +601,7 @@ And again, the broader your avatar, the better everything else has to be, as men
 
 ## [00:35:00] Category 1: Core Desires vs Surface-Level Desires
 
-frame: 041_00-35-00.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:35:00](https://drive.google.com/file/d/1KKy5yEaChM1sKfNvw22FbiKs9P65C49d/view?usp=drivesdk) · `041_00-35-00.png`
 
 *document*
 
@@ -633,7 +633,7 @@ But again, these are very BROAD human desires that almost every single person ha
 
 ## [00:35:30] Category 1: Starting Avatars with Desires Over Demographics
 
-frame: 041_00-35-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:35:30](https://drive.google.com/file/d/1_G6PffxQ734UBSWVGDwsxPkrhQCgoV89/view?usp=drivesdk) · `041_00-35-30.png`
 
 *document*
 
@@ -652,7 +652,7 @@ Examples Of Surface-Level Desires:"
 
 ## [00:36:25] Updated Rules of Thumb: Adding Marketing Skillset Requirement
 
-frame: 041_00-36-25.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:36:25](https://drive.google.com/file/d/1XC49W7C9lz_mzQb2nT58bGM_riGotYAb/view?usp=drivesdk) · `041_00-36-25.png`
 
 *document*
 
@@ -676,7 +676,7 @@ Let's begin:
 
 ## [00:37:30] Examples of Surface-Level Desires with Core Desire Mappings
 
-frame: 041_00-37-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:37:30](https://drive.google.com/file/d/1MieLn3uCiNZ2jq85chHZ4bb-CObg3znp/view?usp=drivesdk) · `041_00-37-30.png`
 
 *document*
 
@@ -694,7 +694,7 @@ e. I want to perform better in the bedroom (Core Desire: Health/Control)
 
 ## [00:38:35] Understanding Core Desires and Introduction to Desire Checker
 
-frame: 041_00-38-35.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:38:35](https://drive.google.com/file/d/1C30RDe4B7Pd3bcFLYJRNqWc_5NiGIMQk/view?usp=drivesdk) · `041_00-38-35.png`
 
 *document*
 
@@ -716,7 +716,7 @@ The reason being, is that categorizing things for the first time can be hard."
 
 ## [00:38:55] Document: How to Check It's a Desire Formula
 
-frame: 041_00-38-55.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:38:55](https://drive.google.com/file/d/1RCoetCBVrxNDYLuHeaVGdQ5_NpTa4-sq/view?usp=drivesdk) · `041_00-38-55.png`
 
 *document*
 
@@ -737,7 +737,7 @@ So, your "formula" / "checker" to make sure that you actually HAVE a desire, is 
 
 ## [00:39:50] Document: Example of Pulling Desires from Research
 
-frame: 041_00-39-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:39:50](https://drive.google.com/file/d/1EgLK9mfOxOTKbeafXCbCtiGuIZVGCtF2/view?usp=drivesdk) · `041_00-39-50.png`
 
 *document*
 
@@ -761,7 +761,7 @@ With that said, finding desires is pretty simple. If you need more support on De
 
 ## [00:42:05] Category 2: Experiences - Situational Experiences
 
-frame: 041_00-42-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:42:05](https://drive.google.com/file/d/1uTicVp7-ujV5jhUGthqFWMwmYj8TQmzq/view?usp=drivesdk) · `041_00-42-05.png`
 
 *document*
 
@@ -789,7 +789,7 @@ Again, these experiences could be ACTIVE (which usually creates more urgency if 
 
 ## [00:42:30] Category 2: Experiences - Situational and Product-Based Experiences
 
-frame: 041_00-42-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:42:30](https://drive.google.com/file/d/1iWTwvx-moYWiW2F848YNrB3IvTyISRW_/view?usp=drivesdk) · `041_00-42-30.png`
 
 *document*
 
@@ -823,7 +823,7 @@ Again, these experiences could be ACTIVE (which usually creates more urgency if 
 
 ## [00:43:00] Situational vs Product-Based Experiences and What to Avoid Including
 
-frame: 041_00-43-00.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:43:00](https://drive.google.com/file/d/1fEopYvockzN1HRpcmcAmgSUYTfX__4yp/view?usp=drivesdk) · `041_00-43-00.png`
 
 *document*
 
@@ -862,7 +862,7 @@ Bullet text under Situational Experiences and Product-Based Experiences displaye
 
 ## [00:44:25] Product-Based Experiences: Isolating Experiences and Rules to Avoid
 
-frame: 041_00-44-25.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:44:25](https://drive.google.com/file/d/1da0Y9MkuxZxzUTCcphVlqfm4o9F2hRGh/view?usp=drivesdk) · `041_00-44-25.png`
 
 *document*
 
@@ -888,7 +888,7 @@ C. Not their RESPONSE to it -> That is their behaviors (more on this later)
 
 ## [00:45:55] Deconstructing Product Experiences: Implied Desire, Emotion, and Behavior
 
-frame: 041_00-45-55.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:45:55](https://drive.google.com/file/d/1MyN_ScfL4VoDthhHtj-eYSP-eiTsNeC6/view?usp=drivesdk) · `041_00-45-55.png`
 
 *document*
 
@@ -908,7 +908,7 @@ This also has an implied Behavior that the person is looking for a better way to
 
 ## [00:47:35] Focusing on What Happened in Experiences and Avatar Unification
 
-frame: 041_00-47-35.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:47:35](https://drive.google.com/file/d/1t6O3sjboCcy5F-xFu8gmvjg6_ynKaYDD/view?usp=drivesdk) · `041_00-47-35.png`
 
 *document*
 
@@ -938,7 +938,7 @@ The point of experiences in the context of creating core avatars is that they un
 
 ## [00:48:55] Situational Experience Example: Disneyland Avatar Breakdown
 
-frame: 041_00-48-55.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:48:55](https://drive.google.com/file/d/10FXUAdixJDCIgXSUK6sBtWoKMjP6JRzP/view?usp=drivesdk) · `041_00-48-55.png`
 
 *document*
 
@@ -965,7 +965,7 @@ Sub Avatar #1: Someone who went to Disneyland and feels that it is overrated -> 
 
 ## [00:50:15] Situational Experience Example: Disneyland Sub Avatars
 
-frame: 041_00-50-15.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:50:15](https://drive.google.com/file/d/13LWYnfLmjsAFuG9p4I59Ttf6GSCVqrIH/view?usp=drivesdk) · `041_00-50-15.png`
 
 *document*
 
@@ -988,7 +988,7 @@ And by understanding that, we can use them to our advantage.
 
 ## [00:52:55] Using Analogies to Target Experience Sub Avatars
 
-frame: 041_00-52-55.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:52:55](https://drive.google.com/file/d/1pVxZ16FzlygmmXoK1UIaW6aeX37Pv0Ao/view?usp=drivesdk) · `041_00-52-55.png`
 
 *document*
 
@@ -1017,7 +1017,7 @@ This is a CRAZY example, but I want you guys to start thinking about HOW you can
 
 ## [00:53:25] Using Analogies and Experience Categories to Build Relatability
 
-frame: 041_00-53-25.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:53:25](https://drive.google.com/file/d/1VJldcMWrkx_wbmLPkMSD2-gqnGDPm2hj/view?usp=drivesdk) · `041_00-53-25.png`
 
 *document*
 
@@ -1047,7 +1047,7 @@ Remember, if you're feeling uncomfortable
 
 ## [00:54:45] Mindset Intermission: Embracing Discomfort When Learning
 
-frame: 041_00-54-45.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:54:45](https://drive.google.com/file/d/131CXyM7z32kez-PHRyMWSjL4CyudQX7s/view?usp=drivesdk) · `041_00-54-45.png`
 
 *document*
 
@@ -1067,7 +1067,7 @@ And your body just rejects change at first because it likes to feel safe
 
 ## [00:55:05] Mindset Intermission Notes on Learning and Retention
 
-frame: 041_00-55-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:55:05](https://drive.google.com/file/d/1wlmrSxptmvpcjVVeR4MJvFUcixBILFG0/view?usp=drivesdk) · `041_00-55-05.png`
 
 *document*
 
@@ -1098,7 +1098,7 @@ Let's keep rocking
 
 ## [00:58:15] Example of Desires and Experiences for Avatar Building
 
-frame: 041_00-58-15.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:58:15](https://drive.google.com/file/d/1HvTiNUlPbqunLFzGYnX9rWNVlMVb3KQB/view?usp=drivesdk) · `041_00-58-15.png`
 
 *document*
 
@@ -1137,7 +1137,7 @@ Document title: "Official - Avatar Mastery for Shopify Brands: The Meta-First Fr
 
 ## [00:58:20] Cat Avatar Building Example: Core and Sub Avatars
 
-frame: 041_00-58-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:58:20](https://drive.google.com/file/d/1aNQxoBM42dP96MMsjr0CLoX78KOmQ_Hx/view?usp=drivesdk) · `041_00-58-20.png`
 
 *document*
 
@@ -1157,7 +1157,7 @@ Text: "lol", exact wording of notes on screen.
 
 ## [00:59:05] Avatar Scale: Specific vs Broad Pepe Spectrum
 
-frame: 041_00-59-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 00:59:05](https://drive.google.com/file/d/1YHRD_TDJqefVTCHIeuZrOlbpgRg4365z/view?usp=drivesdk) · `041_00-59-05.png`
 
 *diagram*
 
@@ -1178,7 +1178,7 @@ All Pepes (Right):
 
 ## [01:00:20] Experience as Initial Building Block for Core Avatars
 
-frame: 041_01-00-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:00:20](https://drive.google.com/file/d/1J3v-HJNEtPH15dH7pq31ZmctIg_jds2p/view?usp=drivesdk) · `041_01-00-20.png`
 
 *document*
 
@@ -1200,7 +1200,7 @@ Notes linking specific desires to categories in parentheses: (Belonging), (Comfo
 
 ## [01:01:05] Using Experiences and Desires to Form Specific Avatars
 
-frame: 041_01-01-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:01:05](https://drive.google.com/file/d/154EDUxADXembwr3PFKJuHtZ8LmmD8S_A/view?usp=drivesdk) · `041_01-01-05.png`
 
 *document*
 
@@ -1224,7 +1224,7 @@ Here is how it would look on the scale:
 
 ## [01:01:50] Avatar Scale Applied to Cat Desires and Experiences
 
-frame: 041_01-01-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:01:50](https://drive.google.com/file/d/1Ml2pHwrGfc--A2n_jztWv1GEFNHCGTXw/view?usp=drivesdk) · `041_01-01-50.png`
 
 *diagram* | legibility: partly legible
 
@@ -1240,7 +1240,7 @@ Diagram placement of Sub Avatar #1, Core Avatar #2, and Core Avatar #1 on the sc
 
 ## [01:02:55] Example of Desires + Product Experiences For Avatar Building
 
-frame: 041_01-02-55.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:02:55](https://drive.google.com/file/d/1ocl7ChYxbGcDLOg71ahR5hgv-S5voDaP/view?usp=drivesdk) · `041_01-02-55.png`
 
 *document*
 
@@ -1255,7 +1255,7 @@ EVEN if the outcome is "I'm still trying it" or "I'm still testing it" that is t
 
 ## [01:03:45] Building Sleep and Magnesium Avatars
 
-frame: 041_01-03-45.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:03:45](https://drive.google.com/file/d/1IWH3INmPLSWjIm6yuHHq9Dcd9oi4F4jL/view?usp=drivesdk) · `041_01-03-45.png`
 
 *document*
 
@@ -1268,7 +1268,7 @@ Core Avatar #2: Tried, magnesium didn't work (The Experience)
 
 ## [01:03:50] Building Avatars with Desires and Indirect Experiences
 
-frame: 041_01-03-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:03:50](https://drive.google.com/file/d/18gkL2MDgayGGZ_kFw-bQPNq5dvjm05NV/view?usp=drivesdk) · `041_01-03-50.png`
 
 *document*
 
@@ -1283,7 +1283,7 @@ Now, If you've ever wondered why market sophistication exists, it's because of e
 
 ## [01:04:05] Direct vs Indirect Experiences and Multi-Benefit Products
 
-frame: 041_01-04-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:04:05](https://drive.google.com/file/d/1Woq0wxW5f5VuTLzmsgLrc1gMaUHJbO7v/view?usp=drivesdk) · `041_01-04-05.png`
 
 *document*
 
@@ -1300,7 +1300,7 @@ Magnesium is studied to help with benefits like
 
 ## [01:04:45] Product Experience Leading to Multiple Desires: Magnesium Benefits
 
-frame: 041_01-04-45.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:04:45](https://drive.google.com/file/d/1ccMN1lgj8MTCr4iYs5Vd_zTW4wN0UdCe/view?usp=drivesdk) · `041_01-04-45.png`
 
 *document*
 
@@ -1322,7 +1322,7 @@ Magnesium is studied to help with benefits like
 
 ## [01:06:45] Niching Down Avatars Based on Product Experiences
 
-frame: 041_01-06-45.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:06:45](https://drive.google.com/file/d/1heHv7oqMNrPxukYO036Fu5SQxyKUhnOf/view?usp=drivesdk) · `041_01-06-45.png`
 
 *document*
 
@@ -1347,7 +1347,7 @@ Text explaining: 'Therefore, it's important to understand the product experience
 
 ## [01:08:20] Avatar Scale: Positioning Core and Sub-Avatars
 
-frame: 041_01-08-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:08:20](https://drive.google.com/file/d/1eWg5GfGgDStKoxNhlErkOQoIwx-4ubZx/view?usp=drivesdk) · `041_01-08-20.png`
 
 *diagram*
 
@@ -1374,7 +1374,7 @@ Visual layout of the Avatar Scale diagram showing exact positions of Sub Avatar 
 
 ## [01:09:35] Final Context on Experiences in Avatar Building
 
-frame: 041_01-09-35.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:09:35](https://drive.google.com/file/d/1VINzikehnZMgg8c5qfzDGSMyRWXYhCVj/view?usp=drivesdk) · `041_01-09-35.png`
 
 *document*
 
@@ -1400,7 +1400,7 @@ However, when they are paired WITH desires & the other categories core 5 categor
 
 ## [01:10:30] Introduction to How to Check It's an Experience
 
-frame: 041_01-10-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:10:30](https://drive.google.com/file/d/1gfJmZXz_HjMkUWwmbq_dSk7_3Yz_Q_1W/view?usp=drivesdk) · `041_01-10-30.png`
 
 *document*
 
@@ -1416,7 +1416,7 @@ Heading '💥 HOW TO CHECK IT'S AN EXPERIENCE 💥'
 
 ## [01:10:35] Experience Test Criteria
 
-frame: 041_01-10-35.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:10:35](https://drive.google.com/file/d/1J7DQcvQ9U1BVXqZCgM_SX9AguM0ryQBI/view?usp=drivesdk) · `041_01-10-35.png`
 
 *document*
 
@@ -1443,7 +1443,7 @@ Examples:'
 
 ## [01:11:00] Examples of Pure vs Not Pure Experiences
 
-frame: 041_01-11-00.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:11:00](https://drive.google.com/file/d/1paQ9S8lwvbeh36sewl9gXZHtWwHdBlqe/view?usp=drivesdk) · `041_01-11-00.png`
 
 *document*
 
@@ -1477,7 +1477,7 @@ I'm just trying to help you see the CORE of what is happening first.
 
 ## [01:12:40] Category 3: Emotions Introduction and Definition
 
-frame: 041_01-12-40.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:12:40](https://drive.google.com/file/d/1muJqPY63K8zpSBdtrLXNCbJhCnVx_tci/view?usp=drivesdk) · `041_01-12-40.png`
 
 *document*
 
@@ -1502,7 +1502,7 @@ But when emotions are high (for example from a breakup) then all of a sudden, sl
 
 ## [01:13:20] Emotions Category: Types of Emotions Introduction
 
-frame: 041_01-13-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:13:20](https://drive.google.com/file/d/1PxntHpsHHBY0DPHYqECjch_-3JkAyUG0/view?usp=drivesdk) · `041_01-13-20.png`
 
 *document*
 
@@ -1534,7 +1534,7 @@ This is the easy part.
 
 ## [01:14:25] Primary Emotions: Definition and Facial Expressions
 
-frame: 041_01-14-25.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:14:25](https://drive.google.com/file/d/17ocB6H9jLO6T_WvNrNJM-u1wboUI2sXl/view?usp=drivesdk) · `041_01-14-25.png`
 
 *document*
 
@@ -1554,7 +1554,7 @@ Think of them like facial expressions.
 
 ## [01:14:50] Primary Emotions Count and Facial Expression Rule
 
-frame: 041_01-14-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:14:50](https://drive.google.com/file/d/1ZOG2qfZwCEVNaqswobasBCkZgZ9F_Vif/view?usp=drivesdk) · `041_01-14-50.png`
 
 *document*
 
@@ -1579,7 +1579,7 @@ Some psychologists say there are more than 6 primary emotions. But for this trai
 
 ## [01:16:30] Types of Basic Emotions Graphic and Triggers vs Emotions
 
-frame: 041_01-16-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:16:30](https://drive.google.com/file/d/1nsUoLFTmgVz7gYVsoIJYS8NFwVHUK4Qy/view?usp=drivesdk) · `041_01-16-30.png`
 
 *document*
 
@@ -1600,7 +1600,7 @@ But, what activates that fear is completely different from person to person (whi
 
 ## [01:17:50] Universal Emotions vs Individual Triggers and Secondary Emotions Intro
 
-frame: 041_01-17-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:17:50](https://drive.google.com/file/d/1BoCvXY2X1e8vsNOEbihxD-r4cvUucX7R/view?usp=drivesdk) · `041_01-17-50.png`
 
 *document*
 
@@ -1624,7 +1624,7 @@ They're like emotional shortcuts, and there are tons of them.
 
 ## [01:20:30] Secondary Emotions Definition and Rule to Unpack Why
 
-frame: 041_01-20-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:20:30](https://drive.google.com/file/d/1l-N88cWw8qZKPZUCerg_PEjoZ1DJZgBg/view?usp=drivesdk) · `041_01-20-30.png`
 
 *document*
 
@@ -1647,7 +1647,7 @@ Anxious -> They feel anxious because they likely "fear" a specific experience. O
 
 ## [01:20:50] Examples of Secondary Emotions and Underlying Primary Drivers
 
-frame: 041_01-20-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:20:50](https://drive.google.com/file/d/1oiJudkPVXl03qg_az2-iGr6nYonoaQFs/view?usp=drivesdk) · `041_01-20-50.png`
 
 *document*
 
@@ -1671,7 +1671,7 @@ Detailed definitions linking Frustrated, Overwhelmed, Confident to underlying pr
 
 ## [01:20:55] Secondary Emotions List: Anxious, Frustrated, Overwhelmed, Confident, Excited, Stressed
 
-frame: 041_01-20-55.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:20:55](https://drive.google.com/file/d/15-QP-WwNaPoCMXqDpauNpA85vc2oqRLr/view?usp=drivesdk) · `041_01-20-55.png`
 
 *document*
 
@@ -1701,7 +1701,7 @@ Full breakdown of Excited, Stressed, Motivated, Worried and how they map to Joy,
 
 ## [01:23:20] Secondary Emotions List Extended with Worried and Disappointed
 
-frame: 041_01-23-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:23:20](https://drive.google.com/file/d/18luoL8eFsVkHgmDIMmdBY-sAB3e7POpk/view?usp=drivesdk) · `041_01-23-20.png`
 
 *document*
 
@@ -1724,7 +1724,7 @@ Definitions and underlying primary drivers for Motivated, Worried, Disappointed 
 
 ## [01:23:50] Secondary Emotions Insecure and Avatar Creation Strategy
 
-frame: 041_01-23-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:23:50](https://drive.google.com/file/d/11QreMEaUW00mHiMmGLPlRXvn0zp1Zn1u/view?usp=drivesdk) · `041_01-23-50.png`
 
 *document*
 
@@ -1744,7 +1744,7 @@ Exact wording for Insecure; hyperlink text 'linked here.'
 
 ## [01:24:25] Narrowing Avatars with Emotion: Desire Example Setup
 
-frame: 041_01-24-25.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:24:25](https://drive.google.com/file/d/1CDQAs7MfIf3EH4t5wRssT_GA-petXxRW/view?usp=drivesdk) · `041_01-24-25.png`
 
 *document*
 
@@ -1765,7 +1765,7 @@ Exact phrasing for advanced method starting with emotion like anxiety.
 
 ## [01:25:00] Emotion Applied to Desire and Experience Examples
 
-frame: 041_01-25-00.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:25:00](https://drive.google.com/file/d/1brtd__OMUzkZvIBP2abMYS-oT1xwoLhj/view?usp=drivesdk) · `041_01-25-00.png`
 
 *document*
 
@@ -1786,7 +1786,7 @@ Full written lines for the six-pack desire example and introduction of dog pulli
 
 ## [01:25:30] Sub-Avatars for Dog Experience and Demographic Examples
 
-frame: 041_01-25-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:25:30](https://drive.google.com/file/d/1ywaXhdn5U4y3-o5lZPNxxSIiSQLjd2EW/view?usp=drivesdk) · `041_01-25-30.png`
 
 *document*
 
@@ -1809,7 +1809,7 @@ Some men might feel excited (emotion) about being 40 = Sub Avatar
 
 ## [01:28:00] Core and Sub-Avatar Formulation across Categories
 
-frame: 041_01-28-00.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:28:00](https://drive.google.com/file/d/1QYfQxjjP2RfpAQHOCIwlkb2weqTOhgXd/view?usp=drivesdk) · `041_01-28-00.png`
 
 *document*
 
@@ -1838,7 +1838,7 @@ Edited Desire Example layout ('Core Avatar #1', 'Sub Avatar #1', 'Sub Avatar #2'
 
 ## [01:29:45] Desire-Based and Emotion-Based Core Avatar Distinction
 
-frame: 041_01-29-45.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:29:45](https://drive.google.com/file/d/14oaRI9K0RzXLg2m9uOilUTVf1hxqucJ2/view?usp=drivesdk) · `041_01-29-45.png`
 
 *document*
 
@@ -1858,7 +1858,7 @@ Core Avatar 1: #1 A woman has a dog that is pulling her (experience)
 
 ## [01:31:25] Scrolling Past Diagram to Product Experiences Example
 
-frame: 041_01-31-25.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:31:25](https://drive.google.com/file/d/1WDQLVTwj-5MLec26igTW4jUOBW8wXsJP/view?usp=drivesdk) · `041_01-31-25.png`
 
 *document*
 
@@ -1880,7 +1880,7 @@ Diagram graphic showing One Pepe vs All Pepes with purple spectrum line and cat 
 
 ## [01:31:30] Product-Based Experiences and Implied Layers
 
-frame: 041_01-31-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:31:30](https://drive.google.com/file/d/1rN10MGvd0FOm9xkApeXxrgK93tIj_uJf/view?usp=drivesdk) · `041_01-31-30.png`
 
 *document*
 
@@ -1909,7 +1909,7 @@ Example '- Tried blackout curtains and still woke up tired' with breakdown into 
 
 ## [01:31:40] Situational Experience Disneyland Breakdown
 
-frame: 041_01-31-40.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:31:40](https://drive.google.com/file/d/14cLeDPsLtyWwBtVMqbUhet7rJpPeGWMB/view?usp=drivesdk) · `041_01-31-40.png`
 
 *document*
 
@@ -1935,7 +1935,7 @@ Situation Experience Example detailed with Core Avatar ('Someone who went to Dis
 
 ## [01:34:35] Completed Dog Experience Core and Sub-Avatars
 
-frame: 041_01-34-35.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:34:35](https://drive.google.com/file/d/1ScUQEi9-nOcbMfv-OQBOqY319ETrZ992/view?usp=drivesdk) · `041_01-34-35.png`
 
 *document*
 
@@ -1965,7 +1965,7 @@ Note '(not a great one but...)' next to 40 years old Core Avatar.
 
 ## [01:34:45] Demographic and Emotion Avatar Drafting
 
-frame: 041_01-34-45.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:34:45](https://drive.google.com/file/d/1ZNdNR9PsvVuZ3Lh3Kk_j_BiIvmbllwlJ/view?usp=drivesdk) · `041_01-34-45.png`
 
 *document*
 
@@ -1988,7 +1988,7 @@ Google Docs menu interface; document title: "Official - Avatar Mastery for Shopi
 
 ## [01:37:25] Complete 40-Year-Old Demographic and Emotion Sub-Avatars
 
-frame: 041_01-37-25.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:37:25](https://drive.google.com/file/d/1BCDvju0zTmm905IfU3VprcwLgZDida5H/view?usp=drivesdk) · `041_01-37-25.png`
 
 *document*
 
@@ -2011,7 +2011,7 @@ As mentioned above, not all emotions need to be tied to experiences, desires or 
 
 ## [01:39:15] Emotion Example Breakdown with Check Questions
 
-frame: 041_01-39-15.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:39:15](https://drive.google.com/file/d/16C_pSP2hKsRSj90mEJM4eesIATlhwE4g/view?usp=drivesdk) · `041_01-39-15.png`
 
 *document*
 
@@ -2036,7 +2036,7 @@ From there, if it is NOT one of the primary 6, ask WHY and WHAT to really figure
 
 ## [01:41:20] Desire-Based Core Avatar and Fully Structured Sub-Avatar
 
-frame: 041_01-41-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:41:20](https://drive.google.com/file/d/1OLd14FUlCHv-Fan93kU-G-WdahYeOSoI/view?usp=drivesdk) · `041_01-41-20.png`
 
 *document*
 
@@ -2056,7 +2056,7 @@ From there, if it is NOT one of the primary 6, ask WHY and WHAT to really figure
 
 ## [01:42:00] Primary Emotions vs Secondary Emotions and Triggers
 
-frame: 041_01-42-00.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:42:00](https://drive.google.com/file/d/1ySCmtVR4nAV693ZBQCqqqYXPyLScdA-3/view?usp=drivesdk) · `041_01-42-00.png`
 
 *document*
 
@@ -2084,7 +2084,7 @@ Emotions are universal, triggers are individual. Every human knows what fear fee
 
 ## [01:42:05] Breakdown of Secondary Emotions into Underlying Primary Emotions
 
-frame: 041_01-42-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:42:05](https://drive.google.com/file/d/1aivqQWWKFENNJpl_cZ3aV-RJ_XUBGxwq/view?usp=drivesdk) · `041_01-42-05.png`
 
 *document*
 
@@ -2107,7 +2107,7 @@ Definitions and breakdowns for Overwhelmed, Confident, Excited, Stressed, Worrie
 
 ## [01:43:00] Category 4: Behaviors & Habits Introduction
 
-frame: 041_01-43-00.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:43:00](https://drive.google.com/file/d/1aGtQQELycXcnT4C5dZVNhoOoOxx6zkED/view?usp=drivesdk) · `041_01-43-00.png`
 
 *document*
 
@@ -2129,7 +2129,7 @@ Behaviors are often very specific solutions to problems from experiences: Experi
 
 ## [01:43:15] Category 4: Behaviors & Habits Overview
 
-frame: 041_01-43-15.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:43:15](https://drive.google.com/file/d/1bT5P-qtmtCRbvkIonKBO4h7TfYJ7b1iY/view?usp=drivesdk) · `041_01-43-15.png`
 
 *document*
 
@@ -2157,7 +2157,7 @@ Bullet text framing and exact definitions laid out as equations.
 
 ## [01:43:35] How Behaviors Link to Self-Identity and Ego
 
-frame: 041_01-43-35.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:43:35](https://drive.google.com/file/d/1bxu_MIUxqvNC5XL_B5NZU-AB6lRXfp3B/view?usp=drivesdk) · `041_01-43-35.png`
 
 *document*
 
@@ -2175,7 +2175,7 @@ What makes behaviors so powerful is that they are CORE to our self-identity. AKA
 
 ## [01:44:15] Targeting Ego Through Behaviors
 
-frame: 041_01-44-15.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:44:15](https://drive.google.com/file/d/1NUqFydIOfkkQIMZgqbl8mL_Y5_Txp7Lr/view?usp=drivesdk) · `041_01-44-15.png`
 
 *document*
 
@@ -2191,7 +2191,7 @@ Full written definition of Ego and spite rationale.
 
 ## [01:45:00] Creating Stronger Buy-In by Targeting Ego
 
-frame: 041_01-45-00.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:45:00](https://drive.google.com/file/d/17717xU3-9peYT6XvUnz-dLQKBwvPJpCT/view?usp=drivesdk) · `041_01-45-00.png`
 
 *document*
 
@@ -2205,7 +2205,7 @@ Full sentence highlighted in Google Docs.
 
 ## [01:47:35] Predicting Future Behaviors from Past Actions
 
-frame: 041_01-47-35.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:47:35](https://drive.google.com/file/d/1FKWiELibW7DzztM6DauSbGL2aV_C7uPG/view?usp=drivesdk) · `041_01-47-35.png`
 
 *document*
 
@@ -2222,7 +2222,7 @@ Behaviors allow us to show another level of understanding for our Avatars that m
 
 ## [01:47:50] Examples of Avatar Behaviors List
 
-frame: 041_01-47-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:47:50](https://drive.google.com/file/d/1ryTibmLJzVHqYH6Ek3HQQLs5-kkClxb_/view?usp=drivesdk) · `041_01-47-50.png`
 
 *document*
 
@@ -2241,7 +2241,7 @@ Specific behavior examples (f. Research everything before buying, g. Only shops 
 
 ## [01:49:05] Behavior-Based Avatar Targeting and Predicting Actions
 
-frame: 041_01-49-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:49:05](https://drive.google.com/file/d/16Ap2Ne_zB3iLaFhFSFaN3Xev7BvDfops/view?usp=drivesdk) · `041_01-49-05.png`
 
 *document*
 
@@ -2265,7 +2265,7 @@ To help you understand how experiences, emotions, desires, and demographics crea
 
 ## [01:50:15] Example #1: Connecting Experience, Desire, and Behavior
 
-frame: 041_01-50-15.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:50:15](https://drive.google.com/file/d/1uxwjC5qgR_vpT4Mfd9ch7qJYxALbFiGj/view?usp=drivesdk) · `041_01-50-15.png`
 
 *document*
 
@@ -2281,7 +2281,7 @@ Or they may develop the behavior of
 
 ## [01:50:35] Example #1.5: Shared Behaviors Across Different Experiences
 
-frame: 041_01-50-35.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:50:35](https://drive.google.com/file/d/1his_-WluCgYLKYJnM95k-SW9kGjPOK0Q/view?usp=drivesdk) · `041_01-50-35.png`
 
 *document*
 
@@ -2302,7 +2302,7 @@ The post-partum experience may NOT be the only way that someone develops the [be
 
 ## [01:52:05] Developing Identical Behaviors from Alternate Experiences and Desires
 
-frame: 041_01-52-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:52:05](https://drive.google.com/file/d/1DMYCTsoEh1-qUqqXEl2wpJgRwtzT0ev4/view?usp=drivesdk) · `041_01-52-05.png`
 
 *document*
 
@@ -2324,7 +2324,7 @@ Doing quick 15-20 minute home workouts (behavior)
 
 ## [01:52:50] Targeting Behaviors Broadly vs. Drilling Down with Sub Avatars
 
-frame: 041_01-52-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:52:50](https://drive.google.com/file/d/1WGClSD8uRI9TT94o5ox6AwGlWwiN-Ll7/view?usp=drivesdk) · `041_01-52-50.png`
 
 *document*
 
@@ -2342,7 +2342,7 @@ Or you can actually drill down the behavior with the other 4 categories to creat
 
 ## [01:53:00] Experiences That Led To Behaviors Examples
 
-frame: 041_01-53-00.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:53:00](https://drive.google.com/file/d/1X6K9VDCdikc9N5co11r8hAp9V-FrmXjB/view?usp=drivesdk) · `041_01-53-00.png`
 
 *document*
 
@@ -2354,7 +2354,7 @@ Behavior: Always brings snacks and entertainment when going out with kids
 
 ## [01:54:00] Experience and Emotion Leading to Behavior Example
 
-frame: 041_01-54-00.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:54:00](https://drive.google.com/file/d/1VYCtz8UlmPLi8fg4ZI1DbpSJYn8DYtTB/view?usp=drivesdk) · `041_01-54-00.png`
 
 *document* | legibility: partly legible
 
@@ -2367,7 +2367,7 @@ In this instance, again, the experience was that this person's kids were throwin
 
 ## [01:54:25] Marketing Example: Targeting Experience vs Behavior in Ad Copy
 
-frame: 041_01-54-25.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:54:25](https://drive.google.com/file/d/1usDDwF_82SDPzWjRHI3tbhxwVkK5AF3F/view?usp=drivesdk) · `041_01-54-25.png`
 
 *document*
 
@@ -2382,7 +2382,7 @@ Now, to show you examples of how this can apply to your ads specifically, let's 
 
 ## [01:54:45] Marketing Headline Examples Based on Experience and Behavior
 
-frame: 041_01-54-45.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:54:45](https://drive.google.com/file/d/1oLfT-hRbemoz5eS9Qy88TFokz51R03zo/view?usp=drivesdk) · `041_01-54-45.png`
 
 *document*
 
@@ -2398,7 +2398,7 @@ Behavior: Only works out at home now
 
 ## [01:56:50] Additional Experience and Behavior Avatar Examples
 
-frame: 041_01-56-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:56:50](https://drive.google.com/file/d/1TbJfhjsMlIZIWhYi4xfOY-MIQYm58sGr/view?usp=drivesdk) · `041_01-56-50.png`
 
 *document*
 
@@ -2415,7 +2415,7 @@ Experience: Currently pregnant with first baby
 
 ## [01:57:40] Experience, Emotion, and Behavior Avatar Examples
 
-frame: 041_01-57-40.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:57:40](https://drive.google.com/file/d/1jE38kJlAPw06_8fCqpwovxBKZLuFEDHy/view?usp=drivesdk) · `041_01-57-40.png`
 
 *document*
 
@@ -2441,7 +2441,7 @@ Desires That Led To Behaviors Examples:
 
 ## [01:58:10] Desires That Led To Behaviors Examples and Marketing Ad Copy
 
-frame: 041_01-58-10.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:58:10](https://drive.google.com/file/d/1kKcHrPOolxup_ctBRZzFjffAW8w97Ypa/view?usp=drivesdk) · `041_01-58-10.png`
 
 *document*
 
@@ -2471,7 +2471,7 @@ For an example of how that could look for the Sub Avatar:
 
 ## [01:59:10] Additional Desire to Behavior Example: Name-Brand Items
 
-frame: 041_01-59-10.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:59:10](https://drive.google.com/file/d/1e1ctazR1CZRHgFE6jrPseqzli6ORyq3h/view?usp=drivesdk) · `041_01-59-10.png`
 
 *document*
 
@@ -2488,7 +2488,7 @@ So again, this person has the desire of wanting to appear successful & put toget
 
 ## [01:59:45] Health Desire to Behavior Example and Emotions Section
 
-frame: 041_01-59-45.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 01:59:45](https://drive.google.com/file/d/1bna7W88_CFya9JggASxUsYZh2UwNL0GY/view?usp=drivesdk) · `041_01-59-45.png`
 
 *document*
 
@@ -2505,7 +2505,7 @@ Emotions That Led To Behaviors Examples:
 
 ## [02:01:15] Emotions That Led To Behaviors: Skincare Example
 
-frame: 041_02-01-15.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:01:15](https://drive.google.com/file/d/1dCBvHvA1-1EL9BGTidvEBIxC4uz_jBWW/view?usp=drivesdk) · `041_02-01-15.png`
 
 *document*
 
@@ -2531,7 +2531,7 @@ To show you more examples of how this can apply to your ads specifically. Let's 
 
 ## [02:02:05] Marketing Headlines for Skincare and Market Sophistication Note
 
-frame: 041_02-02-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:02:05](https://drive.google.com/file/d/1xsgrDrzMnv2PXsQzbO1OhM7KUVUpMi16/view?usp=drivesdk) · `041_02-02-05.png`
 
 *document*
 
@@ -2555,7 +2555,7 @@ When markets get more sophisticated, for example, like skincare, a lot of these 
 
 ## [02:02:15] Emotion to Behavior Example: Statement Pieces
 
-frame: 041_02-02-15.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:02:15](https://drive.google.com/file/d/1YbgdF6msjgG4R805b-6McjPWFwSRkWzm/view?usp=drivesdk) · `041_02-02-15.png`
 
 *document*
 
@@ -2572,7 +2572,7 @@ Again, the person FEELS happy (joy) when people notice her (emotion + a bit of a
 
 ## [02:02:50] Framework Rule: How to Check It's a Behavior/Habit
 
-frame: 041_02-02-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:02:50](https://drive.google.com/file/d/1LrmH2ebjWaa6nEIhb3WMcuqtWeNVvTv8/view?usp=drivesdk) · `041_02-02-50.png`
 
 *document*
 
@@ -2590,7 +2590,7 @@ Does this describe what the person does?
 
 ## [02:03:05] Emotion to Behavior Framework and Validation Checklist Preview
 
-frame: 041_02-03-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:03:05](https://drive.google.com/file/d/1ENVnaBbyOjMY6R_zK31LS0R80ufOQLxB/view?usp=drivesdk) · `041_02-03-05.png`
 
 *document*
 
@@ -2613,7 +2613,7 @@ HOW TO CHECK IT'S A BEHAVIOR/HABIT
 
 ## [02:05:15] How to Check It's a Behavior/Habit and Introduction to Demographics
 
-frame: 041_02-05-15.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:05:15](https://drive.google.com/file/d/1cnQqKBp_0Dd9UxrhPleNMJd2alHXssWQ/view?usp=drivesdk) · `041_02-05-15.png`
 
 *document*
 
@@ -2643,7 +2643,7 @@ Meaning, if someone went through the experience of "Giving birth"
 
 ## [02:07:40] Category 5: Demographics Definition and Core Principles
 
-frame: 041_02-07-40.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:07:40](https://drive.google.com/file/d/1-CiGFf5f9LzEfhEA3Z54SmJ2JBdpfRpA/view?usp=drivesdk) · `041_02-07-40.png`
 
 *document*
 
@@ -2669,7 +2669,7 @@ Due to these women having melanin-rich skin, they have more specific needs, and 
 
 ## [02:08:35] Demographics Role and African-American Skincare Brand Example
 
-frame: 041_02-08-35.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:08:35](https://drive.google.com/file/d/111wLU2DzMfCSFW8y6hXH0pKKH2VqUaq8/view?usp=drivesdk) · `041_02-08-35.png`
 
 *document*
 
@@ -2691,7 +2691,7 @@ Therefore, we were effectively able to narrow down avatars and be successful wit
 
 ## [02:09:45] Demographics and Purchase Motivation Guidelines
 
-frame: 041_02-09-45.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:09:45](https://drive.google.com/file/d/1ChfqF6eyQyD_jtHeaVemsmlh44sb95Oz/view?usp=drivesdk) · `041_02-09-45.png`
 
 *document*
 
@@ -2720,7 +2720,7 @@ On top of that, Demographics drive nowhere near as much purchase motivation as t
 
 ## [02:09:55] Demographics Limitations and Mistake of Isolating Buyers
 
-frame: 041_02-09-55.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:09:55](https://drive.google.com/file/d/1xHGW9ekpTL9vaPVTnX3j3nnp7VtHd6Xx/view?usp=drivesdk) · `041_02-09-55.png`
 
 *document*
 
@@ -2751,7 +2751,7 @@ A 22-year-old girl and a 54-year-old man could have the same desire (want to fin
 
 ## [02:11:05] Cross-Demographic Commonalities in Desires and Emotions
 
-frame: 041_02-11-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:11:05](https://drive.google.com/file/d/1CP4od57xNvaN2zy7dS0yNl4wxrA-dqqQ/view?usp=drivesdk) · `041_02-11-05.png`
 
 *document*
 
@@ -2779,7 +2779,7 @@ Yet, as soon as you add a demographic, that can cut people out.
 
 ## [02:11:15] Niche Demographics and Specificity Example
 
-frame: 041_02-11-15.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:11:15](https://drive.google.com/file/d/1n11sNoKVAcnidFmHG9XxnByxakUJydt2/view?usp=drivesdk) · `041_02-11-15.png`
 
 *document*
 
@@ -2805,7 +2805,7 @@ You've likely seen this with apps even:
 
 ## [02:11:20] Rules of Thumb for Avatar Specificity vs Breadth
 
-frame: 041_02-11-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:11:20](https://drive.google.com/file/d/1G5DglpSJ-oq_f8CRZNSHCE0dMREkKmbr/view?usp=drivesdk) · `041_02-11-20.png`
 
 *document*
 
@@ -2838,7 +2838,7 @@ Let's begin:
 
 ## [02:13:50] Demographics Nuance and Isolating Buyers
 
-frame: 041_02-13-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:13:50](https://drive.google.com/file/d/1QFgE-lkNb5mRv7E8fi5aq_kTO1gVmcCP/view?usp=drivesdk) · `041_02-13-50.png`
 
 *document*
 
@@ -2861,7 +2861,7 @@ You've likely seen this with apps even:
 
 ## [02:14:50] Demographics Nuance and Relatability Example
 
-frame: 041_02-14-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:14:50](https://drive.google.com/file/d/18cUQ7pRiNny7sr6tkXxpO9ipskwKa2oX/view?usp=drivesdk) · `041_02-14-50.png`
 
 *document*
 
@@ -2886,7 +2886,7 @@ Here's the "proof" according to Google.
 
 ## [02:17:20] Hollow Socks Example and Demographics List
 
-frame: 041_02-17-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:17:20](https://drive.google.com/file/d/1jUbcJsW2-iunySacnffOkBkBvBnhjHpB/view?usp=drivesdk) · `041_02-17-20.png`
 
 *document*
 
@@ -2921,7 +2921,7 @@ Demographics sub-items j through x with examples: Gender, Birth date/Generation,
 
 ## [02:18:10] Rules of Thumb: Broad vs Specific Avatars
 
-frame: 041_02-18-10.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:18:10](https://drive.google.com/file/d/1Q9lZIljZ0908lYEXJCvkyoT3S7arH1eM/view?usp=drivesdk) · `041_02-18-10.png`
 
 *document*
 
@@ -2945,7 +2945,7 @@ Bottom text: "Through a lot of head scratching, back & forth, and proof checking
 
 ## [02:18:40] Winning Ads Document Title Slide
 
-frame: 041_02-18-40.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:18:40](https://drive.google.com/file/d/1OSSc481cahBlOTg1iBw4TMF4Dm3lXzJu/view?usp=drivesdk) · `041_02-18-40.png`
 
 *title card*
 
@@ -2961,7 +2961,7 @@ Document title: "EVOLVE - 2025 Winning Ads Document", presentation deck slide th
 
 ## [02:18:55] Static Ad Breakdown: Solution Exaggeration
 
-frame: 041_02-18-55.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:18:55](https://drive.google.com/file/d/1VMwG8WvcDyV4vdn3PjTxIy9iJM0pu4d8/view?usp=drivesdk) · `041_02-18-55.png`
 
 *slide*
 
@@ -2990,7 +2990,7 @@ Bullet points on the ad visual: 'Improves Blood Circulation', 'Enhances Performa
 
 ## [02:20:20] How to Check It's a Demographic
 
-frame: 041_02-20-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:20:20](https://drive.google.com/file/d/1GGKbwDkJgnzrgk7S-O4v4P3yw2B5lqEY/view?usp=drivesdk) · `041_02-20-20.png`
 
 *document*
 
@@ -3013,7 +3013,7 @@ Example: '(Want my kids to be healthy = Mom/Dad)' and 'HOW TO CHECK IT'S A DEMOG
 
 ## [02:20:25] All Demographics Category Reference List
 
-frame: 041_02-20-25.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:20:25](https://drive.google.com/file/d/1H3n5fr4ptcCjRjzAsx3HnCvwckYO7g-n/view?usp=drivesdk) · `041_02-20-25.png`
 
 *document*
 
@@ -3044,7 +3044,7 @@ Specific parenthetical examples for each demographic category (e.g. 'Vancouver/S
 
 ## [02:22:10] What About Beliefs: Deconstructing Category 6
 
-frame: 041_02-22-10.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:22:10](https://drive.google.com/file/d/1yAxXenujFbu3CRZvnHB8ZDtMQvwT5s7S/view?usp=drivesdk) · `041_02-22-10.png`
 
 *document*
 
@@ -3075,7 +3075,7 @@ Exact wording of prompts to identify experience, emotion, and behavior behind a 
 
 ## [02:24:05] How Many Avatars Should I Make? Stage 1 ($0-$100K/Month)
 
-frame: 041_02-24-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:24:05](https://drive.google.com/file/d/1xCKynsQif8iHejmwroZgSY0UuolURGzs/view?usp=drivesdk) · `041_02-24-05.png`
 
 *document*
 
@@ -3099,7 +3099,7 @@ Rule: 'The lower the revenue you are, usually the MORE specific you need to be.'
 
 ## [02:24:40] Stage 1 Avatar Recommendations and Out-Avataring Competitors
 
-frame: 041_02-24-40.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:24:40](https://drive.google.com/file/d/1gIon498476-TyMHzbnY50RHVt9hWbGWQ/view?usp=drivesdk) · `041_02-24-40.png`
 
 *document*
 
@@ -3122,7 +3122,7 @@ Rather than "Out-Market them" -> Because truthfully, you're not that good at mar
 
 ## [02:25:20] Stage 1 Focus: Out-Avataring Competitors and Compounding Depth
 
-frame: 041_02-25-20.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:25:20](https://drive.google.com/file/d/1fVzNvvHo7O7xg6k_QuBkzn5gDvta4rMk/view?usp=drivesdk) · `041_02-25-20.png`
 
 *document*
 
@@ -3158,7 +3158,7 @@ Final sentence added: 'But just understand, focus and depth compound. The deeper
 
 ## [02:27:30] Stage 2: $100K-$1M/Month Avatar Strategy
 
-frame: 041_02-27-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:27:30](https://drive.google.com/file/d/1h5-J86DfS6BjXVgKoHcqdbKUpQ24xJxO/view?usp=drivesdk) · `041_02-27-30.png`
 
 *document*
 
@@ -3176,7 +3176,7 @@ Stage 2 heading and details: '$100K-$1M/Month', 'At this stage, genuinely, there
 
 ## [02:30:30] Stage 2 and Stage 3 Avatar Strategy Guidelines
 
-frame: 041_02-30-30.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:30:30](https://drive.google.com/file/d/1ADz3Oz84jP0bQyqJIgk82Q3gUhSahW9H/view?usp=drivesdk) · `041_02-30-30.png`
 
 *document*
 
@@ -3203,7 +3203,7 @@ Document title: Official - Avatar Mastery for Shopify Brands: The Meta-First Fra
 
 ## [02:32:50] Stage 3 Scaling Principles and Brand Relatability at Scale
 
-frame: 041_02-32-50.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:32:50](https://drive.google.com/file/d/1bDGzmo1fUT8-P3_kLhvDRcQvbQl3NnNE/view?usp=drivesdk) · `041_02-32-50.png`
 
 *document*
 
@@ -3228,7 +3228,7 @@ Sentence at bottom: "They have not scaled to $50m/month on accident."
 
 ## [02:33:35] Scaling Beyond 8 Figures: Relatability at Scale and Comfrt Example
 
-frame: 041_02-33-35.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:33:35](https://drive.google.com/file/d/1yGvwhAIQg2deooQGr6SgFw0AldSXmJZR/view?usp=drivesdk) · `041_02-33-35.png`
 
 *document*
 
@@ -3260,7 +3260,7 @@ Avatars, Mechanisms (their weighted hoodies) Brand (Supporting mental health), V
 
 ## [02:33:40] Stage 3: $10M+/Month Brand Scaling Overview
 
-frame: 041_02-33-40.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:33:40](https://drive.google.com/file/d/1GDE6BH8gGsI4h8kozimp-TgGIXZvtp3r/view?usp=drivesdk) · `041_02-33-40.png`
 
 *document*
 
@@ -3278,7 +3278,7 @@ Stage 3:$10M+/Month heading and text on preparing business for an exit.
 
 ## [02:35:05] Infinite Combinations of Avatars and Non-Linear Scaling
 
-frame: 041_02-35-05.png (Drive: https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+[frame 02:35:05](https://drive.google.com/file/d/1to7TLHGyM4gBw8r-fNLTDaDWc5qJh39J/view?usp=drivesdk) · `041_02-35-05.png`
 
 *document*
 

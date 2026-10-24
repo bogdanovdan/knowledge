@@ -13,14 +13,14 @@ Original lesson numbering and order are retained. T = transcript; V = visual not
 ## 27. Understanding Your Product - Part 1 - 00:16:20
 
 - **T:** [Markdown](../../lessons/027-understanding-your-product-part-1/transcript.md) | [JSON](../../lessons/027-understanding-your-product-part-1/transcript.json) | [SRT](../../lessons/027-understanding-your-product-part-1/transcript.srt) - complete
-- **V:** [Visual notes](../../lessons/027-understanding-your-product-part-1/visual_notes.md) - 4 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/1-R91wsuCjRqEqZHTENI6st1p5uBbdDdU/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/027-understanding-your-product-part-1/visual_notes.md) - 4 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/1mbeTZl80Ys5KkcZK972wFfa-7FpcAWzw)
 - **S:** [Summary](../../lessons/027-understanding-your-product-part-1/summary.md)
 - **P:** [Lesson page](../../lessons/027-understanding-your-product-part-1/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=bc43ff8113f74c2aae07d6e19075b92d)
 
 ## 28. Understanding Your Product - Part 2 - 00:32:44
 
 - **T:** [Markdown](../../lessons/028-understanding-your-product-part-2/transcript.md) | [JSON](../../lessons/028-understanding-your-product-part-2/transcript.json) | [SRT](../../lessons/028-understanding-your-product-part-2/transcript.srt) - complete
-- **V:** [Visual notes](../../lessons/028-understanding-your-product-part-2/visual_notes.md) - 41 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/1RdxIUu6T5X6UJ7jplXtbrwJaBnafzBTo/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/028-understanding-your-product-part-2/visual_notes.md) - 41 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/1cnJ64W16ZcYHbWmfw0LbYQBU-or5eEfp)
 - **S:** [Summary](../../lessons/028-understanding-your-product-part-2/summary.md)
 - **P:** [Lesson page](../../lessons/028-understanding-your-product-part-2/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=a326ea25ed9b431b9befc59ab1d07655)
 - **Linked resources:** [https://hemingwayapp.com/](https://hemingwayapp.com/)
@@ -28,7 +28,7 @@ Original lesson numbering and order are retained. T = transcript; V = visual not
 ## 29. Understanding Your Product - Part 3 - 00:05:38
 
 - **T:** [Markdown](../../lessons/029-understanding-your-product-part-3/transcript.md) | [JSON](../../lessons/029-understanding-your-product-part-3/transcript.json) | [SRT](../../lessons/029-understanding-your-product-part-3/transcript.srt) - complete
-- **V:** [Visual notes](../../lessons/029-understanding-your-product-part-3/visual_notes.md) - 6 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/1uWEfhDOTlxdo3UcjYGArVx2iwXvCD10y/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/029-understanding-your-product-part-3/visual_notes.md) - 6 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/1dwnXaVMlmvmrYnRxKBHLZpU5ZIUwJsqt)
 - **S:** [Summary](../../lessons/029-understanding-your-product-part-3/summary.md)
 - **P:** [Lesson page](../../lessons/029-understanding-your-product-part-3/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=0b4bfa33cccb4c5caf0d935cacb2ebfa)
 - **Template:** [29. Understanding Your Product.docx](../../../Origins%20Program%20%28%240-%24100k%20mo%29/29.%20Understanding%20Your%20Product.docx) ([text](../../templates/029-understanding-your-product.docx.md))
@@ -43,21 +43,21 @@ Original lesson numbering and order are retained. T = transcript; V = visual not
 ## 31. Understanding & Applying Desire - Part 1 - 01:01:50
 
 - **T:** [Markdown](../../lessons/031-understanding-applying-desire-part-1/transcript.md) | [JSON](../../lessons/031-understanding-applying-desire-part-1/transcript.json) | [SRT](../../lessons/031-understanding-applying-desire-part-1/transcript.srt) - complete
-- **V:** [Visual notes](../../lessons/031-understanding-applying-desire-part-1/visual_notes.md) - 19 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/1lkdJUcI_R-XPW8PFUTz5BIKfiJDp1wQZ/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/031-understanding-applying-desire-part-1/visual_notes.md) - 19 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/1-U9uFyyNxwL44qi-BKxWLZrqXrIUbRPk)
 - **S:** [Summary](../../lessons/031-understanding-applying-desire-part-1/summary.md)
 - **P:** [Lesson page](../../lessons/031-understanding-applying-desire-part-1/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=aad43a6527294628b243fc4fcbff4f9d)
 
 ## 32. The Desire Calendar - Part 2 - 00:16:47
 
 - **T:** [Markdown](../../lessons/032-the-desire-calendar-part-2/transcript.md) | [JSON](../../lessons/032-the-desire-calendar-part-2/transcript.json) | [SRT](../../lessons/032-the-desire-calendar-part-2/transcript.srt) - complete
-- **V:** [Visual notes](../../lessons/032-the-desire-calendar-part-2/visual_notes.md) - 15 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/1CPIIV6RYH-xmexGLC_dkFX9OsBHmYRIi/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/032-the-desire-calendar-part-2/visual_notes.md) - 15 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/1aISGN12vNBmpstKaK_StF_ECOzYbCrwf)
 - **S:** [Summary](../../lessons/032-the-desire-calendar-part-2/summary.md)
 - **P:** [Lesson page](../../lessons/032-the-desire-calendar-part-2/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=c0504e0dedec418eb68fba6192cd2982)
 
 ## 33. How To Find Desires - Part 3 - 00:42:59
 
 - **T:** [Markdown](../../lessons/033-how-to-find-desires-part-3/transcript.md) | [JSON](../../lessons/033-how-to-find-desires-part-3/transcript.json) | [SRT](../../lessons/033-how-to-find-desires-part-3/transcript.srt) - complete, 1 flagged section(s)
-- **V:** [Visual notes](../../lessons/033-how-to-find-desires-part-3/visual_notes.md) - 57 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/11-Io-TlHu9YbhkJeEO_X430AN1fkcNHf/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/033-how-to-find-desires-part-3/visual_notes.md) - 57 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/11XYfOLtmEFZL-wJ_2q1NlqTo3hmgPEI0)
 - **S:** [Summary](../../lessons/033-how-to-find-desires-part-3/summary.md)
 - **P:** [Lesson page](../../lessons/033-how-to-find-desires-part-3/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=dc57c21ffc4848cfaf53e40624169140)
 
@@ -70,7 +70,7 @@ Original lesson numbering and order are retained. T = transcript; V = visual not
 ## 35. Understanding Market Sophistication - Part 1 - 00:38:06
 
 - **T:** [Markdown](../../lessons/035-understanding-market-sophistication-part-1/transcript.md) | [JSON](../../lessons/035-understanding-market-sophistication-part-1/transcript.json) | [SRT](../../lessons/035-understanding-market-sophistication-part-1/transcript.srt) - complete
-- **V:** [Visual notes](../../lessons/035-understanding-market-sophistication-part-1/visual_notes.md) - 11 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/1VX05uFIB2SAZIfHogSUoK5GEeyoZEdj0/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/035-understanding-market-sophistication-part-1/visual_notes.md) - 11 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/1V6OMoW-2IhF4Uk7d7Qa-eUpYWyTn8oTF)
 - **S:** [Summary](../../lessons/035-understanding-market-sophistication-part-1/summary.md)
 - **P:** [Lesson page](../../lessons/035-understanding-market-sophistication-part-1/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=7e258d4e2b14440ca5e9afc3f9db5fec)
 - **Template:** [35. Understanding Market Sophistication.docx](../../../Origins%20Program%20%28%240-%24100k%20mo%29/35.%20Understanding%20Market%20Sophistication.docx) ([text](../../templates/035-understanding-market-sophistication.docx.md))
@@ -79,7 +79,7 @@ Original lesson numbering and order are retained. T = transcript; V = visual not
 ## 36. How To Find & Apply New Mechanisms - Part 2 - 00:10:02
 
 - **T:** [Markdown](../../lessons/036-how-to-find-apply-new-mechanisms-part-2/transcript.md) | [JSON](../../lessons/036-how-to-find-apply-new-mechanisms-part-2/transcript.json) | [SRT](../../lessons/036-how-to-find-apply-new-mechanisms-part-2/transcript.srt) - complete
-- **V:** [Visual notes](../../lessons/036-how-to-find-apply-new-mechanisms-part-2/visual_notes.md) - 14 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/1G-RjGhhxnDAxxtjIlz0RQ1SvCrnWNOp8/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/036-how-to-find-apply-new-mechanisms-part-2/visual_notes.md) - 14 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/1t8_Gi9qbDbHpu1QcB1qqLXKHl6cGq6UK)
 - **S:** [Summary](../../lessons/036-how-to-find-apply-new-mechanisms-part-2/summary.md)
 - **P:** [Lesson page](../../lessons/036-how-to-find-apply-new-mechanisms-part-2/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=f6c0be0b1bd4455e8d157785132ac9a8)
 - **Template:** [36. How To Find & Apply New Mechanisms.docx](../../../Origins%20Program%20%28%240-%24100k%20mo%29/36.%20How%20To%20Find%20%26%20Apply%20New%20Mechanisms.docx) ([text](../../templates/036-how-to-find-apply-new-mechanisms.docx.md))
@@ -94,7 +94,7 @@ Original lesson numbering and order are retained. T = transcript; V = visual not
 ## 38. How To Find & Apply New Information - Part 3 - 00:21:38
 
 - **T:** [Markdown](../../lessons/038-how-to-find-apply-new-information-part-3/transcript.md) | [JSON](../../lessons/038-how-to-find-apply-new-information-part-3/transcript.json) | [SRT](../../lessons/038-how-to-find-apply-new-information-part-3/transcript.srt) - complete, 1 flagged section(s)
-- **V:** [Visual notes](../../lessons/038-how-to-find-apply-new-information-part-3/visual_notes.md) - 21 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/038-how-to-find-apply-new-information-part-3/visual_notes.md) - 21 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/1ATawDHIo8mHOaw7QuoKVx0cfzJRczrht)
 - **S:** [Summary](../../lessons/038-how-to-find-apply-new-information-part-3/summary.md)
 - **P:** [Lesson page](../../lessons/038-how-to-find-apply-new-information-part-3/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=6efbf013d2b647559877ce27f7e668cf)
 - **Template:** [38. How To Find & Apply New Information.docx](../../../Origins%20Program%20%28%240-%24100k%20mo%29/38.%20How%20To%20Find%20%26%20Apply%20New%20Information.docx) ([text](../../templates/038-how-to-find-apply-new-information.docx.md))
@@ -109,14 +109,14 @@ Original lesson numbering and order are retained. T = transcript; V = visual not
 ## 40. How To Find & Apply New Identities* - Part 4 - 00:07:09
 
 - **T:** [Markdown](../../lessons/040-how-to-find-apply-new-identities-part-4/transcript.md) | [JSON](../../lessons/040-how-to-find-apply-new-identities-part-4/transcript.json) | [SRT](../../lessons/040-how-to-find-apply-new-identities-part-4/transcript.srt) - complete
-- **V:** [Visual notes](../../lessons/040-how-to-find-apply-new-identities-part-4/visual_notes.md) - 6 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/1ZlNM6yyn2TeGMT1gLs4vsJNhTI12p8gH/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/040-how-to-find-apply-new-identities-part-4/visual_notes.md) - 6 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/1fT1Mae2hiprAt1PIHAzVkEuak4n15cM3)
 - **S:** [Summary](../../lessons/040-how-to-find-apply-new-identities-part-4/summary.md)
 - **P:** [Lesson page](../../lessons/040-how-to-find-apply-new-identities-part-4/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=912c26c73ab54dfc9648e0420e971cde)
 
 ## 41. The Origins Avatar Training (Evolve Special) - 02:37:25
 
 - **T:** [Markdown](../../lessons/041-the-origins-avatar-training-evolve-special/transcript.md) | [JSON](../../lessons/041-the-origins-avatar-training-evolve-special/transcript.json) | [SRT](../../lessons/041-the-origins-avatar-training-evolve-special/transcript.srt) - complete
-- **V:** [Visual notes](../../lessons/041-the-origins-avatar-training-evolve-special/visual_notes.md) - 137 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/1TSsEH5niTWbKSSZvcswd9dv-2Gjz-pH9/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/041-the-origins-avatar-training-evolve-special/visual_notes.md) - 137 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/1mr56ZQybB4yzToM-Pz7oR9w3U9WPb_oJ)
 - **S:** [Summary](../../lessons/041-the-origins-avatar-training-evolve-special/summary.md)
 - **P:** [Lesson page](../../lessons/041-the-origins-avatar-training-evolve-special/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=951cce6a4a0e4afa965e8a31ea770066)
 - **Template:** [41. The Origins Avatar Training (Evolve Special).docx](../../../Origins%20Program%20%28%240-%24100k%20mo%29/41.%20The%20Origins%20Avatar%20Training%20%28Evolve%20Special%29.docx) ([text](../../templates/041-the-origins-avatar-training-evolve-special.docx.md))
@@ -129,7 +129,7 @@ Original lesson numbering and order are retained. T = transcript; V = visual not
 ## 43. How To Build Core Avatars - 00:47:22
 
 - **T:** [Markdown](../../lessons/043-how-to-build-core-avatars/transcript.md) | [JSON](../../lessons/043-how-to-build-core-avatars/transcript.json) | [SRT](../../lessons/043-how-to-build-core-avatars/transcript.srt) - complete, 1 flagged section(s)
-- **V:** [Visual notes](../../lessons/043-how-to-build-core-avatars/visual_notes.md) - 56 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/1WMY_L2tNGhBS1IaAauwkeoCaxhMOzHVB/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/043-how-to-build-core-avatars/visual_notes.md) - 56 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/1oNvEAgiV6K54d34_-0ve593Vt2ztiUn0)
 - **S:** [Summary](../../lessons/043-how-to-build-core-avatars/summary.md)
 - **P:** [Lesson page](../../lessons/043-how-to-build-core-avatars/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=af6daf94038c450a9d1b2541756a5194)
 
@@ -140,7 +140,7 @@ Original lesson numbering and order are retained. T = transcript; V = visual not
 ## 45. How To Build Sub Avatars - 00:32:40
 
 - **T:** [Markdown](../../lessons/045-how-to-build-sub-avatars/transcript.md) | [JSON](../../lessons/045-how-to-build-sub-avatars/transcript.json) | [SRT](../../lessons/045-how-to-build-sub-avatars/transcript.srt) - complete
-- **V:** [Visual notes](../../lessons/045-how-to-build-sub-avatars/visual_notes.md) - 45 screenshot(s) in [frames (Drive zip)](https://drive.google.com/file/d/1T7nx97eXT6bk_sj1wkKVXchsUZkD9-zm/view?usp=drivesdk)
+- **V:** [Visual notes](../../lessons/045-how-to-build-sub-avatars/visual_notes.md) - 45 screenshot(s) in [frames (Drive folder)](https://drive.google.com/drive/folders/1GioAS3H7v18Jz5pf7qFqW47bJoBChXGL)
 - **S:** [Summary](../../lessons/045-how-to-build-sub-avatars/summary.md)
 - **P:** [Lesson page](../../lessons/045-how-to-build-sub-avatars/lesson_page.md) | [Skool](https://www.skool.com/evolve-8484/classroom/2580d099?md=f8888a069ad64feeb05ccae5aa289b93)
 

@@ -1,14 +1,14 @@
 # 59. 13 winning static ads breakdown + templates - Visual notes
 
 - **Frames kept:** 24 of 45 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 742x480 (native), PNG frames in Google Drive as [059-13-winning-static-ads-breakdown-templates-frames.zip](https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+- **Resolution:** 742x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/059-13-winning-static-ads-breakdown-templates](https://drive.google.com/drive/folders/10YYQGErI44vQp7E0DRzaBxHLMK5ooFeW)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:01:30] Winning Ads Templates Title Card
 
-frame: 059_00-01-30.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:01:30](https://drive.google.com/file/d/1M8k3BCxXDmiHLOKzBwi4DpZjMIRG6kTw/view?usp=drivesdk) · `059_00-01-30.png`
 
 *title card*
 
@@ -23,7 +23,7 @@ EVOLVE | ORIGINS
 
 ## [00:03:25] Index of Winning Ad Templates (1-7)
 
-frame: 059_00-03-25.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:03:25](https://drive.google.com/file/d/1YZ5UvyzsQy1oHMrwPvO7T_rc9PHK05iY/view?usp=drivesdk) · `059_00-03-25.png`
 
 *slide*
 
@@ -43,7 +43,7 @@ Items (2) through (7) are listed on screen but not yet spoken in detail.
 
 ## [00:03:30] Index of Winning Ad Templates (continued)
 
-frame: 059_00-03-30.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:03:30](https://drive.google.com/file/d/1O83i3KGjfwdjHbzVCXRq-n0TlHkYISKY/view?usp=drivesdk) · `059_00-03-30.png`
 
 *slide*
 
@@ -65,7 +65,7 @@ Ad templates 8-10 listed on page 3 are not mentioned in this transcript clip.
 
 ## [00:03:40] Avatar Call Out Ad Breakdown
 
-frame: 059_00-03-40.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:03:40](https://drive.google.com/file/d/1hbPJm4KCRefxFFsDPqv9EMg4sQaL02Mk/view?usp=drivesdk) · `059_00-03-40.png`
 
 *slide*
 
@@ -91,7 +91,7 @@ Reviewer name "Kristina Hickok Daheim", product tins shown.
 
 ## [00:03:50] Solution Exaggeration Ad Breakdown
 
-frame: 059_00-03-50.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:03:50](https://drive.google.com/file/d/1kizLgxo4vc9rm_UWz6GZC7bh56xvzO12/view?usp=drivesdk) · `059_00-03-50.png`
 
 *slide*
 
@@ -115,7 +115,7 @@ All text and details for Ad #2 (Solution Exaggeration) are shown on screen but n
 
 ## [00:05:10] Avatar Call Out Ad Template Canvas
 
-frame: 059_00-05-10.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:05:10](https://drive.google.com/file/d/16HGjRm4OJEe4UifjErmE5mpv84Fmr5TD/view?usp=drivesdk) · `059_00-05-10.png`
 
 *ad example*
 
@@ -128,7 +128,7 @@ Kristina Hickok Daheim
 
 ## [00:05:45] Canva Editor: Avatar Call Out Template
 
-frame: 059_00-05-45.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:05:45](https://drive.google.com/file/d/14ds1HtkSvBaHRwtvkXvjb7cuiFK0FfSC/view?usp=drivesdk) · `059_00-05-45.png`
 
 *software demo*
 
@@ -146,7 +146,7 @@ Font name "Abril Fatface", size 115, bottom strip showing 13 templates overview.
 
 ## [00:05:50] Canva Editor: 4-Grid Static Ad Template
 
-frame: 059_00-05-50.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:05:50](https://drive.google.com/file/d/1GVIfq4hDLrOnrIVr-fI43ws73KNPsctr/view?usp=drivesdk) · `059_00-05-50.png`
 
 *software demo*
 
@@ -166,7 +166,7 @@ Z Net Carb | X Sugar
 
 ## [00:06:10] Canva Editor: Customizing 4-Grid Static Ad
 
-frame: 059_00-06-10.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:06:10](https://drive.google.com/file/d/1lLzCeluw_9Y-bk3Npd2lU_OspFsIvZQr/view?usp=drivesdk) · `059_00-06-10.png`
 
 *software demo*
 
@@ -185,7 +185,7 @@ Tumbler cup photo added to bottom left, thumbnail images shown in upload column.
 
 ## [00:06:25] Editing 4-Grid Static Ad in Canva
 
-frame: 059_00-06-25.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:06:25](https://drive.google.com/file/d/1C9y93DseAcKl3LKibopc884ryNahFAKn/view?usp=drivesdk) · `059_00-06-25.png`
 
 *software demo*
 
@@ -199,7 +199,7 @@ Font settings: 'Crimson Pro', size '72.6'. 2x2 quadrant labels: 'X+ Vitamins & M
 
 ## [00:07:40] Canva Template: This is a X. Not a Y.
 
-frame: 059_00-07-40.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:07:40](https://drive.google.com/file/d/12vkrVoTBqVjrRRbQ082jaMLfj56A9K_7/view?usp=drivesdk) · `059_00-07-40.png`
 
 *software demo*
 
@@ -213,7 +213,7 @@ Canva editor showing page 4 template: split layout with placeholder sky graphic 
 
 ## [00:09:20] Solution Exaggeration Ad Breakdown
 
-frame: 059_00-09-20.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:09:20](https://drive.google.com/file/d/1zL_2WS6Pnml7iG2W9ZAvU-04as0ZjoZ6/view?usp=drivesdk) · `059_00-09-20.png`
 
 *slide*
 
@@ -240,7 +240,7 @@ Ad bullet text: 'Reduces Swelling & Inflammation', 'Improves Blood Circulation',
 
 ## [00:10:10] Stealing Credibility Ad Breakdown
 
-frame: 059_00-10-10.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:10:10](https://drive.google.com/file/d/1tFPT1SLwnSB4oUqPEHUKufSJqWKCqC5W/view?usp=drivesdk) · `059_00-10-10.png`
 
 *slide*
 
@@ -266,7 +266,7 @@ Text inside ad bottom right quadrant: '21+ Vitamins & Minerals', '6g Fiber', '1g
 
 ## [00:10:15] This Is Not [The Product] Ad Breakdown
 
-frame: 059_00-10-15.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:10:15](https://drive.google.com/file/d/1LVI37vlRH3j2gnfpQ_xq8aYaohXZEZSP/view?usp=drivesdk) · `059_00-10-15.png`
 
 *slide*
 
@@ -290,7 +290,7 @@ Full text of point 1 and point 2 asterisks note. Ad badge: '17 meals for $2.65 p
 
 ## [00:10:40] Specific Pain Point Ad Breakdown
 
-frame: 059_00-10-40.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:10:40](https://drive.google.com/file/d/1OCEUyWd4BF_Y2B_Cl2-0KJ6PZK_jMLhr/view?usp=drivesdk) · `059_00-10-40.png`
 
 *slide*
 
@@ -316,7 +316,7 @@ Points 1, 2, and 3 full bullet text. Ad creative text: '2000 MG Adaptogenic Mush
 
 ## [00:10:50] Accidental Ideal Outcome Ad Breakdown
 
-frame: 059_00-10-50.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:10:50](https://drive.google.com/file/d/1FJWi9w8zgLc-v0eM5Y46Z_JQDW-T39v8/view?usp=drivesdk) · `059_00-10-50.png`
 
 *slide*
 
@@ -342,7 +342,7 @@ Points 2 and 3: visual language ('blocking', 'dissolving'), law of unique number
 
 ## [00:11:15] Relatable Hook Ad Breakdown
 
-frame: 059_00-11-15.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:11:15](https://drive.google.com/file/d/13bIK2QSAJdkMYJXx6CrZU417nvHaWWGx/view?usp=drivesdk) · `059_00-11-15.png`
 
 *slide*
 
@@ -372,7 +372,7 @@ Advertorial URL: HTTPS://COMFORTORTHOWEAR.COM/PAGES/HERE-ARE-7-REASONS-WHY-THIS-
 
 ## [00:11:35] Indirect Avatar Ad Breakdown
 
-frame: 059_00-11-35.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:11:35](https://drive.google.com/file/d/1cpEvvOdd_YL-R90wEHiEzifea-Mc8QEO/view?usp=drivesdk) · `059_00-11-35.png`
 
 *slide*
 
@@ -399,7 +399,7 @@ Points 2, 3, 4 and advertorial URL: HTTPS://FIRSTDAY.COM/PAGES/TDK-SALES-BEHAVIO
 
 ## [00:11:55] The Free Ad Breakdown
 
-frame: 059_00-11-55.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:11:55](https://drive.google.com/file/d/18ZkjABLwfi5EVHsagspIbsafNeYMAfKz/view?usp=drivesdk) · `059_00-11-55.png`
 
 *slide*
 
@@ -424,7 +424,7 @@ Detailed reasons why it works (bullet points 1-4) and callouts: Feel stronger, M
 
 ## [00:12:00] Classy Offer Ad Breakdown
 
-frame: 059_00-12-00.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:12:00](https://drive.google.com/file/d/135Lc3822wNMpMv0ZlqKpAmdh3g7Sc4X8/view?usp=drivesdk) · `059_00-12-00.png`
 
 *slide*
 
@@ -448,7 +448,7 @@ Bullet points 1 and 2 text, brand 'kloudy', headline 'Left or right?', offer lin
 
 ## [00:12:20] Simplified Us vs Them Ad Breakdown
 
-frame: 059_00-12-20.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:12:20](https://drive.google.com/file/d/1dh1KwgKqbza25EHTtjvVMUnzt2sc73SO/view?usp=drivesdk) · `059_00-12-20.png`
 
 *slide*
 
@@ -471,7 +471,7 @@ Numbered points 1, 2, 3 under 'WHY THIS AD WORKS'.
 
 ## [00:12:25] Pubity Style Ad Breakdown
 
-frame: 059_00-12-25.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:12:25](https://drive.google.com/file/d/1iciEcnu9KEaJYoHY3HlOVwF8Ljyr7KT_/view?usp=drivesdk) · `059_00-12-25.png`
 
 *slide*
 
@@ -495,7 +495,7 @@ Numbered points 1, 2, 3 verbatim under 'WHY THIS AD WORKS'; specific ad headline
 
 ## [00:13:10] The Minimal Us vs Them Ad Breakdown
 
-frame: 059_00-13-10.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:13:10](https://drive.google.com/file/d/18mIszAr7ebKd2IcOfA9hvMMk_czzbbYs/view?usp=drivesdk) · `059_00-13-10.png`
 
 *slide*
 
@@ -519,7 +519,7 @@ Numbered points 1, 2, 3, 4 verbatim under 'WHY THIS AD WORKS'; specific callout 
 
 ## [00:14:00] Canva Ad Template Editor View
 
-frame: 059_00-14-00.png (Drive: https://drive.google.com/file/d/1rQcL0yebt5EEjbhcqn49WBwo2CH5y7Hg/view?usp=drivesdk)
+[frame 00:14:00](https://drive.google.com/file/d/18fbVsZRPwILZ5-yGKSi7sHhuYuru1IHB/view?usp=drivesdk) · `059_00-14-00.png`
 
 *software demo*
 

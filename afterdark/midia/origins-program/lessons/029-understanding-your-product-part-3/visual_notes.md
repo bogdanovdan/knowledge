@@ -1,14 +1,14 @@
 # 29. Understanding Your Product - Part 3 - Visual notes
 
 - **Frames kept:** 6 of 11 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [029-understanding-your-product-part-3-frames.zip](https://drive.google.com/file/d/1uWEfhDOTlxdo3UcjYGArVx2iwXvCD10y/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/029-understanding-your-product-part-3](https://drive.google.com/drive/folders/1dwnXaVMlmvmrYnRxKBHLZpU5ZIUwJsqt)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:01:55] Claude Project Setup for Brand Example
 
-frame: 029_00-01-55.png (Drive: https://drive.google.com/file/d/1uWEfhDOTlxdo3UcjYGArVx2iwXvCD10y/view?usp=drivesdk)
+[frame 00:01:55](https://drive.google.com/file/d/1s-0juoLx1td3U5j4tKQCEJdsC0SalyRC/view?usp=drivesdk) · `029_00-01-55.png`
 
 *software demo*
 
@@ -22,7 +22,7 @@ Model displayed is 'Claude Sonnet 4'. Initial project description snippet visibl
 
 ## [00:03:10] Uploaded Reference Documents in Claude Project
 
-frame: 029_00-03-10.png (Drive: https://drive.google.com/file/d/1uWEfhDOTlxdo3UcjYGArVx2iwXvCD10y/view?usp=drivesdk)
+[frame 00:03:10](https://drive.google.com/file/d/1vszD_inLzB9VRyAgZ32XxbGB1eE2pX-T/view?usp=drivesdk) · `029_00-03-10.png`
 
 *software demo*
 
@@ -36,7 +36,7 @@ Two PDF thumbnail icons shown under 'Files'.
 
 ## [00:03:15] Product Overview Document Template Structure
 
-frame: 029_00-03-15.png (Drive: https://drive.google.com/file/d/1uWEfhDOTlxdo3UcjYGArVx2iwXvCD10y/view?usp=drivesdk)
+[frame 00:03:15](https://drive.google.com/file/d/1UanqjvsrfrOFkYhh-LSwl_JmJftCSNBI/view?usp=drivesdk) · `029_00-03-15.png`
 
 *document*
 
@@ -60,7 +60,7 @@ Exact wording of Step 1 to Step 4 prompts and layout in Google Docs outline.
 
 ## [00:03:50] AI Generated Product Overview Output for Guard Blinds
 
-frame: 029_00-03-50.png (Drive: https://drive.google.com/file/d/1uWEfhDOTlxdo3UcjYGArVx2iwXvCD10y/view?usp=drivesdk)
+[frame 00:03:50](https://drive.google.com/file/d/1r9t4L9cNCNVQ5pe171ar_L9Ngj0gBKM0/view?usp=drivesdk) · `029_00-03-50.png`
 
 *software demo*
 
@@ -81,7 +81,7 @@ Specific generated pricing '$350 (Average Order Value)', technical text 'patente
 
 ## [00:04:45] Completed Guard Blinds Example - Assumed Benefits and Desires
 
-frame: 029_00-04-45.png (Drive: https://drive.google.com/file/d/1uWEfhDOTlxdo3UcjYGArVx2iwXvCD10y/view?usp=drivesdk)
+[frame 00:04:45](https://drive.google.com/file/d/1Hsx9a7ok_QLTrBDWrCqRdOKfbXs8Yx_n/view?usp=drivesdk) · `029_00-04-45.png`
 
 *document*
 
@@ -109,7 +109,7 @@ Full text of benefits 1 through 9 and desires 1 through 3.
 
 ## [00:05:35] Completed Guard Blinds Example - Features and Benefits
 
-frame: 029_00-05-35.png (Drive: https://drive.google.com/file/d/1uWEfhDOTlxdo3UcjYGArVx2iwXvCD10y/view?usp=drivesdk)
+[frame 00:05:35](https://drive.google.com/file/d/1wCZpJwxI2z6tuB2y-f2sPh3LMqkPliHd/view?usp=drivesdk) · `029_00-05-35.png`
 
 *document*
 

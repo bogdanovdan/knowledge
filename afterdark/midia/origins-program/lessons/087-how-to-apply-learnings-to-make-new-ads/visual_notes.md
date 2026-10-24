@@ -1,14 +1,14 @@
 # 87. How to apply learnings to make new ads - Visual notes
 
 - **Frames kept:** 4 of 16 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [087-how-to-apply-learnings-to-make-new-ads-frames.zip](https://drive.google.com/file/d/1bYVEUp-s5xz3KrtK5kXRAsu-KeFM8G8F/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/087-how-to-apply-learnings-to-make-new-ads](https://drive.google.com/drive/folders/11xEY3mSA9mW_Tpfx_pdde_7oScp6-7rN)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:20] Ad Concept Testing Spreadsheet with Batches and Hypotheses
 
-frame: 087_00-00-20.png (Drive: https://drive.google.com/file/d/1bYVEUp-s5xz3KrtK5kXRAsu-KeFM8G8F/view?usp=drivesdk)
+[frame 00:00:20](https://drive.google.com/file/d/1YqhnPDMD74XoJ0CTd9exPA_MnDRNqT47/view?usp=drivesdk) · `087_00-00-20.png`
 
 *spreadsheet*
 
@@ -46,7 +46,7 @@ Detailed spreadsheet columns, batch status ('Done', 'Learning', 'Working'), head
 
 ## [00:01:10] Zend Wellness Facebook & Instagram Ad Previews
 
-frame: 087_00-01-10.png (Drive: https://drive.google.com/file/d/1bYVEUp-s5xz3KrtK5kXRAsu-KeFM8G8F/view?usp=drivesdk)
+[frame 00:01:10](https://drive.google.com/file/d/1OSiSlgoj-ehfdpmtqddYg5TYiOK4o_Yu/view?usp=drivesdk) · `087_00-01-10.png`
 
 *ad example*
 
@@ -73,7 +73,7 @@ Account name 'Zend Wellness' / 'zendwellness', exact subhead '...with Dyglovera�
 
 ## [00:01:40] Origins Course Curriculum Menu
 
-frame: 087_00-01-40.png (Drive: https://drive.google.com/file/d/1bYVEUp-s5xz3KrtK5kXRAsu-KeFM8G8F/view?usp=drivesdk)
+[frame 00:01:40](https://drive.google.com/file/d/1HoZGGThrNu0zSTnnOSragAB6M_ZRJLYe/view?usp=drivesdk) · `087_00-01-40.png`
 
 *webpage*
 
@@ -108,7 +108,7 @@ Full module syllabus and preceding lessons in the course curriculum sidebar.
 
 ## [00:01:50] Ad Concept Tracker Spreadsheet Showing Hook Variations and Testing Logic
 
-frame: 087_00-01-50.png (Drive: https://drive.google.com/file/d/1bYVEUp-s5xz3KrtK5kXRAsu-KeFM8G8F/view?usp=drivesdk)
+[frame 00:01:50](https://drive.google.com/file/d/1ySpXyoWH4B32J1jT0NuNDV8ZrvuYZ9Oa/view?usp=drivesdk) · `087_00-01-50.png`
 
 *spreadsheet*
 

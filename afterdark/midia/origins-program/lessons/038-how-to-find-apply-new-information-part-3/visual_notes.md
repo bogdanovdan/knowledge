@@ -1,14 +1,14 @@
 # 38. How To Find & Apply New Information - Part 3 - Visual notes
 
 - **Frames kept:** 21 of 47 visually distinct candidates (sampled from keyframes every ~5 s, de-duplicated)
-- **Resolution:** 854x480 (native), PNG frames in Google Drive as [038-how-to-find-apply-new-information-part-3-frames.zip](https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+- **Resolution:** 854x480 (native), PNG frames in Google Drive, one file per frame, in folder [frames/038-how-to-find-apply-new-information-part-3](https://drive.google.com/drive/folders/1ATawDHIo8mHOaw7QuoKVx0cfzJRczrht)
 - **Described with:** gemini-3.8-flash (Gemini API), checked against [the transcript](transcript.md)
 
 > **On screen** records what the frame shows. **Not in transcript** lists information that is visible but not said aloud nearby. AI-generated: verify important figures against the frame.
 
 ## [00:00:50] How to Find New Information + Apply to Your Ads
 
-frame: 038_00-00-50.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:00:50](https://drive.google.com/file/d/1V2uWD5ozmyrPDEoImEA4_u414H5lJjV2/view?usp=drivesdk) · `038_00-00-50.png`
 
 *document*
 
@@ -42,7 +42,7 @@ Google Doc Title: Avatar Mastery for Shopify Brands: The Meta-First Framework; L
 
 ## [00:03:00] Flow Pouch Ad Example - Buccal Mechanism Video
 
-frame: 038_00-03-00.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:03:00](https://drive.google.com/file/d/1LN4N8N3RQeMwJisK2v8fTJG7JhasTvuH/view?usp=drivesdk) · `038_00-03-00.png`
 
 *ad example*
 
@@ -60,7 +60,7 @@ File title: Flow Pouch - Batch#2 - Buccal Mechanism - Video - IDEA - ROKO - V1.m
 
 ## [00:04:45] Flow Pouch Ad Example Mushroom Visual
 
-frame: 038_00-04-45.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:04:45](https://drive.google.com/file/d/1Ejv-ojNy8Akum7eh-OFjvuRRoXOk-pPT/view?usp=drivesdk) · `038_00-04-45.png`
 
 *ad example*
 
@@ -75,7 +75,7 @@ Text on screen: "PREMIUM PRICES FOR"
 
 ## [00:05:30] Flow Pouch Ad Example Product Shot
 
-frame: 038_00-05-30.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:05:30](https://drive.google.com/file/d/10GKr1Ze_svChamsqylZLH7dHrbm0jqA_/view?usp=drivesdk) · `038_00-05-30.png`
 
 *ad example*
 
@@ -91,7 +91,7 @@ On-screen text: "FIRST NOOTROPIC", timestamp 01:24 / 02:11
 
 ## [00:05:50] Google Doc - Example #2 18 Chestnuts New Information
 
-frame: 038_00-05-50.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:05:50](https://drive.google.com/file/d/1ox-StEPJQhsyKY0wDMvXArRHgr-_oWfn/view?usp=drivesdk) · `038_00-05-50.png`
 
 *document*
 
@@ -113,7 +113,7 @@ Document Title: "Avatar Mastery for Shopify Brands: The Meta-First Framework", U
 
 ## [00:06:35] 18 Chestnuts Ad Hook - Stomach Issues
 
-frame: 038_00-06-35.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:06:35](https://drive.google.com/file/d/1hD2w1jgZhGlvauEAJDdO4qfI9EdYtqLC/view?usp=drivesdk) · `038_00-06-35.png`
 
 *ad example*
 
@@ -129,7 +129,7 @@ File name: "18 Chestnuts - DCT #5 - Branded Video Hook 6.mov"
 
 ## [00:06:45] 18 Chestnuts Ad - Promotes Gut Health
 
-frame: 038_00-06-45.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:06:45](https://drive.google.com/file/d/1PbO9J-xzDRqeCnoRxuotyN8bOfBEwGbC/view?usp=drivesdk) · `038_00-06-45.png`
 
 *ad example*
 
@@ -145,7 +145,7 @@ Timestamp 00:10 / 00:22
 
 ## [00:06:50] 18 Chestnuts Ad - Social Proof Press Features
 
-frame: 038_00-06-50.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:06:50](https://drive.google.com/file/d/1Gvccs2tB7_RIkzEyWMS0xHg3HXV_Mpmo/view?usp=drivesdk) · `038_00-06-50.png`
 
 *ad example*
 
@@ -160,7 +160,7 @@ Logos / mentions: "WELL+GOOD", "martha stewart", "Forbes", "CountryLiving"
 
 ## [00:06:55] 18 Chestnuts Ad End Card - Call to Action
 
-frame: 038_00-06-55.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:06:55](https://drive.google.com/file/d/1CVYDrG_lVBtz3ZajCHYKKGPLNoDPDR6m/view?usp=drivesdk) · `038_00-06-55.png`
 
 *ad example*
 
@@ -176,7 +176,7 @@ Tagline: "SOUPS THAT NOURISH YOUR SOUL", Call to action: "Find your flavor BUY N
 
 ## [00:07:55] Avatar Mastery Doc - New Information Examples
 
-frame: 038_00-07-55.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:07:55](https://drive.google.com/file/d/1t2RllFKxAXc6HQdnoDaByJ6TPuyfQzDj/view?usp=drivesdk) · `038_00-07-55.png`
 
 *document*
 
@@ -200,7 +200,7 @@ URLs: https://f.io/lXtyWSeq, https://f.io/lGah2w6f
 
 ## [00:08:20] Avatar Mastery Doc - Key Point and Prompt Link
 
-frame: 038_00-08-20.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:08:20](https://drive.google.com/file/d/1KA3tFxr2kiVBPNBCuYY00MXmlNR_rkf9/view?usp=drivesdk) · `038_00-08-20.png`
 
 *document*
 
@@ -229,7 +229,7 @@ https://f.io/lGah2w6f
 
 ## [00:08:35] Claude Chat Setup for Guard Blinds Analysis
 
-frame: 038_00-08-35.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:08:35](https://drive.google.com/file/d/1FsJ0KA3spr3fOsyArJ06l4Qd8UIYPeCR/view?usp=drivesdk) · `038_00-08-35.png`
 
 *software demo*
 
@@ -254,7 +254,7 @@ Product URL: https://guardblinds.com/products/guard-total-blackout-blinds
 
 ## [00:08:40] Market Sophistication Document Overview
 
-frame: 038_00-08-40.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:08:40](https://drive.google.com/file/d/1abWWyzwA1C4FZGIp3rPpX5ACpQBefUEC/view?usp=drivesdk) · `038_00-08-40.png`
 
 *document*
 
@@ -283,7 +283,7 @@ Detailed document text and definitions for Stages 1, 2, and 3; historical contex
 
 ## [00:08:50] New Information Prompt Document - Delivery Specification
 
-frame: 038_00-08-50.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:08:50](https://drive.google.com/file/d/1d2K5wlvGlV7dQM5I2Dv2vEgOjw4RNorj/view?usp=drivesdk) · `038_00-08-50.png`
 
 *document*
 
@@ -308,7 +308,7 @@ Exact wording for the Delivery specifications and formatting instructions in the
 
 ## [00:08:55] New Information Prompt Document - Prompt Instructions
 
-frame: 038_00-08-55.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:08:55](https://drive.google.com/file/d/1uZ4WdnwXR4syBSQi5VPT-6lGwHagP3Vy/view?usp=drivesdk) · `038_00-08-55.png`
 
 *document*
 
@@ -339,7 +339,7 @@ Exact full prompt text under Situation, Task, Objective, and Knowledge headers.
 
 ## [00:10:45] Claude Output - MT1 Melatonin Breakthrough Findings
 
-frame: 038_00-10-45.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:10:45](https://drive.google.com/file/d/1rgVqfL1uasWbNSB4anwqyUhZ_MBkHaed/view?usp=drivesdk) · `038_00-10-45.png`
 
 *software demo*
 
@@ -369,7 +369,7 @@ Full text of hook samples 2 and 3, citation dates (July 17, 2024 / September 23,
 
 ## [00:13:55] Claude Output - Light Pollution Alzheimer's Risk Findings
 
-frame: 038_00-13-55.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:13:55](https://drive.google.com/file/d/1MVD26gjyxWVvSdoYI1_bECtUQf4xFOV5/view?usp=drivesdk) · `038_00-13-55.png`
 
 *software demo*
 
@@ -396,7 +396,7 @@ Exact mechanism details (acetylcholine neurotransmitter), source names, and full
 
 ## [00:17:00] Drafting Prompt to Claude to Tone Down Headline Fearmongering
 
-frame: 038_00-17-00.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:17:00](https://drive.google.com/file/d/1J5ghzy5eqaRLGUTmjlUV7ii9nCJupopc/view?usp=drivesdk) · `038_00-17-00.png`
 
 *software demo*
 
@@ -423,7 +423,7 @@ Typing in progress in prompt input box; specific text being entered and referenc
 
 ## [00:18:00] Claude Output with Corrected Low-Intensity Marketing Hooks
 
-frame: 038_00-18-00.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:18:00](https://drive.google.com/file/d/1Khi5NFXSUmjpLC1nd2M346U-LBEyDgsX/view?usp=drivesdk) · `038_00-18-00.png`
 
 *software demo*
 
@@ -449,7 +449,7 @@ Item 1 hooks: "Scientists discover how complete darkness activates specific slee
 
 ## [00:18:25] Claude Corrected Hooks for Children's Blue Light and Noise Pollution
 
-frame: 038_00-18-25.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:18:25](https://drive.google.com/file/d/1hM16scxIEmv6d4XLXZuuX9nyJvVlL03V/view?usp=drivesdk) · `038_00-18-25.png`
 
 *software demo*
 
@@ -471,7 +471,7 @@ Entire section 3 (Blue Light Sensitivity in Children hooks) and section 4 (Noise
 
 ## [00:20:55] New Information Prompt Document - Situation and Task Setup
 
-frame: 038_00-20-55.png (Drive: https://drive.google.com/file/d/1trab6ApE0igaL991j1pjeP8WJNtu1Ye_/view?usp=drivesdk)
+[frame 00:20:55](https://drive.google.com/file/d/1Lruofov-BRsD34av_HDPN6uvtJGx_c84/view?usp=drivesdk) · `038_00-20-55.png`
 
 *document*
 
